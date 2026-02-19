@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Guideline Podcast</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet" />
+  <style>
+:root {
+  --sand:#F5EFE6;--cream:#FAF8F4;--clay:#C4956A;--clay-light:#E8CBAE;
+  --sage:#8FAF8C;--dusty-blue:#8AA5B8;--dusty-rose:#C49AA0;
+  --terracotta:#C47A5A;--mushroom:#A89880;
+  --ink:#2D2820;--ink-mid:#6B5F52;--ink-light:#A89880;--white:#FFFFFF;
+  --font-display:'DM Serif Display',Georgia,serif;
+  --font-body:'DM Sans',system-ui,sans-serif;
+  --radius:16px;--radius-sm:10px;
+  --shadow:0 2px 16px rgba(45,40,32,.08);
+  --shadow-hover:0 6px 28px rgba(45,40,32,.14);
+  --transition:.22s ease;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--cream);color:var(--ink);font-family:var(--font-body);font-size:16px;line-height:1.6;min-height:100vh;display:flex;flex-direction:column}
+
+/* HEADER */
+header{background:var(--white);border-bottom:1px solid var(--clay-light);position:sticky;top:0;z-index:100;box-shadow:0 1px 8px rgba(45,40,32,.06)}
+.header-inner{max-width:940px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-icon{font-size:26px;color:var(--clay);line-height:1}
+.logo-title{font-family:var(--font-display);font-size:18px;color:var(--ink);letter-spacing:-.02em}
+.logo-sub{font-size:11px;color:var(--ink-light);font-weight:300;letter-spacing:.04em;text-transform:uppercase}
+.header-badge{background:var(--sand);color:var(--clay);font-size:11px;font-weight:500;padding:4px 10px;border-radius:99px;border:1px solid var(--clay-light)}
+
+/* BREADCRUMB */
+.breadcrumb{max-width:940px;margin:0 auto;padding:14px 24px 0;display:flex;align-items:center;gap:6px;font-size:12px;color:var(--ink-light);flex-wrap:wrap}
+.breadcrumb span{cursor:pointer;transition:color var(--transition)}
+.breadcrumb span:hover{color:var(--clay)}
+.breadcrumb span.active{color:var(--ink);font-weight:500;cursor:default}
+.breadcrumb .sep{color:var(--clay-light)}
+
+/* MAIN */
+main{flex:1;max-width:940px;margin:0 auto;width:100%;padding:28px 24px 60px}
+.step{display:none;animation:fadeUp .3s ease both}
+.step.active{display:block}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+
+/* STEP HEADER */
+.step-header{margin-bottom:28px}
+.step-eyebrow{font-size:11px;font-weight:500;color:var(--clay);letter-spacing:.12em;text-transform:uppercase;margin-bottom:6px}
+.step-header h1{font-family:var(--font-display);font-size:clamp(24px,4.5vw,36px);color:var(--ink);letter-spacing:-.03em;line-height:1.1;margin-bottom:8px}
+.step-header p{color:var(--ink-mid);font-size:14px;font-weight:300}
+
+/* CATEGORY GRID */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.cat-card{background:var(--white);border:1.5px solid transparent;border-radius:var(--radius);padding:26px 22px 20px;cursor:pointer;transition:all var(--transition);box-shadow:var(--shadow);display:flex;flex-direction:column;gap:8px;position:relative;overflow:hidden}
+.cat-card::after{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--card-color,var(--clay));border-radius:var(--radius) var(--radius) 0 0;opacity:0;transition:opacity var(--transition)}
+.cat-card:hover{box-shadow:var(--shadow-hover);transform:translateY(-2px);border-color:color-mix(in srgb,var(--card-color) 30%,transparent)}
+.cat-card:hover::after{opacity:1}
+.cat-card.locked{opacity:.42;cursor:not-allowed;filter:grayscale(.25)}
+.cat-icon{font-size:30px;line-height:1;margin-bottom:4px}
+.cat-name{font-family:var(--font-display);font-size:16px;color:var(--ink);line-height:1.2;letter-spacing:-.01em}
+.cat-desc{font-size:12px;color:var(--ink-light);font-weight:300;line-height:1.4}
+.cat-status{font-size:10px;font-weight:500;letter-spacing:.07em;text-transform:uppercase;color:var(--card-color,var(--clay));margin-top:auto;padding-top:6px}
+.cat-card.locked .cat-status{color:var(--ink-light)}
+
+/* GUIDELINE LIST */
+.gl-list{display:flex;flex-direction:column;gap:10px}
+.gl-item{background:var(--white);border-radius:var(--radius-sm);padding:18px 22px;cursor:pointer;display:flex;align-items:center;gap:16px;box-shadow:var(--shadow);border:1.5px solid transparent;transition:all var(--transition)}
+.gl-item:hover{border-color:color-mix(in srgb,var(--cat-color,var(--clay)) 35%,transparent);transform:translateX(4px);box-shadow:var(--shadow-hover)}
+.gl-item.locked{opacity:.42;cursor:not-allowed}
+.gl-item.locked:hover{transform:none;box-shadow:var(--shadow);border-color:transparent}
+.gl-icon-wrap{width:40px;height:40px;border-radius:10px;background:var(--sand);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+.gl-info{flex:1;min-width:0}
+.gl-name{font-weight:500;font-size:15px;color:var(--ink);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.gl-badge{font-size:10px;font-weight:600;letter-spacing:.06em;padding:2px 7px;border-radius:99px;background:var(--sand);color:var(--clay);border:1px solid var(--clay-light);white-space:nowrap}
+.gl-desc{font-size:12px;color:var(--ink-light);margin-top:2px}
+.gl-count{font-size:12px;color:var(--ink-light);white-space:nowrap}
+.gl-arrow{color:var(--ink-light);font-size:18px;transition:transform var(--transition);flex-shrink:0}
+.gl-item:hover .gl-arrow{transform:translateX(3px);color:var(--clay)}
+
+/* CHAPTER LIST */
+.ch-list{display:flex;flex-direction:column;gap:8px}
+.ch-item{background:var(--white);border-radius:var(--radius-sm);padding:16px 20px;cursor:pointer;display:flex;align-items:center;gap:14px;box-shadow:var(--shadow);border:1.5px solid transparent;transition:all var(--transition)}
+.ch-item:hover{border-color:var(--clay-light);transform:translateX(4px);box-shadow:var(--shadow-hover)}
+.ch-num{width:32px;height:32px;border-radius:50%;background:var(--sand);color:var(--clay);font-size:12px;font-weight:600;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.ch-num.overview{background:color-mix(in srgb,var(--clay) 12%,white);font-size:16px}
+.ch-info{flex:1}
+.ch-name{font-weight:500;font-size:14px;color:var(--ink)}
+.ch-duration{font-size:11px;color:var(--ink-light);margin-top:2px}
+.ch-arrow{color:var(--ink-light);font-size:16px;transition:transform var(--transition)}
+.ch-item:hover .ch-arrow{transform:translateX(3px);color:var(--clay)}
+
+/* TABS */
+.tab-bar{display:flex;gap:5px;margin-bottom:22px;background:var(--sand);padding:4px;border-radius:var(--radius-sm);width:fit-content}
+.tab-btn{background:none;border:none;padding:8px 18px;border-radius:7px;font-family:var(--font-body);font-size:13px;font-weight:500;color:var(--ink-mid);cursor:pointer;transition:all var(--transition)}
+.tab-btn.active{background:var(--white);color:var(--ink);box-shadow:0 1px 6px rgba(45,40,32,.1)}
+.tab-content{display:none;animation:fadeUp .2s ease both}
+.tab-content.active{display:block}
+
+/* PLAYER */
+.player-card{background:var(--white);border-radius:var(--radius);padding:32px;box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;gap:20px;max-width:520px}
+.player-art{width:110px;height:110px;border-radius:50%;background:linear-gradient(135deg,var(--clay-light),var(--sand));display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(196,149,106,.3)}
+.player-art-inner{font-size:38px;color:var(--clay);animation:spin 14s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.player-info{text-align:center}
+.player-chapter-name{font-family:var(--font-display);font-size:19px;color:var(--ink);letter-spacing:-.02em}
+.player-guideline-name{font-size:13px;color:var(--ink-light);margin-top:4px}
+audio{width:100%;max-width:400px;accent-color:var(--clay)}
+.player-tip{font-size:12px;color:var(--ink-light);text-align:center;font-weight:300;max-width:340px}
+
+/* SCHAUBILD */
+.sb-card{background:var(--white);border-radius:var(--radius);padding:32px;box-shadow:var(--shadow);min-height:280px;display:flex;align-items:center;justify-content:center}
+#sb-container img{max-width:100%;border-radius:var(--radius-sm)}
+.placeholder-text{color:var(--ink-light);font-size:14px;text-align:center;font-weight:300}
+
+/* QUIZ */
+.quiz-wrap{max-width:660px}
+.qz-meta{font-size:11px;color:var(--ink-light);margin-bottom:6px;letter-spacing:.04em;text-transform:uppercase}
+.qz-bar{height:3px;background:var(--sand);border-radius:3px;margin-bottom:24px;overflow:hidden}
+.qz-fill{height:100%;background:var(--clay);border-radius:3px;transition:width .4s ease}
+.qz-q{font-family:var(--font-display);font-size:19px;color:var(--ink);line-height:1.35;margin-bottom:22px;letter-spacing:-.01em}
+.qz-opts{display:flex;flex-direction:column;gap:9px}
+.qz-opt{background:var(--white);border:1.5px solid var(--clay-light);border-radius:var(--radius-sm);padding:13px 16px;cursor:pointer;font-family:var(--font-body);font-size:14px;color:var(--ink);text-align:left;transition:all var(--transition);display:flex;align-items:center;gap:11px}
+.qz-letter{width:26px;height:26px;border-radius:50%;background:var(--sand);color:var(--clay);font-size:11px;font-weight:600;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all var(--transition)}
+.qz-opt:hover:not(:disabled){border-color:var(--clay);background:var(--sand)}
+.qz-opt:hover:not(:disabled) .qz-letter{background:var(--clay);color:var(--white)}
+.qz-opt.correct{border-color:var(--sage);background:#f0f7ef}
+.qz-opt.correct .qz-letter{background:var(--sage);color:var(--white)}
+.qz-opt.wrong{border-color:var(--dusty-rose);background:#f9f0f1}
+.qz-opt.wrong .qz-letter{background:var(--dusty-rose);color:var(--white)}
+.qz-opt:disabled{cursor:not-allowed}
+.qz-fb{margin-top:14px;padding:13px 16px;border-radius:var(--radius-sm);font-size:13px;line-height:1.5;display:none}
+.qz-fb.show{display:block;animation:fadeUp .2s ease}
+.qz-fb.ok{background:#f0f7ef;color:#4a7a47;border-left:3px solid var(--sage)}
+.qz-fb.err{background:#f9f0f1;color:#8a5055;border-left:3px solid var(--dusty-rose)}
+.qz-next{margin-top:18px;background:var(--clay);color:var(--white);border:none;border-radius:var(--radius-sm);padding:11px 26px;font-family:var(--font-body);font-size:13px;font-weight:500;cursor:pointer;transition:background var(--transition);display:none}
+.qz-next.show{display:inline-flex}
+.qz-next:hover{background:var(--terracotta)}
+.qz-result{text-align:center;padding:36px 20px}
+.qz-score{font-family:var(--font-display);font-size:52px;color:var(--clay);line-height:1;margin-bottom:8px}
+.qz-msg{font-size:17px;color:var(--ink);margin-bottom:6px}
+.qz-sub{font-size:13px;color:var(--ink-light);margin-bottom:24px}
+.qz-restart{background:var(--sand);color:var(--ink);border:1.5px solid var(--clay-light);border-radius:var(--radius-sm);padding:10px 22px;font-family:var(--font-body);font-size:13px;font-weight:500;cursor:pointer;transition:all var(--transition)}
+.qz-restart:hover{background:var(--clay);color:var(--white);border-color:var(--clay)}
+
+/* FOOTER */
+footer{background:var(--sand);border-top:1px solid var(--clay-light);padding:14px 24px}
+.footer-inner{max-width:940px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;font-size:11px;color:var(--ink-light)}
+
+/* RESPONSIVE */
+@media(max-width:600px){
+  .cat-grid{grid-template-columns:1fr 1fr}
+  .player-card{padding:22px 16px}
+  .tab-bar{width:100%}
+  .tab-btn{flex:1;text-align:center;padding:8px 10px}
+}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-icon">◎</span>
+      <div>
+        <div class="logo-title">The Guideline Podcast</div>
+        <div class="logo-sub">Urologie · Fortbildung · S3-Leitlinien</div>
+      </div>
+    </div>
+    <span class="header-badge">MVP · Beta</span>
+  </div>
+</header>
+
+<!-- BREADCRUMB -->
+<div class="breadcrumb" id="breadcrumb"></div>
+
+<main id="app">
+
+  <!-- STEP 1: KATEGORIEN -->
+  <section id="step-cat" class="step active">
+    <div class="step-header">
+      <div class="step-eyebrow">Schritt 01</div>
+      <h1>Thema wählen</h1>
+      <p>Wähle einen urologischen Themenschwerpunkt</p>
+    </div>
+    <div class="cat-grid" id="cat-grid"></div>
+  </section>
+
+  <!-- STEP 2: GUIDELINES -->
+  <section id="step-gl" class="step">
+    <div class="step-header">
+      <div class="step-eyebrow">Schritt 02</div>
+      <h1 id="gl-title">Guideline wählen</h1>
+      <p id="gl-sub"></p>
+    </div>
+    <div class="gl-list" id="gl-list"></div>
+  </section>
+
+  <!-- STEP 3: KAPITEL -->
+  <section id="step-ch" class="step">
+    <div class="step-header">
+      <div class="step-eyebrow">Schritt 03</div>
+      <h1 id="ch-title">Kapitel wählen</h1>
+      <p id="ch-sub"></p>
+    </div>
+    <div class="ch-list" id="ch-list"></div>
+  </section>
+
+  <!-- STEP 4: PLAYER -->
+  <section id="step-player" class="step">
+    <div class="step-header">
+      <div class="step-eyebrow">Schritt 04</div>
+      <h1 id="pl-title">Inhalt</h1>
+      <p id="pl-sub"></p>
+    </div>
+    <div class="tab-bar">
+      <button class="tab-btn active" onclick="switchTab('podcast')">🎙 Podcast</button>
+      <button class="tab-btn" onclick="switchTab('schaubild')">🖼 Schaubild</button>
+      <button class="tab-btn" onclick="switchTab('quiz')">🧠 Quiz</button>
+    </div>
+    <div id="tab-podcast" class="tab-content active">
+      <div class="player-card">
+        <div class="player-art"><div class="player-art-inner">◎</div></div>
+        <div class="player-info">
+          <div class="player-chapter-name" id="pl-ch-name"></div>
+          <div class="player-guideline-name" id="pl-gl-name"></div>
+        </div>
+        <audio id="audio-player" controls preload="metadata"></audio>
+        <div class="player-tip">💡 Du kannst gleichzeitig das Schaubild öffnen oder das Quiz machen.</div>
+      </div>
+    </div>
+    <div id="tab-schaubild" class="tab-content">
+      <div class="sb-card">
+        <div id="sb-container"></div>
+        <p id="sb-placeholder" class="placeholder-text">Für dieses Kapitel ist noch kein Schaubild verfügbar.</p>
+      </div>
+    </div>
+    <div id="tab-quiz" class="tab-content">
+      <div class="quiz-wrap" id="quiz-wrap"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span>The Guideline Podcast · Für Assistenzärzte Urologie</span>
+    <span>Kein Ersatz für klinisches Urteil · Basierend auf S3-Leitlinien</span>
+  </div>
+</footer>
+
+<script>
+// ──────────────────────────────────────────────
+//  CONTENT DATA
+// ──────────────────────────────────────────────
+const CONTENT = {
+  categories: [
+    {
+      id:"onkologie", name:"Onkologische Urologie", icon:"🔬", color:"#C47A5A",
+      available:true, description:"S3-Leitlinien zu urologischen Tumorerkrankungen",
+      guidelines:[
+        {
+          id:"prostatakarzinom", name:"Prostatakarzinom", badge:"S3", available:true,
+          description:"S3-Leitlinie Prostatakarzinom",
+          chapters:[
+            { id:"pca-0", name:"Übersicht", duration:"ca. 8 min", audioUrl:"", schaubildUrl:null, quiz:[] },
+            { id:"pca-1", name:"Kapitel 1 – Epidemiologie & Risikofaktoren", duration:"ca. 12 min", audioUrl:"", schaubildUrl:null,
+              quiz:[
+                { question:"Welche Aussage zur Epidemiologie des PCa ist korrekt?",
+                  options:["Das PCa ist die häufigste Krebserkrankung des Mannes in Deutschland","PCa tritt überwiegend bei Männern unter 50 auf","Inzidenz ist in Asien höher als Europa","Familiäre Häufung ist nicht bekannt"],
+                  correct:0, explanation:"Das Prostatakarzinom ist die häufigste Krebserkrankung des Mannes in Deutschland. Altersgipfel nach dem 65. Lebensjahr. Westliche Länder zeigen höhere Inzidenz als Asien." },
+                { question:"Welche Genmutation erhöht das PCa-Risiko am stärksten?",
+                  options:["BRCA1","BRCA2","APC","MLH1"],
+                  correct:1, explanation:"BRCA2-Mutationen erhöhen das PCa-Risiko signifikant (RR ~3,5–8,6) und führen zu aggressiveren Verläufen." }
+              ]
+            },
+            { id:"pca-2", name:"Kapitel 2 – Diagnostik & Staging", duration:"ca. 18 min", audioUrl:"", schaubildUrl:null,
+              quiz:[
+                { question:"Welche Bildgebung wird für das lokale PCa-Staging bevorzugt?",
+                  options:["TRUS","CT","Multiparametrisches MRT (mpMRT)","PET-CT PSMA"],
+                  correct:2, explanation:"Das mpMRT ist Standard für das lokale Staging (pre-biopsy MRI). PI-RADS-Score ermöglicht strukturierte Risikoeinschätzung." }
+              ]
+            },
+            { id:"pca-3", name:"Kapitel 3 – Lokale Therapie", duration:"ca. 22 min", audioUrl:"", schaubildUrl:null, quiz:[] }
+          ]
+        },
+        { id:"harnblasenkarzinom", name:"Harnblasenkarzinom", badge:"S3", available:false,
+          description:"S3-Leitlinie Harnblasenkarzinom",
+          chapters:[
+            {id:"hbk-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},
+            {id:"hbk-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},
+            {id:"hbk-2",name:"Kapitel 2",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}
+          ]
+        },
+        { id:"nierenzellkarzinom", name:"Nierenzellkarzinom", badge:"S3", available:false,
+          description:"S3-Leitlinie Nierenzellkarzinom",
+          chapters:[
+            {id:"nzk-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},
+            {id:"nzk-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}
+          ]
+        },
+        { id:"peniskarzinom", name:"Peniskarzinom", badge:"S3", available:false,
+          description:"S3-Leitlinie Peniskarzinom",
+          chapters:[
+            {id:"pen-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},
+            {id:"pen-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}
+          ]
+        },
+        { id:"hodentumoren", name:"Hodentumoren", badge:"S3", available:false,
+          description:"S3-Leitlinie Hodentumoren",
+          chapters:[
+            {id:"hod-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},
+            {id:"hod-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}
+          ]
+        }
+      ]
+    },
+    {
+      id:"benigne", name:"Benigne & Funktionelle Urologie", icon:"⚡", color:"#8AA5B8",
+      available:false, description:"Leitlinien zu benignen und funktionellen Erkrankungen",
+      guidelines:[
+        { id:"bps", name:"Benignes Prostatasyndrom", badge:"S2e", available:false, description:"S2e-Leitlinie BPS",
+          chapters:[{id:"bps-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"bps-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"inkontinenz", name:"Harninkontinenz", badge:"S2k", available:false, description:"S2k-Leitlinie Harninkontinenz",
+          chapters:[{id:"ink-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"ink-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"neurogene-blase", name:"Neurogene Blasenfunktionsstörungen", badge:"", available:false, description:"Leitlinie Neurogene Blase",
+          chapters:[{id:"nb-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"nb-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"erektile-dysfunktion", name:"Erektile Dysfunktion", badge:"", available:false, description:"Leitlinie Erektile Dysfunktion",
+          chapters:[{id:"ed-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"ed-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        }
+      ]
+    },
+    {
+      id:"infektio", name:"Infektiologie & Andrologie", icon:"🦠", color:"#8FAF8C",
+      available:false, description:"Harnwegsinfekte, Entzündungen, männliche Fertilität",
+      guidelines:[
+        { id:"hwi", name:"Harnwegsinfektionen", badge:"S3", available:false, description:"S3-Leitlinie HWI",
+          chapters:[{id:"hwi-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"hwi-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"epididymitis", name:"Epididymitis", badge:"", available:false, description:"Leitlinie Epididymitis",
+          chapters:[{id:"epi-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"epi-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"prostatitis", name:"Prostatitis", badge:"", available:false, description:"Leitlinie Prostatitis",
+          chapters:[{id:"pr-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"pr-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"maennliche-infertilitaet", name:"Männliche Infertilität", badge:"", available:false, description:"Leitlinie Männliche Infertilität",
+          chapters:[{id:"inf-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"inf-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        }
+      ]
+    },
+    {
+      id:"kinderuro", name:"Kinderurologie", icon:"🧒", color:"#C49AA0",
+      available:false, description:"Leitlinien zu kinderurologischen Erkrankungen",
+      guidelines:[
+        { id:"hodenhochstand", name:"Hodenhochstand", badge:"", available:false, description:"Leitlinie Hodenhochstand",
+          chapters:[{id:"hh-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"hh-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        },
+        { id:"vur", name:"Vesikoureteraler Reflux", badge:"", available:false, description:"Leitlinie VUR",
+          chapters:[{id:"vur-0",name:"Übersicht",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]},{id:"vur-1",name:"Kapitel 1",duration:"",audioUrl:"",schaubildUrl:null,quiz:[]}]
+        }
+      ]
+    }
+  ]
+};
+
+// ──────────────────────────────────────────────
+//  STATE
+// ──────────────────────────────────────────────
+let state = { cat:null, gl:null, ch:null };
+let qz = { current:0, score:0, answered:false, questions:[] };
+
+// ──────────────────────────────────────────────
+//  INIT
+// ──────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  renderCategories();
+  updateBreadcrumb();
+});
+
+// ──────────────────────────────────────────────
+//  STEP 1 – KATEGORIEN
+// ──────────────────────────────────────────────
+function renderCategories() {
+  const g = document.getElementById('cat-grid');
+  g.innerHTML = '';
+  CONTENT.categories.forEach(cat => {
+    const c = document.createElement('div');
+    c.className = `cat-card ${cat.available ? '' : 'locked'}`;
+    c.style.setProperty('--card-color', cat.color);
+    const glCount = cat.guidelines.length;
+    c.innerHTML = `
+      <div class="cat-icon">${cat.icon}</div>
+      <div class="cat-name">${cat.name}</div>
+      <div class="cat-desc">${cat.description}</div>
+      <div class="cat-status">${cat.available ? glCount + ' Guidelines verfügbar' : 'Kommt bald'}</div>
+    `;
+    if (cat.available) c.onclick = () => selectCategory(cat);
+    g.appendChild(c);
+  });
+}
+
+function selectCategory(cat) {
+  state.cat = cat; state.gl = null; state.ch = null;
+  document.getElementById('gl-title').textContent = cat.name;
+  document.getElementById('gl-sub').textContent = cat.description;
+
+  const list = document.getElementById('gl-list');
+  list.innerHTML = '';
+  cat.guidelines.forEach(gl => {
+    const item = document.createElement('div');
+    item.className = `gl-item ${gl.available ? '' : 'locked'}`;
+    item.style.setProperty('--cat-color', cat.color);
+    const avail = gl.chapters.filter(c => c.audioUrl !== '' || c.quiz.length > 0).length;
+    item.innerHTML = `
+      <div class="gl-icon-wrap">${cat.icon}</div>
+      <div class="gl-info">
+        <div class="gl-name">
+          ${gl.name}
+          ${gl.badge ? `<span class="gl-badge">${gl.badge}</span>` : ''}
+        </div>
+        <div class="gl-desc">${gl.description}</div>
+      </div>
+      <div class="gl-count">${gl.available ? gl.chapters.length + ' Kapitel' : 'Kommt bald'}</div>
+      ${gl.available ? '<div class="gl-arrow">→</div>' : ''}
+    `;
+    if (gl.available) item.onclick = () => selectGuideline(gl);
+    list.appendChild(item);
+  });
+
+  goTo('step-gl');
+  updateBreadcrumb();
+}
+
+// ──────────────────────────────────────────────
+//  STEP 2 – GUIDELINES
+// ──────────────────────────────────────────────
+function selectGuideline(gl) {
+  state.gl = gl; state.ch = null;
+  document.getElementById('ch-title').textContent = gl.name;
+  document.getElementById('ch-sub').textContent = gl.description;
+
+  const list = document.getElementById('ch-list');
+  list.innerHTML = '';
+  gl.chapters.forEach((ch, i) => {
+    const item = document.createElement('div');
+    item.className = 'ch-item';
+    const isOverview = i === 0;
+    item.innerHTML = `
+      <div class="ch-num ${isOverview ? 'overview' : ''}">${isOverview ? '◎' : i}</div>
+      <div class="ch-info">
+        <div class="ch-name">${ch.name}</div>
+        ${ch.duration ? `<div class="ch-duration">${ch.duration}</div>` : ''}
+      </div>
+      <div class="ch-arrow">→</div>
+    `;
+    item.onclick = () => selectChapter(ch);
+    list.appendChild(item);
+  });
+
+  goTo('step-ch');
+  updateBreadcrumb();
+}
+
+// ──────────────────────────────────────────────
+//  STEP 3 – KAPITEL → PLAYER
+// ──────────────────────────────────────────────
+function selectChapter(ch) {
+  state.ch = ch;
+  document.getElementById('pl-title').textContent = ch.name;
+  document.getElementById('pl-sub').textContent = state.gl.name;
+  document.getElementById('pl-ch-name').textContent = ch.name;
+  document.getElementById('pl-gl-name').textContent = state.gl.name + (state.gl.badge ? ' · ' + state.gl.badge : '');
+
+  // Audio
+  const audio = document.getElementById('audio-player');
+  if (ch.audioUrl) { audio.src = ch.audioUrl; }
+  else { audio.removeAttribute('src'); audio.load(); }
+
+  // Schaubild
+  const sbc = document.getElementById('sb-container');
+  const sbp = document.getElementById('sb-placeholder');
+  sbc.innerHTML = '';
+  if (ch.schaubildUrl) {
+    sbp.style.display = 'none';
+    sbc.innerHTML = ch.schaubildUrl.endsWith('.pdf')
+      ? `<iframe src="${ch.schaubildUrl}" style="width:100%;height:70vh;border:none;border-radius:10px"></iframe>`
+      : `<img src="${ch.schaubildUrl}" alt="Schaubild" />`;
+  } else { sbp.style.display = 'block'; }
+
+  loadQuiz(ch.quiz || []);
+  switchTab('podcast');
+  goTo('step-player');
+  updateBreadcrumb();
+}
+
+// ──────────────────────────────────────────────
+//  QUIZ
+// ──────────────────────────────────────────────
+function loadQuiz(questions) {
+  qz = { current:0, score:0, answered:false, questions };
+  renderQzQuestion();
+}
+
+function renderQzQuestion() {
+  const c = document.getElementById('quiz-wrap');
+  const { questions, current } = qz;
+  if (!questions.length) { c.innerHTML = '<p class="placeholder-text">Für dieses Kapitel ist noch kein Quiz verfügbar.</p>'; return; }
+  if (current >= questions.length) { renderQzResult(); return; }
+  const q = questions[current];
+  const L = ['A','B','C','D'];
+  const pct = Math.round(current / questions.length * 100);
+  c.innerHTML = `
+    <div class="qz-meta">Frage ${current+1} von ${questions.length}</div>
+    <div class="qz-bar"><div class="qz-fill" style="width:${pct}%"></div></div>
+    <div class="qz-q">${q.question}</div>
+    <div class="qz-opts">
+      ${q.options.map((o,i) => `
+        <button class="qz-opt" onclick="answerQz(${i})" id="qo-${i}">
+          <span class="qz-letter">${L[i]}</span>${o}
+        </button>`).join('')}
+    </div>
+    <div class="qz-fb" id="qfb"></div>
+    <button class="qz-next" id="qnext" onclick="nextQz()">
+      ${current+1 < questions.length ? 'Nächste Frage →' : 'Ergebnis →'}
+    </button>
+  `;
+}
+
+function answerQz(sel) {
+  if (qz.answered) return; qz.answered = true;
+  const q = qz.questions[qz.current];
+  const ok = sel === q.correct;
+  if (ok) qz.score++;
+  document.querySelectorAll('.qz-opt').forEach((b,i) => {
+    b.disabled = true;
+    if (i === q.correct) b.classList.add('correct');
+    if (i === sel && !ok) b.classList.add('wrong');
+  });
+  const fb = document.getElementById('qfb');
+  fb.textContent = q.explanation;
+  fb.className = `qz-fb show ${ok ? 'ok' : 'err'}`;
+  document.getElementById('qnext').classList.add('show');
+}
+
+function nextQz() { qz.current++; qz.answered = false; renderQzQuestion(); }
+
+function renderQzResult() {
+  const { score, questions } = qz;
+  const pct = Math.round(score / questions.length * 100);
+  const msg = pct >= 80 ? 'Ausgezeichnet! 🎉' : pct >= 60 ? 'Gut gemacht!' : 'Weiter üben!';
+  const sub = pct >= 80 ? 'Top-Verständnis der Leitlinie.' : pct >= 60 ? 'Einige Aspekte vertiefen.' : 'Kapitel nochmal anhören.';
+  document.getElementById('quiz-wrap').innerHTML = `
+    <div class="qz-result">
+      <div class="qz-score">${pct}%</div>
+      <div class="qz-msg">${msg}</div>
+      <div class="qz-sub">${score} von ${questions.length} richtig · ${sub}</div>
+      <button class="qz-restart" onclick="loadQuiz(qz.questions)">Quiz wiederholen</button>
+    </div>`;
+}
+
+// ──────────────────────────────────────────────
+//  NAVIGATION
+// ──────────────────────────────────────────────
+function switchTab(t) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  document.querySelector(`[onclick="switchTab('${t}')"]`).classList.add('active');
+  document.getElementById(`tab-${t}`).classList.add('active');
+}
+
+function goTo(id) {
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ──────────────────────────────────────────────
+//  BREADCRUMB
+// ──────────────────────────────────────────────
+function updateBreadcrumb() {
+  const bc = document.getElementById('breadcrumb');
+  const parts = [];
+
+  parts.push({ label: 'Themen', action: () => { state.cat=null;state.gl=null;state.ch=null; goTo('step-cat'); updateBreadcrumb(); }, active: !state.cat });
+  if (state.cat) parts.push({ label: state.cat.name, action: () => { state.gl=null;state.ch=null; selectCategory(state.cat); }, active: !state.gl });
+  if (state.gl)  parts.push({ label: state.gl.name,  action: () => { state.ch=null; selectGuideline(state.gl); }, active: !state.ch });
+  if (state.ch)  parts.push({ label: state.ch.name,  action: null, active: true });
+
+  bc.innerHTML = parts.map((p, i) => {
+    const sep = i > 0 ? '<span class="sep">›</span>' : '';
+    return `${sep}<span class="${p.active ? 'active' : ''}" onclick="${p.action && !p.active ? `(${p.action.toString()})()` : ''}">${p.label}</span>`;
+  }).join('');
+
+  // rebuild with proper event listeners
+  bc.innerHTML = '';
+  parts.forEach((p, i) => {
+    if (i > 0) {
+      const sep = document.createElement('span');
+      sep.className = 'sep'; sep.textContent = '›';
+      bc.appendChild(sep);
+    }
+    const s = document.createElement('span');
+    s.textContent = p.label;
+    if (p.active) s.className = 'active';
+    if (p.action && !p.active) s.onclick = p.action;
+    bc.appendChild(s);
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Guideline Podcast</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">◎</span>
+        <div>
+          <div class="logo-title">The Guideline Podcast</div>
+          <div class="logo-sub">Urologie · Fortbildung · AWMF Guidelines</div>
+        </div>
+      </div>
+      <nav class="header-nav">
+        <span class="badge">Beta-Version · Christina Meisl · GeSRU</span>
+      </nav>
+    </div>
+  </header>
+
+  <!-- MAIN APP -->
+  <main id="app">
+
+    <!-- STEP 1: KATEGORIE -->
+    <section id="step-category" class="step active">
+      <div class="step-header">
+        <div class="step-number">01</div>
+        <h1>Kategorie wählen</h1>
+        <p>Wähle einen urologischen Themenschwerpunkt</p>
+      </div>
+      <div class="card-grid" id="category-grid"></div>
+    </section>
+
+    <!-- STEP 2: GUIDELINE -->
+    <section id="step-guideline" class="step">
+      <div class="step-header">
+        <button class="back-btn" onclick="goBack('step-category')">← Zurück</button>
+        <div class="step-number">02</div>
+        <h1 id="guideline-title">Guideline wählen</h1>
+        <p id="guideline-subtitle"></p>
+      </div>
+      <div class="card-grid" id="guideline-grid"></div>
+    </section>
+
+    <!-- STEP 3: KAPITEL -->
+    <section id="step-chapter" class="step">
+      <div class="step-header">
+        <button class="back-btn" onclick="goBack('step-guideline')">← Zurück</button>
+        <div class="step-number">03</div>
+        <h1 id="chapter-title">Kapitel wählen</h1>
+        <p id="chapter-subtitle"></p>
+      </div>
+      <div class="chapter-list" id="chapter-list"></div>
+    </section>
+
+    <!-- STEP 4: PLAYER + CONTENT -->
+    <section id="step-player" class="step">
+      <div class="step-header">
+        <button class="back-btn" onclick="goBack('step-chapter')">← Zurück</button>
+        <div class="step-number">04</div>
+        <h1 id="player-title">Lade...</h1>
+        <p id="player-subtitle"></p>
+      </div>
+
+      <!-- TABS -->
+      <div class="tab-bar">
+        <button class="tab-btn active" onclick="switchTab('podcast')">🎙 Podcast</button>
+        <button class="tab-btn" onclick="switchTab('schaubild')">🖼 Schaubild</button>
+        <button class="tab-btn" onclick="switchTab('quiz')">🧠 Quiz</button>
+      </div>
+
+      <!-- TAB: PODCAST -->
+      <div id="tab-podcast" class="tab-content active">
+        <div class="player-card">
+          <div class="player-art">
+            <div class="player-art-inner">◎</div>
+          </div>
+          <div class="player-info">
+            <div class="player-chapter-name" id="player-chapter-name"></div>
+            <div class="player-guideline-name" id="player-guideline-name"></div>
+          </div>
+          <audio id="audio-player" controls preload="metadata">
+            Dein Browser unterstützt kein Audio.
+          </audio>
+          <div class="player-note">
+            💡 Tipp: Du kannst gleichzeitig das Schaubild öffnen oder das Quiz machen.
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB: SCHAUBILD -->
+      <div id="tab-schaubild" class="tab-content">
+        <div class="schaubild-card">
+          <div id="schaubild-container"></div>
+          <p id="schaubild-placeholder" class="placeholder-text">Für dieses Kapitel ist noch kein Schaubild verfügbar.</p>
+        </div>
+      </div>
+
+      <!-- TAB: QUIZ -->
+      <div id="tab-quiz" class="tab-content">
+        <div class="quiz-card" id="quiz-container">
+          <!-- wird per JS befüllt -->
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <span>The Guideline Podcast · Für ÄrztInnen in Weiterbildung im Fach Urologie</span>
+      <span>Basierend auf AWMF Guidelines · Kein Ersatz für klinisches Urteil</span>
+    </div>
+  </footer>
+
+  <script src="data/content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
