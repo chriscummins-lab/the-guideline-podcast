@@ -2,7 +2,7 @@
 //  THE GUIDELINE PODCAST — CONTENT DATA
 // ============================================================
 
-const BASE_AUDIO= "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/01-uroonko/S3_PCA/";
+const BASE_AUDIO = "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/01-uroonko/S3_PCA/";
 const BASE_GRAPH = "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/01-uroonko/S3_PCA/";
 
 const CONTENT = {
@@ -33,16 +33,18 @@ const CONTENT = {
             {
               id: "pca-0",
               name: "Neuerungen in der S3-Leitlinie",
+              group: "Kapitel 0–2 – Über die Leitlinie",
+              num: "0",
               duration: "ca. 15 min",
-              audioUrl: BASE_AUDIO+ "Pod_S3_GL_PCA_Kap_0_Neuerungen.mp3",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_0_Neuerungen.mp3",
               schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 0 Neuerungen.png",
               quiz: [
                 {
                   question: "Was ist die wesentliche Neuerung in Kapitel 4.1 bezüglich der Früherkennung des Prostatakarzinoms in der Version 8.1 der S3-Leitlinie?",
                   options: ["Die DRU ist nur noch bei Patienten mit familiärer Vorbelastung obligatorisch.", "Männer sollen bereits ab dem 40. Lebensjahr routinemäßig eine DRU erhalten.", "Die DRU wird erst ab einem PSA-Wert von >4 ng/ml empfohlen.", "Die digital-rektale Untersuchung (DRU) soll nicht mehr zur Früherkennung eingesetzt werden."],
-                  correct: 4,
+                  correct: 3,
                   tip: "Überlegen Sie, welches klassische Untersuchungsinstrument in der Primärprävention aufgrund geringer Detektionsraten gestrichen wurde.",
-                  explanation: "Gemäß Empfehlung 4.4 führt ein PSA-Wert von ≤1,5 ng/ml zu einer Einordnung in die Niedrigrisikogruppe mit 5-jährlichen Kontrollen."
+                  explanation: "Die DRU soll nicht mehr zur Früherkennung eingesetzt werden, da sie dem PSA-Test bei der Detektion deutlich unterlegen ist (PROBASE-Studie)."
                 },
                 {
                   question: "Welches risikoadaptierte Intervall wird laut den Neuerungen für die Früherkennung empfohlen, wenn der PSA-Wert ≤1,5 ng/ml beträgt?",
@@ -88,20 +90,20 @@ const CONTENT = {
                 },
                 {
                   question: "Welche Therapieoption wurde in Kapitel 7.2 neu für Patienten mit einem High-risk biochemischen Rezidiv ergänzt?",
-                  options: ["Lutetium (", "Enzalutamid ± Androgendeprivationstherapie.", "Ausschließlich Bestrahlung der Beckenlymphknoten.", "Radikale Salvage-Prostatektomie als Standardtherapie."],
+                  options: ["Lutetium (¹⁷⁷Lu) Vipivotidtetraxetan.", "Enzalutamid ± Androgendeprivationstherapie.", "Ausschließlich Bestrahlung der Beckenlymphknoten.", "Radikale Salvage-Prostatektomie als Standardtherapie."],
                   correct: 1,
                   tip: "Diese Empfehlung basiert auf der EMBARK-Studie und nutzt einen modernen Androgenrezeptor-Signalweg-Inhibitor.",
                   explanation: "Basierend auf der EMBARK-Studie wurde die Option Enzalutamid (als Mono- oder Kombinationstherapie) in Empfehlung 7.11 aufgenommen."
                 },
                 {
-                  question: "Für welche Patientengruppe wird Lutetium ( ^177 Lu) Vipivotidtetraxetan in der neuen Leitlinienversion als Therapieoption ausgewiesen?",
+                  question: "Für welche Patientengruppe wird Lutetium (¹⁷⁷Lu) Vipivotidtetraxetan in der neuen Leitlinienversion als Therapieoption ausgewiesen?",
                   options: ["Patienten mit neu diagnostiziertem oligometastasiertem Prostatakarzinom.", "Männer mit nachgewiesener BRCA2-Mutation im Stadium des PSA-Rezidivs.", "Patienten mit hormonsensitivem Prostatakarzinom (mHSPC) und hohem Volumen.", "Patienten mit mCRPC nach ARPI-Therapie, die keine Chemotherapie erhalten können."],
                   correct: 3,
                   tip: "Es handelt sich um eine Dritt- oder Viertlinienoption im fortgeschrittenen, nicht mehr auf Hormonentzug ansprechenden Stadium.",
                   explanation: "Die neue Empfehlung 7.51 sieht Lutetium für mCRPC-Patienten vor, die bereits mit Abirateron oder einem ARPI behandelt wurden und nicht für Chemo geeignet sind."
                 },
                 {
-                 question: "Welche diagnostische Maßnahme wird im Rahmen einer Watchful Waiting-Strategie laut den neuen Empfehlungen (6.91) explizit nicht mehr routinemäßig empfohlen?",
+                  question: "Welche diagnostische Maßnahme wird im Rahmen einer Watchful Waiting-Strategie laut den neuen Empfehlungen (6.91) explizit nicht mehr routinemäßig empfohlen?",
                   options: ["Körperliche Untersuchungen zur Beurteilung der Gebrechlichkeit.", "Anlassfreie krebsspezifische Kontrolluntersuchungen wie PSA-Bestimmungen oder Bildgebung.", "Gespräche über die psychosoziale Situation des Patienten.", "Die Erhebung der gesundheitsbezogenen Lebensqualität."],
                   correct: 1,
                   tip: "Das Konzept unterscheidet sich von der Aktiven Überwachung dadurch, dass nicht mehr auf die Heilung oder die Überwachung des Tumorwachstums abgezielt wird.",
@@ -114,10 +116,13 @@ const CONTENT = {
             {
               id: "pca-1",
               name: "Kapitel 1 – Informationen zu dieser Leitlinie",
+              group: "Kapitel 0–2 – Über die Leitlinie",
+              num: "1",
               duration: "ca. 5 min",
-              audioUrl: BASE_AUDIO+ "Pod_S3_GL_PCA_Kap_1_Informationen_zu_dieser_Leitlinie.mp3",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_1_Informationen_zu_dieser_Leitlinie.mp3",
               schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 1 Informationen zu dieser Leitlinie.png",
-              quiz: [{
+              quiz: [
+                {
                   question: "Welche Institutionen bilden zusammen das Leitlinienprogramm Onkologie, das diese S3-Leitlinie herausgibt?",
                   options: ["Die Weltgesundheitsorganisation (WHO)", "Nur die Deutsche Gesellschaft für Urologie (DGU)", "Deutsche Krebsgesellschaft, Deutsche Krebshilfe und AWMF", "Das Bundesministerium für Gesundheit und das Robert Koch-Institut"],
                   correct: 2,
@@ -166,9 +171,11 @@ const CONTENT = {
             {
               id: "pca-2",
               name: "Kapitel 2 – Einführung",
+              group: "Kapitel 0–2 – Über die Leitlinie",
+              num: "2",
               duration: "ca. 10 min",
-              audioUrl: BASE_AUDIO+ "Pod_S3_GL_PCA_Kap_2_Einführung.mp3",
-              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 2 Einf\u00fchrung.png",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_2_Einführung.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 2 Einführung.png",
               quiz: [
                 {
                   question: "Welches primäre Ziel verfolgt die S3-Leitlinie in Bezug auf die langfristige Patientenversorgung?",
@@ -242,13 +249,16 @@ const CONTENT = {
                 },
               ]
             },
-             // ── KAPITEL 3 ──────────────────────────────────
+
+            // ── KAPITEL 3 ──────────────────────────────────
             {
               id: "pca-3",
               name: "Kapitel 3 – Epidemiologie, Risikofaktoren, Prävention",
+              group: "Kapitel 3–5 – Grundlagen & Diagnostik",
+              num: "3",
               duration: "ca. 6 min",
               audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_3_Epidemiologie,_Risikofaktoren,_Prävention_u.mp3",
-              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 3 Epidemiologie, Risikofaktoren, Pr\u00e4vention und Ern\u00e4hrung.png",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 3 Epidemiologie, Risikofaktoren, Prävention und Ernährung.png",
               quiz: [
                 {
                   question: "Welche Aussage zur Epidemiologie des Prostatakarzinoms in Deutschland basierend auf den Daten von 2016 ist korrekt?",
@@ -322,13 +332,16 @@ const CONTENT = {
                 },
               ]
             },
+
             // ── KAPITEL 4 ──────────────────────────────────
             {
               id: "pca-4",
               name: "Kapitel 4 – Früherkennung, Diagnostik und Stadieneinteilung",
-              duration: "ca. 12 min",
-              audioUrl: BASE_AUDIO+ "Pod_S3_GL_PCA_Kap_4_Früherkennung,_Diagnostik_und_Stadieneintei.mp3",
-              schaubildUrl: BASE_GRAPH + "Graph_Pod_S3_GL_PCA_Kap 4 Fr\u00fcherkennung, Diagnostik und Stadieneinteilung.png",
+              group: "Kapitel 3–5 – Grundlagen & Diagnostik",
+              num: "4",
+              duration: "ca. 13 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_4_Früherkennung,_Diagnostik_und_Stadieneintei.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_Pod_S3_GL_PCA_Kap 4 Früherkennung, Diagnostik und Stadieneinteilung.png",
               quiz: [
                 {
                   question: "Welche Empfehlung spricht die neue S3-Leitlinie (Version 8.1) bezüglich der digital-rektalen Untersuchung (DRU) im Rahmen der Früherkennung aus?",
@@ -401,6 +414,7 @@ const CONTENT = {
                   explanation: "Gemäß Empfehlung 4.43 soll erst ab diesem Stadium eine Ausbreitungsdiagnostik vor Therapiebeginn erfolgen."
                 },
                 {
+                  // ❓ PRÜFEN: "correct: 3" = Ganzkörper-MRT, die Erklärung spricht aber von der Kombination (Option 1)
                   question: "Welches bildgebende Verfahren wird laut Empfehlung 4.44 primär zur Ausbreitungsdiagnostik eingesetzt, wenn Risikofaktoren für Fernmetastasen vorliegen?",
                   options: ["PSMA-PET/CT", "Kombination aus Abdomen-CT und Knochenszintigraphie.", "Transrektaler Ultraschall (TRUS)", "Ganzkörper-MRT"],
                   correct: 3,
@@ -408,8 +422,163 @@ const CONTENT = {
                   explanation: "Die Kombination beider Verfahren erreicht eine sehr hohe Sensitivität von 97%, was den negativen prädiktiven Wert massiv verbessert."
                 },
               ]
-            }
+            },
 
+            // ── KAPITEL 5 ──────────────────────────────────
+            {
+              id: "pca-5",
+              name: "Kapitel 5 – Pathologie",
+              group: "Kapitel 3–5 – Grundlagen & Diagnostik",
+              num: "5",
+              duration: "ca. 23 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_5_Pathologie.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 5 Pathologie.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 6.1 ────────────────────────────────
+            {
+              id: "pca-6-1",
+              name: "Kapitel 6.1 – Niedriges Risiko: Warum weniger mehr ist",
+              group: "Kapitel 6 – Therapie des lokal begrenzten PCa",
+              num: "6.1",
+              duration: "ca. 21 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_6-1_Therapie_lok_PCA_LR.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 6.1 Therapie lok PCA LR.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 6.2 ────────────────────────────────
+            {
+              id: "pca-6-2",
+              name: "Kapitel 6.2 – Intermediäres Risiko: Die Qual der Wahl",
+              group: "Kapitel 6 – Therapie des lokal begrenzten PCa",
+              num: "6.2",
+              duration: "ca. 25 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_6-2_Therapie_lok_PCA_IR.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 6.2 Therapie lok PCA IR.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 6.3 ────────────────────────────────
+            {
+              id: "pca-6-3",
+              name: "Kapitel 6.3 – Hohes Risiko & lokal fortgeschritten: Volle Kraft voraus",
+              group: "Kapitel 6 – Therapie des lokal begrenzten PCa",
+              num: "6.3",
+              duration: "ca. 27 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_6-3_Therapie_lok_PCA_HR.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 6.3 Therapie lok PCA HR.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 6.4 ────────────────────────────────
+            {
+              id: "pca-6-4",
+              name: "Kapitel 6.4 – Fokale Therapien: Hoffnung oder Hype?",
+              group: "Kapitel 6 – Therapie des lokal begrenzten PCa",
+              num: "6.4",
+              duration: "ca. 20 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_6-4_Therapie_lok_PCA_Fokale_Therapien.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 6.4 Therapie lok PCA Fokale Therapien.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 7.1 ────────────────────────────────
+            {
+              id: "pca-7-1",
+              name: "Kapitel 7.1 – PSA-Rezidiv",
+              group: "Kapitel 7 – Therapie des fortgeschrittenen PCa",
+              num: "7.1",
+              duration: "ca. 25 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_7-1-Therapie_fortg_PCA-PSA_Rezidiv.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 7.1 Therapie fortg PCA PSA Rezidiv.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 7.2 ────────────────────────────────
+            {
+              id: "pca-7-2",
+              name: "Kapitel 7.2 – Hormonsensitives PCa",
+              group: "Kapitel 7 – Therapie des fortgeschrittenen PCa",
+              num: "7.2",
+              duration: "ca. 24 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_7-2_Therapie_fortg_PCA_Hormonsensitiv.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 7.2 Therapie fortg PCA Hormonsensitiv.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 7.3 ────────────────────────────────
+            {
+              id: "pca-7-3",
+              name: "Kapitel 7.3 – Kastrationsresistentes PCa (Teil 1)",
+              group: "Kapitel 7 – Therapie des fortgeschrittenen PCa",
+              num: "7.3",
+              duration: "ca. 24 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_7-3_Therapie_fortg_PCA_Kastrationsresistent_1.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 7.3 Therapie fortg PCA Kastrationsresistent 1.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 7.4 ────────────────────────────────
+            {
+              id: "pca-7-4",
+              name: "Kapitel 7.4 – Kastrationsresistentes PCa (Teil 2)",
+              group: "Kapitel 7 – Therapie des fortgeschrittenen PCa",
+              num: "7.4",
+              duration: "ca. 26 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_7-4_Therapie_fortg_PCA_Kastrationsresistent_2.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 7.4 Therapie fortg PCA Kastrationsresistent 2.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 7.5 ────────────────────────────────
+            {
+              id: "pca-7-5",
+              name: "Kapitel 7.5 – Supportive Therapie",
+              group: "Kapitel 7 – Therapie des fortgeschrittenen PCa",
+              num: "7.5",
+              duration: "ca. 27 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_7-5_Therapie_fortg_PCA_supportiv.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 7.5 Therapie fortg PCA supportiv.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 8 ──────────────────────────────────
+            {
+              id: "pca-8",
+              name: "Kapitel 8 – Rehabilitation und Supportivtherapie",
+              group: "Kapitel 8–10 – Nachsorge & Lebensqualität",
+              num: "8",
+              duration: "ca. 6 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_8_Rehabilitation.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 8 Rehabilitation.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 9 ──────────────────────────────────
+            {
+              id: "pca-9",
+              name: "Kapitel 9 – Nachsorge",
+              group: "Kapitel 8–10 – Nachsorge & Lebensqualität",
+              num: "9",
+              duration: "ca. 6 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_9_Nachsorge.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 9 Nachsorge.png",
+              quiz: []
+            },
+
+            // ── KAPITEL 10 ─────────────────────────────────
+            {
+              id: "pca-10",
+              name: "Kapitel 10 – Psychosoziale Aspekte und Lebensqualität",
+              group: "Kapitel 8–10 – Nachsorge & Lebensqualität",
+              num: "10",
+              duration: "ca. 6 min",
+              audioUrl: BASE_AUDIO + "Pod_S3_GL_PCA_Kap_10_Psychosoziale_Aspekte_und_Lebensqualität.mp3",
+              schaubildUrl: BASE_GRAPH + "Graph_S3_GL_PCA_Kap 10 Psychosoziale Aspekte und Lebensqualität.png",
+              quiz: []
+            },
           ]
         },
 
