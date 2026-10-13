@@ -70,14 +70,6 @@ export default function ImpressumPage() {
         </p>
 
         <p>
-          <strong>Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV</strong>
-          <br />
-          Dr. Justus König
-          <br />
-          Germeringer Str. 32, 82152 Planegg
-        </p>
-
-        <p>
           <strong>Haftung für Inhalte</strong>
           <br />
           Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen
