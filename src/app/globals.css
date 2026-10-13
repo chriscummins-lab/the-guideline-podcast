@@ -777,22 +777,6 @@ button {
   left: 8px;
 }
 
-/* Einmaliger Hinweis auf der Player-Seite, dass Schaubild & Quiz rechts folgen */
-.swipe-hint {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  margin: 10px 0 0;
-  font-size: 12px;
-  font-weight: 700;
-  color: var(--brand-green-deep);
-}
-
-.swipe-hint i {
-  font-size: 14px;
-}
-
 .swipe-dots {
   display: flex;
   justify-content: center;
@@ -1030,6 +1014,35 @@ audio {
 .schaubild-card img {
   max-width: 100%;
   border-radius: var(--radius-sm);
+  display: block;
+}
+
+.schaubild-zoom-trigger {
+  position: relative;
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: zoom-in;
+  border-radius: var(--radius-sm);
+}
+
+.schaubild-zoom-icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(29, 35, 34, 0.65);
+  color: #fff;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
 }
 
 .schaubild-ai-note {
@@ -1037,6 +1050,68 @@ audio {
   font-weight: 600;
   color: var(--ink-light);
   text-align: center;
+}
+
+/* SCHAUBILD LIGHTBOX */
+.schaubild-lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 13, 12, 0.92);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px)
+    env(safe-area-inset-bottom, 0px) env(safe-area-inset-left, 0px);
+}
+
+.schaubild-lightbox-close {
+  position: fixed;
+  top: calc(16px + env(safe-area-inset-top, 0px));
+  right: calc(16px + env(safe-area-inset-right, 0px));
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 201;
+}
+
+.schaubild-lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.schaubild-lightbox-scroll {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  touch-action: pinch-zoom pan-x pan-y;
+}
+
+.schaubild-lightbox-scroll img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+  cursor: zoom-in;
+  transition: transform 0.25s ease;
+}
+
+.schaubild-lightbox-scroll img.zoomed {
+  max-width: none;
+  max-height: none;
+  width: auto;
+  transform: scale(2.2);
+  cursor: zoom-out;
 }
 
 /* QUIZ */

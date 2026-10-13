@@ -35,6 +35,8 @@ export default function EpisodeView({
   const [bookmarked, setBookmarkedState] = useState(false);
   const [fallbackRatio, setFallbackRatio] = useState(0);
   const [panelHeight, setPanelHeight] = useState<number | undefined>(undefined);
+  const [lightboxOpen, setLightboxOpen] = useState(false);
+  const [lightboxZoomed, setLightboxZoomed] = useState(false);
   const touchStartX = useRef<number | null>(null);
   const touchDeltaX = useRef(0);
   const panelRefs = useRef<Array<HTMLDivElement | null>>([]);
@@ -71,6 +73,30 @@ export default function EpisodeView({
     ro.observe(el);
     return () => ro.disconnect();
   }, [index]);
+
+  useEffect(() => {
+    if (!lightboxOpen) return;
+    const prevOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") closeLightbox();
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.body.style.overflow = prevOverflow;
+      window.removeEventListener("keydown", onKeyDown);
+    };
+  }, [lightboxOpen]);
+
+  function openLightbox() {
+    setLightboxZoomed(false);
+    setLightboxOpen(true);
+  }
+
+  function closeLightbox() {
+    setLightboxOpen(false);
+    setLightboxZoomed(false);
+  }
 
   function toggleListened() {
     const next = !listened;
@@ -265,8 +291,18 @@ export default function EpisodeView({
               <div className="schaubild-card">
                 {episode.schaubildUrl ? (
                   <>
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={episode.schaubildUrl} alt={`Schaubild ${episode.name}`} />
+                    <button
+                      type="button"
+                      className="schaubild-zoom-trigger"
+                      onClick={openLightbox}
+                      aria-label="Schaubild vergrößern"
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={episode.schaubildUrl} alt={`Schaubild ${episode.name}`} />
+                      <span className="schaubild-zoom-icon">
+                        <i className="ti ti-zoom-in" aria-hidden="true" />
+                      </span>
+                    </button>
                     <p className="schaubild-ai-note">KI-generiertes Schaubild</p>
                   </>
                 ) : (
@@ -309,13 +345,6 @@ export default function EpisodeView({
         )}
       </div>
 
-      {index === 0 && (
-        <p className="swipe-hint">
-          Schaubild &amp; Quiz durch Wischen oder Tippen auf den Pfeil
-          <i className="ti ti-arrow-right" aria-hidden="true" />
-        </p>
-      )}
-
       <div className="swipe-dots">
         {PANELS.map((p, i) => (
           <button
@@ -334,6 +363,31 @@ export default function EpisodeView({
         Dieser Podcast wurde mit KI erstellt und fachlich geprüft. Er ersetzt nicht die
         Originalleitlinie.
       </p>
+
+      {lightboxOpen && episode.schaubildUrl && (
+        <div className="schaubild-lightbox" onClick={closeLightbox}>
+          <button
+            type="button"
+            className="schaubild-lightbox-close"
+            onClick={closeLightbox}
+            aria-label="Schließen"
+          >
+            <i className="ti ti-x" aria-hidden="true" />
+          </button>
+          <div className="schaubild-lightbox-scroll">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={episode.schaubildUrl}
+              alt={`Schaubild ${episode.name}`}
+              className={lightboxZoomed ? "zoomed" : ""}
+              onClick={(e) => {
+                e.stopPropagation();
+                setLightboxZoomed((z) => !z);
+              }}
+            />
+          </div>
+        </div>
+      )}
     </section>
   );
 }
