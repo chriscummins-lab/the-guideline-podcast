@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Nunito_Sans } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import AppShell from "@/components/AppShell";
 import PlayerProvider from "@/components/PlayerProvider";
 import MiniPlayer from "@/components/MiniPlayer";
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <QueuePanel />
           <BottomTabBar />
         </PlayerProvider>
+        <Analytics />
       </body>
     </html>
   );
