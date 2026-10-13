@@ -5,6 +5,7 @@ export const CATEGORY_ICONS: Record<string, string> = {
   benigne: "ti-stethoscope",
   infektio: "ti-virus",
   kinderuro: "ti-baby-carriage",
+  andrologie: "ti-gender-male",
 };
 
 export function categoryIconClass(categoryId: string): string {

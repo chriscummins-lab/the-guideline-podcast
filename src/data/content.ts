@@ -4,6 +4,7 @@ import { hikEpisodes } from "@/data/guidelines/hik";
 import { htEpisodes } from "@/data/guidelines/ht";
 import { bpsEpisodes } from "@/data/guidelines/bps";
 import { phiEpisodes } from "@/data/guidelines/phi";
+import { andrologieGuidelines } from "@/data/guidelines/andrologie";
 
 export const CONTENT: { categories: Category[] } = {
   categories: [
@@ -106,20 +107,19 @@ export const CONTENT: { categories: Category[] } = {
     },
 
     // ══════════════════════════════════════════════
-    //  3. INFEKTIOLOGIE & ANDROLOGIE
+    //  3. INFEKTIOLOGIE
     // ══════════════════════════════════════════════
     {
       id: "infektio",
-      name: "Infektiologie & Andrologie",
+      name: "Infektiologie",
       icon: "🦠",
       color: "var(--brand-green)",
       available: false,
-      description: "Harnwegsinfekte, Entzündungen, männliche Fertilität",
+      description: "Harnwegsinfekte und Entzündungen",
       guidelines: [
         { id: "hwi", name: "Harnwegsinfektionen", badge: "S3", available: false, description: "S3-Leitlinie HWI", episodes: [] },
         { id: "epididymitis", name: "Epididymitis", available: false, description: "Leitlinie Epididymitis", episodes: [] },
         { id: "prostatitis", name: "Prostatitis", available: false, description: "Leitlinie Prostatitis", episodes: [] },
-        { id: "maennliche-infertilitaet", name: "Männliche Infertilität", available: false, description: "Leitlinie Männliche Infertilität", episodes: [] },
       ],
     },
 
@@ -145,6 +145,19 @@ export const CONTENT: { categories: Category[] } = {
         { id: "hodenhochstand", name: "Hodenhochstand", available: false, description: "Leitlinie Hodenhochstand", episodes: [] },
         { id: "vur", name: "Vesikoureteraler Reflux", available: false, description: "Leitlinie VUR", episodes: [] },
       ],
+    },
+
+    // ══════════════════════════════════════════════
+    //  5. ANDROLOGIE
+    // ══════════════════════════════════════════════
+    {
+      id: "andrologie",
+      name: "Andrologie",
+      icon: "🧬",
+      color: "var(--brand-green)",
+      available: true,
+      description: "Hormone, männliche Fertilität und Sexualmedizin",
+      guidelines: andrologieGuidelines,
     },
   ],
 };

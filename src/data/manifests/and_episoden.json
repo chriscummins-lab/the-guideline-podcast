@@ -1,0 +1,135 @@
+{
+  "kategorie": "Andrologie",
+  "r2Ordner": "05-andrologie",
+  "themen": [
+    {
+      "id": "hormone-hypogonadismus",
+      "name": "Hormone & Hypogonadismus",
+      "beschreibung": "Reproduktionsachse, Testosteronmangel und Testosterontherapie",
+      "glCode": "ANDEND",
+      "r2Ordner": "01-hormone-hypogonadismus",
+      "episoden": [
+        {
+          "folge": 1,
+          "stem": "ANDEND_F01_EndokrineParadoxienReproduktionsachse",
+          "titel": "Endokrine Paradoxien der männlichen Reproduktionsachse",
+          "dauerMin": 84
+        },
+        {
+          "folge": 2,
+          "stem": "ANDEND_F02_TestosteronmangelKinderwunschFalle",
+          "titel": "Testosteronmangel und die fatale Kinderwunsch-Falle",
+          "dauerMin": 30
+        },
+        {
+          "folge": 3,
+          "stem": "ANDEND_F03_IndikationTestosterontherapie",
+          "titel": "Wann eine Testosterontherapie medizinisch notwendig ist",
+          "dauerMin": 30
+        }
+      ]
+    },
+    {
+      "id": "infertilitaetsdiagnostik",
+      "name": "Infertilitätsdiagnostik",
+      "beschreibung": "Spermiogramm nach WHO 2021, Azoospermie und Genetik",
+      "glCode": "ANDDIA",
+      "r2Ordner": "02-infertilitaetsdiagnostik",
+      "episoden": [
+        {
+          "folge": 1,
+          "stem": "ANDDIA_F01_DiagnostikJenseitsSpermiogramm",
+          "titel": "Andrologische Diagnostik jenseits des Spermiogramms",
+          "dauerMin": 26
+        },
+        {
+          "folge": 2,
+          "stem": "ANDDIA_F02_EjakulatanalyseWHO2021",
+          "titel": "Fallstricke der Ejakulatanalyse nach WHO 2021",
+          "dauerMin": 28
+        },
+        {
+          "folge": 3,
+          "stem": "ANDDIA_F03_AzoospermiePraebioptisch",
+          "titel": "Präbioptische Weichenstellung bei Azoospermie",
+          "dauerMin": 16
+        },
+        {
+          "folge": 4,
+          "stem": "ANDDIA_F04_GenetischeDiagnostik",
+          "titel": "Genetische Diagnostik der männlichen Infertilität",
+          "dauerMin": 26
+        }
+      ]
+    },
+    {
+      "id": "infektionen-fertilitaet",
+      "name": "Infektionen & Fertilität",
+      "beschreibung": "Urethritis und infektionsbedingte Fertilitätsstörungen",
+      "glCode": "ANDINF",
+      "r2Ordner": "03-infektionen-fertilitaet",
+      "episoden": [
+        {
+          "folge": 1,
+          "stem": "ANDINF_F01_UrethritisEndeEinmalgabe",
+          "titel": "Das Ende der Einmalgabe bei Urethritis",
+          "dauerMin": 28
+        },
+        {
+          "folge": 2,
+          "stem": "ANDINF_F02_InfektionenFruchtbarkeit",
+          "titel": "Warum Infektionen die männliche Fruchtbarkeit zerstören",
+          "dauerMin": 18
+        }
+      ]
+    },
+    {
+      "id": "fertilitaetserhalt-reproduktion",
+      "name": "Fertilitätserhalt & assistierte Reproduktion",
+      "beschreibung": "Fertilitätsprotektion bei Krebstherapie und Indikationen zur ART",
+      "glCode": "ANDFER",
+      "r2Ordner": "04-fertilitaetserhalt-reproduktion",
+      "episoden": [
+        {
+          "folge": 1,
+          "stem": "ANDFER_F01_KinderwunschKrebstherapie",
+          "titel": "Kinderwunsch trotz Krebstherapie sicher bewahren",
+          "dauerMin": 35
+        },
+        {
+          "folge": 2,
+          "stem": "ANDFER_F02_VaterschaftKrebstherapie",
+          "titel": "Vaterschaft sichern trotz Krebstherapie",
+          "dauerMin": 22
+        },
+        {
+          "folge": 3,
+          "stem": "ANDFER_F03_IndikationAssistierteReproduktion",
+          "titel": "Andrologische Indikationsstellung zur assistierten Reproduktion",
+          "dauerMin": 23
+        }
+      ]
+    },
+    {
+      "id": "sexualmedizin-kontrazeption",
+      "name": "Sexualmedizin & Kontrazeption",
+      "beschreibung": "Erektile Dysfunktion, männliche Verhütung und Fortpflanzungsrecht",
+      "glCode": "ANDSEX",
+      "r2Ordner": "05-sexualmedizin-kontrazeption",
+      "episoden": [
+        {
+          "folge": 1,
+          "stem": "ANDSEX_F01_ErektileDysfunktionHerz",
+          "titel": "Erektile Dysfunktion als Frühwarnsystem für das Herz",
+          "dauerMin": 23
+        },
+        {
+          "folge": 2,
+          "stem": "ANDSEX_F02_VerhuetungFortpflanzungsrecht",
+          "titel": "Männliche Verhütung und deutsches Fortpflanzungsrecht",
+          "dauerMin": 15
+        }
+      ]
+    }
+  ]
+}
