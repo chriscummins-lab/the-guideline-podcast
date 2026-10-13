@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie viele Qualitätsindikatoren wurden laut Kapitel 15 in das finale Indikatorenset der S3-Leitlinie Keimzelltumoren aufgenommen?",
+    "options": [
+      "11 Qualitätsindikatoren.",
+      "100 Qualitätsindikatoren.",
+      "Nur 1 Qualitätsindikator.",
+      "Es wurden gar keine Qualitätsindikatoren definiert."
+    ],
+    "correct": 0,
+    "tip": "Diese wurden von der eigens konstituierten AG 'Qualitätsindikatoren' nach einer Präsenzsitzung und Telefonkonferenz festgelegt.",
+    "explanation": "Nach einer Präsenzsitzung und Telefonkonferenz der Arbeitsgruppe wurden 11 Qualitätsindikatoren in das finale Indikatorenset aufgenommen."
+  },
+  {
+    "question": "Auf welcher Grundlage wurde das finale Set der Qualitätsindikatoren laut Leitlinientext erstellt?",
+    "options": [
+      "Ausschließlich auf Basis von Patientenbefragungen, ohne Bezug zu Leitlinienempfehlungen.",
+      "Auf Grundlage der starken Empfehlungen der Leitlinie (Empfehlungsgrad A, 'soll') und bestehender nationaler/internationaler Qualitätsindikatoren.",
+      "Ausschließlich auf Grundlage von Expertenkonsens ohne jede Evidenzbasierung.",
+      "Zufällig ausgewählt durch ein Losverfahren unter allen Leitlinienempfehlungen."
+    ],
+    "correct": 1,
+    "tip": "Eine eigens konstituierte Arbeitsgruppe war für den Ableitungsprozess verantwortlich.",
+    "explanation": "Das finale Set der Qualitätsindikatoren wurde auf Grundlage der starken Empfehlungen der Leitlinie (Empfehlungsgrad A, 'soll') und der Recherche nach bestehenden nationalen und internationalen Qualitätsindikatoren erstellt."
+  },
+  {
+    "question": "Welche Patientengruppe bildet den Zähler von Qualitätsindikator 1 (Vorstellung Tumorkonferenz), bezogen auf Empfehlung 3.2?",
+    "options": [
+      "Anzahl Patienten, die nach Chemotherapie in einer interdisziplinären Tumorkonferenz vorgestellt werden.",
+      "Anzahl Patienten, die primär operiert wurden, unabhängig von einer Chemotherapie.",
+      "Anzahl Patienten mit normalen Serumtumormarkern bei Erstdiagnose.",
+      "Anzahl Patienten, die eine Strahlentherapie des Gehirns erhalten haben."
+    ],
+    "correct": 0,
+    "tip": "Der Nenner umfasst alle Patienten mit KZT, die nach Chemotherapie einen Residualtumor aufweisen.",
+    "explanation": "QI 1 misst die Anzahl der Patienten, die nach Chemotherapie in einer interdisziplinären Tumorkonferenz (mit Urologie, Pathologie, Radiologie, Hämatoonkologie, Strahlentherapie, bei Bedarf Viszeralchirurgie) vorgestellt werden."
+  },
+  {
+    "question": "Welche Angaben soll der pathohistologische Befundbericht laut dem zu QI 2 (Pathologiebericht) referenzierten Empfehlung 6.17 beinhalten?",
+    "options": [
+      "Unter anderem Seite, Hodengröße, maximale Tumorgröße in 3 Dimensionen, histologischer Typ nach WHO 2016, venöse/lymphatische Invasion, Rete testis-Invasion und pT-Kategorie nach TNM 2017.",
+      "Ausschließlich das Körpergewicht des Patienten.",
+      "Nur die Diagnose 'maligne' oder 'benigne' ohne weitere Details.",
+      "Ausschließlich die Dauer der Operation in Minuten."
+    ],
+    "correct": 0,
+    "tip": "Dieser vollständige Katalog an Angaben ist entscheidend für die korrekte Stadieneinteilung und Therapieplanung.",
+    "explanation": "QI 2 misst die Vollständigkeit des pathohistologischen Befundberichts gemäß Empfehlung 6.17, der u. a. Seite, Hodengröße, maximale Tumorgröße, histologischen Typ nach WHO 2016, venöse/lymphatische Invasion, verschiedene Infiltrationsangaben und die pT-Kategorie nach TNM 2017 umfassen soll."
+  },
+  {
+    "question": "Was misst Qualitätsindikator 3 (Angebot Kryokonservierung), bezogen auf Empfehlung 6.19?",
+    "options": [
+      "Die Anzahl der Patienten, denen prätherapeutisch eine Kryokonservierung von Spermatozoen angeboten wurde.",
+      "Die Anzahl der tatsächlich durchgeführten TESE-Prozeduren, unabhängig vom Angebot.",
+      "Die Anzahl der Patienten, die eine zweite Meinung eingeholt haben.",
+      "Die Anzahl der Patienten mit postoperativer Wundinfektion."
+    ],
+    "correct": 0,
+    "tip": "Der Nenner umfasst alle Patienten mit Erstdiagnose KZT und durchgeführter Therapie (Operation, Radio- oder Chemotherapie).",
+    "explanation": "QI 3 erfasst die Anzahl der Patienten, denen prätherapeutisch eine Kryokonservierung von Spermatozoen angeboten wurde, als Qualitätsziel für ein möglichst häufiges Angebot."
+  },
+  {
+    "question": "Auf welche Klassifikation bezieht sich Qualitätsindikator 4, und bei welcher Patientengruppe wird sie als Qualitätsziel angewendet?",
+    "options": [
+      "Die IGCCCG-Prognosekriterien, angewendet bei allen Patienten mit metastasiertem Keimzelltumor (ab Stadium II).",
+      "Die D'Amico-Klassifikation, angewendet bei allen Patienten im Stadium I.",
+      "Die Gleason-Klassifikation, angewendet bei allen Patienten mit Prostatakarzinom (unzutreffend übertragen).",
+      "Die Charlson-Komorbiditätsklassifikation bei allen über 70-jährigen Patienten."
+    ],
+    "correct": 0,
+    "tip": "Qualitätsziel ist eine möglichst häufige Einteilung nach diesen Kriterien bei metastasierten Patienten.",
+    "explanation": "QI 4 bezieht sich auf Empfehlung 7.6 und misst die Einteilung nach den IGCCCG-Prognosekriterien bei allen Patienten mit metastasiertem Keimzelltumor (ab Stadium II)."
+  },
+  {
+    "question": "Welches Qualitätsziel verfolgt Qualitätsindikator 5 (Aktive Überwachung) bei Seminom-Patienten im Stadium I?",
+    "options": [
+      "Möglichst häufige aktive Überwachung zur Nachbeobachtung bei Seminom-Patienten im Stadium I (pT1-4, N0, M0).",
+      "Möglichst häufige adjuvante Strahlentherapie bei allen Seminom-Patienten, unabhängig vom Stadium.",
+      "Möglichst seltene Anwendung der Überwachungsstrategie, um Rezidive zu vermeiden.",
+      "Eine obligate retroperitoneale Lymphadenektomie bei jedem Seminom-Patienten im Stadium I."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt die zentrale Leitlinienbotschaft wider, dass die Überwachung beim Seminom im Stadium I der bevorzugte Standard ist.",
+    "explanation": "QI 5 zielt auf eine möglichst häufige aktive Überwachung zur Nachbeobachtung bei allen Patienten mit Erstdiagnose Seminom im Stadium I (pT1-4, N0, M0) ab."
+  },
+  {
+    "question": "Wie ist der Evidenzgrad von QI 2 (Pathologiebericht) im Vergleich zu QI 1 (Tumorkonferenz) und QI 3 (Kryokonservierung) hinsichtlich ihrer Referenz-Empfehlungen?",
+    "options": [
+      "QI 2 basiert auf Empfehlung 6.17 mit Evidenzgrad A (LoE 2a), während QI 1 und QI 3 auf Expertenkonsens (EK) bzw. Evidenzgrad A (LoE 5) beruhen.",
+      "Alle drei Qualitätsindikatoren basieren auf identisch hohem Evidenzgrad 1a.",
+      "QI 1, 2 und 3 beruhen alle ausschließlich auf reinem Expertenkonsens ohne jede Evidenzgraduierung.",
+      "Es existiert keine Evidenzgrundlage für irgendeinen dieser Qualitätsindikatoren."
+    ],
+    "correct": 0,
+    "tip": "Die zugrundeliegenden Empfehlungsgrade und Evidenzlevel variieren je nach Qualitätsindikator.",
+    "explanation": "QI 2 basiert auf Empfehlung 6.17 mit Evidenzgrad A und LoE 2a, QI 1 auf Empfehlung 3.2 (Expertenkonsens), QI 3 auf Empfehlung 6.19 mit Evidenzgrad A und LoE 5 – die Evidenzgrundlagen unterscheiden sich also je nach Indikator."
+  },
+  {
+    "question": "Welchen übergeordneten Zweck verfolgen Qualitätsindikatoren laut der einleitenden Definition in Kapitel 15?",
+    "options": [
+      "Die stetige Verbesserung der Versorgung, indem Ergebnisse dargestellt, kritisch reflektiert und wenn nötig verbessert werden.",
+      "Ausschließlich die Abrechnung gegenüber den Krankenkassen.",
+      "Die Reduktion der Behandlerzahl in zertifizierten Zentren.",
+      "Die Ersetzung jeglicher klinischer Leitlinienempfehlung durch reine Kennzahlen."
+    ],
+    "correct": 0,
+    "tip": "Qualitätsindikatoren sind Messgrößen zur Beurteilung von Struktur-, Prozess- oder Ergebnisqualität.",
+    "explanation": "Qualitätsindikatoren dienen laut Kapitel 15 der stetigen Verbesserung der Versorgung, indem die Ergebnisse der Versorgung dargestellt, kritisch reflektiert und bei Bedarf verbessert werden."
+  },
+  {
+    "question": "Auf welcher Version der Leitlinie basieren die aktuell vorgestellten Qualitätsindikatoren, und was ist für die Zukunft geplant?",
+    "options": [
+      "Sie basieren auf Version 1 der Leitlinie und werden nach Abschluss der Version 3.0 erneut aktualisiert.",
+      "Sie basieren bereits auf der finalen Version 3.0 und werden nie wieder geändert.",
+      "Sie wurden erst mit Version 2.0 erstmals eingeführt und sind endgültig.",
+      "Qualitätsindikatoren existieren unabhängig von der Leitlinienversion und werden nie aktualisiert."
+    ],
+    "correct": 0,
+    "tip": "Dies erklärt, warum die aktuellen Qualitätsindikatoren nicht alle neuen Inhalte der Version 2.0 (z. B. Kapitel 8 und 11) widerspiegeln.",
+    "explanation": "Die vorgestellten Qualitätsindikatoren basieren auf Version 1 der Leitlinie und sollen nach Abschluss der Version 3.0 erneut aktualisiert werden."
+  }
+]

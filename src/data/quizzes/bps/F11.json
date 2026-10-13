@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Situation ist die offene Adenomenukleation laut Empfehlung 11.42 (Empfehlungsgrad 0) besonders sinnvoll, trotz ihrer hohen Invasivität?",
+    "options": [
+      "Bei sehr kleinen Prostatavolumina unter 20 cm³.",
+      "Bei sehr großen Prostatavolumina, insbesondere bei gleichzeitiger Behandlung großer/zahlreicher Blasensteine und/oder Blasen(pseudo)divertikel.",
+      "Nur bei jungen, asymptomatischen Patienten.",
+      "Ausschließlich bei begleitendem Prostatakarzinom."
+    ],
+    "correct": 1,
+    "tip": "Die maximale Gewebsreduktion macht sie gerade bei komplexen Begleitpathologien attraktiv.",
+    "explanation": "Die offene Adenomenukleation kann bei sehr großen Prostatavolumina angeboten werden und ist insbesondere bei gleichzeitiger Behandlung großer/zahlreicher Blasensteine und/oder Blasen(pseudo)divertikel sinnvoll (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Welche zwei klassischen operativen Zugangswege gibt es für die offene Adenomenukleation?",
+    "options": [
+      "Nur einen einzigen, standardisierten Zugang.",
+      "Suprapubisch/transvesikal (Verfahren nach Freyer) und retropubisch/extravesikal-transkapsulär (Verfahren nach Millin).",
+      "Ausschließlich laparoskopisch oder robotergestützt.",
+      "Nur einen perinealen Zugang."
+    ],
+    "correct": 1,
+    "tip": "Beide klassischen Zugänge ermöglichen eine Adenomausschälung mit dem Finger entlang der chirurgischen Kapsel.",
+    "explanation": "Die offene Adenomenukleation erfolgt klassischerweise entweder suprapubisch durch die Blase (Freyer) oder retropubisch extravesikal-transkapsulär (Millin)."
+  },
+  {
+    "question": "Wie unterscheiden sich die minimal-invasive (laparoskopische/roboterassistierte, MISP) und die offene Adenomenukleation (OSP) bezüglich Wirksamkeit und perioperativem Verlauf?",
+    "options": [
+      "Beide unterscheiden sich signifikant in der IPSS- und Qmax-Verbesserung.",
+      "Vergleichbare Wirksamkeit (IPSS, Qmax, Restharn), aber MISP zeigt geringeren Blutverlust, kürzere Katheter-/Krankenhausverweildauer und weniger Komplikationen bei gleichzeitig längerer Operationszeit.",
+      "MISP ist der OSP in der Symptomverbesserung deutlich unterlegen.",
+      "Die OSP hat in allen Studien die kürzere Operationszeit."
+    ],
+    "correct": 1,
+    "tip": "Die roboterassistierte Technik kann z.B. die Transfusionsrate von 29% auf 8% senken.",
+    "explanation": "MISP und OSP zeigen vergleichbare Wirksamkeit bei IPSS, Qmax und Restharn; MISP ist perioperativ sicherer (weniger Blutverlust, kürzere Verweildauer), benötigt aber mehr Operationszeit."
+  },
+  {
+    "question": "Wie hoch ist die Rate einer retrograden Ejakulation nach offener Adenomenukleation, und wie kann sie reduziert werden?",
+    "options": [
+      "Etwa 79%; mittels harnröhrenschonender Operationstechnik kann bei 81% der Patienten die anterograde Ejakulation erhalten werden.",
+      "0% – die offene Adenomenukleation beeinträchtigt die Ejakulation nie.",
+      "100%, ohne jede Möglichkeit zur Modifikation.",
+      "Diese Frage wurde in der Leitlinie nicht untersucht."
+    ],
+    "correct": 0,
+    "tip": "Diese Modifikation ist besonders für jüngere, sexuell aktive Patienten mit sehr großer Prostata relevant.",
+    "explanation": "Nach offener Adenomenukleation tritt bei etwa 79% der sexuell aktiven Patienten eine retrograde Ejakulation auf; mit harnröhrenschonender Technik kann bei 81% die anterograde Ejakulation erhalten werden."
+  },
+  {
+    "question": "Wie schneidet die Prostata-Arterien-Embolisation (PAE) laut Statement 11.44 im direkten Vergleich zur TURP hinsichtlich objektiver Miktionsparameter und Komplikationen ab?",
+    "options": [
+      "Sie ist der TURP bei der Verbesserung von Miktionsparametern signifikant unterlegen, geht aber mit signifikant weniger Komplikationen einher.",
+      "Sie ist der TURP in jeder Hinsicht überlegen.",
+      "Beide Verfahren sind vollkommen gleichwertig.",
+      "Die PAE weist deutlich mehr Komplikationen auf als die TURP."
+    ],
+    "correct": 0,
+    "tip": "Bei den subjektiven Symptomen (IPSS) ist der Unterschied zur TURP dagegen oft nur gering oder klinisch kaum relevant.",
+    "explanation": "Die PAE ist der TURP bei der Verbesserung objektiver Miktionsparameter signifikant unterlegen, geht jedoch mit signifikant weniger Komplikationen einher (Statement 11.44)."
+  },
+  {
+    "question": "Für welche Patienten sollte die PAE laut Empfehlung 11.45 (Empfehlungsgrad B) in Erwägung gezogen werden?",
+    "options": [
+      "Für alle Patienten als generelle Erstlinientherapie, unabhängig von Präferenzen.",
+      "Für Patienten, die für diese minimal-invasive Therapie geeignet und bereit sind, eine unterlegene Verbesserung objektiver Miktionsparameter zu akzeptieren.",
+      "Nur für Patienten mit akutem Harnverhalt.",
+      "Ausschließlich für Patienten unter 40 Jahren."
+    ],
+    "correct": 1,
+    "tip": "Eine umfassende Aufklärung über diesen Trade-off ist daher essenziell für die Patientenselektion.",
+    "explanation": "Die PAE sollte bei Patienten in Erwägung gezogen werden, die für diese minimal-invasive Therapie geeignet und bereit sind, eine unterlegene Verbesserung objektiver Miktionsparameter zu akzeptieren (Empfehlungsgrad B)."
+  },
+  {
+    "question": "Wer soll laut Empfehlung 11.46 die Indikation zur PAE stellen, und wer soll den Eingriff durchführen?",
+    "options": [
+      "Jeder beliebige Arzt ohne spezielle Qualifikation.",
+      "Die Indikation soll nach urologischer Abklärung im interdisziplinären Konsens gestellt werden; der Eingriff soll durch einen spezialisierten interventionellen Radiologen erfolgen.",
+      "Die Indikation soll ausschließlich durch den Hausarzt gestellt werden.",
+      "Es bestehen keine besonderen Anforderungen an die Qualifikation."
+    ],
+    "correct": 1,
+    "tip": "Dies unterstreicht den interdisziplinären Charakter dieses endovaskulären Verfahrens.",
+    "explanation": "Die PAE soll nur im interdisziplinären Konsens durchgeführt werden; die Indikation soll nach urologischer Abklärung gestellt und der Eingriff durch einen spezialisierten interventionellen Radiologen durchgeführt werden (EK)."
+  },
+  {
+    "question": "Was zeigte die verblindete Sham-kontrollierte Studie (PAE vs. Schein-Intervention ohne Embolisation) nach sechs Monaten?",
+    "options": [
+      "Keinen Unterschied zwischen PAE und Schein-Intervention.",
+      "Die PAE war der Schein-Intervention deutlich überlegen, mit einem IPSS-Unterschied von 13,2 Punkten und einer signifikanten Qmax-Verbesserung.",
+      "Die Schein-Intervention war wirksamer als die PAE.",
+      "Eine solche Studie wurde nie durchgeführt."
+    ],
+    "correct": 1,
+    "tip": "Zudem benötigten nach sechs Monaten 91,9% der Sham-Gruppe weiterhin Tamsulosin, gegenüber nur 5,13% nach PAE.",
+    "explanation": "In der verblindeten Studie war die PAE der Schein-Intervention deutlich überlegen, mit einem IPSS-Unterschied von 13,2 Punkten und signifikanter Qmax-Verbesserung."
+  },
+  {
+    "question": "Welchen praktischen Vorteil bietet die PAE insbesondere bei Risikopatienten mit sehr großer Prostata und bestehender Antikoagulation?",
+    "options": [
+      "Es besteht kein oberes Volumenlimit, und der Eingriff kann in Lokalanästhesie unter routinemäßiger Fortführung der Antikoagulation durchgeführt werden.",
+      "Die PAE erfordert immer eine Vollnarkose und das vorherige Pausieren jeder Antikoagulation.",
+      "Die PAE ist ausschließlich bei kleinem Prostatavolumen durchführbar.",
+      "Es gibt keine besonderen Vorteile der PAE bei dieser Patientengruppe."
+    ],
+    "correct": 0,
+    "tip": "Dem steht als Nachteil die Strahlenexposition gegenüber, die etwa drei Abdomen-CTs entspricht.",
+    "explanation": "Die PAE wird in Lokalanästhesie unter routinemäßiger Fortführung antikoagulativer Medikamente durchgeführt, und es besteht kein oberes Limit für das Prostatavolumen."
+  },
+  {
+    "question": "Warum gelten temperaturbasierte Verfahren wie TUNA (transurethrale Nadelablation) und TUMT (Mikrowellenthermotherapie) heute im deutschsprachigen Raum weitgehend als \"historische Verfahren\"?",
+    "options": [
+      "Weil sie teurer sind als alle anderen Verfahren.",
+      "Weil ihre Langzeiteffizienz deutlich unter der der TURP liegt (z.B. TUNA: nach 2 Jahren deutlich schwächere IPSS- und Qmax-Verbesserung, Reinterventionsrate von 26,4% nach 10 Jahren).",
+      "Weil sie signifikant mehr Blutungskomplikationen verursachen als die TURP.",
+      "Weil sie gesetzlich verboten wurden."
+    ],
+    "correct": 1,
+    "tip": "TUNA wird international teilweise noch eingesetzt, im deutschsprachigen Raum aber kaum mehr.",
+    "explanation": "TUNA verbessert Symptome und Qmax nach zwei Jahren deutlich weniger als die TURP (IPSS-Differenz 4,7 Punkte, Qmax-Differenz 7,9 ml/s) mit einer Reinterventionsrate von 26,4% nach zehn Jahren – daher heute weitgehend verlassen."
+  }
+]

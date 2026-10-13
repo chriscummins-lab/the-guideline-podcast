@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bei welcher IGCCCG-Prognosegruppe zeigten sich laut Kapitel 16 im Rahmen der Leitlinienarbeit vor allem Forschungslücken?",
+    "options": [
+      "Bei der schlechten Prognosegruppe.",
+      "Ausschließlich bei der guten Prognosegruppe.",
+      "Forschungslücken bestehen laut Leitlinie bei keiner der Prognosegruppen mehr.",
+      "Nur beim klinischen Stadium I ohne jede Metastasierung."
+    ],
+    "correct": 0,
+    "tip": "Die Aussagen zu dieser Gruppe basieren auf einer insgesamt limitierten Studienlage.",
+    "explanation": "Kapitel 16 nennt die schlechte Prognosegruppe als Bereich, in dem sich im Rahmen der Leitlinienarbeit vor allem Forschungslücken zeigten."
+  },
+  {
+    "question": "Für welche weitere Patientengruppe werden die Therapieaussagen laut Kapitel 16 ebenfalls als auf einer begrenzten Studienlage beruhend beschrieben, neben der intermediären Prognosegruppe?",
+    "options": [
+      "Patienten mit HIV.",
+      "Patienten unter 18 Jahren.",
+      "Patienten mit Diabetes mellitus Typ 2.",
+      "Patienten mit begleitender Adipositas."
+    ],
+    "correct": 0,
+    "tip": "Diese Lücke betrifft spezifisch die Therapie von Keimzelltumoren bei Patienten mit dieser Komorbidität.",
+    "explanation": "Kapitel 16 nennt sowohl die intermediäre Prognosegruppe als auch Patienten mit HIV als Bereiche, in denen die Therapieaussagen auf begrenzter Studienlage beruhen."
+  },
+  {
+    "question": "Welche konkrete offene Frage in der Nachsorge nennt Kapitel 16 bezüglich eines isolierten Tumormarkeranstiegs?",
+    "options": [
+      "Der optimale Zeitpunkt für den Beginn einer Therapie bei isoliertem Tumormarkeranstieg ohne bildgebendes Korrelat.",
+      "Ob Tumormarker in der Nachsorge überhaupt jemals bestimmt werden sollten.",
+      "Ob Serumtumormarker nach Orchiektomie vollständig verzichtbar sind.",
+      "Welche Blutgruppe mit einem erhöhten Rezidivrisiko assoziiert ist."
+    ],
+    "correct": 0,
+    "tip": "Diese Frage betrifft Patienten, bei denen der Marker ansteigt, ohne dass Bildgebung einen entsprechenden Befund zeigt.",
+    "explanation": "Kapitel 16 benennt als Forschungslücke den optimalen Zeitpunkt für den Beginn einer Therapie bei isoliertem Tumormarkeranstieg ohne bildgebendes Korrelat."
+  },
+  {
+    "question": "Welche Nachsorgefrage bei markernegativen Keimzelltumoren bleibt laut Kapitel 16 offen?",
+    "options": [
+      "Die effektivste Nachsorgestrategie zur frühzeitigen Erkennung von Rezidiven bei markernegativen Keimzelltumoren.",
+      "Ob markernegative Keimzelltumoren überhaupt eine Nachsorge benötigen.",
+      "Ob bei markernegativen Tumoren grundsätzlich auf jede Bildgebung verzichtet werden kann.",
+      "Die Frage, ob markernegative Tumoren grundsätzlich nicht rezidivieren können."
+    ],
+    "correct": 0,
+    "tip": "Dies hängt eng mit der generell geringeren diagnostischen Aussagekraft der klassischen Serumtumormarker bei einem Teil der Patienten zusammen.",
+    "explanation": "Kapitel 16 nennt die effektivste Nachsorgestrategie zur frühzeitigen Rezidiverkennung bei markernegativen Keimzelltumoren als offene Forschungsfrage."
+  },
+  {
+    "question": "In welchen drei Bereichen ist der Stellenwert der miRNA beim Hodentumor laut Kapitel 16 noch unklar?",
+    "options": [
+      "Primärdiagnostik, Residualtumorchirurgie und Therapiemonitoring.",
+      "Ausschließlich in der Fertilitätsdiagnostik.",
+      "Ausschließlich bei der Diagnose von Stromatumoren.",
+      "Nur in der Diagnostik von Hirnmetastasen."
+    ],
+    "correct": 0,
+    "tip": "In der Nachsorge im Stadium I ist die miRNA-371a-3p zwar bereits als ergänzendes Instrument etabliert, ihr Stellenwert in weiteren klinischen Bereichen bleibt aber offen.",
+    "explanation": "Kapitel 16 benennt die Primärdiagnostik, die Residualtumorchirurgie und das Therapiemonitoring als Bereiche, in denen der Stellenwert der miRNA beim Hodentumor noch unklar ist."
+  },
+  {
+    "question": "Für welches Stadium und welche Histologie fehlen laut Kapitel 16 noch Langzeitstudienergebnisse sowohl zur Radio-/Chemotherapie als auch zur primären retroperitonealen Lymphadenektomie?",
+    "options": [
+      "Seminom im Stadium IIA/B.",
+      "Nichtseminom im Stadium IIC/III.",
+      "Seminom im Stadium I.",
+      "Jeder extragonadale Keimzelltumor unabhängig vom Stadium."
+    ],
+    "correct": 0,
+    "tip": "Dies betrifft insbesondere die neueren deeskalierenden Therapiekonzepte wie die Radiochemotherapie nach SAKK-01/10 und die primäre nervschonende RLA.",
+    "explanation": "Kapitel 16 nennt das Seminom im Stadium IIA/B als Bereich, in dem noch Langzeitstudienergebnisse sowohl zur Radio-/Chemotherapie als auch zur primären retroperitonealen Lymphadenektomie fehlen."
+  },
+  {
+    "question": "Worauf beziehen sich die in Kapitel 16 genannten offenen Fragen zur Erfassung therapieassoziierter Spättoxizitäten?",
+    "options": [
+      "Die Definition geeigneter Untersuchungen, Untersuchungsparameter und Untersuchungsintervalle in Abhängigkeit von der angewandten Therapie.",
+      "Ausschließlich die Frage, ob Spättoxizitäten überhaupt existieren.",
+      "Die Frage, ob Spättoxizitäten ausschließlich psychisch bedingt sind.",
+      "Die Dosierung von Bleomycin bei Patienten über 80 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Diese Aussagen beruhen laut Leitlinie ebenfalls auf einer limitierten Studienlage.",
+    "explanation": "Kapitel 16 nennt die Definition geeigneter Untersuchungen, Parameter und Intervalle zur Erfassung therapieassoziierter Spättoxizitäten in Abhängigkeit von der Therapie als Bereich mit limitierter Studienlage."
+  },
+  {
+    "question": "Betreffen die in Kapitel 16 genannten Forschungslücken bei speziellen Tumorlokalisationen laut Leitlinientext eine besonders gut erforschte oder eine limitierte Studienlage?",
+    "options": [
+      "Eine limitierte Studienlage.",
+      "Eine außergewöhnlich umfangreiche, gut etablierte Studienlage.",
+      "Diese Lokalisationen werden im Kapitel 16 gar nicht erwähnt.",
+      "Die Studienlage ist dort besser als bei der gonadalen Standardlokalisation."
+    ],
+    "correct": 0,
+    "tip": "Dies betrifft insbesondere Patienten mit speziellen (z. B. extragonadalen) Tumorlokalisationen.",
+    "explanation": "Die Aussagen basieren laut Kapitel 16 auf einer limitierten Studienlage, wobei insbesondere bei Patienten mit speziellen Tumorlokalisationen noch Forschungslücken bestehen."
+  },
+  {
+    "question": "Welche grundsätzliche Aussage trifft Kapitel 16 zur Studienlage, die den dort genannten Forschungslücken insgesamt zugrunde liegt?",
+    "options": [
+      "Die genannten Aussagen basieren überwiegend auf einer limitierten Studienlage.",
+      "Alle genannten Bereiche verfügen bereits über ausreichende, hochwertige randomisierte Studiendaten.",
+      "Es gibt in der gesamten Leitlinie keine einzige offene Forschungsfrage mehr.",
+      "Die Studienlage ist in allen Bereichen bereits vollständig abgeschlossen und bedarf keiner weiteren Forschung."
+    ],
+    "correct": 0,
+    "tip": "Dies ist ein durchgängiges Motiv im gesamten Kapitel 16 – von der schlechten Prognosegruppe über HIV-Patienten bis zur Spättoxizitäts-Erfassung.",
+    "explanation": "Kapitel 16 betont wiederholt, dass die genannten Aussagen und offenen Fragen auf einer limitierten bzw. begrenzten Studienlage beruhen."
+  },
+  {
+    "question": "Wie ist Kapitel 16 (Forschungslücken) im Vergleich zu den übrigen Kapiteln der Leitlinie in seinem Umfang zu charakterisieren?",
+    "options": [
+      "Es ist deutlich kürzer als die meisten anderen Kapitel und fasst die offenen Fragen kompakt zusammen, ohne einzelne Empfehlungen auszusprechen.",
+      "Es ist das längste Kapitel der gesamten Leitlinie mit über 100 Empfehlungen.",
+      "Es enthält ausschließlich Tabellen ohne jeden Fließtext.",
+      "Es ist identisch mit Kapitel 17 und wiederholt dessen Inhalt wortgleich."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zu den vorausgehenden Therapiekapiteln enthält Kapitel 16 keine Empfehlungen oder Statements, sondern eine zusammenfassende Übersicht offener Fragen.",
+    "explanation": "Kapitel 16 ist im Vergleich zu den übrigen, empfehlungsreichen Kapiteln deutlich kürzer und fasst die wesentlichen Forschungslücken der Leitlinie in knapper, zusammenfassender Form zusammen."
+  }
+]

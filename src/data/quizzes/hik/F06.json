@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Standarddosis von Onabotulinumtoxin A ist zur Behandlung der therapierefraktären überaktiven Blase zugelassen?",
+    "options": [
+      "50 Einheiten.",
+      "100 Einheiten.",
+      "200 Einheiten.",
+      "300 Einheiten."
+    ],
+    "correct": 1,
+    "tip": "Höhere Dosierungen (z. B. 200 Einheiten) wurden zwar in Studien wie ROSETTA verwendet, sind aber nicht die zugelassene Standarddosis.",
+    "explanation": "Die zugelassene Dosis zur operativen Therapie der überaktiven Blase liegt bei 100 Einheiten Onabotulinumtoxin A, verdünnt endoskopisch in die Blasenwand injiziert."
+  },
+  {
+    "question": "Wie lange hält die Wirkung einer Onabotulinumtoxin-A-Injektion im Mittel an?",
+    "options": [
+      "Ca. 2 Wochen.",
+      "Ca. 6 Monate.",
+      "Ca. 5 Jahre.",
+      "Dauerhaft, ohne dass eine erneute Injektion nötig wäre."
+    ],
+    "correct": 1,
+    "tip": "Die Wirkung setzt nach etwa 14 Tagen ein und hält im Mittel deutlich kürzer als ein Jahr.",
+    "explanation": "Die Wirkung der Botulinumtoxin-A-Injektion setzt ca. 14 Tage nach der Injektion ein und hält im Mittel 6 Monate an."
+  },
+  {
+    "question": "Worüber müssen Patientinnen vor einer Onabotulinumtoxin-A-Injektion zwingend aufgeklärt werden?",
+    "options": [
+      "Über die zeitliche Begrenzung der Wirkung sowie das Risiko von Harnwegsinfekten und Restharnbildung mit möglicher Notwendigkeit des intermittierenden Selbstkatheterismus.",
+      "Über eine garantierte vollständige Heilung ohne jedes Risiko.",
+      "Darüber, dass keine Kontrolle der Restharnmenge nach der Behandlung notwendig ist.",
+      "Darüber, dass die Methode bei jeder Patientin exakt gleich lange wirkt."
+    ],
+    "correct": 0,
+    "tip": "Die Nebenwirkungen sind meist temporär, müssen aber vorher klar besprochen werden.",
+    "explanation": "Patientinnen sollen über die zeitliche Limitierung der Wirkung von Onabotulinumtoxin A sowie das postinterventionelle Risiko von Harnwegsinfekten und Restharnbildung mit der möglichen Notwendigkeit von intermittierendem Selbstkatheterismus aufgeklärt werden."
+  },
+  {
+    "question": "Was ist die erste Phase der sakralen Neuromodulation (SNM), bevor über die dauerhafte Implantation entschieden wird?",
+    "options": [
+      "Eine sofortige permanente Implantation des Impulsgenerators ohne Testphase.",
+      "Eine perkutane Testphase (PNE), bei der die Elektrodenlage zunächst ohne Implantation des Generators geprüft wird.",
+      "Eine alleinige medikamentöse Testphase mit Mirabegron.",
+      "Eine Botulinumtoxin-Testinjektion."
+    ],
+    "correct": 1,
+    "tip": "Erst wenn die Testphase erfolgreich ist, folgt der zweite operative Schritt.",
+    "explanation": "Die SNM besteht aus zwei Phasen: zunächst die perkutane Teststimulation (perkutane Nervenevaluation, PNE), und erst bei erfolgreicher Testphase die Implantation des Impulsgenerators."
+  },
+  {
+    "question": "Ab welcher Symptomreduktion während der Testphase (PNE) wird üblicherweise die dauerhafte Implantation der sakralen Neuromodulation vorgenommen?",
+    "options": [
+      "Ab einer Reduktion von mehr als 10 %.",
+      "Ab einer Reduktion von mehr als 50 %.",
+      "Nur bei einer Reduktion von exakt 100 %.",
+      "Die Symptomreduktion während der Testphase spielt keine Rolle für die Entscheidung."
+    ],
+    "correct": 1,
+    "tip": "Es braucht einen deutlichen, mehr als hälftigen Therapieerfolg, bevor der dauerhafte Generator implantiert wird.",
+    "explanation": "Reduzieren sich während der PNE die Symptome der überaktiven Blase um mehr als 50 %, wird ein batteriebetriebener Impulsgenerator implantiert."
+  },
+  {
+    "question": "Welchen Zusatznutzen kann die sakrale Neuromodulation bei Patientinnen mit überaktiver Blase und gleichzeitiger Stuhlinkontinenz oder sexueller Funktionsstörung haben?",
+    "options": [
+      "Sie kann beide Funktionsstörungen simultan positiv beeinflussen.",
+      "Sie verschlechtert grundsätzlich die Stuhlkontinenz.",
+      "Sie hat ausschließlich einen Effekt auf die Blasenfunktion, nie auf andere Organsysteme.",
+      "Sie ist bei gleichzeitiger Stuhlinkontinenz streng kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Der stimulierte Sakralnerv versorgt nicht nur die Blase, sondern auch Beckenboden und analen Sphinkter.",
+    "explanation": "Bei Patientinnen mit überaktiver Blase und gleichzeitiger sexueller Funktionsstörung oder Stuhlinkontinenz kann eine sakrale Neuromodulation erwogen werden, um die Funktionsstörungen simultan zu behandeln."
+  },
+  {
+    "question": "Wie verhält sich die posteriore tibiale Nervenstimulation (PTNS) im Vergleich zu einer invasiven Operation?",
+    "options": [
+      "PTNS ist selbst ein hochinvasiver operativer Eingriff mit Vollnarkosepflicht.",
+      "PTNS ist eine minimalinvasive Alternative ohne das Risiko einer Operation.",
+      "PTNS kann die überaktive Blase in jedem Fall dauerhaft heilen.",
+      "PTNS darf nur in Kombination mit einer Blasenaugmentation angewendet werden."
+    ],
+    "correct": 1,
+    "tip": "Die Stimulation erfolgt über eine feine Nadel oder eine Klebeelektrode am Unterschenkel, nicht über einen operativen Zugang zum Becken.",
+    "explanation": "PTNS ist eine minimalinvasive Alternative zur Behandlung der überaktiven Blase ohne das Risiko einer Operation; es gibt allerdings keine Evidenz, dass PTNS die überaktive Blase heilt."
+  },
+  {
+    "question": "Welches typische Behandlungsschema wird für die perkutane posteriore tibiale Nervenstimulation (P-PTNS) beschrieben?",
+    "options": [
+      "Einmal wöchentlich 30 Minuten über 12 Wochen.",
+      "Täglich 5 Minuten über 2 Wochen.",
+      "Eine einmalige Behandlung mit Dauerwirkung.",
+      "Monatlich über 2 Jahre, je 2 Stunden."
+    ],
+    "correct": 0,
+    "tip": "Das Schema orientiert sich an einer wöchentlichen Sitzung über einen Zeitraum von etwa drei Monaten.",
+    "explanation": "Die Anwendung der PTNS erfolgt üblicherweise mit einer Behandlung über 12 Wochen, einmal wöchentlich für 30 Minuten; bei permanentem Implantat ist auch eine tägliche Therapie möglich."
+  },
+  {
+    "question": "In welcher Situation kommt eine Blasenaugmentation oder Harnableitung laut Leitlinie als Therapieoption in Betracht?",
+    "options": [
+      "Als Erstlinientherapie bei jeder neu diagnostizierten überaktiven Blase.",
+      "In ausgewählten Fällen, wenn andere, weniger invasive Behandlungsmethoden versagt haben.",
+      "Nur bei Frauen unter 30 Jahren ohne jede Vortherapie.",
+      "Routinemäßig vor jeder medikamentösen Therapie."
+    ],
+    "correct": 1,
+    "tip": "Diese Verfahren bergen ein erhöhtes Komplikationsrisiko und sind daher eine Ultima-Ratio-Option.",
+    "explanation": "Eine Blasenaugmentation oder eine Harnableitung kann bei Patientinnen mit überaktiver Blase oder Dranginkontinenz in ausgewählten Fällen angeboten werden, wenn andere Behandlungsmethoden versagt haben."
+  },
+  {
+    "question": "Wie bewertet die Leitlinie die Detrusormyektomie (Blasen-Autoaugmentation) als Therapie der Harninkontinenz heute?",
+    "options": [
+      "Sie soll als Standardverfahren erster Wahl eingesetzt werden.",
+      "Sie soll als Therapie der Harninkontinenz nicht angeboten werden.",
+      "Sie ist der Blasenaugmentation in den Langzeitergebnissen deutlich überlegen.",
+      "Sie wird nur bei Männern, nie bei Frauen angewendet."
+    ],
+    "correct": 1,
+    "tip": "Die Methode zeigte in Studien an Erwachsenen vor allem durch Fibrose des Pseudodivertikels schlechte Langzeitergebnisse.",
+    "explanation": "Eine Detrusormyektomie soll als Therapie der Harninkontinenz nicht angeboten werden (starke Empfehlung); die Technik spielt aufgrund schlechter Langzeitergebnisse praktisch keine Rolle mehr."
+  }
+]

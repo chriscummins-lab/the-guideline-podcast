@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie schneidet die transurethrale Elektroenukleation laut Empfehlung 11.20 (Empfehlungsgrad A) im Vergleich zur monopolaren TURP ab?",
+    "options": [
+      "Sie ist der monopolaren TURP in Wirksamkeit und Sicherheit unterlegen.",
+      "Sie ist der monopolaren TURP in Wirksamkeit und Sicherheit überlegen und soll in erfahrenen Zentren angeboten werden.",
+      "Beide Verfahren sind in jeder Hinsicht identisch.",
+      "Die Elektroenukleation wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 1,
+    "tip": "Die Erstbeschreibung der Elektroenukleation stammt bereits aus dem Jahr 1983.",
+    "explanation": "Die transurethrale Elektroenukleation soll als Verfahren zur operativen BPS-Behandlung in erfahrenen Zentren angeboten werden; sie ist der monopolaren TURP in Wirksamkeit und Sicherheit überlegen (Empfehlungsgrad A)."
+  },
+  {
+    "question": "Welches Risiko ist unter der transurethralen Elektroenukleation laut Statement 11.21 im Vergleich zu anderen Enukleationsverfahren am geringsten?",
+    "options": [
+      "Das Risiko für Blasentamponade, Re-Katheterisierung oder Re-Intervention.",
+      "Das Risiko einer erektilen Dysfunktion.",
+      "Das perioperative Mortalitätsrisiko.",
+      "Das Risiko von Komplikationen durch die Allgemeinanästhesie."
+    ],
+    "correct": 0,
+    "tip": "Die irritative Folgesymptomatik fällt im Vergleich zur Diodenlaserenukleation allerdings etwas stärker aus.",
+    "explanation": "Die transurethrale Elektroenukleation birgt im Vergleich zu anderen Enukleationsverfahren das geringste Risiko für eine Blasentamponade, Re-Katheterisierung oder Re-Intervention."
+  },
+  {
+    "question": "Hängt die Wirksamkeit der Holmiumlaser-Enukleation der Prostata (HoLEP) laut Statement 11.22 vom Prostatavolumen ab?",
+    "options": [
+      "Ja, HoLEP wirkt nur bei kleinen Prostatae unter 30 cm³.",
+      "Nein – die Wirksamkeit der HoLEP ist prostatavolumen-unabhängig, mit Verbesserungen annähernd vergleichbar zu TURP und offener Adenomenukleation.",
+      "HoLEP wirkt nur bei Prostatavolumina über 150 cm³.",
+      "HoLEP wird bei jedem Volumen gleich schlecht wirksam."
+    ],
+    "correct": 1,
+    "tip": "Genau diese Volumenunabhängigkeit macht HoLEP zu einem besonders flexibel einsetzbaren Standardverfahren.",
+    "explanation": "Die HoLEP führt prostatavolumen-unabhängig zu einer deutlichen Verbesserung von Symptomen und objektiven Parametern, annähernd identisch zu TURP, offener Adenomenukleation und anderen Enukleationsverfahren."
+  },
+  {
+    "question": "Welchen Vorteil hat die HoLEP laut Statement 11.24 gegenüber den Referenzverfahren TURP und offener Adenomenukleation?",
+    "options": [
+      "Ein höheres Blutungsrisiko, dafür aber eine kürzere OP-Zeit.",
+      "Ein geringeres Blutungsrisiko sowie eine kürzere Katheterverweildauer und Hospitalisierungszeit.",
+      "Keinerlei Unterschied in irgendeinem perioperativen Parameter.",
+      "Eine deutlich höhere Mortalität."
+    ],
+    "correct": 1,
+    "tip": "Die Transfusionsrate nach HoLEP liegt bei nur 0-4%.",
+    "explanation": "Die HoLEP ist TURP und offener Adenomenukleation gegenüber hinsichtlich Blutungsrisiko, Katheterverweildauer und Hospitalisierungszeit überlegen (Statement 11.24)."
+  },
+  {
+    "question": "Wie hoch ist die Rate einer retrograden Ejakulation nach HoLEP, und wie kann sie reduziert werden?",
+    "options": [
+      "Etwa 75%; durch eine modifizierte Technik mit parakollikulärem Gewebeerhalt kann bei etwa der Hälfte der Patienten die antegrade Ejakulation erhalten bleiben.",
+      "0% – HoLEP beeinträchtigt die Ejakulation nie.",
+      "100% ohne jede Möglichkeit zur Reduktion.",
+      "Diese Frage wurde in der Leitlinie nicht untersucht."
+    ],
+    "correct": 0,
+    "tip": "Diese ejakulationserhaltende Modifikation ist besonders für jüngere, sexuell aktive Patienten relevant.",
+    "explanation": "Eine retrograde Ejakulation tritt bei etwa 75% der HoLEP-Patienten auf; mittels parakollikulärem Gewebeerhalt kann die antegrade Ejakulation bei etwa der Hälfte der Patienten erhalten werden."
+  },
+  {
+    "question": "Welche Restharnreduktion wird nach HoLEP nach einem Jahr typischerweise erreicht?",
+    "options": [
+      "Eine Restharnreduktion von weniger als 10%.",
+      "Eine Restharnreduktion von über 80%.",
+      "Es gibt keine Veränderung des Restharns nach HoLEP.",
+      "Eine Zunahme des Restharns um durchschnittlich 50%."
+    ],
+    "correct": 1,
+    "tip": "Auch der Qmax verbessert sich signifikant, auf Werte zwischen 21,8 und 27,9 ml/s nach 12 Monaten.",
+    "explanation": "Die Reduktion des Restharns beträgt nach HoLEP nach einem Jahr über 80%."
+  },
+  {
+    "question": "Wie unterscheidet sich die Eindringtiefe des Thulium:YAG-Lasers (TmLEP) von der des Holmium:YAG-Lasers (HoLEP), und welche Konsequenz hat dies?",
+    "options": [
+      "Thulium hat eine größere Eindringtiefe (2 mm) und daher weniger Vaporisationsanteil.",
+      "Thulium hat eine geringere Eindringtiefe (0,2 mm vs. 0,4 mm bei Holmium) und wird meist kontinuierlich emittiert, was zu einem höheren Vaporisationsanteil führt.",
+      "Beide Laser haben identische Eindringtiefen und Emissionsmodi.",
+      "Die Eindringtiefe ist für die Enukleationstechnik ohne jede Relevanz."
+    ],
+    "correct": 1,
+    "tip": "Die eigentliche Operationstechnik (Ein-/Zwei-/Drei-Lappen-Technik mit Morcellierung) entspricht aber im Prinzip der HoLEP.",
+    "explanation": "Der Thulium:YAG-Laser hat mit 0,2 mm eine geringere Eindringtiefe als der Holmium:YAG-Laser (0,4 mm) und wird meist kontinuierlich emittiert, was zu einem höheren Vaporisationsanteil führt."
+  },
+  {
+    "question": "Welchen Empfehlungsgrad erhält die Thuliumlaser-Enukleation (TmLEP) laut Empfehlung 11.27 als Standardverfahren der invasiven BPS-Therapie?",
+    "options": [
+      "Empfehlungsgrad A – sie soll unabhängig vom Prostatavolumen als Alternative zu TURP oder offener Adenomenukleation empfohlen werden.",
+      "Sie wird in der Leitlinie explizit nicht empfohlen.",
+      "Nur Empfehlungsgrad 0, da keine ausreichenden Daten vorliegen.",
+      "Nur für Prostatavolumina unter 20 cm³ empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Allerdings fehlen für die TmLEP im Vergleich zur HoLEP noch Langzeitstudien und Druck-Fluss-Daten.",
+    "explanation": "Die TmLEP gilt als Standardverfahren und soll bei Verfügbarkeit und Erfahrung unabhängig vom Prostatavolumen als Alternative zu TURP oder offener Adenomenukleation empfohlen werden (Empfehlungsgrad A)."
+  },
+  {
+    "question": "Was zeigten mehrere randomisierte Studien zum Vergleich der Diodenlaser-Enukleation (DiLEP) mit bipolarer TURP oder bipolarer Enukleation bezüglich IPSS und Lebensqualität nach bis zu 12 Monaten?",
+    "options": [
+      "DiLEP war in allen Studien deutlich überlegen.",
+      "Es zeigte sich kein signifikanter Unterschied – DiLEP ist damit eine mögliche Alternative zu diesen Techniken.",
+      "DiLEP war in allen Studien signifikant unterlegen.",
+      "Solche Vergleichsstudien wurden nie durchgeführt."
+    ],
+    "correct": 1,
+    "tip": "In Deutschland hat der Diodenlaser bislang allerdings nur wenig Verbreitung gefunden.",
+    "explanation": "Die Diodenlaser-Enukleation zeigt im kurzfristigen Verlauf (bis 12 Monate) keinen signifikanten Unterschied zur bipolaren TURP oder bipolaren Enukleation und ist damit eine mögliche Alternative (EK)."
+  },
+  {
+    "question": "Wie verbreitet ist die Laserenukleation (z.B. HoLEP) im Verhältnis zur TURP aktuell in Deutschland, trotz der nachgewiesenen Vorteile bei Wirksamkeit und Sicherheit?",
+    "options": [
+      "Das Verhältnis TURP:Laserenukleation liegt bei etwa 30:1 – die Laserenukleation ist trotz ihrer Vorteile vergleichsweise wenig verbreitet.",
+      "Laserenukleation wird bereits in 90% aller Fälle eingesetzt.",
+      "TURP wird in Deutschland praktisch nicht mehr durchgeführt.",
+      "Beide Verfahren werden exakt gleich häufig angewendet."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt eher historisch gewachsene Versorgungsstrukturen als die tatsächliche Evidenzlage wider.",
+    "explanation": "Aktuelle Daten aus Deutschland zeigen eine relativ geringe Verbreitung der Laserenukleation, mit einer Verteilung TURP:Laserenukleation von etwa 30:1."
+  }
+]

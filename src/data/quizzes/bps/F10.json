@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Patientengruppe kann das Rezūm™-Verfahren (konvektive Wasserdampfablation) laut Empfehlung 11.30 besonders eine Therapieoption sein?",
+    "options": [
+      "Für Patienten mit dem Wunsch nach Ejakulationserhalt.",
+      "Nur für Patienten mit begleitendem Prostatakarzinom.",
+      "Ausschließlich für vollständig asymptomatische Patienten.",
+      "Nur für Frauen mit überaktiver Blase."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zu vielen medikamentösen und operativen Verfahren zeigte Rezūm in Studien keine sexuellen Funktionsstörungen.",
+    "explanation": "Das Rezūm-Verfahren kann eine Therapieoption des BPS bei Patienten mit Wunsch nach Ejakulationserhalt sein (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Wie wird beim Rezūm-Verfahren die Gewebenekrose erzeugt?",
+    "options": [
+      "Durch elektrischen Strom über eine Resektionsschlinge.",
+      "Durch 103°C heißen Wasserdampf, der über eine Nadel in die Transitionalzone eingebracht wird und durch Kondensation thermale Energie auf die Zellen überträgt.",
+      "Durch einen athermischen Hochdruck-Wasserstrahl ohne jede thermische Komponente.",
+      "Durch eine rein mechanische Kompression mit Nahtankern."
+    ],
+    "correct": 1,
+    "tip": "Der Durchmesser der induzierten Nekrose liegt im Schnitt bei 1,8 cm, ohne thermische Schäden außerhalb der Prostata.",
+    "explanation": "Beim Rezūm-Verfahren wird 103°C heißer Wasserdampf über eine Nadel in die Transitionalzone eingebracht; die Kondensation überträgt thermale Energie, die zur Denaturierung der Zellmembran führt."
+  },
+  {
+    "question": "Wie unterschied sich das Nebenwirkungsprofil von Patienten nach Rezūm-Therapie im Vergleich zu Patienten der MTOPS-Studie (medikamentöse Therapie) in einer komparativen Analyse?",
+    "options": [
+      "Rezūm-Patienten hatten deutlich mehr sexuelle Funktionsstörungen als MTOPS-Patienten.",
+      "Patienten nach Rezūm-Therapie wiesen im Gegensatz zu den MTOPS-Patienten keine sexuellen Funktionsstörungen auf.",
+      "Es zeigte sich kein Unterschied zwischen beiden Gruppen.",
+      "Eine solche Analyse wurde nie durchgeführt."
+    ],
+    "correct": 1,
+    "tip": "Gleichzeitig war die IPSS-Reduktion im Langzeitverlauf äquivalent zur medikamentösen Kombinationstherapie.",
+    "explanation": "Im Gegensatz zu den Patienten der MTOPS-Studie wiesen die Patienten nach einer Rezūm-Therapie keine sexuellen Funktionsstörungen auf."
+  },
+  {
+    "question": "Welches Funktionsprinzip liegt dem Prostatic Urethral Lift (PUL, UroLift®) zugrunde?",
+    "options": [
+      "Resektion von Adenomgewebe mittels Laser.",
+      "Permanente Kompression der Prostataseitenlappen mittels Nahtankern, die ein \"Lifting\" der Urethra bewirken, ohne Gewebeablation.",
+      "Injektion eines zytotoxischen Proteins in die Prostata.",
+      "Implantation eines dauerhaften Metallstents zur Offenhaltung der Harnröhre."
+    ],
+    "correct": 1,
+    "tip": "Ein vergrößerter Mittellappen kann mit dieser Technik formal nicht behandelt werden und war in den RCTs ein Ausschlusskriterium.",
+    "explanation": "Beim PUL werden permanente Anker mittels Nahtmaterial in der prostatischen Urethra platziert, die beide Seitenlappen komprimieren und so eine Öffnung (\"Lifting\") der Urethra bewirken, ohne Gewebe zu abladieren."
+  },
+  {
+    "question": "Was zeigte die RCT von Sonksen et al. beim direkten Vergleich von PUL mit der monopolaren TURP nach 12 Monaten?",
+    "options": [
+      "PUL war der TURP bei der IPSS-Verbesserung überlegen.",
+      "Die TURP zeigte eine größere Verbesserung von IPSS und Qmax, während PUL beim Erhalt der sexuellen Funktion überlegen war (keine retrograde Ejakulation vs. 34% nach TURP).",
+      "Beide Verfahren waren in jeder Hinsicht völlig identisch.",
+      "PUL führte bei allen Patienten zu einer retrograden Ejakulation."
+    ],
+    "correct": 1,
+    "tip": "Diese Ergebnisse wurden später auch im Cochrane Review bestätigt.",
+    "explanation": "Die monopolare TURP zeigte eine größere Verbesserung von IPSS und Qmax als PUL; PUL zeigte dafür keine Einschränkung der sexuellen Funktion, während 34% der TURP-Patienten eine retrograde Ejakulation entwickelten."
+  },
+  {
+    "question": "Für welche Patienten ist das PUL-Verfahren laut Empfehlung 11.38 (Empfehlungsgrad B) als ejakulationsschonende Alternative zur TURP geeignet?",
+    "options": [
+      "Nur für Patienten mit sehr großem, vergrößertem Mittellappen.",
+      "Für Patienten mit einer Prostatagröße bis 80 cm³ und nicht vergrößertem Mittellappen.",
+      "Ausschließlich für Patienten über 90 Jahre.",
+      "Für alle Patienten, unabhängig von Prostatagröße und Mittellappen."
+    ],
+    "correct": 1,
+    "tip": "Ein vergrößerter Mittellappen gilt als technische Einschränkung des Verfahrens.",
+    "explanation": "Die permanente Prostatakompression (PUL) sollte bei Patienten mit einer Prostatagröße bis 80 cm³ und nicht vergrößertem Mittellappen in erfahrenen Zentren als ejakulationsschonende Alternative erwogen werden (Empfehlungsgrad B)."
+  },
+  {
+    "question": "Wie funktioniert das temporär implantierbare Körbchen aus Nitinol (iTIND)?",
+    "options": [
+      "Es reseziert Gewebe mittels eines integrierten Lasers.",
+      "Es erzeugt über drei Spangen während einer 5-7-tägigen Liegezeit eine Drucknekrose in der Prostata und wird anschließend wieder entfernt.",
+      "Es wird dauerhaft in der Prostata belassen und löst sich nie wieder auf.",
+      "Es wirkt über eine chemische Injektion in das Prostatagewebe."
+    ],
+    "correct": 1,
+    "tip": "Eine Ankerlippe vor dem Kollikel verhindert, dass das Körbchen in die Blase disloziert.",
+    "explanation": "Das iTIND erzeugt über drei Spangen während einer Liegezeit von 5-7 Tagen eine Drucknekrose in der Prostata und wird danach über einen Faden wieder entfernt."
+  },
+  {
+    "question": "Für welche Prostatavolumina und bei welchem Patientenwunsch kann das iTIND laut Empfehlung 11.39/11.40 eine Therapiealternative sein?",
+    "options": [
+      "Bei einem Volumen über 150 cm³ mit großem Mittellappen.",
+      "Bei einem Volumen von maximal 75 cm³ ohne endovesikalen Mittellappen, insbesondere bei Wunsch nach Ejakulationserhalt.",
+      "Nur bei Männern mit Harnverhalt und bestehender Niereninsuffizienz.",
+      "Es gibt laut Leitlinie keine Volumenbegrenzung für das iTIND."
+    ],
+    "correct": 1,
+    "tip": "Das Vorhandensein eines Mittellappens stellte in Studien einen Risikofaktor für einen späteren Therapiewechsel dar.",
+    "explanation": "Das iTIND kann bei Prostatae mit einem Volumen bis maximal 75 cm³ ohne endovesikalen Mittellappen eine Therapiealternative sein, insbesondere bei Wunsch nach Ejakulationserhalt (EK)."
+  },
+  {
+    "question": "Wurde in den iTIND-Studien eine de-novo retrograde Ejakulation oder Erektionsstörung beobachtet?",
+    "options": [
+      "Ja, bei fast allen behandelten Patienten.",
+      "Nein – in keiner der Studien wurde eine de-novo retrograde Ejakulation oder Erektionsstörung beobachtet.",
+      "Nur bei Patienten mit großem Mittellappen.",
+      "Dies wurde in den Studien nicht erfasst."
+    ],
+    "correct": 1,
+    "tip": "Dies macht das iTIND zu einer weiteren ejakulationsprotektiven Option im minimalinvasiven Spektrum.",
+    "explanation": "Eine de-novo retrograde Ejakulation oder Erektionsstörung wurde in keiner der iTIND-Studien beobachtet."
+  },
+  {
+    "question": "Welches minimalinvasive Verfahren nutzt einen roboterassistierten, athermischen Hochdruckwasserstrahl zur Gewebeabtragung unter Schonung des Verumontanums zum Ejakulationserhalt?",
+    "options": [
+      "Das Rezūm-Verfahren.",
+      "Die Wasserstrahlablation (Aquablation, Aquabeam®).",
+      "Das PUL-Verfahren (UroLift).",
+      "Der permanente Prostatastent."
+    ],
+    "correct": 1,
+    "tip": "Die Gewebeabtragung erfolgt automatisiert unter Echtzeit-TRUS-Kontrolle.",
+    "explanation": "Bei der Wasserstrahlablation (Aquablation) erfolgt eine roboterassistierte Hochdruck-Hydrodissektion des Prostataparenchyms unter Aussparung des Verumontanums zum Ejakulationserhalt."
+  }
+]

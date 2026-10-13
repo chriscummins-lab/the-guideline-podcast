@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche vier Kernfragen soll die diagnostische Strategie bei Männern mit BPS laut Kapitel 8 beantworten?",
+    "options": [
+      "Nur die Frage nach dem PSA-Wert.",
+      "Zuordnung der Beschwerden zum BPS, Ausmaß der Beschwerden/Behandlungsbedarf, Vorliegen von Komplikationen am Harntrakt sowie das am besten geeignete Therapieverfahren.",
+      "Nur die OP-Indikation und das Narkoserisiko.",
+      "Ausschließlich das Prostatavolumen."
+    ],
+    "correct": 1,
+    "tip": "Diese vier Fragen strukturieren die gesamte diagnostische Gesamtstrategie bei LUTS/BPS.",
+    "explanation": "Die Diagnostik soll beantworten: 1. Sind die Beschwerden dem BPS zuzuordnen? 2. Wie ist das Ausmaß der Beschwerden und besteht Behandlungsbedarf? 3. Bestehen bereits Komplikationen am Harntrakt? 4. Welches Therapieverfahren ist am besten geeignet?"
+  },
+  {
+    "question": "Ist das Lebensalter laut der vorliegenden Datenlage ein gesicherter, unabhängiger Risikofaktor für die Progression eines BPS?",
+    "options": [
+      "Ja, in allen Studien eindeutig und konsistent bestätigt.",
+      "Nein – es gibt keine konsistente Evidenz, dass das Alter ein unabhängiger Risikofaktor für die Progression ist.",
+      "Ja, aber nur bei Männern unter 50 Jahren.",
+      "Das Alter ist der mit Abstand stärkste bekannte Risikofaktor."
+    ],
+    "correct": 1,
+    "tip": "In multivariaten Analysen verschwand der scheinbare Alterseffekt häufig wieder.",
+    "explanation": "In kombinierten Analysen mehrerer Studien (u.a. Placebo-Arme von PLESS und MTOPS) wurde kein deutlicher, unabhängiger Einfluss des Alters auf die Progression gefunden."
+  },
+  {
+    "question": "Welche Parameter zeigten in der univariaten Analyse des Placebo-Arms der MTOPS-Studie ein höheres Risiko für den kombinierten klinischen Progressionsendpunkt?",
+    "options": [
+      "Nur das Körpergewicht der Patienten.",
+      "Basales Prostatavolumen >31 cm³, PSA >1,6 ng/ml, Qmax <10,6 ml/s, Restharn >39 ml oder ein Alter >62 Jahre.",
+      "Ausschließlich die Nykturie-Häufigkeit.",
+      "Keiner der genannten Parameter zeigte eine Assoziation."
+    ],
+    "correct": 1,
+    "tip": "Eine multivariate Bestätigung dieser univariaten Grenzwerte wurde in MTOPS nicht vorgelegt.",
+    "explanation": "In der univariaten Analyse des MTOPS-Placebo-Arms war das Progressionsrisiko höher bei basalem Prostatavolumen >31 cm³, PSA >1,6 ng/ml, Qmax <10,6 ml/s, Restharn >39 ml oder Alter >62 Jahre."
+  },
+  {
+    "question": "Welche absoluten Operationsindikationen gelten laut der Merkbox \"Absolute Operationsindikation\" bei BPS?",
+    "options": [
+      "Jeder erhöhte IPSS-Wert allein.",
+      "Rezidivierender Harnverhalt, rezidivierende Harnwegsinfektionen mit Prostata-/Nebenhodenbeteiligung, rezidivierende Makrohämaturie, Blasensteine, Blasen(pseudo)divertikel sowie Dilatation des oberen Harntrakts mit Nierenfunktionseinschränkung.",
+      "Jede Prostatavergrößerung über 40 cm³.",
+      "Ein einmaliger asymptomatischer Harnwegsinfekt."
+    ],
+    "correct": 1,
+    "tip": "Diese Komplikationen gelten als Folge einer lange bestehenden, nicht adäquat behandelten BOO/BPO.",
+    "explanation": "Als absolute Operationsindikationen gelten rezidivierender Harnverhalt, rezidivierende Harnwegsinfekte mit Prostata-/Nebenhodenbeteiligung, rezidivierende Makrohämaturie, Blasensteine, Blasen(pseudo)divertikel und Dilatation des oberen Harntrakts mit Niereninsuffizienz."
+  },
+  {
+    "question": "Warum ist eine konservative oder medikamentöse Therapie bei Vorliegen einer absoluten Operationsindikation kontraindiziert?",
+    "options": [
+      "Weil Medikamente generell zu teuer sind.",
+      "Weil bei bestehenden Komplikationen nur eine Prostataoperation eine Chance auf adäquate Behandlung und Reversibilität bietet.",
+      "Weil Medikamente grundsätzlich gefährlicher sind als jede Operation.",
+      "Es besteht in diesem Fall keine Kontraindikation."
+    ],
+    "correct": 1,
+    "tip": "Die Detektion solcher Komplikationen ist deshalb ein zentraler Baustein der Diagnostik.",
+    "explanation": "Beim Vorliegen von BPS-Komplikationen ist ein konservatives Vorgehen oder eine medikamentöse Therapie kontraindiziert, da nur eine Prostataoperation eine Chance zur adäquaten Behandlung und Reversibilität hat."
+  },
+  {
+    "question": "Was versteht man unter dem Konzept der \"stummen Obstruktion\" bei der medikamentösen BPS-Therapie?",
+    "options": [
+      "Medikamente heilen die zugrunde liegende Obstruktion vollständig aus.",
+      "Medikamente können die Symptome (LUTS) lindern, obwohl die zugrunde liegende BOO/BPO mit allen Komplikationsmöglichkeiten bestehen bleibt, da viele Medikamente keinen oder nur geringen Effekt auf die Obstruktion selbst haben.",
+      "Dieses Konzept betrifft ausschließlich die Phytotherapie.",
+      "\"Stumme Obstruktion\" bezeichnet eine asymptomatische Harnwegsinfektion."
+    ],
+    "correct": 1,
+    "tip": "Phytopharmaka, Antimuskarinika, Beta-3-Agonisten und PDE5-Inhibitoren haben keinen, Alpha-Blocker und 5-ARI nur geringen Effekt auf die BOO/BPO selbst.",
+    "explanation": "Da viele BPS-Medikamente kaum Effekt auf die BOO/BPO haben, kann ein symptomatischer Patient zu einem Patienten mit wenig LUTS werden, während die Obstruktion mit ihrem Komplikationsrisiko unbemerkt (\"stumm\") fortbesteht."
+  },
+  {
+    "question": "Welche zwei medizinisch gut definierten Selektionskriterien helfen bei der Wahl des am besten geeigneten Therapieverfahrens?",
+    "options": [
+      "Nur das Patientenalter und der Wohnort.",
+      "Vorhandensein und Grad der Blasenauslassobstruktion (BOO/BPO) sowie die Wahrscheinlichkeit der Progression.",
+      "Ausschließlich die Kosten der jeweiligen Therapie.",
+      "Nur die persönliche Präferenz des behandelnden Arztes."
+    ],
+    "correct": 1,
+    "tip": "Diese beiden Kriterien sollen die sonst häufige, kostenintensive Therapiekaskade vermeiden helfen.",
+    "explanation": "Als medizinisch gut definierte Selektionskriterien für die Therapiewahl haben sich das Vorhandensein und der Grad der BOO/BPO sowie die Wahrscheinlichkeit der Progression herauskristallisiert."
+  },
+  {
+    "question": "Wie häufig ist eine Detrusorüberaktivität (DÜA) bei Patienten mit BOO/BPO nach operativer Deobstruktion (z.B. TURP) noch nachweisbar, im Vergleich zu Patienten mit DÜA ohne relevante BOO/BPO?",
+    "options": [
+      "Bei BOO-Patienten persistiert die DÜA in 73% der Fälle weiter.",
+      "Bei BOO-Patienten ist die DÜA nach Deobstruktion in 73% NICHT mehr nachweisbar, während sie bei Patienten ohne relevante BOO in 60% persistiert.",
+      "Die DÜA verschwindet in beiden Gruppen immer vollständig.",
+      "Eine Deobstruktion hat laut Leitlinie keinen Einfluss auf die DÜA."
+    ],
+    "correct": 1,
+    "tip": "Patienten ohne relevante BOO, aber mit persistierender DÜA, haben zudem ein erhöhtes Risiko für eine de-novo-Dranginkontinenz.",
+    "explanation": "Bei Patienten mit DÜA und BOO/BPO ist die DÜA nach Deobstruktion in 73% nicht mehr nachweisbar; bei Patienten mit DÜA ohne relevante BOO/BPO persistiert sie dagegen in 60% der Fälle."
+  },
+  {
+    "question": "Welche Konsequenz hat eine Prostataoperation (z.B. TURP) bei Patienten mit vorbestehender Detrusorunteraktivität im Langzeitverlauf (>10 Jahre) im Vergleich zu nicht operierten Patienten?",
+    "options": [
+      "Operierte Patienten zeigen in dieser Gruppe durchweg bessere Ergebnisse.",
+      "Operierte Patienten mit Detrusorunteraktivität hatten im Vergleich zu nicht operierten (watchful waiting) signifikant höhere Restharnwerte, eine niedrigere Miktionseffizienz und häufiger eine chronische Retention.",
+      "Es besteht kein relevanter Unterschied zwischen beiden Gruppen.",
+      "Eine Operation ist bei Detrusorunteraktivität immer die bessere Therapieoption."
+    ],
+    "correct": 1,
+    "tip": "Dieses Ergebnis unterstreicht, warum vor Re-Operationen eine Druck-Fluss-Messung zur Abklärung sinnvoll ist.",
+    "explanation": "Männer mit Detrusorunteraktivität und Prostataoperation hatten im Langzeitverlauf signifikant höhere Restharnwerte, eine niedrigere Miktionseffizienz und häufiger eine chronische Retention als nicht operierte Männer mit Detrusorunteraktivität."
+  },
+  {
+    "question": "Welche Faktoren des metabolischen Syndroms waren in einer prospektiven Studie signifikant mit einer BPS-Progression assoziiert – und welche nicht?",
+    "options": [
+      "Diabetes mellitus und arterielle Hypertonie waren assoziiert; Adipositas und Hyperlipidämie waren es nicht.",
+      "Nur Adipositas war signifikant assoziiert.",
+      "Alle vier Faktoren zeigten identische, starke Assoziationen.",
+      "Keiner der Faktoren des metabolischen Syndroms zeigte in dieser Studie eine Assoziation."
+    ],
+    "correct": 0,
+    "tip": "Die Risikoschätzer waren ähnlich stark wie die für Prostatavolumen oder PSA berichteten – eine unabhängige Bestätigung fehlt aber bisher.",
+    "explanation": "In einer multivariaten Analyse waren Diabetes mellitus (HR 1,37) und arterielle Hypertonie (HR 1,50), nicht aber Adipositas oder Hyperlipidämie, mit einer BPS-Progression assoziiert."
+  }
+]

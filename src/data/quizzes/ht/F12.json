@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher Faktor ist laut Statement 9.1 beim Seminom im Stadium I unter Überwachung der führende Risikofaktor für ein Rezidiv (mit einer Rezidivrate von insgesamt bis zu 30%)?",
+    "options": [
+      "Die Tumorgröße.",
+      "Das Patientenalter bei Diagnosestellung.",
+      "Ausschließlich die Histologie der Gegenseite.",
+      "Die Körpergröße des Patienten."
+    ],
+    "correct": 0,
+    "tip": "Beim Nichtseminom hingegen ist die Lymph- und Gefäßinvasion der führende Risikofaktor.",
+    "explanation": "Statement 9.1 nennt beim Seminom die Tumorgröße als variablen, führenden Risikofaktor für eine erhöhte Rezidivrate von insgesamt bis zu 30%, während beim Nichtseminom die Lymph- und Gefäßinvasion mit einem 50%igen Risiko okkulter Metastasierung entscheidend ist."
+  },
+  {
+    "question": "Wie werden Patienten mit Rezidiv eines Seminoms nach initialem Stadium I laut der entsprechenden Empfehlung klassifiziert und therapiert?",
+    "options": [
+      "Analog zu primär metastasierten Seminomen nach den IGCCCG-Kriterien.",
+      "Grundsätzlich mit einer alleinigen Watchful-Waiting-Strategie ohne weitere Therapie.",
+      "Nach einem komplett eigenständigen, vom IGCCCG unabhängigen Klassifikationssystem.",
+      "Immer mit einer primären Hochdosis-Chemotherapie, unabhängig vom Stadium."
+    ],
+    "correct": 0,
+    "tip": "Nahezu 100% der Patienten mit einem Rezidiv aus dem Stadium I gehören dabei der guten Prognosegruppe nach IGCCCG an.",
+    "explanation": "Patienten mit Rezidiv eines Seminoms nach initialem Stadium I sollen entsprechend ihrem Stadium analog zu primär metastasierten Seminomen nach den IGCCCG-Kriterien klassifiziert und therapiert werden."
+  },
+  {
+    "question": "Welche Besonderheit gilt laut Empfehlung 9.2 für Patienten mit Rezidiv eines nichtseminomatösen KZT weniger als 6 Monate nach adjuvanter Therapie mit zwei Zyklen PEB?",
+    "options": [
+      "Es sollten alternative Chemotherapieprotokolle (z. B. PEI, TIP, Hochdosis-Chemotherapie) in Betracht gezogen werden.",
+      "Es wird grundsätzlich keine weitere Therapie mehr angeboten.",
+      "Es erfolgt automatisch eine erneute Therapie mit genau demselben PEB-Schema.",
+      "Diese Patienten werden ausschließlich operativ ohne jede Chemotherapie behandelt."
+    ],
+    "correct": 0,
+    "tip": "Bei längerem Intervall bis zum Rezidiv wird dagegen häufig erneut mit PEB behandelt.",
+    "explanation": "Empfehlung 9.2 sieht für Rezidive innerhalb von 6 Monaten nach adjuvanter Zweizyklus-PEB-Therapie die Diskussion alternativer Chemotherapieprotokolle wie PEI, TIP oder einer Hochdosis-Chemotherapie vor, da hierzu wenig Evidenz zum Fortführen des gleichen Schemas besteht."
+  },
+  {
+    "question": "Nach welcher Risiko-Klassifikation sollen laut der entsprechenden Empfehlung Patienten mit Rezidiv nach Erstlinienchemotherapie der metastasierten Erkrankung eingeteilt werden?",
+    "options": [
+      "Nach der D'Amico-Klassifikation.",
+      "Nach der Risiko-Klassifikation der 'International Prognostic Factors Study Group'.",
+      "Nach der ursprünglichen IGCCCG-Klassifikation von 1997 unverändert.",
+      "Es existiert keine etablierte Risikoklassifikation für diese Situation."
+    ],
+    "correct": 1,
+    "tip": "Diese Klassifikation unterscheidet fünf Risikogruppen von 'very low' bis 'very high risk', basierend auf sieben Prognosefaktoren.",
+    "explanation": "Patienten mit Rezidiv nach Erstlinienchemotherapie der metastasierten Erkrankung sollen nach der Risiko-Klassifikation der 'International Prognostic Factors Study Group' eingeteilt werden, die fünf Risikogruppen unterscheidet."
+  },
+  {
+    "question": "Welche sieben Prognosefaktoren fließen laut Leitlinientext in die Risiko-Klassifikation der 'International Prognostic Factors Study Group' ein?",
+    "options": [
+      "Nur das Patientenalter und das Körpergewicht.",
+      "Primäre Histologie, Primärtumorlokalisation, Ansprechen auf die Primärtherapie, progressionsfreies Intervall, nicht-pulmonale viszerale Metastasen, Serumtumormarker-Erhöhung (AFP/Beta-hCG) und – als siebter Faktor laut Studiendesign.",
+      "Ausschließlich die Anzahl vorheriger Chemotherapiezyklen.",
+      "Die Blutgruppe des Patienten."
+    ],
+    "correct": 1,
+    "tip": "Je nach Risikogruppe variiert das 2-Jahres progressionsfreie Überleben zwischen unter 10% und 75%.",
+    "explanation": "Die sieben Prognosefaktoren umfassen primäre Histologie, Primärtumorlokalisation, Ansprechen auf die primäre Therapie, progressionsfreies Intervall nach primärer Therapie, nicht-pulmonale viszerale Metastasen zum Zeitpunkt des Rezidivs und eine Serumtumormarker-Erhöhung (AFP und Beta-hCG)."
+  },
+  {
+    "question": "Welche drei Substanzen bilden laut Leitlinientext das Grundgerüst der konventionell dosierten Salvage-Chemotherapien (PEI/VIP, TIP, VeIP)?",
+    "options": [
+      "Cisplatin und Ifosfamid als gemeinsames Grundgerüst plus eine dritte Substanz (Etoposid, Paclitaxel oder Vinblastin).",
+      "Ausschließlich Carboplatin als Monotherapie.",
+      "Methotrexat, Vincristin und Prednison.",
+      "Doxorubicin, Cyclophosphamid und Bleomycin."
+    ],
+    "correct": 0,
+    "tip": "Alle Regime werden über vier Zyklen im 21-tägigen Abstand appliziert; von einer Gleichwertigkeit von PEI und TIP wird ausgegangen.",
+    "explanation": "Das Grundgerüst der Salvage-Chemotherapien bilden Cisplatin und Ifosfamid, ergänzt um Etoposid (PEI/VIP), Paclitaxel (TIP) oder – heute seltener – Vinblastin (VeIP)."
+  },
+  {
+    "question": "Welches Schema ist laut Leitlinientext aktuell das am häufigsten verwendete Salvage-Schema, und welche Remissionsrate wird bei Kombination mit konsequenter Residualtumorresektion < 1 cm erreicht?",
+    "options": [
+      "Das TIP-Schema, mit kompletter Remission bei etwa 70% der Patienten.",
+      "Das klassische PEB-Schema, mit 100% Remission bei allen Patienten.",
+      "Carboplatin-Monotherapie, mit 20% Remission.",
+      "Das VeIP-Schema als heute meistgenutztes Protokoll."
+    ],
+    "correct": 0,
+    "tip": "Das 2-Jahres progressionsfreie Überleben liegt dabei bei etwa 65%, das 2-Jahres-Gesamtüberleben bei 78%.",
+    "explanation": "Das TIP-Schema ist aktuell das am häufigsten verwendete Salvage-Schema; in Kombination mit konsequenter Resektion aller Residualtumoren < 1 cm wird bei nichtseminomatösem KZT eine komplette Remission bei etwa 70% der Patienten erreicht."
+  },
+  {
+    "question": "Was zeigte die randomisierte IT-94-Studie beim Vergleich konventioneller Salvage-Chemotherapie versus Hochdosis-Chemotherapie mit CEC hinsichtlich Gesamtüberleben nach fünf Jahren?",
+    "options": [
+      "Die 5-Jahres-Gesamtüberlebenswahrscheinlichkeit war mit 53% in beiden Armen gleich, trotz signifikant höherer 3-Jahres-rezidivfreier Überlebensrate im Hochdosis-Arm.",
+      "Die Hochdosis-Chemotherapie zeigte ein signifikant besseres Gesamtüberleben in jeder Hinsicht.",
+      "Die konventionelle Chemotherapie war in jeder Hinsicht signifikant überlegen.",
+      "Es gab keinerlei Unterschiede in Toxizität oder Ansprechen zwischen beiden Armen."
+    ],
+    "correct": 0,
+    "tip": "Hämatogene und gastrointestinale Toxizitäten waren jeweils signifikant häufiger unter Hochdosis-Chemotherapie.",
+    "explanation": "Die IT-94-Studie zeigte eine mit 53% identische 5-Jahres-Gesamtüberlebenswahrscheinlichkeit in beiden Armen, obwohl die 3-Jahres-rezidivfreie Überlebensrate im Hochdosis-Arm signifikant höher war (75% vs. 55%); die Art der Therapie war kein unabhängiger prognostischer Marker für das Gesamtüberleben."
+  },
+  {
+    "question": "Welche Patientengruppen können laut Leitlinientext nach Rezidiv einer metastasierten Erkrankung potenziell alleinig operativ (ohne Salvage-Chemotherapie) behandelt werden?",
+    "options": [
+      "Patienten mit Spätrezidiven und Patienten mit einem 'Growing Teratoma Syndrome'.",
+      "Alle Patienten mit Rezidiv, unabhängig von der Konstellation.",
+      "Ausschließlich Patienten mit primär mediastinalem Keimzelltumor.",
+      "Nur Patienten mit Hirnmetastasen."
+    ],
+    "correct": 0,
+    "tip": "Bei der Mehrheit der übrigen Rezidiv-Patienten ist dagegen eine Salvage-Chemotherapie notwendig.",
+    "explanation": "Ein kleiner Teil der Rezidiv-Patienten kann alleinig operativ behandelt werden – dazu gehören Patienten mit Spätrezidiven und solche mit einem 'Growing Teratoma Syndrome'."
+  },
+  {
+    "question": "Wie groß ist etwa der Anteil der Patienten mit initial metastasierter Tumorerkrankung, der im Verlauf ein erneutes Rezidiv entwickelt, und welcher Anteil davon kann durch erneutes multimodales Vorgehen noch geheilt werden?",
+    "options": [
+      "Etwa ein Drittel entwickelt ein Rezidiv, davon kann etwa die Hälfte noch geheilt werden.",
+      "Nahezu 100% entwickeln ein Rezidiv, von denen niemand mehr geheilt werden kann.",
+      "Weniger als 1% entwickeln jemals ein Rezidiv.",
+      "Etwa zwei Drittel entwickeln ein Rezidiv, von denen praktisch keiner mehr geheilt werden kann."
+    ],
+    "correct": 0,
+    "tip": "Entscheidend für die Heilungschance beim Nichtseminom ist dabei auch die vollständige Resektion aller Residuen von unter 1 cm.",
+    "explanation": "Etwa ein Drittel der Patienten mit initial metastasierter Tumorerkrankung entwickelt im Verlauf ein erneutes Rezidiv; durch erneutes multimodales Vorgehen mit Salvage-Kombinationschemotherapie und ggf. vollständiger Resektion aller Residuen < 1 cm kann etwa die Hälfte dieser Patienten noch geheilt werden."
+  }
+]

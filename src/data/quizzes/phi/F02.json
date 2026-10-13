@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll die Anamnese laut Empfehlung 4 bei Verdacht auf Phimose umfassen?",
+    "options": [
+      "Nur die Frage nach dem aktuellen Alter des Kindes.",
+      "Vorerkrankungen (Harntransportstörungen, Harnwegsinfekte, Paraphimose, Balanoposthitis), klinische Symptome (Schmerzen, Ballonierung) und den Leidensdruck des Kindes.",
+      "Ausschließlich die Familienanamnese der Eltern.",
+      "Nur die Frage nach der Geburtsmethode."
+    ],
+    "correct": 1,
+    "tip": "Auch ein evtl. vorliegender Leidensdruck des Kindes aufgrund der Nichtreponierbarkeit soll erfragt werden.",
+    "explanation": "Die Anamnese soll Fragen zu Vorerkrankungen, klinischen Symptomen wie Schmerzen oder Ballonierung sowie zum Leidensdruck des Kindes umfassen (Empfehlung 4)."
+  },
+  {
+    "question": "Worauf soll bei der klinischen Untersuchung laut Empfehlung 5 besonders geachtet werden?",
+    "options": [
+      "Nur auf die Penislänge.",
+      "Auf Narbenbildung, die Unterscheidung eines langstreckig engen von einem nur distal engen Präputium sowie den Verdacht auf Lichen sclerosus (weißliche Narben/Plaques).",
+      "Ausschließlich auf den Hodenstand.",
+      "Eine reine Blickdiagnose ohne weitere Differenzierung genügt."
+    ],
+    "correct": 1,
+    "tip": "Diese Differenzierung beeinflusst Notwendigkeit und Art der Behandlung.",
+    "explanation": "Bei der klinischen Untersuchung ist auf Narbenbildung zu achten, ein langstreckig enges von einem distal engen Präputium zu unterscheiden und auf Zeichen eines Lichen sclerosus zu achten (Empfehlung 5)."
+  },
+  {
+    "question": "Wie soll die klinische Untersuchung laut Empfehlung 6 durchgeführt werden?",
+    "options": [
+      "Möglichst schnell und ohne weitere Erklärung.",
+      "Altersgerecht, in kindgerechter Umgebung, durch erfahrene Untersuchende.",
+      "Grundsätzlich nur unter Vollnarkose.",
+      "Ausschließlich durch die Eltern selbst zu Hause."
+    ],
+    "correct": 1,
+    "tip": "Die Behandlung einer Phimose gilt als sensibler Bereich, der einfühlsames Vorgehen erfordert.",
+    "explanation": "Die klinische Untersuchung soll altersgerecht in einer kindgerechten Umgebung durch erfahrene Untersuchende erfolgen (Empfehlung 6)."
+  },
+  {
+    "question": "Was ist laut Empfehlung 7 das Ziel der Phimose-Behandlung?",
+    "options": [
+      "Eine möglichst radikale Entfernung der gesamten Vorhaut bei jedem Patienten.",
+      "Beschwerdefreiheit (vor Pubertätsabschluss) und freie Zurückstreifbarkeit (nach Pubertätsabschluss), mit möglichst weitgehendem Vorhauterhalt.",
+      "Ausschließlich die Verhinderung einer Harnwegsinfektion.",
+      "Eine rein kosmetische Optimierung des Erscheinungsbildes."
+    ],
+    "correct": 1,
+    "tip": "Die zugrundeliegende Pathologie soll kuriert werden, wobei das Präputium möglichst erhalten bleiben soll.",
+    "explanation": "Ziel der Behandlung soll die Beschwerdefreiheit und die freie Zurückstreifbarkeit sein, wobei das Präputium wenn möglich erhalten werden soll (Empfehlung 7)."
+  },
+  {
+    "question": "Stellt die alleinige Nicht-Retrahierbarkeit der Vorhaut durch Adhäsionen oder Smegmaretentionszysten ohne Beschwerden eine Behandlungsindikation dar?",
+    "options": [
+      "Ja, immer.",
+      "Nein, dies soll laut Empfehlung 9 keine Behandlungsindikation darstellen.",
+      "Nur bei Jungen über 10 Jahren.",
+      "Nur, wenn die Eltern es ausdrücklich wünschen."
+    ],
+    "correct": 1,
+    "tip": "Erst Beschwerden oder ein störendes/schmerzhaftes Ballonieren begründen eine Behandlungsindikation.",
+    "explanation": "Die alleinige Nicht-Retrahierbarkeit der Vorhaut durch präputiale Adhäsionen oder Smegmaretentionszysten ohne Beschwerden soll keine Behandlungsindikation darstellen (Empfehlung 9)."
+  },
+  {
+    "question": "Mit welchem Schema soll die topische Kortikoidbehandlung laut Empfehlung 10 erfolgen?",
+    "options": [
+      "Als einmalige Stoßtherapie.",
+      "1-2x täglich über vier Wochen.",
+      "Dauerhaft über mehrere Jahre ohne Unterbrechung.",
+      "Nur bei akuten Schmerzen nach Bedarf, ohne festes Schema."
+    ],
+    "correct": 1,
+    "tip": "Belastbare Evidenz liegt u.a. für Betamethason, Mometason-Furoat, Fluticason-Propionat und Clobetasol-Propionat vor.",
+    "explanation": "Die topische Behandlung soll mit einer kortikoidhaltigen Salbe 1-2x täglich über vier Wochen vorgenommen werden (Empfehlung 10)."
+  },
+  {
+    "question": "Welches Kortikoid soll laut Empfehlung 10 bei Verdacht auf Lichen sclerosus bevorzugt zum Einsatz kommen?",
+    "options": [
+      "Hydrocortison als schwächstes verfügbares Präparat.",
+      "Clobetasol-Propionat als potentestes verfügbares Agens.",
+      "Es spielt laut Leitlinie keine Rolle, welches Präparat verwendet wird.",
+      "Ausschließlich rein pflanzliche Präparate."
+    ],
+    "correct": 1,
+    "tip": "Clobetasol darf allerdings bei Kindern unter drei Jahren nicht angewendet werden.",
+    "explanation": "Besteht der Verdacht auf einen Lichen sclerosus, soll mit dem potentesten Agens Clobetasol-Propionat begonnen werden (Empfehlung 10)."
+  },
+  {
+    "question": "Wie lange sollte die Behandlungsdauer mit topischen Steroiden laut Empfehlung 11 maximal betragen, und wie oft sollen Kontrollen erfolgen?",
+    "options": [
+      "Maximal drei Monate und maximal zwei Zyklen, mit Kontrollen mindestens alle vier Wochen.",
+      "Unbegrenzt lange, ohne jede Kontrolluntersuchung.",
+      "Maximal drei Tage insgesamt.",
+      "Nur eine einmalige Kontrolle am Ende der gesamten Therapie."
+    ],
+    "correct": 0,
+    "tip": "Für eine Behandlung jenseits dieser Dauer liegt keine klinische Evidenz vor.",
+    "explanation": "Die Behandlungsdauer sollte maximal drei Monate betragen und sich auf zwei Zyklen beschränken; klinische Kontrollen sollen während der Therapie wenigstens alle vier Wochen erfolgen (Empfehlung 11)."
+  },
+  {
+    "question": "Ist die Phimosebehandlung mit Glukokortikoidsalben eine offiziell zugelassene Anwendung dieser Präparate?",
+    "options": [
+      "Ja, uneingeschränkt für diese Indikation zugelassen.",
+      "Nein, die Behandlung erfolgt off-label, worüber die Sorgeberechtigten aufgeklärt werden müssen.",
+      "Nur bei Kindern unter einem Jahr offiziell zugelassen.",
+      "Die Zulassungsfrage spielt für die Behandlung keine Rolle."
+    ],
+    "correct": 1,
+    "tip": "Dies betrifft insbesondere auch die Altersbeschränkungen einzelner Wirkstoffe wie Clobetasol oder Mometason.",
+    "explanation": "Die Behandlung einer Phimose gehört nicht zu den zugelassenen Anwendungen glukokortikoidhaltiger Externa und erfolgt daher off-label; die Sorgeberechtigten müssen hierauf hingewiesen werden."
+  },
+  {
+    "question": "Was soll laut Empfehlung 12 vor einer erneuten topischen Behandlung bei einem Rezidiv geprüft werden?",
+    "options": [
+      "Direkt eine Zirkumzision planen, ohne weitere Abklärung.",
+      "Die Adhärenz (korrekte Anwendung) der vorherigen Behandlung.",
+      "Ausschließlich das aktuelle Körpergewicht des Kindes.",
+      "Nichts – man beginnt einfach unverändert erneut."
+    ],
+    "correct": 1,
+    "tip": "Rezidive sind insgesamt selten und häufig auf eine mangelnde Adhärenz zurückzuführen.",
+    "explanation": "Bei einem Rezidiv soll vor einer erneuten topischen Behandlung die Adhärenz geprüft werden (Empfehlung 12)."
+  }
+]

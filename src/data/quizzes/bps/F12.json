@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll laut Empfehlung 12.1 vor jeder interventionellen BPS-Therapie bei Patienten unter Antikoagulation/Thrombozytenaggregationshemmung erfolgen?",
+    "options": [
+      "Keine besondere Vorbereitung ist notwendig.",
+      "Eine Abwägung des individuellen Blutungsrisikos gegen das Risiko thromboembolischer Ereignisse.",
+      "Eine generelle, unbefristete Beendigung der Antikoagulation.",
+      "Eine routinemäßige präoperative Bluttransfusion."
+    ],
+    "correct": 1,
+    "tip": "Diese Abwägung bildet die Grundlage für alle weiteren perioperativen Entscheidungen in diesem Kapitel.",
+    "explanation": "Vor jeder interventionellen BPS-Therapie bei Patienten unter AK/TAH soll das individuelle Blutungsrisiko gegen das Risiko thromboembolischer Ereignisse abgewogen werden (Empfehlung 12.1, EK)."
+  },
+  {
+    "question": "Wie wird das thromboembolische Risiko bei Patienten mit chronischem Vorhofflimmern typischerweise berechnet?",
+    "options": [
+      "Mittels des HAS-BLED-Scores.",
+      "Mittels des CHA2DS2-VASc-Scores.",
+      "Mittels des IPSS-Fragebogens.",
+      "Es gibt kein standardisiertes Scoring-System hierfür."
+    ],
+    "correct": 1,
+    "tip": "Bereits ab einem Score von 1 besteht die Indikation zur lebenslangen oralen Antikoagulation.",
+    "explanation": "Die Berechnung des thromboembolischen Risikos für Patienten mit chronischem Vorhofflimmern erfolgt mittels des CHA2DS2-VASc-Scores."
+  },
+  {
+    "question": "Welcher Score wird zur Einschätzung des Blutungsrisikos unter oraler Antikoagulation bei Vorhofflimmern verwendet, und ab welchem Punktwert gilt das Blutungsrisiko als erhöht?",
+    "options": [
+      "Der CHA2DS2-VASc-Score; bereits ab einem Punktwert von 1.",
+      "Der HAS-BLED-Score; ab einem Punktwert von 3 (von maximal 9 Punkten).",
+      "Der IPSS-Score; ab 20 Punkten.",
+      "Ein solcher Score existiert nicht."
+    ],
+    "correct": 1,
+    "tip": "Ab einem Score von 6 liegen laut Leitlinie allerdings keine verlässlichen Daten zu den Blutungsraten mehr vor.",
+    "explanation": "Das Pendant zur Einschätzung des Blutungsrisikos ist der HAS-BLED-Score; ab einem Score von 3 ist von einem erhöhten Blutungsrisiko durch die Antikoagulation auszugehen."
+  },
+  {
+    "question": "Welches Medikament stellt laut Statement 12.4 eine Ausnahme dar und muss vor interventioneller BPS-Therapie NICHT pausiert werden?",
+    "options": [
+      "Phenprocoumon (Marcumar).",
+      "Acetylsalicylsäure (ASS), da sie nicht pausiert werden muss und keine relevante Beeinflussung des Blutungsrisikos zeigt.",
+      "Alle DOAKs ausnahmslos.",
+      "Clopidogrel."
+    ],
+    "correct": 1,
+    "tip": "Dies unterscheidet ASS deutlich von anderen Thrombozytenaggregationshemmern und Antikoagulantien.",
+    "explanation": "Acetylsalicylsäure stellt hinsichtlich Absetzen/Bridging eine Ausnahme dar, da sie nicht pausiert werden muss und keine Beeinflussung des Blutungsrisikos zeigt (Statement 12.4, EK)."
+  },
+  {
+    "question": "Ist ein perioperatives Bridging mit niedermolekularem Heparin für Patienten unter DOAK-Therapie erforderlich?",
+    "options": [
+      "Ja, dies ist immer zwingend erforderlich.",
+      "Nein – ein Bridging ist für DOAKs nicht erforderlich und kann das Blutungsrisiko sogar erhöhen.",
+      "Nur bei Männern über 80 Jahren.",
+      "Nur bei kleinem Prostatavolumen."
+    ],
+    "correct": 1,
+    "tip": "Stattdessen richtet sich das Pausieren der DOAK-Einnahme nach Nierenfunktion und Blutungsrisiko des Eingriffs.",
+    "explanation": "Ein perioperatives Bridging ist für DOAKs nicht erforderlich; ein solches erhöht das Blutungsrisiko sogar."
+  },
+  {
+    "question": "Wovon hängt laut Tabelle 10 der Zeitpunkt der letzten DOAK-Einnahme vor einem BPS-Eingriff ab?",
+    "options": [
+      "Ausschließlich vom Alter des Patienten.",
+      "Von der Nierenfunktion (GFR) des Patienten und dem Blutungsrisiko des geplanten Eingriffs.",
+      "Ausschließlich vom Körpergewicht des Patienten.",
+      "Es müssen laut Leitlinie keine patientenspezifischen Faktoren berücksichtigt werden."
+    ],
+    "correct": 1,
+    "tip": "Transurethrale Operationen werden dabei grundsätzlich als Eingriffe mit hohem Blutungsrisiko eingestuft.",
+    "explanation": "Der Zeitpunkt der letzten DOAK-Einnahme richtet sich nach der glomerulären Filtrationsrate (GFR) des Patienten und dem Blutungsrisiko des Eingriffs (Tabelle 10)."
+  },
+  {
+    "question": "Welches Operationsverfahren weist laut Statement 12.7 das höchste Blutungsrisiko unter den BPS-Therapieoptionen auf?",
+    "options": [
+      "Die Holmiumlaser-Enukleation.",
+      "Die offen-chirurgische Adenomektomie.",
+      "Das PUL-Verfahren (UroLift).",
+      "Die Phytotherapie."
+    ],
+    "correct": 1,
+    "tip": "Dies ist einer der Gründe, warum bei antikoagulierten Patienten eher minimalinvasive oder Lasertechniken bevorzugt werden.",
+    "explanation": "Die offen-chirurgische Adenomektomie beinhaltet laut Statement 12.7 das höchste Blutungsrisiko unter allen BPS-Therapieoptionen."
+  },
+  {
+    "question": "Welche Resektionstechnik ist laut Statement 12.7 bezüglich der Hämostase überlegen: die bipolare oder die monopolare TURP?",
+    "options": [
+      "Die monopolare TURP ist der bipolaren TURP hämostatisch überlegen.",
+      "Die bipolare TURP ist der monopolaren TURP bezüglich Blutungsrisiko und Transfusionsrate überlegen.",
+      "Beide Techniken sind bezüglich der Hämostase exakt gleichwertig.",
+      "Die Hämostase spielt bei der Wahl der TURP-Technik keine Rolle."
+    ],
+    "correct": 1,
+    "tip": "Dies ist technisch durch die lokale statt körperferne Neutralelektrode bei der bipolaren Technik bedingt.",
+    "explanation": "Bezüglich der transurethralen Techniken ist die bipolare der monopolaren TURP hinsichtlich der Hämostase überlegen (Statement 12.7)."
+  },
+  {
+    "question": "Welche Operationstechniken sollten laut Empfehlung 12.8 bei Patienten mit Antikoagulation/Thrombozytenaggregationshemmung bevorzugt eingesetzt werden?",
+    "options": [
+      "Ausschließlich die offene Adenomenukleation.",
+      "Bevorzugt transurethrale Lasertechniken, da sie mit niedrigeren Blutungsrisiken und Transfusionsraten einhergehen.",
+      "Ausschließlich die monopolare TURP.",
+      "Eine Operation ist unter Antikoagulation grundsätzlich nicht möglich."
+    ],
+    "correct": 1,
+    "tip": "Greenlightlaser-, Holmiumlaser- und Thuliumlaser-Verfahren fallen hierunter.",
+    "explanation": "Bei Vorhandensein von Antikoagulation/Thrombozytenaggregationshemmung sollten bevorzugt transurethrale Lasertechniken zur Anwendung kommen (Empfehlung 12.8, EK)."
+  },
+  {
+    "question": "Welches minimalinvasive Verfahren wird laut der Leitlinie wegen eines relativ hohen Nachblutungsrisikos für Patienten unter Antikoagulation/TAH als eher weniger geeignet eingeschätzt?",
+    "options": [
+      "Das iTIND.",
+      "Die Wasserstrahlablation (Aquablation).",
+      "Das PUL-Verfahren (UroLift).",
+      "Die Prostata-Arterien-Embolisation (PAE)."
+    ],
+    "correct": 1,
+    "tip": "In der zugrunde liegenden Studie lag die Nachblutungsrate nach Aquablation bei 13,8%.",
+    "explanation": "Die Aquablation weist ein relativ hohes Nachblutungsrisiko auf und scheint deshalb für Patienten unter AK/TAH eher weniger geeignet zu sein."
+  }
+]

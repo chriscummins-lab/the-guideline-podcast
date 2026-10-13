@@ -1,0 +1,73 @@
+{
+  "guideline": "S2k-Leitlinie Phimose und Paraphimose bei Kindern und Jugendlichen",
+  "glCode": "PHI",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "PHI_F01_GrundlagenKrankheitsbilder",
+      "titel": "Grundlagen – Definition, Vorhautphysiologie & Krankheitsbilder",
+      "kapitel": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf die Kapitel 1–4 der S2k-Leitlinie Phimose/Paraphimose: Einleitung, Definition, Vorhautphysiologie und Krankheitsbilder.\nInhalte:\n- Zentrale Definition: Die Pathologie einer Phimose wird NICHT über das Vorliegen einer Enge per se definiert, sondern ausschließlich über aktuelle oder zeitnah zu erwartende Beschwerden mit Krankheitswert (Empfehlung 1).\n- Physiologische Präputialenge im Säuglings-/Kleinkindesalter: Entwicklungsdynamik (mit 7 Jahren kann ca. die Hälfte der Jungen die Vorhaut zurückstreifen, mit 10 Jahren zwei Drittel, mit 13 Jahren noch 8% eng).\n- Funktion der Vorhaut: Innervation (Meissner-, Merkel-, Vater-Pacini-Körperchen, das nervenreiche \"Ridged Band\"), Durchblutung und immunologische Funktion.\n- Smegma-Retentionszysten und Vorhautverklebungen als harmloses Entwicklungsphänomen – häufige Fehldeutung als Zirkumzisionsindikation.\n- Primäre vs. sekundäre (narbige) Phimose; Frenulum breve.\n- Lichen sclerosus (Balanoposthitis xerotica obliterans): Häufigkeitsgipfel bei 7 Jahren, Erscheinungsbild (weißlich-derbe Vernarbung, Plaquebildung), Therapie der ersten Wahl (hochpotentes Kortikosteroid über 3 Monate, bei Versagen Zirkumzision mit obligater Histologie).\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich fundierten Dialog beim Kaffee nach der Frühbesprechung.\n- Kollegial, präzise und differenziert, mit feinem ärztlichem Humor. Keine Verwässerung medizinischer Fachbegriffe.\n- Diskutiert den typischen Fallstrick: harmlose Vorhautverklebung vs. echte behandlungsbedürftige Phimose.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 21
+    },
+    {
+      "folge": 2,
+      "stem": "PHI_F02_DiagnostikKonservativeTherapie",
+      "titel": "Diagnostik & Konservative Therapie",
+      "kapitel": [
+        "5",
+        "6.1",
+        "6.2",
+        "6.3.1"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5 (Diagnostik) und Kapitel 6.1–6.3.1 (Behandlungsziel, Indikation, konservative Therapie) der S2k-Leitlinie Phimose/Paraphimose.\nInhalte:\n- Diagnostik: Anamnese (Vorerkrankungen, Harnwegsinfekte, Paraphimose, Balanoposthitis, Schmerzen, Leidensdruck) und kindgerechte klinische Untersuchung durch erfahrene Untersuchende.\n- Wichtige Unterscheidung: langstreckig enges, narbenfreies Präputium vs. nur distal enge Vorhaut – und der Verdacht auf Lichen sclerosus (weißliche Narben/Plaques).\n- Behandlungsziel: Beschwerdefreiheit und (nach Pubertätsabschluss) freie Zurückstreifbarkeit unter möglichst weitgehendem Vorhauterhalt.\n- Indikationsstellung: Nur bei relevanten (bestehenden oder zeitnah zu erwartenden) Beschwerden – NICHT bei alleiniger Nicht-Retrahierbarkeit durch Adhäsionen oder Smegmaretentionszysten (Empfehlung 9).\n- Konservative Salbentherapie: Wirkstoffe (Betamethason, Mometason, Fluticason, Clobetasol bei V.a. Lichen sclerosus), Anwendungsschema (1–2x täglich über 4 Wochen, max. 3 Monate/2 Zyklen), Erfolgsraten bis 90%, Off-Label-Status und Aufklärungspflicht gegenüber den Sorgeberechtigten.\n- Vorgehen bei Rezidiv: zunächst Prüfung der Anwendungs-Adhärenz vor erneuter Salbenbehandlung.\nFormat & Moderation:\n- Zwei urologische Kollegen im kollegialen Dialog in der Kindersprechstunde.\n- Hebt hervor, warum die Indikationsschwelle für Salbe und OP identisch ist – und warum eine \"Salbe auf Verdacht\" ohne echte Indikation in die falsche OP-Empfehlung münden kann.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 19
+    },
+    {
+      "folge": 3,
+      "stem": "PHI_F03_OperativeTherapie",
+      "titel": "Operative Therapie – Technik, Anästhesie & Komplikationen",
+      "kapitel": [
+        "6.3.2",
+        "6.4.1",
+        "6.4.2"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.3.2 (Operative Therapie) sowie 6.4.1–6.4.2 (Komplikationen nach konservativer/operativer Behandlung) der S2k-Leitlinie Phimose/Paraphimose.\nInhalte:\n- Grundsätzliches: Keine medizinische OP-Indikation im Säuglingsalter (Ausnahme: hochgradige Uropathologie); Aufklärungspflichten (Nachblutung, Infektion, Sensibilitätseinschränkung, Meatusstenose, Rezidiv, spätere funktionelle/psychosexuelle Beeinträchtigung); obligate Histologie des Resektats.\n- Anästhesiologisches Management: Alters- und erfahrungsabhängiges Komplikationsrisiko; der distale Penisnervenblock (DPNB/Peniswurzelblock) als Methode der ersten Wahl in Kombination mit Allgemeinanästhesie, Kaudalblock als Alternative, ergänzend Nicht-Opioid-Analgetika und bei Säuglingen nicht-pharmakologische Maßnahmen.\n- Operationstechniken: vorhauterhaltend (\"Triple Incision\"/Welsch-Plastik, Rezidivrisiko 11–20%) vs. vorhautresezierend (free-hand, Plastibell-Technik, Guillotine-/Mogen-Klemmen-Technik) und deren jeweilige Risiken.\n- Kontraindikationen: Hypospadie, Epispadie, kongenitale Penisdeviation, buried Penis.\n- Komplikationsspektrum: Nachblutung/Ödem/Wundinfekt (bis 5%), seltene urethrokutane Fisteln durch Elektrokoagulation, Meatusstenose (bis 20% nach Neugeborenenbeschneidung), sehr seltene schwere Komplikationen bei unsachgemäßer Klemmentechnik.\nFormat & Moderation:\n- Kollegiales Fachgespräch zweier Operateure vor dem OP-Programm.\n- Fokus auf Technikwahl je nach Alter/Befund und auf die korrekte präoperative Aufklärung.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 19
+    },
+    {
+      "folge": 4,
+      "stem": "PHI_F04_PsychosexuellePraevention",
+      "titel": "Psychosexuelle Aspekte & Phimose als Präventionsargument",
+      "kapitel": [
+        "6.4.3",
+        "6.4.4",
+        "7"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.4.3–6.4.4 (psychische und sexuelle Aspekte) sowie Kapitel 7 (Phimosebehandlung als Prävention) der S2k-Leitlinie Phimose/Paraphimose.\nInhalte:\n- Partizipative Entscheidungsfindung: Patienten sollen altersgerecht und nachvollziehbar in die Entscheidung einbezogen werden (Empfehlung 19); Hinweis auf mögliche psychische Beeinträchtigungen (v.a. bei nicht-medizinisch-indizierter bzw. nicht adäquat analgesierter Zirkumzision) – Studienlage überwiegend niedriges Evidenzniveau, SDQ als Screeninginstrument.\n- Sexuelle Funktion und Erleben: Uneinheitliche/widersprüchliche Studienlage zu Sensitivität, Ejakulation und Libido; Notwendigkeit der Aufklärung über potenzielle, aber nicht sicher belegte Auswirkungen.\n- Prävention von Harnwegsinfekten: Zirkumzision nur bei relevanter Uropathologie (hochgradiger VUR, hintere Harnröhrenklappen) sinnvoll – NICHT als generelle Präventionsmaßnahme.\n- Das \"STI-Argument\": Zirkumzision senkt laut aktueller Datenlage sexuell übertragbare Erkrankungen NICHT (Empfehlung 21) – HPV-Prävention erfolgt über Impfung.\n- Das \"Peniskarzinom-Argument\": Phimose/Lichen sclerosus als Risikofaktor, aber Routine-Zirkumzision als Präventionsmaßnahme unverhältnismäßig (NNT ca. 322.000) – kein Entscheidungsargument im Kindesalter (Empfehlung 22).\nFormat & Moderation:\n- Reflektierter, sachlicher Dialog zweier Kollegen über ein emotional aufgeladenes Thema.\n- Klare Trennung zwischen medizinisch validen Indikationen und populären, aber nicht evidenzbasierten Präventionsargumenten.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 16
+    },
+    {
+      "folge": 5,
+      "stem": "PHI_F05_ParaphimoseAusblick",
+      "titel": "Paraphimose als Notfall & Ausblick",
+      "kapitel": [
+        "8",
+        "9",
+        "10"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8 (Paraphimose), Kapitel 9 (Dokumentationspflicht) und Kapitel 10 (Ausblick) der S2k-Leitlinie Phimose/Paraphimose.\nInhalte:\n- Paraphimose-Pathomechanismus: Zurückziehen der verengten Vorhaut ohne Reposition führt zu venös-lymphatischer Stauung, Ödem und – unbehandelt – Ulzeration bis Glansnekrose.\n- Notfallcharakter: Die Paraphimose soll als kinder- und jugendurologischer Notfall unmittelbar behandelt werden (Empfehlung 23).\n- Therapieoptionen: Manuelle Reposition nach Lokalanästhesie/Ödem-Auspressen (ggf. mit kochsalzgetränkter Kompresse), bei Bedarf Peniswurzelblock oder Vollnarkose, in seltenen Fällen dorsale Inzision; ggf. spätere Zirkumzision bei Vernarbung.\n- Dokumentationspflicht: obligate Histologie und/oder Bilddokumentation prä-/postoperativ als Abrechnungsvoraussetzung.\n- Ausblick der Leitliniengruppe: Bestehender Forschungsbedarf zu körperlichen, psychischen und sexuellen Spätfolgen; Spannungsfeld zwischen medizinischer Evidenz und der gesellschaftlich-ethischen Debatte um genitale Autonomie.\nFormat & Moderation:\n- Dynamisches Abschlussgespräch zweier Assistenzärzte im Nachtdienst-Setting (Notfallvorstellung Paraphimose).\n- Praxisnaher Fokus: Wie gehe ich die Reposition konkret an, bevor ich den Facharzt rufe?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 19
+    }
+  ]
+}

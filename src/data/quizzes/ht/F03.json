@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Auf welcher Klassifikation soll die histopathologische Beurteilung von Keimzelltumoren laut Empfehlung 5.1 erfolgen?",
+    "options": [
+      "Der TNM-Klassifikation der UICC.",
+      "Der WHO-Klassifikation von 2016.",
+      "Der veralteten WHO-Klassifikation von 2004.",
+      "Einer institutsinternen Einteilung, da es keine internationale Einigung gibt."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung ist als Expertenkonsens mit starkem Konsens ausgewiesen.",
+    "explanation": "Empfehlung 5.1 (Expertenkonsens, starker Konsens) legt fest, dass die histopathologische Beurteilung auf Grundlage der WHO-Klassifikation von 2016 erfolgen soll."
+  },
+  {
+    "question": "Wie unterteilt die WHO-Klassifikation 2016 die Keimzelltumoren auf oberster Ebene?",
+    "options": [
+      "Nach Tumorgröße in mm.",
+      "In KZT, die aus einer Keimzellneoplasie in situ (GCNIS) hervorgehen, und solche, die nicht aus einer GCNIS hervorgehen.",
+      "Ausschließlich nach dem Alter des Patienten bei Diagnosestellung.",
+      "In operabel vs. nicht operabel."
+    ],
+    "correct": 1,
+    "tip": "Diese Zweiteilung ist die zentrale Achse der gesamten WHO-Klassifikation 2016.",
+    "explanation": "Tabelle 7 unterscheidet grundlegend zwischen 'Germ cell tumours derived from germ cell neoplasia in situ' (GCNIS-assoziiert) und 'Germ cell tumours unrelated to germ cell neoplasia in situ' (nicht GCNIS-assoziiert)."
+  },
+  {
+    "question": "Welcher Tumor ist laut WHO-Klassifikation 2016 NICHT aus einer Keimzellneoplasie in situ (GCNIS) hervorgegangen?",
+    "options": [
+      "Das Seminom.",
+      "Der spermatozytische Tumor.",
+      "Das embryonale Karzinom.",
+      "Der Dottersacktumor vom postpubertalen Typ."
+    ],
+    "correct": 1,
+    "tip": "Dieser Tumor tritt klassischerweise bei älteren Männern auf und folgt einem eigenen, GCNIS-unabhängigen Entstehungsweg.",
+    "explanation": "Der spermatozytische Tumor gehört zur Gruppe 'Germ cell tumours unrelated to germ cell neoplasia in situ' und entsteht damit nicht aus der GCNIS, im Gegensatz zu Seminom, embryonalem Karzinom und Dottersacktumor."
+  },
+  {
+    "question": "Welche histologischen Komponenten gehören laut Tabelle 7 zu den nichtseminomatösen Keimzelltumoren?",
+    "options": [
+      "Nur das embryonale Karzinom.",
+      "Embryonales Karzinom, Dottersacktumor, trophoblastische Tumoren (u. a. Chorionkarzinom) und Teratom.",
+      "Ausschließlich das Chorionkarzinom.",
+      "Granulosazelltumor und Leydigzelltumor."
+    ],
+    "correct": 1,
+    "tip": "Nichtseminomatöse Tumoren treten oft als Mischung mehrerer dieser Komponenten auf.",
+    "explanation": "Zu den nichtseminomatösen KZT zählt die WHO-Klassifikation 2016 embryonales Karzinom, Dottersacktumor vom postpubertalen Typ, trophoblastische Tumoren (inkl. Chorionkarzinom) und Teratom vom postpubertalen Typ."
+  },
+  {
+    "question": "Wie werden Keimzelltumoren bezeichnet, die histologisch aus mehr als einer der nichtseminomatösen Komponenten bestehen?",
+    "options": [
+      "Reine Formen.",
+      "Keimzellmischtumoren.",
+      "Regressierte Keimzelltumoren.",
+      "Spezifische Formen intratubulärer Keimzellneoplasie."
+    ],
+    "correct": 1,
+    "tip": "Im Gegensatz zu den 'reinen Formen' (z. B. reines Seminom) enthält diese Kategorie definitionsgemäß mehrere histologische Subtypen.",
+    "explanation": "Die WHO-Klassifikation 2016 fasst nichtseminomatöse KZT von mehr als einem histologischen Typ unter 'Keimzellmischtumoren' (Mixed germ cell tumours) zusammen."
+  },
+  {
+    "question": "Welche Tumorentität kann laut WHO-Klassifikation Varianten mit synzytiotrophoblastären Riesenzellen aufweisen?",
+    "options": [
+      "Das Seminom.",
+      "Der Leydigzelltumor.",
+      "Der Granulosazelltumor.",
+      "Das Teratom vom präpubertalen Typ."
+    ],
+    "correct": 0,
+    "tip": "Diese Variante gehört weiterhin zur Gruppe der 'reinen Formen' eines histologischen Typs.",
+    "explanation": "Tabelle 7 führt unter den Tumoren eines einzelnen histologischen Typs (reine Formen) explizit das 'Seminom mit synzytiotrophoblastären Riesenzellen' als Seminom-Variante auf."
+  },
+  {
+    "question": "Zu welcher übergeordneten Kategorie der WHO-Klassifikation gehören Leydigzelltumor und Sertolizelltumor?",
+    "options": [
+      "Keimzelltumoren, die aus einer GCNIS hervorgehen.",
+      "Keimstrang-/Stroma-Tumoren (Sex cord-stromal tumours).",
+      "Nichtseminomatöse Keimzelltumoren von mehr als einem histologischen Typ.",
+      "Spezifische Formen intratubulärer Keimzellneoplasie."
+    ],
+    "correct": 1,
+    "tip": "Diese Tumoren entstehen aus dem gonadalen Stroma, nicht aus Keimzellen.",
+    "explanation": "Leydigzelltumor und Sertolizelltumor (inklusive ihrer malignen und großzelligen/juvenilen Varianten) werden in Tabelle 7 den Keimstrang-/Stroma-Tumoren zugeordnet."
+  },
+  {
+    "question": "Wie heißt der seltene Mischtumor, der sowohl Keimzell- als auch Keimstranganteile enthält?",
+    "options": [
+      "Gonadoblastom.",
+      "Teratom mit somatischer Malignität.",
+      "Epithelioider trophoblastischer Tumor.",
+      "Zystischer trophoblastischer Tumor."
+    ],
+    "correct": 0,
+    "tip": "Dieser Tumor bildet in der WHO-Klassifikation eine eigene, dritte Kategorie neben GCNIS-assoziierten und Stroma-Tumoren.",
+    "explanation": "Das Gonadoblastom wird in Tabelle 7 als eigene Entität unter 'Tumoren, die Keimzellen und Keimstranganteile enthalten' aufgeführt."
+  },
+  {
+    "question": "Welche präpubertalen Tumorformen listet die WHO-Klassifikation 2016 bei Tumoren, die nicht aus einer GCNIS hervorgehen?",
+    "options": [
+      "Nur das embryonale Karzinom vom präpubertalen Typ.",
+      "Teratom vom präpubertalen Typ (inkl. Dermoid- und Epidermoidzyste) und Dottersacktumor vom präpubertalen Typ.",
+      "Ausschließlich der Granulosazelltumor.",
+      "Das Chorionkarzinom vom präpubertalen Typ."
+    ],
+    "correct": 1,
+    "tip": "Diese Formen unterscheiden sich biologisch deutlich von den postpubertalen, GCNIS-assoziierten Gegenstücken.",
+    "explanation": "Zu den nicht GCNIS-assoziierten Tumoren zählen laut Tabelle 7 das Teratom vom präpubertalen Typ (mit Dermoid- und Epidermoidzyste sowie hochdifferenziertem neuroendokrinem Tumor) und der Dottersacktumor vom präpubertalen Typ."
+  },
+  {
+    "question": "Welche Tumorvariante wird in Tabelle 7 als 'zurückgebildete Keimzelltumoren' (regressed germ cell tumours) bezeichnet, und zu welcher Obergruppe gehört sie?",
+    "options": [
+      "Ein eigenständiger, nicht GCNIS-assoziierter Tumortyp ohne Bezug zu anderen Formen.",
+      "Eine Unterform der Keimstrang-/Stroma-Tumoren.",
+      "Eine Form der 'Keimzelltumoren vom unbekannten Typ' innerhalb der GCNIS-assoziierten Tumoren.",
+      "Ein Synonym für das reine Seminom."
+    ],
+    "correct": 2,
+    "tip": "Diese Kategorie erfasst Fälle, bei denen sich der ursprüngliche Primärtumor im Hoden spontan zurückgebildet hat (z. B. 'burned-out' Tumor), der GCNIS-Ursprung aber weiterhin als gegeben angenommen wird.",
+    "explanation": "'Regressed germ cell tumours' werden in Tabelle 7 unter 'Germ cell tumours of unknown type' innerhalb der GCNIS-assoziierten Keimzelltumoren eingeordnet."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll laut Empfehlung 19 bei der Indikationsstellung zur Zirkumzision hinsichtlich der Einbeziehung des Patienten beachtet werden?",
+    "options": [
+      "Der Patient soll in keiner Weise einbezogen werden.",
+      "Patienten sollen nach umfassender Information partizipativ und entwicklungsphasengerecht in den Entscheidungsprozess einbezogen werden.",
+      "Nur die Eltern entscheiden, unabhängig vom Alter des Kindes.",
+      "Die Entscheidung liegt ausschließlich beim Operateur."
+    ],
+    "correct": 1,
+    "tip": "So soll die Entscheidung auch später für den Patienten noch nachvollziehbar sein.",
+    "explanation": "Patienten sollen nach umfassender Information in partizipativer Form und ihren Entwicklungsphasen entsprechend in den Entscheidungsprozess einbezogen werden (Empfehlung 19)."
+  },
+  {
+    "question": "Welches Screeninginstrument kann laut Leitlinie einen Hinweis auf kindliche Verhaltensauffälligkeiten nach einer Behandlung geben?",
+    "options": [
+      "Der IPSS-Fragebogen.",
+      "Der SDQ-Fragebogen (Strengths and Difficulties Questionnaire).",
+      "Der HAS-BLED-Score.",
+      "Es existiert kein entsprechendes Screeninginstrument."
+    ],
+    "correct": 1,
+    "tip": "Der SDQ ist ein gut evaluiertes Screeninginstrument für Kinder und Jugendliche im Alter von 4 bis 17 Jahren.",
+    "explanation": "Einen Hinweis auf kindliche Auffälligkeiten oder psychische Beeinträchtigungen kann z.B. der SDQ-Fragebogen geben."
+  },
+  {
+    "question": "Wie bewertet Statement 7 insgesamt die Qualität der Evidenz zu psychischen Beeinträchtigungen nach Zirkumzision?",
+    "options": [
+      "Als sehr robust und auf großen randomisierten Studien beruhend.",
+      "Als überwiegend auf Einzelfallberichten und Studien mit niedrigem Evidenzgrad beruhend, weshalb über potenzielle psychische Komplikationen aufgeklärt werden sollte.",
+      "Als vollständig widerlegt und irrelevant für die klinische Praxis.",
+      "Als nicht existent, da hierzu keinerlei Studien vorliegen."
+    ],
+    "correct": 1,
+    "tip": "Daraus ergibt sich auch die Notwendigkeit weitergehender Forschungsarbeit mit höherer Aussagekraft.",
+    "explanation": "Die Hinweise auf psychische Beeinträchtigungen basieren überwiegend auf Einzelfallberichten und Studien mit niedrigem Evidenzgrad; dennoch sollte über potenzielle psychische Komplikationen aufgeklärt werden (Statement 7)."
+  },
+  {
+    "question": "Was ist laut Statement 8 bezüglich sexueller Funktion und Erleben nach Zirkumzision im Kindesalter festzuhalten?",
+    "options": [
+      "Es ist eindeutig und wissenschaftlich gesichert bewiesen, dass keinerlei Beeinträchtigung auftritt.",
+      "Allgemeine Aussagen sind anhand der aktuellen Literatur nicht möglich, es finden sich aber Hinweise, dass Beeinträchtigungen sexueller Funktionen mögliche Konsequenzen sein können.",
+      "Es ist bewiesen, dass sich die sexuelle Funktion durch Zirkumzision immer verbessert.",
+      "Dieses Thema wurde in der Leitlinie nicht untersucht."
+    ],
+    "correct": 1,
+    "tip": "Empirische Studien in diesem Bereich sind methodisch schwierig und liefern oft widersprüchliche Ergebnisse.",
+    "explanation": "Allgemeine Aussagen zu Risiken und Komplikationen bezüglich sexueller Funktionen sind nicht möglich; es finden sich aber Hinweise, dass Beeinträchtigungen mögliche Konsequenzen der Beschneidung sein können (Statement 8)."
+  },
+  {
+    "question": "Ist eine Zirkumzision laut Empfehlung 20 bei Jungen mit klinisch relevanter angeborener Anomalie des harnableitenden Systems (z.B. hochgradiger VUR, hintere Harnröhrenklappen) sinnvoll?",
+    "options": [
+      "Nein, in dieser Situation niemals indiziert.",
+      "Ja, eine bestehende Vorhautenge sollte unabhängig vom Alter medikamentös oder chirurgisch behandelt werden.",
+      "Diese Frage ist nur bei Mädchen relevant.",
+      "Nur nach dem 18. Lebensjahr sinnvoll."
+    ],
+    "correct": 1,
+    "tip": "Hier überwiegt das Risiko rezidivierender Harnwegsinfekte den sonst zurückhaltenden Ansatz.",
+    "explanation": "Bei Jungen mit klinisch relevanter angeborener Anomalie des harnableitenden Systems mit HWI-Risiko sollte eine bestehende Vorhautenge unabhängig vom Alter behandelt werden (Empfehlung 20)."
+  },
+  {
+    "question": "Wie viele Zirkumzisionen müssten laut einer zitierten Studie durchgeführt werden, um bei gesunden Jungen ohne Uropathologie einen Harnwegsinfekt zu verhindern?",
+    "options": [
+      "Eine einzige.",
+      "111 Zirkumzisionen.",
+      "Die Zirkumzision wirkt immer, unabhängig von der Anzahl.",
+      "Diese Frage wurde nie untersucht."
+    ],
+    "correct": 1,
+    "tip": "Eine neuere Cochrane-Analyse fand zudem keine validen randomisierten Studien, die diesen Effekt belegen.",
+    "explanation": "Älteren Studien zufolge müssten 111 Zirkumzisionen durchgeführt werden, um bei gesunden Jungen einen Harnwegsinfekt zu verhindern."
+  },
+  {
+    "question": "Was besagt Empfehlung 21 zum Argument der Prävention sexuell übertragbarer Erkrankungen durch Zirkumzision?",
+    "options": [
+      "Dieses Argument soll aktiv in die Entscheidung zur Phimosebehandlung einbezogen werden.",
+      "Das unzutreffende Argument der STI-Prävention soll NICHT in die Entscheidung zur Behandlung einer Phimose einbezogen werden.",
+      "Zirkumzision gilt als die wirksamste STI-Präventionsmaßnahme überhaupt.",
+      "STI-Prävention ist die Hauptindikation zur Zirkumzision im Kindesalter."
+    ],
+    "correct": 1,
+    "tip": "Eine dänische Kohortenstudie fand bei beschnittenen Männern sogar eine höhere Rate an sexuell übertragbaren Erkrankungen.",
+    "explanation": "Das unzutreffende Argument der Prävention von sexuell übertragbaren Erkrankungen soll nicht in die Entscheidung zur Behandlung einer Phimose einbezogen werden (Empfehlung 21)."
+  },
+  {
+    "question": "Wie viele Zirkumzisionen wären laut Leitlinie nötig, um ein einziges Peniskarzinom zu verhindern – und was folgt daraus für die Praxis?",
+    "options": [
+      "Nur 10, weshalb die Routine-Zirkumzision explizit empfohlen wird.",
+      "Bis zu 322.000, weshalb das Peniskarzinom-Präventionsargument laut Empfehlung 22 nicht zur Entscheidungsfindung herangezogen werden soll.",
+      "Eine einzige Zirkumzision reicht dafür immer aus.",
+      "Diese Zahl wurde in der Leitlinie nie berechnet."
+    ],
+    "correct": 1,
+    "tip": "Das Komplikationsrisiko der Routine-Zirkumzision übersteigt den Nutzen dieser Maßnahme bei weitem.",
+    "explanation": "Aufgrund der Seltenheit der Erkrankung bedürfte es bis zu 322.000 Zirkumzisionen, um ein Peniskarzinom zu verhindern; dieses Argument soll daher laut Empfehlung 22 nicht zur Entscheidungsfindung herangezogen werden."
+  },
+  {
+    "question": "Welche Impfung wird vom Robert Koch-Institut zur Reduktion HPV-assoziierter Malignome empfohlen, als Alternative zum Präventionsargument der Zirkumzision?",
+    "options": [
+      "Die Masern-Impfung.",
+      "Die HPV-Impfung für Kinder und Jugendliche im Alter von 9-14 Jahren.",
+      "Die Grippeimpfung.",
+      "Es gibt keine entsprechende Impfempfehlung."
+    ],
+    "correct": 1,
+    "tip": "Die HPV-Impfung reduziert das Risiko HPV-assoziierter Malignome deutlich wirksamer als eine Zirkumzision.",
+    "explanation": "Das Robert Koch-Institut empfiehlt Kindern und Jugendlichen im Alter von 9-14 Jahren eine Impfung gegen humane Papillomviren (HPV)."
+  },
+  {
+    "question": "Welche Studienergebnisse berichten Frisch et al. zu sexuellen Funktionsstörungen bei Partnerinnen beschnittener Männer?",
+    "options": [
+      "Partnerinnen beschnittener Männer berichteten seltener über sexuelle Beeinträchtigungen.",
+      "Partnerinnen beschnittener Männer berichteten häufiger über sexuelle Beeinträchtigungen wie Orgasmusschwierigkeiten und unerfüllte Befriedigung.",
+      "Es wurden keinerlei Unterschiede zwischen den Gruppen festgestellt.",
+      "Diese Frage wurde in der Studie nicht untersucht."
+    ],
+    "correct": 1,
+    "tip": "Als möglicher Grund wird die fehlende Gleitfunktion der Vorhaut diskutiert.",
+    "explanation": "Frisch et al. berichteten über häufigere sexuelle Beeinträchtigungen bei Partnerinnen beschnittener Männer, wie Orgasmusschwierigkeiten und unerfüllte sexuelle Bedürfnisse."
+  }
+]

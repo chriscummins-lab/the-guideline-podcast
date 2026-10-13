@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches Standardverfahren wird laut Kapitel 8.1.1 bei klinischem Verdacht auf einen malignen KZT mit unauffälligem kontralateralem Hoden angewendet?",
+    "options": [
+      "Die alleinige Hodenbiopsie über einen transskrotalen Zugang.",
+      "Die radikale inguinale Orchiektomie, die der Diagnosesicherung und der lokalen Tumorkontrolle dient.",
+      "Die primäre Chemotherapie ohne jede operative Maßnahme.",
+      "Die Hodenteilresektion mit anschließender adjuvanter Bestrahlung in jedem Fall."
+    ],
+    "correct": 1,
+    "tip": "Der Zugang erfolgt bewusst nicht transskrotal, um eine veränderte Lymphabflussbahn zu vermeiden.",
+    "explanation": "Die radikale inguinale Orchiektomie ist laut Kapitel 8.1.1 das Standardverfahren der primären operativen Therapie und dient sowohl der histologischen Diagnosesicherung als auch der lokalen Tumorkontrolle."
+  },
+  {
+    "question": "Wann soll laut der neuen Empfehlung zur Kryokonservierung (2026) diese den Patienten angeboten werden?",
+    "options": [
+      "Erst nach der ersten Chemotherapie, falls der Patient danach noch Kinderwunsch äußert.",
+      "Allen Patienten vor der Ablatio testis.",
+      "Nur Patienten unter 25 Jahren.",
+      "Nur bei bereits bestehender Azoospermie."
+    ],
+    "correct": 1,
+    "tip": "Präoperativ gewonnene Spermienproben weisen gegenüber postoperativ gewonnenen eine bessere Qualität auf.",
+    "explanation": "Die 2026 aktualisierte Empfehlung (Expertenkonsens, starker Konsens) legt fest, dass allen Patienten die Kryokonservierung vor der Ablatio testis angeboten werden soll."
+  },
+  {
+    "question": "Wie hoch ist laut Leitlinientext die gepoolte Infertilitätsprävalenz bei KZT-Patienten im langfristigen Verlauf (Metaanalyse), und wie fällt sie bei guter Prognosegruppe unter Standardtherapie aus?",
+    "options": [
+      "14% gesamt, davon nur 4% bei guter Prognosegruppe unter Standardtherapie.",
+      "80% gesamt, unverändert in allen Prognosegruppen.",
+      "0% – KZT-Therapien beeinträchtigen die Fertilität praktisch nie dauerhaft.",
+      "50% gesamt, unabhängig von Prognosegruppe oder Therapieregime."
+    ],
+    "correct": 0,
+    "tip": "Diese Daten sprechen dafür, dass die Mehrzahl der Patienten nach Therapieabschluss fertil bleibt.",
+    "explanation": "Eine systematische Übersichtsarbeit und Metaanalyse fand eine gepoolte Infertilitätsprävalenz von 14% (Azoospermierate 8%), bei Patienten mit guter Prognose unter Standardtherapie lag die Infertilitätsrate sogar nur bei 4%."
+  },
+  {
+    "question": "Was soll Patienten laut der neuen Empfehlung 8.2 (2026) vor der Ablatio testis zusätzlich zur Kryokonservierung angeboten werden?",
+    "options": [
+      "Das Einsetzen einer Hodenprothese.",
+      "Eine prophylaktische kontralaterale Biopsie bei allen Patienten ohne Ausnahme.",
+      "Eine primäre retroperitoneale Lymphadenektomie.",
+      "Eine Testosteron-Substitution unabhängig vom späteren Hormonstatus."
+    ],
+    "correct": 0,
+    "tip": "Über 90% der Patienten geben an, dass ihnen dieses präoperative Angebot wichtig war – tatsächlich angeboten wird es aber nur etwa der Hälfte.",
+    "explanation": "Empfehlung 8.2 (Expertenkonsens, starker Konsens, neu 2026) sieht vor, dass allen Patienten vor der Ablatio testis das Einsetzen einer Hodenprothese angeboten werden soll."
+  },
+  {
+    "question": "Wie verläuft laut Leitlinientext das operative Vorgehen bei der inguinalen Freilegung hinsichtlich der Höhe der Samenstrangabsetzung, und warum?",
+    "options": [
+      "Der Samenstrang wird auf Höhe des inneren Leistenrings abgesetzt, um die lokale Tumorkontrolle zu sichern und eine skrotale Kontamination zu vermeiden.",
+      "Der Samenstrang wird routinemäßig erst im Skrotum selbst durchtrennt.",
+      "Eine Absetzung des Samenstranges ist bei fehlender Metastasierung generell nicht erforderlich.",
+      "Die Höhe der Absetzung ist für die Tumorkontrolle irrelevant und wird beliebig gewählt."
+    ],
+    "correct": 0,
+    "tip": "Low-cord- oder subinguinale Modifikationen sind laut aktueller Evidenz nicht ausreichend belegt, um den Standard zu ändern.",
+    "explanation": "Das operative Vorgehen sieht die Absetzung des Samenstrangs auf Höhe des inneren Leistenrings vor; dies dient der lokalen Tumorkontrolle und der Vermeidung einer skrotalen Kontamination."
+  },
+  {
+    "question": "Welche Konsequenz hat eine skrotale Verletzung (transskrotaler Zugang) laut der zitierten Metaanalyse von Patel et al.?",
+    "options": [
+      "Keine Auswirkung auf irgendeinen Verlauf.",
+      "Eine signifikant erhöhte Lokalrezidivrate (2,5% versus 0,0%), jedoch kein gesicherter Nachteil für Fernmetastasierung oder Gesamtüberleben.",
+      "Eine automatische Kontraindikation für jede weitere Surveillance-Strategie.",
+      "Eine signifikant erhöhte Rate an Fernmetastasen bei unverändertem Lokalrezidivrisiko."
+    ],
+    "correct": 1,
+    "tip": "Eine skrotale Verletzung ist für sich allein kein automatisches Ausschlusskriterium für eine Überwachungsstrategie im Stadium I.",
+    "explanation": "Die Metaanalyse zeigt eine erhöhte Lokalrezidivrate nach skrotaler Verletzung (2,5% vs. 0,0%; p < 0,001), jedoch keinen gesicherten Nachteil hinsichtlich Fernmetastasierung oder Gesamtüberleben; eine Surveillance-Strategie bleibt bei fehlenden zusätzlichen Hochrisikomerkmalen weiterhin möglich."
+  },
+  {
+    "question": "In welchem Zeitraum entwickelt sich laut Statement 8.4 bei Beobachtung einer GCNIS in etwa 50% der Fälle ein invasiver Keimzelltumor?",
+    "options": [
+      "Innerhalb von 6 Monaten.",
+      "Innerhalb von 5 Jahren.",
+      "Innerhalb von 20 Jahren.",
+      "Nie, GCNIS bleibt per Definition stets inaktiv."
+    ],
+    "correct": 1,
+    "tip": "Diese Zahl begründet, warum bei nicht abgeschlossener Familienplanung eine Überwachungsstrategie überhaupt vertretbar ist.",
+    "explanation": "Statement 8.4 (Expertenkonsens, modifiziert 2026) besagt, dass sich bei Beobachtung der GCNIS in etwa 50% der Fälle innerhalb von 5 Jahren ein invasiver Keimzelltumor entwickelt."
+  },
+  {
+    "question": "Welches Vorgehen wird bei einseitiger GCNIS und gesundem Gegenhoden (Konstellation 2) laut Empfehlung 8.6 als Optionen genannt?",
+    "options": [
+      "Ausschließlich die bilaterale Bestrahlung beider Hoden.",
+      "Entweder die Ablatio testis oder die sonographische Kontrolle (Überwachung).",
+      "Zwingend eine systemische Chemotherapie mit mindestens 3 Zyklen.",
+      "Eine primäre retroperitoneale Lymphadenektomie."
+    ],
+    "correct": 1,
+    "tip": "Beide Optionen schonen bei dieser Konstellation den gesunden Gegenhoden – eine lokale Bestrahlung ist hier nur in Ausnahmefällen indiziert.",
+    "explanation": "Empfehlung 8.6 (Expertenkonsens, modifiziert 2026, starker Konsens) sieht bei einseitiger GCNIS und gesundem Gegenhoden entweder die Ablatio testis oder die sonographische Kontrolle vor."
+  },
+  {
+    "question": "Mit welcher Erfolgsrate führt die lokale Strahlentherapie mit 18–20 Gy laut Statement 8.5 zur Eradikation der GCNIS-Zellen, und welche typische Spätfolge kann dabei auftreten?",
+    "options": [
+      "Über 95% Eradikationsrate; es kann jedoch in 30–57% der Fälle innerhalb von 5 Jahren ein klinisch relevanter Hypogonadismus entstehen.",
+      "Nur etwa 10% Eradikationsrate, dafür keine relevanten Nebenwirkungen.",
+      "100% Eradikationsrate ohne jegliche hormonelle Nebenwirkung.",
+      "50% Eradikationsrate, mit regelhafter kompletter Infertilität des kontralateralen Hodens."
+    ],
+    "correct": 0,
+    "tip": "Trotz der hohen Erfolgsrate sind wegen des Risikos für die Leydigzellfunktion regelmäßige Testosteronkontrollen notwendig.",
+    "explanation": "Statement 8.5 (geprüft 2026) gibt eine Eradikationsrate von über 95% bei lokaler Strahlentherapie mit 18–20 Gy an; Empfehlung 8.9 weist darauf hin, dass in 30% der Fälle langfristig ein Hypogonadismus entstehen kann, weshalb regelmäßige Testosteronkontrollen durchgeführt werden sollen."
+  },
+  {
+    "question": "Warum ist die cisplatinhaltige systemische Chemotherapie laut Kapitel 8.2.2/8.2.3 keine zuverlässige Methode zur Eradikation einer GCNIS?",
+    "options": [
+      "Weil Cisplatin im Hoden grundsätzlich nicht wirksam ist.",
+      "Weil die Blut-Hoden-Schranke die zytostatische Wirksamkeit verringert und GCNIS-Zellen eine geringere Teilungsrate aufweisen – Kontrollbiopsien zeigten eine GCNIS-Persistenz in über 30% der Fälle.",
+      "Weil Cisplatin ausschließlich bei Seminomen, nie bei Nichtseminomen wirkt.",
+      "Weil eine Chemotherapie laut Leitlinie bei GCNIS grundsätzlich kontraindiziert ist."
+    ],
+    "correct": 1,
+    "tip": "Patienten mit KZT und kontralateraler GCNIS können deshalb trotz erfolgreicher Metastasentherapie einen manifesten Zweittumor entwickeln.",
+    "explanation": "Die Chemotherapie hat aufgrund der Blut-Hoden-Schranke eine geringere zytostatische Wirksamkeit im Hoden, zudem besteht eine primäre Chemotherapie-Resistenz der wenig proliferativen GCNIS-Zellen; Kontrollbiopsien zeigten eine GCNIS-Persistenz in über 30% der Fälle."
+  }
+]

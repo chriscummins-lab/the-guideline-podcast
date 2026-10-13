@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Status hat die monopolare transurethrale Resektion der Prostata (mTURP) in der interventionellen BPS-Therapie, und bis zu welchem Prostatavolumen wird sie uneingeschränkt empfohlen?",
+    "options": [
+      "Ein rein experimentelles Verfahren ohne Volumenlimit.",
+      "Referenzverfahren aufgrund nachgewiesener Langzeiteffektivität; uneingeschränkt empfohlen bis zu einem Prostatavolumen von 80 cm³.",
+      "Ein veraltetes Verfahren, das nicht mehr eingesetzt werden soll.",
+      "Nur bei einem Prostatavolumen über 150 cm³ empfohlen."
+    ],
+    "correct": 1,
+    "tip": "Die Grenze von 80 cm³ ist dabei von der Erfahrung des Operateurs abhängig und nicht starr.",
+    "explanation": "Die mTURP gilt aufgrund ihrer nachgewiesenen Langzeiteffektivität und hohen Anwendungszahl als Referenzverfahren und kann bei Prostatae bis 80 cm³ uneingeschränkt empfohlen werden (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Was ist das TUR-Syndrom, und bei welcher Resektionstechnik tritt es praktisch nicht auf?",
+    "options": [
+      "Eine allergische Reaktion auf das Resektionsinstrument; tritt bei bipolarer und monopolarer TURP gleich häufig auf.",
+      "Eine hypoosmolare Hyperhydration durch Einschwemmung elektrolytfreier Spüllösung bei der monopolaren Technik; bei der bipolaren TURP (isotone Spüllösung) ist es praktisch ausgeschlossen.",
+      "Eine postoperative Harnwegsinfektion nach jeder TURP.",
+      "Ein Syndrom, das ausschließlich nach Laserverfahren auftritt."
+    ],
+    "correct": 1,
+    "tip": "Bei multimorbiden Patienten kann aber auch unter bipolarer TURP eine relevante isotone Hyperhydratation entstehen.",
+    "explanation": "Das TUR-Syndrom entsteht durch Einschwemmung elektrolytfreier Spüllösung bei der monopolaren TURP; durch die lokale Neutralelektrode bei der bipolaren Technik ist eine isotone Spüllösung möglich, wodurch ein klassisches TUR-Syndrom praktisch ausgeschlossen ist."
+  },
+  {
+    "question": "Wie hoch ist die durchschnittliche Rate einer retrograden Ejakulation nach TURP?",
+    "options": [
+      "Unter 1%.",
+      "Im Mittel 65,4% (Spannweite 50-90%).",
+      "100% aller Patienten, ausnahmslos.",
+      "Retrograde Ejakulation tritt nach TURP praktisch nie auf."
+    ],
+    "correct": 1,
+    "tip": "Dies ist einer der Hauptgründe, warum ejakulationsprotektive Verfahren wie TUIP oder UroLift für jüngere Patienten attraktiv sind.",
+    "explanation": "Eine retrograde Ejakulation tritt nach TURP in 50-90% der Fälle auf, mit einem Mittelwert von 65,4%."
+  },
+  {
+    "question": "Für welche Patientengruppe wird die transurethrale Inzision der Prostata (TUIP) laut Empfehlung 11.34 insbesondere empfohlen?",
+    "options": [
+      "Für alle Patienten, unabhängig von Alter und Prostatagröße.",
+      "Für junge, sexuell aktive Männer mit kleinem Prostatavolumen (bis ca. 30 cm³).",
+      "Nur für Männer über 80 Jahre mit sehr großer Prostata.",
+      "Ausschließlich für Patienten mit Lichen sclerosus."
+    ],
+    "correct": 1,
+    "tip": "Ziel ist eine Desobstruktion mit möglichst geringer Morbidität, insbesondere unter Vermeidung der retrograden Ejakulation.",
+    "explanation": "Die TUIP kann bei jungen, sexuell aktiven Männern mit kleinem Prostatavolumen (≤30 cm³) empfohlen werden, da sie Miktionsparameter und Symptome deutlich verbessert (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Welchen Vorteil bietet die TUIP gegenüber der TURP hinsichtlich der Ejakulation?",
+    "options": [
+      "Keinen Unterschied – beide Verfahren haben identische Raten an retrograder Ejakulation.",
+      "Die antegrade Ejakulation kann bei 79% der TUIP-Patienten erhalten werden, mit deutlich geringeren Raten an retrograder Ejakulation als nach TURP.",
+      "Nach TUIP kommt es bei praktisch allen Patienten zu retrograder Ejakulation.",
+      "TUIP führt immer zu einem vollständigen und dauerhaften Verlust der Ejakulationsfähigkeit."
+    ],
+    "correct": 1,
+    "tip": "Im Schnitt liegt die Rate retrograder Ejakulation nach TUIP bei etwa 21%, deutlich unter der nach TURP.",
+    "explanation": "Die antegrade Ejakulation kann durch TUIP bei 79% der Patienten erhalten werden, mit Raten an retrograder Ejakulation von durchschnittlich 21% – deutlich weniger als nach TURP."
+  },
+  {
+    "question": "Welchen Nachteil hat die TUIP im Vergleich zur TURP trotz geringerer Nebenwirkungsrate?",
+    "options": [
+      "Eine deutlich höhere Reoperationsrate (18,4% vs. 7,2% nach TURP).",
+      "Eine deutlich höhere Mortalität.",
+      "Ein deutlich höheres Transfusionsrisiko als bei der TURP.",
+      "Es gibt laut Leitlinie keinen Nachteil der TUIP gegenüber der TURP."
+    ],
+    "correct": 0,
+    "tip": "Die geringere Invasivität und der Ejakulationserhalt werden also mit einer höheren Rate späterer Re-Eingriffe erkauft.",
+    "explanation": "Die TUIP zeigt gegenüber der TURP eine deutlich höhere Reoperationsrate (18,4% vs. 7,2%, RR 2,40), bei gleichzeitig geringerer Transfusionsrate und besserem Ejakulationserhalt."
+  },
+  {
+    "question": "Für welchen Prostatavolumenbereich kann die photoselektive Vaporisation der Prostata (PVP/Greenlightlaser) laut Empfehlung 11.12 in erfahrenen Zentren als Alternative zur TURP angeboten werden?",
+    "options": [
+      "Nur bei einem Volumen unter 10 cm³.",
+      "Bei einem Prostatavolumen zwischen 30 und 80 cm³.",
+      "Ausschließlich bei einem Volumen über 150 cm³.",
+      "PVP wird unabhängig vom Volumen generell nicht empfohlen."
+    ],
+    "correct": 1,
+    "tip": "Dieser Volumenbereich deckt sich mit dem klassischen TURP-Einsatzbereich.",
+    "explanation": "Die PVP kann Patienten mit einem Prostatavolumen zwischen 30 und 80 cm³ in erfahrenen Zentren als Alternative zur TURP angeboten werden (EK)."
+  },
+  {
+    "question": "Welchen Vorteil zeigt die PVP gegenüber der TURP hinsichtlich perioperativer Sicherheit, insbesondere bei Patienten unter Antikoagulation?",
+    "options": [
+      "Keinen Unterschied in der Transfusionsrate zwischen beiden Verfahren.",
+      "Eine signifikant geringere Transfusionsrate (0,3% nach PVP vs. 7,7% nach TURP); nach sorgfältiger Risikoabwägung kann PVP sogar bei nicht pausierbarer Antikoagulation/Thrombozytenaggregationshemmung durchgeführt werden.",
+      "Die PVP ist bei jeder Form von Antikoagulation strikt kontraindiziert.",
+      "Die Transfusionsrate ist nach PVP höher als nach TURP."
+    ],
+    "correct": 1,
+    "tip": "Dies macht die PVP zu einer bevorzugten Option bei nicht pausierbarer Antikoagulation.",
+    "explanation": "Die PVP zeigt eine signifikant geringere Transfusionsrate als die TURP (0,3% vs. 7,7%) und kann nach Risikoabwägung auch bei nicht pausierbarer OAK/TAH durchgeführt werden (Empfehlung 11.14, EK)."
+  },
+  {
+    "question": "Welche Operationsdauer- und Erholungsunterschiede zeigte die PVP gegenüber der TURP in Metaanalysen?",
+    "options": [
+      "Signifikant längere Operationsdauer, jedoch kürzere Katheterisierungs- und Hospitalisationsdauer.",
+      "Kürzere Operationsdauer und gleichzeitig kürzere Katheterisierungsdauer.",
+      "Es zeigten sich keinerlei Unterschiede in irgendeinem perioperativen Parameter.",
+      "Die PVP erforderte in jeder Studie einen längeren Krankenhausaufenthalt als die TURP."
+    ],
+    "correct": 0,
+    "tip": "Trotz längerer OP-Zeit erholen sich Patienten nach PVP im Mittel schneller.",
+    "explanation": "Metaanalysen zeigten eine signifikant längere Operationsdauer der PVP gegenüber der TURP, jedoch eine kürzere Katheterisierungs- und Hospitalisationsdauer."
+  },
+  {
+    "question": "Welches Risiko war nach PVP im Vergleich zu anderen untersuchten Techniken laut einer Netzwerk-Metaanalyse zur postoperativen erektilen Funktion signifikant erhöht?",
+    "options": [
+      "Eine signifikante Reduktion des IIEF-5 im kurzfristigen postoperativen Verlauf (12 Monate), die bei keiner der anderen untersuchten Techniken in diesem Ausmaß auftrat.",
+      "Es besteht laut Leitlinie überhaupt kein Risiko für die erektile Funktion nach PVP.",
+      "PVP verbessert die erektile Funktion signifikant stärker als alle anderen Verfahren.",
+      "Dieses Thema wurde in der Leitlinie nicht untersucht."
+    ],
+    "correct": 0,
+    "tip": "Dieser Befund sollte in die präoperative Aufklärung, insbesondere sexuell aktiver Patienten, einfließen.",
+    "explanation": "In einer Netzwerk-Metaanalyse aller untersuchten Techniken zeigte sich lediglich bei der PVP eine signifikante Reduktion des IIEF-5 im kurzfristigen postoperativen Verlauf von 12 Monaten."
+  }
+]

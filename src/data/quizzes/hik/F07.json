@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie sollte bei der Therapieplanung einer Mischharninkontinenz vorgegangen werden?",
+    "options": [
+      "Es müssen immer Belastungs- und Drangkomponente gleichzeitig operativ versorgt werden.",
+      "Das subjektive Hauptsymptom sollte vorrangig therapiert werden.",
+      "Die Drangkomponente darf bei Mischinkontinenz prinzipiell nicht therapiert werden.",
+      "Es ist stets ein künstlicher Sphinkter (AUS) zu implantieren."
+    ],
+    "tip": "Konzentriere dich auf das, was die Patientin im Alltag am meisten stört.",
+    "explanation": "Bei Mischharninkontinenz sollte das subjektive Hauptsymptom vorrangig therapiert werden.",
+    "correct": 1
+  },
+  {
+    "question": "Worüber müssen Patientinnen mit einer Mischharninkontinenz vor einem operativen Eingriff bezüglich der Erfolgsaussichten aufgeklärt werden?",
+    "options": [
+      "Die Operation heilt beide Komponenten (Belastung und Drang) in 100% der Fälle.",
+      "Der operative Eingriff ist mit geringerer Wahrscheinlichkeit erfolgreich als bei einer reinen Belastungsharninkontinenz.",
+      "Eine Operation verschlechtert immer die Drangkomponente.",
+      "Die Erfolgsraten sind identisch zur unkomplizierten Belastungsinkontinenz."
+    ],
+    "tip": "Die Kombination zweier Inkontinenzformen macht die Behandlung komplexer, was sich auf die Prognose auswirkt.",
+    "explanation": "Frauen sollen aufgeklärt werden, dass ein operativer Eingriff bei Mischinkontinenz mit geringerer Wahrscheinlichkeit erfolgreich ist als bei reiner Belastungsharninkontinenz und dass eine alleinige therapeutische Maßnahme nicht ausreichend sein könnte.",
+    "correct": 1
+  },
+  {
+    "question": "Wie lässt sich eine larvierte (maskierte) Harninkontinenz, die durch ein sogenanntes Quetschhahn-Phänomen bei massivem Prolaps bedingt ist, am besten aufdecken?",
+    "options": [
+      "Durch eine alleinige Urinanalyse.",
+      "Durch Reposition des Bruchsackes (z.B. Pessartestung) und anschließenden klinischen Stresstest.",
+      "Durch eine MRT-Untersuchung des Beckenbodens in Ruhe.",
+      "Durch einen 24-Stunden-Pad-Test ohne Reposition."
+    ],
+    "tip": "Die ausgeprägte Senkung knickt die Harnröhre ab und verdeckt so die Inkontinenz. Man muss die Anatomie vorübergehend normalisieren.",
+    "explanation": "Eine zumeist larvierte Harninkontinenz durch ein Quetschhahn-Phänomen bei massivem Prolaps lässt sich nur durch Reposition des Bruchsackes aufdecken. Ein klinischer Stresstest nach Reposition sollte das Vorliegen einer maskierten Inkontinenz aufdecken.",
+    "correct": 1
+  },
+  {
+    "question": "Welches therapeutische Vorgehen wird bei einem Genitalprolaps mit larvierter Belastungsinkontinenz laut Leitlinie als Konzept häufig empfohlen?",
+    "options": [
+      "Sofortige Anlage eines künstlichen Sphinkters.",
+      "Ausschließliche Gabe von Anticholinergika.",
+      "Ein zweizeitiges Vorgehen: Zunächst Korrektur des Genitalprolaps, dann Neuevaluation der Kontinenzsituation.",
+      "Immer die gleichzeitige Entfernung der Harnblase."
+    ],
+    "tip": "Es ist oft sicherer, die Kontinenzfunktion nach der Wiederherstellung der normalen Anatomie neu zu bewerten.",
+    "explanation": "Eine Operation sollte immer zweizeitig erfolgen, zunächst Korrektur des Genitalprolaps, dann Neuevaluation der Kontinenzsituation mit Durchführung einer Urodynamik. Zwar kann ein gleichzeitiger Eingriff angeboten werden, ein zweizeitiges Vorgehen ist jedoch ein etabliertes Vorgehen, da kombinierte Eingriffe ein erhöhtes Risiko für erneute Operationen haben können.",
+    "correct": 2
+  },
+  {
+    "question": "Welche bildgebende Methode stellt die Methode der Wahl bei der Diagnostik von Komplikationen nach einer suburethralen Schlingeneinlage dar?",
+    "options": [
+      "Die Computertomographie (CT) des Beckens.",
+      "Die Magnetresonanztomographie (MRT).",
+      "Das intravenöse Pyelogramm (IVP).",
+      "Der Ultraschall (Pelvic-Floor-Sonographie)."
+    ],
+    "tip": "Diese Methode ist schnell verfügbar, strahlungsfrei und eignet sich exzellent, um synthetische Bänder nahe der Urethra darzustellen.",
+    "explanation": "Der Ultraschall stellt die Methode der Wahl dar bei der Diagnostik von Komplikationen nach einer suburethralen Schlingeneinlage. Auch eine manifeste oder drohende Banderosion (Urethra) kann in der Regel durch den Ultraschall diagnostiziert werden.",
+    "correct": 3
+  },
+  {
+    "question": "Wie unterscheidet sich das therapeutische Vorgehen bei einer (durch Ultraschall gesicherten) zu nahen Bandlage mit Blasenentleerungsstörung zeitlich?",
+    "options": [
+      "In den ersten postoperativen Tagen kann eine Bandlockerung erfolgen, später erkannt ist oft eine operative Bandspaltung erforderlich.",
+      "Es wird immer sofort das komplette Band entfernt, unabhängig vom Zeitpunkt.",
+      "In den ersten Tagen wird das Band gespalten, später wird es gelockert.",
+      "Eine operative Korrektur ist nie erforderlich, da sich das Band durch Dehnung von selbst anpasst."
+    ],
+    "tip": "Kurz nach der Operation ist das Bandgewebe noch nicht fest eingewachsen und lässt sich mobilisieren.",
+    "explanation": "Wird eine Blasenentleerungsstörung aufgrund einer zu nahen Bandlage sonographisch erkannt, kann sie in den ersten postoperativen Tagen mit einer Bandlockerung behoben werden. Später erkannt kann eine operative Korrektur (Bandspaltung) erforderlich werden.",
+    "correct": 0
+  },
+  {
+    "question": "Wie verhält sich das Risiko für eine erneute (Rezidiv-) Belastungsinkontinenz bei der chirurgischen Behebung einer Band-Obstruktion?",
+    "options": [
+      "Das Risiko ist nach Bandlockerung und Bandspaltung exakt gleich hoch.",
+      "Das Risiko ist nach einer Bandlockerung gering (3,3%), nach einer späteren Bandspaltung jedoch wesentlich höher (61%).",
+      "Nach einer Bandspaltung wird die Patientin in 100% der Fälle wieder kontinent.",
+      "Bandlockerungen führen in über 90% der Fälle zu einer sofortigen schweren Inkontinenz."
+    ],
+    "tip": "Das spätere Durchtrennen (Spalten) des Bandes zerstört den Halteapparat oft vollständig, während eine frühe Lockerung die Kontinenzfunktion bewahren kann.",
+    "explanation": "Das Risiko einer Rezidiv-Belastungsinkontinenz ist nach Bandlockerung gering (3,3%), nach Bandspaltung wesentlich höher (61%).",
+    "correct": 1
+  },
+  {
+    "question": "Welche diagnostischen Schritte werden primär zur Identifikation und Lokalisation einer vesikovaginalen Fistel (VVF) empfohlen?",
+    "options": [
+      "Einzig ein 24-Stunden-Pad-Test ohne weitere Bildgebung.",
+      "Urodynamik als alleiniges Mittel der Wahl.",
+      "Spekulauntersuchung, Urethrozystoskopie und retrograde Blasenfüllung ggf. mit farbiger Flüssigkeit (Blauprobe).",
+      "Ausschließliche Untersuchung des Serumkreatinins."
+    ],
+    "tip": "Ziel ist es, eine physische Verbindung zwischen Blase und Scheide optisch oder durch den Austritt von Farbstoff nachzuweisen.",
+    "explanation": "Die Diagnostik der vesikovaginalen Fistel (VVF) umfasst die Anamnese, Spekulauntersuchung, endoskopische Untersuchungen (Urethrozystoskopie, Ureteroskopie) sowie die retrograde Blasenfüllung ggf. mit farbiger Flüssigkeit (Blauprobe).",
+    "correct": 2
+  },
+  {
+    "question": "Was ist das pathognomonische Leitsymptom einer iatrogenen urogenitalen Fistel, welches sie von einer reinen Belastungsinkontinenz unterscheidet?",
+    "options": [
+      "Urinverlust, der ausschließlich bei körperlicher Belastung wie Husten oder Niesen auftritt.",
+      "Unkontrollierbarer Harnabgang, der sich tagsüber und nachts in etwa gleich stark manifestiert.",
+      "Schmerzhaftes Brennen beim Wasserlassen ohne unwillkürlichen Urinverlust.",
+      "Urinverlust, der nur nach vorherigem starken, kaum aufschiebbaren Harndrang auftritt."
+    ],
+    "tip": "Aufgrund der dauerhaft offenen Fistelverbindung läuft der Urin unabhängig vom Tag-Nacht-Rhythmus kontinuierlich ab.",
+    "explanation": "Das Kardinalsymptom der urogenitalen Fistel ist der unkontrollierbare Harnabgang, der kontinuierlich oder lageabhängig schwallartig auftritt. Er manifestiert sich tagsüber und nachts in etwa gleich stark, wodurch er sich pathognomonisch von der Belastungsinkontinenz unterscheidet, die tagsüber meist stärker ausgeprägt ist.",
+    "correct": 1
+  },
+  {
+    "question": "Welches chirurgische Vorgehen ist bei einer ureterovaginalen Fistel (Harnleiter-Scheiden-Fistel) angezeigt, wenn endoluminale Techniken nicht zur Abheilung führen oder eine Striktur entstanden ist?",
+    "options": [
+      "Eine suburethrale Schlingeneinlage.",
+      "Eine vordere Kolporrhaphie (Vaginalplastik).",
+      "Eine abdominale Revision mit End-zu-End-Anastomose, Ureterozystoneostomie oder ggf. Harnleiter-Darmersatz.",
+      "Die alleinige dauerhafte Anlage eines transurethralen Dauerkatheters."
+    ],
+    "tip": "Wenn der Harnleiter beschädigt und von innen nicht zu schienen ist, muss die Kontinuität operativ wiederhergestellt oder der Harnleiter neu in die Blase eingepflanzt werden.",
+    "explanation": "Wenn endoluminale Techniken nicht zur Abheilung der Leckage führen oder eine Ureterstriktur entsteht, ist die abdominale Revision mit End-zu-End-Anastomose, Ureterozystoneostomie (z.B. in Psoas-Hitch-Technik) oder bei langstreckigen Verletzungen einem Harnleiter-Darmersatz angezeigt.",
+    "correct": 2
+  }
+]

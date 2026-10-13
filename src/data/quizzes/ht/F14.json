@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche zwei Elemente soll die Erkennung von Rezidiven laut Empfehlung 11.1 kombinieren?",
+    "options": [
+      "Bildgebung und Bestimmung von Serumtumormarkern.",
+      "Ausschließlich die körperliche Untersuchung.",
+      "Nur eine jährliche Röntgen-Thorax-Aufnahme.",
+      "Ausschließlich die Bestimmung der miRNA-371a-3p."
+    ],
+    "correct": 0,
+    "tip": "Die körperliche Untersuchung allein detektiert nur einen sehr kleinen Anteil der Rezidive.",
+    "explanation": "Empfehlung 11.1 (Grad A, neu 2026) fordert zur Rezidiverkennung eine Kombination aus Bildgebung und Serumtumormarker-Bestimmung."
+  },
+  {
+    "question": "Welche Empfehlung geben 11.3 und 11.4 zur Thorax-Bildgebung in der Nachsorge, abhängig von der Histologie im Stadium I?",
+    "options": [
+      "Bei Seminom sollte auf Thorax-Bildgebung verzichtet werden; beim Nichtseminom sollte sie weiterhin erfolgen, da isolierte thorakale Metastasen auftreten können.",
+      "Bei beiden Entitäten ist Thorax-Bildgebung generell verzichtbar.",
+      "Bei beiden Entitäten ist eine monatliche Thorax-CT obligat.",
+      "Beim Seminom ist sie obligat, beim Nichtseminom generell verzichtbar – umgekehrt zur tatsächlichen Empfehlung."
+    ],
+    "correct": 0,
+    "tip": "Diese differenzierte Empfehlung spiegelt die unterschiedlichen Metastasierungsmuster beider Entitäten wider.",
+    "explanation": "Empfehlung 11.3 rät beim Seminom im Stadium I vom Verzicht auf Thorax-Bildgebung, Empfehlung 11.4 empfiehlt beim Nichtseminom im Stadium I die Fortführung der Thorax-Bildgebung wegen möglicher isolierter thorakaler Metastasen."
+  },
+  {
+    "question": "Welches bildgebende Verfahren soll laut Empfehlung 11.5 die CT des Abdomens/Beckens in der Nachsorge ersetzen, und warum?",
+    "options": [
+      "Die MRT Abdomen/Becken, aufgrund ihrer Gleichwertigkeit, um die Strahlenexposition zu reduzieren.",
+      "Die Abdomensonographie, da sie günstiger ist.",
+      "Die FDG-PET/CT bei allen Patienten.",
+      "Das Röntgen-Abdomen, da es schneller durchführbar ist."
+    ],
+    "correct": 0,
+    "tip": "Die Abdomensonographie hat dagegen keine ausreichende Evidenz für eine zuverlässige Detektion retroperitonealer Rezidive.",
+    "explanation": "Empfehlung 11.5 (Grad A, modifiziert 2026) sieht vor, dass die MRT Abdomen/Becken aufgrund ihrer Gleichwertigkeit die CT ersetzen soll, um die Strahlenexposition in der Nachsorge zu reduzieren."
+  },
+  {
+    "question": "Wie verteilt sich laut der systematischen Übersichtsarbeit von Smith et al. (2025) die Rezidiverkennung im Stadium I unter Überwachung auf die einzelnen Nachsorgemodalitäten?",
+    "options": [
+      "60% allein durch Bildgebung, 24% allein durch Tumormarker, 15% durch Bildgebung und Marker kombiniert, 1,5% durch körperliche Untersuchung.",
+      "100% ausschließlich durch die körperliche Untersuchung.",
+      "90% durch Röntgen-Thorax allein.",
+      "Alle Modalitäten tragen zu exakt gleichen Anteilen (25% je Methode) bei."
+    ],
+    "correct": 0,
+    "tip": "Insgesamt werden so 98,52% aller Rezidive erfasst – die körperliche Untersuchung trägt dabei nur einen minimalen Anteil bei.",
+    "explanation": "Die Übersichtsarbeit von Smith et al. (2025) mit 11.414 Patienten zeigt, dass 60% der Rezidive allein durch Bildgebung, 24% allein durch Tumormarker, 15% durch beide kombiniert und nur 1,5% durch körperliche Untersuchung festgestellt werden."
+  },
+  {
+    "question": "Welche Nachweisrate für Rezidive hat die Röntgen-Thorax-Untersuchung laut Fischer et al. (2024), und was folgt daraus für ihren Stellenwert in der Nachsorge?",
+    "options": [
+      "Nur 2% Nachweisrate – die am wenigsten aussagekräftige Untersuchungsmethode, ihr Stellenwert wird zunehmend infrage gestellt.",
+      "95% Nachweisrate – sie ist die zuverlässigste Methode überhaupt.",
+      "50% Nachweisrate – vergleichbar mit der Schnittbildgebung des Abdomens.",
+      "0% – Röntgen-Thorax detektiert grundsätzlich keine Rezidive."
+    ],
+    "correct": 0,
+    "tip": "Auch wegen der radiogenen Belastung wird diese Untersuchung zunehmend kritisch hinterfragt.",
+    "explanation": "Mit einer Nachweisrate von nur 2% für Rezidive ist das Röntgen-Thorax die am wenigsten aussagekräftige Nachsorgeuntersuchung und wird zunehmend infrage gestellt."
+  },
+  {
+    "question": "Welchen Stellenwert hat die regelmäßige Sonographie des kontralateralen (gesunden) Hodens in der Nachsorge, und über welchen Zeitraum soll sie erfolgen?",
+    "options": [
+      "Sie ist elementarer Bestandteil der Nachsorge und soll in allen zehn Nachsorgejahren erfolgen, um einen kontralateralen Zweittumor frühzeitig zu erkennen.",
+      "Sie ist überflüssig, da ein kontralateraler Tumor praktisch nie auftritt.",
+      "Sie soll nur einmalig bei Diagnosestellung erfolgen, danach nie wieder.",
+      "Sie ersetzt vollständig die Bildgebung des Abdomens."
+    ],
+    "correct": 0,
+    "tip": "Eine Studie fand bei 169 Patienten im Stadium I eine kontralaterale Zweittumorrate von 4,7% bei medianer Latenz von 7,7 Jahren, mit einem geschätzten 25-Jahres-Risiko von 8,4%.",
+    "explanation": "Die Sonographie des kontralateralen Hodens ist elementarer Bestandteil jeder Nachsorgeuntersuchung und soll über alle zehn Nachsorgejahre erfolgen, da sie zur früheren Detektion kontralateraler Tumoren und damit zu mehr organerhaltenden Eingriffen führt."
+  },
+  {
+    "question": "Ab wann gilt die tumorspezifische Nachsorge als abgeschlossen, und was wird danach empfohlen?",
+    "options": [
+      "Nach fünf Jahren; danach wird eine lebenslange Nachsorge mittels eines 'survivorship care plan' empfohlen.",
+      "Nach drei Monaten, danach ist keine weitere Betreuung notwendig.",
+      "Die Nachsorge endet nie, unabhängig vom Zeitpunkt.",
+      "Nach einem Jahr, mit anschließender vollständiger Entlassung aus jeder ärztlichen Betreuung."
+    ],
+    "correct": 0,
+    "tip": "Der Patient soll dabei nochmals mündlich und schriftlich über mögliche Langzeitfolgen aufgeklärt werden.",
+    "explanation": "Nach fünf Jahren ist die tumorspezifische Nachsorge abgeschlossen; danach wird eine lebenslange Nachsorge mittels eines 'survivorship care plan' empfohlen, um über mögliche Spätfolgen aufzuklären."
+  },
+  {
+    "question": "Welche Sensitivität und Spezifität zeigte der miRNA-371a-3p-Test laut Statement 11.11 und der zitierten prospektiven Studie (DRKS-00019223) im Vergleich zu AFP und Beta-hCG bei der Rezidivdetektion im Stadium I?",
+    "options": [
+      "miRNA-371a-3p: Sensitivität 100%, Spezifität 96% – deutlich höher als AFP (25%) und Beta-hCG (36%), auch in Kombination nur 45%.",
+      "miRNA-371a-3p ist den klassischen Markern deutlich unterlegen (Sensitivität 10%).",
+      "Alle drei Marker zeigen identische Sensitivitäten von jeweils 50%.",
+      "AFP und Beta-hCG erreichen zusammen 100% Sensitivität, miRNA ist überflüssig."
+    ],
+    "correct": 0,
+    "tip": "Der negative prädiktive Wert des miRNA-Tests lag bei 100%, der positive prädiktive Wert bei 83%.",
+    "explanation": "Statement 11.11 und die zugrundeliegende Studie zeigen eine Sensitivität von 100% und Spezifität von 96% für miRNA-371a-3p, gegenüber Sensitivitäten von nur 25% (AFP) und 36% (Beta-hCG), auch kombiniert nur 45%."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 11.12 und Statement 11.13 die miRNA-371a-3p in der Praxis eingesetzt werden?",
+    "options": [
+      "Sie kann ergänzend in der Nachsorge im Stadium I eingesetzt werden; eine Erhöhung ohne radiologisches Korrelat rechtfertigt jedoch keine Systemtherapie.",
+      "Sie soll alle anderen Nachsorgeuntersuchungen vollständig ersetzen.",
+      "Eine isolierte miRNA-Erhöhung soll immer sofort zu einer Salvage-Chemotherapie führen.",
+      "Sie wird in der aktuellen Leitlinienversion explizit als nicht einsetzbar bewertet."
+    ],
+    "correct": 0,
+    "tip": "Die miRNA ist aktuell ein ergänzendes, nicht ein ersetzendes Instrument der Nachsorge.",
+    "explanation": "Empfehlung 11.12 (Grad 0) erlaubt den ergänzenden Einsatz der miRNA-371a-3p in der Nachsorge im Stadium I, während Statement 11.13 klarstellt, dass eine Erhöhung ohne radiologisches Korrelat keine Systemtherapie rechtfertigt."
+  },
+  {
+    "question": "Welche Rezidivraten zeigen die Nachsorgetabellen 16 und 17 für das Seminom im klinischen Stadium I unter Überwachung versus nach adjuvantem Carboplatin, und wann treten die Rezidive am häufigsten auf?",
+    "options": [
+      "4–20% unter Überwachung versus 2–10% nach adjuvantem Carboplatin, am häufigsten im 1. bis 2. Jahr, überwiegend retroperitoneal.",
+      "0% in beiden Gruppen, da Rezidive beim Seminom im Stadium I praktisch nie vorkommen.",
+      "50–80% unter Überwachung versus 90% nach Carboplatin (höheres Risiko durch die Chemotherapie).",
+      "Die Rezidivrate ist in beiden Gruppen identisch bei exakt 15%."
+    ],
+    "correct": 0,
+    "tip": "Die häufigste Lokalisation ist in beiden Gruppen das Retroperitoneum, seltener pelvin.",
+    "explanation": "Tabelle 16 und 17 zeigen Rezidivraten von 4–20% unter Überwachung und 2–10% nach adjuvantem Carboplatin, mit dem häufigsten Auftreten im 1. bis 2. Jahr, überwiegend im Retroperitoneum."
+  }
+]

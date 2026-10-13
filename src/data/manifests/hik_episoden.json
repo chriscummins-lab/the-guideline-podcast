@@ -1,0 +1,89 @@
+{
+  "guideline": "S2k-Leitlinie Harninkontinenz der Frau",
+  "glCode": "HIK",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "HIK_F01_PhaenotypenBasisdiagnostik",
+      "titel": "Phänotypen, Anamnese & Basisdiagnostik",
+      "kapitel": [
+        "1",
+        "2"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 1 (Einleitung & Definitionen) und Kapitel 2 (Basisdiagnostik).\nInhalte:\n- Definition und Differenzierung der Inkontinenzformen: Belastungs- (BIK), Drang- (UUI), Mischharninkontinenz (MI) sowie Abgrenzung zur chronischen Harnretention (Überlaufinkontinenz) und extraurethralen Inkontinenz.\n- Kriterien der unkomplizierten vs. komplizierten Belastungsinkontinenz (Voroperationen, Bestrahlung, Prolaps, neurogene Störung, Familienplanung).\n- Standardisierte Basisdiagnostik: Strukturierte urogynäkologische Anamnese, Medikamentenanamnese (kontinenzrelevante Ko-Medikation).\n- Klinische Untersuchung: Spekulumuntersuchung, Stresstest (Husten im Liegen/Stehen), Beckenboden-Kontraktionsprüfung (Oxford-Score).\n- Diagnostische Werkzeuge: Stellenwert des Miktionstagebuchs (mind. 3 Tage), standardisierter Pad-Test (1h vs. 24h), Urinanalyse (Therapie symptomatischer HWIs vor weiterer Diagnostik; keine Antibiose bei asymptomatischer Bakteriurie geriatrischer Patientinnen) und sonographische Restharnbestimmung.\nFormat & Moderation:\n- Kollegiales Gespräch zweier Assistenzärzte mit Blick auf die strukturierte urologische Funktions- und Inkontinenzsprechstunde.\n- Klarer Fokus auf handlungsrelevante klinische Unterscheidungen und Vermeidung von Fehlinterpretationen.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 22
+    },
+    {
+      "folge": 2,
+      "stem": "HIK_F02_ErweiterteDiagnostik",
+      "titel": "Erweiterte Diagnostik – Urodynamik, Endoskopie & Bildgebung",
+      "kapitel": [
+        "2.7",
+        "2.8",
+        "3"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.7–2.8 (Urodynamik, Zystoskopie) und Kapitel 3 (Bildgebende Diagnostik).\nInhalte:\n- Urodynamische Untersuchung: Klare Indikationen (Pflicht vor operativer Therapie der komplizierten BIK, bei V. a. neurogene Komponente, Mischinkontinenz, Entleerungsstörung); warum eine Routine-Urodynamik vor konservativer Therapie der unkomplizierten BIK oder unbehandelten OAB nicht indiziert ist.\n- Urethrozystoskopie: Wann ist sie indiziert? Ausschluss von Neoplasien/Steinen bei therapierefraktärer OAB, Mikrohämaturie, de novo Drang oder Obstruktion nach Schlingenoperation (Banderosion). Urethrakalibrierung bei V. a. Stenose.\n- Pelvic-Floor-Sonographie (PFS): Standard-2D-Technik vs. 3D; Kriterien (Sono-Urethralänge, Blasenhalsposition Dx/Dy bzw. H/D in Ruhe/Valsalva, Urethramobilität/BND, Funneling/Trichterbildung, Blasenwanddicke >5 mm als Detrusorhypertrophie-Zeichen).\n- Postoperative Sonographie: Detektion von Komplikationen nach Schlingeneinlage (on-to-on-Abstand <2 mm, Hämatome, Überkorrektur nach Kolposuspension).\n- Stellenwert von MRT und Röntgendiagnostik: Reine Reservediagnostik bei komplexen Fisteln, Divertikeln oder Fehlbildungen.\nFormat & Moderation:\n- Fachlicher Austausch zweier Assistenzärzte am Urodynamik-Messplatz und Sonographiegerät.\n- Fokus auf korrekte Indikationsstellung zur Vermeidung invasiver Überdiagnostik.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 16
+    },
+    {
+      "folge": 3,
+      "stem": "HIK_F03_KonservativeTherapie",
+      "titel": "Konservative Therapie, Lebensstilinterventionen & Hilfsmittel",
+      "kapitel": [
+        "4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4: Konservative Therapie der Harninkontinenz.\nInhalte:\n- Lebensstilfaktoren: Evidenz zur Gewichtsreduktion bei Adipositas (starke Empfehlung), Koffeinreduktion (Effekt auf Drang, nicht auf BIK), Modulation der Trinkmenge und Sanierung von Obstipation.\n- Verhaltens- und Physiotherapie: Prompted voiding bei kognitiver Beeinträchtigung, Blasentraining (BT) als Erstlinientherapie bei Drang-/Mischinkontinenz.\n- Beckenbodentraining (BBT): Durchführung nach Krafttrainingsprinzipien über mindestens 3 Monate; Stellenwert von Biofeedback, Elektrostimulation (ES) und funktioneller Magnetstimulation.\n- Hilfsmittel & Pessartherapie: Stellenwert von Inkontinenzpessaren bei Belastungsinkontinenz (Stabilisierung der Urethra); Beratung zu Vorlagen und Kathetersystemen.\n- Intravaginale Lasertherapie bei BIK: SMOOTH-Mode Erbium:YAG vs. CO2-Laser; Indikation (nur milde bis moderate BIK, junge Patientinnen, keine Kassenzulassung).\nFormat & Moderation:\n- Praxisorientiertes Gespräch zweier urologischer Assistenzärzte über das konservative \"Armamentarium\" vor dem Griff zum Skalpell.\n- Fokus auf Evidenzgrade, Compliance-Hürden und realistische Erfolgserwartungen für die Patientinnen.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 22
+    },
+    {
+      "folge": 4,
+      "stem": "HIK_F04_MedikamentoeseTherapie",
+      "titel": "Medikamentöse Therapie – OAB, BIK, Hormone & Nykturie",
+      "kapitel": [
+        "5"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5: Medikamentöse Therapie der Harninkontinenz.\nInhalte:\n- Antimuskarinika bei OAB/UUI: Wirkmechanismus; warum Extended-Release (ER) immer vor Immediate-Release (IR) gewählt werden soll; Vermeidung von oralem Oxybutynin; Beachtung der \"anticholinergen Last\" und kognitiven Risiken bei geriatrischen Patientinnen.\n- β3-Adrenorezeptor-Agonisten (Mirabegron): Gleichwertige Wirksamkeit ohne Einschränkung der Detrusorkontraktilität (kein Restharnrisiko); Kontraindikationen und Blutdruckmonitoring; Vorteil der Kombinationstherapie mit Solifenacin.\n- Duloxetin bei BIK/Mischinkontinenz: Wirkmechanismus (Onuf-Kern/Pudendusnerv); Notwendigkeit des Ein- und Ausschleichens zur Minderung von Nausea/ZNS-Nebenwirkungen; Kombination mit BBT.\n- Östrogentherapie: Lokales vaginales Östriol als Langzeittherapie bei Urogenitalatrophie und OAB; Warnung vor systemischer HRT (erhöht das Inkontinenzrisiko!).\n- Desmopressin: Strikte Indikation nur bei Nykturie infolge nächtlicher Polyurie; zwingendes Monitoring des Serumnatriums an Tag 7 und Monat 1 zum Ausschluss einer Hyponatriämie.\nFormat & Moderation:\n- Dynamische Diskussion zweier Stationsärzte über Rezeptauswahl, Nebenwirkungsprofile und Arzneimittelsicherheit.\n- Fokus: \"Welches Medikament für welchen Phänotyp – und wann breche ich ab?\"\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 24
+    },
+    {
+      "folge": 5,
+      "stem": "HIK_F05_OpTherapieBelastungsinkontinenz",
+      "titel": "Operative Therapie der Belastungsinkontinenz",
+      "kapitel": [
+        "7"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7: Operative Therapie der Belastungsinkontinenz.\nInhalte:\n- Suburethrale spannungsfreie Schlingen (MBS): Retropubischer Zugang (TVT) vs. transobturatorischer Zugang (TOT/TVT-O); Inside-out vs. Outside-in; Langzeitdaten (>10 Jahre) und Überlegenheit von TVT im 8-Jahres-Follow-up sowie bei hypotoner Urethra/Rezidiven.\n- Komplikationsprofile der Schlingen: TVT (Blasenperforation, Hämatom, Entleerungsstörung) vs. TOT (persistierende Leisten-/Oberschenkelschmerzen, Sulkusläsion).\n- Burch-Kolposuspension (offen vs. laparoskopisch): Indikationen (z. B. simultaner Lateraldefekt/Zystozele, hypermobiler Blasenhals); Langzeitrisiko für Deszensus im hinteren Kompartiment (Rekto-/Enterozelen).\n- Autologe Faszienschlingen (AFS): Stellenwert bei hypotoner Urethra, hohem Erosionsrisiko oder nach Fremdmaterialversagen.\n- Urethrale Bulking Agents (Indikation bei hohem OP-Risiko) und artifizieller urethraler Sphinkter (AUS) bei schwerer Sphinkterinkompetenz / Rezidiv.\nFormat & Moderation:\n- Kollegiale OP-Indikationsbesprechung zweier Assistenzärzte vor dem OP-Plan.\n- Differenzierte Gegenüberstellung der Techniken und kritische Risikobeurteilung von Netzimplantaten.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 25
+    },
+    {
+      "folge": 6,
+      "stem": "HIK_F06_OpTherapieOAB",
+      "titel": "Operative Therapie der überaktiven Blase & Dranginkontinenz",
+      "kapitel": [
+        "6"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6: Operative Therapie der überaktiven Blase oder Dranginkontinenz.\nInhalte:\n- Botulinumtoxin A (BTX): Standarddosis 100 U Onabotulinumtoxin A bei therapierefraktärer OAB; Injektionstechnik (Detrusor/Submukosa, Trigonum-Einschluss); Wirkdauer (ca. 6 Monate); zwingende präoperative Aufklärung über Harnwegsinfekte und Restharn/Notwendigkeit des intermittierenden Selbstkatheterismus (ISK).\n- Sakrale Neuromodulation (SNM): Zwei-Stufen-Verfahren (PNE-Testphase mit tined lead vs. Implantation des Schrittmachers bei >50% Besserung); Langzeitergebnisse; MRT-Tauglichkeit moderner Systeme; Management bei Schwangerschaft; Zusatzeffekt bei gleichzeitiger Stuhlinkontinenz.\n- Posteriore tibiale Nervenstimulation (PTNS): P-PTNS vs. T-PTNS; Therapieschema (12 Wochen); Stellenwert als minimalinvasive Alternative ohne OP-Risiko.\n- Blasenaugmentation (Ileozystoplastik) & supravesikale Harnableitung: Ultima-Ratio-Optionen; Morbidität, ISK-Pflichtigkeit und lebenslange Nachsorge.\n- Klare Absage: Warum die Detrusormyektomie nicht mehr durchgeführt werden soll.\nFormat & Moderation:\n- Klinischer Diskurs zweier Urologen über Eskalationsstufen bei therapierefraktären OAB-Patientinnen.\n- Head-to-head-Vergleich: Botox vs. SNM – Vor- und Nachteile im klinischen Alltag.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 7,
+      "stem": "HIK_F07_KomplexeKonstellationen",
+      "titel": "Komplexe Konstellationen – Mischinkontinenz, Deszensus, Schlingenkomplikationen & Fisteln",
+      "kapitel": [
+        "7.3",
+        "7.4",
+        "3.4",
+        "8"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.3–7.4 (Mischinkontinenz & Deszensus), Kapitel 3.4 (Komplikationsmanagement Schlingen) und Kapitel 8 (Iatrogene urogenitale Fisteln).\nInhalte:\n- Mischharninkontinenz: Diagnostische Fallstricke und das Prinzip der Priorisierung des klinisch führenden Leitsymptoms in der Therapieplanung.\n- Deszensus und Inkontinenz: Quetschhahnphänomen und Demaskierung einer larvierten Belastungsinkontinenz nach Pessartestung/Reposition; Konzept des zweizeitigen Vorgehens (erst Senkungskorrektur, dann Re-Evaluation der Kontinenz).\n- Komplikationsmanagement nach Bandeinlagen: Diagnostik und Vorgehen bei Obstruktion/Restharn (frühzeitige Bandlockerung vs. spätere Bandspaltung); Banderosionen in Urethra/Blase und Schmerzsyndrome.\n- Urogenitale Fisteln: Diagnostik kontinuierlichen Urinverlustes (Blauprobe, Zystoskopie, Schnittbild-Ausschluss von Ureterbeteiligung); Management und OP-Prinzipien bei vesikovaginalen (VVF) und ureterovaginalen Fisteln.\nFormat & Moderation:\n- Anspruchsvoller Austausch zweier fortgeschrittener Assistenzärzte über urogynäkologische Problemfälle und operative Notfälle.\n- Fokus auf interdisziplinäre Schnittstellen (Urologie/Gynäkologie) und Fehlervermeidung bei Re-Eingriffen.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 25
+    }
+  ]
+}

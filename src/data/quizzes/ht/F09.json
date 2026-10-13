@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Kombination stellt laut Statement 8.30 das Standardregime der Polychemotherapie für die metastasierte Keimzelltumor-Erkrankung dar?",
+    "options": [
+      "Vinblastin, Bleomycin und Cisplatin (VBP).",
+      "Cisplatin, Etoposid und Bleomycin (PEB).",
+      "Carboplatin als Monotherapie.",
+      "Docetaxel, Cisplatin und Ifosfamid."
+    ],
+    "correct": 1,
+    "tip": "Das ursprüngliche VBP-Schema wurde wegen geringerer Wirksamkeit und schlechterer gastrointestinaler Verträglichkeit abgelöst.",
+    "explanation": "Statement 8.30 (geprüft 2026) nennt die Kombination aus Cisplatin, Etoposid und Bleomycin (PEB) als Standardregime der Polychemotherapie für die metastasierte Erkrankung."
+  },
+  {
+    "question": "Welche Chemotherapie sollen Patienten mit metastasiertem KZT im Stadium IIC/III der guten IGCCCG-Prognosegruppe laut Empfehlung 8.33 erhalten?",
+    "options": [
+      "3 Zyklen PEB mit Applikation von Cisplatin und Etoposid über 5 Tage.",
+      "6 Zyklen PEB wie bei schlechter Prognosegruppe.",
+      "Eine alleinige Hochdosis-Chemotherapie mit Stammzelltransplantation.",
+      "1 Zyklus Carboplatin AUC7."
+    ],
+    "correct": 0,
+    "tip": "Die gute Prognosegruppe benötigt im Vergleich zur intermediären oder schlechten Gruppe die am wenigsten intensive Standardchemotherapie.",
+    "explanation": "Empfehlung 8.33 (Grad A, starker Konsens) sieht für Patienten der guten IGCCCG-Prognosegruppe eine Polychemotherapie mit 3 Zyklen PEB vor, mit Cisplatin und Etoposid über jeweils 5 Tage appliziert."
+  },
+  {
+    "question": "Welche Chemotherapie sollen Patienten mit intermediärer IGCCCG-Prognose (Seminom oder Nichtseminom) laut Empfehlungen 8.41/8.42 erhalten, und welche Alternative gilt bei Bleomycin-Kontraindikation?",
+    "options": [
+      "4 Zyklen PEB; bei Kontraindikation gegen Bleomycin 4 Zyklen PEI.",
+      "3 Zyklen PEB in jedem Fall, unabhängig von Kontraindikationen.",
+      "1 Zyklus Carboplatin AUC7 als Standardtherapie.",
+      "2 Zyklen PE ohne weitere Alternative."
+    ],
+    "correct": 0,
+    "tip": "PEI zeigte vergleichbare Wirksamkeit, jedoch eine höhere Hämatotoxizität als PEB.",
+    "explanation": "Empfehlungen 8.41 und 8.42 (Grad A) sehen für Patienten mit intermediärer Prognose 4 Zyklen PEB vor; bei Kontraindikationen gegen Bleomycin sollen 4 Zyklen PEI gegeben werden."
+  },
+  {
+    "question": "Warum sollen Patienten mit fortgeschrittener/metastasierter Keimzelltumor-Erkrankung laut Empfehlung 8.34 bevorzugt an Expertenzentren behandelt werden?",
+    "options": [
+      "Weil dies gesetzlich für alle onkologischen Erkrankungen vorgeschrieben ist.",
+      "Um größtmögliche Heilungschancen zu erreichen und therapieassoziierte Nebenwirkungen durch Vermeidung einer Übertherapie zu verhindern.",
+      "Weil Expertenzentren ausschließlich experimentelle Therapien anbieten dürfen.",
+      "Weil nur dort Cisplatin verfügbar ist."
+    ],
+    "correct": 1,
+    "tip": "Die Volumen-Outcome-Relation bleibt auch nach Anpassung prognostischer Faktoren bestehen und ist mit niedrigeren Mortalitätsraten assoziiert.",
+    "explanation": "Empfehlung 8.34 (Expertenkonsens, starker Konsens) begründet die bevorzugte Behandlung an interdisziplinären Expertenzentren mit größtmöglichen Heilungschancen und der Vermeidung therapieassoziierter Nebenwirkungen durch Übertherapie-Vermeidung."
+  },
+  {
+    "question": "In welcher Konstellation soll laut Empfehlung 8.35 die primäre cisplatinhaltige Chemotherapie OHNE vorherige radikale inguinale Orchiektomie erfolgen?",
+    "options": [
+      "Grundsätzlich bei jedem Patienten mit Fernmetastasen.",
+      "Bei vital bedrohlicher, ausgedehnt metastasierter Erkrankung, wenn die Orchiektomie den Beginn der kurativen Systemtherapie klinisch relevant verzögern würde.",
+      "Nur bei Patienten, die eine Operation generell ablehnen.",
+      "Bei jedem Patienten mit Seminom, unabhängig vom Metastasierungsgrad."
+    ],
+    "correct": 1,
+    "tip": "Typische Konstellationen sind eine schwere pulmonale Metastasierung mit respiratorischer Gefährdung oder andere vital bedrohliche, hochsymptomatische Manifestationen.",
+    "explanation": "Empfehlung 8.35 (Expertenkonsens, modifiziert 2026) sieht die primäre Chemotherapie ohne vorherige Orchiektomie nur bei vital bedrohlicher, ausgedehnt metastasierter Erkrankung vor, wenn die Orchiektomie den Beginn der kurativen Systemtherapie relevant verzögern würde."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.36 nach Abschluss der Induktionschemotherapie erfolgen, wenn die Orchiektomie initial wegen vital bedrohlicher Metastasierung aufgeschoben wurde – und warum auch bei gutem Ansprechen?",
+    "options": [
+      "Die radikale inguinale Orchiektomie des initial befallenen Hodens soll erfolgen, da Residualbefunde im Hoden durch Bildgebung, Marker oder extratestikuläre Histologie nicht zuverlässig ausgeschlossen werden können.",
+      "Keine weitere Maßnahme ist notwendig, wenn die Tumormarker normalisiert sind.",
+      "Eine erneute Biopsie reicht aus, eine Orchiektomie ist dann nicht mehr erforderlich.",
+      "Die Orchiektomie entfällt grundsätzlich, wenn eine Chemotherapie bereits begonnen wurde."
+    ],
+    "correct": 0,
+    "tip": "In einer großen Kohorte fand sich bei fast der Hälfte der Orchiektomiepräparate nach primärer Chemotherapie klinisch relevante Residualpathologie, am häufigsten ein reifes Teratom.",
+    "explanation": "Empfehlung 8.36 (Grad A) fordert die radikale inguinale Orchiektomie nach Abschluss der Induktionschemotherapie auch bei gutem radiologischem oder serologischem Ansprechen, da Residualbefunde im Hoden nicht zuverlässig ausgeschlossen werden können."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 8.37 vor Einleitung einer primären Chemotherapie eine histologische Sicherung aus einer zugänglichen Metastase angestrebt werden?",
+    "options": [
+      "Bei negativen, nur gering erhöhten oder uneindeutigen Tumormarkern und nicht zweifelsfreier klinisch-radiologischer Zuordnung zu einem KZT.",
+      "Immer, ohne Ausnahme, auch bei vital bedrohlicher Situation.",
+      "Nur bei Patienten mit Seminom, nie bei Nichtseminom.",
+      "Nie, da eine histologische Sicherung grundsätzlich entbehrlich ist."
+    ],
+    "correct": 0,
+    "tip": "Bei eindeutiger klinisch-radiologischer Konstellation mit deutlich pathologischen Markern kann dagegen auf die Sicherung verzichtet werden (Empfehlung 8.38).",
+    "explanation": "Empfehlung 8.37 (Expertenkonsens, neu 2026) sieht eine histologische Sicherung vor, wenn Tumormarker negativ, gering erhöht oder uneindeutig sind und die klinisch-radiologische Konstellation keine sichere Zuordnung zu einem KZT erlaubt."
+  },
+  {
+    "question": "Welcher Wachstumsfaktor-Einsatz wird laut Empfehlung 8.32 beim PEI-Regime empfohlen?",
+    "options": [
+      "G-CSF soll primär prophylaktisch eingesetzt werden.",
+      "G-CSF ist beim PEI-Schema grundsätzlich kontraindiziert.",
+      "G-CSF soll nur nach aufgetretenem neutropenem Fieber als Sekundärprophylaxe gegeben werden, nie primär.",
+      "Erythropoetin soll primärprophylaktisch eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "Dies unterscheidet sich von der Empfehlung für PEB, wo G-CSF nur als Sekundärprophylaxe nach neutropenem Fieber vorgesehen ist.",
+    "explanation": "Empfehlung 8.32 (Grad A, starker Konsens) fordert beim PEI-Regime den primärprophylaktischen Einsatz eines myeloischen Wachstumsfaktors (G-CSF), während bei PEB G-CSF nur sekundärprophylaktisch nach neutropenem Fieber eingesetzt werden soll (Empfehlung 8.31)."
+  },
+  {
+    "question": "Warum wurde die Verkürzung der PEB-Zyklen auf drei Tage mit erhöhter Dosisdichte laut Leitlinientext NICHT als geeignete Behandlungsoption etabliert?",
+    "options": [
+      "Weil sie sich entweder als toxischer (vermehrte Oto- und Nephrotoxizität) oder als weniger wirksam erwies.",
+      "Weil sie deutlich teurer ist als das Standardschema.",
+      "Weil sie ausschließlich bei Frauen untersucht wurde.",
+      "Weil keine klinischen Studien dazu existieren."
+    ],
+    "correct": 0,
+    "tip": "Die Dosisintensität ist bei kurativ intendierten Therapien prognoserelevant, weshalb Modifikationen nur in Rücksprache mit einem Expertenzentrum erfolgen sollten.",
+    "explanation": "Mehrere Studien zur Verkürzung der PEB-Zyklen auf drei Tage mit erhöhter Dosisdichte zeigten entweder eine höhere Toxizität (vermehrte Oto- und Nephrotoxizität) oder eine geringere Wirksamkeit, weshalb dieses Vorgehen keine geeignete Behandlungsoption darstellt."
+  },
+  {
+    "question": "Welche Besonderheit an der Dosierung beim PEB-Schema (Tabelle 11) kennzeichnet die Applikation von Cisplatin und Etoposid?",
+    "options": [
+      "Beide werden nur an Tag 1 als Einzeldosis gegeben.",
+      "Cisplatin (20 mg/m²) und Etoposid ((75)–100 mg/m²) werden jeweils an Tag 1–5 appliziert, Bleomycin als Bolus an Tag 1, 8 und 15; Wiederholung an Tag 22.",
+      "Bleomycin wird täglich über 5 Tage gegeben, Cisplatin nur einmalig.",
+      "Alle drei Substanzen werden ausschließlich oral verabreicht."
+    ],
+    "correct": 1,
+    "tip": "Dieses 5-Tage-Schema mit 21-tägigem Zyklusintervall (Wiederholung an Tag 22) ist charakteristisch für das PEB-Protokoll.",
+    "explanation": "Laut Tabelle 11 werden Cisplatin (20 mg/m²) und Etoposid ((75)–100 mg/m²) an Tag 1–5 appliziert, Bleomycin als Bolus an Tag 1, 8 und 15, mit Wiederholung des Zyklus an Tag 22."
+  }
+]

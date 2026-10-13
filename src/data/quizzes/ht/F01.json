@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche zwei übergeordneten Ziele verfolgt die S3-Leitlinie Keimzelltumoren gemäß Kapitel 2.1.1 in Abhängigkeit vom Erkrankungsstadium?",
+    "options": [
+      "In frühen Stadien Reduktion der Toxizität und Verbesserung der Lebensqualität, in höheren Stadien Verbesserung von Therapie und Überlebenswahrscheinlichkeit.",
+      "In allen Stadien ausschließlich die Reduktion der Behandlungskosten im Gesundheitssystem.",
+      "In frühen Stadien die vollständige Vermeidung jeglicher Bildgebung, in höheren Stadien die Beschleunigung der Diagnosestellung.",
+      "In frühen Stadien die Maximierung der Heilungsrate ungeachtet der Toxizität, in höheren Stadien die Kostensenkung."
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie unterscheidet explizit zwischen den Zielen in niedrigen und in fortgeschrittenen Stadien.",
+    "explanation": "Kapitel 2.1.1 nennt für frühe Stadien die Reduktion der Toxizität und Steigerung der Lebensqualität, für höhere Stadien die Verbesserung der Therapie und damit der Überlebenswahrscheinlichkeit."
+  },
+  {
+    "question": "Wie lange ist die aktuelle S3-Leitlinie Keimzelltumoren laut Kapitel 2.1.3 gültig?",
+    "options": [
+      "Exakt 5 Jahre, danach automatisch ungültig.",
+      "Bis zur nächsten Teilaktualisierung; die Arbeiten an Version 3.0 haben bereits begonnen.",
+      "Unbegrenzt, da es sich um eine Konsultationsfassung handelt.",
+      "10 Jahre, analog zu anderen onkologischen S3-Leitlinien."
+    ],
+    "correct": 1,
+    "tip": "Die Leitlinie nennt kein fixes Jahresintervall, sondern koppelt die Gültigkeit an den nächsten Aktualisierungsschritt.",
+    "explanation": "Laut Kapitel 2.1.3 gilt die Leitlinie bis zur nächsten Teilaktualisierung; die Arbeiten an Version 3.0 sind bereits angelaufen."
+  },
+  {
+    "question": "Welche drei Kennzeichnungen werden in den Kopfzeilen der Empfehlungen verwendet, um deren Aktualisierungsstatus zu markieren?",
+    "options": [
+      "aktuell, veraltet, überarbeitet",
+      "Grad A, Grad B, Grad 0",
+      "geprüft, modifiziert, neu",
+      "Evidenzlevel 1, 2, 3"
+    ],
+    "correct": 2,
+    "tip": "Diese Kennzeichnung sagt nichts über die inhaltliche Stärke, sondern über den Bearbeitungsstatus bei der Teilaktualisierung aus.",
+    "explanation": "Kapitel 2.1.3 definiert 'geprüft' (Gültigkeit kontrolliert, keine inhaltliche Änderung), 'modifiziert' (inhaltlich angepasst und konsentiert) und 'neu' (im Rahmen der Aktualisierung neu erstellt und konsentiert)."
+  },
+  {
+    "question": "Welche Systeme zur Evidenzgraduierung werden in dieser Leitlinie gemäß Kapitel 2.2.1 parallel verwendet?",
+    "options": [
+      "Ausschließlich das SIGN-System.",
+      "Oxford 2009, Oxford 2011 und GRADE.",
+      "Nur das GRADE-System in seiner reinsten Form.",
+      "Die NCCN-Kategorien 1, 2A und 2B."
+    ],
+    "correct": 1,
+    "tip": "Die Leitlinie kombiniert mehrere etablierte Levels-of-Evidence-Schemata, nicht nur eines.",
+    "explanation": "Zur Klassifikation des Verzerrungsrisikos wurden laut Kapitel 2.2.1 die Systeme Oxford 2009, Oxford 2011 und GRADE herangezogen."
+  },
+  {
+    "question": "Welche Formulierung entspricht laut Tabelle 5 dem Empfehlungsgrad B?",
+    "options": [
+      "soll / soll nicht",
+      "sollte / sollte nicht",
+      "kann / kann nicht",
+      "wird empfohlen, ist aber fakultativ"
+    ],
+    "correct": 1,
+    "tip": "Grad A ist die stärkste, Grad 0 die offenste Formulierung – B liegt dazwischen.",
+    "explanation": "Tabelle 5 ordnet dem Empfehlungsgrad B die Formulierung 'sollte/sollte nicht' zu, während Grad A 'soll/soll nicht' und Grad 0 'kann' verwendet."
+  },
+  {
+    "question": "Ab welcher Zustimmungsschwelle der Stimmberechtigten spricht die Leitlinie laut Tabelle 6 von einem 'starken Konsens'?",
+    "options": [
+      "> 50%",
+      "> 75%",
+      "> 95%",
+      "= 100%, da sonst keine Konsensstärke vergeben wird"
+    ],
+    "correct": 2,
+    "tip": "Es ist die höchste der vier definierten Konsensstärke-Kategorien.",
+    "explanation": "Laut Tabelle 6 bedeutet 'starker Konsens' eine Zustimmung von über 95% der Stimmberechtigten; '> 75–95%' entspricht 'Konsens'."
+  },
+  {
+    "question": "Was unterscheidet ein 'Statement' methodisch von einer 'Empfehlung' gemäß Kapitel 2.2.3?",
+    "options": [
+      "Statements dürfen nicht im formalen Konsensusverfahren verabschiedet werden.",
+      "Statements enthalten keine unmittelbare Handlungsaufforderung, sondern legen Sachverhalte dar.",
+      "Statements basieren ausschließlich auf Expertenmeinung ohne jede Studienbasis.",
+      "Statements erhalten im Gegensatz zu Empfehlungen immer einen Empfehlungsgrad A/B/0."
+    ],
+    "correct": 1,
+    "tip": "Der entscheidende Unterschied liegt im fehlenden Handlungscharakter, nicht in der Konsentierung selbst.",
+    "explanation": "Statements sind laut Kapitel 2.2.3 Darlegungen oder Erläuterungen ohne unmittelbare Handlungsaufforderung; sie werden wie Empfehlungen formal konsentiert und können auf Studien oder Expertenmeinung beruhen."
+  },
+  {
+    "question": "Wann wird eine Empfehlung als 'Expertenkonsens (EK)' ausgewiesen, und wie ergibt sich dann ihre Verbindlichkeit?",
+    "options": [
+      "Wenn die zugrundeliegende Frage ohne systematische Literaturaufarbeitung bearbeitet wurde; die Stärke ergibt sich aus der Formulierung (soll/sollte/kann).",
+      "Wenn die Empfehlung ausschließlich auf randomisierten Studien mit Evidenzlevel 1 basiert.",
+      "Wenn weniger als 50% der Stimmberechtigten zugestimmt haben.",
+      "EK-Empfehlungen sind grundsätzlich unverbindlich und werden nicht in der Leitlinie geführt."
+    ],
+    "correct": 0,
+    "tip": "EK bedeutet fehlende systematische Literaturrecherche, nicht fehlende Verbindlichkeit.",
+    "explanation": "Kapitel 2.2.4 legt fest, dass EK vergeben wird, wenn ohne systematische Literaturaufarbeitung entschieden wurde; der Empfehlungsgrad wird dann nicht explizit ausgewiesen, sondern ergibt sich aus der verwendeten Formulierung."
+  },
+  {
+    "question": "Wer nahm laut Kapitel 2.2.5 die unabhängige Bewertung der offengelegten Interessenkonflikte der Leitliniengruppe vor?",
+    "options": [
+      "Jedes Mitglied bewertete seine eigenen Interessenkonflikte selbst.",
+      "Dr. Stefanie Schmidt (UroEvidence) und die AWMF-zertifizierte Leitlinienberaterin Frauke Schwier.",
+      "Ein externes Gremium der Deutschen Krebshilfe ohne Namensnennung.",
+      "Die AWMF-Geschäftsstelle allein, ohne Beteiligung von UroEvidence."
+    ],
+    "correct": 1,
+    "tip": "Eine Selbstbewertung war explizit nicht vorgesehen.",
+    "explanation": "Laut Kapitel 2.2.5 erfolgte keine Selbstbewertung; die unabhängige Bewertung wurde durch Dr. Stefanie Schmidt (UroEvidence) und die AWMF-zertifizierte Leitlinienberaterin Frauke Schwier vorgenommen."
+  },
+  {
+    "question": "Welche Konsequenz ist laut Kapitel 2.2.5 bei einem 'hohen Interessenkonflikt' (z. B. Arbeitsverhältnis mit einem Industrieunternehmen) vorgesehen?",
+    "options": [
+      "Keine Konsequenz, da hohe Interessenkonflikte in der Leitlinienarbeit nicht vorkommen dürfen.",
+      "Lediglich eine Fußnote im Leitlinienreport ohne weitere Einschränkung.",
+      "Ausschluss von Beratungen und Abstimmungen zu thematisch betroffenen Empfehlungen.",
+      "Vollständiger und dauerhafter Ausschluss aus allen medizinischen Fachgesellschaften."
+    ],
+    "correct": 2,
+    "tip": "Die Konsequenz betrifft gezielt die thematisch betroffenen Abstimmungen, nicht die gesamte Mitarbeit.",
+    "explanation": "Bei hohem Interessenkonflikt sieht die Leitlinie den Ausschluss von Beratungen und Abstimmungen zu thematisch betroffenen Empfehlungen vor."
+  }
+]

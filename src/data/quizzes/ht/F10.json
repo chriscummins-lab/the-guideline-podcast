@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie verteilen sich Keimzelltumoren laut Statement 8.51 zwischen gonadaler und primär extragonadaler Lokalisation?",
+    "options": [
+      "95% gonadal, 5% primär extragonadal.",
+      "50% gonadal, 50% extragonadal.",
+      "100% gonadal – extragonadale KZT existieren laut Leitlinie nicht als eigene Entität.",
+      "70% extragonadal, nur 30% gonadal."
+    ],
+    "correct": 0,
+    "tip": "Die häufigsten extragonadalen Lokalisationen sind das vordere Mediastinum (50–70%) und das Retroperitoneum (30–40%).",
+    "explanation": "Statement 8.51 (geprüft 2026) gibt an, dass 95% aller Keimzelltumoren des Mannes im Hoden auftreten und 5% primär extragonadal lokalisiert sind."
+  },
+  {
+    "question": "In welche IGCCCG-Prognosegruppe werden primär mediastinale nichtseminomatöse extragonadale KZT laut Leitlinientext eingestuft, unabhängig von Metastasierung oder Tumormarkerwerten?",
+    "options": [
+      "Immer in die gute Prognosegruppe.",
+      "Immer in die schlechte Prognosegruppe (Stadium III).",
+      "Je nach individuellem Fall in gute oder intermediäre Prognosegruppe.",
+      "Sie werden von der IGCCCG-Klassifikation generell ausgenommen."
+    ],
+    "correct": 1,
+    "tip": "Diese automatische Zuordnung spiegelt die ungünstigere Prognose dieser Tumorlokalisation wider, unter anderem wegen reduzierter Chemosensitivität.",
+    "explanation": "Alle Patienten mit mediastinalem nichtseminomatösem extragonadalem KZT werden laut IGCCCG-Klassifikation ungeachtet der metastatischen Ausbreitung oder der Serumtumormarkerwerte in die schlechte Prognosegruppe (Stadium III) eingestuft."
+  },
+  {
+    "question": "Warum soll laut Empfehlung 8.56 bei primär mediastinalem nichtseminomatösem KZT auf die Gabe von Bleomycin verzichtet werden?",
+    "options": [
+      "Weil Bleomycin bei dieser Entität grundsätzlich unwirksam ist.",
+      "Aufgrund der häufig erforderlichen ausgedehnten thorakalen Resektion.",
+      "Weil Bleomycin nur bei Seminomen zugelassen ist.",
+      "Weil dies gesetzlich vorgeschrieben ist, unabhängig von klinischen Gründen."
+    ],
+    "correct": 1,
+    "tip": "Die pulmonale Toxizität von Bleomycin würde das Risiko bei der anschließend oft notwendigen ausgedehnten Lungen- bzw. Thoraxchirurgie deutlich erhöhen.",
+    "explanation": "Empfehlung 8.56 (Grad A/B/0) begründet den Verzicht auf Bleomycin bei mediastinalem nichtseminomatösem KZT mit der häufig erforderlichen ausgedehnten thorakalen Resektion."
+  },
+  {
+    "question": "Mit welcher Chemotherapie sollen Patienten mit Hirnmetastasen bei Erstdiagnose laut Empfehlung 8.58 behandelt werden?",
+    "options": [
+      "3 Zyklen PEB wie bei guter Prognosegruppe.",
+      "4 Zyklen Chemotherapie (PEI, alternativ PEB) analog der IGCCCG-Klassifikation für intermediäre bzw. schlechte Prognose.",
+      "1 Zyklus Carboplatin AUC7.",
+      "Ausschließlich eine Ganzhirnbestrahlung ohne systemische Chemotherapie."
+    ],
+    "correct": 1,
+    "tip": "Zusätzlich sollte laut Empfehlung 8.59 eine primäre Hochdosis-Chemotherapie evaluiert werden.",
+    "explanation": "Empfehlung 8.58 (Grad A, modifiziert 2026) sieht bei Hirnmetastasen bei Erstdiagnose 4 Zyklen Chemotherapie (PEI, alternativ PEB) analog der IGCCCG-Klassifikation für intermediäre (Seminome) bzw. schlechte Prognose (Nichtseminome) vor."
+  },
+  {
+    "question": "Welche Bestrahlungstechnik soll laut Empfehlung 8.61 bei Indikation zur zerebralen Radiotherapie bevorzugt eingesetzt werden, und warum?",
+    "options": [
+      "Die Ganzhirnbestrahlung, da sie die höchste lokale Kontrolle bietet.",
+      "Die stereotaktische Radiotherapie, nach Möglichkeit, aufgrund geringerer Langzeittoxizität im Vergleich zur Ganzhirnradiatio.",
+      "Eine Brachytherapie mit permanenten Seeds im Hirnparenchym.",
+      "Grundsätzlich keine Bestrahlung, da diese bei ZNS-Metastasen kontraindiziert ist."
+    ],
+    "correct": 1,
+    "tip": "Aufgrund beschriebener Langzeittoxizitäten nach Ganzhirnradiatio wird, wann immer möglich, die stereotaktische Variante angestrebt.",
+    "explanation": "Empfehlung 8.61 (Grad A, modifiziert 2026) fordert bei Indikation zur zerebralen Radiotherapie eine möglichst stereotaktische Durchführung, um die Langzeittoxizität gegenüber der Ganzhirnbestrahlung zu reduzieren."
+  },
+  {
+    "question": "Welche kumulative Gesamtdosis von Bleomycin darf laut Leitlinientext lebenslang nicht überschritten werden, und warum?",
+    "options": [
+      "400 mg, da die pulmonale Toxizität (Pneumonitis, Lungenfibrose) dosisabhängig ist.",
+      "4000 mg, da Bleomycin keine relevante Organtoxizität aufweist.",
+      "Es gibt keine Obergrenze, solange die Nierenfunktion normal ist.",
+      "40 mg, da schon geringste Dosen zu Lungenfibrose führen."
+    ],
+    "correct": 0,
+    "tip": "Diese Grenze entspricht etwa vier Zyklen PEB.",
+    "explanation": "Die pulmonale Toxizität von Bleomycin ist dosisabhängig, weshalb eine kumulative Gesamtdosis von 400 mg lebenslang nicht überschritten werden darf (entspricht etwa vier Zyklen PEB)."
+  },
+  {
+    "question": "Welchen Risikofaktor für eine Bleomycin-induzierte pulmonale Toxizität nennt eine retrospektive Studie mit einer 5,2-fach erhöhten Risikosteigerung?",
+    "options": [
+      "Rauchen.",
+      "Vegetarische Ernährung.",
+      "Männliches Geschlecht (ohnehin alle Patienten betroffen).",
+      "Ein Alter unter 25 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Raucher gehören neben Patienten mit Nierenfunktionsstörungen, höherem Alter und ausgedehnter pulmonaler Metastasierung zu den definierten Risikogruppen.",
+    "explanation": "Raucher wiesen in einer retrospektiven Studie unter Bleomycin-Therapie ein 5,2-fach erhöhtes Risiko für eine pulmonale Toxizität auf."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.69 vor Einleitung der Chemotherapie bei tumorbedingter Hydronephrose erfolgen?",
+    "options": [
+      "Eine sofortige Nephrektomie der betroffenen Seite.",
+      "Die Entlastung der Hydronephrose (z. B. Ureterschienung oder perkutane Nephrostomie).",
+      "Keine Maßnahme – die Chemotherapie beginnt unabhängig vom Nierenstatus.",
+      "Eine primäre Dialyse unabhängig von der tatsächlichen Nierenfunktion."
+    ],
+    "correct": 1,
+    "tip": "Bei adäquater Erholung der Nierenfunktion nach Entlastung ist anschließend eine Cisplatin-basierte Standardtherapie möglich.",
+    "explanation": "Empfehlung 8.69 (Expertenkonsens, starker Konsens) fordert, dass eine tumorbedingte Hydronephrose vor Einleitung der Chemotherapie entlastet werden soll, etwa durch Ureterschienung oder perkutane Nephrostomie."
+  },
+  {
+    "question": "Warum soll Cisplatin laut Empfehlung 8.70 bei eingeschränkter Nierenfunktion NICHT generell durch Carboplatin ersetzt werden?",
+    "options": [
+      "Weil Carboplatin-basierte Chemotherapie mit erhöhten Rezidivraten und erhöhter tumorbedingter Mortalität einhergeht und daher begründeten Einzelfällen vorbehalten bleiben sollte.",
+      "Weil Carboplatin grundsätzlich teurer ist als Cisplatin.",
+      "Weil Carboplatin bei Keimzelltumoren überhaupt nicht wirksam ist.",
+      "Weil Carboplatin ausschließlich intrathekal verabreicht werden kann."
+    ],
+    "correct": 0,
+    "tip": "Mehrere randomisierte Studien (EORTC, deutsche und nordamerikanische Studien) zeigten unter Carboplatin signifikant schlechtere Ansprechraten und höhere Rezidivraten als unter Cisplatin.",
+    "explanation": "Empfehlung 8.70/8.71 betont, dass Cisplatin bei eingeschränkter Nierenfunktion nicht generell durch Carboplatin ersetzt werden soll, da Carboplatin-basierte Chemotherapie mit erhöhten Rezidivraten und erhöhter tumorbedingter Mortalität assoziiert ist; die Entscheidung erfolgt individuell nach Rücksprache mit einem Expertenzentrum."
+  },
+  {
+    "question": "Wie wird die kurative Chemotherapie laut Leitlinientext bei Patienten mit dialysepflichtiger terminaler Niereninsuffizienz und metastasiertem KZT gestaltet?",
+    "options": [
+      "Sie wird grundsätzlich nicht durchgeführt, da sie als zu riskant gilt.",
+      "Sie kann weiterhin Cisplatin-basiert durchgeführt werden, da keine erhöhte Toxizität zu erwarten ist, erfordert aber hohe Expertise und interdisziplinäre Zusammenarbeit mit der Nephrologie.",
+      "Sie wird ausschließlich mit oraler Chemotherapie ohne jede Platin-Komponente durchgeführt.",
+      "Sie erfolgt zwingend mit einer um 90% reduzierten Cisplatin-Dosis."
+    ],
+    "correct": 1,
+    "tip": "Entscheidend ist hier die enge interdisziplinäre Abstimmung zwischen Onkologie/Urologie und Nephrologie.",
+    "explanation": "Bei dialysepflichtiger terminaler Niereninsuffizienz lässt sich die Therapie Cisplatin-basiert durchführen, da hier keine erhöhte Toxizität zu erwarten ist; das Management bedarf jedoch hoher Expertise und interdisziplinärer Zusammenarbeit mit der Nephrologie."
+  }
+]

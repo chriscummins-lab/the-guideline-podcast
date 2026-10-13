@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wofür gilt die Urodynamik laut Leitlinie, und was kann sie dabei NICHT allein leisten?",
+    "options": [
+      "Sie ist Goldstandard zur Beurteilung von Symptomen des unteren Harntrakts, kann aber keine alleinige Diagnosestellung ohne klinischen Kontext liefern.",
+      "Sie ersetzt vollständig die klinische Untersuchung und macht eine Anamnese überflüssig.",
+      "Sie ist nur bei neurogener Harninkontinenz überhaupt sinnvoll einsetzbar.",
+      "Sie liefert immer reproduzierbare Ergebnisse, unabhängig vom Untersucher."
+    ],
+    "correct": 0,
+    "tip": "Goldstandard heißt nicht automatisch, dass das Verfahren allein ausreicht.",
+    "explanation": "Die Urodynamik gilt als Goldstandard zur Beurteilung von Symptomen des unteren Harntrakts, eine Diagnosestellung allein durch die Urodynamik ist aber nicht möglich und bedarf der Beurteilung im Kontext mit Symptomen und klinischen Befunden."
+  },
+  {
+    "question": "Wann ist eine routinemäßige urodynamische Untersuchung laut Leitlinie NICHT indiziert?",
+    "options": [
+      "Vor jeder operativen Therapie der komplizierten Belastungsinkontinenz.",
+      "Vor Rezidiveingriffen.",
+      "Vor einer konservativen Therapie der unkomplizierten Belastungsinkontinenz und unbehandelter überaktiver Blase.",
+      "Bei Verdacht auf eine neurogene Komponente."
+    ],
+    "correct": 2,
+    "tip": "Wenn aus dem Ergebnis keine therapeutische Konsequenz zu erwarten ist, sollte man sich die Untersuchung sparen.",
+    "explanation": "Eine routinemäßige urodynamische Untersuchung ist vor einer konservativen Therapie der unkomplizierten Belastungsinkontinenz und unbehandelter überaktiver Blase nicht indiziert und sollte nicht durchgeführt werden."
+  },
+  {
+    "question": "Welcher Wert des maximalen urethralen Verschlussdrucks in Ruhe gilt als guter Prädiktor für schlechtere postoperative Ergebnisse (hypotone Urethra)?",
+    "options": [
+      "<20–25 cm H2O",
+      ">60 cm H2O",
+      "Ein Valsalva Leak Point Pressure von exakt 100 cm H2O",
+      "Jeder Wert unterhalb von 100 cm H2O"
+    ],
+    "correct": 0,
+    "tip": "Es geht um einen klar niedrigen, nicht um einen hohen Druckwert.",
+    "explanation": "Der Nachweis einer hypotonen Urethra mit einem maximalen urethralen Verschlussdruck in Ruhe <20–25 cm H2O ist ein guter Prädiktor für schlechtere OP-Ergebnisse."
+  },
+  {
+    "question": "Wie sollte bei Verdacht auf eine larvierte (maskierte) Belastungsinkontinenz durch ein Quetschhahn-Phänomen bei massivem Prolaps vorgegangen werden?",
+    "options": [
+      "Sofortige präoperative Urodynamik vor jeder Prolapsoperation.",
+      "Klinische Kontrolle auf Restharn und klinischer Stresstest nach Reposition, da die Urodynamik hier sehr artefaktbehaftet ist.",
+      "Eine Videourodynamik ist hier obligat.",
+      "Eine MRT-Diagnostik ist die Methode der ersten Wahl."
+    ],
+    "correct": 1,
+    "tip": "Bei stark verändertem Pressungsverhältnis durch den Prolaps liefert die klassische Urodynamik unzuverlässige Ergebnisse.",
+    "explanation": "Eine Urodynamik vor Prolapsoperation ist wegen hoher Artefaktanfälligkeit nicht sinnvoll; eine klinische Kontrolle auf Restharn und ein klinischer Stresstest nach Reposition sollten das Vorliegen einer maskierten Inkontinenz aufdecken."
+  },
+  {
+    "question": "In welcher Situation soll laut Leitlinie eine Urethrozystoskopie durchgeführt werden (starke Empfehlung)?",
+    "options": [
+      "Routinemäßig bei jeder neu diagnostizierten Belastungsinkontinenz.",
+      "Bei therapierefraktärer Dranginkontinenz, um eine andere Pathologie nicht zu übersehen.",
+      "Nur bei Frauen unter 40 Jahren.",
+      "Ausschließlich im Rahmen der Erstdiagnostik einer unkomplizierten Harninkontinenz."
+    ],
+    "correct": 1,
+    "tip": "Wenn die Standardtherapie nicht wirkt, muss man sicher ausschließen, dass man etwas Wichtiges übersehen hat.",
+    "explanation": "Bei Patientinnen mit therapierefraktärer Dranginkontinenz soll eine Urethrozystoskopie durchgeführt werden, um nicht eine andere Pathologie zu übersehen."
+  },
+  {
+    "question": "Warum gilt der Ultraschall in der Diagnostik der weiblichen Harninkontinenz als das wichtigste bildgebende Verfahren gegenüber MRT und lateralem Urethrozystogramm?",
+    "options": [
+      "Weil er die einzige überhaupt verfügbare Methode ist.",
+      "Weil er schnelle dynamische Bewegungsänderungen (z.B. bei Valsalva- und Hustentest) am besten abbilden kann.",
+      "Weil er eine höhere Strahlenbelastung als die MRT hat.",
+      "Weil er ausschließlich zur Fisteldiagnostik eingesetzt wird."
+    ],
+    "correct": 1,
+    "tip": "Entscheidend ist die hohe Bildrate bei schnellen Bewegungen, nicht die Gewebeauflösung.",
+    "explanation": "Weder das laterale Urethrozystogramm noch die MRT erreichen hinsichtlich der schnellen Bewegungsänderungen (Valsalva- und Hustentest) die Aussagekraft des Ultraschalls, der damit das wichtigste bildgebende Verfahren bei weiblicher Harninkontinenz ist."
+  },
+  {
+    "question": "Welche Blasenfüllung wird für eine gute Vergleichbarkeit der Ultraschall-Inkontinenzdiagnostik empfohlen?",
+    "options": [
+      "Eine vollständig entleerte Blase (0 ml).",
+      "Ca. 300 ml.",
+      "Mindestens 1000 ml.",
+      "Die Blasenfüllung spielt für die Ergebnisse keine Rolle."
+    ],
+    "correct": 1,
+    "tip": "Die Füllmenge beeinflusst Trichterbildung und Blasenhalsposition – sie muss standardisiert sein.",
+    "explanation": "Die Blasenfüllung sollte zur besseren Vergleichbarkeit und im Rahmen von Studien bei ca. 300 ml liegen, da sie Einfluss auf die Darstellbarkeit des Trichters und die Position des Blasenhalses hat."
+  },
+  {
+    "question": "Ab welchem Wert des Bladder Neck Descent (LDM) spricht man sonographisch von einer Hypermobilität der Urethra?",
+    "options": [
+      "LDM 5 mm",
+      "LDM 10 mm",
+      "LDM 15 mm",
+      "LDM 25 mm"
+    ],
+    "correct": 2,
+    "tip": "Dieser Wert entspricht einem Q-Tip-Winkel von 30 Grad bei einer Urethralänge von 28 mm.",
+    "explanation": "Verschiebt sich der Blasenhals beim Pressen um 15 mm im Vergleich zum Ruhezustand (LDM 15 mm), wird von einer Hypermobilität gesprochen; ein LDM von 5 mm entspricht einer Hypomobilität."
+  },
+  {
+    "question": "Was deutet sonographisch bei einer Kolposuspension auf eine \"Überkorrektur\" hin?",
+    "options": [
+      "Eine Elevationshöhe H des Blasenhalses von ≥10 mm gegenüber der präoperativen Ruheposition.",
+      "Ein Restharn von weniger als 50 ml.",
+      "Eine Blasenwanddicke von weniger als 3 mm.",
+      "Ein unveränderter Blasenhals im Vergleich zur präoperativen Messung."
+    ],
+    "correct": 0,
+    "tip": "Die Blasenhalsposition wird zu stark angehoben – das kann zu einer postoperativen Entleerungsstörung führen.",
+    "explanation": "Der Begriff \"Überkorrektur\" zeigt sich sonographisch zunehmend ab einer Elevationshöhe H von ≥10 mm im Vergleich zur präoperativ gemessenen Ruhepositionsmessung und wird häufig mit einer postoperativen Blasenentleerungsstörung in Verbindung gebracht."
+  },
+  {
+    "question": "In welcher klinischen Situation hat die MRT-Diagnostik laut Leitlinie einen sinnvollen Stellenwert bei weiblicher Harninkontinenz?",
+    "options": [
+      "Als Routineuntersuchung bei jeder neu diagnostizierten Belastungsinkontinenz.",
+      "Bei de novo Inkontinenz nach Mesh-Einlagen und Verdacht auf Fistel- oder Divertikelbildung bzw. urogenitale Fehlbildungen.",
+      "Ausschließlich zur Bestimmung der Restharnmenge.",
+      "Zur Ersteinschätzung des Oxford-Scores."
+    ],
+    "correct": 1,
+    "tip": "Die MRT ist eine Zusatzdiagnostik für komplexe Sonderfälle, nicht für die Routine.",
+    "explanation": "In der Routinediagnostik hat die MRT nur einen marginalen Stellenwert; sie ist aber als additive Bildgebung indiziert bei de novo Inkontinenz nach Mesh-Einlagen, Verdacht auf Fistel- oder Divertikelbildung, urogenitalen Fehlbildungen oder im Kontext geschlechtsangleichender Operationen."
+  }
+]

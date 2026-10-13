@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Wie definiert die International Continence Society (ICS) Harninkontinenz?",
+    "options": [
+      "Nur der Urinverlust bei körperlicher Belastung.",
+      "Jeglicher unfreiwilliger Urinabgang.",
+      "Ausschließlich der nächtliche, unbemerkte Urinverlust.",
+      "Der Urinverlust ausschließlich in Kombination mit Harndrang."
+    ],
+    "correct": 1,
+    "tip": "Die Definition ist bewusst sehr weit gefasst und schließt alle Unterformen ein.",
+    "explanation": "Die ICS definiert Harninkontinenz allgemein als jeglichen unfreiwilligen Urinabgang – unabhängig von Auslöser oder Form."
+  },
+  {
+    "question": "Welche Prävalenz der Harninkontinenz bei Frauen über 18 Jahren zeigte eine deutsch-dänische Untersuchung aus dem Jahr 2017?",
+    "options": ["15 %", "27,1 %", "48,3 %", "7,8 %"],
+    "correct": 2,
+    "tip": "Neuere Studien mit sensitiverer Erfassung zeigen deutlich höhere Zahlen als die ältere Befragung von 2005.",
+    "explanation": "Die deutsch-dänische Untersuchung von 2017 zeigt eine Prävalenz bei Frauen über 18 Jahren von 48,3 %, deutlich höher als die 15 % aus der statistischen Befragung von 2005."
+  },
+  {
+    "question": "Welches Merkmal zählt NICHT zu den Charakteristika einer unkomplizierten Belastungsinkontinenz?",
+    "options": [
+      "Abgeschlossene Familienplanung.",
+      "Keine neurologische Blasenfunktionsstörung.",
+      "Simultaner Genitalprolaps.",
+      "Keine vorangegangene Inkontinenzoperation."
+    ],
+    "correct": 2,
+    "tip": "Überlege, welches der vier Merkmale laut Leitlinie gerade die komplizierte Form definiert, nicht die unkomplizierte.",
+    "explanation": "Ein simultaner Genitalprolaps ist ein Charakteristikum der komplizierten, nicht der unkomplizierten Belastungsinkontinenz."
+  },
+  {
+    "question": "Wodurch entsteht eine Inkontinenz bei chronischer Harnretention (früher Überlaufinkontinenz)?",
+    "options": [
+      "Durch eine neurogen bedingte Detrusorüberaktivität.",
+      "Durch Fistelbildung oder einen ektopen Ureter.",
+      "Durch erhöhten Restharn infolge Detrusorunteraktivität oder Blasenauslassobstruktion.",
+      "Durch imperativen Harndrang ohne Detrusorüberaktivität."
+    ],
+    "correct": 2,
+    "tip": "Der Name \"Überlauf\" verrät schon, dass die Blase nicht richtig leer wird.",
+    "explanation": "Die Inkontinenz bei chronischer Harnretention entsteht durch einen erhöhten Restharn, der durch Detrusorunteraktivität oder eine Blasenauslassobstruktion verursacht wird."
+  },
+  {
+    "question": "In wie vielen Fällen ermöglichen gezielte, standardisierte Anamnese-Fragen bereits eine Kategorisierung in Belastungs-, Drang- oder Mischharninkontinenz?",
+    "options": ["bis zu 50 %", "bis zu 80 %", "bis zu 95 %", "bis zu 30 %"],
+    "correct": 1,
+    "tip": "Die Anamnese ist erstaunlich treffsicher, auch ohne apparative Diagnostik.",
+    "explanation": "Gezielte und standardisierte Fragen ermöglichen bereits in bis zu 80 % eine Kategorisierung in Belastungs-, Drang- oder Mischharninkontinenz."
+  },
+  {
+    "question": "Mit welchem Instrument wird die Kontraktionsfähigkeit der Beckenbodenmuskulatur semiquantifiziert?",
+    "options": [
+      "Dem Ingelman-Sundberg-Score.",
+      "Dem Oxford-Grading-Score.",
+      "Dem PGI-I-Score.",
+      "Der ICIQ-UI-Short-Form."
+    ],
+    "correct": 1,
+    "tip": "Dieses System wird per digitaler vaginaler Palpation erhoben und ist nach einer britischen Universitätsstadt benannt.",
+    "explanation": "Die Palpation der Beckenbodenmuskulatur mit Prüfung der Kontraktionsfähigkeit kann mit Hilfe des Oxford-Grading-Systems semiquantifiziert werden."
+  },
+  {
+    "question": "Wie lange sollte ein Miktionstagebuch (Blasentagebuch) laut Leitlinie mindestens geführt werden?",
+    "options": ["Nur 24 Stunden.", "Mindestens 3 Tage.", "Mindestens 7 Tage.", "Mindestens 1 Monat."],
+    "correct": 1,
+    "tip": "Eine Studie zeigt, dass ein einziger Tag nicht ausreicht, um die Variabilität der Symptome gut zu erfassen.",
+    "explanation": "Das Miktionstagebuch sollte über zumindest 3 Tage geführt werden, da dies eine bessere Datenqualität liefert als nur 24 Stunden."
+  },
+  {
+    "question": "Welcher Schwellenwert gilt für den 1-Stunden-Pad-Test zur Diagnosestellung einer Harninkontinenz?",
+    "options": [
+      "Eine Vorlagengewichtszunahme von >1,4 g.",
+      "Eine Vorlagengewichtszunahme von >4,4 g.",
+      "Eine Vorlagengewichtszunahme von >10 g.",
+      "Es existiert kein definierter Schwellenwert."
+    ],
+    "correct": 0,
+    "tip": "Der 24-Stunden-Test hat einen anderen, höheren Schwellenwert als der kürzere Test.",
+    "explanation": "Der 1h-Pad-Test mit standardisiertem Übungsprogramm nutzt eine Vorlagengewichtszunahme von >1,4 g als Schwellenwert, der 24h-Test hingegen >4,4 g."
+  },
+  {
+    "question": "Wie sollte bei einer Patientin mit Harninkontinenz und gleichzeitigem symptomatischem Harnwegsinfekt vorgegangen werden?",
+    "options": [
+      "Sofortige urodynamische Abklärung vor jeder weiteren Maßnahme.",
+      "Zunächst Therapie des Harnwegsinfekts, weitere Inkontinenzabklärung nur bei Persistenz der Symptome.",
+      "Keine Behandlung des Infekts, da er die Inkontinenz nicht beeinflusst.",
+      "Primär eine operative Sanierung der Belastungsinkontinenz."
+    ],
+    "correct": 1,
+    "tip": "Ein akuter Infekt kann Inkontinenzsymptome vortäuschen oder verstärken – das muss zuerst behandelt werden.",
+    "explanation": "Bei symptomatischem Harnwegsinfekt soll zunächst eine Behandlung der Infektion erfolgen, und nur bei Persistenz der Harninkontinenz eine weitere Abklärung durchgeführt werden."
+  },
+  {
+    "question": "Wie verhält sich die Restharnmenge bei Frauen mit Belastungsinkontinenz im Mittel?",
+    "options": [
+      "Sie ist typischerweise stark erhöht (>200 ml).",
+      "Sie ist im Mittel niedrig, nur etwa 16 % haben Werte >100 ml.",
+      "Sie kann grundsätzlich nicht sonographisch gemessen werden.",
+      "Sie ist bei allen Patientinnen identisch mit Frauen mit Dranginkontinenz."
+    ],
+    "correct": 1,
+    "tip": "Belastungsinkontinenz ist in der Regel keine Entleerungsstörung, sondern ein Verschlussproblem – das spiegelt sich im Restharn wider.",
+    "explanation": "Frauen mit Belastungsinkontinenz haben im Mittel niedrige Restharnwerte (39 ml per Katheterismus, 63 ml sonographisch), nur 16 % weisen Werte über 100 ml auf."
+  }
+]

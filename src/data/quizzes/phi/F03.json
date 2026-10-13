@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Besteht laut Statement 3 im Säuglingsalter aus medizinischen Gründen eine Indikation zur Beschneidung?",
+    "options": [
+      "Ja, grundsätzlich bei jedem Säugling.",
+      "Nein, außer bei hochgradiger assoziierter Uropathologie.",
+      "Nur bei Jungen unter 3 Monaten.",
+      "Ja, immer innerhalb der ersten Lebenswoche."
+    ],
+    "correct": 1,
+    "tip": "Die meisten im Säuglingsalter durchgeführten Beschneidungen sind daher nicht medizinisch, sondern soziokulturell/religiös motiviert.",
+    "explanation": "Im Säuglingsalter besteht aus medizinischen Gründen keine Indikation zur Beschneidung, mit Ausnahme einer hochgradig assoziierten Uropathologie (Statement 3)."
+  },
+  {
+    "question": "Welche Komplikationsmöglichkeiten soll die Aufklärung vor einer Zirkumzision laut Empfehlung 13 mindestens umfassen?",
+    "options": [
+      "Nur das Risiko einer Narbenbildung.",
+      "Nachblutung, Infektion, Sensibilitätseinschränkung, Narbenbildung, Verletzungen von Harnröhre/Schwellkörper, Meatusstenose, Rezidiv sowie spätere funktionelle/ästhetische/psychosexuelle Beeinträchtigungen.",
+      "Ausschließlich das allgemeine Narkoserisiko.",
+      "Keine spezifischen Risiken, da der Eingriff als risikofrei gilt."
+    ],
+    "correct": 1,
+    "tip": "Diese Aufklärung soll z.B. auf einem Standardaufklärungsbogen dokumentiert werden.",
+    "explanation": "Die Aufklärung soll mindestens über Nachblutung, Infektion, Sensibilitätseinschränkung, Narbenbildung, Verletzungen von Harnröhre/Schwellkörpern, Meatusstenose, Rezidiv sowie spätere funktionelle, ästhetische und psychosexuelle Beeinträchtigungen informieren (Empfehlung 13)."
+  },
+  {
+    "question": "Welches Analgesieverfahren gilt laut Empfehlung 15 bei der Zirkumzision als Mittel der ersten Wahl?",
+    "options": [
+      "Eine alleinige topische Anästhesie.",
+      "Der distale Penisnervenblock (DPNB/Peniswurzelblock) in Kombination mit einer Allgemeinanästhesie.",
+      "Eine orale Glukosegabe als einzige Maßnahme.",
+      "Es ist generell keine Schmerztherapie notwendig."
+    ],
+    "correct": 1,
+    "tip": "Der Kaudalblock gilt als mögliche Alternative mit kürzerer Wirkdauer.",
+    "explanation": "Bei der Zirkumzision soll die Allgemeinanästhesie mit einer Regionalanästhesie kombiniert werden, wobei der distale Penisnervenblock bevorzugt eingesetzt werden soll (Empfehlung 15)."
+  },
+  {
+    "question": "Welche Operationstechnik ist vorhauterhaltend und für welches Risiko bekannt?",
+    "options": [
+      "Die Guillotine-Technik, mit einem Rezidivrisiko von 50%.",
+      "Die \"Triple Incision\" (Welsch-Plastik), mit einem Phimosen-Rezidivrisiko von 11-20%.",
+      "Die Plastibell-Technik, die grundsätzlich vorhauterhaltend ist.",
+      "Es gibt laut Leitlinie keine vorhauterhaltenden Techniken."
+    ],
+    "correct": 1,
+    "tip": "Zudem sind nur etwa 80% der Patienten mit dem ästhetischen Ergebnis dieser Technik zufrieden.",
+    "explanation": "Die \"Triple Incision\" (Welsch-Plastik) ist eine vorhauterhaltende Technik mit einem Phimosen-Rezidivrisiko von 11-20%."
+  },
+  {
+    "question": "Welche Operationskontraindikation besteht laut Empfehlung 16 bei angeborenen Penisfehlbildungen wie Hypospadie oder Epispadie?",
+    "options": [
+      "Keine – eine Zirkumzision kann immer sofort erfolgen.",
+      "Vor definitiver Versorgung der zu korrigierenden Fehlbildung soll keine Zirkumzision durchgeführt werden, da das Präputialgewebe für die spätere Korrektur benötigt wird.",
+      "Diese Frage ist nur bei Mädchen relevant.",
+      "Die Zirkumzision ist die einzige Therapieoption bei Hypospadie."
+    ],
+    "correct": 1,
+    "tip": "Beim buried Penis droht bei klassischer Zirkumzision zudem der vollständige Verlust der ohnehin kurzen Penisschafthaut.",
+    "explanation": "Vor definitiver Versorgung einer zu korrigierenden Penisfehlbildung soll keine Zirkumzision durchgeführt werden, da das Präputialgewebe häufig für die operative Korrektur benötigt wird (Empfehlung 16)."
+  },
+  {
+    "question": "Welche Rate an postoperativen Komplikationen nach Zirkumzision wird selbst in erfahrener Hand beschrieben?",
+    "options": [
+      "Bis zu 5%.",
+      "0% – Zirkumzision gilt als komplikationsfrei.",
+      "Über 80%.",
+      "Genau 50%, unabhängig von der Erfahrung des Operateurs."
+    ],
+    "correct": 0,
+    "tip": "Meist handelt es sich dabei um geringere Nachblutungen, Ödeme, postoperative Sekretion oder Wundinfektionen.",
+    "explanation": "Zirkumzisionen sind auch in erfahrener Hand postoperativ mit Komplikationen bis zu 5% behaftet."
+  },
+  {
+    "question": "Warum sollte auf eine ausgedehnte Elektrokoagulation bei der Zirkumzision verzichtet werden?",
+    "options": [
+      "Weil sie zu teuer ist.",
+      "Wegen der Gefahr eines tiefergehenden thermischen Gewebeschadens mit konsekutiver Fistelbildung (z.B. urethrokutane Fisteln).",
+      "Weil sie die Operationszeit unnötig verlängert.",
+      "Es gibt dafür keinen medizinischen Grund."
+    ],
+    "correct": 1,
+    "tip": "Urethrokutane Fisteln entstehen dabei meist in Höhe des Sulcus coronarius.",
+    "explanation": "Auf eine ausgedehnte Elektrokoagulation sollte wegen der Gefahr eines tiefergehenden thermischen Gewebeschadens mit konsekutiver Fistelbildung verzichtet werden."
+  },
+  {
+    "question": "Welche häufigste Spätkomplikation wird nach einer im Neugeborenenalter durchgeführten Zirkumzision beschrieben, und wie häufig tritt sie auf?",
+    "options": [
+      "Glansnekrose in 50% der Fälle.",
+      "Meatusstenose, die in bis zu 20% der Fälle auftreten kann.",
+      "Eine lebenslange Impotenz in 90% der Fälle.",
+      "Es sind keine relevanten Spätkomplikationen bekannt."
+    ],
+    "correct": 1,
+    "tip": "Als Ursache werden eine Hyperkeratinisierung des ungeschützten Glansepithels sowie lokale Minderperfusion diskutiert.",
+    "explanation": "Bei einer im Neugeborenenalter durchgeführten Zirkumzision wird die spätere Ausbildung einer Meatusstenose als häufigste Komplikation angesehen, die in bis zu 20% auftreten kann."
+  },
+  {
+    "question": "Welches Risiko besteht bei einer unsachgemäß durchgeführten Klemmenresektion (z.B. Mogen-Klemme) im Neugeborenenalter?",
+    "options": [
+      "Praktisch keinerlei Risiko.",
+      "Eine zu ausgiebige Entfernung der Penisschafthaut bis hin zur Glans(teil)amputation.",
+      "Nur ein geringfügig verlängerter Krankenhausaufenthalt.",
+      "Eine erhöhte Fruchtbarkeit im Erwachsenenalter."
+    ],
+    "correct": 1,
+    "tip": "Dies unterstreicht, warum spezielle Hilfsmittel wie die Mogen-Klemme fachgerecht angewendet werden müssen.",
+    "explanation": "Unsachgemäß durchgeführte Klemmenresektionen können zu schweren Komplikationen wie einer zu ausgiebigen Entfernung der Penisschafthaut bis hin zur Glans(teil)amputation führen."
+  },
+  {
+    "question": "Wie hoch wird die Mortalität nach Zirkumzision in einer Studie angegeben, und woher stammen Berichte über Todesfälle?",
+    "options": [
+      "Die Mortalität liegt bei etwa 0,013%; Berichte stammen sowohl aus Ländern mit mangelhafter medizinischer Versorgung als auch aus Ländern mit höchstem medizinischem Standard.",
+      "Die Mortalität liegt bei 10%, ausschließlich in Entwicklungsländern.",
+      "Es gibt keinerlei dokumentierte Todesfälle nach Zirkumzision.",
+      "Die Mortalität betrifft laut Leitlinie ausschließlich Mädchen."
+    ],
+    "correct": 0,
+    "tip": "Verlässliche Gesamtdaten zur Mortalität existieren allerdings nicht.",
+    "explanation": "Die Mortalität nach Zirkumzision wird in einer Studie mit etwa 0,013% angegeben; Berichte über Todesfälle finden sich sowohl aus Ländern mit mangelhafter als auch mit höchstem medizinischem Standard."
+  }
+]

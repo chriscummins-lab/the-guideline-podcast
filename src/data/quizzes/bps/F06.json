@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Effekt haben Alpha-Blocker laut Empfehlung 10.5 (Empfehlungsgrad 0) bei längerfristiger Anwendung (2 Jahre) auf Operationsrisiko und Harnverhalt?",
+    "options": [
+      "Sie reduzieren bei langfristiger Gabe beides deutlich.",
+      "Sie reduzieren bei längerfristiger Anwendung weder das Operationsrisiko noch das Auftreten von Harnverhalten.",
+      "Sie erhöhen das Operationsrisiko signifikant.",
+      "Diese Frage wurde in der Leitlinie nie untersucht."
+    ],
+    "correct": 1,
+    "tip": "Alpha-Blocker wirken rasch auf Symptome, aber kaum krankheitsmodifizierend auf die Progression.",
+    "explanation": "Alpha-Blocker können zur Symptomreduktion eingesetzt werden, reduzieren aber bei längerfristiger Anwendung (2 Jahre) weder das Operationsrisiko noch das Auftreten von Harnverhalten (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Welche okuläre Komplikation ist insbesondere unter Tamsulosin beschrieben, und was folgt daraus für die Praxis?",
+    "options": [
+      "Grüner Star als direkte Nebenwirkung; Tamsulosin ist bei allen Augenoperationen absolut kontraindiziert.",
+      "Das intraoperative Floppy-Iris-Syndrom (IFIS) bei Katarakt-/Glaukomoperationen; eine Tamsulosin-Behandlung sollte bei geplanter Katarakt- oder Glaukomoperation nicht begonnen werden.",
+      "Eine Netzhautablösung, die ein sofortiges dauerhaftes Absetzen erfordert.",
+      "Es sind keine okulären Nebenwirkungen von Alpha-Blockern bekannt."
+    ],
+    "correct": 1,
+    "tip": "Auch ein rechtzeitiges Absetzen vor der OP kann ein IFIS nicht vollständig verhindern.",
+    "explanation": "Unter Alpha-Blockern, insbesondere Tamsulosin, kann es zum intraoperativen Floppy-Iris-Syndrom (IFIS) bei Katarakt-/Glaukomoperationen kommen; eine Tamsulosin-Behandlung sollte daher bei geplanter OP nicht begonnen werden."
+  },
+  {
+    "question": "Ab welchem Prostatavolumen zeigen 5-Alpha-Reduktase-Inhibitoren (5-ARI) laut Untersuchungen zu Finasterid überhaupt eine Wirksamkeit gegenüber Placebo?",
+    "options": [
+      "Ab 10 cm³.",
+      "Ab mindestens 40 cm³.",
+      "5-ARI wirken unabhängig vom Prostatavolumen immer gleich gut.",
+      "Ab 200 cm³."
+    ],
+    "correct": 1,
+    "tip": "Dies unterscheidet die 5-ARI grundlegend von den Alpha-Blockern, deren Wirkung volumenunabhängig ist.",
+    "explanation": "Untersuchungen zu Finasterid zeigten, dass eine Wirksamkeit gegenüber Placebo erst bei einem Prostatavolumen von mindestens 40 cm³ nachweisbar ist."
+  },
+  {
+    "question": "Wie verändern sich Prostatagröße und PSA-Wert typischerweise unter 5-ARI-Therapie nach 6-12 Monaten?",
+    "options": [
+      "Prostatagröße und PSA bleiben vollständig unverändert.",
+      "Größenreduktion um 18-28% sowie eine Halbierung des Serum-PSA-Werts.",
+      "Die Prostata wächst zunächst weiter, der PSA-Wert sinkt dabei nicht.",
+      "Der PSA-Wert verdoppelt sich regelhaft unter 5-ARI."
+    ],
+    "correct": 1,
+    "tip": "Dieser PSA-Effekt muss bei der Interpretation von PSA-Werten unter 5-ARI-Therapie stets berücksichtigt werden.",
+    "explanation": "5-ARI induzieren eine Größenreduktion der Prostata um 18-28% sowie eine Halbierung der Serum-PSA-Werte nach einer Behandlungsdauer von 6-12 Monaten."
+  },
+  {
+    "question": "Bei welchen Patienten sollten Antimuskarinika laut Empfehlung 10.8 (Empfehlungsgrad B) NICHT zur Anwendung kommen?",
+    "options": [
+      "Bei Männern mit benigner Prostataobstruktion (BPO).",
+      "Bei Männern mit ausschließlich psychogenen Beschwerden.",
+      "Bei Frauen mit überaktiver Blase.",
+      "Antimuskarinika haben beim BPS keine Kontraindikation."
+    ],
+    "correct": 0,
+    "tip": "Eine zusätzliche Hemmung der Detrusorkontraktilität ist bei relevanter Obstruktion riskant (z.B. Harnverhalt).",
+    "explanation": "Bei Männern mit benigner Prostataobstruktion (BPO) sollten Antimuskarinika nicht zur Anwendung kommen (Empfehlungsgrad B)."
+  },
+  {
+    "question": "Was zeigten Netzwerk-Metaanalysen zur Wirksamkeit von Antimuskarinika (z.B. Solifenacin, Tolterodin) als Monotherapie im Vergleich zu Placebo bezüglich des IPSS-Gesamtscores?",
+    "options": [
+      "Eine deutliche, signifikante Verbesserung des IPSS gegenüber Placebo.",
+      "Keine Verbesserung des IPSS-Gesamtscores gegenüber Placebo; nur bestimmte Kombinationstherapien zeigten einen signifikanten Effekt auf Speichersymptome.",
+      "Eine signifikante Verschlechterung des IPSS unter Antimuskarinika.",
+      "Antimuskarinika wurden als Monotherapie nie mit Placebo verglichen."
+    ],
+    "correct": 1,
+    "tip": "Nur Kombinationen (z.B. Alpha-Blocker + Antimuskarinikum) zeigten einen signifikanten Effekt auf Speichersymptome.",
+    "explanation": "Übereinstimmende Netzwerk-Metaanalysen (Yuan et al. 2015, Wang et al. 2014) zeigten, dass Antimuskarinika als Monotherapie keine Verbesserung des IPSS gegenüber Placebo bewirken."
+  },
+  {
+    "question": "Welcher PDE5-Inhibitor ist der einzige, der in Europa speziell zur Behandlung des benignen Prostatasyndroms zugelassen ist?",
+    "options": [
+      "Sildenafil.",
+      "Tadalafil.",
+      "Vardenafil.",
+      "Keiner der PDE5-Inhibitoren ist für BPS zugelassen."
+    ],
+    "correct": 1,
+    "tip": "Die BPS-Zulassung von Tadalafil erfolgte 2012, zwei Jahre nach der Zulassung zur pulmonal-arteriellen Hypertonie.",
+    "explanation": "Tadalafil ist der einzige PDE5-Inhibitor, der zur Behandlung des benignen Prostatasyndroms zugelassen ist (Zulassung 2012)."
+  },
+  {
+    "question": "Wobei zeigen PDE5-Inhibitoren laut Statement 10.10 einen Vorteil gegenüber Alpha-Blockern, gemessen am Internationalen Index der erektilen Funktion (IIEF)?",
+    "options": [
+      "Bei der Reduktion des Restharnvolumens.",
+      "Bei einer koinzidenten erektilen Dysfunktion.",
+      "Bei der Vermeidung von Ejakulationsstörungen.",
+      "Bei der Reduktion des Prostatavolumens."
+    ],
+    "correct": 1,
+    "tip": "Bei der Symptomreduktion selbst (IPSS) sind PDE5-Hemmer und Alpha-Blocker dagegen vergleichbar wirksam.",
+    "explanation": "PDE5-Inhibitoren als Monotherapie zeigen gegenüber Alpha-Blockern einen Vorteil bei einer erektilen Dysfunktion koinzident mit einem BPS, gemessen am IIEF (Statement 10.10)."
+  },
+  {
+    "question": "Kann aktuell eine Empfehlung für den Einsatz von Beta-3-Agonisten (z.B. Mirabegron) als Monotherapie beim benignen Prostatasyndrom ausgesprochen werden?",
+    "options": [
+      "Ja, mit Empfehlungsgrad A.",
+      "Nein – es liegen keine Wirksamkeitsstudien in einer klar definierten BPS-Population vor, sodass keine Empfehlung ausgesprochen werden kann (Statement 10.11, EK).",
+      "Ja, da Mirabegron in allen Studien den IPSS deutlich verbesserte.",
+      "Beta-3-Agonisten sind beim BPS explizit kontraindiziert."
+    ],
+    "correct": 1,
+    "tip": "Mirabegron ist in Deutschland bislang nur für die Indikation überaktive Blase zugelassen.",
+    "explanation": "Da Wirksamkeitsstudien in einer klar definierten BPS-Population nicht vorliegen, kann laut Statement 10.11 (EK) keine Empfehlung für Beta-3-Agonisten ausgesprochen werden."
+  },
+  {
+    "question": "Was zeigte die einzige große Placebo-kontrollierte Doppelblindstudie, in der Männern mit unzureichender Symptomkontrolle unter Tamsulosin zusätzlich Mirabegron oder Placebo gegeben wurde?",
+    "options": [
+      "Eine deutliche IPSS-Verbesserung unter zusätzlichem Mirabegron.",
+      "Eine Verbesserung von Miktionsfrequenz und Drangepisoden unter Mirabegron, aber keine Verbesserung des IPSS – die BPS-Komponente der LUTS wird durch Mirabegron nicht wesentlich beeinflusst.",
+      "Mirabegron verschlechterte die Symptomatik signifikant.",
+      "Eine solche Studie wurde nie durchgeführt."
+    ],
+    "correct": 1,
+    "tip": "Dies legt nahe, dass Mirabegron eher die begleitende Speichersymptomatik als die eigentliche BPS-Komponente der LUTS beeinflusst.",
+    "explanation": "Unter zusätzlichem Mirabegron verbesserten sich relativ zu Placebo Miktionsfrequenz und Drangepisoden, nicht aber der IPSS – Mirabegron beeinflusst die BPS-Komponente männlicher LUTS nicht wesentlich."
+  }
+]

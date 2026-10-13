@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches spezifische Langzeitrisiko tritt bei mehr als 40 % der Frauen nach einer offenen Kolposuspension (Burch) innerhalb eines Nachbeobachtungszeitraums von bis zu 5 Jahren auf?",
+    "options": [
+      "Die Entstehung schwerer Urethraldivertikel.",
+      "Ein Deszensus im Scheidenhinterwandbereich (Rekto- und Enterozelenbildung).",
+      "Die Ausbildung einer irreversiblen neurogenen Detrusorüberaktivität.",
+      "Eine operationsbedingte Ureterstenose."
+    ],
+    "correct": 1,
+    "tip": "Denk an die anatomische Nähe der Kolposuspension zur hinteren Vaginalwand – die OP stabilisiert vorne, kann aber hinten Folgen haben.",
+    "explanation": "Die Fixierung der vorderen Vaginalwand/des Blasenhalses bei der Burch-Kolposuspension verändert die Statik des Beckenbodens und begünstigt dadurch im Langzeitverlauf einen Deszensus im hinteren Kompartiment (Rekto-/Enterozele)."
+  },
+  {
+    "question": "Bei welchem spezifischen klinischen Befund kann die Kolposuspension laut Leitlinie eine besonders geeignete Operationsindikation darstellen?",
+    "options": [
+      "Bei isolierter therapierefraktärer Dranginkontinenz ohne anatomischen Defekt.",
+      "Bei einer hypotonen Urethra ohne jeglichen Deszensus.",
+      "Bei deutlich abgesenktem Blasenhals mit großer Rotation der Urethra, deutlicher Trichterbildung oder Lateraldefekt.",
+      "Als primäre Monotherapie bei rein neurogener Blasenfunktionsstörung."
+    ],
+    "correct": 2,
+    "tip": "Überlege, bei welchem anatomischen Befund eine Operation gezielt den Blasenhals anheben und fixieren muss.",
+    "explanation": "Die Kolposuspension eignet sich besonders bei ausgeprägter Hypermobilität des Blasenhalses mit Rotation, Trichterbildung oder Lateraldefekt der Vaginalwand, da sie den Blasenhals direkt anhebt und seitlich fixiert."
+  },
+  {
+    "question": "Welche Implantationstechnik für suburethrale Bänder weist im Langzeitverlauf (z. B. 8-Jahres-Follow-up) laut Leitlinie eine höhere objektive Heilungsrate auf?",
+    "options": [
+      "Die transobturatorische Bandtechnik (TOT/TVT-O).",
+      "Die retropubische Bandtechnik (TVT).",
+      "Beide Techniken weisen nach 8 Jahren exakt dieselbe objektive Heilungsrate auf.",
+      "Die Single-Incision-Minischlinge."
+    ],
+    "correct": 1,
+    "tip": "Die retropubische Technik gilt seit längerem als Goldstandard unter den Bandverfahren – insbesondere im Langzeitverlauf.",
+    "explanation": "Im 8-Jahres-Follow-up zeigte sich für die retropubische Bandtechnik (TVT) eine höhere objektive Heilungsrate als für die transobturatorische Technik (TOT/TVT-O)."
+  },
+  {
+    "question": "Für welchen Zugangsweg suburethraler Schlingen zeigt sich bei Patientinnen aus Risikokollektiven (z. B. mit hypotoner Urethra, Mischinkontinenz oder hohem Rezidivrisiko) ein klarer Vorteil?",
+    "options": [
+      "Für den transobturatorischen Zugangsweg.",
+      "Für den retropubischen Zugangsweg.",
+      "Für die Anlage einer Single-Incision-Minischlinge.",
+      "Für die periurethrale Injektion von Bulking Agents."
+    ],
+    "correct": 1,
+    "tip": "Bei Risikopatientinnen zählt die stärkere urethrale Stützwirkung des retropubischen Zugangs.",
+    "explanation": "Bei Patientinnen mit hypotoner Urethra, Mischinkontinenz oder hohem Rezidivrisiko zeigt der retropubische Zugangsweg (TVT) im Vergleich zum transobturatorischen Zugang bessere Ergebnisse."
+  },
+  {
+    "question": "Welche spezifischen Komplikationen sind typischerweise mit der retropubischen Bandtechnik (TVT) im Vergleich zur transobturatorischen Technik häufiger assoziiert?",
+    "options": [
+      "Schmerzen an den Oberschenkelinnenseiten und Sulcusläsionen.",
+      "Massive postoperative Adhäsionen und Enterozelen.",
+      "Blasenperforationen, Blasenentleerungsstörungen und retropubische Hämatome.",
+      "Mechanische Verletzungen des Nervus obturatorius."
+    ],
+    "correct": 2,
+    "tip": "Der retropubische Zugang verläuft in unmittelbarer Nähe zur Blase – das erklärt das spezifische Komplikationsspektrum.",
+    "explanation": "Da die Nadelführung beim TVT retropubisch in Nähe der Blase erfolgt, sind Blasenperforation, Blasenentleerungsstörungen und retropubische Hämatome typische, häufiger auftretende Komplikationen im Vergleich zum transobturatorischen Zugang."
+  },
+  {
+    "question": "Welche spezifischen Komplikationen treten nach der Implantation eines transobturatorischen Bandes im Vergleich zur retropubischen Technik häufiger auf?",
+    "options": [
+      "Schmerzen im Bereich der Leiste / Oberschenkelinnenseite sowie vaginale Verletzungen (Sulcusperforationen).",
+      "Ausgeprägte periurethrale Abszesse.",
+      "Ureterverletzungen und Vesikovaginalfisteln.",
+      "Überkorrektur mit konsekutivem chronischem Harnverhalt."
+    ],
+    "correct": 0,
+    "tip": "Der transobturatorische Zugang verläuft durch die Adduktorenregion des Oberschenkels – das erklärt das andere Komplikationsmuster.",
+    "explanation": "Der transobturatorische Zugang führt die Nadel durch das Foramen obturatum und die Adduktorenregion, wodurch Leisten-/Oberschenkelschmerzen und vaginale Sulcusläsionen häufiger auftreten als beim retropubischen Zugang."
+  },
+  {
+    "question": "Welche Aussage trifft im direkten Vergleich zwischen autologen Faszienschlingen (AFS) und synthetischen suburethralen Bändern zu?",
+    "options": [
+      "AFS haben eine signifikant höhere objektive Heilungsrate als synthetische Bänder.",
+      "Synthetische Bänder haben eine wesentlich längere OP-Dauer als AFS.",
+      "AFS haben ähnliche subjektive und objektive Erfolgsraten, aber synthetische Bänder weisen niedrigere Komplikationsraten und eine kürzere OP-Dauer auf.",
+      "AFS führen im Gegensatz zu synthetischen Bändern niemals zu einer Blasenentleerungsstörung."
+    ],
+    "correct": 2,
+    "tip": "Beide Verfahren erzielen ähnliche Erfolgsraten – der Unterschied liegt eher im Nebenwirkungs- und Zeitprofil.",
+    "explanation": "Autologe Faszienschlingen und synthetische Bänder zeigen vergleichbare subjektive und objektive Erfolgsraten, synthetische Bänder haben aber niedrigere Komplikationsraten und eine kürzere Operationsdauer."
+  },
+  {
+    "question": "In welcher klinischen Situation sollte die Implantation einer autologen Faszienschlinge (AFS) am Blasenhals laut Leitlinie besonders in Erwägung gezogen werden?",
+    "options": [
+      "Als Standard-Primäreingriff bei unkomplizierter Belastungsinkontinenz.",
+      "Bei hypotoner Urethra, hohem Erosionsrisiko oder nach Versagen eines suburethralen Bandes.",
+      "Ausschließlich bei Patientinnen mit gleichzeitigem Beckenorganprolaps Grad III.",
+      "Bei Vorliegen einer isolierten OAB als Alternative zur Botox-Injektion."
+    ],
+    "correct": 1,
+    "tip": "Die AFS ist eher eine Reserveoption für schwierige Ausgangssituationen, nicht die Erstlinientherapie.",
+    "explanation": "Die autologe Faszienschlinge wird vor allem bei hypotoner Urethra, erhöhtem Erosionsrisiko für Fremdmaterial oder nach Versagen eines vorherigen suburethralen Bandes in Erwägung gezogen."
+  },
+  {
+    "question": "Welchen Vorteil bietet die laparoskopische Kolposuspension im Vergleich zum offenen Vorgehen (bei vergleichbarer 2-Jahres-Effektivität)?",
+    "options": [
+      "Sie reduziert das Langzeitrisiko für Deszensus im hinteren Kompartiment auf 0 %.",
+      "Sie verursacht weniger postoperative Schmerzen und führt zu einer kürzeren Rekonvaleszenz.",
+      "Sie heilt gleichzeitig eine präoperativ bestehende Detrusorüberaktivität vollständig.",
+      "Sie kann problemlos ambulant in Lokalanästhesie durchgeführt werden."
+    ],
+    "correct": 1,
+    "tip": "Der Vorteil liegt nicht in der Wirksamkeit, sondern im operativen Zugang selbst.",
+    "explanation": "Bei vergleichbarer Wirksamkeit nach 2 Jahren bietet die laparoskopische Kolposuspension gegenüber dem offenen Vorgehen Vorteile durch weniger postoperative Schmerzen und eine kürzere Rekonvaleszenzzeit."
+  },
+  {
+    "question": "Welchen Einfluss hat Adipositas (erhöhter BMI) auf die operativen Ergebnisse von suburethralen Bandoperationen?",
+    "options": [
+      "Bandoperationen sind bei Patientinnen mit einem BMI > 30 kg/m² absolut kontraindiziert.",
+      "Die Zunahme des BMI geht mit einer messbar niedrigeren Patientenzufriedenheit und Kontinenzrate einher.",
+      "Adipöse Patientinnen haben postoperativ eine signifikant höhere Heilungsrate als normalgewichtige Patientinnen.",
+      "Der BMI hat keinerlei Einfluss auf die Zufriedenheit, weshalb die OP-Auswahl hiervon völlig unabhängig ist."
+    ],
+    "correct": 1,
+    "tip": "Adipositas ist generell ein bekannter Risikofaktor für schlechtere funktionelle Ergebnisse bei Inkontinenz-Operationen.",
+    "explanation": "Ein steigender BMI korreliert mit einer messbar niedrigeren postoperativen Patientenzufriedenheit und Kontinenzrate nach Bandoperationen, auch wenn Adipositas keine absolute Kontraindikation darstellt."
+  }
+]

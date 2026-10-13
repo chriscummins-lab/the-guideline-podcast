@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Patienten kann laut Empfehlung 10.12 (Empfehlungsgrad 0) eine Langzeitkombination aus Alpha-Blocker und 5-ARI eingesetzt werden?",
+    "options": [
+      "Für alle Patienten, unabhängig vom individuellen Risiko.",
+      "Für Männer mit hohem Progressionsrisiko und einem Prostatavolumen ab 40 cm³, über eine Behandlungsdauer von 2 Jahren.",
+      "Nur für Männer mit einem Prostatavolumen unter 20 cm³.",
+      "Nur für die ersten 4 Wochen nach Diagnosestellung."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung stützt sich u.a. auf die MTOPS- und CombAT-Studie.",
+    "explanation": "Eine Langzeitbehandlung (2 Jahre) mit Alpha-Blocker und 5-ARI kann bei Männern mit hohem Progressionsrisiko und einem Prostatavolumen ab 40 cm³ zur Abschwächung der Progression verabreicht werden."
+  },
+  {
+    "question": "Was zeigte die Metaanalyse der fünf großen Kombinationsstudien (Alpha-Blocker + 5-ARI) im Vergleich zur Alpha-Blocker-Monotherapie?",
+    "options": [
+      "Eine Verschlechterung aller untersuchten Endpunkte.",
+      "Eine signifikante Reduktion von akutem Harnverhalt und OP-Notwendigkeit sowie eine stärkere Reduktion des Prostatavolumens, jedoch KEINEN Vorteil für die Verbesserung des IPSS.",
+      "Nur eine Verbesserung des IPSS, aber keinen Effekt auf Harnverhalt oder OP-Notwendigkeit.",
+      "Keinen einzigen statistisch signifikanten Unterschied in irgendeinem Parameter."
+    ],
+    "correct": 1,
+    "tip": "Die Kombination senkte das Risiko für Harnverhalt (OR 0,286) und OP-Notwendigkeit (OR 0,277) gegenüber der Alpha-Blocker-Monotherapie.",
+    "explanation": "Die Kombination reduzierte relativ zur Alpha-Blocker-Monotherapie Harnverhalt und OP-Notwendigkeit und reduzierte das Prostatavolumen stärker, bot aber keine Vorteile für die IPSS-Verbesserung."
+  },
+  {
+    "question": "Ab welchem Zeitpunkt zeigte sich frühestens ein Vorteil der Kombinationstherapie (Alpha-Blocker + 5-ARI) gegenüber einer Monotherapie in den Einzelstudien?",
+    "options": [
+      "Bereits nach einer Woche.",
+      "Keine der Einzelstudien zeigte einen Vorteil vor Ablauf von 1 Jahr.",
+      "Sofort nach der ersten Einnahme.",
+      "Erst nach 10 Jahren Behandlungsdauer."
+    ],
+    "correct": 1,
+    "tip": "Dies unterstreicht, dass eine solche Kombination primär bei geplanter mehrjähriger Behandlung sinnvoll ist.",
+    "explanation": "Keine der Einzelstudien zeigte einen Vorteil der Kombination zu einem Zeitpunkt von weniger als 1 Jahr."
+  },
+  {
+    "question": "Wann kann laut Empfehlung 10.13 (Empfehlungsgrad 0) eine Kombinationstherapie aus Alpha-Blocker und Muskarinrezeptorantagonist eingesetzt werden?",
+    "options": [
+      "Immer als Erstlinientherapie bei jedem neu diagnostizierten BPS.",
+      "Bei Patienten nach Versagen oder unzureichender Wirkung der Alpha-Blocker-Monotherapie, wenn Speichersymptome im Vordergrund stehen.",
+      "Nur bei Männern mit benigner Prostataobstruktion (BPO).",
+      "Diese Kombination wird in der Leitlinie generell nicht erwähnt."
+    ],
+    "correct": 1,
+    "tip": "Bei vorherrschender Obstruktion (BPO) sind Antimuskarinika dagegen eher zurückhaltend einzusetzen.",
+    "explanation": "Eine Kombinationstherapie aus Alpha-Blocker und Muskarinrezeptorantagonist kann bei Patienten nach Versagen der Alpha-Blocker-Monotherapie mit vorherrschenden Speichersymptomen verabreicht werden (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Worauf sollten Patienten unter der Kombination Alpha-Blocker + Muskarinrezeptorantagonist laut den Nebenwirkungsdaten besonders überwacht werden?",
+    "options": [
+      "Auf ein erhöhtes Risiko für akuten Harnverhalt, bedingt durch ein leicht erhöhtes Restharnvolumen (PVR).",
+      "Auf eine ausgeprägte Gewichtszunahme.",
+      "Auf eine deutliche Verbesserung der Libido.",
+      "Es wurden keine relevanten Nebenwirkungen beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Verstopfung, Mundtrockenheit und Dyspepsie traten in der Kombinationsgruppe ebenfalls häufiger auf.",
+    "explanation": "Aufgrund eines leicht erhöhten PVR-Restvolumens sollten Patienten mit erhöhtem Risiko für einen akuten Harnverhalt unter dieser Kombinationstherapie sorgfältig überwacht werden."
+  },
+  {
+    "question": "Bei welcher Dosierung des PDE5-Inhibitors zeigte sich der Zusatznutzen einer Kombination aus Alpha-Blocker und PDE5-Inhibitor gegenüber der Alpha-Blocker-Monotherapie vor allem?",
+    "options": [
+      "Bei hohen Dosen (Sildenafil 50 mg, Tadalafil 10-20 mg).",
+      "Bei niedrigen Dosen (Sildenafil 25 mg, Tadalafil 5 mg); bei höheren Dosen zeigte sich der Effekt weniger oder gar nicht.",
+      "Die Dosierung des PDE5-Inhibitors hatte laut Leitlinie keinen Einfluss auf den Effekt.",
+      "Nur bei intravenöser Applikation des PDE5-Inhibitors."
+    ],
+    "correct": 1,
+    "tip": "Insgesamt ist der Überlegenheitseffekt der Kombination gegenüber der Alpha-Blocker-Monotherapie ohnehin nur moderat.",
+    "explanation": "Der Nutzen der Kombination aus Alpha-Blocker und PDE5-Inhibitor wurde vorwiegend bei niedrigeren PDE5-I-Dosen beobachtet, weniger oder gar nicht bei höheren Dosen."
+  },
+  {
+    "question": "Welchen klinisch relevanten Zusatzeffekt bietet die Kombination aus 5-Reduktasehemmer und PDE5-Inhibitor laut Statement 10.16, obwohl der Effekt auf die LUTS-Symptomatik selbst nur moderat und klinisch nicht relevant ist?",
+    "options": [
+      "Eine deutliche Verbesserung der erektilen Funktion, die die durch 5-ARI verursachte erektile Dysfunktion abmildern kann.",
+      "Eine Heilung eines begleitenden Lichen sclerosus.",
+      "Eine vollständige Beseitigung der Blasenauslassobstruktion.",
+      "Eine deutliche Blutdrucksenkung."
+    ],
+    "correct": 0,
+    "tip": "In der zugrunde liegenden Studie profitierten sogar Männer ohne vorherige erektile Dysfunktion in puncto sexuellem Verlangen und Orgasmusempfinden.",
+    "explanation": "Die Kombination aus 5-ARI und PDE5-Inhibitor führt zu einer deutlichen Verbesserung der erektilen Funktion und kann so die 5-ARI-bedingte erektile Dysfunktion abmildern."
+  },
+  {
+    "question": "Für welche Patientengruppe kann laut Empfehlung 10.17 (Empfehlungsgrad 0) eine Kombination aus Mirabegron und Alpha-Blocker angeboten werden?",
+    "options": [
+      "Für Patienten mit persistierenden Blasenspeichersymptomen unter Alpha-Blocker-Monotherapie.",
+      "Nur für Patienten, die noch nie einen Alpha-Blocker erhalten haben.",
+      "Ausschließlich für Patienten mit fortgeschrittener Niereninsuffizienz.",
+      "Für alle BPS-Patienten als generelle Erstlinientherapie."
+    ],
+    "correct": 0,
+    "tip": "Es handelt sich dabei um eine add-on-Strategie bei weiterhin bestehenden Drangsymptomen.",
+    "explanation": "Eine Kombinationstherapie aus Mirabegron und Alpha-Blocker kann Patienten mit persistierenden Blasenspeichersymptomen unter Alpha-Blocker-Monotherapie angeboten werden."
+  },
+  {
+    "question": "Wird unter der Kombinationstherapie Mirabegron + Alpha-Blocker laut Empfehlung 10.17 eine klinisch signifikante Verbesserung des IPSS-Gesamtscores erreicht?",
+    "options": [
+      "Ja, es zeigt sich immer eine sehr deutliche IPSS-Verbesserung.",
+      "Nein – verschiedene Aspekte der Blasenspeichersymptome verbessern sich, eine klinisch signifikante Verbesserung des IPSS wird jedoch nicht erreicht.",
+      "Der IPSS verschlechtert sich unter dieser Kombination regelhaft.",
+      "Der IPSS wurde in den zugrunde liegenden Studien nicht erfasst."
+    ],
+    "correct": 1,
+    "tip": "Der Nutzen zeigt sich also eher bei speicherbezogenen Einzelsymptomen als im globalen Symptomscore.",
+    "explanation": "Die Kombination verbessert verschiedene Aspekte der Blasenspeichersymptome, eine klinisch signifikante Verbesserung des IPSS wird jedoch nicht erreicht (Empfehlungsgrad 0)."
+  },
+  {
+    "question": "Wie viele Männer wurden in die größte Studie zur Kombination Alpha-Blocker + Mirabegron (PLUS-Studie) randomisiert, und was war das Einschlusskriterium?",
+    "options": [
+      "50 Männer mit akutem Harnverhalt.",
+      "676 Männer mit persistierenden Drangsymptomen nach mindestens 8-wöchiger Tamsulosin-Monotherapie.",
+      "10.000 Männer ohne jegliche Vorbehandlung.",
+      "Ausschließlich Frauen mit überaktiver Blase."
+    ],
+    "correct": 1,
+    "tip": "Beide Studienarme erhielten zusätzlich weiterhin Tamsulosin 0,4 mg.",
+    "explanation": "In die PLUS-Studie wurden 676 Männer mit persistierenden Drangsymptomen nach mindestens 8-wöchiger Tamsulosin-Monotherapie randomisiert."
+  }
+]

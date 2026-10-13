@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Anteil an den bösartigen Tumorerkrankungen hat der Keimzelltumor (KZT) bei Männern zwischen 20 und 44 Jahren laut Statement 4.1?",
+    "options": [
+      "Etwa 5%",
+      "Etwa 25% – damit die häufigste Tumorentität in dieser Altersgruppe",
+      "Etwa 50%",
+      "Weniger als 1%, da der KZT insgesamt selten ist"
+    ],
+    "correct": 1,
+    "tip": "Trotz insgesamt niedriger Gesamtinzidenz ist der KZT in dieser spezifischen Altersgruppe die mit Abstand führende Tumorentität.",
+    "explanation": "Statement 4.1 beziffert den Anteil des KZT an allen bösartigen Tumoren bei 20- bis 44-jährigen Männern mit etwa 25% – der häufigsten Tumordiagnose dieser Altersgruppe."
+  },
+  {
+    "question": "Wie hoch ist die aktuelle rohe Inzidenzrate des KZT in Deutschland laut Statement 4.2?",
+    "options": [
+      "1 von 100.000 Männern",
+      "10 von 100.000 Männern",
+      "50 von 100.000 Männern",
+      "100 von 100.000 Männern"
+    ],
+    "correct": 1,
+    "tip": "Die Inzidenz ist über Jahrzehnte gestiegen, zeigt aber zuletzt eine Stabilisierung.",
+    "explanation": "Statement 4.2 gibt die aktuelle rohe Erkrankungsrate in Deutschland mit 10 von 100.000 Männern an; die Inzidenz ist in allen industrialisierten Ländern langfristig angestiegen."
+  },
+  {
+    "question": "Welches relative Risiko (RR) für die Entwicklung eines KZT ergibt sich laut Metaanalysen bei Vorliegen eines Maldeszensus testis?",
+    "options": [
+      "RR 1,1 (kein relevanter Risikoanstieg)",
+      "RR 2,90 (95% KI 2,21–3,82)",
+      "RR 20 (95% KI 13–31)",
+      "RR 0,5 (protektiver Effekt)"
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um den am längsten bekannten Risikofaktor für den KZT überhaupt.",
+    "explanation": "Aktuelle Metaanalysen geben für den Maldeszensus testis ein RR von 2,90 (95% KI 2,21–3,82) bzw. eine OR von 4,30 (95% KI 3,62–5,11) an."
+  },
+  {
+    "question": "Welches relative Risiko besteht laut der zitierten skandinavischen Studie, wenn ein Zwillingsbruder an einem KZT erkrankt ist?",
+    "options": [
+      "RR 2,0 (95% KI 1,7–2,4)",
+      "RR 4,1 (95% KI 3,6–4,6)",
+      "RR 20 (95% KI 13–31)",
+      "RR 0,9 – kein erhöhtes Risiko"
+    ],
+    "correct": 2,
+    "tip": "Von allen genannten Verwandtschaftsgraden hat diese Konstellation das höchste relative Risiko.",
+    "explanation": "Bei Erkrankung eines Zwillingsbruders liegt das RR bei 20 (95% KI 13–31) – deutlich höher als bei Vater (RR 2,0) oder Bruder (RR 4,1)."
+  },
+  {
+    "question": "Auf welches Verhältnis ist die Inzidenz des KZT bei infertilen Männern laut Leitlinientext erhöht?",
+    "options": [
+      "1:20",
+      "1:200",
+      "1:2.000",
+      "1:20.000"
+    ],
+    "correct": 1,
+    "tip": "Der Tumor entsteht aus der GCNIS, die auch die Spermatogenese beeinträchtigt.",
+    "explanation": "Die Inzidenz des KZT ist bei Patienten mit Infertilität auf 1:200 Männer erhöht; insbesondere schwere Fertilitätsstörungen sind signifikant mit einem erhöhten KZT-Risiko assoziiert."
+  },
+  {
+    "question": "Wie bewertet die Leitlinie die Mikrolithiasis testis (MLT) als Risikofaktor für einen KZT?",
+    "options": [
+      "Als eigenständigen, von anderen Risikofaktoren unabhängigen starken Risikofaktor.",
+      "Als klinisch irrelevant und nicht erwähnenswert.",
+      "Nur in Kombination mit weiteren gesicherten Risikofaktoren von Bedeutung, ihre Rolle als unabhängiger Risikofaktor wird zunehmend infrage gestellt.",
+      "Als Kontraindikation für jede weitere urologische Diagnostik."
+    ],
+    "correct": 2,
+    "tip": "In der größten Nachbeobachtungsstudie entwickelten nur 0,5% der MLT-Patienten tatsächlich einen KZT, und diese hatten zusätzliche Risikofaktoren.",
+    "explanation": "Die MLT ist nur in Kombination mit weiteren gesicherten Risikofaktoren zu beachten; ihre Bedeutung als unabhängiger Risikofaktor wird zunehmend infrage gestellt, da fast stets zusätzliche Risikofaktoren vorliegen."
+  },
+  {
+    "question": "Welche Empfehlung gibt die Leitlinie (Empfehlung 4.5, Grad A) zu einem allgemeinen Bevölkerungsscreening auf KZT?",
+    "options": [
+      "Ein allgemeines Screening soll nicht durchgeführt werden.",
+      "Ein allgemeines Screening mittels DRU soll ab dem 18. Lebensjahr jährlich erfolgen.",
+      "Ein Screening mittels Serumtumormarkern soll bei allen jungen Männern erfolgen.",
+      "Ein Ultraschall-Screening kann bei familiärer Belastung jährlich angeboten werden."
+    ],
+    "correct": 0,
+    "tip": "Die Begründung liegt im Verhältnis von geringer Inzidenz zu gleichzeitig sehr guten Behandlungsergebnissen auch in fortgeschrittenen Stadien.",
+    "explanation": "Empfehlung 4.5 (Grad A) legt fest, dass ein allgemeines Screening auf das Vorliegen eines KZT nicht durchgeführt werden soll, u. a. wegen fehlendem Nutzennachweis und möglichen Schäden (falsch-positive Befunde, Ängste)."
+  },
+  {
+    "question": "Was empfiehlt die Leitlinie (Empfehlung 4.6, EK) bezüglich der Selbstuntersuchung der Hoden?",
+    "options": [
+      "Sie wird explizit nicht empfohlen, da sie zu unnötiger Verunsicherung führt.",
+      "Sie sollte insbesondere jungen Männern empfohlen werden, da sie zu einer frühzeitigen Diagnosestellung führen kann.",
+      "Sie ist nur bei bereits bekanntem kontralateralem KZT sinnvoll.",
+      "Sie soll ausschließlich durch ärztliches Personal, nie durch den Patienten selbst erfolgen."
+    ],
+    "correct": 1,
+    "tip": "Dies ist strikt von einem systematischen Bevölkerungsscreening (Empfehlung 4.5) zu unterscheiden.",
+    "explanation": "Empfehlung 4.6 (Expertenkonsens) empfiehlt eine regelmäßige Selbstuntersuchung der Hoden insbesondere für junge Männer, da sie zu einer frühzeitigen Diagnosestellung führen kann."
+  },
+  {
+    "question": "Was besagt Statement 4.3 zur Prognose des KZT im Vergleich zu anderen Tumorerkrankungen?",
+    "options": [
+      "Der KZT hat eine der schlechtesten Prognosen aller soliden Tumoren.",
+      "Der KZT gehört zu den Tumorerkrankungen mit den höchsten Überlebenswahrscheinlichkeiten, abhängig von Histologie, Stadium, Alter und Versorgungsqualität.",
+      "Die Prognose ist bei allen Patienten identisch und unabhängig vom Stadium.",
+      "Die Prognose hängt ausschließlich vom Alter des Patienten ab."
+    ],
+    "correct": 1,
+    "tip": "Nach 5 und 10 Jahren liegen die Überlebensraten bei etwa 96% bzw. 95% im Vergleich zur Allgemeinbevölkerung.",
+    "explanation": "Statement 4.3 betont, dass der KZT zu den Tumorerkrankungen mit den höchsten Überlebenswahrscheinlichkeiten gehört, wobei Histologie, Tumorstadium, Alter und Versorgungsqualität die Prognose bestimmen."
+  },
+  {
+    "question": "Was empfiehlt die Leitlinie (Empfehlung 4.7, EK), wenn bei einem Patienten Risikofaktoren für einen KZT vorliegen?",
+    "options": [
+      "Ein KZT soll routinemäßig durch eine probatorische Ablatio testis ausgeschlossen werden.",
+      "Das Vorliegen eines KZT sollte abgeklärt werden.",
+      "Es sind keine weiteren diagnostischen Schritte notwendig, solange keine Beschwerden bestehen.",
+      "Eine jährliche MRT des Abdomens soll zum Ausschluss von Metastasen erfolgen."
+    ],
+    "correct": 1,
+    "tip": "Dies betrifft Patienten mit gesicherten Risikofaktoren wie Maldeszensus testis, familiärer Belastung oder Infertilität – nicht die Allgemeinbevölkerung.",
+    "explanation": "Empfehlung 4.7 (Expertenkonsens) besagt, dass bei Vorhandensein von Risikofaktoren das Vorliegen eines KZT abgeklärt werden sollte, im Unterschied zum allgemeinen Screening gemäß Empfehlung 4.5."
+  }
+]

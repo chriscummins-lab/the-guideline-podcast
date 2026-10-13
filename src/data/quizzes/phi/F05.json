@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie entsteht eine Paraphimose pathophysiologisch?",
+    "options": [
+      "Durch eine bakterielle Infektion der Eichel.",
+      "Durch Zurückziehen der verengten Vorhaut ohne anschließende Reposition, was zu Minderdurchblutung, Lymphabflussstörung und Ödem des distalen Vorhautblattes führt.",
+      "Durch eine allergische Reaktion auf Latex.",
+      "Durch übermäßige Flüssigkeitszufuhr."
+    ],
+    "correct": 1,
+    "tip": "Die zunehmende Schwellung macht die problemlose Reposition schließlich unmöglich.",
+    "explanation": "Die Paraphimose entsteht nach Zurückziehen der verengten Vorhaut ohne Reposition, wodurch eine Minderdurchblutung mit Lymphabflussbehinderung und Ödembildung des distalen Vorhautblattes resultiert."
+  },
+  {
+    "question": "Welchen Stellenwert hat die Paraphimose laut Empfehlung 23?",
+    "options": [
+      "Sie ist ein harmloser Befund ohne jeden Behandlungsbedarf.",
+      "Sie soll als kinder- und jugendurologischer Notfall bewertet und unmittelbar behandelt werden.",
+      "Sie kann über mehrere Wochen beobachtet werden, bevor eine Entscheidung fällt.",
+      "Sie betrifft ausschließlich erwachsene Männer."
+    ],
+    "correct": 1,
+    "tip": "Eine verzögerte Behandlung erhöht das Risiko für Entzündung, Ulzeration und Nekrose.",
+    "explanation": "Die Paraphimose soll als kinder- und jugendurologischer Notfall bewertet und unmittelbar behandelt werden (Empfehlung 23)."
+  },
+  {
+    "question": "Welche Folgen kann eine unbehandelte, länger bestehende Paraphimose haben?",
+    "options": [
+      "Keine, sie heilt immer spontan und folgenlos ab.",
+      "Entzündung und Ulzeration bis hin zur Glansnekrose.",
+      "Ausschließlich kosmetische Veränderungen ohne funktionelle Relevanz.",
+      "Eine Verbesserung der Durchblutung der Glans."
+    ],
+    "correct": 1,
+    "tip": "Dies unterstreicht den Notfallcharakter der Erkrankung.",
+    "explanation": "Bei längerer Dauer einer unbehandelten Paraphimose sind Entzündung, Ulzeration bis hin zur Glansnekrose möglich."
+  },
+  {
+    "question": "Wie erfolgt die Reposition einer Paraphimose in den meisten Fällen?",
+    "options": [
+      "Immer nur in Vollnarkose im Operationssaal.",
+      "Nach adäquater Lokalanästhesie durch Auspressen des Ödems mittels Fingerdruck und vorsichtigem Zurückschieben der Glans, alternativ mit einer kochsalzgetränkten Kompresse.",
+      "Ausschließlich durch sofortige operative Zirkumzision.",
+      "Durch alleinige orale Schmerzmittelgabe, ohne jede manuelle Maßnahme."
+    ],
+    "correct": 1,
+    "tip": "Gelegentlich wird die Reposition aber nur unter regionaler Anästhesie oder Vollnarkose toleriert.",
+    "explanation": "Die Reposition kann in vielen Fällen nach adäquater Lokalanästhesie durch Auspressen des Ödems mittels Fingerdruck und vorsichtigem Zurückschieben der Glans erfolgen, alternativ mit einer kochsalzgetränkten Kompresse."
+  },
+  {
+    "question": "Wann ist bei einer Paraphimose eine dorsale Inzision der Vorhaut erforderlich?",
+    "options": [
+      "Routinemäßig bei jeder Paraphimose als erste Maßnahme.",
+      "Nur in länger bestehenden und seltenen Fällen, wenn die manuelle Reposition nicht gelingt.",
+      "Niemals, eine dorsale Inzision ist bei Paraphimose grundsätzlich kontraindiziert.",
+      "Nur bei Mädchen."
+    ],
+    "correct": 1,
+    "tip": "In den meisten Fällen gelingt die Reposition bereits durch manuelle Maßnahmen.",
+    "explanation": "Nur in länger bestehenden und seltenen Fällen ist die dorsale Inzision des Präputiums erforderlich."
+  },
+  {
+    "question": "Was kann bei wiederholtem Versagen einer lokalen Steroidbehandlung infolge starker Vernarbung nach Paraphimose indiziert sein?",
+    "options": [
+      "Eine lebenslange Dauertherapie mit Steroiden.",
+      "Eine spätere Zirkumzision.",
+      "Keinerlei weitere Therapie ist in diesem Fall möglich.",
+      "Eine Organtransplantation."
+    ],
+    "correct": 1,
+    "tip": "Dies stellt eine der wenigen Situationen dar, in denen die Phimosebehandlung sekundär aus einer Paraphimose-Episode resultiert.",
+    "explanation": "Versagt eine lokale Steroidbehandlung infolge starker Vernarbung, ist ggf. eine spätere Zirkumzision indiziert."
+  },
+  {
+    "question": "Was besagt Statement 9 zur Dokumentationspflicht bei der Zirkumzision?",
+    "options": [
+      "Eine Dokumentation ist freiwillig und für die Abrechnung nicht erforderlich.",
+      "Da die Zirkumzision zu den dermato-chirurgischen Eingriffen zählt, setzt ihre Abrechnung die obligate histologische Untersuchung des Resektats und/oder eine Bilddokumentation des prä- und postoperativen Befundes voraus.",
+      "Nur eine mündliche Dokumentation gegenüber den Eltern ist nötig.",
+      "Die Dokumentationspflicht betrifft ausschließlich erwachsene Patienten."
+    ],
+    "correct": 1,
+    "tip": "Dies gilt unabhängig von der gewählten Operationstechnik.",
+    "explanation": "Da die Zirkumzision zu den dermato-chirurgischen Eingriffen zählt, setzt ihre Abrechnung derzeit die obligate histologische Untersuchung und/oder eine Bilddokumentation voraus (Statement 9)."
+  },
+  {
+    "question": "Welchen Forschungsbedarf sieht die Leitliniengruppe laut Statement 10 für die Zukunft?",
+    "options": [
+      "Es besteht kein weiterer Forschungsbedarf, da alle Fragen bereits geklärt sind.",
+      "Forschungsbedarf zu möglichen Risiken, Komplikationen und Spätfolgen von Vorhautengen-Behandlungen im körperlichen, psychischen und sexuellen Bereich, um bessere Aufklärung zu ermöglichen.",
+      "Ausschließlich Forschung zu neuen Operationstechniken ist nötig.",
+      "Forschungsbedarf besteht nur im Bereich der Kostenerstattung."
+    ],
+    "correct": 1,
+    "tip": "Ziel ist eine objektivere Informations- und Aufklärungsgrundlage für Patienten, Eltern und Ärzte.",
+    "explanation": "Die Leitliniengruppe sieht Forschungsbedarf hinsichtlich möglicher Risiken, Komplikationen und Spätfolgen im körperlichen, psychischen und sexuellen Bereich (Statement 10)."
+  },
+  {
+    "question": "In welchem Spannungsfeld bewegt sich laut dem Ausblick der Leitlinie die gesellschaftliche Diskussion um Beschneidung, trotz der rein medizinischen Ausrichtung der Leitlinie?",
+    "options": [
+      "Es gibt laut Leitlinie keinerlei gesellschaftliche Diskussion zu diesem Thema.",
+      "Im Spannungsfeld von traditionellen Normen und individueller Selbstbestimmung sowie der Bedeutung genitaler Autonomie.",
+      "Ausschließlich im Bereich der Krankenkassenerstattung.",
+      "Das Thema gilt als politisch vollkommen unumstritten."
+    ],
+    "correct": 1,
+    "tip": "Der Aspekt der genitalen Autonomie und des Selbstbestimmungsrechts gewinnt gesellschaftlich zunehmend an Bedeutung.",
+    "explanation": "Die Diskussion um Beschneidung bewegt sich im Spannungsfeld von traditionellen Normen und individueller Selbstbestimmung, verknüpft mit der Bedeutung genitaler Autonomie."
+  },
+  {
+    "question": "Welches Organ bzw. welche Struktur ist bei der Paraphimose am stärksten von der Minderdurchblutung betroffen und kann im Extremfall nekrotisch werden?",
+    "options": [
+      "Die Harnblase.",
+      "Die Glans penis (Eichel) bzw. das distale Vorhautblatt.",
+      "Die Prostata.",
+      "Die Nieren."
+    ],
+    "correct": 1,
+    "tip": "Die venös-lymphatische Stauung betrifft primär das distal des Schnürrings liegende Gewebe.",
+    "explanation": "Bei der Paraphimose kommt es durch den einschnürenden Vorhautring zu Minderdurchblutung und Ödem des distalen Vorhautblattes, im Extremfall mit Ulzeration bis zur Glansnekrose."
+  }
+]

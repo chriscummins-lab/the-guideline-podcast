@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Lebensstil-Intervention wird bei Adipositas als starke Empfehlung bei Harninkontinenz ausgesprochen?",
+    "options": [
+      "Gewichtsreduktion und Erhalt des reduzierten Gewichts.",
+      "Erhöhung der Kalorienzufuhr.",
+      "Vollständiger Verzicht auf Flüssigkeitszufuhr.",
+      "Tägliches intensives Ausdauertraining unabhängig vom Gewicht."
+    ],
+    "correct": 0,
+    "tip": "Übergewicht ist einer der am besten belegten beeinflussbaren Risikofaktoren für Harninkontinenz.",
+    "explanation": "Übergewichtige oder adipöse Patientinnen mit Harninkontinenz sollen motiviert werden, ihr Körpergewicht zu reduzieren und das reduzierte Gewicht beizubehalten (starke Empfehlung)."
+  },
+  {
+    "question": "Welchen Effekt hat eine Koffeinreduktion laut Leitlinie auf die Harninkontinenz?",
+    "options": [
+      "Sie verbessert zuverlässig die Belastungsinkontinenz.",
+      "Sie kann imperativen Harndrang und Miktionshäufigkeit verbessern, nicht aber die Belastungsinkontinenz.",
+      "Sie hat laut aktueller Datenlage gar keinen Effekt auf irgendein Symptom.",
+      "Sie heilt die Mischharninkontinenz vollständig."
+    ],
+    "correct": 1,
+    "tip": "Der Effekt betrifft eher die Drang-Komponente als die mechanische Belastungskomponente.",
+    "explanation": "Patientinnen sollen darauf hingewiesen werden, dass eine Verringerung der Koffeineinnahme die Symptome imperativer Harndrang und Miktionshäufigkeit, nicht aber die Belastungsinkontinenz verbessern kann."
+  },
+  {
+    "question": "Wie wird bei Patientinnen mit Harninkontinenz und begleitender Obstipation laut Leitlinie vorgegangen?",
+    "options": [
+      "Die Obstipation wird ignoriert, da kein Zusammenhang mit der Inkontinenz besteht.",
+      "Sie sollen im Sinne guter medizinischer Praxis über die Darmbehandlung beraten werden.",
+      "Es wird grundsätzlich sofort eine Operation empfohlen.",
+      "Obstipation ist eine Kontraindikation für jede Inkontinenztherapie."
+    ],
+    "correct": 1,
+    "tip": "Es besteht eine nachgewiesene Korrelation zwischen beiden Beschwerden, auch wenn der kausale Nutzen einer Behandlung nicht sicher belegt ist.",
+    "explanation": "Patientinnen mit Harninkontinenz, die ebenfalls an Obstipation leiden, sollen im Sinne von guter medizinischer Praxis über die Darmbehandlung beraten werden."
+  },
+  {
+    "question": "Für welche Patientengruppe ist \"prompted voiding\" (Aufforderung zur Entleerung) die empfohlene Maßnahme?",
+    "options": [
+      "Für junge, kognitiv unauffällige Frauen mit Belastungsinkontinenz.",
+      "Für Patientinnen mit kognitiven Beeinträchtigungen.",
+      "Nur für Frauen nach urogynäkologischen Operationen.",
+      "Für Männer mit neurogener Blasenfunktionsstörung."
+    ],
+    "correct": 1,
+    "tip": "Hier erfolgt die Aufforderung von außen durch eine Pflegeperson, nicht durch ein festes Zeitschema, das die Patientin selbst verfolgt.",
+    "explanation": "Patientinnen mit Harninkontinenz und kognitiven Beeinträchtigungen soll eine Aufforderung zur Entleerung (\"prompted voiding\") angeboten werden."
+  },
+  {
+    "question": "Welche Therapie sollte laut Leitlinie bei Drang- oder Mischinkontinenz als erste Therapie angewendet werden?",
+    "options": [
+      "Botulinumtoxin-Injektion.",
+      "Blasentraining.",
+      "Sakrale Neuromodulation.",
+      "Die operative Bandeinlage."
+    ],
+    "correct": 1,
+    "tip": "Diese Maßnahme ist nicht-invasiv und basiert auf einem geplanten Entleerungsschema zur Verlängerung der Intervalle.",
+    "explanation": "Bei Patientinnen mit Dranginkontinenz oder Mischinkontinenz sollte Blasentraining als erste Therapie angewendet werden."
+  },
+  {
+    "question": "Über welchen Mindestzeitraum sollte ein Beckenbodentraining (BBT) laut Leitlinie durchgeführt werden?",
+    "options": [
+      "Mindestens 3 Monate, nach Krafttrainingsprinzipien.",
+      "Nur eine einzige Trainingseinheit.",
+      "Mindestens 2 Jahre durchgehend.",
+      "Es gibt keine empfohlene Mindestdauer."
+    ],
+    "correct": 0,
+    "tip": "Wie bei jedem Muskeltraining braucht der Beckenboden Zeit, um sich an die Belastung anzupassen.",
+    "explanation": "Beckenbodentraining soll Patientinnen mit Belastungs- und Mischharninkontinenz angeboten werden; es ist sinnvoll, die Beckenbodenkraft zu kontrollieren und das Training über mindestens 3 Monate nach Krafttrainingsprinzipien durchzuführen."
+  },
+  {
+    "question": "Wie kann Beckenbodentraining laut Leitlinie sinnvoll ergänzt werden?",
+    "options": [
+      "Ausschließlich durch eine systemische Hormontherapie.",
+      "Durch Biofeedback, Elektrostimulation oder elektromagnetische Stimulation.",
+      "Durch eine prophylaktische Antibiose.",
+      "Durch eine sofortige Pessareinlage, die das Training ersetzt."
+    ],
+    "correct": 1,
+    "tip": "Diese Zusatzverfahren steuern den Beckenboden oder die Blase direkt an bzw. liefern der Patientin eine Rückmeldung über die Muskelaktivität.",
+    "explanation": "Elektrostimulation (Haut, vaginal, anal) kann zusätzlich zum Beckenbodentraining angewendet werden; auch elektromagnetische Stimulation kann zur Behandlung von Harninkontinenz oder überaktiver Blase erwogen werden."
+  },
+  {
+    "question": "Für welche Patientinnen ist eine Pessartherapie laut Leitlinie besonders gut geeignet?",
+    "options": [
+      "Für Frauen, die nur bei starker körperlicher Belastung inkontinent sind.",
+      "Ausschließlich für Frauen ohne Uterus.",
+      "Nur für Frauen mit schwerer, therapierefraktärer Dranginkontinenz.",
+      "Für Frauen, die bereits einen artifiziellen Sphinkter tragen."
+    ],
+    "correct": 0,
+    "tip": "Das Pessar wirkt durch Stabilisierung der Urethra und erhöht den urethralen Widerstand – das hilft besonders bei Belastungssituationen.",
+    "explanation": "Pessare sind eine geeignete Option für Frauen, die nur bei starker körperlicher Belastung inkontinent sind; die Pessaranpassung sollte unabhängig vom Vorhandensein eines Uterus erfolgen."
+  },
+  {
+    "question": "Welche Lasermodalität wird am häufigsten zur minimalinvasiven Behandlung der Belastungsinkontinenz eingesetzt?",
+    "options": [
+      "Ausschließlich die mikroablative fraktionierte CO2-Lasertherapie.",
+      "Die nicht-ablative Erbium:YAG-Lasertherapie mit SMOOTH-Mode-Technologie.",
+      "Ein klassischer Dioden-Laser ohne thermischen Effekt.",
+      "Ein Excimer-Laser."
+    ],
+    "correct": 1,
+    "tip": "Diese Technologie wandelt den Laserstrahl in Wärme um, die in tieferen Schichten Kollagen denaturiert, ohne die Oberfläche zu verletzen.",
+    "explanation": "Am häufigsten wird die nicht-ablative Erbium:YAG-Lasertherapie (2940 nm) mit SMOOTH-Mode-Technologie eingesetzt, die durch Neokollagenese die vordere Vaginalwand verstärkt."
+  },
+  {
+    "question": "Für welche Patientinnengruppe ist die intravaginale Lasertherapie bei Belastungsinkontinenz laut Leitlinie geeignet, und was ist ihr aktueller Zulassungsstatus?",
+    "options": [
+      "Geeignet nur für schwere Belastungsinkontinenz; von den Kassen vollständig übernommen.",
+      "Geeignet für leichte bis mittlere Belastungsinkontinenz, insbesondere bei jüngeren Frauen mit normalem BMI; bisher keine Kassenzulassung.",
+      "Geeignet für alle Schweregrade; Kassenleistung seit 2020.",
+      "Nur zur alleinigen Behandlung der Dranginkontinenz zugelassen."
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um ein Verfahren, das (noch) eine Selbstzahlerleistung ist und sich für ein bestimmtes Patientinnenprofil besonders eignet.",
+    "explanation": "Die intravaginale Lasertherapie kann als Option für die leichte und mittlere Belastungsinkontinenz angeboten werden, besonders geeignet für jüngere Frauen mit normalem BMI; sie hat aktuell noch keine Kassenzulassung."
+  }
+]

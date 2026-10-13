@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was versteht man unter der benignen Prostatahyperplasie (BPH)?",
+    "options": [
+      "Eine tast- oder messbare Prostatavergrößerung (Volumen >25 cm³).",
+      "Eine mikroskopische (histologische) Gewebeveränderung der Prostata mit Vermehrung von Bindegewebs-, Muskel- und/oder Epithelzellen.",
+      "Einen unspezifischen urodynamischen Begriff für erhöhten Blasenauslasswiderstand.",
+      "Die Summe aller Symptome des unteren Harntrakts."
+    ],
+    "correct": 1,
+    "tip": "BPH ist eine rein histologische Diagnose, kein klinischer oder bildgebender Befund.",
+    "explanation": "Die BPH bezeichnet die mikroskopischen (histologischen) Gewebeveränderungen in der Transitionalzone der Prostata mit Vermehrung von Bindegewebs-, Epithel- und/oder glatten Muskelzellen."
+  },
+  {
+    "question": "Was bezeichnet der Begriff BPE (Benigne Prostatavergrößerung)?",
+    "options": [
+      "Die histologische Diagnose der Prostatahyperplasie.",
+      "Die tast- oder messbare Prostatavergrößerung mit einem Volumen >25 cm³.",
+      "Die urodynamisch gemessene Obstruktion.",
+      "Die alleinige Symptomatik ohne Organbefund."
+    ],
+    "correct": 1,
+    "tip": "BPE ist das klinische/bildgebende Korrelat der histologischen BPH.",
+    "explanation": "BPE ist die bei der digito-rektalen Untersuchung tastbare oder in der Bildgebung messbare Prostatavergrößerung (Prostatagesamtvolumen >25 cm³)."
+  },
+  {
+    "question": "Was unterscheidet BOO von BPO?",
+    "options": [
+      "BOO und BPO sind Synonyme und austauschbar.",
+      "BOO ist der unspezifische urodynamische Oberbegriff für erhöhten Blasenauslasswiderstand; BPO ist die spezielle Form der BOO, die durch eine BPE hervorgerufen wird.",
+      "BPO beschreibt nur funktionelle, BOO nur mechanische Obstruktionen.",
+      "BOO tritt ausschließlich bei Frauen auf."
+    ],
+    "correct": 1,
+    "tip": "Nicht jede BOO ist eine BPO – aber jede BPO ist eine BOO.",
+    "explanation": "BOO ist definiert als erhöhter Detrusordruck bei der Miktion mit gleichzeitig abgeschwächtem Harnstrahl in der Urodynamik. Wird diese BOO durch eine BPE hervorgerufen, spricht man speziell von einer BPO."
+  },
+  {
+    "question": "Wie korrelieren die drei Komponenten BPE, BOO/BPO und LUTS beim benignen Prostatasyndrom (BPS)?",
+    "options": [
+      "Sie korrelieren eng und sind praktisch immer gemeinsam vorhanden.",
+      "Sie korrelieren nur schwach miteinander, sodass bei einem Patienten mit BPS nur eine, zwei oder alle drei Komponenten nachweisbar sein können.",
+      "LUTS tritt immer nur in Abwesenheit von BPE auf.",
+      "BOO kann nur bei Vorliegen einer BPE auftreten."
+    ],
+    "correct": 1,
+    "tip": "Das Hald-Diagramm veranschaulicht genau dieses variable, nur schwach korrelierte Verhältnis.",
+    "explanation": "Die drei Komponenten des BPS korrelieren nur schwach miteinander, sodass bei einem Patienten nur eine einzelne, zwei oder alle drei Komponenten nachweisbar sein können – aus dem Vorliegen einer Komponente kann nicht automatisch auf eine andere geschlossen werden."
+  },
+  {
+    "question": "Welcher Begriff wird anstelle des früher verwendeten \"Prostatismus\" favorisiert, um Symptome des unteren Harntrakts zu beschreiben – und warum?",
+    "options": [
+      "\"BPH\", da es die genaueste Diagnose darstellt.",
+      "\"LUTS\", da die Symptome unspezifisch sind und auch durch andere Erkrankungen als BPE/BPO hervorgerufen werden können.",
+      "\"BPO\", da es die urodynamische Diagnose abbildet.",
+      "\"BPS\", da es ausschließlich die Prostata betrifft."
+    ],
+    "correct": 1,
+    "tip": "LUTS können z.B. auch von Blase, Nervensystem, Beckenboden oder Darm ausgehen.",
+    "explanation": "Da LUTS unspezifisch sind und auch durch viele andere Krankheiten außer BPE/BPO hervorgerufen werden können, wird der unspezifische Begriff \"LUTS\" favorisiert und eine organspezifische Zuordnung wie beim Begriff \"Prostatismus\" vermieden."
+  },
+  {
+    "question": "Worüber sollten Männer laut Empfehlung 4.1 (Empfehlungsgrad B) bezüglich des benignen Prostatasyndroms informiert werden?",
+    "options": [
+      "Nur über medikamentöse Therapieoptionen.",
+      "Über den Zusammenhang von Lebensstil und BPS, insbesondere das metabolische Syndrom (Gewichtsreduktion, Diät, Sport) sowie die Reduktion von Kaffee/Tee bei erhöhter Miktionsfrequenz und Harndrangsymptomatik.",
+      "Diese Information wird in der Leitlinie explizit nicht empfohlen.",
+      "Nur über operative Verfahren."
+    ],
+    "correct": 1,
+    "tip": "Lebensstilmodifikation ist bereits Teil der Basisberatung, nicht erst der Therapieeskalation.",
+    "explanation": "Männer sollten über den Zusammenhang von Lebensstil und BPS sowie Modifikationsmöglichkeiten informiert werden – vor allem zum metabolischen Syndrom und zur Reduktion von Kaffee/Tee bei Harndrang (Empfehlungsgrad B)."
+  },
+  {
+    "question": "Welcher Risikofaktor gilt laut mehreren systematischen Übersichtsarbeiten – neben Alter und einem funktionierenden Testosteronhaushalt um die Pubertät – derzeit als der am besten evaluierte Risikofaktor für BPE/LUTS/BPS?",
+    "options": [
+      "Nikotinabusus.",
+      "Das metabolische Syndrom.",
+      "Ein moderater Alkoholkonsum.",
+      "Nichtsteroidale Antiphlogistika."
+    ],
+    "correct": 1,
+    "tip": "Mehrere systematische Übersichtsarbeiten mit tausenden Patienten stützen diesen Zusammenhang, trotz heterogener Studienlage.",
+    "explanation": "Neben Alter und Testosteronhaushalt ist das metabolische Syndrom der am besten evaluierte Risikofaktor für BPE/LUTS und BPS, wobei eine relevante Heterogenität zwischen den Studien besteht."
+  },
+  {
+    "question": "Wie verläuft das benigne Prostatasyndrom typischerweise im Gruppenmittel?",
+    "options": [
+      "Meist spontan rückläufig ohne jedes Progressionsrisiko.",
+      "Chronisch progredient, erkennbar an Zunahme der LUTS, Abnahme von Qmax und Zunahme des Restharns oder dem Auftreten von Komplikationen.",
+      "Immer akut und innerhalb weniger Wochen selbstlimitierend.",
+      "Nur bei Männern über 80 Jahren überhaupt progredient."
+    ],
+    "correct": 1,
+    "tip": "Im Einzelfall ist die Entwicklung nicht sicher vorhersagbar, im Gruppenmittel aber klar progredient.",
+    "explanation": "Das BPS verläuft im Gruppenmittel meist chronisch progredient, sichtbar an zunehmenden LUTS, abnehmendem Qmax, zunehmendem Restharn oder Komplikationen wie Harnverhalt oder rezidivierenden Harnwegsinfektionen."
+  },
+  {
+    "question": "An wen richtet sich die S2e-Leitlinie BPS laut ihrer Zielsetzung in erster Linie?",
+    "options": [
+      "Ausschließlich an Pflegepersonal.",
+      "An Urologen in Praxis und Klinik, zur Information auch für Allgemeinmediziner, Internisten und Hausärzte.",
+      "Nur an die Patienten selbst.",
+      "Ausschließlich an Radiologen."
+    ],
+    "correct": 1,
+    "tip": "Die Leitlinie hat damit einen klaren fachärztlichen Fokus mit Informationsfunktion für die Primärversorgung.",
+    "explanation": "Die Leitlinie richtet sich an Urologen in Praxis und Klinik und dient zur Information für Allgemeinmedizinische Ärzte, Internisten und Hausärzte."
+  },
+  {
+    "question": "In wie viele anatomische Zonen wird die Prostata histologisch unterteilt, und in welcher Zone entsteht die BPH?",
+    "options": [
+      "Zwei Zonen; die BPH entsteht in der peripheren Zone.",
+      "Vier Zonen (Transitionalzone, anteriore, zentrale, periphere Zone); die BPH entsteht in der Transitionalzone.",
+      "Drei Zonen; die BPH entsteht in der zentralen Zone.",
+      "Die Prostata ist histologisch nicht zonal gegliedert."
+    ],
+    "correct": 1,
+    "tip": "Die Transitionalzone macht beim Gesunden nur etwa 5% des glandulären Prostatavolumens aus, wächst bei BPH aber überproportional.",
+    "explanation": "Die Prostata wird histologisch in vier Zonen gegliedert: Transitionalzone, anteriore, zentrale und periphere Zone. Ab der 4. Lebensdekade kommt es in der Transitionalzone zur Hyperplasie, die primär zur Volumenzunahme dieser Zone und sekundär der gesamten Prostata führt."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bei welcher Tumorkonstellation ist laut Statement 8.13 das Risiko einer okkulten Metastasierung beim Seminom im klinischen Stadium I minimal (< 5%)?",
+    "options": [
+      "Bei einer Tumorgröße < 4 cm und fehlender stromaler Rete testis-Infiltration.",
+      "Bei jeder Tumorgröße, solange der Beta-hCG-Wert normal ist.",
+      "Nur bei Patienten unter 30 Jahren, unabhängig von der Tumorgröße.",
+      "Bei Vorliegen einer lymphovaskulären Invasion, solange die Tumorgröße unter 2 cm liegt."
+    ],
+    "correct": 0,
+    "tip": "Die Daten zur stromalen Rete testis-Infiltration selbst sind laut Leitlinie uneinheitlich, dennoch fließt sie in diese risikoarme Konstellation ein.",
+    "explanation": "Statement 8.13 beschreibt, dass bei einer Tumorgröße unter 4 cm und fehlender stromaler Rete testis-Infiltration das Risiko einer okkulten Metastasierung minimal (< 5%) ist."
+  },
+  {
+    "question": "Welche Therapieempfehlung spricht die Leitlinie (Empfehlung 8.16, Grad A) für Seminom-Patienten im klinischen Stadium I aus?",
+    "options": [
+      "Eine primäre retroperitoneale Lymphadenektomie bei allen Patienten.",
+      "Die Überwachungsstrategie mit stadiengerechter Therapie im Falle eines Rezidivs.",
+      "Eine obligate adjuvante Strahlentherapie bei allen Patienten.",
+      "Eine Kombination aus zwei Zyklen PEB bei allen Patienten."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung basiert darauf, dass alle Therapieoptionen bei stadiengerechter Rezidivbehandlung dieselben Überlebensraten erreichen.",
+    "explanation": "Empfehlung 8.16 (Grad A, starker Konsens) sieht vor, dass Patienten mit Seminom im klinischen Stadium I mit der Überwachungsstrategie nachbeobachtet und im Falle eines Rezidivs stadiengerecht therapiert werden sollen."
+  },
+  {
+    "question": "Welchen Anteil der Seminom-Patienten im Stadium I stellt eine adjuvante Therapie laut Leitlinientext dar?",
+    "options": [
+      "Für 5–20% der Patienten eine notwendige, lebensrettende Maßnahme ohne Alternative.",
+      "Für 80–95% der Patienten eine Übertherapie, deren Vor- und Nachteile im Einzelfall abgewogen werden müssen.",
+      "Für alle Patienten gleichermaßen unverzichtbar.",
+      "Für keinen der Patienten relevant, da adjuvante Therapien beim Seminom generell wirkungslos sind."
+    ],
+    "correct": 1,
+    "tip": "Die Überwachung erreicht nahezu 100% krebsspezifisches Überleben, weshalb eine adjuvante Therapie für die Mehrheit überflüssig wäre.",
+    "explanation": "Die Überwachung ist eine sichere Therapie für alle Seminom-Patienten im cSI; eine adjuvante Therapie stellt für 80–95% der Patienten eine Übertherapie dar, deren Vor- und Nachteile im Einzelfall abgewogen werden müssen."
+  },
+  {
+    "question": "Welche Risikofaktoren sollen laut Empfehlung 8.17 bei der Diskussion über eine adjuvante Therapie beim Seminom im Stadium I berücksichtigt werden?",
+    "options": [
+      "Ausschließlich das Patientenalter.",
+      "Tumordurchmesser > 4 cm, Rete testis- und Hilusinfiltration, präoperative Tumormarkererhöhung (Beta-hCG, LDH) und lymphovaskuläre Invasion.",
+      "Nur die Körpergröße des Patienten.",
+      "Ausschließlich die Histologie (reines Seminom vs. Mischtumor)."
+    ],
+    "correct": 1,
+    "tip": "Bei Akkumulation dieser Faktoren soll eine adjuvante Therapie mit dem Patienten diskutiert werden, ist aber weiterhin nicht obligat.",
+    "explanation": "Empfehlung 8.17 nennt bei Risikofaktorakkumulation (Tumordurchmesser > 4 cm, Rete testis- und Hilusinfiltration, präoperative Tumormarkererhöhung und lymphovaskuläre Invasion) die Diskussion einer adjuvanten Therapie mit dem Patienten."
+  },
+  {
+    "question": "Welche zwei adjuvanten Therapieoptionen stehen laut Empfehlung 8.17 beim Seminom im Stadium I bei Risikofaktorakkumulation zur Wahl?",
+    "options": [
+      "1–2 Zyklen Carboplatin (AUC 7) oder eine Strahlentherapie der Paraaortalregion mit 20 Gy.",
+      "Ausschließlich eine Hochdosis-Chemotherapie mit Stammzelltransplantation.",
+      "Eine primäre retroperitoneale Lymphadenektomie oder Bleomycin-Monotherapie.",
+      "Eine kombinierte Radio-Chemotherapie mit 40 Gy plus 4 Zyklen BEP."
+    ],
+    "correct": 0,
+    "tip": "Beide Optionen haben unterschiedliche Vor- und Nachteile, die mit dem Patienten ausführlich besprochen werden sollen.",
+    "explanation": "Als adjuvante Therapie kommen laut Empfehlung 8.17 1–2 Zyklen Carboplatin (AUC 7) oder alternativ eine Strahlentherapie der Paraaortalregion mit 20 Gy in Frage."
+  },
+  {
+    "question": "Was zeigte die TRISST-Studie bezüglich eines reduzierten Nachsorgeprotokolls mit MRT statt CT bei Seminom-Patienten im cSI unter Überwachung?",
+    "options": [
+      "Eine deutliche Unterlegenheit des reduzierten Protokolls mit signifikant mehr krebsspezifischen Todesfällen.",
+      "Die Nicht-Unterlegenheit des reduzierten Schemas mit MRT statt CT, bei einer Überlebensrate von 99% ohne krebsspezifische Todesfälle.",
+      "Dass eine Bildgebung in der Nachsorge nach cSI-Seminom komplett verzichtbar ist.",
+      "Dass ausschließlich die Röntgen-Thorax-Untersuchung zur Nachsorge ausreicht."
+    ],
+    "correct": 1,
+    "tip": "Die 6-Jahres-Rezidivrate lag bei 12%, nach 3 Jahren traten praktisch keine Rezidive mehr auf.",
+    "explanation": "Die TRISST-Studie zeigte die Nicht-Unterlegenheit eines reduzierten Nachsorgeschemas mit MRT statt CT bei einer 6-Jahres-Rezidivrate von 12% und einer Überlebensrate von 99% ohne krebsspezifische Todesfälle."
+  },
+  {
+    "question": "Wie hoch ist laut Statement 8.18 das Risiko einer okkulten retroperitonealen Metastasierung beim nichtseminomatösen KZT im Stadium I, je nach Vorliegen einer lymphovaskulären Invasion (LVI)?",
+    "options": [
+      "Etwa 15% ohne LVI (Niedrigrisiko) versus bis zu 50% mit LVI (Hochrisiko).",
+      "Immer exakt 25%, unabhängig vom LVI-Status.",
+      "0% ohne LVI, 100% mit LVI.",
+      "Etwa 50% ohne LVI versus 15% mit LVI (umgekehrtes Verhältnis)."
+    ],
+    "correct": 0,
+    "tip": "Die lymphovaskuläre Invasion ist der wichtigste Risikofaktor für eine okkulte Metastasierung bei dieser Tumorentität.",
+    "explanation": "Statement 8.18 gibt das Risiko einer okkulten Metastasierung mit etwa 15% in der Niedrigrisiko-Situation (ohne LVI) und bis zu 50% in der Hochrisiko-Situation (mit LVI) an."
+  },
+  {
+    "question": "Welche Therapiestrategie soll laut Empfehlung 8.19 (Grad A) beim nichtseminomatösen KZT im Stadium I in der Niedrigrisiko-Situation (ohne LVI) favorisiert werden?",
+    "options": [
+      "Zwei Zyklen BEP als adjuvante Chemotherapie.",
+      "Die Überwachung.",
+      "Eine primäre retroperitoneale Lymphadenektomie bei allen Patienten.",
+      "Eine adjuvante Strahlentherapie des Retroperitoneums."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung spiegelt das insgesamt niedrige Rezidivrisiko von etwa 15% in dieser Gruppe wider.",
+    "explanation": "Empfehlung 8.19 (Grad A, starker Konsens) legt fest, dass in der Niedrigrisiko-Situation (ohne lymphovaskuläre Invasion) die Überwachung favorisiert werden soll."
+  },
+  {
+    "question": "Um welchen Faktor reduziert ein Zyklus PEB laut Empfehlung 8.20 das Rezidivrisiko in der Hochrisiko-Situation (mit LVI) beim nichtseminomatösen KZT im Stadium I?",
+    "options": [
+      "Von 50% auf 3%, ohne Unterschied im Gesamtüberleben gegenüber der Überwachung.",
+      "Von 10% auf 0%, mit deutlich verbessertem Gesamtüberleben.",
+      "Es gibt keinen messbaren Effekt von PEB auf das Rezidivrisiko.",
+      "Von 3% auf 50% (paradoxe Risikosteigerung)."
+    ],
+    "correct": 0,
+    "tip": "Trotz der deutlichen Risikoreduktion unterscheidet sich das Gesamtüberleben beider Strategien nicht, weshalb die Entscheidung mit dem Patienten besprochen werden soll.",
+    "explanation": "Empfehlung 8.20a besagt, dass ein Zyklus PEB das Rezidivrisiko in der Hochrisiko-Situation von 50% auf 3% reduziert, wobei sich das Gesamtüberleben beider Gruppen nicht unterscheidet; die Therapiemodalitäten sollen daher mit dem Patienten besprochen werden."
+  },
+  {
+    "question": "Welche alternative Option nennt Empfehlung 8.20b für Patienten mit Kontraindikation gegen Chemotherapie oder individuellen Gründen gegen Überwachung und adjuvante Chemotherapie beim Hochrisiko-Nichtseminom im Stadium I?",
+    "options": [
+      "Eine primäre nervschonende retroperitoneale Lymphadenektomie in modifizierten Feldgrenzen, ausschließlich an einem Expertenzentrum.",
+      "Eine palliative Bestrahlung des gesamten Abdomens.",
+      "Der vollständige Verzicht auf jede weitere Therapie oder Überwachung.",
+      "Eine Hochdosis-Chemotherapie mit Stammzelltransplantation als Erstlinientherapie."
+    ],
+    "correct": 0,
+    "tip": "Dieser Eingriff ist bewusst an spezialisierte Zentren mit entsprechender Erfahrung gebunden.",
+    "explanation": "Empfehlung 8.20b sieht bei entsprechenden Gründen gegen Überwachung und Chemotherapie eine primäre nervschonende retroperitoneale Lymphadenektomie in modifizierten Feldgrenzen vor, die ausschließlich an einem Expertenzentrum erfolgen soll."
+  }
+]

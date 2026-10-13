@@ -1,0 +1,219 @@
+{
+  "guideline": "S3-Leitlinie Diagnostik, Therapie und Nachsorge der Keimzelltumoren des Hodens",
+  "glCode": "HT",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "HT_F01_MethodikEvidenzbewertung",
+      "titel": "Methodik & Evidenzbewertung",
+      "kapitel": [
+        "2"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2: Einführung und Grundlagen der Methodik.\nInhalte:\n- Geltungsbereich, Evidenzgraduierung (Oxford/GRADE) und Empfehlungsgrade (A: \"soll\", B: \"sollte\", 0: \"kann\") sowie Expertenkonsens (EK).\n- Unabhängigkeit und Methodik der S3-Leitlinie.\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich hochstehenden Dialog beim Kaffee nach dem Dienst.\n- Fachlich präzise, kollegial, gelegentlich mit feinem ärztlichem Humor. Keine Vereinfachungen auf Kosten medizinischer Exaktheit.\n- Erläutert, warum die formale Graduierung für Prüfungen und rechtliche Absicherung im Dienstalltag entscheidend ist.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 6
+    },
+    {
+      "folge": 2,
+      "stem": "HT_F02_EpidemiologieRisikofaktoren",
+      "titel": "Epidemiologie, Risikofaktoren & Screening",
+      "kapitel": [
+        "4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4: Epidemiologie, Risikofaktoren, Screening, Prävention.\nInhalte:\n- Altersgipfel, Inzidenztrends und familiäre Häufung.\n- Risikofaktoren: Maldeszensus testis/Kryptorchismus, kontralateraler Hodentumor, Subfertilität.\n- Klares Leitlinien-Statement zu Screening und Selbstuntersuchung (Nutzen vs. Überdiagnostik).\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich hochstehenden Dialog.\n- Kollegial, präzise und differenziert. Hebt die Stärke der Empfehlungen (Grad A/B vs. EK) hervor.\n- Diskutiert typische Missverständnisse in der Patientenaufklärung zur Selbstpalpation.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 3,
+      "stem": "HT_F03_PathologischeKlassifikation",
+      "titel": "Pathologische Klassifikation & Histologie",
+      "kapitel": [
+        "5"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5: Pathologische Klassifikation (WHO-Klassifikation).\nInhalte:\n- Differenzierung von Keimzelltumoren abgeleitet von GCNIS vs. Nicht-GCNIS-assoziiert.\n- Histologische Subtypen: Reines Seminom vs. Nicht-Seminom-Mischungen (Dottersacktumor, Choriokarzinom, embryonales Karzinom, Teratom).\n- Klinische Relevanz vaskulärer Invasion (LVI / V1/L1) für das spätere Staging.\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich hochstehenden Dialog.\n- Medizinisch exakt, kollegial, ohne oberflächliche Vereinfachung.\n- Betont, welche histopathologischen Angaben im Befundbericht für die Therapieentscheidung zwingend gefordert werden müssen.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 22
+    },
+    {
+      "folge": 4,
+      "stem": "HT_F04_DiagnostikMarkerFreilegung",
+      "titel": "Diagnostik, Marker & Inguinale Freilegung",
+      "kapitel": [
+        "6"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6: Diagnostik, Stadien und Klassifikationssysteme.\nInhalte:\n- Klinische Untersuchung, hochauflösender Hodenultraschall, Indikation zum Staging-CT (Thorax/Abdomen/Becken).\n- Serumtumormarker (AFP, beta-hCG, LDH): Halbwertszeiten, Kinetik und prognostische IGCCCG-Einteilung.\n- Operatives Vorgehen: Inguinaler Zugang, Abklemmen des Funiculus, Stellenwert der Schnellschnittbiopsie und des Organerhalts.\n- Fertilitätserhalt: Unbedingte Pflicht zur Kryokonservierung vor jedem operativen oder systemischen Schritt.\nFormat & Moderation:\n- Zwei erfahrene urologische Kollegen im kollegialen Dienstgespräch.\n- Fachlich anspruchsvoll, hebt Grad-A-Empfehlungen deutlich hervor.\n- Thematisiert typische Notfall-Fallstricke (z. B. Skrotalschnitt vermeiden, Marker-Halbwertszeiten abwarten).\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 26
+    },
+    {
+      "folge": 5,
+      "stem": "HT_F05_Prognosefaktoren",
+      "titel": "Prognosefaktoren & Risikostratifizierung",
+      "kapitel": [
+        "7"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7: Prognose und prognostische Faktoren.\nInhalte:\n- Krebsspezifisches und Gesamtüberleben nach Stadien.\n- Spezifische Risikofaktoren im Stadium I: Tumorgröße (> 4 cm) und Rete-testis-Infiltration beim Seminom vs. vaskuläre Invasion (LVI) beim Nicht-Seminom.\n- IGCCCG-Klassifikation: Wer gehört in die \"Good\", wer in die \"Intermediate\" und wer in die \"Poor Prognosis\"-Gruppe?\nFormat & Moderation:\n- Kollegiales Fachgespräch zweier Assistenzärzte auf hohem Niveau.\n- Erläutert die mathematisch-statistischen Daten pragmatisch für die tägliche Visite und Tumorkonferenz.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 25
+    },
+    {
+      "folge": 6,
+      "stem": "HT_F06_PrimaertherapieGCNIS",
+      "titel": "Primärtherapie – GCNIS & Operatives Management",
+      "kapitel": [
+        "8.1",
+        "8.2"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.1 und 8.2: Primäre operative Therapie und Therapie der GCNIS.\nInhalte:\n- Technische Feinheiten der Ablatio testis, Hodenbiopsie der Gegenseite (Indikation, Kontralaterale GCNIS-Inzidenz) und Hodenprothesen-Implantation.\n- Management der GCNIS: Surveillance vs. lokale Bestrahlung (Dosis?) vs. Ablatio bei Einzelhoden.\n- Timing von Kryokonservierung und Testosteronsubstitution.\nFormat & Moderation:\n- Fachlich detailliertes Gespräch zweier Urologen. Kollegialer Ton mit klinischem Blick.\n- Diskutiert die Aufklärungspflichten und die typische Verunsicherung junger Patienten.\n- Hebt starke Empfehlungen (Grad A/B) gegenüber schwachen hervor.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 7,
+      "stem": "HT_F07_PrimaertherapieStadiumI",
+      "titel": "Primärtherapie – Stadium I Seminom & Nicht-Seminom",
+      "kapitel": [
+        "8.3"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.3: Keimzelltumoren im Stadium I (cSI und cSIS).\nInhalte:\n- Seminom cSI: Aktive Überwachung (Surveillance) als Goldstandard vs. adjuvante Carboplatin-Monotherapie (AUC 7) – wann ist was indiziert?\n- Nicht-Seminom cSI: Risikoadaptiertes Vorgehen. Vaskuläre Invasion vorhanden (High Risk) vs. nicht vorhanden (Low Risk). Stellenwert von 1x BEP vs. Surveillance vs. primäre RLA.\n- Vorgehen bei persistierend erhöhten Tumormarkern (cSIS).\nFormat & Moderation:\n- Kollegialer, anspruchsvoller Austausch zwischen zwei Assistenzärzten.\n- Diskutiert die Balance zwischen Übertherapie (Toxizität) und Rezidivrisiko im klinischen Alltag.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 8,
+      "stem": "HT_F08_StadiumIIAB",
+      "titel": "Metastasierte Tumoren – Stadium IIA/B",
+      "kapitel": [
+        "8.4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.4: Früh metastasierte Keimzelltumoren: Stadium IIA/B.\nInhalte:\n- Seminom Stadium IIA/B: Strahlentherapie (Paraaortal/Iliakal) vs. Systemtherapie (3x BEP oder 4x EP). Leitlinienpräferenz und Langzeitfolgen.\n- Nicht-Seminom Stadium IIA/B: Differenzierung zwischen Marker-negativ und Marker-positiv. Primäre Chemotherapie (3x BEP) vs. primäre retroperitoneale Lymphadenektomie (RLA) an erfahrenen Zentren.\nFormat & Moderation:\n- Zwei Urologen auf Facharztniveau. Präzise Ausarbeitung der Leitlinienkriterien.\n- Hebt Kontroversen und Fallstricke in der bildgebenden Befundung (Grenzbefunde 1-2 cm) hervor.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 9,
+      "stem": "HT_F09_StadiumIICIII",
+      "titel": "Fortgeschrittene Tumoren – Stadium IIC/III & Chemotherapie",
+      "kapitel": [
+        "8.5"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.5: Fortgeschritten metastasierte Keimzelltumoren: Stadium IIC/III.\nInhalte:\n- Dringlichkeit des Therapiebeginns und zwingende Vorstellung/Behandlung an spezialisierten Zentren (Zweitmeinung!).\n- Chemotherapieregime nach IGCCCG: Good Prognosis (3x BEP oder 4x EP) vs. Intermediate/Poor Prognosis (4x BEP oder PEI).\n- Dosisanpassungen, Einhaltung des 21-Tage-Takts ohne Dosisreduktion, Notfallindikation bei pulmonaler/zerebraler Metastasierung.\nFormat & Moderation:\n- Zwei urologische Assistenzärzte im intensiven Dienstgespräch.\n- Hohes medizinisches Niveau, Fokus auf Onkologie und internistische Schnittstellen.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 20
+    },
+    {
+      "folge": 10,
+      "stem": "HT_F10_SpezialsituationenKomorbiditaeten",
+      "titel": "Spezialsituationen, Organbeteiligung & Komorbiditäten",
+      "kapitel": [
+        "8.6",
+        "8.7"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.6 und 8.7: Spezielle Erkrankungssituationen und Patienten mit Begleiterkrankungen.\nInhalte:\n- Primär extragonadale Keimzelltumoren (retroperitoneal vs. mediastinal – schlechte Prognose mediastinaler Nicht-Seminome).\n- ZNS- und Knochenmetastasen: Spezifische multimodale Therapiekonzepte.\n- Komorbiditäten: Bleomycin-Kontraindikationen (Lungenfunktion, Alter) und Dosisanpassung bei Niereninsuffizienz oder HIV.\nFormat & Moderation:\n- Anspruchsvoller, kollegialer Tonfall. Fokus auf hochkomplexe klinische Ausnahmesituationen.\n- Warnung vor typischen Kunstfehlern (z. B. unkritische Bleomycingabe bei pulmonaler Vorerkrankung).\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 24
+    },
+    {
+      "folge": 11,
+      "stem": "HT_F11_ResidualtumorPCRPLND",
+      "titel": "Restaging & Residualtumorresektion / PC-RPLND",
+      "kapitel": [
+        "8.8"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.8: Restaging und Therapie der Residualtumorerkrankung.\nInhalte:\n- Restaging-Timing und Modalitäten nach Abschluss der Induktionschemotherapie.\n- Residualtumor beim Seminom: Stellenwert von FDG-PET/CT bei Läsionen > 3 cm; Vorgehen bei Läsionen < 3 cm.\n- Residualtumor beim Nicht-Seminom: Indikation zur postchemotherapeutischen RLA (PC-RPLND) bei allen Resttumoren > 1 cm.\n- Radikalität, Gefäßrekonstruktionen und Vorgehen bei vitalem Tumornachweis / Teratom im Resektat.\nFormat & Moderation:\n- Kollegialer Dialog mit Fokus auf urologische Chirurgie und interdisziplinäre Grenzentscheidungen.\n- Klarer Fokus auf Zentrums-Expertise und Morbiditätsvermeidung.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 19
+    },
+    {
+      "folge": 12,
+      "stem": "HT_F12_RezidiveRefraktaer",
+      "titel": "Rezidive, Refraktäre Tumoren & \"Desperation Surgery\"",
+      "kapitel": [
+        "9"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 9: Rezidive und therapierefraktäre Tumoren.\nInhalte:\n- Rezidiv nach primärem Stadium I (Seminom vs. Nicht-Seminom) vs. Rezidiv nach Vor-Chemotherapie.\n- Standard-Salvage-Chemotherapie (TIP, PEI) vs. Hochdosis-Chemotherapie mit Stammzelltransplantation (HDCT).\n- Growing Teratoma Syndrome: Definition, Erkennung und rein chirurgische Sanierung.\n- \"Desperation Surgery\": Wann macht eine Resektion bei steigenden Markern noch Sinn?\nFormat & Moderation:\n- Fachlich tiefergehendes, reflektiertes Gespräch zweier Urologen.\n- Diskutiert die Grenzen der Therapie und ethische/klinische Herausforderungen beim Rezidiv.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 26
+    },
+    {
+      "folge": 13,
+      "stem": "HT_F13_SonderformenSelten",
+      "titel": "Sonderformen & Seltene Hodentumoren",
+      "kapitel": [
+        "10"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10: Sonderformen.\nInhalte:\n- Spermatozytischer Tumor (Besonderheiten im Alter, exzellente Prognose, keine Assoziation mit GCNIS).\n- \"Burned-out\" Hodentumor: Diagnostik und klinische Konsequenz.\n- Stromatumoren: Leydigzell- und Sertolizelltumoren – Malignitätskriterien, Organerhalt, hormonelle Aktivität und Lymphadenektomie.\nFormat & Moderation:\n- Urologischer Fachaustausch über seltene Differenzialdiagnosen für den Stationsalltag und Facharztprüfungen.\n- Präzise Abgrenzung zu klassischen Keimzelltumoren.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 14,
+      "stem": "HT_F14_NachsorgeMiRNA",
+      "titel": "Leitliniengerechte Nachsorge & miRNA",
+      "kapitel": [
+        "11"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 11: Nachsorge nach kurativer Therapie.\nInhalte:\n- Detaillierte Nachsorgeschemata: Bildgebungsintervalle (MRT vs. Niedrigdosis-CT) und Markerkontrollen in den Jahren 1 bis 5+.\n- Vermeidung von Strahlenbelastung bei jungen Männern (MRT Abdomen).\n- Serumtumormarkeranstieg in der Nachsorge: Was tun bei isoliertem, grenzwertigem Anstieg?\n- Innovation und Stellenwert neuer Biomarker: microRNA (miR-371a-3p) – Wo stehen wir in der Leitlinie?\n- Toxizitätsspezifische Nachsorge (kardiovaskulär, metabolisch).\nFormat & Moderation:\n- Praxisnaher Dialog zweier Assistenzärzte mit Blick auf Ambulanz und Praxis.\n- Geht auf Überwachungsmüdigkeit von jungen Patienten und Strahlenschutz ein.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 21
+    },
+    {
+      "folge": 15,
+      "stem": "HT_F15_ToxizitaetSurvivorship",
+      "titel": "Akute & chronische Toxizität, Survivorship",
+      "kapitel": [
+        "12"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 12: Toxizität, Management der Toxizität und supportive Maßnahmen.\nInhalte:\n- Akuttoxizitäten: Neutropenisches Fieber, Bleomycin-Pneumonitis, Thromboembolien.\n- Langzeitschäden: Sekundärmalignome, Leukämierisiko, vorzeitige kardiovaskuläre Morbidität, metabolisches Syndrom, Hypogonadismus.\n- Neurotoxizität, Ototoxizität (Cisplatin) und Raynaud-Phänomen (Bleomycin).\n- Fatigue-Syndrom und supportive Gegenmaßnahmen.\nFormat & Moderation:\n- Ernsthafter, fundierter Austausch zweier urologischer Kollegen über die Langzeitverantwortung bei geheilten Tumorpatienten.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 26
+    },
+    {
+      "folge": 16,
+      "stem": "HT_F16_LebensqualitaetPsychoonkologie",
+      "titel": "Lebensqualität, Rehabilitation & Psychoonkologie",
+      "kapitel": [
+        "13",
+        "14"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 13 und 14: Lebensqualität, Rehabilitation, Psychoonkologie und supportive Therapie.\nInhalte:\n- Erfassung der Lebensqualität (EORTC QLQ-TC26).\n- Spezifische Belastungen junger Männer: Body-Image, Sexualität, Ejakulationsverlust/Anejakulation, Partnerschaft und Zukunftsängste (\"Damoklesschwert\" Rezidivangst).\n- Cancer Survivorship Programme, Anschlussheilbehandlung (AHB) und psychoonkologische Frühintervention.\nFormat & Moderation:\n- Empathischer, aber fachlich exakter urologischer Dialog.\n- Hebt hervor, dass Onkologie nicht mit der Entlassung endet.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 23
+    },
+    {
+      "folge": 17,
+      "stem": "HT_F17_Qualitaetsindikatoren",
+      "titel": "Qualitätsindikatoren & Auditierung",
+      "kapitel": [
+        "15"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 15: Qualitätsindikatoren.\nInhalte:\n- Die konkreten Qualitätsindikatoren des Leitlinienprogramms Onkologie für Hodenkrebszentren.\n- Relevante Kennzahlen: Kryokonservierungsrate, Zweitmeinungsquote bei fortgeschrittenen Stadien, Einhaltung von Dosisintervallen, Nachweis von LVI im Pathologiebericht, Rate nervschonender RLAs.\nFormat & Moderation:\n- Kollegiales Gespräch zweier Assistenzärzte mit Blick auf Zertifizierungsaudits und Klinikorganisation.\n- Zeigt auf, warum Dokumentationsqualität direkten Einfluss auf das Patientenüberleben hat.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 6
+    },
+    {
+      "folge": 18,
+      "stem": "HT_F18_Forschungsluecken",
+      "titel": "Forschungslücken & Zukunftsfragen",
+      "kapitel": [
+        "16"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 16: Forschungslücken.\nInhalte:\n- Wo fehlen der aktuellen Leitlinie noch hochgradige randomisierte Studien?\n- Ungeklärte Fragen zur Deeskalation (z. B. Reduktion von CT-Untersuchungen durch miRNA).\n- Offene Punkte bei der Therapie von Teratomen und therapierefraktären Keimzelltumoren.\n- Zukünftige zielgerichtete Therapien und Immunonkologie beim Hodentumor.\nFormat & Moderation:\n- Inspirierender, wissenschaftlich anspruchsvoller Austausch zweier forschungsinteressierter Assistenzärzte.\n- Diskutiert kritisch den aktuellen Stand der Wissenschaft.\n- Schließt mit 3 prägnanten Take-home-Messages ab.",
+      "dauerMin": 7
+    },
+    {
+      "folge": 19,
+      "stem": "HT_F19_UpdateVersion2",
+      "titel": "Das Update – Wesentliche Änderungen der Version 2.0",
+      "kapitel": [
+        "17",
+        "Vorspann: Wesentliche Neuerungen"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 17 sowie den Abschnitt \"Wesentliche Neuerungen\" der Version 2.0.\nInhalte:\n- Direkter Vergleich: Was hat sich gegenüber der Vorversion geändert?\n- Neue Empfehlungsgrade bei der Überwachungsstrategie (Surveillance) im Stadium I.\n- Aktualisierte Nachsorgeschemata und Deeskalation von Schnittbildgebung.\n- Neue Rolle von Zentren, Zweitmeinungen und veränderten Chemotherapiestandards.\nFormat & Moderation:\n- Dynamisches \"Update-Spezial\" zweier Assistenzärzte kurz vor der Facharztprüfung.\n- Fokus: \"Was muss ich heute anders machen als vor 5 Jahren?\"\n- Schließt mit den 3 wichtigsten Neuerungen als finale Take-home-Messages ab.",
+      "dauerMin": 7
+    }
+  ]
+}

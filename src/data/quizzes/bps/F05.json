@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Patienten sollte die Strategie des kontrollierten Zuwartens laut Empfehlung 9.1 (Empfehlungsgrad B) in Erwägung gezogen werden?",
+    "options": [
+      "Für alle Patienten, unabhängig vom Leidensdruck.",
+      "Für Patienten mit geringem Leidensdruck und/oder der Bereitschaft und Fähigkeit, Lebensstiländerungen zur Symptomlinderung umzusetzen.",
+      "Nur für Patienten mit absoluter Operationsindikation.",
+      "Nur für Patienten über 80 Jahre."
+    ],
+    "correct": 1,
+    "tip": "Watchful Waiting setzt aktive Mitarbeit des Patienten voraus, ist also keine passive \"Nichtbehandlung\".",
+    "explanation": "Die Strategie des kontrollierten Zuwartens sollte bei Patienten mit geringem Leidensdruck und/oder Bereitschaft zu Lebensstiländerungen in Erwägung gezogen werden (Empfehlungsgrad B)."
+  },
+  {
+    "question": "Welche Patientengruppe ist laut Statement 9.4 NICHT für eine Strategie des kontrollierten Zuwartens geeignet?",
+    "options": [
+      "Patienten mit mehreren und/oder stark erhöhten Progressionsrisiken.",
+      "Patienten mit mildem IPSS.",
+      "Alle Patienten unter 60 Jahren.",
+      "Grundsätzlich alle Patienten, unabhängig vom Risikoprofil."
+    ],
+    "correct": 0,
+    "tip": "Je höher das Progressionsrisiko, desto weniger ist Zuwarten indiziert.",
+    "explanation": "Patienten mit zunehmenden, mehreren und/oder stark erhöhten Progressionsrisiken sind nicht für eine Strategie des kontrollierten Zuwartens geeignet (Statement 9.4, EK)."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 9.6 ein kontrolliertes Zuwarten NICHT erfolgen?",
+    "options": [
+      "Bei jedem milden IPSS-Wert.",
+      "Bei klinisch relevanter Obstruktion und/oder beim Vorliegen BPS-bedingter Komplikationen.",
+      "Nur bei Patienten über 50 Jahren.",
+      "Zuwarten ist immer möglich, unabhängig vom Befund."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung ergänzt die absoluten Operationsindikationen aus Kapitel 8.",
+    "explanation": "Ein kontrolliertes Zuwarten soll bei klinisch relevanter Obstruktion und/oder Vorliegen BPS-bedingter Komplikationen nicht erfolgen (Empfehlung 9.6, EK)."
+  },
+  {
+    "question": "Welchen Einfluss hat kontrolliertes Zuwarten laut Statement 9.5 auf die Entwicklung bzw. den Verlauf einer Blasenauslassobstruktion (BOO)?",
+    "options": [
+      "Es verbessert die BOO signifikant.",
+      "Kontrolliertes Zuwarten hat keinen Einfluss auf die Entwicklung bzw. den Verlauf einer BOO.",
+      "Es verschlechtert die BOO in jedem Fall deutlich.",
+      "Dieser Zusammenhang wurde nie untersucht."
+    ],
+    "correct": 1,
+    "tip": "Urodynamische Kontrollen über durchschnittlich 3,5 Jahre zeigten keine klinisch relevanten Veränderungen.",
+    "explanation": "Kontrolliertes Zuwarten hat laut Statement 9.5 keinen Einfluss auf die Entwicklung bzw. den Verlauf einer Blasenauslassobstruktion."
+  },
+  {
+    "question": "Welche tägliche Gesamtflüssigkeitsmenge wird im Rahmen der Verhaltensmaßnahmen beim kontrollierten Zuwarten typischerweise empfohlen?",
+    "options": [
+      "Ca. 500 ml pro 24 Stunden.",
+      "Ca. 1500 ml pro 24 Stunden, gleichmäßig über den Tag verteilt, mit Vermeidung übermäßiger Zufuhr am Abend.",
+      "Mindestens 4 Liter pro 24 Stunden.",
+      "Es gibt keine Empfehlung zur Flüssigkeitsmenge."
+    ],
+    "correct": 1,
+    "tip": "Eine zu starke Flüssigkeitsrestriktion kann bei irritativen Blasenbeschwerden die Symptome sogar verschlechtern.",
+    "explanation": "Zu den Verhaltensmaßnahmen zählt die Regulierung der Flüssigkeitszufuhr auf ca. 1500 ml/24h, gleichmäßig über den Tag verteilt, unter Vermeidung übermäßiger Zufuhr am Abend."
+  },
+  {
+    "question": "Bei wie viel Prozent der Männer mit unbehandeltem BPS kann es laut Leitlinie zu langfristigen Remissionen kommen?",
+    "options": [
+      "0%.",
+      "20-30%.",
+      "95%.",
+      "Remissionen sind beim BPS nicht beschrieben."
+    ],
+    "correct": 1,
+    "tip": "Dies ist eine wesentliche Begründung für die Watchful-Waiting-Strategie bei geringem Leidensdruck.",
+    "explanation": "Beim unbehandelten benignen Prostatasyndrom kann es bei 20-30% der Patienten zu langfristigen Remissionen mit geringem Progressions- bzw. Komplikationsrisiko kommen."
+  },
+  {
+    "question": "Was zeigten die großen Placebo-kontrollierten STEP- und CAMUS-Studien zu Sabal-/Serenoa-repens-Extrakten (Sägezahnpalme)?",
+    "options": [
+      "Eine deutliche Überlegenheit gegenüber Placebo bei allen gemessenen Parametern.",
+      "Keinen Unterschied im IPSS, Qmax, Restharn, Prostatavolumen, Lebensqualität oder PSA im Vergleich zur Placebo-Gruppe.",
+      "Eine signifikante Verschlechterung der Symptomatik unter Sabal-Extrakt.",
+      "Diese Studien existieren nicht."
+    ],
+    "correct": 1,
+    "tip": "Auch eine Dosiseskalation bis zur dreifachen Standarddosis zeigte keine Überlegenheit gegenüber Placebo.",
+    "explanation": "Weder in der STEP- noch in der CAMUS-Studie konnte ein Unterschied zur Placebo-Gruppe in IPSS, Qmax, Restharn, Prostatavolumen, Lebensqualität oder PSA nachgewiesen werden."
+  },
+  {
+    "question": "Warum lassen sich Studienergebnisse zu einem Phytotherapeutikum eines Herstellers nicht ohne Weiteres auf das Produkt eines anderen Herstellers übertragen?",
+    "options": [
+      "Weil alle Phytopräparate gesetzlich identisch standardisiert sind.",
+      "Weil die Zusammensetzung von Pflanzenextrakten nur teilweise definiert/standardisiert ist und sich je nach Extraktionsverfahren zwischen Herstellern unterscheiden kann, selbst bei derselben Pflanze.",
+      "Weil es weltweit nur einen einzigen Hersteller von Phytopräparaten gibt.",
+      "Dieses Problem betrifft ausschließlich synthetische Arzneimittel."
+    ],
+    "correct": 1,
+    "tip": "Unterschiedliche Extraktionsverfahren (z.B. Hexan vs. Ethanol) führen zu unterschiedlichen Wirkstoffanteilen.",
+    "explanation": "Da die Zusammensetzung von Pflanzenextrakten nur teilweise definiert und standardisiert ist, können Ergebnisse mit dem Extrakt eines Herstellers nicht automatisch auf das Produkt eines anderen Herstellers übertragen werden."
+  },
+  {
+    "question": "Welche Einstufung erhielt der französische, mittels Hexan hergestellte Serenoa-repens-Extrakt von der EMA im Vergleich zu den meisten in Deutschland verfügbaren, ethanolisch hergestellten Präparaten?",
+    "options": [
+      "Beide erhielten identisch die Einstufung \"well-established use\".",
+      "Der französische Hexan-Extrakt erhielt die Einstufung \"well-established medical use product\", während die ethanolischen Extrakte (die meisten deutschen Präparate) nur als \"traditional use\" eingestuft wurden.",
+      "Beide Extrakttypen wurden von der EMA als unwirksam eingestuft.",
+      "Nur deutsche Präparate erhielten eine EMA-Zulassung."
+    ],
+    "correct": 1,
+    "tip": "Das französische Präparat wird in Deutschland nicht angeboten.",
+    "explanation": "Die EMA hat bisher nur dem französischen, mit Hexan hergestellten Serenoa-Extrakt die Bezeichnung \"well-established medical use product\" zuerkannt; die meist in Deutschland erhältlichen ethanolischen Extrakte erhielten nur die Kennzeichnung \"traditional use\"."
+  },
+  {
+    "question": "Was zeigte die randomisierte, Placebo-kontrollierte GRANU-Studie zu Kürbissamen bei BPS?",
+    "options": [
+      "Weder Kürbissamen noch Kürbissamen-Extrakt zeigten irgendeinen Effekt.",
+      "Eine signifikante IPSS-Verbesserung bei zweimal täglich 5 g Kürbissamen gegenüber Placebo, jedoch nicht bei zweimal täglich 500 mg Kürbissamen-Extrakt in Kapselform.",
+      "Kürbissamen verschlechterten die Symptomatik signifikant gegenüber Placebo.",
+      "In der Studie wurde ausschließlich der Qmax untersucht."
+    ],
+    "correct": 1,
+    "tip": "Die Studie umfasste 1.431 Männer über 12 Monate.",
+    "explanation": "Die GRANU-Studie zeigte eine signifikante IPSS-Verbesserung bei zweimal täglich 5 g Kürbissamen gegenüber Placebo, nicht jedoch bei zweimal täglich 500 mg Kürbissamen-Extrakt in Kapselform."
+  }
+]

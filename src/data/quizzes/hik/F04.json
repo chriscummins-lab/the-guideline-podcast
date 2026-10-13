@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Formulierung von Antimuskarinika soll laut Leitlinie bevorzugt eingesetzt werden?",
+    "options": [
+      "Immediate-Release (IR) immer vor Extended-Release (ER).",
+      "Extended-Release (ER) soll IR vorgezogen werden.",
+      "Es gibt keinen Unterschied, beide sind gleich zu bevorzugen.",
+      "Nur die transdermale Form ist überhaupt zugelassen."
+    ],
+    "correct": 1,
+    "tip": "Die Formulierung mit verzögerter Wirkstofffreisetzung hat ein günstigeres Nebenwirkungsprofil.",
+    "explanation": "ER-Formulierungen sollen IR-Formulierungen vorgezogen werden, da IR-Formulierungen generell höhere Nebenwirkungsraten aufweisen."
+  },
+  {
+    "question": "Welches Antimuskarinikum soll aufgrund seines hohen Nebenwirkungsprofils, insbesondere kognitiver Beeinträchtigung, gemieden werden?",
+    "options": [
+      "Trospiumchlorid.",
+      "Fesoterodin.",
+      "Oxybutynin oral.",
+      "Solifenacin."
+    ],
+    "correct": 2,
+    "tip": "Dieses Medikament passiert die Blut-Hirn-Schranke besonders leicht und zeigt die höchste Nebenwirkungsrate unter den IR-Formulierungen.",
+    "explanation": "Oxybutynin oral soll aufgrund seines hohen Nebenwirkungsprofils gemieden werden; es zeigt einen deutlichen negativen Einfluss auf die kognitive Funktionsleistung, insbesondere bei älteren Patientinnen."
+  },
+  {
+    "question": "Was zeichnet Mirabegron im Vergleich zu Antimuskarinika hinsichtlich der Blasenfunktion aus?",
+    "options": [
+      "Es erhöht regelmäßig den Restharn durch Hemmung der Detrusorkontraktilität.",
+      "Es ist gleichwertig wirksam wie Antimuskarinika, ohne die Blasenkontraktilität (Restharn) zu beeinträchtigen.",
+      "Es wirkt ausschließlich über eine anticholinerge Blockade.",
+      "Es ist Placebo in allen Studien unterlegen."
+    ],
+    "correct": 1,
+    "tip": "Der Wirkmechanismus greift nicht an den Muskarinrezeptoren an, sondern an Beta-3-Adrenorezeptoren der glatten Blasenmuskulatur.",
+    "explanation": "Mirabegron ist Placebo überlegen und gleichwertig mit Antimuskarinika in der Verbesserung der überaktiven Blase, jedoch ohne Beeinträchtigung der Blasenkontraktilität (Restharn)."
+  },
+  {
+    "question": "Welche Patientinnengruppe profitiert laut Leitlinie bei ungenügender Wirkung von Antimuskarinika eher von einer Kombination mit Mirabegron als von einer Dosiseskalation?",
+    "options": [
+      "Patientinnen mit einer nicht ausreichenden Wirkung der antimuskarinergen Monotherapie.",
+      "Nur Patientinnen mit Belastungsinkontinenz ohne jede Drangsymptomatik.",
+      "Ausschließlich Patientinnen über 80 Jahre.",
+      "Patientinnen mit unbehandelter arterieller Hypertonie."
+    ],
+    "correct": 0,
+    "tip": "Statt die Dosis des bestehenden Wirkstoffs zu erhöhen, wird ein zweiter Wirkmechanismus ergänzt.",
+    "explanation": "Patientinnen, die mit Antimuskarinika ungenügend behandelt wurden, können mehr von der Zugabe von Mirabegron profitieren als von einer Dosiseskalation der Antimuskarinika."
+  },
+  {
+    "question": "Über welchen Mechanismus wirkt Duloxetin bei Belastungsinkontinenz?",
+    "options": [
+      "Es blockiert direkt die Muskarinrezeptoren des Detrusors.",
+      "Es verstärkt über eine Wiederaufnahmehemmung von Serotonin und Noradrenalin die Aktivität der motorischen Pudendusnerven (Onuf-Kern) und erhöht so Ruhetonus und Kontraktionskraft des quergestreiften Sphinkters.",
+      "Es wirkt als Beta-3-Adrenorezeptor-Agonist direkt an der Blasenmuskulatur.",
+      "Es ersetzt direkt das fehlende Östrogen in der Urethralschleimhaut."
+    ],
+    "correct": 1,
+    "tip": "Der Wirkort liegt auf Rückenmarksebene am Kerngebiet, das den äußeren Schließmuskel innerviert.",
+    "explanation": "Duloxetin verhindert die präsynaptische Wiederaufnahme von Serotonin und Noradrenalin, was zu einer verstärkten Stimulation der motorischen Pudendusnerven (Onuf) und damit zu erhöhtem Ruhetonus und Kontraktionskraft des quergestreiften Urethralsphinkters führt."
+  },
+  {
+    "question": "Wie soll die Duloxetin-Therapie laut Leitlinie begonnen und beendet werden, um Nebenwirkungen zu reduzieren?",
+    "options": [
+      "Sofort in voller Zieldosis beginnen und bei Bedarf abrupt absetzen.",
+      "Einschleichend begonnen und bei Therapieabbruch langsam wieder ausgeschlichen werden.",
+      "Nur als einmalige Gabe ohne weitere Einnahme.",
+      "Immer in fester Kombination mit Oxybutynin."
+    ],
+    "correct": 1,
+    "tip": "Viele der gastrointestinalen und zentralnervösen Nebenwirkungen treten vor allem in den ersten Wochen auf.",
+    "explanation": "Zur Reduktion der Rate an Nebenwirkungen soll die Duloxetin-Therapie einschleichend begonnen und bei Therapieabbruch wieder langsam ausgeschlichen werden."
+  },
+  {
+    "question": "Welchen Effekt hat eine systemische Hormonersatztherapie (HRT) mit konjugierten Östrogenen auf eine Harninkontinenz?",
+    "options": [
+      "Sie verbessert zuverlässig jede Form der Harninkontinenz.",
+      "Sie kann eine Harninkontinenz verschlechtern oder neu auslösen und ist zu deren Behandlung nicht geeignet.",
+      "Sie hat ausschließlich einen positiven Effekt bei Belastungsinkontinenz.",
+      "Sie wird als Erstlinientherapie der Dranginkontinenz empfohlen."
+    ],
+    "correct": 1,
+    "tip": "Hier gilt das Gegenteil der lokalen vaginalen Anwendung.",
+    "explanation": "Eine systemische Gabe von konjugierten Östrogenen zur Hormonersatztherapie verschlechtert eine Inkontinenz; die systemische Östradioltherapie ist zur Behandlung von Beckenbodenfunktionsstörungen wie Harninkontinenz nicht geeignet."
+  },
+  {
+    "question": "Welche Therapie wird bei postmenopausalen Frauen mit Harninkontinenz (insbesondere Dranginkontinenz) und vulvovaginaler Atrophie als starke Empfehlung ausgesprochen?",
+    "options": [
+      "Eine langfristige vaginale Östriolgabe.",
+      "Eine kurzfristige systemische Östrogengabe über 2 Wochen.",
+      "Eine alleinige orale Hormonersatztherapie mit konjugierten equinen Östrogenen.",
+      "Grundsätzlich keine Hormontherapie bei Harninkontinenz."
+    ],
+    "correct": 0,
+    "tip": "Lokal und langfristig – anders als bei der systemischen Variante.",
+    "explanation": "Eine vaginale Östriolgabe bei postmenopausalen Frauen mit Harninkontinenz und vulvovaginaler Atrophie soll durchgeführt werden; die Anwendung soll langfristig erfolgen."
+  },
+  {
+    "question": "Für welche Indikation ist Desmopressin laut Leitlinie streng vorgesehen?",
+    "options": [
+      "Für jede Form der Dranginkontinenz, unabhängig von der Ursache.",
+      "Für die Nykturie aufgrund einer nächtlichen Polyurie durch Mangel an Arginin-Vasopressin.",
+      "Als Erstlinientherapie der Belastungsinkontinenz.",
+      "Zur dauerhaften Kombinationstherapie mit jedem Antimuskarinikum bei überaktiver Blase."
+    ],
+    "correct": 1,
+    "tip": "Es geht um eine gestörte nächtliche Hormonsekretion, die zu übermäßiger nächtlicher Urinproduktion führt – nicht um die überaktive Blase an sich.",
+    "explanation": "Die Nykturie aufgrund einer nächtlichen Polyurie durch Mangel von Arginin-Vasopressin soll mit Desmopressin behandelt werden, wenn Patientinnen die Nykturie als störend empfinden. Patientinnen mit überaktiver Blase und Nykturie ohne nachgewiesene nächtliche Polyurie sollen dagegen nicht zusätzlich mit Desmopressin behandelt werden."
+  },
+  {
+    "question": "Wann soll die Natriumkonzentration im Serum bei einer Desmopressin-Therapie kontrolliert werden?",
+    "options": [
+      "Nie, eine Kontrolle ist nicht notwendig.",
+      "Mindestens nach einer Woche und nach einem Monat.",
+      "Nur einmalig vor Therapiebeginn.",
+      "Nur bei Auftreten von Kopfschmerzen."
+    ],
+    "correct": 1,
+    "tip": "Das Risiko einer gefährlichen Elektrolytstörung ist zu Beginn der Behandlung am höchsten, besonders bei älteren Patientinnen.",
+    "explanation": "Die Natriumkonzentration im Serum soll vor und während der Desmopressin-Therapie mindestens nach einer Woche und einem Monat kontrolliert werden, um eine Hyponatriämie auszuschließen."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche zwei bevorzugten Therapieoptionen nennt Empfehlung 8.23 für Patienten mit Seminom im bildgebend verifiziertem Stadium IIA?",
+    "options": [
+      "Eine deeskalierte Radiochemotherapie (1 Zyklus Carboplatin AUC7 + 30 Gy involved node Radiotherapie) oder eine retroperitoneale Lymphadenektomie in hochspezialisierten Zentren.",
+      "Ausschließlich 4 Zyklen BEP als alleinige Standardtherapie.",
+      "Eine alleinige Watchful-Waiting-Strategie ohne jede Therapie.",
+      "Eine primäre Ablatio testis, gefolgt von 30 Gy Ganzabdomenbestrahlung."
+    ],
+    "correct": 0,
+    "tip": "Die klassischen Standardtherapien (3x PEB oder Strahlentherapie mit 30 Gy) sollen aufgrund möglicher Toxizitäten zurückhaltend eingesetzt werden.",
+    "explanation": "Empfehlung 8.23 (Grad A/B) nennt als bevorzugte Optionen die deeskalierte Radiochemotherapie analog SAKK 01/10 (1 Zyklus Carboplatin AUC7 + 30 Gy involved node Radiotherapie) oder die retroperitoneale Lymphadenektomie in hochspezialisierten Zentren."
+  },
+  {
+    "question": "Welche Chemotherapie sollen Patienten mit Seminom im klinischen Stadium IIB laut Empfehlung 8.24 erhalten?",
+    "options": [
+      "3 Zyklen PEB oder bei Kontraindikation gegen Bleomycin 4 Zyklen PE.",
+      "6 Zyklen BEP wie bei schlechter IGCCCG-Prognosegruppe.",
+      "1 Zyklus Carboplatin AUC7 als alleinige Therapie ohne weitere Option.",
+      "Eine alleinige Hochdosis-Chemotherapie mit Stammzelltransplantation."
+    ],
+    "correct": 0,
+    "tip": "Ausgewählte Patienten können alternativ mit einer deeskalierten Radiochemotherapie oder einer RLA behandelt werden.",
+    "explanation": "Empfehlung 8.24 (Grad A/0) sieht für Patienten mit Seminom im Stadium IIB eine Chemotherapie mit 3 Zyklen PEB bzw. bei Bleomycin-Kontraindikation 4 Zyklen PE vor."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.25 bei Verdacht auf Seminom im klinischen Stadium IIA mit nicht erhöhten Serumtumormarkern vor einer Therapieentscheidung erfolgen?",
+    "options": [
+      "Eine sofortige Ablatio testis bei kontralateralem Hoden.",
+      "Eine Wiederholung der Bildgebung und Serumtumormarker nach 6 bis 8 Wochen.",
+      "Der unmittelbare Beginn einer Radiochemotherapie ohne weitere Kontrolle.",
+      "Eine primäre Chemotherapie mit 4 Zyklen BEP."
+    ],
+    "correct": 1,
+    "tip": "Prospektive Studien zeigten in bis zu 22% der Fälle eine benigne Histologie nach durchgeführter RLA – ein falsch-positiver radiologischer Befund ist also nicht selten.",
+    "explanation": "Empfehlung 8.25 (starker Konsens) fordert bei Verdacht auf cSIIA mit nicht erhöhten Tumormarkern eine Wiederholung von Bildgebung und Serumtumormarkern nach 6–8 Wochen vor der Therapieentscheidung, um ein falsch-positives Bildgebungsergebnis auszuschließen."
+  },
+  {
+    "question": "Welche Rationale verfolgt die SAKK 01/10-Studie beim Seminom im Stadium IIA/B mit der deeskalierten Radiochemotherapie?",
+    "options": [
+      "Kumulative hohe Chemotherapiedosen und große Bestrahlungsvolumina zu vermeiden, indem nur die befallenen Lymphknoten (involved node) mit geringem Sicherheitssaum bestrahlt werden.",
+      "Die Bestrahlungsdosis gegenüber dem klassischen 'Hockey-Stick'-Feld auf das Vierfache zu erhöhen.",
+      "Vollständig auf jede Form von Chemotherapie zu verzichten.",
+      "Ausschließlich das Risiko einer Infertilität zu minimieren, ohne Bezug zu sekundären Malignomen."
+    ],
+    "correct": 0,
+    "tip": "Das Bestrahlungsvolumen lag im Schnitt bei nur etwa einem Viertel eines üblichen 'Hockey-Stick'-Feldes.",
+    "explanation": "Die SAKK 01/10-Studie zielt darauf ab, kumulative hohe Chemotherapiedosen bzw. große Bestrahlungsvolumina durch eine abgeschwächte kombinierte Radiochemotherapie mit involved-node-Bestrahlung zu ersetzen, mit einem progressionsfreien Überleben von knapp 94% nach mindestens 3 Jahren."
+  },
+  {
+    "question": "Wie hoch war die Rate an schweren Komplikationen (Grad ≥3 nach Clavien-Dindo) in den prospektiven RLA-Studien (PRIMETEST, COTRIMS, SEMS) beim Seminom im Stadium IIA/B, und wie hoch war die antegrade Ejakulationsrate nach nervschonender Technik?",
+    "options": [
+      "7–13% schwere Komplikationen bei einer antegraden Ejakulationsrate von 90–94%.",
+      "50% schwere Komplikationen bei einer Ejakulationsrate von nur 20%.",
+      "0% Komplikationen bei 100% Ejakulationserhalt.",
+      "30% schwere Komplikationen bei vollständigem Ejakulationsverlust in allen Fällen."
+    ],
+    "correct": 0,
+    "tip": "Trotz der insgesamt guten funktionellen Ergebnisse wurden Rezidive in allen drei Studien beobachtet, die jedoch durchweg erfolgreich mit Standard-Chemotherapie behandelt werden konnten.",
+    "explanation": "Die Rate schwerer Komplikationen (Grad ≥3) lag zwischen 7% und 13%, die antegrade Ejakulationsrate nach nervschonender Operation bei 90–94%; alle aufgetretenen Rezidive wurden erfolgreich mit Standard-Chemotherapie (3x PEB oder 4x PE) behandelt."
+  },
+  {
+    "question": "Wie sollen Patienten mit nichtseminomatösem KZT im klinischen Stadium II und erhöhten Serumtumormarkern laut Empfehlung 8.26 behandelt werden?",
+    "options": [
+      "Entsprechend ihrer IGCCCG-Prognosegruppe mittels Chemotherapie; bei Residualtumor > 1 cm nach Chemotherapie soll eine Residualtumorresektion erfolgen.",
+      "Ausschließlich durch eine primäre retroperitoneale Lymphadenektomie, unabhängig vom Markerstatus.",
+      "Durch eine alleinige Überwachung bis zum sicheren Progress.",
+      "Durch eine alleinige lokale Strahlentherapie des Retroperitoneums."
+    ],
+    "correct": 0,
+    "tip": "Erhöhte Marker (AFP/Beta-hCG) sprechen für ein hohes Risiko einer bereits systemischen Erkrankung.",
+    "explanation": "Empfehlung 8.26 (Grad A) sieht bei nichtseminomatösem KZT im Stadium II mit erhöhten Serumtumormarkern eine Chemotherapie entsprechend der IGCCCG-Prognosegruppe vor, mit Residualtumorresektion bei Resttumor > 1 cm nach Chemotherapie."
+  },
+  {
+    "question": "Welche Besonderheit gilt laut Empfehlung 8.28 für Patienten mit nichtseminomatösem KZT, deren Primärtumor ein reines Teratom aufweist?",
+    "options": [
+      "Bei ihnen soll primär eine retroperitoneale Lymphadenektomie erfolgen.",
+      "Bei ihnen ist grundsätzlich keine weitere Therapie notwendig, unabhängig vom Befund.",
+      "Bei ihnen soll primär eine systemische Chemotherapie mit 4 Zyklen BEP erfolgen.",
+      "Bei ihnen ist eine Strahlentherapie des Retroperitoneums die Therapie der ersten Wahl."
+    ],
+    "correct": 0,
+    "tip": "Reine Teratome sprechen in der Regel nicht auf Chemotherapie an, weshalb hier die chirurgische Entfernung im Vordergrund steht.",
+    "explanation": "Empfehlung 8.28 sieht vor, dass bei Patienten, deren Primärtumor ein reines Teratom aufweist, primär eine retroperitoneale Lymphadenektomie erfolgen soll, da reine Teratome chemotherapieresistent sind."
+  },
+  {
+    "question": "Was gilt laut Leitlinientext für Patienten mit nichtseminomatösem KZT im cSII mit nicht erhöhten Serumtumormarkern, insbesondere im Stadium cSIIA?",
+    "options": [
+      "Es besteht eine diagnostische Unsicherheit – bis zu einem Drittel der Befunde im cSIIA erweist sich als nicht maligne.",
+      "Es besteht absolute diagnostische Sicherheit, da Tumormarker beim Nichtseminom immer erhöht sind.",
+      "Eine sofortige Chemotherapie ist in jedem Fall indiziert.",
+      "Eine Ablatio testis der Gegenseite ist obligat."
+    ],
+    "correct": 0,
+    "tip": "Entsprechend wird zunächst eine engmaschige Überwachung mit Markerkontrollen und kurzfristiger Bildgebungskontrolle nach 6–8 Wochen empfohlen.",
+    "explanation": "Bei nicht erhöhten Serumtumormarkern besteht im cSII eine diagnostische Unsicherheit; insbesondere im cSIIA ist in bis zu einem Drittel der Fälle keine Malignität vorhanden, sodass zunächst überwacht und erst bei eindeutiger Progression therapiert wird."
+  },
+  {
+    "question": "Auf welche Rezidivrate kann das Risiko nach primärer RLA bei pN1-Patienten (nichtseminomatöser KZT) durch Erweiterung auf ein bilaterales modifiziertes Template gesenkt werden, verglichen mit einem rein unilateralen Template?",
+    "options": [
+      "Von 1–11% (unilateral) auf 2–3% (erweitert).",
+      "Von 2–3% (unilateral) auf 1–11% (erweitert) – paradox erhöht.",
+      "Es gibt keinen Unterschied zwischen den Template-Varianten.",
+      "Von 50% auf 0%."
+    ],
+    "correct": 0,
+    "tip": "Die alleinige Entfernung nur der bildmorphologisch auffälligen Lymphknoten birgt dagegen ein erhöhtes Rezidivrisiko.",
+    "explanation": "Bei einem unilateralen modifizierten Template liegt die Rezidivrate für pN1-Patienten bei 1–11%; durch Einbeziehung weiterer definierter Lymphknotenregionen kann das Risiko auf 2–3% gesenkt werden."
+  },
+  {
+    "question": "Wie verändert sich die Rezidivrate bei Patienten mit vitalem Keimzelltumor im RLA-Präparat (nichtseminomatöser KZT, Stadium II), wenn zwei Zyklen adjuvante Chemotherapie mit PE statt alleiniger Überwachung erfolgen?",
+    "options": [
+      "Ohne adjuvante Chemotherapie bleiben 60–90% tumorfrei; mit zwei Zyklen PE sinkt die Rezidivrate auf unter 2%.",
+      "Die Rezidivrate bleibt in beiden Gruppen bei exakt 50%.",
+      "Ohne Chemotherapie bleiben nur 5% tumorfrei, mit Chemotherapie 100%.",
+      "Adjuvante Chemotherapie erhöht die Rezidivrate gegenüber reiner Überwachung."
+    ],
+    "correct": 0,
+    "tip": "Beide Strategien – Überwachung oder adjuvante Chemotherapie – kommen bei vitalem Tumor im Resektat grundsätzlich infrage.",
+    "explanation": "Ohne adjuvante Chemotherapie bleiben 60–90% der Patienten mit vitalem Tumor im RLA-Präparat tumorfrei; zwei Zyklen adjuvante Chemotherapie mit PE senken die Rezidivrate auf unter 2%."
+  }
+]

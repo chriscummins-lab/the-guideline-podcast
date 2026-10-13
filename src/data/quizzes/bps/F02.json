@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll die Anamnese bei Verdacht auf benignes Prostatasyndrom laut Empfehlung 5.1 umfassen?",
+    "options": [
+      "Ausschließlich Fragen zur Miktionsfrequenz.",
+      "Fragen zu Symptomen des unteren Harntrakts, Harninkontinenz, Trink-/Miktionsverhalten, Lebensstil, Sexualität, Darmfunktion, Medikamenteneinnahme sowie Vorerkrankungen/-operationen.",
+      "Ausschließlich die Familienanamnese.",
+      "Nur die Frage nach Blut im Urin."
+    ],
+    "correct": 1,
+    "tip": "Die Anamnese bildet laut Leitlinie die Grundlage der gesamten BPS-Diagnostik.",
+    "explanation": "Die Anamnese soll Fragen zur Qualität und Quantität von LUTS, Harninkontinenz, Trink- und Miktionsverhalten, Lebensstil, Sexualität, Darmfunktion, Medikamenteneinnahme sowie Vor­erkrankungen und -operationen enthalten (Empfehlung 5.1, EK)."
+  },
+  {
+    "question": "Wofür ist der Internationale Prostata-Symptomenscore (IPSS) laut Leitlinie geeignet – und wofür nicht?",
+    "options": [
+      "Er ist zur Diagnosestellung des BPS geeignet.",
+      "Er ist zur Quantifizierung von Symptomen und Lebensqualität geeignet, jedoch NICHT zur Diagnosestellung.",
+      "Er ersetzt die körperliche Untersuchung vollständig.",
+      "Er misst ausschließlich die Prostatagröße."
+    ],
+    "correct": 1,
+    "tip": "Der IPSS ist zudem nicht krankheitsspezifisch für das BPS.",
+    "explanation": "Laut Statement 5.4 ist der IPSS-Fragebogen nur zur Quantifizierung von Symptomen und Lebensqualität, nicht aber zur Diagnosestellung geeignet."
+  },
+  {
+    "question": "Wie ist der IPSS-Score hinsichtlich des Schweregrads unterteilt?",
+    "options": [
+      "Mild (0 Punkte), moderat (1-10 Punkte), schwer (>10 Punkte).",
+      "Mild (Summe 1-7), moderat (Summe 8-19), schwer (Summe 20-35).",
+      "Es gibt laut Leitlinie keine Schweregrad-Einteilung.",
+      "Nur mild und schwer als einzige zwei Kategorien, ohne moderate Stufe."
+    ],
+    "correct": 1,
+    "tip": "Der Gesamtwert wird aus den ersten sieben der acht IPSS-Fragen gebildet.",
+    "explanation": "Der IPSS-Summenwert (0-35, aus den ersten 7 Fragen) wird als mild (1-7), moderat (8-19) oder schwer (20-35) eingeteilt; die 8. Frage erfasst separat die Lebensqualität."
+  },
+  {
+    "question": "Welche Aussage zur Urin-Teststreifenuntersuchung zur Differenzialdiagnostik des BPS trifft laut Empfehlung 5.7 (Empfehlungsgrad A) zu?",
+    "options": [
+      "Sie ist das Referenzverfahren und soll routinemäßig zur BPS-Diagnose eingesetzt werden.",
+      "Es existiert ungenügend Evidenz, um die ausschließlich mittels Teststreifen durchgeführte Urinanalyse zur differenzialdiagnostischen Abgrenzung des BPS zu empfehlen; bei auffälligem Resultat soll weiterführende Diagnostik erfolgen.",
+      "Der Teststreifen ersetzt die Urinkultur vollständig.",
+      "Teststreifen sind nur bei Frauen validiert und bei Männern generell nicht anwendbar."
+    ],
+    "correct": 1,
+    "tip": "Mehrere Studien zeigten nur moderate Sensitivitäten/Spezifitäten des Teststreifens für den Harnwegsinfekt-Nachweis.",
+    "explanation": "Es existiert ungenügend Evidenz für den alleinigen Urin-Teststreifen zur differenzialdiagnostischen Abgrenzung des BPS; bei auffälligen Resultaten soll weiterführende Diagnostik erfolgen (Empfehlungsgrad A)."
+  },
+  {
+    "question": "Welche drei Gründe machen die Messung der PSA-Konzentration bei BPS-Patienten wichtig?",
+    "options": [
+      "Nur die Abschätzung des Prostatavolumens.",
+      "Als Proxy-Parameter für das Prostatavolumen, in der Differenzialdiagnostik zum Prostatakarzinom und zur Abschätzung des Progressionsrisikos.",
+      "Ausschließlich die Verlaufskontrolle nach einer Operation.",
+      "PSA hat laut Leitlinie keine Bedeutung beim BPS."
+    ],
+    "correct": 1,
+    "tip": "Alle drei Rollen sind im Kapitel zur PSA-Diagnostik explizit benannt.",
+    "explanation": "Die PSA-Messung ist wichtig als Proxy-Parameter zur Abschätzung des Prostatavolumens, in der Differenzialdiagnostik zum Prostatakarzinom und zur Abschätzung des BPS-Progressionsrisikos."
+  },
+  {
+    "question": "Welches Restharnvolumen gilt bei Männern mit BPS laut Leitlinie als normal, und ab welchem Wert spricht man im englischen Schrifttum von \"chronischer Retention\"?",
+    "options": [
+      "Normal bis 50 ml; chronische Retention ab >300 ml.",
+      "Normal bis 500 ml; chronische Retention ab >1000 ml.",
+      "Es gibt laut Leitlinie keinen definierten Normwert.",
+      "Normal bis 10 ml; chronische Retention ab >50 ml."
+    ],
+    "correct": 0,
+    "tip": "Restharn >300 ml spricht eher für eine Detrusorunteraktivität als für eine Obstruktion.",
+    "explanation": "Bei BPS-Patienten gilt Restharn bis 50 ml als normal; Restharnmengen >300 ml werden im englischen Schrifttum als chronische Retention bezeichnet und sind eher Zeichen einer Detrusorunteraktivität."
+  },
+  {
+    "question": "Kann anhand der alleinigen Restharnmenge zwischen Blasenauslassobstruktion (BOO) und Detrusorunteraktivität unterschieden werden?",
+    "options": [
+      "Ja, eindeutig und zuverlässig.",
+      "Nein – mit der Restharnbestimmung kann nicht zwischen BOO und Detrusorunteraktivität unterschieden werden; die diagnostische Sicherheit der Druck-Fluss-Messung wird keinesfalls erreicht.",
+      "Nur bei Restharn unter 50 ml ist eine Unterscheidung zuverlässig möglich.",
+      "Diese Unterscheidung ist nur bei Frauen relevant."
+    ],
+    "correct": 1,
+    "tip": "Im Mittel weisen nur ca. 44% der Patienten mit erhöhtem Restharn überhaupt eine mechanische BOO auf.",
+    "explanation": "Statement 5.11 besagt explizit, dass mit der Restharnbestimmung nicht zwischen BOO und Detrusorunteraktivität unterschieden werden kann und die diagnostische Sicherheit der Druck-Fluss-Messung keinesfalls erreicht wird."
+  },
+  {
+    "question": "Mit welchem Verfahren soll laut Empfehlung 5.19 (Empfehlungsgrad A) die Volumenbestimmung der Prostata primär erfolgen?",
+    "options": [
+      "Mit der digito-rektalen Untersuchung allein.",
+      "Mit dem transrektalen Ultraschall (TRUS), da dieser eine verlässliche Methode mit klarem Überblick über Prostata und Parenchym bietet.",
+      "Ausschließlich mittels Computertomografie.",
+      "Mittels PSA-Wert allein, ohne jede Bildgebung."
+    ],
+    "correct": 1,
+    "tip": "Der transabdominelle/suprapubische Ultraschall ist nur die Alternative bei Kontraindikationen oder Ablehnung des TRUS.",
+    "explanation": "Die Volumenbestimmung soll mit transrektalem Ultraschall erfolgen, da dieser eine verlässliche Methode mit klarem und vollständigem Überblick über Prostata und Parenchym ist (Empfehlungsgrad A)."
+  },
+  {
+    "question": "Welcher Grenzwert der intravesikalen prostatischen Protrusion (IPP) zeigt eine diagnostische Genauigkeit vergleichbar mit der Uroflowmetrie zur Bestimmung einer Blasenauslassobstruktion?",
+    "options": [
+      "IPP >1 mm.",
+      "IPP >10 mm.",
+      "IPP >50 mm.",
+      "Die IPP hat laut Leitlinie keinen diagnostischen Wert."
+    ],
+    "correct": 1,
+    "tip": "Die IPP wird in drei Grade eingeteilt: Grad 1 (≤5 mm), Grad 2 (>5-10 mm), Grad 3 (>10 mm).",
+    "explanation": "Eine IPP >10 mm zeigt eine hohe diagnostische Genauigkeit vergleichbar mit der Uroflowmetrie zur Bestimmung einer BOO (Empfehlung 5.21, Empfehlungsgrad B)."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 5.23 eine sonografische Untersuchung des oberen Harntrakts erfolgen?",
+    "options": [
+      "Routinemäßig bei jedem gesunden Mann unabhängig vom Befund.",
+      "Bei jedem Patienten mit Verdacht auf BPS bei Vorliegen von klinisch relevantem Restharn und/oder hohen intravesikalen Drücken.",
+      "Nur bei bereits bestehender Niereninsuffizienz.",
+      "Diese Untersuchung wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 1,
+    "tip": "So kann eine Dilatation des oberen Harntrakts schon vor einem Kreatininanstieg erkannt werden.",
+    "explanation": "Eine sonografische Untersuchung des oberen Harntrakts soll bei jedem Patienten mit BPS-Verdacht bei klinisch relevantem Restharn und/oder hohen intravesikalen Drücken durchgeführt werden (Empfehlung 5.23, EK)."
+  }
+]

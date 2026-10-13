@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche beiden Kapitel wurden im Rahmen der Version 2.0 (Teilaktualisierung) laut dem Hinweis zur Aktualisierung vollständig überarbeitet, während die übrigen Kapitel noch im Aktualisierungsprozess für Version 3.0 sind?",
+    "options": [
+      "Kapitel 8 ('Primär- und Erstlinientherapie') und Kapitel 11 ('Nachsorge nach kurativer Therapie').",
+      "Kapitel 2 ('Einführung') und Kapitel 5 ('Pathologische Klassifikation').",
+      "Kapitel 9 ('Rezidive') und Kapitel 15 ('Qualitätsindikatoren').",
+      "Alle 17 Kapitel der Leitlinie wurden gleichermaßen vollständig überarbeitet."
+    ],
+    "correct": 0,
+    "tip": "Die übrigen Kapitel werden erst nach Abschluss der systematischen Evidenzaufarbeitung in einer zukünftigen Version 3.0 veröffentlicht.",
+    "explanation": "Version 2.0 stellt eine Teilaktualisierung dar, bei der ausschließlich Kapitel 8 (Primär- und Erstlinientherapie) und Kapitel 11 (Nachsorge nach kurativer Therapie) auf Grundlage aktueller Evidenz vollständig überarbeitet wurden."
+  },
+  {
+    "question": "Welche zwei neuen Empfehlungen (8.1 und 8.2) wurden erstmals in Version 2.0 zur primären operativen Versorgung aufgenommen?",
+    "options": [
+      "Das Angebot der Kryokonservierung vor Ablatio testis für alle Patienten und das Angebot eines Hodenimplantats vor Ablatio testis für alle Patienten.",
+      "Die obligate bilaterale Orchiektomie bei jedem Patienten.",
+      "Der Verzicht auf jede Form der Fertilitätsberatung.",
+      "Eine obligate präoperative Chemotherapie vor jeder Ablatio testis."
+    ],
+    "correct": 0,
+    "tip": "Beide Empfehlungen betonen die Wichtigkeit, diese Themen bereits vor der Ablatio testis aktiv anzusprechen.",
+    "explanation": "Neu in Version 2.0 sind Empfehlung 8.1 (Kryokonservierung vor Ablatio testis für alle Patienten) und Empfehlung 8.2 (Angebot eines Hodenimplantats vor Ablatio testis für alle Patienten)."
+  },
+  {
+    "question": "Welche grundlegende Änderung erfolgte laut Vorspann 'Wesentliche Neuerungen' bei der Risikostratifizierung des Seminoms im klinischen Stadium I?",
+    "options": [
+      "Überarbeitung mit aktualisierten Risikofaktoren und stärkerer Gewichtung der Überwachungsstrategie; die Empfehlungen zur adjuvanten Therapie wurden entsprechend angepasst.",
+      "Die Risikostratifizierung wurde komplett abgeschafft, da sie als nicht mehr relevant gilt.",
+      "Es wurde erstmals eine obligate adjuvante Chemotherapie für alle Stadium-I-Patienten eingeführt.",
+      "Die Tumorgröße wurde als Risikofaktor komplett aus der Bewertung entfernt."
+    ],
+    "correct": 0,
+    "tip": "Dies zeigt sich konkret in der Anpassung der Empfehlungen 8.13 bis 8.17 im Vergleich zur Vorversion.",
+    "explanation": "Die wichtigsten Neuerungen beschreiben eine Überarbeitung der Risikostratifizierung im Stadium I des Seminoms mit aktualisierten Risikofaktoren und stärkerer Gewichtung der Überwachungsstrategie, mit entsprechend angepassten Empfehlungen zur adjuvanten Therapie."
+  },
+  {
+    "question": "Welche grundlegende Neuerung betrifft laut Vorspann die Therapie von Seminomen im Stadium II in Version 2.0?",
+    "options": [
+      "Neue deeskalierte Therapiekonzepte, die retroperitoneale Lymphadenektomie als Option in ausgewählten Situationen sowie neue Empfehlungen bei unklaren bildgebenden Befunden.",
+      "Der vollständige Verzicht auf jede systemische Therapie im Stadium II.",
+      "Eine Verdopplung der Standard-Strahlendosis auf 60 Gy.",
+      "Die Abschaffung der Chemotherapie-Option zugunsten einer ausschließlichen Operation."
+    ],
+    "correct": 0,
+    "tip": "Dazu gehören insbesondere die Radiochemotherapie nach SAKK-01/10 und die primäre nervschonende RLA.",
+    "explanation": "Die wichtigsten Neuerungen beschreiben eine grundlegende Aktualisierung der Therapieempfehlungen für Seminome im Stadium II, einschließlich neuer deeskalierender Konzepte, der RLA als Option sowie neuer Empfehlungen bei unklaren bildgebenden Befunden."
+  },
+  {
+    "question": "Welche Neuerung betrifft laut Vorspann die systemische Therapie metastasierter Keimzelltumoren allgemein?",
+    "options": [
+      "Präzisierung der Chemotherapieregime entsprechend den IGCCCG-Prognosegruppen, differenziertere Empfehlungen zum Bleomycin-Einsatz und stärkere Konzentration komplexer Therapien auf Expertenzentren.",
+      "Die vollständige Abschaffung von Cisplatin als Therapiebestandteil.",
+      "Eine generelle Reduktion aller Chemotherapiezyklen auf einen einzigen Zyklus.",
+      "Der Ersatz aller Chemotherapieschemata durch reine Immuntherapie."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt sich unter anderem in den detaillierten Empfehlungen zu PEB, PEI und den Wachstumsfaktor-Einsätzen wider.",
+    "explanation": "Die Aktualisierung umfasst eine Präzisierung der Chemotherapieregime nach IGCCCG-Prognosegruppen, differenziertere Bleomycin-Empfehlungen und eine stärkere Konzentration komplexer Therapien auf Expertenzentren."
+  },
+  {
+    "question": "Was wurde laut Vorspann hinsichtlich des Nachsorgekapitels grundlegend überarbeitet, inklusive eines neuen Biomarkers?",
+    "options": [
+      "Neue risikoadaptierte Nachsorgeempfehlungen mit stärkerer Nutzung der MRT zur Reduktion der Strahlenexposition sowie erstmalige Empfehlungen zum Einsatz der miRNA-371a-3p als ergänzendem Biomarker.",
+      "Die komplette Abschaffung jeder Nachsorge nach Therapieabschluss.",
+      "Die Einführung einer monatlichen PET/CT für alle Patienten über 10 Jahre.",
+      "Der Verzicht auf jede Form von Serumtumormarker-Bestimmung in der Nachsorge."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich wurden die Nachsorgetabellen überarbeitet und vereinheitlicht, um Untersuchungsmodalitäten und Intervalle übersichtlicher darzustellen.",
+    "explanation": "Das Nachsorgekapitel wurde grundlegend überarbeitet mit neuen risikoadaptierten Empfehlungen, stärkerer MRT-Nutzung zur Strahlenreduktion und der erstmaligen Integration der miRNA-371a-3p als ergänzendem Biomarker."
+  },
+  {
+    "question": "Wie veränderte sich laut der Änderungstabelle (Tabelle 31) die Formulierung zur GCNIS-Progressionsrate unter Beobachtung von Version 1.0 zu Version 2.0 (alte Empfehlung 8.2 → neue 8.4)?",
+    "options": [
+      "Beide Versionen nennen übereinstimmend eine Progressionsrate von etwa 50% innerhalb von 5 Jahren – die Aussage wurde lediglich als 'modifiziert 2026' gekennzeichnet, ohne inhaltliche Änderung der Kernzahl.",
+      "Die neue Version änderte die Progressionsrate auf 90% innerhalb von 1 Jahr.",
+      "Die alte Version nannte 5%, die neue Version 95% – eine drastische Erhöhung.",
+      "Die Angabe wurde komplett gestrichen und durch keine neue Aussage ersetzt."
+    ],
+    "correct": 0,
+    "tip": "Beide Fassungen sprechen von 'etwa 50% der Fälle innerhalb von 5 Jahren' – der Unterschied liegt vor allem in der Kennzeichnung als überarbeitete Aussage.",
+    "explanation": "Laut Tabelle 31 blieb die Kernaussage zur GCNIS-Progression (etwa 50% innerhalb von 5 Jahren) zwischen alter Empfehlung 8.2 und neuer Empfehlung 8.4 inhaltlich im Wesentlichen gleich, wurde aber als 'modifiziert 2026' gekennzeichnet."
+  },
+  {
+    "question": "Welche neue Empfehlung (8.12) wurde in Version 2.0 speziell für die Konstellation 'GCNIS im Einzelhoden' ergänzt?",
+    "options": [
+      "In Abhängigkeit von Fertilität und Hormonstatus sollen Überwachung, Radiatio des Hodens mit 18–20 Gy oder Ablatio testis besprochen werden.",
+      "Es soll in jedem Fall sofort eine bilaterale Ablatio testis erfolgen.",
+      "Es ist keine weitere Therapie oder Überwachung notwendig.",
+      "Es soll ausschließlich eine systemische Chemotherapie ohne jede lokale Maßnahme erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Diese neue Empfehlung ergänzt die bereits bestehenden Empfehlungen 8.6 und 8.7 zu den anderen GCNIS-Konstellationen.",
+    "explanation": "Die neue Empfehlung 8.12 (neu 2026) sieht bei GCNIS im Einzelhoden vor, dass in Abhängigkeit von Fertilität und Hormonstatus Überwachung, Radiatio mit 18–20 Gy oder Ablatio testis besprochen werden sollen."
+  },
+  {
+    "question": "Welche Neuerung betrifft laut Vorspann die Residualtumorchirurgie in Version 2.0?",
+    "options": [
+      "Umfassende Aktualisierung mit differenzierten Empfehlungen zur thorakalen Residualtumorresektion sowie erstmaligen Empfehlungen zum Einsatz minimal-invasiver Operationsverfahren.",
+      "Die vollständige Abschaffung der Residualtumorresektion als Therapieoption.",
+      "Residualtumorresektion ist nun nur noch bei Tumoren unter 1 mm indiziert.",
+      "Es wurden keine Änderungen an den Empfehlungen zur Residualtumorchirurgie vorgenommen."
+    ],
+    "correct": 0,
+    "tip": "Dazu zählt auch die Diskussion robotisch-assistierter Techniken, etwa bei der primären RLA im Stadium IIA/B.",
+    "explanation": "Die wichtigsten Neuerungen umfassen eine umfassende Aktualisierung der Empfehlungen zur Residualtumorchirurgie, einschließlich differenzierter Empfehlungen zur thorakalen Resektion und erstmaliger Empfehlungen zu minimal-invasiven Verfahren."
+  },
+  {
+    "question": "Welche Neuerung betrifft laut Vorspann die Behandlung vital bedrohlicher Situationen bei Erstdiagnose eines metastasierten Keimzelltumors?",
+    "options": [
+      "Überarbeitung der Empfehlungen einschließlich Kriterien für einen sofortigen Beginn der Chemotherapie ohne vorherige Orchiektomie sowie zum Vorgehen nach abgeschlossener Induktionschemotherapie.",
+      "Die generelle Abschaffung der Orchiektomie als Therapiebestandteil.",
+      "Eine Verpflichtung, in jedem Fall zunächst die Orchiektomie durchzuführen, unabhängig von der klinischen Dringlichkeit.",
+      "Der Verzicht auf jede Form von Cisplatin bei vital bedrohlichen Situationen."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt sich konkret in den neuen bzw. modifizierten Empfehlungen 8.35 bis 8.38 wider.",
+    "explanation": "Die wichtigsten Neuerungen umfassen die Überarbeitung der Empfehlungen zur Primärtherapie in vital bedrohlichen Situationen, einschließlich der Kriterien für einen sofortigen Chemotherapiebeginn ohne vorherige Orchiektomie und des Vorgehens danach."
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "guideline": "S2e-Leitlinie Benignes Prostatasyndrom (BPS)",
+  "glCode": "BPS",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "BPS_F01_NomenklaturPathophysiologie",
+      "titel": "Nomenklatur, Pathophysiologie & Leitlinienmethodik",
+      "kapitel": [
+        "1",
+        "2",
+        "3"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf die Kapitel 1, 2 und 3: Einführung, Methodik, Begriffsdefinitionen und Pathophysiologie der S2e-Leitlinie BPS.\nInhalte:\n- Methodische Grundlagen der S2e-Leitlinie: Evidenzgrade (Oxford), Empfehlungsgrade (A: \"soll\", B: \"sollte\", 0: \"kann\") sowie Expertenkonsens (EK).\n- Trennscharfe Definition des Symptomkomplexes: Abgrenzung von BPH (Histologie), BPE (Vergrößerung), BOO (Urodynamische Obstruktion) und LUTS (Symptome).\n- Pathophysiologie: Dynamische vs. statische Komponente der Blasenauslassobstruktion und Detrusorantwort.\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich fundierten Dialog beim Kaffee nach der Frühbesprechung.\n- Kollegial, präzise und differenziert, mit feinem ärztlichem Humor. Keine Verwässerung medizinischer Fachbegriffe.\n- Diskutiert typische Fallstricke in der Facharztprüfung bei der Begriffsverwechslung (BPH vs. BPS).\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 21
+    },
+    {
+      "folge": 2,
+      "stem": "BPS_F02_Basisdiagnostik",
+      "titel": "Basisdiagnostik – Was gehört zwingend dazu?",
+      "kapitel": [
+        "5"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5: Basisdiagnostik des BPS.\nInhalte:\n- Obligate Kernuntersuchungen: Anamnese, standardisierte Symptomerfassung (IPSS & Lebensqualität-Score QoL), körperliche Untersuchung inkl. DRU und Genitalbefund.\n- Urinanalyse: Leitlinien-Klartext zur Teststreifenuntersuchung (Grad A: unzureichend zur alleinigen Differenzialdiagnostik).\n- PSA-Wert: Doppelrolle zur Differenzialdiagnose (Prostatakarzinom-Ausschluss) und als Risikoparameter für Progression.\n- Ultraschall-Trias: Transabdominelle/transrektale Prostatavolumetrie, Restharnbestimmung, sonografische Messung von Detrusordicke und Intravesikaler Prostatischer Protrusion (IPP) sowie Sonografie des oberen Harntrakts bei Restharn.\nFormat & Moderation:\n- Zwei urologische Kollegen im kollegialen Dialog in der Ambulanz.\n- Hebt die Verbindlichkeit von Empfehlungsgraden (A/B vs. EK) im Praxis- und Stationsalltag hervor.\n- Diskussion über typische Fehler bei der Restharnmessung und PSA-Fehlinterpretationen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 18
+    },
+    {
+      "folge": 3,
+      "stem": "BPS_F03_UrodynamischeDiagnostik",
+      "titel": "Weiterführende & Urodynamische Diagnostik",
+      "kapitel": [
+        "6"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6: Weiterführende Diagnostik.\nInhalte:\n- Uroflowmetrie: Mindestmiktionsvolumen (150 ml), Kurvenformen und Interpretation von Qmax.\n- Miktionstagebuch (Blasentagebuch): Indikation (mindestens 3 Tage) bei dominierender Nykturie und Speichersymptomen.\n- Druck-Fluss-Messung (Urodynamik): Grad-A-Indikation vor Re-Interventionen bei operativem Versagen; Indikationen bei Grenzbefunden oder Verdacht auf neurogene Störungen/Detrusorunteraktivität.\n- Endoskopie, Bildgebung und nicht-invasive Methoden (z. B. Penis-Manschetten-Test, Kondomkatheter).\nFormat & Moderation:\n- Fachlicher Austausch zweier Urologen bei der Auswertung urodynamischer Kurven.\n- Kritische Abwägung: Wann ist invasive Diagnostik vor einer OP unverzichtbar und wann reicht der Flow?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 21
+    },
+    {
+      "folge": 4,
+      "stem": "BPS_F04_ProgressionsrisikoGesamtstrategie",
+      "titel": "Progressionsrisiko & Diagnostische Gesamtstrategie",
+      "kapitel": [
+        "7",
+        "8"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7 und 8: Prognosefaktoren für die Progression und Diagnostische Gesamtstrategie.\nInhalte:\n- Prädiktoren der klinischen Progression: Alter, basaler IPSS, Prostatavolumen (> 30–40 ml), Serum-PSA (> 1,5 ng/ml), Restharn und IPP.\n- Die 4 diagnostischen Kernfragen: Zuordnung zum BPS, Leidensdruck, Komplikationen am Harntrakt, Therapiewahl.\n- Absolute Operationsindikationen (rezidivierende Harnverhalte, rezidivierende Infekte, Harnblasensteine, therapieresistente Makrohämaturie, Stauungsnieren/postrenales Nierenversagen).\nFormat & Moderation:\n- Zwei urologische Assistenzärzte im intensiven Dienstgespräch vor der Visite.\n- Fokus auf Risiko-Stratifizierung: Welcher Patient darf beobachtet werden und wer steuert auf die Dekompensation zu?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 20
+    },
+    {
+      "folge": 5,
+      "stem": "BPS_F05_WatchfulWaitingPhytotherapie",
+      "titel": "Konservatives Vorgehen – Watchful Waiting & Phytotherapie",
+      "kapitel": [
+        "9",
+        "10.1.1"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 9 (Kontrolliertes Zuwarten und Verhaltenstherapie) sowie Kapitel 10.1.1 (Phytotherapie).\nInhalte:\n- Watchful Waiting: Indikationsstellung bei milden Symptomen (IPSS < 8) und geringem Leidensdruck; Lebensstilmodifikationen (Flüssigkeitsmanagement, Coffein-/Alkoholreduktion).\n- Kontraindikationen für Zuwarten: Relevante BOO, Restharn oder beginnende Komplikationen (EK).\n- Phytotherapeutika: Evidenzlage und Heterogenität der Extrakte (z. B. Sägezahnpalme/Serenoa repens, Kürbissamen); Leitlinien-Empfehlung (Grad 0) bei Patientenwunsch und Abneigung gegen synthetische Substanzen.\nFormat & Moderation:\n- Kollegiales Gespräch mit Blick auf die urologische Sprechstunde.\n- Realistischer Umgang mit Patientenerwartungen und ehrliche Aufklärung über Wirksamkeit vs. Progressionshemmung.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 21
+    },
+    {
+      "folge": 6,
+      "stem": "BPS_F06_MedikamentoeseMonotherapie",
+      "titel": "Medikamentöse Monotherapie – α-Blocker, 5-ARIs & PDE-5-Hemmer",
+      "kapitel": [
+        "10.1.2",
+        "10.1.3",
+        "10.1.4",
+        "10.1.5",
+        "10.1.6"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10.1.2 bis 10.1.6: Medikamentöse Monotherapie.\nInhalte:\n- Alpha-Blocker (Tamsulosin, Silodosin, Alfuzosin etc.): Rascher Wirkungseintritt, Symptomlinderung (Grad 0/A), fehlende Reduktion von Prostatavolumen und Harnverhaltsrisiko; Nebenwirkungen (Anejakulation, IFIS).\n- 5-Alpha-Reduktase-Inhibitoren (Finasterid, Dutasterid): Wirkmechanismus, Voraussetzung Drüsengröße (> 30–40 ml), echtes Progressions- und OP-Risikosenkungspotenzial; PSA-Halbierung nach 6 Monaten; Nebenwirkungen (sexuelle Dysfunktion, Post-Finasterid-Syndrom).\n- PDE-5-Inhibitoren (Tadalafil 5 mg täglich): Stellenwert bei LUTS mit/ohne erektile Dysfunktion; Wirkung auf LUTS vs. fehlender Einfluss auf BOO/Qmax.\nFormat & Moderation:\n- Fachlich anspruchsvoller Dialog zweier Ärzte bei der Rezeptur- und Visitenbesprechung.\n- Gegenüberstellung: \"Reine Symptomtherapie\" vs. \"Krankheitsmodifizierende Therapie\".\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 25
+    },
+    {
+      "folge": 7,
+      "stem": "BPS_F07_Kombinationstherapie",
+      "titel": "Medikamentöse Kombinationstherapien & Speichersymptome",
+      "kapitel": [
+        "10.2"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10.2: Medikamentöse Kombinationstherapien.\nInhalte:\n- Alpha-Blocker + 5-ARI (z. B. Tamsulosin + Dutasterid): Evidenz aus MTOPS und CombAT; Indikation bei Progressionsrisiko und großer Prostata; Langzeitstrategie vs. Deeskalation.\n- Alpha-Blocker + Anticholinergika / Muskarinrezeptorantagonisten: Indikation bei persistierenden Speichersymptomen/Overactive Bladder (OAB); Angst vor Harnverhalt vs. reale Evidenz bei Restharnkontrolle.\n- Kombination mit Beta-3-Adrenorezeptor-Agonisten (Mirabegron): Rolle als Alternative bei anticholinergen Kontraindikationen.\nFormat & Moderation:\n- Strukturierter, praxisbezogener Dialog.\n- Klare Differenzierung der Patientenprofile: Wer profitiert von welcher Substanzkombination?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 16
+    },
+    {
+      "folge": 8,
+      "stem": "BPS_F08_TurpTuipVaporisation",
+      "titel": "Resezierende & ablative OP-Verfahren – TURP, TUIP & Vaporisation",
+      "kapitel": [
+        "11.1.1.1",
+        "11.1.1.2",
+        "11.1.1.3"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich auf Kapitel 11.1.1.1 bis 11.1.1.3: Transurethrale ablative Verfahren.\nInhalte:\n- Transurethrale Resektion der Prostata (TURP): Monopolar vs. Bipolar (TUR-Syndrom-Prävention, NaCl-Spülung); Größengrenzen (30–80 ml) und Langzeitergebnisse als Referenzstandard.\n- TUIP (Blasenhalsinzision): Indikation bei kleinen Drüsen (< 30 ml) ohne Mittellappen, Erhalt der antegraden Ejakulation.\n- Vaporisationstechniken: Photoselektive Vaporisation (PVP / Greenlight-Laser) und Diodenlaser; Stellenwert bei kardiovaskulären Risikopatienten; Vor- und Nachteile (fehlende Histologie, Dysurie).\nFormat & Moderation:\n- Kollegiales Fachgespräch zweier Operateure nach dem OP-Programm.\n- Fokus auf Indikationsgrenzen, Komplikationsmanagement (Blutung, Nachresektion) und Patientenaufklärung (retrograde Ejakulation).\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 20
+    },
+    {
+      "folge": 9,
+      "stem": "BPS_F09_Enukleationstechniken",
+      "titel": "Transurethrale Enukleationstechniken – HoLEP, ThuLEP & Elektroenukleation",
+      "kapitel": [
+        "11.1.1.4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 11.1.1.4: Transurethrale Enukleationsverfahren.\nInhalte:\n- Holmiumlaser-Enukleation der Prostata (HoLEP): Empfehlungsgrad A als größenunabhängige Alternative zu TURP und offener Enukleation; Prinzip der Enukleation und Morcellierung.\n- Thuliumlaser-Enukleation (ThuLEP / TmLEP) und bipolare Elektroenukleation (BipoLEP): Evidenz, Schneide- vs. Koagulationseigenschaften.\n- Lernkurve, Komplikationen (Kapselperforation, Schleimhautläsionen der Blase beim Morcellieren, Passagere Dranginkontinenz).\nFormat & Moderation:\n- Zwei Urologen auf Facharztniveau im kollegialen Dialog über moderne Standards der BPS-Chirurgie.\n- Erläutert, warum die anatomische Enukleation das chirurgische Paradigma verschoben hat.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 19
+    },
+    {
+      "folge": 10,
+      "stem": "BPS_F10_MinimalinvasiveVerfahren",
+      "titel": "Minimalinvasive & nicht-ablative Verfahren – Rezūm, UroLift & iTIND",
+      "kapitel": [
+        "11.1.2",
+        "11.1.3"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich auf Kapitel 11.1.2 (indirekte/verzögerte Ablation) und 11.1.3 (Verfahren ohne Ablation).\nInhalte:\n- Konvektive Wasserdampfablation (WAVE / Rezūm™): Wirkprinzip, Nekroseinduktion, Stellenwert bei Wunsch nach Ejakulationserhalt (Grad 0), postoperatives Schwellungsmanagement/Katheterverweildauer.\n- Prostatic Urethral Lift (PUL / UroLift™): Mechanische Distraktion der Seitenlappen, Ejakulationserhalt, Grenzen bei Mittellappen oder großen Drüsen.\n- iTIND (temporäres Nitinol-Körbchen) und Aquablation (robotische Wasserstrahlablation): Prinzip, Evidenzlevel und Leitlinien-Bewertung.\nFormat & Moderation:\n- Reflektierter Dialog mit Fokus auf den Trend \"minimalinvasiv und ejakulationsprotektiv\".\n- Kritische Abgrenzung: Wann sind diese Verfahren eine echte Option und wann droht ein rasches Rezidiv?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 26
+    },
+    {
+      "folge": 11,
+      "stem": "BPS_F11_GrosseDruesenAlternativen",
+      "titel": "Große Drüsen & Alternativen – Offene/Roboter-Enukleation und PAE",
+      "kapitel": [
+        "11.2",
+        "11.3",
+        "11.4"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich auf Kapitel 11.2 (Suprapubische Verfahren), 11.3 (Embolisation) und 11.4 (Historische Verfahren).\nInhalte:\n- Einfache offene Adenomenukleation (nach Freyer / Millin) vs. minimalinvasive/roboterassistierte einfache Prostatektomie (MISP / DaVinci): Indikation bei extrem großem Drüsenvolumen (> 80–100 ml) und Begleitpathologien (große Blasensteine, Divertikel).\n- Prostataarterienembolisation (PAE): Prinzip, interdisziplinäre Schnittstelle zur Radiologie, Strahlen- und Kontrastmittelbelastung, aktuelle Leitlinienposition und Stellenwert im Gesamtkonzept.\n- Historische Verfahren (TUMT, TUNA, Kryotherapie, Ethanol-Injektion): Warum sie in modernen Leitlinien verlassen wurden.\nFormat & Moderation:\n- Fachaustausch zweier Kollegen über Grenzindikationen und alternative Techniken.\n- Betont die Wichtigkeit der individuellen Verfahrenswahl abhängig von Volumen, Anatomie und Zentrums-Expertise.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 24
+    },
+    {
+      "folge": 12,
+      "stem": "BPS_F12_AntikoagulationFlowchart",
+      "titel": "Perioperatives Management unter Antikoagulation & Leitlinien-Flowchart",
+      "kapitel": [
+        "12",
+        "13"
+      ],
+      "erstellt": null,
+      "prompt": "Erstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 12 (BPS-Therapie unter Antikoagulation/Thrombozytenaggregationshemmung) sowie Kapitel 13 (Leitlinien-Flowchart / Algorithmus).\nInhalte:\n- Risikostratifizierung: Blutungsrisiko (HAS-BLED, Eingriffsrisiko) vs. Thromboembolierisiko (CHA2DS2-VASc, Stents, Klappen).\n- Perioperativer Umgang mit TAH (ASS-Fortführung möglich) und DOAKs (Pausierungsintervalle nach GFR ohne Heparin-Bridging laut ACCP/EHRA-Empfehlungen).\n- Verfahrenswahl bei nicht pausierbarer Antikoagulation: Bevorzugung blutungsarmer Laserverfahren (Greenlight-PVP, Enukleation) gegenüber TURP.\n- Finale Synthese: Der leitliniengerechte Entscheidungsbaum (Flowchart aus Kapitel 13) von der Erstvorstellung bis zur postoperativen Kontrolle.\nFormat & Moderation:\n- Dynamisches Finale der Podcast-Serie zweier Assistenzärzte vor dem Stationsalltag und der Facharztprüfung.\n- Klarer Fokus auf Patientensicherheit, typische Notfall-Fallstricke im Dienst und die strukturierte Gesamtschau.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": 23
+    }
+  ]
+}

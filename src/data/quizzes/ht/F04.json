@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche bildgebenden Untersuchungen sollen gemäß Empfehlung 6.1/6.2 bei klinischem Verdacht auf einen KZT unmittelbar erfolgen?",
+    "options": [
+      "Eine alleinige Skrotal-MRT ohne weitere Bildgebung.",
+      "Eine körperliche Untersuchung sowie eine beidseitige Hodensonographie mit mindestens 7,5 MHz Schallkopf.",
+      "Primär eine FDG-PET/CT des gesamten Körpers.",
+      "Eine Röntgenaufnahme des Thorax als alleinige Erstdiagnostik."
+    ],
+    "correct": 1,
+    "tip": "Die Sonographie ist kostengünstig, nicht-invasiv und erlaubt eine sichere Differenzierung extra- vs. intratestikulärer Befunde.",
+    "explanation": "Empfehlung 6.1 (Expertenkonsens, starker Konsens) fordert bei klinischem Verdacht umgehend eine körperliche Untersuchung und eine beidseitige Hodensonographie mit mindestens 7,5 MHz Schallkopf."
+  },
+  {
+    "question": "Welche Ausbreitungsdiagnostik sollen Männer mit neu diagnostiziertem KZT laut Empfehlung 6.2 (Grad A) standardmäßig erhalten?",
+    "options": [
+      "Eine kontrastmittelgestützte CT von Abdomen/Becken und Thorax.",
+      "Eine Skelettszintigraphie und ein PET/MRT.",
+      "Ausschließlich eine Röntgenaufnahme des Thorax.",
+      "Eine diagnostische Laparoskopie des Retroperitoneums."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination erlaubt die Beurteilung retroperitonealer, mediastinaler und pulmonaler Metastasen in einem Untersuchungsgang.",
+    "explanation": "Empfehlung 6.2 (Grad A) legt fest, dass Männer mit neu diagnostiziertem KZT zur Ausbreitungsdiagnostik eine kontrastmittelgestützte CT von Abdomen/Becken und Thorax erhalten sollen."
+  },
+  {
+    "question": "Welche drei Serumtumormarker sollen laut Empfehlung 6.9 bei Verdacht auf einen KZT vor der Ablatio testis bestimmt werden?",
+    "options": [
+      "PSA, freies PSA und PSA-Quotient.",
+      "AFP, Beta-hCG und LDH.",
+      "CA-125, CEA und CA 19-9.",
+      "Testosteron, LH und FSH."
+    ],
+    "correct": 1,
+    "tip": "Diese drei Marker bestimmen postoperativ auch die S-Kategorie der TNM-Klassifikation.",
+    "explanation": "Empfehlung 6.9 (Expertenkonsens, starker Konsens) fordert die präoperative Bestimmung von AFP, Beta-hCG und LDH vor der Ablatio testis."
+  },
+  {
+    "question": "In welchem Intervall sollen postoperativ erhöhte Serumtumormarker laut Empfehlung 6.10 bis zum Erreichen des Nadirs kontrolliert werden?",
+    "options": [
+      "Täglich.",
+      "Alle 5–7 Tage.",
+      "Einmal wöchentlich über 3 Monate.",
+      "Erst nach 6 Wochen zum Abschluss der Primärtherapie."
+    ],
+    "correct": 1,
+    "tip": "Der postoperative Nadir, nicht der präoperative Ausgangswert, bestimmt später die S-Kategorie.",
+    "explanation": "Empfehlung 6.10 sieht bei präoperativ erhöhten Werten Kontrollen von AFP, Beta-hCG und LDH alle 5–7 Tage bis zum Erreichen des Normalwertes bzw. Nadirs vor."
+  },
+  {
+    "question": "Welche Tumormarker-Konstellation ist laut Leitlinientext hinweisend auf ein (metastasiertes) Chorionkarzinom?",
+    "options": [
+      "Eine isolierte, sehr starke Beta-hCG-Erhöhung.",
+      "Eine isolierte LDH-Erhöhung ohne AFP- oder Beta-hCG-Anstieg.",
+      "Ausschließlich eine AFP-Erhöhung ohne Beta-hCG-Beteiligung.",
+      "Normale Werte aller drei Marker."
+    ],
+    "correct": 0,
+    "tip": "Chorionkarzinome produzieren nahezu ausnahmslos diesen einen Marker.",
+    "explanation": "Eine sehr starke Beta-hCG-Erhöhung weist auf das Vorliegen eines (metastasierten) Chorionkarzinoms hin, da Chorionkarzinome nahezu ausnahmslos Beta-hCG produzieren; bei reinen Seminomen und reinen Chorionkarzinomen ist AFP dagegen nicht erhöht."
+  },
+  {
+    "question": "Welches operative Vorgehen ist laut Empfehlung 6.11 (Grad A) bei Verdacht auf einen KZT indiziert?",
+    "options": [
+      "Eine primäre Chemotherapie ohne vorherige operative Freilegung.",
+      "Eine inguinale Hodenfreilegung und bei Nachweis eines malignen Tumors eine Ablatio testis.",
+      "Eine perkutane Stanzbiopsie des Hodens durch die Skrotalhaut.",
+      "Eine primäre bilaterale Orchiektomie unabhängig vom Befund der Gegenseite."
+    ],
+    "correct": 1,
+    "tip": "Ein transskrotaler Zugang wird wegen des Risikos einer veränderten Lymphabflussbahn vermieden – der Zugang erfolgt inguinal.",
+    "explanation": "Empfehlung 6.11 (Grad A) sieht bei Verdacht auf einen KZT eine inguinale Hodenfreilegung vor; bei Nachweis eines malignen Tumors erfolgt die Ablatio testis einschließlich des Samenstrangs."
+  },
+  {
+    "question": "Wann wird laut Leitlinientext bei unklarem intraoperativem Befund eine intraoperative Schnellschnittuntersuchung eingesetzt?",
+    "options": [
+      "Nie, da sie die endgültige Diagnosestellung verzögert.",
+      "Bei klinisch nicht eindeutig maligner Raumforderung, um zwischen diagnostischer Biopsie/Enukleation und Ablatio testis zu entscheiden.",
+      "Ausschließlich bei bereits gesicherter Fernmetastasierung.",
+      "Nur bei Patienten über 60 Jahren."
+    ],
+    "correct": 1,
+    "tip": "Nicht tastbare Läsionen mit negativen Serumtumormarkern sind zu mehr als 80% benigne – die Schnellschnittdiagnostik sichert hier die Operationsstrategie.",
+    "explanation": "Liegt klinisch keine eindeutig maligne Raumforderung vor, erfolgt eine diagnostische Tumorbiopsie oder Enukleation mit intraoperativer Schnellschnittuntersuchung, um bei Malignitätsnachweis die Ablatio testis anzuschließen."
+  },
+  {
+    "question": "Bei welcher Konstellation soll laut Empfehlung 6.12 KEINE organerhaltende Exzision bei malignem KZT erfolgen?",
+    "options": [
+      "Bei Vorliegen eines gesunden kontralateralen Hodens – außer bei einem Teratom ohne begleitende GCNIS.",
+      "Immer, unabhängig vom Zustand des kontralateralen Hodens.",
+      "Nur bei Patienten mit Kinderwunsch.",
+      "Nur bei bilateralem KZT."
+    ],
+    "correct": 0,
+    "tip": "Die Ausnahme betrifft eine spezifische, gutartig verlaufende Tumorentität ohne begleitende Keimzellneoplasie in situ.",
+    "explanation": "Empfehlung 6.12 besagt, dass bei gesundem kontralateralem Hoden keine organerhaltende Exzision bei malignem KZT durchgeführt werden soll, mit Ausnahme eines Teratoms ohne begleitende GCNIS."
+  },
+  {
+    "question": "Wann soll Patienten mit KZT laut Empfehlung 6.19 eine Kryokonservierung von Spermatozoen angeboten werden?",
+    "options": [
+      "Erst nach Abschluss der kompletten Chemotherapie.",
+      "Vor Therapiebeginn – vor Ablatio testis, spätestens vor Chemo- oder Strahlentherapie.",
+      "Nur auf ausdrücklichen Wunsch des Patienten, ohne aktives Anbieten durch das Behandlungsteam.",
+      "Nur bei Patienten unter 18 Jahren."
+    ],
+    "correct": 1,
+    "tip": "Die Fertilitätssicherung muss vor jedem potenziell gonadotoxischen Schritt angesprochen werden, nicht erst danach.",
+    "explanation": "Empfehlung 6.19 (Grad A) fordert, dass vor Therapiebeginn – vor der Ablatio testis, spätestens vor einer Chemo- oder Strahlentherapie – eine Kryokonservierung von Spermatozoen angeboten werden soll."
+  },
+  {
+    "question": "Welche IGCCCG-Prognosegruppe wird einem nichtseminomatösen KZT mit primär mediastinalem Sitz unabhängig von den Tumormarkerwerten zugeordnet?",
+    "options": [
+      "Gute Prognose.",
+      "Intermediäre Prognose.",
+      "Schlechte Prognose.",
+      "Seminome werden ebenfalls automatisch in die schlechte Prognosegruppe eingeteilt."
+    ],
+    "correct": 2,
+    "tip": "Der primär mediastinale Sitz ist bereits für sich allein eines der Kriterien, die in die ungünstigste IGCCCG-Gruppe führen.",
+    "explanation": "Laut Tabelle 10 (IGCCCG 1997) führt ein primär mediastinaler Sitz des nichtseminomatösen KZT bereits allein zur Einordnung in die Gruppe mit schlechter Prognose; für Seminome gibt es definitionsgemäß keine Einordnung in diese Gruppe."
+  }
+]

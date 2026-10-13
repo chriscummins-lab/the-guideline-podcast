@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie wird die zeitliche Grenze zwischen Akut- und Langzeit- bzw. Spättoxizität in der Leitlinie definiert?",
+    "options": [
+      "Toxizitäten, die länger als zwölf Monate fortbestehen oder zwölf Monate nach Therapieende auftreten, gelten als chronische Toxizität/Spättoxizität.",
+      "Es gibt keine zeitliche Unterscheidung zwischen Akut- und Langzeittoxizität.",
+      "Alle Nebenwirkungen nach mehr als einer Woche gelten bereits als Spättoxizität.",
+      "Nur Nebenwirkungen nach mehr als 10 Jahren gelten als Spättoxizität, alles davor als Akuttoxizität."
+    ],
+    "correct": 0,
+    "tip": "Aufgrund des jungen Erkrankungsalters erhöht sich die Wahrscheinlichkeit, solche Spätfolgen auch tatsächlich zu erleben.",
+    "explanation": "Toxizitäten, die länger als zwölf Monate fortbestehen oder erst zwölf Monate nach Therapieende auftreten, werden als chronische Toxizität oder Spättoxizität zusammengefasst."
+  },
+  {
+    "question": "Um wie viel Prozent sind die Vaterschaftsraten von KZT-Langzeitüberlebenden im Vergleich zur normalen männlichen Bevölkerung reduziert, und wie lange dauert es im Median bis zu einer gewünschten Schwangerschaft nach Therapieende?",
+    "options": [
+      "Um etwa 30% reduziert; im Median 6,6 Jahre bis zur gewünschten Schwangerschaft.",
+      "Um 90% reduziert; nie mehr eine Schwangerschaft möglich.",
+      "Keine Reduktion gegenüber der Allgemeinbevölkerung.",
+      "Um 30% reduziert, aber die Schwangerschaft tritt immer innerhalb der ersten 3 Monate ein."
+    ],
+    "correct": 0,
+    "tip": "Eine Erholung der Spermatogenese kann sogar noch bis zu zwölf Jahre nach Therapieabschluss beobachtet werden.",
+    "explanation": "Die Vaterschaftsraten von KZT-Langzeitüberlebenden sind um etwa 30% reduziert; im Median dauert es 6,6 Jahre nach Therapieabschluss, bis eine gewünschte Schwangerschaft eintritt."
+  },
+  {
+    "question": "Welche antegrade Ejakulationserhaltungsrate wird nach primärer modifizierter RLA bei nichtseminomatösem KZT im klinischen Stadium I berichtet, verglichen mit der Rate nach nervschonender RTR im Retroperitoneum?",
+    "options": [
+      "93% nach primärer modifizierter RLA versus bis zu 50% nach nervschonender RTR.",
+      "100% in beiden Gruppen ohne jeden Unterschied.",
+      "10% nach primärer RLA versus 93% nach RTR (umgekehrtes Verhältnis).",
+      "0% Ejakulationserhalt in beiden Situationen."
+    ],
+    "correct": 0,
+    "tip": "Prognostisch ungünstig für den Ejakulationserhalt sind eine primär rechtsseitige Tumorlokalisation und eine Residualtumormasse > 5 cm.",
+    "explanation": "Nach primärer modifizierter RLA im Stadium I wird eine antegrade Ejakulationserhaltungsrate von 93% berichtet, nach nervschonender postchemotherapeutischer RTR im Retroperitoneum dagegen nur bis zu 50%."
+  },
+  {
+    "question": "Ab welchem Gesamttestosteron-Grenzwert wird laut Leitlinientext bei entsprechenden klinischen Symptomen ein therapierelevanter Hypogonadismus angenommen?",
+    "options": [
+      "Gesamttestosteron < 12 nmol/l.",
+      "Gesamttestosteron < 50 nmol/l, unabhängig von Symptomen.",
+      "Jeder Testosteronwert unter der oberen Normgrenze gilt bereits als therapierelevant.",
+      "Es gibt keinen definierten Grenzwert."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich zum Laborwert müssen klinische Symptome wie Veränderungen der Körperzusammensetzung oder Stimmungsveränderungen vorliegen.",
+    "explanation": "Ein therapierelevanter Hypogonadismus wird bei einem Gesamttestosteron unter 12 nmol/l in Verbindung mit klinischen Symptomen angenommen."
+  },
+  {
+    "question": "In welchem Bereich liegt laut Leitlinientext die Häufigkeit eines Hypogonadismus als Langzeitfolge bei KZT-Patienten?",
+    "options": [
+      "11–34% der Patienten.",
+      "Unter 1% der Patienten.",
+      "Bei praktisch 100% aller Patienten.",
+      "Nur bei Patienten, die eine Strahlentherapie erhalten haben – nie nach Chemotherapie."
+    ],
+    "correct": 0,
+    "tip": "Das Auftreten eines Hypogonadismus ist grundsätzlich bei allen verfügbaren Therapiemodalitäten und -intensitäten nachweisbar.",
+    "explanation": "Zwischen 11 und 34% der KZT-Patienten erkranken an einem Hypogonadismus als Langzeitfolge, unabhängig von der spezifischen Therapiemodalität."
+  },
+  {
+    "question": "Wann treten behandlungsinduzierte solide Sekundärmalignome nach KZT-Therapie laut Leitlinientext typischerweise auf, und wie lange bleibt das Risiko erhöht?",
+    "options": [
+      "In der Regel nach den ersten zehn Jahren, mit einem für mindestens 35 Jahre signifikant erhöhten Risiko (besonders bei jüngerem Alter zum Therapiezeitpunkt).",
+      "Ausschließlich innerhalb der ersten 6 Monate nach Therapieende.",
+      "Das Risiko normalisiert sich bereits nach 2 Jahren vollständig.",
+      "Sekundärmalignome treten nie als Folge der KZT-Therapie auf."
+    ],
+    "correct": 0,
+    "tip": "Strahlentherapie-assoziierte Sekundärtumoren sind primär innerhalb oder in der Nähe des Strahlenfeldes lokalisiert (z. B. Kolon, Magen, Pankreas, Blase).",
+    "explanation": "Behandlungsinduzierte solide Sekundärmalignome treten in der Regel nach den ersten zehn Jahren auf; das Risiko steigt mit jüngerem Alter bei Strahlen- oder Chemotherapie und bleibt für mindestens 35 Jahre signifikant erhöht."
+  },
+  {
+    "question": "Um welchen Faktor ist das Leukämierisiko (beobachtet versus erwartet) bei KZT-Überlebenden laut der zitierten großen Serie erhöht, und welcher Chemotherapie-Parameter beeinflusst insbesondere das AML-Risiko?",
+    "options": [
+      "Faktor 2,6 erhöht; eine Etoposid-Dosis > 2 g/m² erhöht insbesondere das Risiko einer akuten myeloischen Leukämie (AML).",
+      "Faktor 50 erhöht; ausschließlich das Patientenalter beeinflusst das Risiko.",
+      "Kein erhöhtes Risiko gegenüber der Normalbevölkerung.",
+      "Faktor 2,6 erhöht, aber völlig unabhängig von der verwendeten Chemotherapie."
+    ],
+    "correct": 0,
+    "tip": "Bei den üblichen drei bis vier BEP-Zyklen ist das absolute AML-Risiko dennoch sehr gering, da die kritische Etoposid-Schwelle meist nicht erreicht wird.",
+    "explanation": "In einer Serie von über 40.000 KZT-Überlebenden betrug das beobachtete-zu-erwartete Verhältnis für Leukämie 2,6; das AML-Risiko steigt insbesondere, wenn die kumulative Etoposid-Dosis 2 g/m² überschreitet."
+  },
+  {
+    "question": "Wie verhält sich laut einer zitierten Studie von Feldman et al. das kardiovaskuläre Langzeitrisiko nach KZT-Therapie in Bezug auf die Anzahl der Chemotherapiezyklen?",
+    "options": [
+      "Es hängt im Wesentlichen nicht von der Zyklenzahl (3x PEB, 4x PE oder 4x PEB) ab, sondern vom Aktivitätsprofil und Edukationslevel der Patienten (Framingham Risk Score).",
+      "Es verdoppelt sich exakt mit jedem zusätzlichen Chemotherapiezyklus.",
+      "Es ist bei 3 Zyklen PEB signifikant höher als bei 4 Zyklen PEB.",
+      "Chemotherapie hat überhaupt keinen Einfluss auf das kardiovaskuläre Risiko."
+    ],
+    "correct": 0,
+    "tip": "Lebensstilfaktoren scheinen hier eine größere Rolle zu spielen als die reine Therapieintensität.",
+    "explanation": "Die Studie von Feldman et al. zeigte, dass das kardiovaskuläre Langzeitrisiko im Wesentlichen nicht von der Anzahl der Chemotherapiezyklen abhängt, sondern vom Aktivitätsprofil und Edukationslevel der Patienten, gemessen am Framingham Risk Score."
+  },
+  {
+    "question": "Welche Maßnahme soll laut Empfehlung 12.6 (Grad B) während der Phase der cisplatinhaltigen Chemotherapie zur Senkung des Risikos thromboembolischer Ereignisse erfolgen?",
+    "options": [
+      "Eine Thromboembolieprophylaxe mit niedermolekularem Heparin.",
+      "Eine prophylaktische Vollantikoagulation mit Vitamin-K-Antagonisten.",
+      "Keine spezifische Maßnahme, da das Risiko vernachlässigbar ist.",
+      "Eine routinemäßige Anlage eines Cava-Filters bei allen Patienten."
+    ],
+    "correct": 0,
+    "tip": "Ein höheres Tumorstadium bzw. die Größe der retroperitonealen Lymphadenopathie gelten als Risikofaktoren für thromboembolische Ereignisse.",
+    "explanation": "Empfehlung 12.6 (Grad B) sieht während der cisplatinhaltigen Chemotherapie bei metastasierten KZT eine Thromboembolieprophylaxe mit niedermolekularem Heparin vor."
+  },
+  {
+    "question": "Welche Rolle spielt zirkulierendes residuelles Serumplatin laut Leitlinientext für die Langzeittoxizität?",
+    "options": [
+      "Es könnte endothelialen Stress ausüben und dadurch zu Bluthochdruck beitragen; zudem ist es mit Parästhesien, Hypogonadismus und Hypercholesterinämie assoziiert.",
+      "Es hat keinerlei biologische Relevanz nach Abschluss der Chemotherapie.",
+      "Es führt ausschließlich zu einer verbesserten Nierenfunktion.",
+      "Es schützt vor der Entwicklung eines metabolischen Syndroms."
+    ],
+    "correct": 0,
+    "tip": "Die kardiale Toxizität ist dabei vom akuten kardialen Risiko unter Chemotherapie (z. B. Infarkte) abzugrenzen.",
+    "explanation": "Zirkulierendes residuelles Serumplatin könnte endothelialen Stress ausüben und so zu Bluthochdruck beitragen; zudem ist die Exposition gegenüber zirkulierendem Platin mit Parästhesien, Hypogonadismus und Hypercholesterinämie assoziiert."
+  }
+]
