@@ -11,7 +11,7 @@ export default async function EpisodePage({
 }) {
   const { category: categoryId, guideline: guidelineId, episode: episodeId } = await params;
   const { category, guideline, episode } = getEpisode(categoryId, guidelineId, episodeId);
-  if (!category || !guideline || !episode) notFound();
+  if (!category || !guideline || !guideline.available || !episode) notFound();
 
   return (
     <div>

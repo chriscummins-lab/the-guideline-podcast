@@ -22,7 +22,7 @@ export const CONTENT: { categories: Category[] } = {
           id: "prostatakarzinom",
           name: "Prostatakarzinom",
           badge: "S3",
-          available: true,
+          available: false,
           description: "S3-Leitlinie Prostatakarzinom",
           episodes: pcaEpisodes,
         },
