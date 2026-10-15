@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie sind laut Kapitel 12.2 die Nachsorge-Intervalle zur Bildgebung bei lokal begrenzten Blasentumoren (< pT2 pN0 cM0) nach radikaler Zystektomie gestaffelt?",
+    "options": [
+      "Erste Nachsorge nach 3-6 Monaten, 1.-2. Jahr 6-Monatsintervalle, 3.-5. Jahr 12-Monatsintervalle, ab dem 6. Jahr nur bei neuer Hydronephrose oder positiver Urinzytologie.",
+      "Lebenslang monatliche Bildgebung ohne jede Anpassung.",
+      "Nur eine einzige Bildgebung direkt nach der Operation.",
+      "Identisch zu lokal fortgeschrittenen Tumoren ohne jede Unterscheidung."
+    ],
+    "correct": 0,
+    "tip": "Bei lokal fortgeschrittenen Tumoren (>pT3 und/oder pN1) sind die 6-Monatsintervalle bis zum 3. Jahr verlängert.",
+    "explanation": "Kapitel 12.2 sieht für lokal begrenzte Blasentumoren eine erste Nachsorge nach 3-6 Monaten vor, gefolgt von 6-Monatsintervallen im 1. und 2. Jahr, 12-Monatsintervallen im 3. bis 5. Jahr und ab dem 6. Jahr nur noch Bildgebung bei neuer Hydronephrose oder positiver Urinzytologie."
+  },
+  {
+    "question": "Welches bildgebende Verfahren soll laut Kapitel 12.2 in der Nachsorge nach radikaler Zystektomie zur Detektion von Tumorrezidiven durchgeführt werden?",
+    "options": [
+      "Eine Computertomographie des Abdomens und Thorax mit Kontrastmittel inklusive urographischer Phase.",
+      "Ausschließlich eine konventionelle Röntgenaufnahme des Thorax.",
+      "Ausschließlich eine Skelettszintigraphie.",
+      "Ausschließlich eine Sonographie ohne jede Schnittbildgebung."
+    ],
+    "correct": 0,
+    "tip": "Die urographische Phase ist wichtig, um auch Rezidive im oberen Harntrakt zu erfassen.",
+    "explanation": "Kapitel 12.2 fordert, dass in der Nachsorge nach radikaler Zystektomie zur Detektion von Tumorrezidiven eine Computertomographie des Abdomens und Thorax mit Kontrastmittel inklusive urographischer Phase durchgeführt werden soll."
+  },
+  {
+    "question": "Was soll laut Empfehlung 12.21 (Kapitel 12.2) in der Nachsorge des Harnröhrenstumpfes nach radikaler Zystektomie durchgeführt werden?",
+    "options": [
+      "Eine Urethroskopie und eine Urin-Spülzytologie.",
+      "Ausschließlich eine jährliche Sonographie des Beckens.",
+      "Keine spezifische Nachsorge des Harnröhrenstumpfes ist notwendig.",
+      "Ausschließlich eine Blutuntersuchung."
+    ],
+    "correct": 0,
+    "tip": "Diese gezielte Nachsorge soll Urethrarezidive frühzeitig erfassen.",
+    "explanation": "Empfehlung 12.21 fordert, dass in der Nachsorge des Harnröhrenstumpfes nach radikaler Zystektomie eine Urethroskopie und eine Urin-Spülzytologie durchgeführt werden sollen."
+  },
+  {
+    "question": "Mit welcher Häufigkeit werden laut Kapitel 12.2 Lokalrezidive im Becken nach radikaler Zystektomie beschrieben, und in welchem Zeitraum treten sie meist auf?",
+    "options": [
+      "5-15% Häufigkeit, meist in den ersten 24 Monaten nach der Operation.",
+      "90-100% Häufigkeit, meist erst nach 10 Jahren.",
+      "Unter 0,1% Häufigkeit, nie innerhalb der ersten 5 Jahre.",
+      "Lokalrezidive im Becken sind nach Zystektomie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Dieses Zeitfenster rechtfertigt die intensivere Nachsorge in den ersten beiden Jahren nach der Operation.",
+    "explanation": "Kapitel 12.2 beschreibt Lokalrezidive im Becken nach radikaler Zystektomie mit einer Häufigkeit von 5-15%, die meist in den ersten 24 Monaten nach der chirurgischen Therapie auftreten."
+  },
+  {
+    "question": "Wie unterscheidet sich laut Kapitel 12.2 das Urethrarezidivrisiko bei Männern mit orthotoper Harnableitung im Vergleich zu inkontinenter Harnableitung?",
+    "options": [
+      "Signifikant niedriger bei orthotoper Ableitung (0,9-4%) als bei inkontinenter Ableitung (6,4-11,1%).",
+      "Identisch bei beiden Ableitungsformen.",
+      "Signifikant höher bei orthotoper Ableitung als bei inkontinenter Ableitung.",
+      "Urethrarezidive treten bei keiner der beiden Ableitungsformen auf."
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied unterstützt die gezielte urethrale Nachsorge insbesondere bei Patienten mit inkontinenter Harnableitung.",
+    "explanation": "Kapitel 12.2 beschreibt ein signifikant niedrigeres Urethrarezidivrisiko bei orthotoper Harnableitung (0,9-4%) im Vergleich zu inkontinenter Harnableitung (6,4-11,1%)."
+  },
+  {
+    "question": "Innerhalb welches Zeitraums treten laut Kapitel 12.2 bis zu 90% der Fernmetastasen nach radikaler Zystektomie auf?",
+    "options": [
+      "Innerhalb der ersten 3 Jahre, mit dem Hauptanteil bereits in den ersten 24 Monaten.",
+      "Erst nach mehr als 10 Jahren.",
+      "Ausschließlich in den ersten 4 Wochen nach der Operation.",
+      "Fernmetastasen treten nach radikaler Zystektomie praktisch nie auf."
+    ],
+    "correct": 0,
+    "tip": "Diese zeitliche Häufung begründet die intensivere Nachsorge in den ersten beiden Jahren nach der Operation.",
+    "explanation": "Kapitel 12.2 beschreibt, dass bis zu 90% der Fernmetastasen innerhalb der ersten 3 Jahre nach radikaler Zystektomie auftreten, mit dem Hauptanteil bereits in den ersten 24 Monaten."
+  },
+  {
+    "question": "Welcher Anteil der Rezidive im oberen Harntrakt wurde laut einer in Kapitel 12.2 zitierten Meta-Analyse (n=13.185) durch das reguläre Nachsorgeschema entdeckt, und wie wurde der Rest erkannt?",
+    "options": [
+      "Nur 38% durch das reguläre Nachsorgeschema; 62% wurden ausschließlich über klinische Symptome erkannt.",
+      "100% wurden durch das Nachsorgeschema entdeckt, keine über Symptome.",
+      "0% wurden durch das Nachsorgeschema entdeckt.",
+      "Die Entdeckungsmethode wird in der Leitlinie nicht differenziert."
+    ],
+    "correct": 0,
+    "tip": "Patienten mit Resektionsrändern an Ureteren oder Urethra haben zudem ein 7-fach erhöhtes Risiko für ein solches Rezidiv.",
+    "explanation": "Die zitierte Meta-Analyse mit 13.185 Patienten zeigte, dass nur 38% der Rezidive im oberen Harntrakt durch das reguläre Nachsorgeschema entdeckt wurden, während 62% ausschließlich über klinische Symptome erkannt wurden."
+  },
+  {
+    "question": "Auf welcher Grundlage wurden laut Kapitel 14 die Qualitätsindikatoren dieser Leitlinie entwickelt, und wie viele wurden final angenommen?",
+    "options": [
+      "Auf Basis aller starken (Empfehlungsgrad A, 'soll') Empfehlungen sowie nationaler/internationaler QI-Recherche; final 12 Indikatoren.",
+      "Auf Basis ausschließlich wirtschaftlicher Kennzahlen der Kliniken; final 3 Indikatoren.",
+      "Es wurden für diese Leitlinie keine Qualitätsindikatoren entwickelt.",
+      "Auf Basis einer Patientenumfrage; final 50 Indikatoren."
+    ],
+    "correct": 0,
+    "tip": "Eine eigene Arbeitsgruppe Qualitätsindikatoren begleitete diesen methodischen Prozess.",
+    "explanation": "Kapitel 14 beschreibt, dass als Grundlage für die Qualitätsindikatoren alle starken (Empfehlungsgrad A, 'soll') Empfehlungen sowie die Ergebnisse der nationalen/internationalen QI-Recherche dienten; final wurden 12 Indikatoren angenommen."
+  },
+  {
+    "question": "Was misst der Qualitätsindikator QI 3 (Kapitel 14), und auf welcher Referenz-Empfehlung basiert er?",
+    "options": [
+      "Den Anteil der Patienten mit beidseitiger pelviner Lymphadenektomie bei radikaler Zystektomie, basierend auf Empfehlung 7.22.",
+      "Den Anteil der Patienten mit präoperativer Chemotherapie, basierend auf Empfehlung 9.5.",
+      "Den Anteil der Patienten mit Urostoma, basierend auf Empfehlung 8.4.",
+      "Den Anteil der Patienten mit BCG-Instillation, basierend auf Empfehlung 6.26."
+    ],
+    "correct": 0,
+    "tip": "Dieser Indikator überprüft die Umsetzung der Empfehlung zur routinemäßigen beidseitigen Lymphadenektomie bei invasivem Harnblasenkarzinom.",
+    "explanation": "QI 3 misst den Anteil der Patienten mit beidseitiger pelviner Lymphadenektomie bei radikaler Zystektomie und basiert auf Empfehlung 7.22, wonach bei invasivem Harnblasenkarzinom im Rahmen der radikalen Zystektomie zeitgleich eine beidseitige pelvine Lymphadenektomie erfolgen soll."
+  },
+  {
+    "question": "Was misst der Qualitätsindikator QI 4 (Kapitel 14), und welche Patientengruppe bildet dabei den Nenner?",
+    "options": [
+      "Den Anteil der Patienten mit radikaler Zystektomie innerhalb von 3 Monaten nach Diagnosestellung; Nenner sind alle Patienten mit Erstdiagnose ≥ pT2 und radikaler Zystektomie ohne neoadjuvante Chemotherapie.",
+      "Den Anteil der Patienten mit adjuvanter Immuntherapie; Nenner sind alle metastasierten Patienten.",
+      "Den Anteil der Patienten mit BCG-Erhaltungstherapie; Nenner sind alle NMIBC-Patienten.",
+      "Den Anteil der Patienten mit Frühinstillation; Nenner sind alle TUR-B-Patienten."
+    ],
+    "correct": 0,
+    "tip": "Dieser Indikator basiert auf Empfehlung 7.39 zur zeitnahen Durchführung der radikalen Zystektomie.",
+    "explanation": "QI 4 misst den Anteil der Patienten mit radikaler Zystektomie innerhalb von 3 Monaten nach Diagnosestellung, wobei der Nenner aus allen Patienten mit Erstdiagnose eines Blasenkarzinoms ≥ pT2 und radikaler Zystektomie ohne neoadjuvante Chemotherapie besteht."
+  }
+]

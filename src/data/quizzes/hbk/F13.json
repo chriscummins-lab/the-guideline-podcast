@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt Statement 8.1 (Kapitel 8.1) zur Datenlage beim Vergleich unterschiedlicher Techniken der Harnableitung nach radikaler Zystektomie?",
+    "options": [
+      "Es liegen keine zuverlässigen Daten aus randomisierten kontrollierten Studien zum Vergleich vor.",
+      "Es liegen zahlreiche große randomisierte Studien mit eindeutigem Ergebnis vor.",
+      "Die Neoblase ist in allen randomisierten Studien eindeutig überlegen.",
+      "Das Ileum-Conduit wurde in randomisierten Studien als unterlegen identifiziert."
+    ],
+    "correct": 0,
+    "tip": "Eine Cochrane-Metaanalyse von 2012 konnte wegen methodischer Mängel nur 355 Patienten aus 5 Studien mit limitierter Aussagesicherheit einschließen.",
+    "explanation": "Statement 8.1 stellt fest, dass keine zuverlässigen Daten aus randomisierten kontrollierten Studien zum Vergleich der unterschiedlichen Techniken der Harnableitung nach radikaler Zystektomie vorliegen."
+  },
+  {
+    "question": "Welche grundlegenden Kategorien von Harnableitungen nennt Statement 8.2 nach radikaler Zystektomie?",
+    "options": [
+      "Inkontinente Harnableitungen (Harnleiterhautfistel, Ileum-/Kolon-Conduit) und kontinente Harnableitungen (katheterisierbare Pouchformen, orthotoper Blasenersatz, transrektale Harnableitung).",
+      "Ausschließlich eine einzige Standardform ohne Alternativen.",
+      "Ausschließlich externe Beutelsysteme ohne jede intestinale Beteiligung.",
+      "Ausschließlich dialysepflichtige Verfahren."
+    ],
+    "correct": 0,
+    "tip": "Die Wahl zwischen diesen Formen richtet sich u. a. nach onkologischer Situation, Nierenfunktion und Patientenwunsch.",
+    "explanation": "Statement 8.2 unterscheidet inkontinente Harnableitungen (Harnleiterhautfistel, Ileum- oder Kolon-Conduit) von kontinenten Harnableitungen (katheterisierbare Pouchformen, orthotoper Harnblasenersatz, transrektale Harnableitung)."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.4 (Kapitel 8.1) zur präoperativen Planung des Stomas?",
+    "options": [
+      "Die Stomaposition soll präoperativ angezeichnet werden; die Urostomie sollte, wenn technisch möglich, prominent angelegt werden.",
+      "Eine Markierung der Stomaposition ist nicht notwendig.",
+      "Das Stoma soll grundsätzlich möglichst unauffällig und flach angelegt werden.",
+      "Die Stomaplanung erfolgt ausschließlich intraoperativ ohne präoperative Vorbereitung."
+    ],
+    "correct": 0,
+    "tip": "Eine prominente Anlage erleichtert die spätere Stomaversorgung durch die Patienten.",
+    "explanation": "Empfehlung 8.4 fordert, dass die mögliche Stomaposition präoperativ angezeichnet werden soll und die Urostomie, wenn technisch möglich, prominent angelegt werden sollte."
+  },
+  {
+    "question": "Welche Form der Harnableitung gilt laut Kapitel 8.1 heute als Goldstandard der inkontinenten Harnableitung, und wie hoch ist die beschriebene Frühkomplikationsrate?",
+    "options": [
+      "Das Ileum-Conduit, mit Frühkomplikationsraten von bis zu 48%.",
+      "Die Ureterosigmoideostomie, mit einer Frühkomplikationsrate von 0%.",
+      "Die Neoblase, da sie per Definition inkontinent ist.",
+      "Die Harnleiterhautfistel, mit einer Frühkomplikationsrate von unter 1%."
+    ],
+    "correct": 0,
+    "tip": "Zu den Frühkomplikationen zählen u. a. Harnwegsinfekte, Pyelonephritiden, Leckagen und Implantationsstenosen.",
+    "explanation": "Kapitel 8.1 beschreibt das Ileum-Conduit als heutigen Goldstandard der inkontinenten Harnableitung, mit beschriebenen Frühkomplikationsraten von bis zu 48%."
+  },
+  {
+    "question": "Wie hoch ist laut Kapitel 8.1 das Risiko eines lokalen Rezidivs nach orthotopem Blasenersatz innerhalb der ersten 3 Jahre, und welche Voraussetzung muss dafür erfüllt sein?",
+    "options": [
+      "Ca. 5-10%, vorausgesetzt es liegt ein negativer Absetzungsrand an der Urethra vor.",
+      "100%, unabhängig vom Absetzungsrand.",
+      "0%, ein lokales Rezidiv nach Neoblase ist nicht beschrieben.",
+      "Ca. 5-10%, unabhängig vom Status des Absetzungsrandes."
+    ],
+    "correct": 0,
+    "tip": "Ein positiver Absetzungsrand an der Urethra ist zugleich eine Kontraindikation für den orthotopen Blasenersatz.",
+    "explanation": "Kapitel 8.1 beschreibt ein Risiko für ein lokales Rezidiv nach orthotoper Harnableitung von ca. 5-10% innerhalb der ersten 3 Jahre, was einen negativen Absetzungsrand an der Urethra voraussetzt."
+  },
+  {
+    "question": "Welche Inkontinenzraten werden laut Kapitel 8.1 bei Männern nach orthotopem Blasenersatz (Studer- bzw. Ulmer-Neoblase) tagsüber bzw. nachts berichtet?",
+    "options": [
+      "Ca. 10% tagsüber und 20-30% nachts.",
+      "0% in beiden Fällen.",
+      "100% tagsüber und 100% nachts.",
+      "Ca. 90% tagsüber und 95% nachts."
+    ],
+    "correct": 0,
+    "tip": "Bei Frauen besteht zusätzlich ein Risiko für eine Neoblasenentleerungsstörung mit Erfordernis des Einmalkatheterismus in bis zu 50% der Fälle.",
+    "explanation": "Kapitel 8.1 berichtet für beide gängigen Neoblasenformen eine Inkontinenzrate bei Männern von ca. 10% tagsüber und 20-30% nachts."
+  },
+  {
+    "question": "Welche Kontraindikationen für einen orthotopen Blasenersatz nennt Kapitel 8.1?",
+    "options": [
+      "U. a. Karzinomnachweis am Absetzungsrand, eingeschränkte Nierenfunktion (Kreatinin-Clearance < 35-40 ml/min), chronisch-entzündliche Darmerkrankungen und komplexe urethrale Strikturen.",
+      "Ausschließlich das weibliche Geschlecht.",
+      "Ausschließlich ein Alter über 50 Jahre.",
+      "Es gibt laut Leitlinie keine Kontraindikationen für diese Harnableitungsform."
+    ],
+    "correct": 0,
+    "tip": "Weitere genannte Kontraindikationen sind eine limitierte Lebenserwartung, Belastungsinkontinenz und ein ECOG-Status von 2 oder schlechter.",
+    "explanation": "Kapitel 8.1 nennt als Kontraindikationen für einen orthotopen Blasenersatz u. a. Karzinomnachweis am Absetzungsrand, eine Kreatinin-Clearance unter 35-40 ml/min, chronisch-entzündliche Darmerkrankungen/bestrahlten Darm sowie komplexe urethrale Strikturen."
+  },
+  {
+    "question": "Welche Kontinenzrate wird laut Kapitel 8.1 für die kontinente kutane Harnableitung (Pouch) berichtet, und welche typische Komplikation tritt bei bis zu 10% der Fälle auf?",
+    "options": [
+      "Kontinenzrate bis zu 93%; Steinbildung im Pouch in bis zu 10% der Fälle.",
+      "Kontinenzrate von 0%; keine beschriebenen Komplikationen.",
+      "Kontinenzrate von 100%; keine Steinbildung möglich.",
+      "Kontinenzrate von 20%; ausschließlich Hautirritationen als Komplikation."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich wurden in einer großen Serie Stomastenosen von 23,5% (Appendixstoma) bzw. 15% (Dünndarmnippel) berichtet.",
+    "explanation": "Kapitel 8.1 beschreibt für die kontinente kutane Harnableitung (Pouch) eine Kontinenzrate von bis zu 93% sowie eine Steinbildung im Pouch in bis zu 10% der Fälle."
+  },
+  {
+    "question": "Ab welcher glomerulären Filtrationsrate (GFR) sollte laut Kapitel 8.1 eine kontinente Harnableitung im Allgemeinen vermieden werden?",
+    "options": [
+      "Ab einer GFR < 50 ml/min.",
+      "Ab einer GFR < 150 ml/min.",
+      "Es gibt keinen Zusammenhang zwischen GFR und der Eignung für kontinente Harnableitungen.",
+      "Ab einer GFR < 5 ml/min."
+    ],
+    "correct": 0,
+    "tip": "Grund ist die Gefahr einer metabolischen Azidose durch den Kontakt von Urin mit der Darmmukosa.",
+    "explanation": "Kapitel 8.1 beschreibt, dass eine kontinente Harnableitung im Allgemeinen ab einer glomerulären Filtrationsrate unter 50 ml/min vermieden werden sollte."
+  },
+  {
+    "question": "Wie bewertet Statement 8.5 (Kapitel 8.2) die intrakorporale Harnableitung im Rahmen einer roboterassistierten radikalen Zystektomie im Vergleich zur offenen Zystektomie?",
+    "options": [
+      "Als gleichwertig bezüglich peri- und postoperativer Morbidität, Funktionalität und Lebensqualität.",
+      "Als eindeutig unterlegen in jedem untersuchten Endpunkt.",
+      "Als eindeutig überlegen in jedem untersuchten Endpunkt.",
+      "Eine Bewertung ist aufgrund völlig fehlender Studienlage nicht möglich."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschätzung basiert auf zwei systematischen Reviews mit Metaanalyse von insgesamt über 900 bzw. 1000 Patienten.",
+    "explanation": "Statement 8.5 bewertet die intrakorporale Harnableitung im Rahmen einer roboterassistierten radikalen Zystektomie gegenüber der offenen Zystektomie und Harnableitung als gleichwertig bezüglich peri- und postoperativer Morbidität, Funktionalität und Lebensqualität."
+  }
+]

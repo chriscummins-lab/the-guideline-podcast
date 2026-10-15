@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Auf welchen 6 klinischen und pathologischen Faktoren basiert das EORTC-Scoring-System (Kapitel 12.1) zur Risikoabschätzung beim NMIBC?",
+    "options": [
+      "Anzahl der Tumoren, Tumorgröße, Rezidivrate, T-Kategorie, begleitendes CIS und Tumorgrading.",
+      "Ausschließlich Alter und Geschlecht des Patienten.",
+      "Ausschließlich die Nierenfunktion und der BMI.",
+      "Ausschließlich die Anzahl der TUR-Operationen."
+    ],
+    "correct": 0,
+    "tip": "Aus diesen 6 Faktoren werden ein Rezidiv-Score und ein separater Progressions-Score berechnet.",
+    "explanation": "Das EORTC-Scoring-System basiert auf der Anzahl der Tumoren (solitär vs. multipel), der Tumorgröße (< 3 cm vs. > 3 cm), der Rezidivrate, der T-Kategorie (pTa vs. pT1), dem Vorliegen eines begleitenden CIS und dem Tumorgrading (WHO 1973)."
+  },
+  {
+    "question": "Welche Tumorcharakteristika definieren laut Tabelle 63 (Kapitel 12.1) ein Low-risk-NMIBC?",
+    "options": [
+      "Solitärer pTa G1/2 (low grade) Tumor unter 3 cm, oder ein PUNLMP.",
+      "Jeder pT1-Tumor unabhängig vom Grading.",
+      "Jedes Carcinoma in situ.",
+      "Multiple rezidivierende Tumoren über 3 cm."
+    ],
+    "correct": 0,
+    "tip": "Alle T1-Tumoren, alle G3-Tumoren und jedes CIS werden dagegen der High-risk-Gruppe zugeordnet.",
+    "explanation": "Tabelle 63 definiert das Low-risk-NMIBC als solitären pTa G1/2 (low grade) Tumor unter 3 cm oder als PUNLMP (papillary urothelial neoplasm of low malignant potential)."
+  },
+  {
+    "question": "Wie ist laut Empfehlung 12.2 (Kapitel 12.1.3.1, Empfehlungsgrad B) das Zystoskopie-Schema für Low-risk-NMIBC-Patienten aufgebaut, und wann sollte die urologische Nachsorge beendet werden?",
+    "options": [
+      "Zystoskopie nach 3 und 12 Monaten, bei Rezidivfreiheit danach jährlich; Beendigung der Nachsorge nach 5 Jahren ohne Rezidiv.",
+      "Lebenslange monatliche Zystoskopie ohne Beendigung.",
+      "Eine einzige Zystoskopie direkt nach der TUR, danach keine weitere Kontrolle.",
+      "Zystoskopie nur bei Auftreten von Makrohämaturie."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt spezifisch für die Low-risk-Gruppe und unterscheidet sich deutlich vom intensiveren Schema der Intermediate- und High-risk-Gruppen.",
+    "explanation": "Empfehlung 12.2 sieht für Low-risk-NMIBC-Patienten eine Zystoskopie nach 3 und 12 Monaten vor, bei Rezidivfreiheit danach jährlich, mit Beendigung der urologischen Nachsorge nach 5 Jahren ohne Rezidivnachweis."
+  },
+  {
+    "question": "Was besagt Empfehlung 12.3 zur bildgebenden Verlaufskontrolle des oberen Harntrakts beim Erstbefund eines Low-risk-NMIBC?",
+    "options": [
+      "Es sollte keine routinemäßige bildgebende Verlaufskontrolle des oberen Harntrakts erfolgen.",
+      "Eine jährliche CT-Urographie ist obligat.",
+      "Eine monatliche MRT-Kontrolle wird empfohlen.",
+      "Eine Skelettszintigraphie soll jährlich erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Diese Zurückhaltung entspricht dem insgesamt sehr geringen Progressionsrisiko der Low-risk-Gruppe.",
+    "explanation": "Empfehlung 12.3 sieht vor, dass beim Erstbefund eines Low-risk-NMIBC keine routinemäßige bildgebende Verlaufskontrolle des oberen Harntrakts in der Nachsorge erfolgen sollte."
+  },
+  {
+    "question": "Wie ist laut Empfehlung 12.4 (Kapitel 12.1.3.2, Empfehlungsgrad A) das Zystoskopie-Schema für Intermediate-risk-NMIBC-Patienten aufgebaut?",
+    "options": [
+      "Im 1. Jahr alle 3 Monate, im 2. und 3. Jahr alle 6 Monate, ab dem 4. Jahr einmal jährlich.",
+      "Lebenslang monatlich ohne jede Anpassung.",
+      "Nur einmal nach 5 Jahren.",
+      "Identisch zum Low-risk-Schema."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll laut Empfehlung 12.5 ergänzend eine Urinzytologie eingesetzt werden.",
+    "explanation": "Empfehlung 12.4 sieht für Intermediate-risk-NMIBC-Patienten eine Zystoskopie im 1. Jahr alle 3 Monate, im 2. und 3. Jahr alle 6 Monate und ab dem 4. Jahr einmal jährlich vor."
+  },
+  {
+    "question": "Wie ist laut Empfehlung 12.8 (Kapitel 12.1.3.3, Empfehlungsgrad A) das Zystoskopie-Schema für High-risk-NMIBC-Patienten aufgebaut?",
+    "options": [
+      "In den ersten 2 Jahren alle 3 Monate, im 3. und 4. Jahr alle 6 Monate, ab dem 5. Jahr einmal jährlich.",
+      "Identisch zum Low-risk-Schema mit Beendigung nach 5 Jahren.",
+      "Nur bei klinischem Verdacht, nie planmäßig.",
+      "Einmalig direkt nach der Diagnosestellung."
+    ],
+    "correct": 0,
+    "tip": "Dieses intensivere Schema trägt dem höheren Rezidiv- und Progressionsrisiko dieser Gruppe Rechnung.",
+    "explanation": "Empfehlung 12.8 sieht für High-risk-NMIBC-Patienten eine Zystoskopie in den ersten 2 Jahren alle 3 Monate, im 3. und 4. Jahr alle 6 Monate und ab dem 5. Jahr einmal jährlich vor."
+  },
+  {
+    "question": "Was besagt Empfehlung 12.9 zum Ersatz der Zystoskopie durch Urinmarker bei Intermediate- oder High-risk-NMIBC?",
+    "options": [
+      "Die Zystoskopie soll in der Nachsorge nicht durch Urinmarker ersetzt werden.",
+      "Urinmarker können die Zystoskopie bei diesen Risikogruppen vollständig ersetzen.",
+      "Nur bei High-risk-Patienten ist ein Ersatz durch Urinmarker zulässig.",
+      "Die Zystoskopie wird in dieser Leitlinie generell nicht mehr empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Urinmarker können ergänzend eingesetzt werden, dürfen aber die Zystoskopie nicht ersetzen.",
+    "explanation": "Empfehlung 12.9 legt fest, dass bei Intermediate- oder High-risk-NMIBC die Zystoskopie in der Nachsorge nicht durch Urinmarker ersetzt werden soll."
+  },
+  {
+    "question": "Was soll laut Empfehlung 12.11 bei einer positiven Urinzytologie erfolgen, und was bei zusätzlich auffälliger Zystoskopie?",
+    "options": [
+      "Eine weitere Abklärung via Zystoskopie; bei auffälliger Zystoskopie zusätzlich ein Fluoreszenz-gestütztes (PDD) Mapping inkl. prostatischer Harnröhre und Schnittbildgebung des oberen Harntrakts.",
+      "Keine weitere Maßnahme, eine positive Zytologie allein hat keine Konsequenz.",
+      "Eine sofortige Zystektomie ohne weitere Diagnostik.",
+      "Eine alleinige Wiederholung der Urinzytologie nach 5 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung verbindet die zytologische mit der endoskopischen und radiologischen Diagnostik gezielt bei einem positiven Befund.",
+    "explanation": "Empfehlung 12.11 sieht vor, dass eine positive Urinzytologie eine weitere Abklärung via Zystoskopie indizieren sollte; ist die Zystoskopie auffällig, sollte zusätzlich ein Fluoreszenz-gestütztes (PDD) Mapping inklusive Abklärung der prostatischen Harnröhre sowie eine Schnittbildgebung des oberen Harntrakts mit urographischer Phase erfolgen."
+  },
+  {
+    "question": "Welches bildgebende Verfahren soll laut Empfehlung 12.6/12.13 bevorzugt eingesetzt werden, wenn eine Abklärung des oberen Harntrakts in der NMIBC-Nachsorge indiziert ist?",
+    "options": [
+      "Eine Dünnschicht-CT-Urographie mit multiplanaren Rekonstruktionen.",
+      "Eine konventionelle Röntgenaufnahme des Abdomens.",
+      "Eine Skelettszintigraphie.",
+      "Ein PET/CT."
+    ],
+    "correct": 0,
+    "tip": "Alternativ kann ein MRT mit mehreren Untersuchungszeitpunkten vor und nach Kontrastmittelapplikation durchgeführt werden.",
+    "explanation": "Empfehlung 12.6/12.13 sieht vor, dass bei indizierter bildgebender Abklärung des oberen Harntrakts bevorzugt eine Dünnschicht-CT-Urographie mit multiplanaren Rekonstruktionen durchgeführt werden sollte."
+  },
+  {
+    "question": "Welche diagnostische Eigenschaft wird der Urinzytologie laut Statement 12.10 in der Nachsorge von Urothelkarzinomen zugeschrieben?",
+    "options": [
+      "Sie ist eine hochspezifische urinbasierte Diagnosemethode für High-grade-NMIBC.",
+      "Sie ist ausschließlich für Low-grade-Tumoren hochspezifisch.",
+      "Sie hat in der Nachsorge keine diagnostische Bedeutung.",
+      "Sie ersetzt vollständig die Notwendigkeit einer Zystoskopie."
+    ],
+    "correct": 0,
+    "tip": "Diese hohe Spezifität für High-grade-Läsionen ist der Grund, warum sie ergänzend zur Zystoskopie bei Intermediate- und High-risk-Patienten eingesetzt werden soll.",
+    "explanation": "Statement 12.10 beschreibt die Urinzytologie als hochspezifische urinbasierte Diagnosemethode für High-grade nicht-muskelinvasives Blasenkarzinom in der Nachsorge von Urothelkarzinomen."
+  }
+]

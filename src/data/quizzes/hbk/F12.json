@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Patienten ist laut Empfehlung 7.41 (Kapitel 7.8) die multimodale, primär organerhaltende Therapie besonders geeignet?",
+    "options": [
+      "Patienten mit frühen Tumoren (cT2N0) ohne Hydronephrose oder assoziiertem Carcinoma in situ, bei denen die initiale TUR zu möglichst kompletter Tumorentfernung führt.",
+      "Ausschließlich Patienten mit Fernmetastasen.",
+      "Ausschließlich Patienten mit multifokalen T4-Tumoren und Hydronephrose.",
+      "Ausschließlich Patienten unter 40 Jahren unabhängig vom Tumorstadium."
+    ],
+    "correct": 0,
+    "tip": "Lokal fortgeschrittene Tumoren (T4), Hydronephrose, Multifokalität und begleitendes CIS sind dagegen ungünstige Prognosefaktoren.",
+    "explanation": "Empfehlung 7.41 sieht die multimodale, primär organerhaltende Therapie besonders geeignet für Patienten mit frühen Tumoren (cT2N0) ohne Hydronephrose oder assoziiertes Carcinoma in situ, bei denen eine möglichst komplette initiale TUR gelingt."
+  },
+  {
+    "question": "Bei wie viel Prozent der Patienten mit primär organerhaltender Therapie ist laut Kapitel 7.8 im Verlauf eine Salvage-Zystektomie indiziert?",
+    "options": [
+      "Etwa 25-30%.",
+      "Etwa 0-1%.",
+      "Praktisch 100%.",
+      "Etwa 95%."
+    ],
+    "correct": 0,
+    "tip": "Diese Salvage-Zystektomie ist integraler Bestandteil des Gesamtbehandlungskonzepts und darf nicht verzögert werden.",
+    "explanation": "Kapitel 7.8 beschreibt, dass bei etwa 25-30% der Patienten mit primär organerhaltender Therapie im Verlauf eine Salvage-Zystektomie indiziert ist."
+  },
+  {
+    "question": "Welche kompletten Remissionsraten und 5-Jahres-Überlebensraten werden laut Kapitel 7.8 übereinstimmend nach TUR plus Radiochemotherapie berichtet?",
+    "options": [
+      "Komplette Remissionsraten zwischen 60-90%, 5-Jahres-Überlebensraten zwischen 40-75%, mit Blasenerhalt bei ca. 80% der Überlebenden.",
+      "Komplette Remissionsraten unter 5%, 5-Jahres-Überleben unter 1%.",
+      "Komplette Remissionsraten von 100% bei allen Patienten ohne Ausnahme.",
+      "Es liegen laut Leitlinie keine Daten zu Remissions- oder Überlebensraten vor."
+    ],
+    "correct": 0,
+    "tip": "Diese Überlebensraten liegen im indirekten Vergleich in ähnlicher Größenordnung wie nach radikaler Zystektomie.",
+    "explanation": "Kapitel 7.8 berichtet komplette Remissionsraten zwischen 60% und 90% sowie 5-Jahres-Überlebensraten zwischen 40% und 75%, mit Erhalt der Blase bei ca. 80% der überlebenden Patienten."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.45 (Kapitel 7.10) im Rahmen eines blasenerhaltenden Vorgehens in kurativer Intention?",
+    "options": [
+      "Eine simultane Radiochemotherapie soll durchgeführt werden.",
+      "Eine alleinige Radiotherapie ohne Chemotherapie soll bei allen Patienten erfolgen.",
+      "Eine alleinige Chemotherapie ohne Radiotherapie ist Standard.",
+      "Eine Radiochemotherapie ist bei blasenerhaltendem Vorgehen kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Eine alleinige Radiotherapie soll laut Leitlinie nur erfolgen, wenn eine simultane Radiochemotherapie nicht durchführbar ist.",
+    "explanation": "Empfehlung 7.45 fordert, dass im Rahmen eines blasenerhaltenden Vorgehens in kurativer Intention eine simultane Radiochemotherapie durchgeführt werden soll."
+  },
+  {
+    "question": "Mit welchen Substanzen soll laut Empfehlung 7.46 die Radiosensibilisierung im Rahmen der simultanen Radiochemotherapie erfolgen?",
+    "options": [
+      "Mit einer Cisplatin-basierten Chemotherapie oder einer Kombination von 5-Fluorouracil und Mitomycin C.",
+      "Ausschließlich mit Carboplatin.",
+      "Ausschließlich mit klassischen Zytostatika wie Vincristin.",
+      "Mit Immuncheckpoint-Inhibitoren als Radiosensibilisator."
+    ],
+    "correct": 0,
+    "tip": "Cisplatin gilt als das effektivste Chemotherapeutikum sowohl in der Systemtherapie als auch als Radiosensibilisator.",
+    "explanation": "Empfehlung 7.46 sieht vor, dass die Radiosensibilisierung mit einer Cisplatin-basierten Chemotherapie oder mit einer Kombination von 5-Fluorouracil und Mitomycin C erfolgen sollte."
+  },
+  {
+    "question": "Welches Ergebnis zeigte die britische BC2001-Studie (Kapitel 7.10) zum Vergleich von Radiochemotherapie mit Mitomycin C/5-FU gegenüber alleiniger Bestrahlung?",
+    "options": [
+      "Signifikant verbesserte lokoregionäre Kontrolle (HR 0,68, p=0,03), aber ein statistisch nicht signifikanter Unterschied im 5-Jahres-Gesamtüberleben (48% vs. 35%, p=0,16).",
+      "Keine Verbesserung in irgendeinem untersuchten Endpunkt.",
+      "Eine signifikante Verschlechterung des Gesamtüberlebens durch die Radiochemotherapie.",
+      "Eine vollständige Heilung aller Patienten in beiden Studienarmen."
+    ],
+    "correct": 0,
+    "tip": "Trotz fehlender statistischer Signifikanz beim Gesamtüberleben gilt die verbesserte lokoregionäre Kontrolle als klinisch bedeutsamer Vorteil, da sie Voraussetzung für einen erfolgreichen Blasenerhalt ist.",
+    "explanation": "Die BC2001-Studie zeigte eine signifikant verbesserte lokoregionäre Kontrolle durch die Radiochemotherapie (HR 0,68, p=0,03), wobei der Unterschied im 5-Jahres-Gesamtüberleben (48% vs. 35%) statistisch nicht signifikant war (p=0,16)."
+  },
+  {
+    "question": "In welchem Zeitfenster sollte laut Empfehlung 7.47 (Kapitel 7.11) die Beurteilung des Therapieansprechens nach Abschluss der Radiochemotherapie erfolgen?",
+    "options": [
+      "Frühestens 6 und spätestens 12 Wochen nach Beendigung der RCT.",
+      "Innerhalb der ersten 24 Stunden nach RCT.",
+      "Frühestens nach 5 Jahren.",
+      "Es gibt kein definiertes Zeitfenster."
+    ],
+    "correct": 0,
+    "tip": "Dieses Zeitfenster soll verhindern, dass bei RCT-Versagern eine potenziell kurative Zystektomie unnötig verzögert wird.",
+    "explanation": "Empfehlung 7.47 sieht vor, dass die Beurteilung des Ansprechens frühestens 6 und spätestens 12 Wochen nach Beendigung der Radiochemotherapie stattfinden sollte."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.48 im Rahmen der Beurteilung des Ansprechens nach RCT durchgeführt werden?",
+    "options": [
+      "Eine erneute Zystoskopie mit Probenentnahme aus dem ehemaligen Resektionsgrund.",
+      "Ausschließlich eine Bildgebung ohne jede Zystoskopie.",
+      "Ausschließlich eine Urinzytologie ohne weitere Diagnostik.",
+      "Keine weitere Diagnostik, wenn der Patient beschwerdefrei ist."
+    ],
+    "correct": 0,
+    "tip": "Diese Biopsie ist notwendig, da bei unauffälliger Schleimhaut ein tiefer liegendes Tumorresiduum nicht sicher ausgeschlossen werden kann.",
+    "explanation": "Empfehlung 7.48 fordert, dass im Rahmen der Beurteilung des Ansprechens eine erneute Zystoskopie mit Probenentnahme aus dem ehemaligen Resektionsgrund erfolgen soll."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 7.50 (Kapitel 7.12) bei Patienten mit muskelinvasivem Urothelkarzinom ohne histologisch komplette Remission nach Radiochemotherapie?",
+    "options": [
+      "Eine Salvage-Zystektomie soll empfohlen werden.",
+      "Eine Wiederholung der identischen Radiochemotherapie.",
+      "Ausschließlich eine Verlaufskontrolle ohne weitere Intervention.",
+      "Eine alleinige systemische Chemotherapie ohne jede Operation."
+    ],
+    "correct": 0,
+    "tip": "Ohne komplettes Ansprechen (durchschnittlich bei 27% der Fälle) gilt die Salvage-Zystektomie als Goldstandard der Folgetherapie.",
+    "explanation": "Empfehlung 7.50 sieht vor, dass Patienten mit muskelinvasivem Urothelkarzinom, die histologisch keine komplette Remission nach RCT aufweisen, eine Salvage-Zystektomie empfohlen werden soll."
+  },
+  {
+    "question": "Wie unterschied sich laut der Arbeit von Rödel et al. (Kapitel 7.12) das tumorspezifische 5-/10-Jahres-Überleben bei kompletter Remission nach RCT im Vergleich zur Salvage-Zystektomie bei RCT-Versagen (keine komplette Remission)?",
+    "options": [
+      "72%/68% bei kompletter Remission vs. nur 21%/18% nach Salvage-Zystektomie bei RCT-Versagen.",
+      "Identische Überlebensraten in beiden Gruppen (ca. 70% in beiden Fällen).",
+      "21%/18% bei kompletter Remission vs. 72%/68% bei RCT-Versagen (umgekehrtes Verhältnis).",
+      "100% in beiden Gruppen ohne jeden Unterschied."
+    ],
+    "correct": 0,
+    "tip": "Dieser deutliche Unterschied erklärt, warum ein komplettes Ansprechen auf die Radiochemotherapie als zentrales Therapieziel gilt.",
+    "explanation": "Bei kompletter Remission wurden für das muskelinvasive Urothelkarzinom tumorspezifische 5-/10-Jahres-Überlebensraten von 72%/68% berichtet, während die Salvage-Zystektomie bei RCT-Versagen in der Arbeit von Rödel et al. nur 21%/18% erreichte."
+  }
+]

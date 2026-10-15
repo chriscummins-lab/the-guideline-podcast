@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Untersuchung soll laut Kapitel 5.5 bei klinischem Verdacht auf ein Harnblasenkarzinom primär zum Ausschluss eines Harnstaus erfolgen?",
+    "options": [
+      "Eine Sonographie.",
+      "Ein PET/CT.",
+      "Eine Skelettszintigraphie.",
+      "Eine Ausscheidungsurographie."
+    ],
+    "correct": 0,
+    "tip": "Diese Untersuchung ist nicht-invasiv und schnell verfügbar.",
+    "explanation": "Kapitel 5.5 empfiehlt, dass bei Patienten mit klinischem Verdacht auf ein Harnblasenkarzinom zum Ausschluss eines Harnstaus primär eine Sonographie erfolgen sollte."
+  },
+  {
+    "question": "Welches Verfahren soll laut Empfehlung 5.7 (Kapitel 5.5) als Standard in der Primärdiagnostik bei Verdacht auf ein Harnblasenkarzinom durchgeführt werden?",
+    "options": [
+      "Eine Weißlicht-Zystoskopie.",
+      "Eine primäre Zystektomie ohne vorherige Biopsie.",
+      "Ausschließlich eine Urinzytologie ohne Zystoskopie.",
+      "Eine PET/CT als Erstuntersuchung."
+    ],
+    "correct": 0,
+    "tip": "Bei bereits bildgebend gesichertem Verdacht kann unter bestimmten Umständen direkt eine Zystoskopie mit sofortiger TUR erfolgen.",
+    "explanation": "Empfehlung 5.7 legt fest, dass bei Verdacht auf ein Harnblasenkarzinom als Standard in der Primärdiagnostik eine Weißlicht-Zystoskopie durchgeführt werden soll."
+  },
+  {
+    "question": "Mit welchem Zystoskop soll laut Empfehlung 5.8 die Weißlicht-Zystoskopie in der Primärdiagnostik bei Männern durchgeführt werden, und welche Optionen bestehen bei Frauen?",
+    "options": [
+      "Bei Männern mit einem flexiblen Zystoskop; bei Frauen kann ein flexibles oder rigides Zystoskop verwendet werden.",
+      "Bei Männern ausschließlich rigide; bei Frauen ausschließlich flexibel.",
+      "Bei beiden Geschlechtern ausschließlich rigide Zystoskope.",
+      "Das Instrument spielt laut Leitlinie keine Rolle und wird nicht spezifiziert."
+    ],
+    "correct": 0,
+    "tip": "Bei Frauen erlaubt die Anatomie beide Optionen gleichwertig.",
+    "explanation": "Empfehlung 5.8 sieht vor, dass die Weißlicht-Zystoskopie bei Männern mit einem flexiblen Zystoskop durchgeführt werden sollte, während bei Frauen ein flexibles oder rigides Zystoskop eingesetzt werden kann."
+  },
+  {
+    "question": "Nach welchem Kriteriensystem soll laut Empfehlung 5.10 die Auswertung eines multiparametrischen MRT des Beckens zur Primärdiagnostik erfolgen?",
+    "options": [
+      "Nach den VI-RADS-Kriterien.",
+      "Nach dem R.E.N.A.L.-Score.",
+      "Nach dem PI-RADS-System.",
+      "Es gibt kein standardisiertes Bewertungssystem für das MRT des Beckens."
+    ],
+    "correct": 0,
+    "tip": "Dieses System (vesical imaging reporting and data system) ist speziell für die Blasenbildgebung entwickelt.",
+    "explanation": "Empfehlung 5.10 sieht vor, dass die Auswertung eines multiparametrischen MRT des Beckens entsprechend der VI-RADS-Kriterien erfolgen sollte."
+  },
+  {
+    "question": "Welche gepoolte Sensitivität und Spezifität zeigte die VI-RADS-Auswertung des multiparametrischen MRT laut der in Kapitel 5.7.1 zitierten Metaanalyse zur Differenzierung muskelinvasiver Tumoren?",
+    "options": [
+      "Sensitivität 0,83 und Spezifität 0,90.",
+      "Sensitivität und Spezifität jeweils unter 0,20.",
+      "Sensitivität und Spezifität jeweils 1,0 (perfekte Trennschärfe).",
+      "Es liegen laut Leitlinie keine Daten zur Testgüte von VI-RADS vor."
+    ],
+    "correct": 0,
+    "tip": "Diese Werte stammen aus einer Metaanalyse mehrerer Studien zur VI-RADS-Klassifikation.",
+    "explanation": "Kapitel 5.7.1 berichtet eine gepoolte Sensitivität von 0,83 (95% CI 0,70-0,90) und eine Spezifität von 0,90 (95% CI 0,83-0,95) für die VI-RADS-Auswertung des multiparametrischen MRT."
+  },
+  {
+    "question": "Was soll laut Empfehlung 5.12 (Kapitel 5.5) bei zystoskopischem Verdacht auf ein Harnblasenkarzinom erfolgen?",
+    "options": [
+      "Eine histologische Sicherung.",
+      "Eine sofortige radikale Zystektomie ohne Biopsie.",
+      "Ausschließlich eine weitere bildgebende Kontrolle nach 6 Monaten.",
+      "Keine weitere Maßnahme, bis Symptome auftreten."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung verweist direkt auf die Technik der transurethralen Resektion in Kapitel 6.",
+    "explanation": "Empfehlung 5.12 fordert, dass bei zystoskopischem Verdacht auf ein Harnblasenkarzinom eine histologische Sicherung erfolgen soll."
+  },
+  {
+    "question": "In welchem Bereich liegt laut Kapitel 5.7.1 die Inzidenz synchroner Malignome des oberen Harntrakts bei nicht-muskelinvasivem Harnblasenkarzinom insgesamt, und welcher Lokalisationsfaktor erhöht dieses Risiko besonders?",
+    "options": [
+      "0,3-2,3% insgesamt; eine Tumorlokalisation im Bereich des Trigonums erhöht das Risiko auf bis zu 7%.",
+      "50-70% insgesamt; die Tumorgröße hat keinen Einfluss.",
+      "Unter 0,01%, unabhängig von der Lokalisation.",
+      "100%, bei jedem Patienten mit NMIBC liegt immer auch ein Tumor des oberen Harntrakts vor."
+    ],
+    "correct": 0,
+    "tip": "Die Lokalisation im Trigonum war in einer multivariaten Analyse ein statistisch unabhängiger Prognosefaktor (RR 5,8).",
+    "explanation": "Kapitel 5.7.1 beschreibt eine Inzidenz synchroner Malignome des oberen Harntrakts von insgesamt 0,3-2,3%, wobei diese bei Tumorlokalisation im Bereich des Trigonums auf bis zu 7% ansteigt."
+  },
+  {
+    "question": "Bei welchen klinischen Konstellationen sollte laut den verknüpften Empfehlungen 5.16/5.17 beim Erstbefund eines NMIBC zusätzlich zur routinemäßigen Sonographie eine Schnittbildgebung des oberen Harntrakts erfolgen?",
+    "options": [
+      "Bei Tumorlokalisation im Bereich des Trigonums und/oder bei multiplen Tumoren und/oder bei High-Grade-Tumoren.",
+      "Nur bei Patienten über 90 Jahren.",
+      "Bei jedem Patienten unabhängig von Lokalisation oder Grading.",
+      "Nie, eine Schnittbildgebung des oberen Harntrakts ist beim NMIBC generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Eine routinemäßige Sonographie des oberen Harntrakts soll dagegen bei jedem Erstbefund erfolgen.",
+    "explanation": "Die Empfehlungen 5.16 und 5.17 sehen vor, dass beim Erstbefund eines NMIBC routinemäßig eine Sonographie des oberen Harntrakts erfolgen soll, während bei Trigonum-Lokalisation, multiplen Tumoren und/oder High-Grade-Tumoren zusätzlich eine Schnittbildgebung erfolgen sollte."
+  },
+  {
+    "question": "Welches bildgebende Verfahren soll laut Empfehlung 5.18 durchgeführt werden, wenn eine Abklärung des oberen Harntrakts bei NMIBC indiziert ist?",
+    "options": [
+      "Eine CT-Urographie.",
+      "Eine konventionelle Röntgenaufnahme des Abdomens.",
+      "Eine Skelettszintigraphie.",
+      "Ein PET/CT."
+    ],
+    "correct": 0,
+    "tip": "Als Alternative dazu kann laut Empfehlung 5.19 ein MRT mit MR-Urogramm eingesetzt werden.",
+    "explanation": "Empfehlung 5.18 sieht vor, dass bei indizierter bildgebender Abklärung des oberen Harntrakts bei NMIBC eine CT-Urographie durchgeführt werden sollte."
+  },
+  {
+    "question": "Welche nuklearmedizinische Diagnostik soll laut Empfehlung 5.20 zur Detektion von Zweittumoren des oberen Harntrakts bei Erstdiagnose eines NMIBC NICHT durchgeführt werden?",
+    "options": [
+      "PET oder PET/CT.",
+      "Sonographie.",
+      "CT-Urographie.",
+      "MRT mit MR-Urogramm."
+    ],
+    "correct": 0,
+    "tip": "Für die Testgenauigkeit dieser nuklearmedizinischen Verfahren bei dieser Fragestellung liegen laut Leitlinie keine ausreichenden Daten vor.",
+    "explanation": "Empfehlung 5.20 legt fest, dass für die Detektion von Zweittumoren des oberen Harntrakts bei Erstdiagnose eines NMIBC keine nuklearmedizinische Diagnostik (PET oder PET/CT) durchgeführt werden soll."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Um welchen Wert konnte die Rezidivrate laut der EORTC-Metaanalyse (Kapitel 6.4) durch eine postoperative intravesikale Frühinstillation nach TUR-B im Vergleich zur alleinigen TUR-B gesenkt werden?",
+    "options": [
+      "Von 48% auf 37%, entsprechend einer relativen Risikoreduktion von 39%.",
+      "Von 10% auf 90%, also einer deutlichen Verschlechterung.",
+      "Keine Veränderung, die Rezidivrate blieb bei 48% in beiden Gruppen.",
+      "Von 48% auf 0%, also einer vollständigen Elimination des Rezidivrisikos."
+    ],
+    "correct": 0,
+    "tip": "Dieser Effekt zeigte sich sowohl bei solitären als auch bei multiplen Tumoren, unabhängig vom eingesetzten Chemotherapeutikum.",
+    "explanation": "Die EORTC-Metaanalyse (Kapitel 6.4) zeigte eine Senkung der Rezidivrate von 48% auf 37% (p<0,0001) durch eine intravesikale Frühinstillation nach TUR-B, was einer relativen Risikoreduktion von 39% entspricht."
+  },
+  {
+    "question": "Innerhalb welches Zeitfensters soll die Chemotherapie-Frühinstillation laut Kapitel 6.4 nach der TUR-B durchgeführt werden?",
+    "options": [
+      "Innerhalb der ersten sechs Stunden postoperativ, spätestens innerhalb der ersten 24 Stunden.",
+      "Frühestens nach 2 Wochen.",
+      "Erst nach vollständiger Wundheilung nach 6 Wochen.",
+      "Es gibt kein definiertes Zeitfenster."
+    ],
+    "correct": 0,
+    "tip": "Ein zu später Zeitpunkt würde den protektiven Effekt gegen die Implantation zirkulierender Tumorzellen vermindern.",
+    "explanation": "Kapitel 6.4 beschreibt, dass die intravesikale Chemotherapie als Frühinstillation innerhalb der ersten sechs Stunden postoperativ oder spätestens innerhalb der ersten 24 Stunden durchgeführt werden sollte."
+  },
+  {
+    "question": "Welche 'Number Needed to Treat' (NNT) für die Vermeidung eines intravesikalen Rezidivs durch Frühinstillation ermittelte der in Kapitel 6.4 zitierte systematische Review mit 3103 Patienten?",
+    "options": [
+      "NNT von 7,2.",
+      "NNT von 1.000.",
+      "NNT von 0,1.",
+      "Eine NNT konnte aus dieser Analyse nicht berechnet werden."
+    ],
+    "correct": 0,
+    "tip": "Diese NNT entspricht einer absoluten Rezidivrisikoreduktion von 13% (50% vs. 37%).",
+    "explanation": "Der systematische Review mit 18 Studien und 3103 Patienten (Kapitel 6.4) ermittelte eine absolute Reduktion der Rezidivrate um 13% durch die Frühinstillation, entsprechend einer NNT von 7,2."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.16 (Kapitel 6.5.1, Empfehlungsgrad A) bei Patienten mit einem Low-risk-Urothelkarzinom nach TUR und Frühinstillation?",
+    "options": [
+      "Es soll keine weitere adjuvante Chemotherapie-Instillation vorgenommen werden.",
+      "Es soll eine zusätzliche BCG-Erhaltungstherapie über 3 Jahre erfolgen.",
+      "Es soll immer eine sofortige Zystektomie erfolgen.",
+      "Es soll eine zusätzliche adjuvante Chemotherapie über mindestens 1 Jahr erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Das Progressions- und Rezidivrisiko ist bei dieser Gruppe nach EORTC-Klassifikation gering.",
+    "explanation": "Empfehlung 6.16 legt mit Empfehlungsgrad A fest, dass bei Patienten mit einem Low-risk-Urothelkarzinom nach TUR und Frühinstillation keine weitere adjuvante Chemotherapie-Instillation vorgenommen werden soll."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 6.17 (Kapitel 6.5.2, Empfehlungsgrad B) bei erstdiagnostizierten Intermediate-risk-Tumoren?",
+    "options": [
+      "Nach ausführlicher Beratung entweder eine Chemotherapie-Instillation oder eine BCG-Instillationstherapie.",
+      "Ausschließlich eine Chemotherapie-Instillation, BCG ist in dieser Risikogruppe kontraindiziert.",
+      "Ausschließlich eine sofortige radikale Zystektomie.",
+      "Grundsätzlich keine adjuvante Therapie."
+    ],
+    "correct": 0,
+    "tip": "Die Wahl zwischen beiden Optionen soll Wirksamkeit und Nebenwirkungsspektrum gegeneinander abwägen.",
+    "explanation": "Empfehlung 6.17 sieht bei erstdiagnostizierten Intermediate-risk-Urothelkarzinomen nach ausführlicher Beratung entweder eine Chemotherapie-Instillation oder eine BCG-Instillationstherapie vor."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 6.18 ein Rezidiv-Urothelkarzinom im Intermediate-risk-Stadium behandelt werden, das nach vorheriger oder unter Chemotherapie-Instillation auftritt?",
+    "options": [
+      "Mit einer BCG-Instillationstherapie für mindestens ein Jahr (Induktion 6 Wochen wöchentlich, Erhaltung je 3 Wochen nach 3, 6 und 12 Monaten).",
+      "Mit einer Wiederholung derselben Chemotherapie für weitere 6 Monate.",
+      "Mit einer sofortigen palliativen Systemtherapie.",
+      "Mit einem vollständigen Therapieverzicht bis zum nächsten Rezidiv."
+    ],
+    "correct": 0,
+    "tip": "Dieses Schema entspricht dem Standard-BCG-Protokoll mit definierter Induktions- und Erhaltungsphase.",
+    "explanation": "Empfehlung 6.18 sieht bei einem Rezidiv unter Chemotherapie-Instillation im Intermediate-risk-Stadium eine BCG-Instillationstherapie für mindestens ein Jahr vor, mit einer Induktion von 6 wöchentlichen Instillationen und einer Erhaltung von je 3 wöchentlichen Instillationen nach 3, 6 und 12 Monaten."
+  },
+  {
+    "question": "Was besagt Statement 6.19 zum Einfluss der BCG-Therapie bei Intermediate-risk-Tumoren auf Rezidiv- und Progressionsrate im Vergleich zur Chemotherapie-Instillation?",
+    "options": [
+      "BCG reduziert die Rezidivrate signifikant gegenüber Chemotherapie, ein Einfluss auf die Progressionsrate ist jedoch nicht gesichert.",
+      "BCG zeigt keinen Unterschied in der Rezidivrate, reduziert aber die Progressionsrate sicher.",
+      "BCG ist der Chemotherapie in beiden Endpunkten eindeutig unterlegen.",
+      "Weder Rezidiv- noch Progressionsrate werden durch BCG beeinflusst."
+    ],
+    "correct": 0,
+    "tip": "Die Überlegenheit scheint vor allem an die Durchführung einer Erhaltungstherapie gekoppelt zu sein.",
+    "explanation": "Statement 6.19 stellt fest, dass eine BCG-Therapie bei Intermediate-risk-Tumoren die Rezidivrate signifikant gegenüber einer Chemotherapieinstillation reduziert, ein Einfluss auf die Progressionsrate jedoch nicht gesichert ist."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.20 bezüglich der Aufklärung von Patienten mit Intermediate-risk-Blasenkarzinom?",
+    "options": [
+      "Sie sollen über Vor- und Nachteile von BCG- vs. Chemotherapie bezüglich Endpunkten und Nebenwirkungen aufgeklärt werden.",
+      "Eine Aufklärung über Therapiealternativen ist bei dieser Risikogruppe nicht erforderlich.",
+      "Patienten sollen ausschließlich über die BCG-Therapie informiert werden.",
+      "Die Entscheidung wird ausschließlich vom Arzt ohne Patientenbeteiligung getroffen."
+    ],
+    "correct": 0,
+    "tip": "Diese partizipative Aufklärung ist neu in dieser Leitlinienversion aufgenommen worden.",
+    "explanation": "Empfehlung 6.20 fordert, dass Patienten mit Intermediate-risk-Blasenkarzinom über die Vor- und Nachteile der BCG- vs. Chemotherapie in Bezug auf die unterschiedlichen Endpunkte und Nebenwirkungen aufgeklärt werden sollen."
+  },
+  {
+    "question": "Was zeigte die Studie von Au et al. (Kapitel 6.5.1) zur Optimierung der Mitomycin-C-Instillation durch Flüssigkeitsrestriktion und Urinalkalisierung?",
+    "options": [
+      "Eine signifikante Verlängerung der rezidivfreien Zeit bei höherer Dosierung (40 mg), mit signifikant häufigerer Dysurie, aber ohne häufigeren Therapieabbruch.",
+      "Keinen Effekt der Dosisoptimierung auf die rezidivfreie Zeit.",
+      "Eine signifikant kürzere rezidivfreie Zeit bei der höheren Dosierung.",
+      "Eine vollständige Elimination aller Nebenwirkungen durch die Optimierung."
+    ],
+    "correct": 0,
+    "tip": "Die Optimierung erfolgte durch 8-stündige Flüssigkeitsrestriktion vor Applikation und orale Natriumbikarbonat-Gabe.",
+    "explanation": "Au et al. zeigten laut Kapitel 6.5.1, dass die rezidivfreie Zeit durch pharmakokinetisch optimierte, höher dosierte Mitomycin-C-Gabe (40 mg) signifikant verlängert werden konnte, wobei zwar signifikant häufiger eine Dysurie auftrat, dies aber nicht zu häufigeren Therapieabbrüchen führte."
+  },
+  {
+    "question": "Welche relative Risikoreduktion durch BCG zeigte die explorative Analyse von Sylvester et al. (Kapitel 6.5.2) für Patienten mit intermediärem Risiko im Vergleich zu Hochrisikotumoren?",
+    "options": [
+      "41% relative Risikoreduktion bei intermediärem Risiko, nur ein statistischer Trend (31%) bei Hochrisikotumoren.",
+      "Kein Unterschied zwischen den beiden Risikogruppen.",
+      "Höhere Risikoreduktion bei Hochrisikotumoren (90%) als bei intermediärem Risiko (5%).",
+      "BCG zeigte in keiner der beiden Gruppen einen signifikanten Effekt."
+    ],
+    "correct": 0,
+    "tip": "Bei Hochrisikotumoren war der Unterschied statistisch nicht signifikant, sondern nur ein Trend zugunsten BCG.",
+    "explanation": "Die explorative Analyse von Sylvester et al. zeigte laut Kapitel 6.5.2 einen signifikanten Vorteil von BCG bei intermediärem Risiko (relative Risikoreduktion 41%), während bei Hochrisikotumoren nur ein statistischer Trend (31%) festgestellt werden konnte."
+  }
+]

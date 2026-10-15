@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 6.1 (Kapitel 6.1, Empfehlungsgrad A) zur Therapie des lokalisierten Nierenzellkarzinoms?",
+    "options": [
+      "Zur Kuration soll eine chirurgische Resektion erfolgen.",
+      "Eine primäre systemische Therapie soll der Operation vorausgehen.",
+      "Eine Strahlentherapie ist der Operation gleichwertig.",
+      "Eine aktive Überwachung soll bei allen lokalisierten Tumoren erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung bildet die Grundlage für alle weiteren operativen Empfehlungen dieses Kapitels.",
+    "explanation": "Empfehlung 6.1 legt mit Empfehlungsgrad A fest, dass zur Kuration beim lokalisierten Nierenzellkarzinom eine chirurgische Resektion erfolgen soll."
+  },
+  {
+    "question": "Wie sollen lokal begrenzte Tumoren der klinischen Kategorie T1 laut Empfehlung 6.2 operiert werden?",
+    "options": [
+      "Immer mittels radikaler Nephrektomie.",
+      "Nierenerhaltend (Empfehlungsgrad A).",
+      "Primär durch Ablation, nicht operativ.",
+      "Nur bei Patientenwunsch nierenerhaltend, ansonsten radikal."
+    ],
+    "correct": 1,
+    "tip": "Für größere Tumoren (>T1) gilt eine etwas schwächere Empfehlungsstufe.",
+    "explanation": "Empfehlung 6.2 fordert mit Empfehlungsgrad A, dass Tumoren der klinischen Kategorie T1 nierenerhaltend operiert werden sollen."
+  },
+  {
+    "question": "Mit welchem Empfehlungsgrad sieht Empfehlung 6.3 die nierenerhaltende Operation bei Tumoren der Kategorie >T1 vor?",
+    "options": [
+      "Empfehlungsgrad A ('soll').",
+      "Empfehlungsgrad B ('sollte, wenn technisch möglich').",
+      "Empfehlungsgrad 0 ('kann').",
+      "Es gibt für >T1-Tumoren keine Empfehlung zur nierenerhaltenden Operation."
+    ],
+    "correct": 1,
+    "tip": "Die Formulierung ist schwächer als bei T1-Tumoren und an die technische Machbarkeit gekoppelt.",
+    "explanation": "Empfehlung 6.3 sieht mit Empfehlungsgrad B vor, dass Tumoren >T1 nierenerhaltend operiert werden sollten, wenn dies technisch möglich ist."
+  },
+  {
+    "question": "Wonach soll sich laut Empfehlung 6.4 die Wahl des Operationsverfahrens (offen, laparoskopisch, robotisch) bei der organerhaltenden Operation richten?",
+    "options": [
+      "Ausschließlich nach dem Patientenwunsch.",
+      "Nach der Erfahrung des Operateurs.",
+      "Nach der Kostenerstattung durch die Krankenkasse.",
+      "Nach der Verfügbarkeit eines OP-Roboters, unabhängig von der Erfahrung."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung ist als Expertenkonsens (EK) formuliert.",
+    "explanation": "Empfehlung 6.4 besagt als Expertenkonsens, dass sich die Wahl des Operationsverfahrens an der Erfahrung des Operateurs orientieren sollte."
+  },
+  {
+    "question": "Welche Vorteile zeigt die robotische Nierenteilresektion laut Statement 6.5 im Vergleich zur offenen Operation?",
+    "options": [
+      "Höhere Komplikationsraten, aber kürzerer Aufenthalt.",
+      "Meist geringere Komplikationsraten, kürzerer stationärer Aufenthalt und vergleichbare funktionelle sowie onkologische Ergebnisse.",
+      "Deutlich schlechtere onkologische Ergebnisse bei kürzerem Aufenthalt.",
+      "Keine Unterschiede in irgendeinem untersuchten Parameter."
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um ein neu 2021 aufgenommenes Evidenzbasiertes Statement.",
+    "explanation": "Statement 6.5 beschreibt für die robotische Nierenteilresektion im Vergleich zur offenen Operation meist geringere Komplikationsraten, einen kürzeren stationären Aufenthalt sowie vergleichbare funktionelle und onkologische Ergebnisse."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.6, wenn eine organerhaltende Operation nicht möglich ist?",
+    "options": [
+      "Eine alleinige Biopsie zur Verlaufskontrolle.",
+      "Eine Nephrektomie soll erfolgen.",
+      "Eine primäre Strahlentherapie.",
+      "Ausschließlich eine aktive Überwachung."
+    ],
+    "correct": 1,
+    "tip": "Dies ist die konsequente Alternative zu den Empfehlungen 6.2/6.3 zur nierenerhaltenden Operation.",
+    "explanation": "Empfehlung 6.6 legt mit Empfehlungsgrad A fest, dass bei nicht möglicher organerhaltender Operation eine Nephrektomie erfolgen soll."
+  },
+  {
+    "question": "Wie soll die Nephrektomie laut Empfehlung 6.7 in Abhängigkeit vom Lokalbefund erfolgen?",
+    "options": [
+      "Grundsätzlich offen-chirurgisch.",
+      "Minimal-invasiv.",
+      "Ausschließlich als Zweit-Operation nach primärer Biopsie.",
+      "Nur unter Vollnarkose ohne weitere Spezifikation der Technik."
+    ],
+    "correct": 1,
+    "tip": "Dies spiegelt die Entwicklung von der offenen hin zur minimal-invasiven Standardtechnik wider.",
+    "explanation": "Empfehlung 6.7 fordert mit Empfehlungsgrad A, dass die Nephrektomie in Abhängigkeit vom Lokalbefund minimal-invasiv erfolgen soll."
+  },
+  {
+    "question": "Wie bewertet Statement 6.8 die robotische Nephrektomie im Vergleich zur laparoskopischen Nephrektomie?",
+    "options": [
+      "Die robotische Nephrektomie ist bei vergleichbaren Komplikationsraten, aber höheren Kosten, der laparoskopischen nicht überlegen.",
+      "Die robotische Nephrektomie ist in allen Endpunkten signifikant überlegen.",
+      "Die laparoskopische Nephrektomie wird aufgrund schlechterer Ergebnisse nicht mehr empfohlen.",
+      "Beide Verfahren sind mittlerweile obsolet gegenüber der offenen Nephrektomie."
+    ],
+    "correct": 0,
+    "tip": "Trotz höherer Kosten für die robotische Technik ergibt sich kein Vorteil bei den Komplikationsraten.",
+    "explanation": "Statement 6.8 stellt fest, dass die robotische Nephrektomie bei vergleichbaren Komplikationsraten, aber höheren Kosten, der laparoskopischen Nephrektomie nicht überlegen ist."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.9 (Kapitel 6.2, Empfehlungsgrad B) zur Ischämiedauer bei der Nierenteilresektion?",
+    "options": [
+      "Die Ischämiedauer sollte so kurz wie möglich gehalten werden.",
+      "Eine Ischämiedauer von mindestens 30 Minuten ist stets anzustreben.",
+      "Auf eine Ischämie soll grundsätzlich verzichtet werden.",
+      "Die Ischämiedauer spielt für das funktionelle Ergebnis keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Die Empfehlung berücksichtigt sowohl warme als auch kalte Ischämie als mögliche Vorgehensweisen.",
+    "explanation": "Empfehlung 6.9 fordert mit Empfehlungsgrad B, dass bei der Nierenteilresektion die Ischämiedauer so kurz wie möglich gehalten werden sollte."
+  },
+  {
+    "question": "Welchen Zusammenhang beschreibt die 'Every Minute Counts'-Arbeit (Kapitel 6.2) zwischen warmer Ischämiezeit und postoperativem Nierenversagen?",
+    "options": [
+      "Jede Minute warme Ischämie war mit einem 6%igen Anstieg eines akuten Nierenversagens assoziiert.",
+      "Erst ab 60 Minuten warmer Ischämie stieg das Risiko für ein Nierenversagen signifikant an.",
+      "Die warme Ischämiezeit zeigte keinen Zusammenhang mit dem Risiko eines Nierenversagens.",
+      "Jede Minute warme Ischämie senkte das Risiko eines Nierenversagens um 6%."
+    ],
+    "correct": 0,
+    "tip": "Die Studie an 362 Patienten mit Einzelniere prägte den Begriff dieser Analyse.",
+    "explanation": "Die 2010 publizierte Analyse an 362 Patienten mit Einzelniere zeigte, dass jede Minute warme Ischämie mit einem 6%igen Anstieg eines akuten Nierenversagens (HR 1,06, p < 0,001) und einem 4%igen Anstieg eines Grad-IV-Nierenversagens assoziiert war – daher der Titel 'Every Minute Counts'."
+  }
+]

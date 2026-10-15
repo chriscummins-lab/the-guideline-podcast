@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt das Konsensbasierte Statement 5.1 zur aktiven Überwachung des Nierenzellkarzinoms?",
+    "options": [
+      "Es gibt klare, international etablierte Kriterien zur Patientenselektion.",
+      "Es gibt weder objektive Kriterien zur Selektion adäquater Patienten noch eine einheitliche Definition der aktiven Überwachung.",
+      "Aktive Überwachung ist beim Nierenzellkarzinom grundsätzlich kontraindiziert.",
+      "Die aktive Überwachung ist nur bei metastasierten Verläufen zulässig."
+    ],
+    "correct": 1,
+    "tip": "Die Formulierung betont explizit das Fehlen einer Standardisierung.",
+    "explanation": "Statement 5.1 stellt fest, dass es weder objektive Kriterien zur Selektion adäquater Patienten noch eine einheitliche Definition zur aktiven Überwachung gibt."
+  },
+  {
+    "question": "Für welche Patientengruppe sieht Empfehlung 5.2 die Überwachung eines kleinen Nierentumors (Empfehlungsgrad 0) vor?",
+    "options": [
+      "Nur für junge, ansonsten gesunde Patienten.",
+      "Für Patienten mit hoher Komorbidität und/oder begrenzter Lebenserwartung.",
+      "Für alle Patienten unabhängig von Alter und Komorbidität.",
+      "Ausschließlich für Patienten mit bereits gesicherter Metastasierung."
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um eine offene Empfehlung (Grad 0), die auf eine spezifische Patientengruppe zielt.",
+    "explanation": "Empfehlung 5.2 (Empfehlungsgrad 0) sieht vor, dass bei Patienten mit hoher Komorbidität und/oder begrenzter Lebenserwartung der kleine Nierentumor überwacht werden kann."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.3 vor Einleitung einer aktiven Überwachung?",
+    "options": [
+      "Eine Biopsie soll erfolgen.",
+      "Eine primäre Nephrektomie soll durchgeführt werden.",
+      "Eine systemische Therapie soll vorab begonnen werden.",
+      "Eine Bildgebung ist nicht erforderlich, solange keine Symptome bestehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung ist als Expertenkonsens (EK) ausgewiesen.",
+    "explanation": "Empfehlung 5.3 legt als Expertenkonsens fest, dass vor aktiver Überwachung eine Biopsie erfolgen soll."
+  },
+  {
+    "question": "Welcher Durchmesser definiert laut Kapitel 5.1 einen 'kleinen Nierentumor' (Small Renal Mass, SRM), und welcher TNM-Kategorie entspricht dieser Grenzwert?",
+    "options": [
+      "≤ 7 cm, entspricht dem Übergang von T2a zu T2b.",
+      "≤ 4 cm, entspricht dem Übergang von T1a zu T1b.",
+      "≤ 2 cm, entspricht dem Übergang von T1a zu T1b.",
+      "≤ 10 cm, es gibt keine Entsprechung zur TNM-Klassifikation."
+    ],
+    "correct": 1,
+    "tip": "Manche Publikationen verwenden abweichende Grenzwerte wie 3 cm, der Standard orientiert sich aber an der T1-Unterteilung.",
+    "explanation": "Kapitel 5.1 definiert den kleinen Nierentumor (SRM) als Tumor mit einem Durchmesser bis 4 cm, was dem Übergang von der T1a- zur T1b-Kategorie nach TNM-Klassifikation entspricht."
+  },
+  {
+    "question": "Welche grobe Verteilung zeigt sich laut Kapitel 5.1 bei radiologisch malignitätsverdächtigen kleinen Nierentumoren hinsichtlich ihrer tatsächlichen Dignität/Aggressivität?",
+    "options": [
+      "100 % sind maligne und hochaggressiv.",
+      "20-30 % benigne, ca. 60 % indolent (langsam wachsend), 20 % aggressive Karzinome.",
+      "Fast alle sind benigne Tumoren ohne klinische Relevanz.",
+      "50 % benigne, 50 % aggressive Karzinome, keine indolente Gruppe."
+    ],
+    "correct": 1,
+    "tip": "Nur eine Minderheit zeigt tatsächlich ein aggressives Verhalten mit höherem Metastasierungspotential.",
+    "explanation": "Trotz radiologischer Malignitätskriterien sind laut Kapitel 5.1 20-30 % der kleinen Nierentumoren benigne, ca. 60 % indolente (langsam wachsende) und nur 20 % aggressive Karzinome mit höherem Metastasierungspotential."
+  },
+  {
+    "question": "Um wie viel Prozent stieg laut der Arbeit von Thompson et al. (Kapitel 5.1) das Risiko einer Metastasierung bei Primärdiagnose pro zusätzlichem Zentimeter Tumordurchmesser?",
+    "options": [
+      "Um 5 %",
+      "Um 25 %",
+      "Um 50 %",
+      "Um 90 %"
+    ],
+    "correct": 1,
+    "tip": "Die gleiche Größenordnung galt auch für das Risiko einer späteren Metastasierung im Verlauf (24 %).",
+    "explanation": "Laut Thompson et al. stieg das Risiko einer Metastasierung zum Zeitpunkt der Diagnose pro zusätzlichem Zentimeter Tumordurchmesser um 25 % (Odds Ratio 1,25; p < 0,001)."
+  },
+  {
+    "question": "Warum ist die Wachstumsrate allein laut Kapitel 5.1 als Beurteilungsparameter nicht ausreichend verlässlich?",
+    "options": [
+      "Weil auch gutartige Tumoren wie Onkozytome relevante Größenveränderungen zeigen können.",
+      "Weil Wachstumsraten grundsätzlich nicht messbar sind.",
+      "Weil die Wachstumsrate ausschließlich bei metastasierten Tumoren erfasst wird.",
+      "Weil benigne Tumoren per Definition nicht wachsen."
+    ],
+    "correct": 0,
+    "tip": "Die biologische Heterogenität kleiner Nierentumoren erschwert eine alleinige Beurteilung über das Wachstum.",
+    "explanation": "Kapitel 5.1 weist darauf hin, dass auch gutartige Nierentumoren wie Onkozytome relevante Größenveränderungen zeigen können, weshalb die Wachstumsrate allein nicht ausreichend verlässlich erscheint."
+  },
+  {
+    "question": "Welchen Patienten können laut Empfehlung 5.4 (Kapitel 5.2.1) Kryoablation und Radiofrequenzablation angeboten werden?",
+    "options": [
+      "Nur jungen Patienten ohne Komorbidität mit Tumoren über 7 cm.",
+      "Patienten mit kleinen Nierentumoren und hoher Komorbidität und/oder begrenzter Lebenserwartung.",
+      "Ausschließlich Patienten mit bilateralem Nierenzellkarzinom.",
+      "Patienten, die eine systemische Therapie ablehnen."
+    ],
+    "correct": 1,
+    "tip": "Die Empfehlung hat den offenen Empfehlungsgrad 0.",
+    "explanation": "Empfehlung 5.4 sieht vor, dass Kryoablation und Radiofrequenzablation Patienten mit kleinen Nierentumoren und hoher Komorbidität und/oder begrenzter Lebenserwartung angeboten werden können."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.5 (Empfehlungsgrad A) vor dem Einsatz ablativer Verfahren?",
+    "options": [
+      "Eine perkutane Nierentumorbiopsie soll erfolgen.",
+      "Eine offene chirurgische Exploration soll vorausgehen.",
+      "Eine systemische Vortherapie mit TKI ist obligat.",
+      "Eine Ganzkörper-PET-CT ist zwingend erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Dies ist eine der wenigen Empfehlungen in diesem Kapitel mit dem höchsten Empfehlungsgrad A.",
+    "explanation": "Empfehlung 5.5 fordert mit Empfehlungsgrad A, dass vor dem Einsatz ablativer Verfahren eine perkutane Nierentumorbiopsie erfolgen soll."
+  },
+  {
+    "question": "Was zeigte die SEER-Datenbankanalyse von Whitson et al. (Kapitel 5.2.1) beim Vergleich ablativer Verfahren mit der organerhaltenden Nierenchirurgie (NSS) bei Tumoren < 4 cm?",
+    "options": [
+      "Ablative Verfahren zeigten ein etwa zweifach erhöhtes Risiko, am Nierenkarzinom zu versterben (HR 1,9), wobei der absolute Unterschied im 5-Jahres-DSS gering war (98,3 % vs. 96,6 %).",
+      "Ablative Verfahren waren der NSS in allen Endpunkten signifikant überlegen.",
+      "Es zeigte sich kein Unterschied zwischen beiden Verfahren in irgendeinem Endpunkt.",
+      "Die NSS zeigte eine signifikant schlechtere Nierenfunktion als die ablativen Verfahren."
+    ],
+    "correct": 0,
+    "tip": "Trotz eines statistisch relevanten relativen Risikounterschieds war die absolute Differenz im Überleben klein.",
+    "explanation": "Whitson et al. fanden anhand der SEER-Datenbank für ablative Verfahren im Vergleich zur organerhaltenden Nierenchirurgie ein etwa zweifach erhöhtes Risiko, am Nierenkarzinom zu versterben (HR 1,9; 95%-CI 1,1-3,3), wobei das vorausgesagte 5-Jahres-DSS mit 98,3 % (NSS) vs. 96,6 % (ablative Verfahren) nur marginal unterschiedlich war."
+  }
+]

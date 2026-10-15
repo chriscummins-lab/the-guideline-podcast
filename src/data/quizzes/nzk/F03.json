@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Faktoren nennt Statement 4.17 (Kapitel 4.2.1) als klinische prognostische Faktoren beim Nierenzellkarzinom?",
+    "options": [
+      "Ausschließlich das TNM-Stadium.",
+      "Performance Status, Metastasierungsmuster/-zeitpunkt, Symptome und hämatologische Parameter (Hb, Thrombozyten, Neutrophile) sowie LDH.",
+      "Ausschließlich molekulare Marker wie VHL-Mutationsstatus.",
+      "Nur das Alter und Geschlecht des Patienten."
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um klinische, nicht primär histopathologische oder molekulare Faktoren.",
+    "explanation": "Statement 4.17 nennt Performance Status, das Auftreten von Metastasen in Abhängigkeit von Zeitpunkt und Ort, Symptome sowie hämatologische Parameter (Hb, Thrombozyten, Neutrophile) und LDH als klinische prognostische Faktoren."
+  },
+  {
+    "question": "Wie ist der Concordance-Index (C-Index) laut Kapitel 4.3 (Nomogramme) zu interpretieren, wenn er bei 0,5 liegt?",
+    "options": [
+      "Eine perfekte Vorhersagegenauigkeit.",
+      "Eine sehr hohe Präzision.",
+      "Das Modell hat nur die Sicherheit eines Münzwurfes.",
+      "Das Modell ist nicht anwendbar und ungültig."
+    ],
+    "correct": 2,
+    "tip": "Werte zwischen 0,5 und 0,7 gelten laut Text bereits als gering akkurat.",
+    "explanation": "Kapitel 4.3 erläutert, dass ein C-Index von 1 bzw. 100% eine ideale Vorhersagegenauigkeit bedeutet, während ein Wert von 0,5 nur der Sicherheit eines Münzwurfes entspricht; 0,5-0,7 gilt als gering akkurat, 0,7-0,9 als akzeptabel und >0,9 als sehr hohe Präzision."
+  },
+  {
+    "question": "Welche Faktoren fließen laut Kapitel 4.5.1 in das UISS-Model (UCLA Integrated Staging System) ein?",
+    "options": [
+      "T-, N- und M-Kategorie (1997), ECOG-Performance Status und Fuhrman-Grad.",
+      "Ausschließlich die Tumorgröße.",
+      "Nur Hämoglobin und Serumkalzium.",
+      "Molekulare Marker wie TFE3- oder TFEB-Translokation."
+    ],
+    "correct": 0,
+    "tip": "Das Modell existiert in Varianten für nicht metastasierte und metastasierte Verläufe und führt über einen Entscheidungsbaum zu einer Risikoklasse.",
+    "explanation": "Das UISS-Model kategorisiert Patienten laut Kapitel 4.5.1 anhand von T-, N- und M-Kategorie (1997), ECOG-Performance Status und Fuhrman-Grad in die Risikoklassen low, intermediate oder high."
+  },
+  {
+    "question": "Für welche Patientenpopulation ist der SSIGN-Score laut Kapitel 4.5.7 validiert, und welchen Endpunkt sagt er voraus?",
+    "options": [
+      "Alle histologischen Subtypen; Gesamtüberleben unter Systemtherapie.",
+      "Nur klarzellige Nierenzellkarzinome; Nierenzellkarzinom-spezifisches Überleben postoperativ.",
+      "Nur papilläre Nierenzellkarzinome; progressionsfreies Überleben.",
+      "Nur metastasierte Tumoren; 2-Jahres-Überleben unter Anti-VEGF-Therapie."
+    ],
+    "correct": 1,
+    "tip": "Der Score wurde am selben Kollektiv wie der Leibovich-Score entwickelt, verwendet aber einen anderen Endpunkt.",
+    "explanation": "Der SSIGN-Score ist laut Kapitel 4.5.7 nur für klarzellige Nierenzellkarzinome entwickelt und sagt das Nierenzellkarzinom-spezifische Überleben postoperativ voraus, mit einem Wertebereich von 0-15 Punkten."
+  },
+  {
+    "question": "Welche paradoxe Beobachtung beschreibt die Leitlinie in Kapitel 4.5.7 zur Punktevergabe des SSIGN-Scores bei pT4-Tumoren?",
+    "options": [
+      "pT4-Tumoren erhalten trotz ungünstiger Prognose denselben Punktewert (0) wie pT1-Tumoren.",
+      "pT4-Tumoren erhalten automatisch die Höchstpunktzahl von 15.",
+      "pT4-Tumoren werden im SSIGN-Score generell nicht berücksichtigt.",
+      "pT4-Tumoren führen zu einem negativen Punktewert."
+    ],
+    "correct": 0,
+    "tip": "Die Erklärung liegt in einer Überlappung mit anderen, bereits erfassten negativen Faktoren in der Entwicklungskohorte.",
+    "explanation": "Kapitel 4.5.7 beschreibt, dass pT4-Tumoren trotz offensichtlich ungünstiger Prognose mit einem Punktewert von 0 belegt wurden – identisch zu pT1 – da die pT-Kategorie für diese Patienten durch Überlappung mit anderen negativen Faktoren prognostisch irrelevant wurde."
+  },
+  {
+    "question": "Worin unterscheidet sich der Endpunkt des Leibovich-Scores (Kapitel 4.5.8) von dem des SSIGN-Scores?",
+    "options": [
+      "Der Leibovich-Score sagt das metastasenfreie Überleben voraus, der SSIGN-Score das Nierenzellkarzinom-spezifische Überleben.",
+      "Beide Scores verwenden exakt denselben Endpunkt.",
+      "Der Leibovich-Score sagt ausschließlich das Gesamtüberleben voraus.",
+      "Der Leibovich-Score ist nur für metastasierte Verläufe validiert."
+    ],
+    "correct": 0,
+    "tip": "Beide Scores stammen aus derselben Arbeitsgruppe und nutzen nahezu identische Faktoren, aber unterschiedliche Endpunkte.",
+    "explanation": "Laut Kapitel 4.5.8 ist der Endpunkt des Leibovich-Scores das metastasenfreie Überleben, während der SSIGN-Score das Nierenzellkarzinom-spezifische Überleben postoperativ vorhersagt; die einfließenden Faktoren sind bis auf die fehlende M-Kategorie weitgehend identisch."
+  },
+  {
+    "question": "Welche histologischen Subtypen umfasst die Population des Kattan-Nomogramms laut Kapitel 4.5.9 – im Gegensatz zu SSIGN- und Leibovich-Score?",
+    "options": [
+      "Ausschließlich klarzellige Nierenzellkarzinome.",
+      "Klarzellige, papilläre und chromophobe Nierenzellkarzinome.",
+      "Ausschließlich hereditäre Nierenzellkarzinome.",
+      "Ausschließlich sarkomatoid differenzierte Karzinome."
+    ],
+    "correct": 1,
+    "tip": "SSIGN- und Leibovich-Score sind jeweils nur für den klarzelligen Subtyp validiert.",
+    "explanation": "Das Kattan-Nomogramm aus dem MSKCC schließt laut Kapitel 4.5.9 klarzellige, papilläre und chromophobe Nierenzellkarzinome ein (nur lokalisierte Tumoren), anders als SSIGN- und Leibovich-Score, die nur für klarzellige Karzinome entwickelt wurden."
+  },
+  {
+    "question": "Wie erfolgt die Risikogruppeneinteilung bei der MSKCC-Risikobewertung (Motzer-Score) laut Kapitel 4.6.1?",
+    "options": [
+      "Gute Prognose bei 0 Risikofaktoren, intermediäre bei 1-2, schlechte bei mehr als 2 Faktoren.",
+      "Die Einteilung erfolgt ausschließlich anhand des Fuhrman-Grades.",
+      "Es gibt nur zwei Gruppen: metastasiert und nicht metastasiert.",
+      "Die Einteilung basiert ausschließlich auf dem Tumordurchmesser."
+    ],
+    "correct": 0,
+    "tip": "Das Modell wurde ursprünglich unter Interferon-Therapie entwickelt und zählt die Anzahl vorhandener negativer Faktoren.",
+    "explanation": "Die MSKCC-Risikobewertung teilt Patienten laut Kapitel 4.6.1 anhand der Anzahl vorhandener negativer Faktoren in gute (0 Faktoren), intermediäre (1-2 Faktoren) oder schlechte Prognose (mehr als 2 Faktoren) ein."
+  },
+  {
+    "question": "Was macht die IMDC-Risikobewertung (Heng-Modell) laut Kapitel 4.6.2 besonders, verglichen mit dem MSKCC-Score?",
+    "options": [
+      "Sie ist das erste Modell, das speziell für targeted Therapien (Anti-VEGF) entwickelt wurde.",
+      "Sie wurde ausschließlich an Patienten unter Interferon-Therapie entwickelt.",
+      "Sie verwendet ausschließlich molekulare Marker ohne klinische Parameter.",
+      "Sie wurde vor dem MSKCC-Score entwickelt und ist daher historisch älter."
+    ],
+    "correct": 0,
+    "tip": "Die Patienten im Entwicklungskollektiv wurden mit Sunitinib, Bevacizumab oder Sorafenib behandelt.",
+    "explanation": "Laut Kapitel 4.6.2 stellt die IMDC-Risikobewertung den ersten speziell für targeted Therapien entwickelten Prognosescore dar; sie nutzt 6 Risikofaktoren und teilt Patienten in gute (0), intermediäre (1-2) oder schlechte (≥3) Prognosegruppen ein, mit einer Konkordanz von 0,73 am Entwicklungsdatensatz."
+  },
+  {
+    "question": "Wie fiel der Vergleich der Karakiewicz-Nomogramme mit Kattan-, Sorbellini-Nomogramm und Leibovich-Score in der externen Validierung durch Tan et al. (Kapitel 4.5.9) aus?",
+    "options": [
+      "Das Karakiewicz-Nomogramm zeigte für alle 3 untersuchten Endpunkte (CSS, OS, Rezidivfreiheit) die höchste Aussagepräzision.",
+      "Der Leibovich-Score war in allen Endpunkten überlegen.",
+      "Alle vier Modelle zeigten identische Konkordanz-Werte.",
+      "Das Kattan-Nomogramm war in allen Endpunkten das genaueste Modell."
+    ],
+    "correct": 0,
+    "tip": "Dieses Ergebnis betraf gleich drei verschiedene Endpunkte, nicht nur einen.",
+    "explanation": "Laut Kapitel 4.5.9 zeigte das Karakiewicz-Nomogramm in der externen Validierung durch Tan et al. zu allen drei untersuchten Endpunkten (CSS, OS und Rezidivfreiheit) die höchste Aussagepräzision."
+  }
+]

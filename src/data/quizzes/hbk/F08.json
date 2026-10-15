@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie ist das empfohlene BCG-Standardschema laut Empfehlung 6.26 (Kapitel 6.6, Empfehlungsgrad B) aufgebaut?",
+    "options": [
+      "Induktion mit 6 wöchentlichen Instillationen, danach Erhaltung mit je 3 wöchentlichen Instillationen nach 3, 6 und 12 Monaten.",
+      "Eine einmalige Instillation ohne jede Erhaltungstherapie.",
+      "12 tägliche Instillationen ohne Erhaltungsphase.",
+      "Eine monatliche Instillation über insgesamt 10 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Bei High-risk-Tumoren kann dieses Schema nach Nutzen-Risiko-Abwägung um weitere Zyklen bis 36 Monate verlängert werden.",
+    "explanation": "Empfehlung 6.26 sieht einen Induktionszyklus mit 6 wöchentlichen BCG-Instillationen vor, gefolgt von einer Erhaltungstherapie mit je 3 wöchentlichen Instillationen nach 3, 6 und 12 Monaten; bei High-risk-Tumoren können weitere Zyklen bis 36 Monate ergänzt werden."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.27 (Empfehlungsgrad A) für High-risk-Tumoren bezüglich der Wahl zwischen BCG- und Chemotherapie-Instillation?",
+    "options": [
+      "Die BCG-Therapie soll der Chemotherapieinstillation vorgezogen werden.",
+      "Die Chemotherapie soll der BCG-Therapie vorgezogen werden.",
+      "Beide Optionen sind bei High-risk-Tumoren gleichrangig ohne Präferenz.",
+      "Weder BCG noch Chemotherapie sind bei High-risk-Tumoren indiziert."
+    ],
+    "correct": 0,
+    "tip": "Für Intermediate-risk-Tumoren ist die analoge Empfehlung (6.28) dagegen nur offen (Empfehlungsgrad 0).",
+    "explanation": "Empfehlung 6.27 fordert mit Empfehlungsgrad A, dass bei High-risk-Tumoren die BCG-Therapie der Chemotherapieinstillation vorgezogen werden soll."
+  },
+  {
+    "question": "Welche absolute Verbesserung des rezidivfreien Überlebens nach 5 Jahren zeigte die Studie von Lamm (Kapitel 6.6) durch eine Erhaltungstherapie im Vergleich zur alleinigen Induktionstherapie?",
+    "options": [
+      "Absolute Verbesserung um 19 Prozentpunkte (41% vs. 60%).",
+      "Keine Verbesserung, beide Gruppen hatten identische Ergebnisse.",
+      "Eine Verschlechterung um 19 Prozentpunkte durch die Erhaltungstherapie.",
+      "Eine Verbesserung um nur 1 Prozentpunkt."
+    ],
+    "correct": 0,
+    "tip": "Diese Studie lieferte eine wichtige Grundlage für das in Empfehlung 6.26 festgelegte Erhaltungsschema.",
+    "explanation": "Die Studie von Lamm zeigte laut Kapitel 6.6 eine signifikante absolute Verbesserung des rezidivfreien Überlebens nach 5 Jahren um 19 Prozentpunkte (41% vs. 60%) durch eine Erhaltungstherapie nach der Induktion."
+  },
+  {
+    "question": "Zu welchem Schluss kam die CUETO-Studie (Kapitel 6.6) bezüglich einer Erhaltungstherapie mit nur 1 BCG-Instillation alle 3 Monate über 3 Jahre?",
+    "options": [
+      "Dieses Schema war unzureichend und zeigte keinen signifikanten Vorteil gegenüber alleiniger BCG-Induktion.",
+      "Dieses minimale Schema war dem Standardschema signifikant überlegen.",
+      "Dieses Schema zeigte identische Ergebnisse wie das Standard-Erhaltungsschema.",
+      "Die Studie konnte aufgrund methodischer Probleme keine Aussage treffen."
+    ],
+    "correct": 0,
+    "tip": "Die beobachtete relative Risikoreduktion von 17% rechtfertigte dieses reduzierte Schema nicht.",
+    "explanation": "Die CUETO-Studie kam laut Kapitel 6.6 zu dem Schluss, dass eine Erhaltungstherapie mit nur 1 BCG-Instillation alle 3 Monate über 3 Jahre unzureichend ist, da kein signifikanter Vorteil gegenüber alleiniger BCG-Induktionstherapie gefunden wurde."
+  },
+  {
+    "question": "Welche Kernaussage traf die EORTC 30962-Studie (Kapitel 6.7) zur Dosisreduktion von BCG bei Hochrisiko-NMIBC?",
+    "options": [
+      "Bei Hochrisiko-NMIBC wird das Rezidivrisiko durch 3 Jahre Erhaltungstherapie nur reduziert, wenn die volle BCG-Dosis gegeben wird, nicht bei Dritteldosis.",
+      "Eine Dritteldosis BCG über 1 Jahr war in jeder Risikogruppe der vollen Dosis überlegen.",
+      "Die Toxizität war unter Dritteldosis deutlich höher als unter voller Dosis.",
+      "Eine Dosisreduktion zeigte in allen Risikogruppen identische Wirksamkeit bei geringerer Toxizität."
+    ],
+    "correct": 0,
+    "tip": "Entgegen den Erwartungen war die beobachtete Toxizität in allen Dosisgruppen vergleichbar.",
+    "explanation": "Die EORTC 30962-Studie zeigte laut Kapitel 6.7, dass bei Hochrisiko-NMIBC das Rezidivrisiko durch 3 Jahre Erhaltungstherapie nur bei voller BCG-Dosis reduziert wird, nicht jedoch bei Dritteldosis; eine Dosisreduktion wird daher nicht empfohlen."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.30 (Empfehlungsgrad A) zur Verabreichung der BCG-Therapie bezüglich Dosis und begleitender Antibiotikagabe?",
+    "options": [
+      "BCG soll in voller Dosis und ohne begleitende prophylaktische Antibiotikagabe erfolgen.",
+      "BCG soll grundsätzlich nur in reduzierter Dosis verabreicht werden.",
+      "Eine prophylaktische Antibiotikagabe soll routinemäßig jeder BCG-Instillation vorausgehen.",
+      "Die Dosis soll individuell nach Körpergewicht des Patienten berechnet werden."
+    ],
+    "correct": 0,
+    "tip": "Sowohl eine Dosisreduktion als auch eine prophylaktische Antibiotikagabe (z. B. Ofloxacin, Isoniazid) konnten die Wirksamkeit nicht verbessern oder die Nebenwirkungen entscheidend senken.",
+    "explanation": "Empfehlung 6.30 legt fest, dass die BCG-Therapie in voller Dosis und ohne begleitende prophylaktische Antibiotikagabe erfolgen soll."
+  },
+  {
+    "question": "Was besagt Statement 6.31 zu den Unterschieden zwischen den verfügbaren BCG-Stämmen (z. B. Connaught, TICE, RIVM) bezüglich Wirksamkeit und Nebenwirkungsrate?",
+    "options": [
+      "Ein Unterschied zwischen den verfügbaren BCG-Stämmen ist nicht belegt.",
+      "BCG Connaught ist allen anderen Stämmen eindeutig und belegbar überlegen.",
+      "BCG TICE zeigt eine deutlich geringere Wirksamkeit als alle anderen Stämme.",
+      "RIVM ist der einzige in Europa zugelassene BCG-Stamm."
+    ],
+    "correct": 0,
+    "tip": "Eine ältere Studie, die eine Überlegenheit von Connaught gegenüber TICE nahelegte, weist erhebliche methodische Schwächen auf.",
+    "explanation": "Statement 6.31 stellt fest, dass ein Unterschied zwischen den verfügbaren BCG-Stämmen in Bezug auf Wirksamkeit und Nebenwirkungsrate nicht belegt ist."
+  },
+  {
+    "question": "Was zeigte die NIMBUS-Studie (Kapitel 6.7) zur Reduktion der Zyklenanzahl in Induktions- und Erhaltungsphase der BCG-Therapie?",
+    "options": [
+      "Das reduzierte Schema war dem Standardschema hinsichtlich der Zeit bis zum ersten Rezidiv unterlegen.",
+      "Das reduzierte Schema zeigte eine signifikante Überlegenheit gegenüber dem Standardschema.",
+      "Beide Schemata zeigten exakt identische Ergebnisse ohne jeden Unterschied.",
+      "Die Studie wurde wegen Sicherheitsbedenken vorzeitig ohne Ergebnis abgebrochen."
+    ],
+    "correct": 0,
+    "tip": "Die Reduktion erfolgte von 6 auf 3 Induktionszyklen und von 9 auf 6 Erhaltungszyklen.",
+    "explanation": "Die NIMBUS-Studie zeigte laut Kapitel 6.7, dass das reduzierte BCG-Schema (Induktion von 6 auf 3, Erhaltung von 9 auf 6 Zyklen) dem Standardschema hinsichtlich der Zeit bis zum ersten Rezidiv unterlegen war."
+  },
+  {
+    "question": "Welchen Effekt zeigte laut Kapitel 6.7 die Kombination von BCG und Epirubicin gegenüber BCG allein in der zitierten Metaanalyse?",
+    "options": [
+      "Einen signifikanten Vorteil bei der rezidivfreien Überlebenszeit, aber nicht bei der progressionsfreien Überlebenszeit, bei insgesamt schwacher Datenlage.",
+      "Einen signifikanten Vorteil bei beiden Endpunkten mit starker Evidenz.",
+      "Keinerlei Effekt in irgendeinem untersuchten Endpunkt.",
+      "Eine signifikante Verschlechterung beider Endpunkte."
+    ],
+    "correct": 0,
+    "tip": "Aufgrund der insgesamt schwachen Datenlage (nur 202 Patienten in den berücksichtigten Studien) kann diese Kombination nicht empfohlen werden.",
+    "explanation": "Kapitel 6.7 beschreibt, dass die Kombination von BCG und Epirubicin gegenüber BCG allein einen signifikanten Vorteil bei der rezidivfreien, aber nicht bei der progressionsfreien Überlebenszeit zeigte, wobei die Datenlage insgesamt schwach ist und eine Empfehlung dafür nicht ausgesprochen werden kann."
+  },
+  {
+    "question": "Wie häufig traten lokale bzw. systemische Nebenwirkungen in der EORTC 30962-Studie (Kapitel 6.7) unter BCG-Therapie insgesamt auf, und welche Form der Nebenwirkung war dabei am häufigsten?",
+    "options": [
+      "Lokale Nebenwirkungen bei ca. 63%, systemische bei ca. 70%; am häufigsten bakterielle/chemische Zystitis bzw. allgemeines Unwohlsein und Fieber.",
+      "Nebenwirkungen traten bei unter 1% der Patienten auf.",
+      "Nebenwirkungen traten bei 100% der Patienten in schwerer Form auf.",
+      "Es wurden in dieser Studie keine Nebenwirkungen dokumentiert."
+    ],
+    "correct": 0,
+    "tip": "Schwere Komplikationen wie pulmonale Infektion oder Sepsis waren dagegen mit unter 0,5% sehr selten.",
+    "explanation": "Kapitel 6.7 berichtet für die EORTC 30962-Studie lokale Nebenwirkungen bei ca. 62,8% (am häufigsten bakterielle/chemische Zystitis, Pollakisurie, Makrohämaturie) und systemische Nebenwirkungen bei ca. 69,5% der Patienten (am häufigsten allgemeines Unwohlsein und Fieber)."
+  }
+]

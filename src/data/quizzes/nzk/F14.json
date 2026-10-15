@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll laut Empfehlung 14.1 (Kapitel 14.1) allen Patienten nach lokaler Therapie eines Nierenzellkarzinoms angeboten werden?",
+    "options": [
+      "Eine fachspezifische Rehabilitation in Form einer Anschlussheilbehandlung (AHB)/Anschlussrehabilitation (AR).",
+      "Ausschließlich eine ambulante Wiedervorstellung nach 5 Jahren.",
+      "Eine Rehabilitation nur bei Patienten mit systemischer Erkrankung.",
+      "Eine Rehabilitation ist bei diesem Tumor generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt unabhängig davon, ob zusätzlich eine systemische Erkrankung vorliegt.",
+    "explanation": "Empfehlung 14.1 fordert, dass allen Patienten nach lokaler Therapie eines Nierenzellkarzinoms eine fachspezifische Rehabilitation in Form einer AHB/AR angeboten werden soll."
+  },
+  {
+    "question": "Was soll Patienten mit Nierenzellkarzinom laut Empfehlung 14.5 im Zuge einer Rehabilitationsmaßnahme zusätzlich angeboten werden?",
+    "options": [
+      "Eine psychoonkologische Betreuung zur Unterstützung der Krankheitsverarbeitung sowie eine sozialmedizinische Beratung.",
+      "Ausschließlich eine erneute Operation zur Sicherheit.",
+      "Eine zweite Bildgebung ohne klinischen Anlass.",
+      "Eine Reduktion der bisherigen Medikation ohne weitere Begründung."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung ergänzt die allgemeine Rehabilitationsempfehlung um einen psychosozialen Aspekt.",
+    "explanation": "Empfehlung 14.5 sieht vor, dass Patienten mit Nierenzellkarzinom im Rahmen einer Rehabilitationsmaßnahme eine psychoonkologische Betreuung sowie eine sozialmedizinische Beratung angeboten werden soll."
+  },
+  {
+    "question": "Wie häufig tritt laut Kapitel 14.1 eine Schädigung des Plexus brachialis bei roboterassistierten Nierentumoroperationen auf, und wie oft bilden sich solche lagerungsbedingten Paresen innerhalb eines Monats zurück?",
+    "options": [
+      "6 % Häufigkeit der Plexus-brachialis-Schädigung; Rückbildung bei 59 % innerhalb eines Monats.",
+      "50 % Häufigkeit; Rückbildung bei 100 % innerhalb einer Woche.",
+      "Unter 0,1 % Häufigkeit; keine Rückbildung jemals beschrieben.",
+      "6 % Häufigkeit; bei 0 % Rückbildung, die Paresen sind grundsätzlich dauerhaft."
+    ],
+    "correct": 0,
+    "tip": "Nach 1 bis 6 Monaten sind solche Paresen bei 77 % der Patienten beseitigt, bei 23 % persistieren sie über ein halbes Jahr hinaus.",
+    "explanation": "Kapitel 14.1 beschreibt eine Plexus-brachialis-Schädigung bei 6 % der roboterassistierten Nierentumoroperationen, wobei sich lagerungsbedingte Paresen bei 59 % der Patienten innerhalb eines Monats zurückbilden."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 14.7 (Kapitel 14.2) die Nachsorge nach Primärtumortherapie im nicht fernmetastasierten Stadium erfolgen?",
+    "options": [
+      "Risikoadaptiert.",
+      "Für alle Patienten identisch, unabhängig vom Risikoprofil.",
+      "Ausschließlich bei klinischen Symptomen, nie planmäßig.",
+      "Nur einmalig nach Abschluss der Primärtherapie, ohne weitere Kontrollen."
+    ],
+    "correct": 0,
+    "tip": "Die Risikogruppeneinteilung basiert u. a. auf pT-/pN-Kategorie, Grading, Therapieart und R-Status.",
+    "explanation": "Empfehlung 14.7 fordert, dass die Nachsorge nach Primärtumortherapie im nicht fernmetastasierten Stadium risikoadaptiert erfolgen soll."
+  },
+  {
+    "question": "Welche Kategorie entspricht laut Tabelle 53 (Kapitel 14.2) der Risikogruppe 'Low risk' in der Nachsorge nach Lokaloperation eines Nierenzellkarzinoms?",
+    "options": [
+      "pT1a/b cN0 cM0 G1-2.",
+      "pT3-4 und/oder pN+.",
+      "pT2 cN0 cM0 G3.",
+      "Jede R1-Resektion unabhängig vom Grading."
+    ],
+    "correct": 0,
+    "tip": "Höhergradige Tumoren oder ein höheres T-Stadium führen zur Einstufung als 'intermediate' oder 'high risk'.",
+    "explanation": "Tabelle 53 definiert die Risikogruppe 'Low risk' als pT1a/b cN0 cM0 G1-2, während 'High risk' u. a. pT2 cN0 cM0 G3 sowie pT3-4 und/oder pN+ umfasst."
+  },
+  {
+    "question": "Welche Untersuchungen sollten laut Empfehlung 14.9 zur risikoadaptierten Nachsorge nach Lokaltherapie des nicht fernmetastasierten Nierenzellkarzinoms angeboten werden?",
+    "options": [
+      "Klinische Untersuchung, Laborparameter, CT/MRT Abdomen/Becken und CT Thorax (inkl. Knochenfenster), sowie Sonographie.",
+      "Ausschließlich eine jährliche Skelettszintigraphie.",
+      "Ausschließlich eine PET/CT alle 3 Monate.",
+      "Ausschließlich ein konventionelles Röntgen-Thorax ohne weitere Bildgebung."
+    ],
+    "correct": 0,
+    "tip": "Die konkrete Kombination und Frequenz dieser Untersuchungen richtet sich nach der zugeordneten Risikogruppe.",
+    "explanation": "Empfehlung 14.9 nennt klinische Untersuchung, Bestimmung von Laborparametern, CT/MRT des Abdomens/Beckens und CT des Thorax unter Einbeziehung des Knochenfensters sowie Sonographie als Bausteine der risikoadaptierten Nachsorge."
+  },
+  {
+    "question": "Welchen Stellenwert haben laut Statement 14.10 PET/CT, Schädel-CT/MRT, konventioneller Röntgen-Thorax und Knochenszintigraphie in der Routine-Nachsorge asymptomatischer Patienten?",
+    "options": [
+      "Sie haben keinen Stellenwert in der Routine-Nachsorge asymptomatischer Patienten.",
+      "Sie sind fester Bestandteil jeder Nachsorgeuntersuchung, auch bei Low-risk-Patienten.",
+      "Sie sind nur bei Low-risk-Patienten indiziert, nicht aber bei High-risk-Patienten.",
+      "Sie ersetzen die CT/MRT des Abdomens vollständig."
+    ],
+    "correct": 0,
+    "tip": "Diese Verfahren kommen erst beim Nachweis einer Metastasierung oder bei klinischem Verdacht gezielt zum Einsatz.",
+    "explanation": "Statement 14.10 stellt klar, dass PET/CT, Schädel-CT/MRT, konventioneller Röntgen-Thorax und Knochenszintigraphie in der Routine-Nachsorge asymptomatischer Patienten keinen Stellenwert haben."
+  },
+  {
+    "question": "Mit welcher Häufigkeit treten Lokalrezidive nach Nierenteilresektion laut Kapitel 14.2 auf?",
+    "options": [
+      "In weniger als 5 % der Fälle.",
+      "In mehr als 50 % der Fälle.",
+      "Bei praktisch allen Patienten (nahezu 100 %).",
+      "Lokalrezidive nach Nierenteilresektion sind nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die frühzeitige Diagnose eines Lokalrezidivs ermöglicht in vielen Fällen ein erneutes nierenerhaltendes Vorgehen.",
+    "explanation": "Kapitel 14.2 beschreibt, dass Lokalrezidive nach Nierenteilresektionen in weniger als 5 % der Fälle auftreten."
+  },
+  {
+    "question": "Mit welcher Häufigkeit treten laut Hintergrundtext zu Empfehlung 15.3 (Kapitel 15) über die gesamte Krankheitsdauer therapiebedürftige psychische Belastungssituationen und Störungen bei onkologischen Patienten auf?",
+    "options": [
+      "20-35 %, insbesondere Anpassungs- und depressive Störungen.",
+      "Unter 1 %.",
+      "Bei praktisch 100 % aller Patienten.",
+      "Nur bei Patienten mit metastasierter Erkrankung, nie im kurativen Setting."
+    ],
+    "correct": 0,
+    "tip": "Ein höheres Risiko besteht insbesondere bei starken Alltagsbeeinträchtigungen und fortgeschrittenem Krankheitsstadium.",
+    "explanation": "Laut Hintergrundtext zu Empfehlung 15.3 treten mit einer Häufigkeit von 20-35 % über die gesamte Krankheitsdauer therapiebedürftige psychische Belastungssituationen und Störungen auf, gehäuft Anpassungs- und depressive Störungen."
+  },
+  {
+    "question": "Auf welcher Grundlage wurden laut Kapitel 16 die Qualitätsindikatoren dieser Leitlinie entwickelt, und wie viele wurden final angenommen?",
+    "options": [
+      "Auf Basis aller starken ('soll', Empfehlungsgrad A) Empfehlungen sowie nationaler/internationaler QI-Recherche; final 9 Indikatoren.",
+      "Auf Basis ausschließlich der Expertenmeinung einzelner Autoren; final 50 Indikatoren.",
+      "Auf Basis ausschließlich wirtschaftlicher Kennzahlen der Kliniken; final 3 Indikatoren.",
+      "Es wurden keine Qualitätsindikatoren für diese Leitlinie entwickelt."
+    ],
+    "correct": 0,
+    "tip": "Eine eigene Arbeitsgruppe Qualitätsindikatoren begleitete diesen methodischen Prozess.",
+    "explanation": "Kapitel 16 beschreibt, dass als Grundlage für die Qualitätsindikatoren alle starken ('soll', Empfehlungsgrad A) Empfehlungen der Leitlinie sowie die Ergebnisse der nationalen/internationalen QI-Recherche dienten; final wurden 9 Indikatoren angenommen."
+  }
+]

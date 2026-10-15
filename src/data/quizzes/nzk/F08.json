@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Folgetherapie soll laut Empfehlung 7.11 (Kapitel 7.5.2, Empfehlungsgrad A) nach Versagen einer alleinigen VEGF/R-basierten Therapie eingesetzt werden?",
+    "options": [
+      "Cabozantinib oder Nivolumab, ohne dass eine spezifische Sequenz empfohlen werden kann.",
+      "Ausschließlich eine Rückkehr zu IFN-alpha.",
+      "Eine klassische Chemotherapie mit Vinblastin.",
+      "Ausschließlich eine zweite VEGF/R-basierte Therapie."
+    ],
+    "correct": 0,
+    "tip": "Beide genannten Substanzen werden in alphabetischer Reihenfolge genannt, ohne Präferenz füreinander.",
+    "explanation": "Empfehlung 7.11 fordert mit Empfehlungsgrad A, dass nach Versagen einer alleinigen VEGF/R-basierten Therapie die Folgetherapie aus Cabozantinib oder Nivolumab bestehen soll, wobei keine spezifische Sequenz der Substanzen empfohlen werden kann."
+  },
+  {
+    "question": "Welche Kombinationstherapie sollte laut Empfehlung 7.12 (Empfehlungsgrad B) nach Versagen eines alleinigen VEGF/R-Inhibitors eingesetzt werden?",
+    "options": [
+      "Ipilimumab plus Nivolumab.",
+      "Lenvatinib plus Everolimus.",
+      "Avelumab plus Axitinib.",
+      "Pembrolizumab plus Lenvatinib."
+    ],
+    "correct": 1,
+    "tip": "Diese Kombination besteht aus einem Tyrosinkinaseinhibitor und einem mTOR-Inhibitor.",
+    "explanation": "Empfehlung 7.12 sieht mit Empfehlungsgrad B vor, dass nach Versagen eines alleinigen VEGF/R-Inhibitors die Kombination aus Lenvatinib plus Everolimus eingesetzt werden sollte."
+  },
+  {
+    "question": "Was besagt Statement 7.14 (Kapitel 7.5.3) zur Zweitlinientherapie nach Versagen einer Checkpointinhibitor-basierten Erstlinientherapie?",
+    "options": [
+      "Es ist kein Standard etabliert.",
+      "Es gibt einen klar definierten, einzigen Therapiestandard.",
+      "Eine erneute Checkpointinhibitor-Kombination ist stets Standard.",
+      "Es wird grundsätzlich auf jede Folgetherapie verzichtet."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt die insgesamt noch dünne Evidenzlage für die Sequenztherapie nach Checkpointinhibitoren wider.",
+    "explanation": "Statement 7.14 stellt fest, dass nach Versagen einer Checkpointinhibitor-basierten Erstlinientherapie kein Standard etabliert ist."
+  },
+  {
+    "question": "Was gilt laut Empfehlung 7.15 zum Zulassungsstatus der TKI-Folgetherapie nach Versagen von Nivolumab plus Ipilimumab?",
+    "options": [
+      "Nur bei Sunitinib deckt der Zulassungstext den Einsatz nach Nivolumab+Ipilimumab ab; bei allen anderen TKIs handelt es sich um Off-Label-Use.",
+      "Alle verfügbaren TKIs sind für diese Sequenz regulär zugelassen.",
+      "Kein TKI darf nach dieser Kombination eingesetzt werden.",
+      "Nur Cabozantinib ist für diese Sequenz zugelassen, alle anderen TKIs sind kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie weist explizit auf den Unterschied zwischen zugelassener Indikation und Off-Label-Use hin.",
+    "explanation": "Empfehlung 7.15 nennt nach Versagen von Nivolumab plus Ipilimumab eine TKI-basierte Folgetherapie, weist aber darauf hin, dass nur bei Sunitinib der Zulassungstext diesen Einsatz abdeckt, während es sich bei allen anderen TKIs um Off-Label-Use handelt."
+  },
+  {
+    "question": "Welche Substanzen deckt der Zulassungstext laut Empfehlung 7.16 nach Versagen einer Checkpointinhibitor-basierten Kombination (z. B. Avelumab+Axitinib, Nivolumab+Cabozantinib) für die TKI-Folgetherapie ab?",
+    "options": [
+      "Sunitinib, Cabozantinib und Lenvatinib+Everolimus.",
+      "Ausschließlich Pazopanib.",
+      "Ausschließlich Tivozanib.",
+      "Keine der verfügbaren Substanzen ist zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zur Sequenz nach Nivolumab+Ipilimumab sind hier mehrere Substanzen regulär zugelassen.",
+    "explanation": "Empfehlung 7.16 nennt Sunitinib, Cabozantinib und Lenvatinib+Everolimus als Substanzen, deren Zulassungstext den Einsatz nach Versagen der genannten Checkpointinhibitor-Kombinationen abdeckt."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 7.18 (Kapitel 7.5.4, Empfehlungsgrad B) nach Versagen eines mTOR-Inhibitors weiterbehandelt werden?",
+    "options": [
+      "Mittels eines Tyrosinkinaseinhibitors (TKI) oder Nivolumab.",
+      "Ausschließlich mit einem zweiten mTOR-Inhibitor.",
+      "Mittels klassischer Chemotherapie.",
+      "Es soll grundsätzlich keine Folgetherapie mehr angeboten werden."
+    ],
+    "correct": 0,
+    "tip": "Obwohl kein etablierter Standard existiert (Statement 7.17), gibt die Leitlinie dennoch eine konkrete Empfehlung.",
+    "explanation": "Empfehlung 7.18 sieht vor, dass die Folgetherapie nach Versagen eines mTOR-Inhibitors mittels eines Tyrosinkinaseinhibitors (TKI) oder Nivolumab erfolgen sollte."
+  },
+  {
+    "question": "Welches Grundprinzip gilt laut den Empfehlungen 7.20 und 7.21 (Kapitel 7.5.5) für die Auswahl der Drittlinientherapie?",
+    "options": [
+      "Die Auswahl soll die Vortherapien berücksichtigen, und es sollten Substanzen gegeben werden, die in der Vortherapie nicht enthalten waren.",
+      "Es soll grundsätzlich dieselbe Substanzklasse wie in der Zweitlinie wiederholt werden.",
+      "Die Drittlinientherapie ist gesetzlich nicht erstattungsfähig und soll unterbleiben.",
+      "Es existiert ein fest definierter dritter Therapiestandard für alle Patienten."
+    ],
+    "correct": 0,
+    "tip": "Für die Drittlinie selbst ist laut Statement 7.19 kein Standard etabliert.",
+    "explanation": "Empfehlung 7.20 fordert, dass die Auswahl der Systemtherapie die Vortherapien berücksichtigen soll, und Empfehlung 7.21, dass Substanzen gegeben werden sollten, die in der Vortherapie nicht enthalten waren."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.22 (Kapitel 7.5.6, Empfehlungsgrad A) zur Langzeitkontrolle nach Checkpoint-Inhibitor-Therapie?",
+    "options": [
+      "Patienten sollen auch nach Therapieende auf immunvermittelte Nebenwirkungen kontrolliert und diese bei Auftreten schweregradabhängig therapiert werden.",
+      "Nach Therapieende ist keine weitere Kontrolle erforderlich.",
+      "Eine Kontrolle ist nur während der aktiven Therapiephase notwendig.",
+      "Immunvermittelte Nebenwirkungen sollen unabhängig von ihrer Schwere immer gleich therapiert werden."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung betont explizit die Nachbeobachtung über das Therapieende hinaus.",
+    "explanation": "Empfehlung 7.22 fordert, dass Patienten nach einer Checkpoint-Inhibitor-Therapie auch nach Therapieende auf immunvermittelte Nebenwirkungen kontrolliert werden sollen und diese bei Auftreten in Abhängigkeit von ihrer Schwere zu therapieren sind."
+  },
+  {
+    "question": "Welches Grundprinzip beschreibt Kapitel 7.6.1 für die Behandlungsstrategie beim metastasierten Nierenzellkarzinom über mehrere Therapielinien hinweg?",
+    "options": [
+      "Das Prinzip der Sequenztherapie: Bei Versagen einer Therapie soll prinzipiell eine Folgetherapie angeboten werden.",
+      "Das Prinzip, dass nach der Erstlinie generell keine weitere Therapie mehr erfolgen soll.",
+      "Das Prinzip, stets dieselbe Substanz in höherer Dosierung fortzuführen.",
+      "Das Prinzip, alle verfügbaren Substanzen von Beginn an simultan zu kombinieren."
+    ],
+    "correct": 0,
+    "tip": "Eine präformierte, feste Reihenfolge der Substanzen kann die Leitlinie dabei allerdings nicht empfehlen.",
+    "explanation": "Kapitel 7.6.1 beschreibt, dass beim Nierenzellkarzinom das Prinzip der Sequenztherapie gilt: Bei Versagen einer Therapie soll prinzipiell eine Folgetherapie angeboten werden, wobei die Auswahl der Substanz anhand von Nutzen, Schaden und den Bedürfnissen des Patienten erfolgen soll."
+  },
+  {
+    "question": "Welche drei Substanzklassen stehen laut Kapitel 7.6.1 seit Einführung der zielgerichteten Therapien (seit 2006) für die Systemtherapie des Nierenzellkarzinoms zur Verfügung?",
+    "options": [
+      "VEGF/VEGFR-Inhibitoren, mTOR-Inhibitoren und Checkpointinhibitoren.",
+      "Ausschließlich klassische Chemotherapeutika.",
+      "Ausschließlich Hormontherapien und Vaccine-Therapien.",
+      "Ausschließlich Zytokine wie IL-2 und IFN-alpha."
+    ],
+    "correct": 0,
+    "tip": "Diese drei Klassen bilden seit 2006 das Rückgrat der medikamentösen Sequenztherapie.",
+    "explanation": "Kapitel 7.6.1 nennt als seit 2006 verfügbare Substanzklassen Inhibitoren des VEGF/VEGFR, Inhibitoren des mTOR sowie verschiedene Checkpointinhibitoren."
+  }
+]

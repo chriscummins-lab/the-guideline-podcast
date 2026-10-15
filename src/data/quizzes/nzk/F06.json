@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wann soll laut Empfehlung 6.10 (Kapitel 6.3, Empfehlungsgrad A) eine systematische oder extendierte Lymphadenektomie NICHT erfolgen?",
+    "options": [
+      "Bei unauffälliger Bildgebung und unauffälligem intraoperativen Befund.",
+      "Bei klinisch vergrößerten Lymphknoten.",
+      "Nur bei Tumoren der Kategorie T1.",
+      "Niemals, sie soll grundsätzlich immer erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung stützt sich auf eine randomisierte Studie mit 772 Patienten ohne Hinweis auf Lymphknotenmetastasen.",
+    "explanation": "Empfehlung 6.10 legt mit Empfehlungsgrad A fest, dass eine systematische oder extendierte Lymphadenektomie bei unauffälliger Bildgebung und unauffälligem intraoperativen Befund nicht erfolgen soll, da kein Überlebensvorteil nachgewiesen wurde."
+  },
+  {
+    "question": "Was sieht Empfehlung 6.11 bei Patienten mit vergrößerten Lymphknoten vor?",
+    "options": [
+      "Eine Lymphadenektomie kann zum lokalen Staging und zur lokalen Kontrolle erfolgen.",
+      "Eine Lymphadenektomie ist in diesem Fall absolut kontraindiziert.",
+      "Es soll immer eine systemische Therapie vor jeder Operation erfolgen.",
+      "Eine Strahlentherapie der Lymphknotenregion wird empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung ist als Expertenkonsens (EK) formuliert und bezieht sich gezielt auf auffällige Lymphknoten.",
+    "explanation": "Empfehlung 6.11 besagt, dass bei Patienten mit vergrößerten Lymphknoten zum lokalen Staging und zur lokalen Kontrolle eine Lymphadenektomie erfolgen kann."
+  },
+  {
+    "question": "Unter welcher Bedingung soll laut Empfehlung 6.12 (Kapitel 6.4, Empfehlungsgrad A) keine Adrenalektomie erfolgen?",
+    "options": [
+      "Bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund.",
+      "Bei Verdacht auf Tumorinfiltration der Nebenniere.",
+      "Bei makroskopisch suspektem intraoperativem Nebennierenbefund.",
+      "Grundsätzlich nie, eine Adrenalektomie soll immer erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Eine Indikation zur Adrenalektomie besteht nur bei konkretem Verdacht auf Tumorinfiltration.",
+    "explanation": "Empfehlung 6.12 legt fest, dass eine Adrenalektomie bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund nicht erfolgen soll; eine Indikation besteht nur bei präoperativ oder intraoperativ geäußertem Verdacht einer Nebennierenbeteiligung."
+  },
+  {
+    "question": "Welches Resektionsziel fordert Empfehlung 6.13 (Kapitel 6.5, Empfehlungsgrad A) bei der Nierentumorentfernung?",
+    "options": [
+      "Eine R0-Resektion soll erfolgen.",
+      "Eine R1-Resektion ist ausreichend und anzustreben.",
+      "Ein Sicherheitsabstand von mindestens 1 cm ist zwingend erforderlich.",
+      "Das Resektionsziel ist bei organerhaltender Chirurgie irrelevant."
+    ],
+    "correct": 0,
+    "tip": "Die Breite des Sicherheitsabstandes selbst ist laut Hintergrundtext ohne Relevanz, solange das Ziel erreicht wird.",
+    "explanation": "Empfehlung 6.13 fordert mit Empfehlungsgrad A, dass bei der Nierentumorentfernung eine R0-Resektion erfolgen soll."
+  },
+  {
+    "question": "Welches Risiko ist laut Statement 6.15 mit einem R1-Befund nach Nierentumorresektion assoziiert?",
+    "options": [
+      "Ein erhöhtes Risiko für ein Lokalrezidiv.",
+      "Ein nachgewiesener signifikanter Nachteil im Gesamtüberleben.",
+      "Kein erhöhtes Risiko für irgendeinen klinischen Endpunkt.",
+      "Ein erhöhtes Risiko ausschließlich für Fernmetastasen, nie für Lokalrezidive."
+    ],
+    "correct": 0,
+    "tip": "Dies unterscheidet sich vom tumorspezifischen Überleben, bei dem laut Statement 6.14 kein signifikanter Einfluss nachgewiesen ist.",
+    "explanation": "Statement 6.15 beschreibt, dass Patienten mit einem R1-Befund ein erhöhtes Risiko für ein Lokalrezidiv haben, während Statement 6.14 für das tumorspezifische Überleben keine signifikante Beeinflussung nachweist."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 6.16 (Empfehlungsgrad B) bei Nachweis eines R1-Befundes in der endgültigen histopathologischen Untersuchung?",
+    "options": [
+      "Eine systematische Überwachung und keine Nachoperation.",
+      "Eine sofortige Nachresektion innerhalb von 48 Stunden.",
+      "Eine radikale Nephrektomie der kontralateralen Niere.",
+      "Eine primäre Strahlentherapie des Tumorbetts."
+    ],
+    "correct": 0,
+    "tip": "Die Empfehlung berücksichtigt, dass eine erneute Operation keinen nachgewiesenen Überlebensvorteil bringt.",
+    "explanation": "Empfehlung 6.16 sieht bei Nachweis eines R1-Befundes in der endgültigen Histopathologie eine systematische Überwachung statt einer Nachoperation vor."
+  },
+  {
+    "question": "Was besagt Empfehlung 9.1 (Kapitel 9.1, Expertenkonsens) zur neoadjuvanten Therapie in der nicht-metastasierten Situation?",
+    "options": [
+      "Vor Primärtumorresektion soll keine neoadjuvante Therapie durchgeführt werden.",
+      "Eine neoadjuvante Therapie soll bei allen Patienten mit T2-Tumoren erfolgen.",
+      "Eine neoadjuvante Therapie ist Standard bei jedem lokalisierten Nierenzellkarzinom.",
+      "Eine neoadjuvante Strahlentherapie wird generell empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt explizit für die nicht-metastasierte Situation.",
+    "explanation": "Empfehlung 9.1 legt als starker Expertenkonsens fest, dass in der nicht-metastasierten Situation vor Primärtumorresektion keine neoadjuvante Therapie durchgeführt werden soll."
+  },
+  {
+    "question": "In welchem Rahmen soll eine neoadjuvante Therapie laut Empfehlung 9.3 (Empfehlungsgrad A) überhaupt durchgeführt werden?",
+    "options": [
+      "Nur im Rahmen von klinischen Studien.",
+      "Als fester Bestandteil der Routinetherapie bei jedem resektablen Tumor.",
+      "Nur bei Patienten über 75 Jahren.",
+      "Ausschließlich bei nicht-klarzelligen Subtypen."
+    ],
+    "correct": 0,
+    "tip": "Dies steht im Einklang mit dem in Kapitel 9.1 beschriebenen klinisch nicht relevanten Effekt auf die Tumorvolumenreduktion.",
+    "explanation": "Empfehlung 9.3 fordert mit Empfehlungsgrad A, dass eine neoadjuvante Therapie nur im Rahmen von Studien durchgeführt werden soll."
+  },
+  {
+    "question": "Wie bewerten die Empfehlungen 9.4 und 9.5 (Kapitel 9.2, jeweils Empfehlungsgrad A) die postoperative Strahlentherapie bzw. zielgerichtete Therapie mit VEGFR-TKIs in der adjuvanten Situation?",
+    "options": [
+      "Beide sollen nicht durchgeführt werden.",
+      "Beide sollen bei allen Patienten mit pT3-Tumoren durchgeführt werden.",
+      "Die Strahlentherapie soll erfolgen, die VEGFR-TKI-Therapie nicht.",
+      "Beide werden nur bei nicht-klarzelligen Subtypen empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Metaanalysen zeigten für beide Verfahren in der adjuvanten Situation keinen Überlebensvorteil.",
+    "explanation": "Empfehlung 9.4 legt fest, dass eine postoperative Strahlentherapie nicht durchgeführt werden soll, und Empfehlung 9.5, dass eine zielgerichtete Therapie mit VEGFR-TKIs in der adjuvanten Situation nicht durchgeführt werden soll – beide mit Empfehlungsgrad A."
+  },
+  {
+    "question": "Für welche Patientengruppe sollte laut Empfehlung 9.6 (Empfehlungsgrad B) eine adjuvante Immuntherapie mit Pembrolizumab durchgeführt werden?",
+    "options": [
+      "Patienten mit klarzelligem Nierenzellkarzinom mit intermediär-hohem und hohem Risiko (wie in der Studie definiert).",
+      "Alle Patienten nach Nephrektomie unabhängig vom Risiko.",
+      "Ausschließlich Patienten mit nicht-klarzelligem Subtyp.",
+      "Nur Patienten mit bereits nachgewiesener Fernmetastasierung."
+    ],
+    "correct": 0,
+    "tip": "Zum Zeitpunkt der Empfehlung lagen noch keine validen Gesamtüberlebensdaten vor.",
+    "explanation": "Empfehlung 9.6 sieht vor, dass eine adjuvante Immuntherapie mit dem Checkpointinhibitor Pembrolizumab bei Patienten mit klarzelligem Nierenzellkarzinom mit intermediär-hohem und hohem Risiko, wie in der zugrunde liegenden Studie definiert, durchgeführt werden sollte, wobei noch keine validen Gesamtüberlebensdaten vorliegen."
+  }
+]

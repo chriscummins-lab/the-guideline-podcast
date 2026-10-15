@@ -4,6 +4,8 @@ import { hikEpisodes } from "@/data/guidelines/hik";
 import { htEpisodes } from "@/data/guidelines/ht";
 import { bpsEpisodes } from "@/data/guidelines/bps";
 import { phiEpisodes } from "@/data/guidelines/phi";
+import { nzkEpisodes } from "@/data/guidelines/nzk";
+import { hbkEpisodes } from "@/data/guidelines/hbk";
 import { andrologieGuidelines } from "@/data/guidelines/andrologie";
 
 export const CONTENT: { categories: Category[] } = {
@@ -41,15 +43,15 @@ export const CONTENT: { categories: Category[] } = {
           badge: "S3",
           available: false,
           description: "S3-Leitlinie Harnblasenkarzinom",
-          episodes: [],
+          episodes: hbkEpisodes,
         },
         {
           id: "nierenzellkarzinom",
           name: "Nierenzellkarzinom",
           badge: "S3",
           available: false,
-          description: "S3-Leitlinie Nierenzellkarzinom",
-          episodes: [],
+          description: "S3-Leitlinie Diagnostik, Therapie und Nachsorge des Nierenzellkarzinoms",
+          episodes: nzkEpisodes,
         },
         {
           id: "peniskarzinom",

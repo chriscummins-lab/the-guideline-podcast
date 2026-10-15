@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Anteil an allen Nierentumoren machen laut Kapitel 11.1 die tatsächlich erblichen monogenetischen Formen aus, obwohl familiäre Häufungen insgesamt bei 1-14 % beschrieben werden?",
+    "options": [
+      "Höchstens 5-8 %",
+      "Etwa 30-40 %",
+      "Mehr als 50 %",
+      "Praktisch 100 %, jede familiäre Häufung ist monogenetisch bedingt"
+    ],
+    "correct": 0,
+    "tip": "Nicht jede familiäre Häufung ist genetisch bedingt – auch geteilte Umweltfaktoren können eine Rolle spielen.",
+    "explanation": "Kapitel 11.1 beschreibt, dass die Angaben zum familiären Auftreten von Nierentumoren zwischen 1 und 14 % schwanken, wobei die tatsächlich erblichen monogenetischen Formen höchstens einen Anteil von 5-8 % ausmachen."
+  },
+  {
+    "question": "Um wie viele Jahre lag laut einer systematischen US-Analyse (Kapitel 11.1) der Median des Erstdiagnosealters bei erblichen Nierenzellkarzinomen früher als bei sporadischen Formen?",
+    "options": [
+      "Etwa 5 Jahre",
+      "Etwa 10 Jahre",
+      "Etwa 27 Jahre",
+      "Etwa 50 Jahre"
+    ],
+    "correct": 2,
+    "tip": "Die daraus abgeleitete optimale Altersschwelle zur Identifikation erblicher Formen liegt bei 46 Jahren.",
+    "explanation": "Kapitel 11.1 beschreibt, dass der Median des Erstdiagnosealters bei erblichen Nierenzellkarzinomen 27 Jahre früher lag als bei sporadischen Formen."
+  },
+  {
+    "question": "Welches Lebenszeitrisiko für renale Malignome und welche Begleitmanifestationen sind laut Tabelle 52 für das Von-Hippel-Lindau-Syndrom (VHL-Gen) charakteristisch?",
+    "options": [
+      "30-70 % Lebenszeitrisiko; zusätzlich ZNS-Hämangioblastome, Phäochromozytom und neuroendokrine Pankreastumoren.",
+      "< 1 % Lebenszeitrisiko; keine extrarenalen Manifestationen.",
+      "100 % Lebenszeitrisiko; ausschließlich kutane Angiofibrome.",
+      "15-20 % Lebenszeitrisiko; ausschließlich Leiomyome der Haut."
+    ],
+    "correct": 0,
+    "tip": "Die renale Histologie bei diesem Syndrom ist typischerweise das klarzellige Nierenzellkarzinom.",
+    "explanation": "Laut Tabelle 52 ist das Von-Hippel-Lindau-Syndrom mit einem Lebenszeitrisiko von 30-70 % für renale Malignome (meist klarzelliges NZK) assoziiert, begleitet von ZNS-Hämangioblastomen, Phäochromozytom, neuroendokrinen Pankreastumoren und weiteren Manifestationen."
+  },
+  {
+    "question": "Welches Gen und welche renale Histologie sind laut Tabelle 52 für das hereditäre papilläre Nierenzellkarzinom-Syndrom charakteristisch?",
+    "options": [
+      "MET-Gen; papilläres NZK, meist WHO-Grad 1/2, Lebenszeitrisiko ca. 50 %.",
+      "VHL-Gen; klarzelliges NZK, Lebenszeitrisiko ca. 50 %.",
+      "FH-Gen; papilläres NZK, WHO-Grad 3/4.",
+      "BHD-Gen; hybrid-onkozytischer Tumor."
+    ],
+    "correct": 0,
+    "tip": "Dieses Syndrom ist namensgebend durch seinen spezifischen histologischen Subtyp.",
+    "explanation": "Laut Tabelle 52 ist das hereditäre papilläre Nierenzellkarzinom-Syndrom mit dem MET-Gen assoziiert, zeigt meist ein papilläres NZK vom WHO-Grad 1/2 und hat ein Lebenszeitrisiko von etwa 50 % für renale Malignome."
+  },
+  {
+    "question": "Welche klinischen Symptome sind laut Tabelle 52 charakteristisch für das Birt-Hogg-Dubé-Syndrom (BHD-Gen)?",
+    "options": [
+      "Gutartige Hauttumoren (Fibrofollikulome), Lungenzysten mit Pneumothorax-Risiko; renale Histologie häufig hybrid-onkozytischer Tumor.",
+      "Leiomyome der Haut und des Uterus; renale Histologie papilläres NZK WHO-Grad 3-4.",
+      "Paragangliome und Phäochromozytome; renale Histologie SDH-defizientes NZK.",
+      "Hamartome der Mamma und Schilddrüsenkarzinom."
+    ],
+    "correct": 0,
+    "tip": "Das Pneumothorax-Risiko entsteht durch die charakteristischen Lungenzysten.",
+    "explanation": "Laut Tabelle 52 ist das Birt-Hogg-Dubé-Syndrom durch gutartige Hauttumoren (u. a. Fibrofollikulome) und Lungenzysten mit Pneumothorax-Risiko gekennzeichnet, mit einem Lebenszeitrisiko von 25-30 % und häufig hybrid-onkozytischem Tumor als renaler Histologie."
+  },
+  {
+    "question": "Welches Lebenszeitrisiko für Nierenzellkarzinome und welche Besonderheit zeigt die Tuberöse Sklerose (TSC1/TSC2) laut Tabelle 52?",
+    "options": [
+      "Nur 1-4 % NZK-Risiko, während gutartige Angiomyolipome bei bis zu 70 % der Betroffenen auftreten.",
+      "100 % NZK-Risiko bei allen Betroffenen.",
+      "30-70 % NZK-Risiko, identisch zum VHL-Syndrom.",
+      "Kein erhöhtes Risiko für irgendeinen Nierentumor."
+    ],
+    "correct": 0,
+    "tip": "Das klinisch führende Nierenproblem bei diesem Syndrom ist meist nicht maligne.",
+    "explanation": "Laut Tabelle 52 liegt das NZK-Lebenszeitrisiko bei Tuberöser Sklerose nur bei 1-4 %, während gutartige Angiomyolipome bei bis zu 70 % der Betroffenen auftreten."
+  },
+  {
+    "question": "Welche Kriterien nennt Statement 11.1 (Kapitel 11.1, neu 2024), die auf einen erblichen Nierentumor hinweisen können?",
+    "options": [
+      "U. a. Erkrankungsalter vor dem 47. Lebensjahr, Verwandte 1./2. Grades mit Nierentumor, bilaterale/multifokale Tumoren und pathognomonische Histologie.",
+      "Ausschließlich das Geschlecht des Patienten.",
+      "Ausschließlich das Vorliegen eines erhöhten Blutdrucks.",
+      "Ausschließlich die Tumorgröße bei Erstdiagnose."
+    ],
+    "correct": 0,
+    "tip": "Diese Kriterien orientieren sich an Alter, Familienanamnese, Tumorverteilung und Histologie.",
+    "explanation": "Statement 11.1 nennt als Hinweise auf einen erblichen Nierentumor u. a. ein Erkrankungsalter vor dem 47. Lebensjahr, Verwandte ersten oder zweiten Grades mit Nierentumor, bilaterale oder multifokale Nierentumoren sowie Nierentumoren mit pathognomonischer Histologie."
+  },
+  {
+    "question": "Was fordert die Konsensbasierte Empfehlung in Kapitel 11.1 (neu 2024) bei Diagnose eines Nierentumors?",
+    "options": [
+      "Das Risiko für einen erblichen Hintergrund soll anhand definierter Kriterien evaluiert werden, bevorzugt mit einem standardisierten Evaluationsbogen.",
+      "Eine genetische Testung ist bei jedem Patienten obligat, unabhängig von Risikokriterien.",
+      "Eine Evaluation des erblichen Risikos ist nur bei Patienten unter 18 Jahren vorgesehen.",
+      "Eine Risikoevaluation ist bei Nierentumoren grundsätzlich nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung baut direkt auf den in Statement 11.1 genannten Kriterien auf.",
+    "explanation": "Die Empfehlung fordert, dass bei Diagnose eines Nierentumors das Risiko für einen erblichen Hintergrund anhand der genannten Kriterien evaluiert werden soll, wofür ein standardisierter Evaluationsbogen verwendet werden sollte."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 11.3 bei begründetem klinischen Verdacht auf ein hereditäres Tumorsyndrom?",
+    "options": [
+      "Eine Beratung in einem spezialisierten Zentrum sollte angeboten werden.",
+      "Eine sofortige bilaterale Nephrektomie ist indiziert.",
+      "Eine genetische Testung ist in diesem Fall kontraindiziert.",
+      "Es ist keine weitere Maßnahme notwendig, da sich die Diagnose nicht auf die Therapie auswirkt."
+    ],
+    "correct": 0,
+    "tip": "Die Betreuung erblicher Nierentumor-Familien ist laut Hintergrundtext eine komplexe multidisziplinäre Aufgabe.",
+    "explanation": "Empfehlung 11.3 sieht vor, dass Betroffenen bei begründetem klinischen Verdacht auf ein hereditäres Tumorsyndrom eine Beratung in einem spezialisierten Zentrum angeboten werden sollte."
+  },
+  {
+    "question": "Welche zusätzlichen Gene wurden laut einer 2022 veröffentlichten Studie des UK 100.000 Genom Projekts (Kapitel 11.1) als statistisch signifikant in der Keimbahn betroffen identifiziert, definieren aber bisher kein eigenständiges Nierentumor-Syndrom?",
+    "options": [
+      "CHEK2 und ATM.",
+      "VHL und MET.",
+      "BHD und FH.",
+      "TSC1 und TSC2."
+    ],
+    "correct": 0,
+    "tip": "Eine Analyse dieser Gene wird deshalb bislang nur im Rahmen wissenschaftlicher Studien empfohlen.",
+    "explanation": "Die 2022 veröffentlichte Studie des UK 100.000 Genom Projekts zeigte an 1336 Nierenzellkarzinomen CHEK2 und ATM als statistisch signifikant betroffene Keimbahngene, die jedoch bisher kein eigenständiges Syndrom definieren und ohne sichere klinische Konsequenz sind."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Anteil an allen Nierenzellkarzinomen macht das klarzellige Nierenzellkarzinom laut Kapitel 7.1 aus?",
+    "options": [
+      "Etwa 20-30 %",
+      "Etwa 50 %",
+      "Etwa 75-80 %, bei metastasierten Patienten sogar noch mehr.",
+      "Unter 10 %"
+    ],
+    "correct": 2,
+    "tip": "Unter den metastasierten Patienten ist der Anteil des klarzelligen Subtyps nochmals höher.",
+    "explanation": "Kapitel 7.1 beschreibt, dass das klarzellige Nierenzellkarzinom mit ca. 75-80 % die größte Gruppe unter den Nierenzellkarzinomen ausmacht, wobei sein Anteil unter metastasierten Patienten noch größer ist."
+  },
+  {
+    "question": "Was besagt Empfehlung 7.1 (Kapitel 7.2, Empfehlungsgrad A) zur palliativen Chemotherapie beim metastasierten klarzelligen Nierenzellkarzinom?",
+    "options": [
+      "Sie soll nicht durchgeführt werden.",
+      "Sie soll als Erstlinientherapie bei allen Risikogruppen erfolgen.",
+      "Sie soll nur in Kombination mit Checkpointinhibitoren eingesetzt werden.",
+      "Sie ist der Standardtherapie bei günstigem Risiko gleichwertig."
+    ],
+    "correct": 0,
+    "tip": "Der Grund liegt unter anderem in einer hohen P-Glykoprotein-Expression des klarzelligen Subtyps.",
+    "explanation": "Empfehlung 7.1 legt mit Empfehlungsgrad A fest, dass beim metastasierten klarzelligen Nierenzellkarzinom eine palliative Chemotherapie nicht durchgeführt werden soll, da der Tumor gegenüber zytotoxischen Substanzen nahezu komplett resistent ist."
+  },
+  {
+    "question": "Was besagt Empfehlung 7.2 (Kapitel 7.3, Empfehlungsgrad A) zur alleinigen Zytokintherapie mit subkutanem IL-2 und/oder IFN-alpha?",
+    "options": [
+      "Sie soll als Erstlinienstandard bei günstigem Risiko eingesetzt werden.",
+      "Sie soll nicht durchgeführt werden.",
+      "Sie ist Checkpointinhibitor-Kombinationen in jedem Fall überlegen.",
+      "Sie wird nur bei sarkomatoider Differenzierung empfohlen."
+    ],
+    "correct": 1,
+    "tip": "Die Zytokin-Ära ging der Ära der zielgerichteten Therapien und Checkpointinhibitoren voraus.",
+    "explanation": "Empfehlung 7.2 legt fest, dass eine alleinige Zytokintherapie basierend auf subkutanem IL-2 und/oder IFN beim metastasierten klarzelligen Nierenzellkarzinom nicht durchgeführt werden soll."
+  },
+  {
+    "question": "Welchen Effekt zeigte laut Kapitel 7.3 die palliative Nephrektomie vor einer IFN-alpha-Therapie in zwei randomisierten Phase-III-Studien?",
+    "options": [
+      "Keinen Effekt auf das Gesamtüberleben.",
+      "Ein signifikant verbessertes Gesamtüberleben (z. B. 17 vs. 7 Monate bzw. 11,1 vs. 8,1 Monate).",
+      "Eine signifikante Verschlechterung des Gesamtüberlebens.",
+      "Eine Verkürzung der Ansprechdauer ohne Einfluss auf das Überleben."
+    ],
+    "correct": 1,
+    "tip": "Die Operation vor Beginn der systemischen Therapie zeigte in beiden Studien einen deutlichen Überlebensvorteil.",
+    "explanation": "Zwei randomisierte Phase-III-Studien zeigten laut Kapitel 7.3, dass Patienten mit palliativer Nephrektomie vor Beginn der IFN-alpha-Therapie ein signifikant verbessertes Gesamtüberleben hatten (17 bzw. 11,1 Monate) gegenüber Patienten ohne Nephrektomie (7 bzw. 8,1 Monate)."
+  },
+  {
+    "question": "Was zeigte die MRC RE04/EORTC-Studie laut Kapitel 7.4 im Vergleich von Chemoimmuntherapie (IFN/IL-2/5-FU) zu IFN-Monotherapie?",
+    "options": [
+      "Signifikant höhere Remissionsrate, aber kein signifikanter Unterschied im Gesamtüberleben bei höherer Toxizität der Kombination.",
+      "Ein signifikant verlängertes Gesamtüberleben unter Chemoimmuntherapie.",
+      "Eine signifikant geringere Toxizität der Chemoimmuntherapie.",
+      "Keinen Unterschied in irgendeinem untersuchten Parameter."
+    ],
+    "correct": 0,
+    "tip": "Trotz höherer Remissionsrate (23 % vs. 16 %) ergab sich kein Überlebensvorteil, dafür aber mehr Behandlungsunterbrechungen.",
+    "explanation": "Die MRC RE04/EORTC GU 30012-Studie zeigte eine signifikant höhere Remissionsrate unter Chemoimmuntherapie (23 % vs. 16 %), jedoch keinen signifikanten Unterschied im medianen Gesamtüberleben (18,6 vs. 18,8 Monate) bei signifikant höherer Toxizität – daher soll laut Empfehlung 7.3 keine Chemoimmuntherapie durchgeführt werden."
+  },
+  {
+    "question": "Warum sind laut Statement 7.4 (Kapitel 7.5.1) die Ergebnisse der Studien zu Checkpoint-, Tyrosinkinase- oder mTOR-Inhibitoren bzw. VEGF-Antikörpern nicht direkt vergleichbar?",
+    "options": [
+      "Weil die Studien unterschiedliche Patientenkollektive (günstiges, intermediäres, ungünstiges Risiko) eingeschlossen haben.",
+      "Weil alle Studien exakt dieselben Risikogruppen untersuchten.",
+      "Weil es sich ausschließlich um unverblindete Phase-I-Studien handelte.",
+      "Weil keine der Studien ein Kontrollarm hatte."
+    ],
+    "correct": 0,
+    "tip": "Deshalb nimmt die Leitlinie in ihren Empfehlungen jeweils Bezug auf die konkret untersuchten Risikogruppen.",
+    "explanation": "Statement 7.4 erklärt, dass die Studien zur Therapie des fortgeschrittenen/metastasierten klarzelligen Nierenzellkarzinoms unterschiedliche Patientenkollektive (günstiges, intermediäres, ungünstiges Risiko) eingeschlossen haben, weshalb die Ergebnisse nicht vergleichbar sind."
+  },
+  {
+    "question": "Welche Faktoren sollen laut Empfehlung 7.5 zur Auswahl der Erstlinientherapie berücksichtigt werden?",
+    "options": [
+      "Ausschließlich das Alter des Patienten.",
+      "Das IMDC-Risiko (günstig, intermediär oder ungünstig) sowie patientenindividuelle Faktoren.",
+      "Ausschließlich der histologische Subtyp.",
+      "Ausschließlich die Tumorgröße des Primärtumors."
+    ],
+    "correct": 1,
+    "tip": "Diese Empfehlung ist als starker Expertenkonsens formuliert.",
+    "explanation": "Empfehlung 7.5 besagt, dass zur Auswahl der Erstlinientherapie das IMDC-Risiko (günstig, intermediär oder ungünstig) und patientenindividuelle Faktoren berücksichtigt werden sollen."
+  },
+  {
+    "question": "Welche Kombinationstherapien sollen laut Empfehlung 7.6 (Empfehlungsgrad A) bei ALLEN Risikogruppen zur Erstlinientherapie eingesetzt werden?",
+    "options": [
+      "Nivolumab plus Cabozantinib, Pembrolizumab plus Axitinib, oder Pembrolizumab plus Lenvatinib.",
+      "Ausschließlich Sunitinib als Monotherapie.",
+      "Ipilimumab plus Nivolumab als einzige Option.",
+      "Eine Kombination aus IFN-alpha und IL-2."
+    ],
+    "correct": 0,
+    "tip": "Es sind drei namentlich genannte Kombinationen, jeweils ein Checkpointinhibitor plus ein Tyrosinkinaseinhibitor bzw. ein zweiter Checkpointinhibitor.",
+    "explanation": "Empfehlung 7.6 fordert mit Empfehlungsgrad A den Einsatz einer der Kombinationen Nivolumab plus Cabozantinib, Pembrolizumab plus Axitinib oder Pembrolizumab plus Lenvatinib bei allen Risikogruppen."
+  },
+  {
+    "question": "Welche Kombinationstherapie soll laut Empfehlung 7.8 (Empfehlungsgrad A) speziell für Patienten mit intermediärem oder ungünstigem Risiko gegeben werden?",
+    "options": [
+      "Ipilimumab plus Nivolumab.",
+      "Pazopanib als Monotherapie.",
+      "Avelumab plus Axitinib.",
+      "Temsirolimus als Monotherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination zweier Checkpointinhibitoren ist speziell diesen beiden Risikogruppen zugeordnet.",
+    "explanation": "Empfehlung 7.8 legt fest, dass für Patienten mit intermediärem oder ungünstigem Risiko die Kombination Ipilimumab plus Nivolumab gegeben werden soll."
+  },
+  {
+    "question": "Welche risikobasierten Alternativen nennt Empfehlung 7.9, falls eine Checkpointinhibitor-basierte Kombinationstherapie in der Erstlinie nicht durchgeführt werden kann?",
+    "options": [
+      "Bei günstigem Risiko: Pazopanib, Sunitinib oder Tivozanib; bei ungünstigem Risiko: Cabozantinib oder Sunitinib.",
+      "Bei allen Risikogruppen ausschließlich Chemotherapie.",
+      "Bei allen Risikogruppen ausschließlich Zytokintherapie mit IFN-alpha.",
+      "Es gibt laut Leitlinie keine Alternative, die Therapie muss abgebrochen werden."
+    ],
+    "correct": 0,
+    "tip": "Für das intermediäre Risiko wird zusätzlich Cabozantinib als Option genannt.",
+    "explanation": "Empfehlung 7.9 nennt für Patienten mit günstigem Risiko Pazopanib, Sunitinib oder Tivozanib, für intermediäres Risiko zusätzlich Cabozantinib, und für ungünstiges Risiko Cabozantinib oder Sunitinib als risikobasierte Alternativen."
+  }
+]

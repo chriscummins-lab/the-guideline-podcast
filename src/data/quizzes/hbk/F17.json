@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 11.1 (Kapitel 11.1) nach einer radikalen Zystektomie?",
+    "options": [
+      "Den Patienten soll eine Rehabilitation angeboten werden.",
+      "Eine Rehabilitation ist nach Zystektomie nicht vorgesehen.",
+      "Eine Rehabilitation ist nur bei Komplikationen erforderlich.",
+      "Eine Rehabilitation darf frühestens nach 2 Jahren beginnen."
+    ],
+    "correct": 0,
+    "tip": "Dieser Anspruch ist im SGB IX gesetzlich verankert.",
+    "explanation": "Empfehlung 11.1 fordert, dass Patienten nach Zystektomie eine Rehabilitation angeboten werden soll."
+  },
+  {
+    "question": "Wo soll laut Empfehlung 11.2 die Rehabilitation nach Zystektomie und Harnableitung erfolgen?",
+    "options": [
+      "In einer Klinik mit qualitätsgesicherter Zulassung für uroonkologische Rehabilitation.",
+      "Ausschließlich ambulant beim Hausarzt.",
+      "In einer beliebigen allgemeinen Rehabilitationseinrichtung ohne spezifische Zulassung.",
+      "Eine spezifische Einrichtung ist nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Das Zulassungsverfahren der Deutschen Rentenversicherung garantiert hierfür einen definierten Qualitätsstandard.",
+    "explanation": "Empfehlung 11.2 fordert, dass die Rehabilitation in einer Klinik mit qualitätsgesicherter Zulassung für uroonkologische Rehabilitation erfolgen soll."
+  },
+  {
+    "question": "Welche Rehabilitationsdauer soll laut Kapitel 11.1 Patienten mit ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und/oder starker psychischer Belastung angeboten werden?",
+    "options": [
+      "Eine verlängerte Rehabilitationsdauer von 4 Wochen.",
+      "Eine verkürzte Rehabilitationsdauer von 2 Tagen.",
+      "Grundsätzlich keine Rehabilitation.",
+      "Eine Rehabilitationsdauer von genau 1 Jahr."
+    ],
+    "correct": 0,
+    "tip": "Diese Verlängerung berücksichtigt die besonders ausgeprägte funktionelle und psychische Belastung dieser Patientengruppe.",
+    "explanation": "Kapitel 11.1 sieht vor, dass Patienten mit ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und/oder starker psychischer Belastung eine verlängerte Rehabilitationsdauer von 4 Wochen angeboten werden soll."
+  },
+  {
+    "question": "Mit welchem Therapiekonzept soll laut Kapitel 11.1 die postoperative Harninkontinenz nach radikaler Zystektomie und Neoblasenanlage behandelt werden?",
+    "options": [
+      "Mit einem multimodalen Therapiekonzept aus physiotherapeutischem Kontinenztraining, Blasentraining und ggf. zusätzlicher medikamentöser Therapie.",
+      "Ausschließlich durch vollständige Bettruhe.",
+      "Ausschließlich durch eine sofortige operative Revision.",
+      "Ausschließlich durch eine Dauerkatheterversorgung ohne weitere Maßnahmen."
+    ],
+    "correct": 0,
+    "tip": "Das Kontinenztraining umfasst u. a. die Kräftigung der Beckenbodenmuskulatur und die Verbesserung der Wahrnehmung für Beckenboden, Atmung und Haltung.",
+    "explanation": "Nach radikaler Zystektomie und Anlage einer Neoblase soll die postoperative Harninkontinenz mit einem multimodalen Therapiekonzept behandelt werden, das physiotherapeutisches Kontinenztraining, Blasentraining und bei Indikation zusätzliche medikamentöse Therapie umfasst."
+  },
+  {
+    "question": "Was fordert Empfehlung 11.7 nach Anlage eines Urostomas oder anderer Harnableitungen?",
+    "options": [
+      "Schulungen mit dem Ziel der selbstständigen Versorgung sollen erfolgen.",
+      "Die Versorgung erfolgt ausschließlich lebenslang durch Pflegepersonal, nie selbstständig.",
+      "Eine Schulung ist nicht notwendig, da sich die Versorgung von selbst einstellt.",
+      "Schulungen sind nur bei Komplikationen vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Die äußerlich sichtbare Körperveränderung durch ein Stoma kann erhebliche psychische Belastungen verursachen, weshalb eine kompetente Anleitung wichtig ist.",
+    "explanation": "Empfehlung 11.7 fordert, dass nach Anlage eines Urostomas oder anderer Harnableitungen Schulungen mit dem Ziel der selbstständigen Versorgung erfolgen sollen."
+  },
+  {
+    "question": "Welche Therapieoptionen nennt Empfehlung 11.8 zur Behandlung der erektilen Dysfunktion nach Zystektomie?",
+    "options": [
+      "Phosphodiesterasehemmer, Vakuumerektionshilfesysteme sowie intrakavernöse oder intraurethrale Alprostadil-Applikation.",
+      "Ausschließlich eine testosteronbasierte Hormontherapie.",
+      "Ausschließlich eine psychotherapeutische Behandlung ohne medikamentöse Optionen.",
+      "Erektile Dysfunktion wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Die Wahl der Option richtet sich dabei nach der individuellen Patientenpräferenz.",
+    "explanation": "Empfehlung 11.8 nennt Phosphodiesterasehemmer, Vakuumerektionshilfesysteme sowie intrakavernöse Injektionen bzw. intraurethrale Applikationen von Alprostadil als Therapieoptionen bei erektiler Dysfunktion nach radikaler Zystektomie."
+  },
+  {
+    "question": "Ab wann wird laut Kapitel 11.1 frühestens eine Bestimmung des Vitamin-B12-Spiegels bei Verwendung von terminalem Ileum zur Darmersatzblasenbildung empfohlen?",
+    "options": [
+      "Frühestens nach 3 Jahren, aufgrund ausreichender körpereigener Speicher.",
+      "Bereits am ersten postoperativen Tag.",
+      "Erst nach 20 Jahren.",
+      "Eine Bestimmung ist in diesem Zusammenhang nie erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Grund ist, dass die körpereigenen Vitamin-B12-Speicher für diesen Zeitraum in der Regel ausreichen.",
+    "explanation": "Kapitel 11.1 beschreibt, dass bei Verwendung von terminalem Ileum eine Bestimmung des Vitamin-B12-Spiegels aufgrund ausreichender Speicher erst frühestens nach 3 Jahren empfohlen wird."
+  },
+  {
+    "question": "Ab welchem Base-Exzess wird laut Kapitel 11.1 eine Therapie mit Natriumhydrogencarbonat bei Patienten mit Darmersatzblase empfohlen?",
+    "options": [
+      "Ab einem Base-Exzess unter -2,5 mmol/L.",
+      "Ab einem Base-Exzess von +10 mmol/L.",
+      "Eine Therapie mit Natriumhydrogencarbonat ist nie indiziert.",
+      "Ab jedem messbaren Base-Exzess, unabhängig vom Wert."
+    ],
+    "correct": 0,
+    "tip": "Die Azidose entsteht durch Resorption von Ammoniumchlorid aus dem Urinreservoir und kann sich mit unspezifischen Symptomen wie Müdigkeit und Übelkeit äußern.",
+    "explanation": "Kapitel 11.1 beschreibt, dass eine Therapie mit Natriumhydrogencarbonat bei einem Base-Exzess unter -2,5 mmol/L erfolgt."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 11.13 (Kapitel 11.3) ein psychoonkologisches Screening wiederholt durchgeführt werden?",
+    "options": [
+      "Frühestmöglich und in angemessenen Abständen, wenn klinisch indiziert oder bei Veränderung des Erkrankungsstatus (z. B. Rezidiv oder Progress).",
+      "Nur einmalig bei Erstdiagnose, danach nie wieder.",
+      "Nur bei explizitem Wunsch des Patienten, nie proaktiv.",
+      "Ausschließlich nach Abschluss jeder Rehabilitationsmaßnahme."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung verweist zusätzlich auf die S3-Leitlinien Psychoonkologie und Palliativmedizin.",
+    "explanation": "Empfehlung 11.13 sieht vor, dass ein psychoonkologisches Screening frühestmöglich in angemessenen Abständen, bei klinischer Indikation oder bei Veränderung des Erkrankungsstatus wiederholt im Krankheitsverlauf durchgeführt werden sollte."
+  },
+  {
+    "question": "Welche Harnausscheidungsmenge sollte laut Kapitel 11.1 bei Patienten mit Darmersatzblase angestrebt werden, um die durch Mucusbildung begünstigte Restharnbildung zu vermeiden?",
+    "options": [
+      "Mindestens 2 Liter pro Tag.",
+      "Maximal 200 ml pro Tag.",
+      "Die Trinkmenge spielt für die Mucusbildung keine Rolle.",
+      "Mindestens 10 Liter pro Tag."
+    ],
+    "correct": 0,
+    "tip": "Sekretolytisch wirksam sind zusätzlich Acetylcystein und spezielle Teemischungen.",
+    "explanation": "Kapitel 11.1 beschreibt, dass die Harnausscheidungsmenge bei Patienten mit Darmersatzblase 2 Liter pro Tag betragen sollte, um der durch Mucusbildung begünstigten Restharnbildung und Harnverhaltung entgegenzuwirken."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Biopsietechnik wird laut Kapitel 4.1.2 gegenüber der Feinnadel-Aspirationszytologie bei der Nierentumorbiopsie bevorzugt?",
+    "options": [
+      "Die Stanzbiopsie, da diagnostische Sicherheit höher und die Beurteilung von Grad/Subtyp häufiger möglich ist.",
+      "Die Aspirationszytologie, da sie untersucherunabhängiger ist.",
+      "Beide Verfahren sind laut Leitlinie gleichwertig und beliebig kombinierbar.",
+      "Keine der beiden, da ausschließlich die offene chirurgische Biopsie empfohlen wird."
+    ],
+    "correct": 0,
+    "tip": "Die Streubreite zwischen Untersuchern war bei einem der beiden Verfahren deutlich geringer.",
+    "explanation": "Kapitel 4.1.2 beschreibt, dass die diagnostische Sicherheit bei Stanzbiopsien in der Regel höher ist, die Interpretation weniger untersucherabhängig ausfällt und Grad und Subtyp häufiger beurteilt werden können als bei der Aspirationszytologie."
+  },
+  {
+    "question": "Welche Nadelgröße zeigte in der zitierten Ex-vivo-Studie laut Kapitel 4.1.2 die höchste diagnostische Sicherheit bei der Nierentumorbiopsie?",
+    "options": [
+      "14 Gauge",
+      "16 Gauge",
+      "18 Gauge",
+      "22 Gauge"
+    ],
+    "correct": 2,
+    "tip": "Die Studie verglich drei Nadelgrößen; die mittlere erwies sich als am sichersten.",
+    "explanation": "Laut Kapitel 4.1.2 lag die diagnostische Sicherheit mit einer 18-Gauge-Nadel bei 97%, verglichen mit 94% (14 Gauge) und 81% (20 Gauge)."
+  },
+  {
+    "question": "Wie viele Biopsien sollten laut dem in Kapitel 4.1.2 zitierten Hintergrundtext mindestens entnommen werden, um einen signifikanten Informationsgewinn zu erzielen?",
+    "options": [
+      "Eine Biopsie reicht aus.",
+      "Mindestens zwei Biopsien.",
+      "Mindestens vier Biopsien.",
+      "Es gibt keine Empfehlung zur Anzahl."
+    ],
+    "correct": 1,
+    "tip": "Eine prospektive Ex-vivo-Untersuchung bei 48 Tumoren belegte diesen Zusammenhang.",
+    "explanation": "Kapitel 4.1.2 beschreibt für mindestens zwei statt einer Biopsie einen signifikanten Informationsgewinn, bestätigt in einer Ex-vivo-Untersuchung bei 48 Tumoren."
+  },
+  {
+    "question": "Wie ist die Biopsie zystischer Nierentumoren laut Kapitel 4.1.2 trotz kontroverser Literaturlage grundsätzlich einzuordnen?",
+    "options": [
+      "Als Standardverfahren vor jeder operativen Therapie.",
+      "In der Regel als kontraindiziert, u. a. wegen des Risikos eines Tumorzell-Seedings.",
+      "Als einzig zulässige Methode zur Diagnosesicherung zystischer Läsionen.",
+      "Als obligat, sofern eine ablative Therapie geplant ist."
+    ],
+    "correct": 1,
+    "tip": "Die Begründung liegt sowohl in der geringen Trefferquote solider Anteile als auch in einem Sicherheitsaspekt bei Punktion.",
+    "explanation": "Trotz einiger befürwortender Studien gilt die Biopsie zystischer Tumoren laut Kapitel 4.1.2 in der Regel als kontraindiziert, u. a. wegen der Gefahr einer Tumorzellverbreitung durch austretende Zystenflüssigkeit und der unklaren Aussagekraft."
+  },
+  {
+    "question": "Nach welchem Klassifikationssystem soll der histologische Typ des Nierenzellkarzinoms laut Empfehlung 4.9 (Kapitel 4.1.3) bestimmt werden?",
+    "options": [
+      "Nach der aktuellen WHO-Klassifikation.",
+      "Nach der TNM-Klassifikation von 1997.",
+      "Nach dem R.E.N.A.L.-Score.",
+      "Nach dem individuellen Ermessen des Pathologen ohne festes System."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung betrifft die histologische Typisierung, nicht das Staging oder Grading.",
+    "explanation": "Empfehlung 4.9 legt fest, dass der histologische Typ des Nierenzellkarzinoms nach der aktuellen WHO-Klassifikation bestimmt werden soll."
+  },
+  {
+    "question": "Wie verhält sich die Leitlinie laut Empfehlung 4.11 (Kapitel 4.1.3) zum Grading chromophober Nierenzellkarzinome?",
+    "options": [
+      "Chromophobe Nierenzellkarzinome sollten nicht graduiert werden.",
+      "Chromophobe Nierenzellkarzinome müssen immer nach WHO-ISUP-Grading angegeben werden.",
+      "Chromophobe Nierenzellkarzinome werden nur bei metastasierter Erkrankung graduiert.",
+      "Das Grading chromophober Karzinome ist gesetzlich vorgeschrieben."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz dazu wird bei klarzelligen und papillären Karzinomen explizit ein Grading gefordert.",
+    "explanation": "Empfehlung 4.11 besagt, dass chromophobe Nierenzellkarzinome nicht graduiert werden sollten, während Empfehlung 4.10 für klarzellige und papilläre Karzinome ein WHO-ISUP-Grading vorsieht."
+  },
+  {
+    "question": "In welche Untergruppen soll das papilläre Nierenzellkarzinom laut Empfehlung 4.12 eingeteilt werden?",
+    "options": [
+      "Low-grade und high-grade.",
+      "Typ 1 und Typ 2.",
+      "Klarzellig und nicht-klarzellig.",
+      "Hereditär und sporadisch."
+    ],
+    "correct": 1,
+    "tip": "Es handelt sich um eine histologische Untergliederung, nicht um eine Stadieneinteilung.",
+    "explanation": "Empfehlung 4.12 sieht vor, dass das papilläre Nierenzellkarzinom in zwei Untergruppen eingeteilt werden sollte: Typ 1 und Typ 2."
+  },
+  {
+    "question": "Welche histopathologische Zusatzinformation soll laut Empfehlung 4.13 bei Vorliegen angegeben werden, da sie eindeutig mit schlechterer Prognose assoziiert ist?",
+    "options": [
+      "Der Mitoseindex in Prozent.",
+      "Eine sarkomatoide und/oder rhabdoide Differenzierung.",
+      "Die Anzahl der untersuchten Lymphknoten.",
+      "Der Gefäßinvasionsgrad nach WHO-Klassifikation 2004."
+    ],
+    "correct": 1,
+    "tip": "Diese Differenzierung wird im Text dem Grad 4 zugeordnet.",
+    "explanation": "Empfehlung 4.13 fordert, dass eine sarkomatoide und/oder rhabdoide Differenzierung des Nierenzellkarzinoms, falls vorhanden, separat angegeben werden soll, da sie mit einer schlechteren Prognose assoziiert ist."
+  },
+  {
+    "question": "Ab welcher Tumorgröße sollte bei asymptomatischen Patienten laut Empfehlung 4.14 (Kapitel 4.1.4) ein Thorax-CT zur Ausbreitungsdiagnostik durchgeführt werden?",
+    "options": [
+      "Ab 1 cm",
+      "Ab 3 cm",
+      "Ab 7 cm",
+      "Erst ab Nachweis klinischer Symptome, unabhängig von der Größe"
+    ],
+    "correct": 1,
+    "tip": "Ab dieser Größe steigt laut Hintergrundtext die Wahrscheinlichkeit einer Metastasierung an.",
+    "explanation": "Empfehlung 4.14 sieht bei asymptomatischen Patienten mit malignen Tumoren über 3 cm ein Thorax-CT vor, da ab dieser Größe die Metastasierungswahrscheinlichkeit zunimmt und die CT eine höhere Sensitivität und Spezifität als andere Verfahren aufweist."
+  },
+  {
+    "question": "Welche Bildgebung soll laut Empfehlung 4.16 bei Verdacht auf zerebrale Metastasen eines Nierenzellkarzinoms durchgeführt werden?",
+    "options": [
+      "Eine native Schädel-CT ohne Kontrastmittel.",
+      "Eine kontrastmittelverstärkte Schädel-MRT.",
+      "Eine Skelettszintigraphie des gesamten Körpers.",
+      "Eine Sonographie des Schädels."
+    ],
+    "correct": 1,
+    "tip": "Das Verfahren der Wahl ist dasselbe Prinzip, das auch bei Verdacht auf ossäre Metastasen dem Skelettszintigramm vorgezogen wird.",
+    "explanation": "Empfehlung 4.16 fordert bei Verdacht auf zerebrale Metastasen eine kontrastmittelverstärkte Schädel-MRT, da diese Metastase und Ödem im Hirn besser darstellen kann."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt Statement 3.11 (Kapitel 3.3) zu validierten Maßnahmen der Primär- oder Tertiärprävention des Harnblasenkarzinoms?",
+    "options": [
+      "Außer der Vermeidung einer Exposition gegenüber nachgewiesenen Karzinogenen gibt es keine validierten Präventionsmaßnahmen; die Empfehlungen sollten sich an den allgemeinen WHO-Empfehlungen orientieren.",
+      "Nahrungsergänzungsmittel mit Antioxidantien sind eine validierte und empfohlene Präventionsmaßnahme.",
+      "Grüner Tee ist nachweislich wirksam zur Tertiärprävention.",
+      "Eine spezifische Diät kann das Harnblasenkarzinomrisiko sicher senken."
+    ],
+    "correct": 0,
+    "tip": "Die Datenlage zu Ernährung, Nahrungsergänzungsmitteln und Getränken ist durchweg widersprüchlich oder unzureichend.",
+    "explanation": "Statement 3.11 stellt fest, dass es außer der Expositionsvermeidung gegenüber nachgewiesenen Karzinogenen keine validierten Präventionsmaßnahmen gibt und sich die Empfehlungen an den allgemeinen WHO-Empfehlungen orientieren sollten."
+  },
+  {
+    "question": "Um wie viel Prozent sinkt laut Kapitel 3.3 das Harnblasenkrebsrisiko bereits 3-4 Jahre nach Aufgabe des Rauchens, und wie hoch ist das Population Attributable Risk (PAR) des Rauchens bei Männern?",
+    "options": [
+      "Risikosenkung um ca. 30%; PAR für Männer ca. 50%.",
+      "Risikosenkung um ca. 90%; PAR für Männer ca. 5%.",
+      "Keine Risikosenkung innerhalb der ersten 10 Jahre; PAR ca. 10%.",
+      "Risikosenkung um ca. 30%; PAR nur bei Frauen relevant."
+    ],
+    "correct": 0,
+    "tip": "Das Risiko nähert sich nach ca. 20 Jahren dem eines Nichtrauchers an, ohne es ganz zu erreichen.",
+    "explanation": "Kapitel 3.3 beschreibt eine Risikosenkung von ca. 30% bereits 3-4 Jahre nach Rauchstopp und ein Population Attributable Risk von ca. 50% für Männer, womit Rauchen der mit Abstand wichtigste Risikofaktor ist."
+  },
+  {
+    "question": "Was besagt Statement 3.12 (Kapitel 3.4) zum Einsatz diagnostischer Marker für das Screening auf ein Harnblasenkarzinom?",
+    "options": [
+      "Kein diagnostischer Marker kann zum Screening in der Gesamtbevölkerung oder in Risikopopulationen empfohlen werden.",
+      "NMP22 wird als Standardmarker für das Screening der Gesamtbevölkerung empfohlen.",
+      "Die Urinzytologie wird als alleiniger Screening-Marker für Risikopopulationen empfohlen.",
+      "Jeder zugelassene Urinmarker ist zum generellen Screening geeignet."
+    ],
+    "correct": 0,
+    "tip": "Dies gilt sowohl für die Gesamtbevölkerung als auch für definierte Risikogruppen.",
+    "explanation": "Statement 3.12 stellt fest, dass kein diagnostischer Marker zum Screening auf das Vorliegen eines Harnblasenkarzinoms oder zur systematischen Früherkennung in der Gesamtbevölkerung oder in Risikopopulationen empfohlen werden kann."
+  },
+  {
+    "question": "Für welche Patientengruppe beschreibt Statement 3.13 einen möglichen Vorteil einer Mikrohämaturie-basierten Früherkennung?",
+    "options": [
+      "Hochrisikokollektive wie Raucher und berufsbedingte Risikogruppen.",
+      "Ausschließlich Kinder und Jugendliche unter 18 Jahren.",
+      "Ausschließlich Patienten ohne jeden Risikofaktor.",
+      "Alle Personen über 18 Jahren unabhängig vom Risikoprofil."
+    ],
+    "correct": 0,
+    "tip": "Bei dieser Gruppe kann das Harnblasenkarzinom früher erkannt werden als bei bereits symptomatischen Patienten.",
+    "explanation": "Statement 3.13 beschreibt, dass bei Hochrisikokollektiven wie Rauchern und berufsbedingten Risikogruppen durch Urinuntersuchungen auf Mikrohämaturie ein Harnblasenkarzinom früher erkannt werden kann als bei bereits symptomatischen Patienten."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.14 zum Einsatz kommerziell verfügbarer Blut- und Urintests zur Früherkennung und zum Screening?",
+    "options": [
+      "Ihre Anwendung außerhalb von Studien soll nicht erfolgen.",
+      "Sie sollen als Standardverfahren beim jährlichen Check-up eingesetzt werden.",
+      "Sie ersetzen bei unauffälligem Ergebnis die Zystoskopie.",
+      "Sie sind ausschließlich bei Frauen zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt mit starkem Konsens unabhängig vom jeweiligen Testverfahren.",
+    "explanation": "Empfehlung 3.14 legt fest, dass die Anwendung kommerziell verfügbarer Blut- und Urintests zur Früherkennung und zum Screening außerhalb von Studien nicht erfolgen soll."
+  },
+  {
+    "question": "Was soll laut Empfehlung 3.15 bei einer wiederholt gesicherten asymptomatischen Mikrohämaturie erfolgen?",
+    "options": [
+      "Eine urologische Evaluation sollte sich daran anschließen.",
+      "Keine weitere Diagnostik, da asymptomatische Mikrohämaturie immer harmlos ist.",
+      "Eine sofortige Zystektomie ohne weitere Abklärung.",
+      "Eine Wiederholung des Urinstreifentests erst nach 5 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt unabhängig vom Ergebnis anderer Urinmarker.",
+    "explanation": "Empfehlung 3.15 sieht vor, dass eine wiederholt gesicherte asymptomatische Mikrohämaturie eine urologische Evaluation nach sich ziehen sollte."
+  },
+  {
+    "question": "Welche Sensitivität zeigte die Urinzytologie laut Kapitel 3.4.1 in der Studie von Turco et al. in Abhängigkeit vom Differenzierungsgrad des Tumors?",
+    "options": [
+      "Ca. 20% bei G1-Tumoren bis ca. 50% bei G3-Tumoren, bei durchgehend hoher Spezifität (90-100%).",
+      "Konstant 95% unabhängig vom Differenzierungsgrad.",
+      "Ca. 90% bei G1-Tumoren, abfallend auf 20% bei G3-Tumoren.",
+      "Die Urinzytologie zeigte in dieser Studie keine Sensitivität über 5%."
+    ],
+    "correct": 0,
+    "tip": "Die hohe Spezifität macht die Urinzytologie wertvoll, ihre schwache Sensitivität bei gut differenzierten Tumoren limitiert jedoch den Screening-Einsatz.",
+    "explanation": "Kapitel 3.4.1 beschreibt eine Sensitivität der Urinzytologie von 20% bei Differenzierungsgrad G1 bis 50% bei G3, bei einer gleichzeitig hohen Spezifität von 90-100%."
+  },
+  {
+    "question": "Um wie viele Jahre tritt laut Kapitel 3.5 das Harnblasenkarzinom bei Querschnittgelähmten im Durchschnitt früher auf als in der Allgemeinbevölkerung, und wie hoch ist der Anteil muskelinvasiver Tumoren bei Diagnose?",
+    "options": [
+      "Etwa 20 Jahre früher; 67,7% bereits muskelinvasiv bei Diagnose.",
+      "Etwa 2 Jahre früher; unter 5% muskelinvasiv.",
+      "Kein Unterschied im Erkrankungsalter; 10% muskelinvasiv.",
+      "Etwa 20 Jahre später; 67,7% muskelinvasiv."
+    ],
+    "correct": 0,
+    "tip": "Zudem ist der Anteil an Plattenepithelkarzinomen mit etwa 33,5-36,8% stark erhöht.",
+    "explanation": "Kapitel 3.5 beschreibt, dass Harnblasenkarzinome bei Querschnittgelähmten im Durchschnitt fast 20 Jahre früher auftreten als in der Allgemeinbevölkerung, wobei 67,7% der Tumoren bei Diagnose bereits muskelinvasiv waren."
+  },
+  {
+    "question": "Wie verändert sich laut der US-amerikanischen Mortalitätsstudie (Kapitel 3.5) die standardisierte Mortalitätsrate (SMR) für Harnblasenkrebs mit der Dauer der Querschnittlähmung?",
+    "options": [
+      "Sie steigt von 1,42 (1-9 Lähmungsjahre) über 3,96 (10-19 Jahre) auf 17,83 (über 20 Jahre).",
+      "Sie bleibt über alle Lähmungsdauern konstant bei 1,0.",
+      "Sie sinkt mit zunehmender Lähmungsdauer kontinuierlich ab.",
+      "Sie steigt nur in den ersten 5 Jahren an und fällt danach wieder auf den Normalwert."
+    ],
+    "correct": 0,
+    "tip": "Diese klare Dosis-Wirkungsbeziehung mit der Lähmungsdauer wurde an über 45.000 querschnittgelähmten Patienten untersucht.",
+    "explanation": "Die Mortalitätsstudie zeigt eine klare Dosis-Wirkungsbeziehung der SMR mit der Lähmungsdauer: von 1,42 nach 1-9 Lähmungsjahren über 3,96 nach 10-19 Jahren auf 17,83 nach über 20 Lähmungsjahren."
+  },
+  {
+    "question": "Ab welchem Zeitpunkt nach einer unfallbedingten Querschnittlähmung kann ein Harnblasenkarzinom laut Kapitel 3.5 als Unfallfolge durch die Berufsgenossenschaft anerkannt werden?",
+    "options": [
+      "10 Jahre und später nach der Lähmung.",
+      "Innerhalb der ersten 2 Jahre nach der Lähmung.",
+      "Nur innerhalb des ersten Jahres nach der Lähmung.",
+      "Eine Anerkennung als Unfallfolge ist grundsätzlich ausgeschlossen."
+    ],
+    "correct": 0,
+    "tip": "Erkrankungen innerhalb der ersten 10 Jahre nach der Querschnittlähmung sind in den eigenen Patientenkollektiven eine seltene Ausnahme.",
+    "explanation": "Kapitel 3.5 beschreibt, dass Harnblasenkarzinome, die 10 Jahre und später nach einer unfallbedingten (Wege- oder Arbeitsunfall) Querschnittlähmung auftreten, als Unfallfolge durch die zuständige Berufsgenossenschaft anerkannt werden können."
+  }
+]

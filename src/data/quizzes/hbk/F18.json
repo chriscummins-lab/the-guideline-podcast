@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 11.15 (Kapitel 11.4) für Patienten und ihre Angehörigen im gesamten Krankheits- und Behandlungsverlauf?",
+    "options": [
+      "Bedarfsorientierten Zugang zu Informationen und aufklärenden Gesprächen, um informierte Entscheidungen treffen zu können.",
+      "Eine einmalige Aufklärung ausschließlich bei Erstdiagnose.",
+      "Informationen werden grundsätzlich nur auf ausdrückliche Nachfrage gegeben.",
+      "Angehörige werden aus datenschutzrechtlichen Gründen nicht informiert."
+    ],
+    "correct": 0,
+    "tip": "Patientenzentrierte Aufklärungsgespräche und Informationsmaterialien wirken sich laut Leitlinie positiv auf Krankheitsverarbeitung und Lebensqualität aus.",
+    "explanation": "Empfehlung 11.15 fordert, dass Patienten und ihre Angehörigen im gesamten Krankheits- und Behandlungsverlauf bedarfsorientiert Zugang zu Informationen und aufklärenden Gesprächen haben sollen, um informierte Entscheidungen treffen zu können."
+  },
+  {
+    "question": "In welchem Behandlungskontext sollten laut Empfehlung 11.16 therapie-induzierte sexuelle Funktionsstörungen diagnostiziert und therapiert werden?",
+    "options": [
+      "Sowohl im kurativen als auch im palliativen Behandlungskontext.",
+      "Ausschließlich im kurativen Kontext, im palliativen Kontext spielt dies keine Rolle mehr.",
+      "Ausschließlich im palliativen Kontext.",
+      "Sexuelle Funktionsstörungen werden in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Diese Themen sind häufig schambesetzt und werden sowohl von Behandlern als auch Patienten oft nicht offen angesprochen.",
+    "explanation": "Empfehlung 11.16 sieht vor, dass therapie-induzierte sexuelle Funktionsstörungen sowohl im kurativen als auch im palliativen Behandlungskontext diagnostiziert und therapiert werden sollten."
+  },
+  {
+    "question": "Was fordert Empfehlung 11.17 (Kapitel 11.5) für Patienten, die eine medikamentöse Tumortherapie erhalten?",
+    "options": [
+      "Sie sollen supportiv gemäß der Leitlinie Supportivtherapie behandelt werden.",
+      "Eine supportive Therapie ist nur bei schwersten Nebenwirkungen vorgesehen.",
+      "Supportive Maßnahmen werden grundsätzlich erst nach Abschluss der Tumortherapie eingeleitet.",
+      "Eine Leitlinien-Orientierung für die Supportivtherapie existiert nicht."
+    ],
+    "correct": 0,
+    "tip": "Eine enge Verzahnung mit der Palliativmedizin ist bei überlappender Symptomatik im Interesse der bestmöglichen Versorgung wichtig.",
+    "explanation": "Empfehlung 11.17 fordert, dass Patienten, die eine medikamentöse Tumortherapie erhalten, supportiv gemäß der Leitlinie Supportivtherapie behandelt werden sollen."
+  },
+  {
+    "question": "Wie häufig tritt laut Kapitel 11.5 eine Tumortherapie-induzierte Anämie Grad 3 oder höher unter einer Kombinationstherapie mit Cisplatin/Gemcitabin bzw. unter Vinflunin auf?",
+    "options": [
+      "27% unter Cisplatin/Gemcitabin; unter Vinflunin 93% jede Anämie-Form und 19% Grad 3 oder höher.",
+      "0% unter beiden Therapien.",
+      "100% unter beiden Therapien in schwerer Ausprägung.",
+      "27% unter Vinflunin, 93% unter Cisplatin/Gemcitabin."
+    ],
+    "correct": 0,
+    "tip": "Die Behandlungsoptionen reichen je nach Ausprägung von Erythrozytentransfusion über ESA bis zur Eisensubstitution.",
+    "explanation": "Kapitel 11.5 beschreibt eine Häufigkeit von 27% für eine Grad-3-Anämie oder höher unter Cisplatin/Gemcitabin, während unter Vinflunin 93% jede Form der Anämie und 19% eine Grad-3-Anämie oder höher zeigten."
+  },
+  {
+    "question": "Welche beim Harnblasenkarzinom eingesetzten Substanzen tragen laut Kapitel 11.5 ein substantielles Risiko für eine Chemotherapie-induzierte periphere Neuropathie (CIPN)?",
+    "options": [
+      "Vinflunin/Vinblastin, Cisplatin und Carboplatin sowie Enfortumab Vedotin.",
+      "Ausschließlich BCG.",
+      "Ausschließlich Pembrolizumab.",
+      "Ausschließlich Mitomycin C."
+    ],
+    "correct": 0,
+    "tip": "Als nicht-medikamentöse Prophylaxe können Kälte- oder Kompressionsbehandlungen erwogen werden.",
+    "explanation": "Kapitel 11.5 nennt die Vinca-Alkaloide Vinflunin/Vinblastin, die Platinderivate Cisplatin und Carboplatin sowie das Antikörper-Drug-Konjugat Enfortumab Vedotin als Substanzen mit substantiellem CIPN-Risiko beim Harnblasenkarzinom."
+  },
+  {
+    "question": "Was sieht Empfehlung 11.21 zur Prävention einer höhergradigen Tumortherapie-induzierten Alopezie vor?",
+    "options": [
+      "Eine Kopfhautkühlung kann unter Nutzen-Risiko-Abwägung bei Chemotherapie angeboten werden.",
+      "Eine Kopfhautkühlung wird ausdrücklich nicht empfohlen.",
+      "Eine Perücke ist die einzige in der Leitlinie genannte Option.",
+      "Eine medikamentöse Prophylaxe der Alopezie ist gut belegt und wird empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Die zugrunde liegende Evidenz stammt überwiegend aus Studien bei Mammakarzinom-Patientinnen unter Anthrazyklin- und/oder Taxan-Therapie.",
+    "explanation": "Empfehlung 11.21 sieht mit Empfehlungsgrad 0 vor, dass zur Verhinderung einer höhergradigen Tumortherapie-induzierten Alopezie unter Nutzen-Risiko-Abwägung eine Kopfhautkühlung bei Chemotherapie angeboten werden kann."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 11.22 (Kapitel 11.6) ein Patient mit fernmetastasiertem oder nicht-kurabel behandelbarem Harnblasenkarzinom über die Möglichkeiten der Palliativversorgung aufgeklärt werden?",
+    "options": [
+      "Bereits nach der Diagnose, unabhängig davon, ob eine aktive palliative Tumortherapie geplant ist (early integration).",
+      "Erst wenn jede Tumortherapie endgültig beendet wurde.",
+      "Erst in den letzten Lebenstagen.",
+      "Nur wenn der Patient explizit danach fragt."
+    ],
+    "correct": 0,
+    "tip": "Dieses Prinzip der frühen Integration gilt unabhängig davon, ob der Patient unter aktiver Tumortherapie oder Best-Supportive-Care steht.",
+    "explanation": "Empfehlung 11.22 fordert, dass ein Patient mit fernmetastasiertem oder nicht-kurabel behandelbarem Harnblasenkarzinom bereits nach der Diagnose über die Möglichkeiten der Palliativversorgung aufgeklärt werden soll – unabhängig davon, ob eine aktive palliative Tumortherapie geplant ist."
+  },
+  {
+    "question": "Zu welchen palliativmedizinischen Angeboten sollen Patienten mit metastasiertem oder nicht-operablem Harnblasenkarzinom laut Empfehlung 11.24 niederschwelligen Zugang erhalten?",
+    "options": [
+      "U. a. AAPV, SAPV, stationärer Palliativdienst und palliativmedizinische Komplexbehandlung.",
+      "Ausschließlich zur stationären Hospizversorgung in den letzten Lebenstagen.",
+      "Zu keinen spezifischen Angeboten, da dies in dieser Leitlinie nicht behandelt wird.",
+      "Ausschließlich zu ambulanten Angeboten, stationäre Optionen werden ausgeschlossen."
+    ],
+    "correct": 0,
+    "tip": "AAPV steht für allgemeine, SAPV für spezialisierte ambulante Palliativversorgung.",
+    "explanation": "Empfehlung 11.24 fordert niederschwelligen Zugang zu palliativmedizinischen Angeboten wie AAPV, SAPV, stationärem Palliativdienst und palliativmedizinischer Komplexbehandlung."
+  },
+  {
+    "question": "Wie sollen laut Empfehlungen 11.28/11.29 (Kapitel 11.6.3) nicht-Hämoglobin-relevante Makrohämaturien geführt werden, und was soll bei rezidivierenden Hämaturien reevaluiert werden?",
+    "options": [
+      "Konservativ führen; bei rezidivierenden Hämaturien sollen Thrombozytenaggregationshemmer und Antikoagulantien sorgfältig reevaluiert werden.",
+      "Immer sofort operativ versorgen, unabhängig vom Hb-Wert.",
+      "Ignorieren, da sie klinisch nie relevant sind.",
+      "Grundsätzlich mit einer sofortigen Zystektomie behandeln."
+    ],
+    "correct": 0,
+    "tip": "Bei stärkeren Blutungen können zusätzlich Antifibrinolytika systemisch oder lokal eingesetzt werden.",
+    "explanation": "Empfehlung 11.28 sieht vor, dass nicht-Hb-relevante Makrohämaturien konservativ geführt werden sollten; Empfehlung 11.29 fordert bei rezidivierenden Hämaturien eine sorgfältige Reevaluation von Thrombozytenaggregationshemmern und Antikoagulantien."
+  },
+  {
+    "question": "Bei wie viel Prozent der Patienten mit primär lokal-fortgeschrittenem Harnblasenkarzinom kommt es laut Kapitel 11.6.3 zu rezidivierenden Makrohämaturie-Episoden?",
+    "options": [
+      "Bei ca. 30% der Patienten.",
+      "Bei unter 1% der Patienten.",
+      "Bei praktisch 100% der Patienten.",
+      "Makrohämaturie tritt bei dieser Patientengruppe nie auf."
+    ],
+    "correct": 0,
+    "tip": "Die Therapieoptionen reichen von konservativen Maßnahmen bis zur palliativen Harnableitung oder hämostyptischen Radiatio.",
+    "explanation": "Kapitel 11.6.3 beschreibt, dass es bei ca. 30% der Patienten mit primär lokal-fortgeschrittenem Harnblasenkarzinom zu rezidivierenden Makrohämaturie-Episoden kommt."
+  }
+]

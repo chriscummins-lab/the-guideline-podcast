@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Worüber sollen Patienten mit muskelinvasivem Harnblasenkarzinom (T2) laut Empfehlung 9.1 (Kapitel 9.1) aufgeklärt werden?",
+    "options": [
+      "Über die Möglichkeiten, Chancen und Risiken einer neoadjuvanten und/oder adjuvanten Systemtherapie unter Berücksichtigung ihrer individuellen Situation.",
+      "Ausschließlich über die Risiken der radikalen Zystektomie, nicht aber über die Systemtherapie.",
+      "Über eine Systemtherapie wird nicht aufgeklärt, da hierzu keine Studien vorliegen.",
+      "Ausschließlich über die Möglichkeit eines Therapieverzichts."
+    ],
+    "correct": 0,
+    "tip": "Es gibt keine Studien, die eine neoadjuvante und eine adjuvante Therapie direkt miteinander verglichen haben.",
+    "explanation": "Empfehlung 9.1 fordert, dass Patienten mit muskelinvasivem Harnblasenkarzinom (T2) über die Möglichkeiten, Chancen und Risiken einer neoadjuvanten und/oder adjuvanten Systemtherapie unter Berücksichtigung ihrer individuellen Situation aufgeklärt werden sollen."
+  },
+  {
+    "question": "Wo soll laut Empfehlung 9.2 das Therapiekonzept bei Patienten mit muskelinvasivem Harnblasenkarzinom (T2) vor Therapiebeginn festgelegt werden?",
+    "options": [
+      "Multidisziplinär in einer Tumorkonferenz.",
+      "Ausschließlich durch den behandelnden Urologen allein.",
+      "Ausschließlich durch den Hausarzt.",
+      "Durch eine automatisierte Software ohne ärztliche Beteiligung."
+    ],
+    "correct": 0,
+    "tip": "Eine deutsche Registerstudie zeigte, dass Patienten ohne Tumorkonferenz-Beteiligung seltener eine perioperative Systemtherapie erhielten.",
+    "explanation": "Empfehlung 9.2 fordert, dass das Therapiekonzept bei Patienten mit muskelinvasivem Harnblasenkarzinom (T2) multidisziplinär in einer Tumorkonferenz vor Therapiebeginn festgelegt werden soll."
+  },
+  {
+    "question": "Was besagt Empfehlung 9.4 (Kapitel 9.2, Empfehlungsgrad B) zur Bestimmung prädiktiver Marker für die Wirksamkeit einer perioperativen Chemotherapie?",
+    "options": [
+      "Sie sollte in der klinischen Routine nicht durchgeführt werden.",
+      "Sie soll bei jedem Patienten vor Therapiebeginn routinemäßig erfolgen.",
+      "Sie ist gesetzlich vorgeschrieben vor jeder Chemotherapie.",
+      "Sie ersetzt die histopathologische Stadieneinteilung."
+    ],
+    "correct": 0,
+    "tip": "Es konnten bisher keine klinischen oder molekularen Marker identifiziert werden, die zuverlässig das Ansprechen vorhersagen.",
+    "explanation": "Empfehlung 9.4 legt mit Empfehlungsgrad B fest, dass eine Bestimmung prädiktiver Marker zur Beurteilung der Wirksamkeit einer adjuvanten oder neoadjuvanten Chemotherapie in der klinischen Routine nicht durchgeführt werden sollte."
+  },
+  {
+    "question": "Was fordert Empfehlung 9.5 (Kapitel 9.3, Empfehlungsgrad A) für cisplatin-geeignete Patienten mit lokalisiertem muskelinvasivem Harnblasenkarzinom (T2-T4a N0M0)?",
+    "options": [
+      "Eine neoadjuvante cisplatin-basierte Kombinationstherapie soll angeboten werden.",
+      "Eine neoadjuvante Carboplatin-Monotherapie soll angeboten werden.",
+      "Eine neoadjuvante Therapie ist in dieser Situation grundsätzlich kontraindiziert.",
+      "Eine neoadjuvante Immuntherapie ohne Chemotherapie ist Standard."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt spezifisch für Patienten, die für eine Cisplatin-basierte Behandlung geeignet sind.",
+    "explanation": "Empfehlung 9.5 fordert, dass Patienten mit lokalisiertem muskelinvasivem Harnblasenkarzinom, die für eine cisplatin-basierte Chemotherapie geeignet sind, eine neoadjuvante cisplatin-basierte Kombinationstherapie angeboten werden soll."
+  },
+  {
+    "question": "Wie viele Zyklen soll eine neoadjuvante Chemotherapie laut Empfehlung 9.6 (Empfehlungsgrad A) umfassen?",
+    "options": [
+      "3-4 Zyklen einer cisplatinhaltigen Kombinationschemotherapie.",
+      "Mindestens 12 Zyklen.",
+      "Genau 1 Zyklus.",
+      "Die Zyklenzahl ist beliebig und nicht festgelegt."
+    ],
+    "correct": 0,
+    "tip": "Bei geeigneten Patienten kann alternativ auch ein Schema mit sechs Zyklen ddMVAC durchgeführt werden.",
+    "explanation": "Empfehlung 9.6 fordert, dass eine neoadjuvante Chemotherapie 3-4 Zyklen einer cisplatinhaltigen Kombinationschemotherapie beinhalten soll."
+  },
+  {
+    "question": "Welche relative Reduktion der Gesamtmortalität sowie welche NNT (Number Needed to Treat) zeigte die Metaanalyse von 2016 (Kapitel 9.3) für die neoadjuvante Kombinations-Chemotherapie vor Zystektomie?",
+    "options": [
+      "Relative Reduktion der Gesamtmortalität um 14% bei einer NNT von 18.",
+      "Relative Reduktion der Gesamtmortalität um 90% bei einer NNT von 1.",
+      "Keine Reduktion der Mortalität, NNT nicht berechenbar.",
+      "Eine signifikante Erhöhung der Mortalität um 14%."
+    ],
+    "correct": 0,
+    "tip": "Bezüglich des absoluten Progressionsrisikos zeigte sich eine Verbesserung um 22%, entsprechend einer NNT von 13.",
+    "explanation": "Die Metaanalyse von 2016 zeigte für die neoadjuvante Kombinations-Chemotherapie eine relative Reduktion der Gesamtmortalität von 14% bei einer Number Needed to Treat von 18."
+  },
+  {
+    "question": "Was fordert Empfehlung 9.9/9.10 (Kapitel 9.4) für cisplatin-geeignete Patienten mit lokal fortgeschrittenem MIBC (pT3-pT4 und/oder pN1-3) ohne vorherige neoadjuvante Chemotherapie?",
+    "options": [
+      "Eine adjuvante cisplatin-basierte Kombinationschemotherapie über 4 Zyklen soll angeboten werden.",
+      "Eine adjuvante Therapie ist in dieser Situation nicht indiziert.",
+      "Ausschließlich eine adjuvante Strahlentherapie ohne Chemotherapie.",
+      "Eine adjuvante Carboplatin-Monotherapie über 10 Zyklen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt gezielt für Patienten, die keine neoadjuvante Chemotherapie erhalten haben.",
+    "explanation": "Empfehlung 9.9/9.10 fordert, dass cisplatin-geeigneten Patienten mit lokal fortgeschrittenem MIBC (pT3-pT4 und/oder pN1-3), die keine neoadjuvante Chemotherapie erhalten haben, eine cisplatin-basierte adjuvante Kombinationschemotherapie über 4 Zyklen angeboten werden soll."
+  },
+  {
+    "question": "Was besagt Statement 9.11 zu Patienten mit invasivem Resttumor (≥ypT2/ypN+) nach neoadjuvanter Chemotherapie bezüglich einer adjuvanten Chemotherapie?",
+    "options": [
+      "Diese Patienten sollen keine adjuvante Chemotherapie erhalten.",
+      "Diese Patienten sollen zwingend eine zusätzliche adjuvante Chemotherapie erhalten.",
+      "Eine adjuvante Chemotherapie wird bei diesen Patienten immer verdoppelt.",
+      "Diese Patienten erhalten grundsätzlich eine Immuntherapie statt jeder Chemotherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese Patienten sind jedoch eine wichtige Zielgruppe für eine adjuvante Immuntherapie mit Nivolumab (siehe Kapitel 9.6).",
+    "explanation": "Statement 9.11 besagt, dass Patienten mit einem invasiven Resttumor (≥ypT2/ypN+), die eine neoadjuvante Chemotherapie erhalten haben, keine adjuvante Chemotherapie erhalten sollen."
+  },
+  {
+    "question": "Unter welchen Voraussetzungen soll laut Empfehlung 9.13 (Kapitel 9.6, Empfehlungsgrad A) eine adjuvante Therapie mit Nivolumab nach radikaler Zystektomie angeboten werden?",
+    "options": [
+      "Bei PD-L1-Expression ≥1% (TPS) und entweder ypT2-pT4/ypN1-3 nach neoadjuvanter Cisplatin-Chemotherapie, oder pT3-pT4/pN1-3 ohne neoadjuvante Chemotherapie bei fehlender Eignung für eine Cisplatin-basierte adjuvante Therapie.",
+      "Bei jedem Patienten unabhängig vom PD-L1-Status und Tumorstadium.",
+      "Nur bei Patienten mit nicht-muskelinvasivem Tumor.",
+      "Nur bei Patienten mit metastasierter Erkrankung."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert auf den Daten der CheckMate-274-Studie.",
+    "explanation": "Empfehlung 9.13 sieht eine adjuvante Nivolumab-Therapie bei PD-L1-Expression ≥1% (TPS) vor, wenn nach neoadjuvanter Cisplatin-Chemotherapie ein Tumorstadium ypT2-pT4 und/oder ypN1-3 vorliegt, oder wenn ohne neoadjuvante Chemotherapie ein pT3-pT4 und/oder pN1-3-Tumor vorliegt und die Patienten nicht für eine Cisplatin-basierte adjuvante Therapie geeignet sind."
+  },
+  {
+    "question": "Welchen Unterschied zeigte die explorative Subgruppenanalyse der CheckMate-274-Studie (Kapitel 9.6) im krankheitsfreien Überleben (DFS) zwischen PD-L1-negativen und PD-L1-positiven Patienten unter adjuvantem Nivolumab, und wie reagierten EMA und FDA darauf?",
+    "options": [
+      "DFS-HR 0,82 bei PD-L1-negativ vs. 0,56 bei PD-L1-positiv; die EMA beschränkte die Zulassung auf PD-L1 ≥1%, die FDA erteilte eine All-comer-Zulassung.",
+      "Kein Unterschied zwischen beiden Gruppen; beide Behörden erteilten identische Zulassungen.",
+      "DFS-HR war bei PD-L1-negativen Patienten besser als bei PD-L1-positiven.",
+      "Weder EMA noch FDA haben Nivolumab in dieser Indikation zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied in der Zulassungspraxis erklärt, warum der PD-L1-Status in Europa klinisch relevant für die Therapieentscheidung ist.",
+    "explanation": "Die CheckMate-274-Studie zeigte eine DFS-Hazard-Ratio von 0,82 bei PD-L1-negativen und 0,56 bei PD-L1-positiven Patienten; die EMA beschränkte daraufhin die Zulassung auf Patienten mit PD-L1-Expression ≥1%, während die FDA eine All-comer-Zulassung unabhängig vom PD-L1-Status erteilte."
+  }
+]

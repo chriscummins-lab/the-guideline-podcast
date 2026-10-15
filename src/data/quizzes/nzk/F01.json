@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was ist laut Kapitel 'Wesentliche Neuerungen' der Version 5.0 eine zentrale strukturelle Änderung gegenüber der Vorversion?",
+    "options": [
+      "Es wurde ein komplett neues Kapitel 11 zu erblichen Nierentumoren eingefügt.",
+      "Das gesamte Kapitel zur Systemtherapie wurde ersatzlos gestrichen.",
+      "Die Leitlinie wurde von S3- auf S2k-Niveau herabgestuft.",
+      "Die Kapitel zur Bildgebung und zur Biopsie wurden zusammengelegt."
+    ],
+    "correct": 0,
+    "tip": "Themen zu erblichen Tumoren, die vorher verstreut waren, wurden gebündelt.",
+    "explanation": "Die Neuerungen der Version 5.0 nennen explizit ein neu geschaffenes Kapitel 11 zu erblichen Tumoren; entsprechende Passagen wurden aus den Kapiteln Epidemiologie und Nicht-Klarzellige NZK entfernt und dorthin verwiesen."
+  },
+  {
+    "question": "Welche inhaltliche Ergänzung wurde laut den Neuerungen im Hintergrundtext zur Erstlinien-Systemtherapie vorgenommen?",
+    "options": [
+      "Eine Aussage zur Lebensqualität bei Kombinationstherapien wurde ergänzt.",
+      "Eine neue Empfehlung zur alleinigen Chemotherapie beim NZK wurde aufgenommen.",
+      "Die Immuntherapie wurde vollständig aus der Erstlinie entfernt.",
+      "Ein neues Kapitel zur pädiatrischen Systemtherapie wurde eingefügt."
+    ],
+    "correct": 0,
+    "tip": "Es handelt sich nicht um eine neue Empfehlung, sondern um eine Ergänzung im Hintergrundtext.",
+    "explanation": "Laut den Neuerungen wurde dem Hintergrundtext zur Erstlinien-Kombinationstherapie eine Aussage zur Lebensqualität hinzugefügt."
+  },
+  {
+    "question": "Bis zu welchem Zeitpunkt ist die S3-Leitlinie Nierenzellkarzinom (Version 5.0) laut Kapitel 2.1.3 gültig?",
+    "options": [
+      "Juni 2026",
+      "Juni 2029",
+      "Dezember 2030",
+      "Unbegrenzt, da keine Aktualisierung vorgesehen ist"
+    ],
+    "correct": 1,
+    "tip": "Die Gültigkeitsdauer ist an einen festen Kalendermonat gekoppelt.",
+    "explanation": "Kapitel 2.1.3 legt fest, dass die Leitlinie bis zur nächsten Aktualisierung gültig ist, wobei die Gültigkeitsdauer im Juni 2029 endet."
+  },
+  {
+    "question": "Welche Ausdrucksweise entspricht laut Tabelle 5 (Schema der Empfehlungsgraduierung) dem Empfehlungsgrad A?",
+    "options": [
+      "kann / kann verzichtet werden",
+      "sollte / sollte nicht",
+      "soll / soll nicht",
+      "wird diskutiert, bleibt aber offen"
+    ],
+    "correct": 2,
+    "tip": "Grad A ist die stärkste der drei definierten Empfehlungsstufen.",
+    "explanation": "Laut Tabelle 5 steht Empfehlungsgrad A für eine starke Empfehlung mit der Ausdrucksweise 'soll/soll nicht'; Grad B steht für 'sollte/sollte nicht' und Grad 0 für 'kann'."
+  },
+  {
+    "question": "Ab welcher prozentualen Zustimmung der Stimmberechtigten spricht die Leitlinie laut Tabelle 6 von 'starkem Konsens'?",
+    "options": [
+      "> 50-75%",
+      "> 75-95%",
+      "> 95%",
+      "Es gibt keine prozentuale Schwelle, nur eine qualitative Einschätzung"
+    ],
+    "correct": 2,
+    "tip": "Starker Konsens ist die höchste der vier Konsensstärke-Kategorien in Tabelle 6.",
+    "explanation": "Tabelle 6 definiert 'starken Konsens' als Zustimmung von mehr als 95% der Stimmberechtigten, 'Konsens' als 75-95% und 'mehrheitliche Zustimmung' als 50-75%."
+  },
+  {
+    "question": "Welchen Anteil an den vom RKI unter ICD-10 C64 erfassten bösartigen Nierenerkrankungen machen Nierenzellkarzinome laut Kapitel 3.1.1 aus?",
+    "options": [
+      "Etwa 50%",
+      "Etwa 70%",
+      "Über 90%",
+      "Unter 30%"
+    ],
+    "correct": 2,
+    "tip": "Der ICD-10-Code C64 schließt auch urotheliale Karzinome des Nierenbeckens aus.",
+    "explanation": "Laut Kapitel 3.1.1 erfasst das RKI unter ICD-10 C64 alle bösartigen Nierenerkrankungen außer urothelialen Karzinomen des Nierenbeckens; über 90% dieser Karzinome sind Nierenzellkarzinome."
+  },
+  {
+    "question": "Um wie viel Prozent ist das Erkrankungsrisiko für ein Nierenzellkarzinom bei Rauchern/Ex-Rauchern gegenüber Nie-Rauchern laut Kapitel 3.2.1 bei Männern erhöht?",
+    "options": [
+      "Etwa 10%",
+      "Etwa 22%",
+      "Etwa 54%",
+      "Etwa 90%"
+    ],
+    "correct": 2,
+    "tip": "Bei Frauen liegt die vergleichbare Risikoerhöhung deutlich niedriger.",
+    "explanation": "Kapitel 3.2.1 nennt eine geschätzte Risikoerhöhung von 54% bei Männern und 22% bei Frauen für Raucher/Ex-Raucher gegenüber Nie-Rauchern, mit einer klaren Dosis-Wirkungsbeziehung."
+  },
+  {
+    "question": "Welche Risikoerhöhung pro Zunahme des BMI um 5 kg/m² wird laut Kapitel 3.2.1 für Frauen beschrieben?",
+    "options": [
+      "Etwa 10%",
+      "Etwa 24%",
+      "Etwa 34%",
+      "Keine signifikante Risikoerhöhung"
+    ],
+    "correct": 2,
+    "tip": "Bei Männern liegt die entsprechende Risikoerhöhung etwas niedriger.",
+    "explanation": "Laut der zitierten Metaanalyse in Kapitel 3.2.1 beträgt die Risikoerhöhung pro 5 kg/m² BMI-Zunahme ca. 24% bei Männern und 34% bei Frauen."
+  },
+  {
+    "question": "Welche Voraussetzung muss laut Kapitel 3.2.5 für die Anerkennung eines Nierenzellkarzinoms als Berufskrankheit (BK Nr. 1302) nach sehr hoher Trichlorethen-Exposition NICHT erfüllt sein?",
+    "options": [
+      "Mindestens dreijährige Exposition mit pränarkotischen Symptomen.",
+      "Eine Latenzzeit von mindestens zehn Jahren zwischen Exposition und Tumorauftreten.",
+      "Diagnose eines primären Nierenzellkarzinoms beim Beschäftigten.",
+      "Ein Lebensalter des Beschäftigten von unter 40 Jahren bei Diagnosestellung."
+    ],
+    "correct": 3,
+    "tip": "Die Leitlinie nennt drei konkrete Voraussetzungen; ein Höchstalter gehört nicht dazu.",
+    "explanation": "Kapitel 3.2.5 nennt als Voraussetzungen eine mindestens dreijährige Exposition mit pränarkotischen Symptomen, eine Latenzzeit von mindestens zehn Jahren und die Diagnose eines primären Nierenzellkarzinoms – ein Höchstalter wird nicht gefordert."
+  },
+  {
+    "question": "Welche Empfehlung trifft die Leitlinie laut Kapitel 4.1.1 zur präoperativen CT-Diagnostik des primären Nierenzellkarzinoms?",
+    "options": [
+      "Eine alleinige native CT ohne Kontrastmittelphasen ist ausreichend (Empfehlungsgrad A).",
+      "Eine CT nativ sowie mit früharterieller und venöser Phase von Leberkuppe bis Symphyse soll nach einheitlichen Standards erfolgen (Empfehlungsgrad A).",
+      "Eine MRT soll grundsätzlich der CT vorgezogen werden (Empfehlungsgrad A).",
+      "Eine Sonographie ist für das lokale Staging ausreichend (Empfehlungsgrad B)."
+    ],
+    "correct": 1,
+    "tip": "Die MRT wird in dieser Leitlinie gezielt bei Verdacht auf Venen- oder Cavabeteiligung empfohlen, nicht als CT-Ersatz im Standardstaging.",
+    "explanation": "Empfehlung 4.1 (Kapitel 4.1.1, Empfehlungsgrad A) fordert eine CT nativ sowie mit früharterieller und venöser Phase von Leberkuppe bis Symphyse nach einheitlichen Standards; die MRT ist laut Empfehlung 4.2 (Grad B) Patienten mit Verdacht auf Venen- oder Cavabeteiligung vorbehalten."
+  }
+]

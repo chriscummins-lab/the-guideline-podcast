@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche zwei Faktoren nennt Statement 10.1 (Kapitel 10.1.1) als unabhängige prognostische Faktoren für das Überleben nach einer Erstlinienchemotherapie beim metastasierten Urothelkarzinom?",
+    "options": [
+      "Performance Status und viszerale Metastasen (Lunge, Leber, Knochen).",
+      "Ausschließlich das Geschlecht des Patienten.",
+      "Ausschließlich die Anzahl vorangegangener Zystektomien.",
+      "Ausschließlich der histologische Subtyp des Primärtumors."
+    ],
+    "correct": 0,
+    "tip": "Diese beiden klinisch leicht erfassbaren Faktoren wurden erstmals 1999 in einer retrospektiven Analyse identifiziert.",
+    "explanation": "Statement 10.1 nennt Performance Status und viszerale Metastasen (Lunge, Leber, Knochen) als unabhängige prognostische Faktoren für das Überleben nach einer Erstlinienchemotherapie."
+  },
+  {
+    "question": "Welche vier Faktoren nennt Statement 10.2 als unabhängige prognostische Faktoren vor Durchführung einer Zweitlinienchemotherapie?",
+    "options": [
+      "ECOG Performance Status, Lebermetastasen, Hämoglobinwert und die Zeit bis zum Tumorprogress nach Erstlinienchemotherapie.",
+      "Ausschließlich das Alter des Patienten.",
+      "Ausschließlich der Serum-Kreatininwert.",
+      "Ausschließlich die Anzahl vorangegangener Chemotherapiezyklen."
+    ],
+    "correct": 0,
+    "tip": "Diese vier Faktoren wurden ursprünglich im Rahmen der Zulassungsstudie zu Vinflunin identifiziert.",
+    "explanation": "Statement 10.2 nennt ECOG Performance Status, Lebermetastasen, Hämoglobinwert und die Zeit bis zum Tumorprogress nach Erstlinienchemotherapie als unabhängige prognostische Faktoren vor einer Zweitlinienchemotherapie."
+  },
+  {
+    "question": "Wie unterschied sich das mediane Gesamtüberleben in der Analyse von Bajorin et al. 1999 (Kapitel 10.1.1) zwischen Patienten mit 0, 1 und 2 Risikofaktoren (Karnofsky PS < 80%, viszerale Metastasen)?",
+    "options": [
+      "33 Monate (0 Risikofaktoren), 13,4 Monate (1 Risikofaktor), 9,3 Monate (2 Risikofaktoren).",
+      "9,3 Monate (0 Risikofaktoren), 13,4 Monate (1 Risikofaktor), 33 Monate (2 Risikofaktoren).",
+      "33 Monate in allen drei Gruppen ohne Unterschied.",
+      "Unter 1 Monat in allen drei Gruppen."
+    ],
+    "correct": 0,
+    "tip": "Auch die 5-Jahres-Überlebensrate zeigte mit 33%, 11% und 0% eine entsprechend deutliche Abstufung.",
+    "explanation": "Die Analyse von Bajorin et al. zeigte ein medianes Gesamtüberleben von 33 Monaten ohne Risikofaktor, 13,4 Monaten bei einem Risikofaktor und 9,3 Monaten bei zwei Risikofaktoren (Karnofsky PS < 80% und/oder viszerale Metastasen)."
+  },
+  {
+    "question": "Was besagt Statement 10.3 zur Verfügbarkeit verlässlicher prädiktiver Biomarker beim metastasierten Urothelkarzinom?",
+    "options": [
+      "Es existiert für den klinischen Alltag kein verlässlicher prädiktiver Biomarker zur Vorhersage des Therapieerfolgs einer Chemo- oder Immuntherapie.",
+      "PD-L1 ist ein vollständig validierter und einheitlich bestimmter Standardmarker.",
+      "Die Mutationslast ist der einzige verlässliche Marker und wird routinemäßig bestimmt.",
+      "Es gibt für jede Substanzklasse einen etablierten, validierten Marker."
+    ],
+    "correct": 0,
+    "tip": "Dies gilt sowohl für die Erst- als auch für die Zweitlinientherapie.",
+    "explanation": "Statement 10.3 stellt fest, dass für den klinischen Alltag kein verlässlicher prädiktiver Biomarker zur Vorhersage eines Therapieerfolgs einer Chemo- bzw. Immuntherapie beim metastasierten Urothelkarzinom in der Erst- oder Zweitlinie existiert."
+  },
+  {
+    "question": "Was fordert Empfehlung 10.4 (Kapitel 10.2.1, Empfehlungsgrad A) für Patienten mit metastasiertem Urothelkarzinom, deren Allgemeinzustand und Komorbiditäten dies zulassen?",
+    "options": [
+      "Eine cisplatinhaltige Chemotherapie soll angeboten werden.",
+      "Eine alleinige Immuntherapie ohne jede Chemotherapie ist obligat.",
+      "Eine Chemotherapie ist in der metastasierten Situation grundsätzlich kontraindiziert.",
+      "Ausschließlich eine Strahlentherapie soll angeboten werden."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung bildet die Grundlage für die Unterscheidung zwischen Cisplatin-geeigneten und nicht-geeigneten Patienten.",
+    "explanation": "Empfehlung 10.4 fordert, dass Patienten mit metastasiertem Urothelkarzinom eine cisplatinhaltige Chemotherapie angeboten werden soll, wenn Allgemeinzustand und Komorbiditäten dies zulassen."
+  },
+  {
+    "question": "Wie vergleicht Statement 10.5 die Wirksamkeit und Toxizität von Gemcitabin/Cisplatin (GC), konventionellem MVAC und Hochdosis-MVAC (HD-MVAC)?",
+    "options": [
+      "Ähnliche Wirksamkeit bei allen drei Schemata; die Toxizität von HD-MVAC ist geringer als beim konventionellen MVAC, aber höher als bei GC.",
+      "GC ist allen anderen Schemata in der Wirksamkeit deutlich unterlegen.",
+      "HD-MVAC zeigt die höchste Toxizität von allen drei Schemata.",
+      "Konventionelles MVAC hat die geringste Toxizität aller drei Schemata."
+    ],
+    "correct": 0,
+    "tip": "Die obligate Gabe von G-CSF im HD-MVAC-Arm trug wesentlich zur geringeren hämatologischen Toxizität gegenüber konventionellem MVAC bei.",
+    "explanation": "Statement 10.5 beschreibt eine ähnliche Wirksamkeit von GC, MVAC und HD-MVAC, wobei die Toxizität von HD-MVAC geringer ist als unter konventionellem MVAC, aber höher als unter Gemcitabin/Cisplatin."
+  },
+  {
+    "question": "Was besagt Statement 10.9 zur Eignung von Carboplatin als Ersatz für Cisplatin bei Cisplatin-geeigneten Patienten?",
+    "options": [
+      "Carboplatin stellt bei Cisplatin-geeigneten Patienten keinen adäquaten Ersatz dar.",
+      "Carboplatin ist in jeder Hinsicht gleichwertig zu Cisplatin.",
+      "Carboplatin zeigt eine höhere Rate an Komplettremissionen als Cisplatin.",
+      "Carboplatin wird aufgrund höherer Wirksamkeit generell bevorzugt."
+    ],
+    "correct": 0,
+    "tip": "In einer Metaanalyse schnitt Cisplatin bezüglich Komplettremissionen und Gesamtansprechen signifikant besser ab als Carboplatin.",
+    "explanation": "Statement 10.9 stellt fest, dass bei Patienten, die für eine Cisplatin-haltige Chemotherapie geeignet sind, Carboplatin keinen adäquaten Ersatz darstellt."
+  },
+  {
+    "question": "In welchem Intervall soll laut Empfehlung 10.8 bei der Erstlinienchemotherapie ein Restaging erfolgen?",
+    "options": [
+      "Alle 2-3 Zyklen (bei Zyklen von 3-4 Wochen).",
+      "Erst nach Abschluss aller Zyklen am Ende der Therapie.",
+      "Täglich während der gesamten Therapiedauer.",
+      "Nur bei klinischem Verdacht auf einen Progress, nie planmäßig."
+    ],
+    "correct": 0,
+    "tip": "Dies soll verhindern, dass Patienten länger als nötig einer unwirksamen, aber toxischen Therapie ausgesetzt werden.",
+    "explanation": "Empfehlung 10.8 sieht vor, dass bei der Erstlinienchemotherapie ein Restaging alle 2-3 Zyklen (bei Zyklen von 3-4 Wochen) erfolgen soll."
+  },
+  {
+    "question": "Welche Parameter definieren laut Empfehlung 10.10 (Kapitel 10.2.2.1) einen Patienten als nicht geeignet für eine Cisplatin-basierte Chemotherapie?",
+    "options": [
+      "U. a. ECOG PS 2/Karnofsky ≤70%, Kreatinin-Clearance ≤60 ml/min, Hörverlust ≥ Grad 2, periphere Neuropathie ≥ Grad 2 oder NYHA-Klasse > III.",
+      "Ausschließlich das Patientenalter über 60 Jahre.",
+      "Ausschließlich das weibliche Geschlecht.",
+      "Ausschließlich die Tumorgröße des Primärtumors."
+    ],
+    "correct": 0,
+    "tip": "Schon das Vorliegen von mindestens einem dieser 5 Parameter spricht gegen eine Cisplatin-basierte Therapie.",
+    "explanation": "Empfehlung 10.10 nennt 5 Parameter (ECOG PS 2/Karnofsky ≤70%, Kreatinin-Clearance ≤60 ml/min, Hörverlust ≥ Grad 2, periphere Neuropathie ≥ Grad 2, NYHA-Klasse > III), bei deren Vorliegen Patienten nicht mit Cisplatin-basierter Chemotherapie behandelt werden sollten."
+  },
+  {
+    "question": "Wie veränderte sich laut der Studie von von der Maase et al. (Kapitel 10.1.1) das Überleben bei Vorliegen viszeraler Metastasen?",
+    "options": [
+      "Reduktion von 18,4 auf 10,3 Monate, und des 5-Jahres-Überlebens von 20,9% auf 6,8%.",
+      "Keine Veränderung des Überlebens durch viszerale Metastasen.",
+      "Verbesserung von 10,3 auf 18,4 Monate durch viszerale Metastasen.",
+      "Eine Verdopplung des 5-Jahres-Überlebens bei viszeralen Metastasen."
+    ],
+    "correct": 0,
+    "tip": "Diese Daten stammen aus der großen randomisierten Phase-III-Studie zum Vergleich von MVAC und Gemcitabin/Cisplatin.",
+    "explanation": "Von der Maase et al. zeigten, dass sich bei Patienten mit viszeralen Metastasen das Überleben signifikant von 18,4 auf 10,3 Monate und das 5-Jahres-Überleben von 20,9% auf 6,8% reduzierte."
+  }
+]

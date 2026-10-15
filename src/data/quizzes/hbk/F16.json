@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Substanz soll laut Empfehlung 10.20 (Kapitel 10.3, Empfehlungsgrad A) bei Progression unter bzw. nach platinhaltiger Therapie als Zweitlinie eingesetzt werden?",
+    "options": [
+      "Pembrolizumab.",
+      "Ausschließlich eine Wiederholung der platinhaltigen Erstlinientherapie.",
+      "Ausschließlich klassische Chemotherapie ohne Immuntherapie.",
+      "Ausschließlich BCG-Instillation."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert auf der randomisierten Phase-III-Studie KEYNOTE-045.",
+    "explanation": "Empfehlung 10.20 fordert mit Empfehlungsgrad A, dass Patienten mit Progression unter bzw. nach platinhaltiger Therapie als Zweitlinie eine Behandlung mit Pembrolizumab erhalten sollen."
+  },
+  {
+    "question": "Welche beiden Immuncheckpoint-Inhibitoren können laut Empfehlung 10.21 (Empfehlungsgrad 0) alternativ als Zweitlinie eingesetzt werden?",
+    "options": [
+      "Atezolizumab oder Nivolumab.",
+      "Ausschließlich Ipilimumab.",
+      "Ausschließlich Durvalumab.",
+      "Keine Alternative existiert laut Leitlinie."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung hat einen offenen Empfehlungsgrad, im Gegensatz zur starken Empfehlung für Pembrolizumab.",
+    "explanation": "Empfehlung 10.21 sieht vor, dass Patienten mit Progression unter bzw. nach platinhaltiger Therapie alternativ eine Behandlung mit den Immuncheckpoint-Inhibitoren Atezolizumab oder Nivolumab erhalten können."
+  },
+  {
+    "question": "Welches mediane Gesamtüberleben zeigte die KEYNOTE-045-Studie (Kapitel 10.3) für Pembrolizumab im Vergleich zur Chemotherapie-Kohorte in der Zweitlinie?",
+    "options": [
+      "10,3 Monate für Pembrolizumab vs. 7,4 Monate für Chemotherapie.",
+      "Kein Unterschied zwischen beiden Gruppen.",
+      "7,4 Monate für Pembrolizumab vs. 10,3 Monate für Chemotherapie.",
+      "25 Monate in beiden Gruppen."
+    ],
+    "correct": 0,
+    "tip": "Dieser signifikante Überlebensvorteil war die Grundlage für die starke Empfehlung zu Pembrolizumab in der Zweitlinie.",
+    "explanation": "Die randomisierte Phase-III-Studie KEYNOTE-045 zeigte ein signifikant verbessertes medianes Gesamtüberleben von 10,3 Monaten unter Pembrolizumab gegenüber 7,4 Monaten unter Chemotherapie."
+  },
+  {
+    "question": "Wie fielen laut Kapitel 10.3 die Bewertungen des Gemeinsamen Bundesausschusses (G-BA) zum Zusatznutzen von Nivolumab, Atezolizumab und Pembrolizumab in der Zweitlinie nach platinhaltiger Chemotherapie aus?",
+    "options": [
+      "Nivolumab: kein Zusatznutzen belegt; Atezolizumab: geringer Zusatznutzen; Pembrolizumab: beträchtlicher Zusatznutzen.",
+      "Alle drei Substanzen erhielten identisch einen beträchtlichen Zusatznutzen.",
+      "Alle drei Substanzen erhielten die Bewertung 'kein Zusatznutzen belegt'.",
+      "Nivolumab erhielt den höchsten, Pembrolizumab den niedrigsten Zusatznutzen."
+    ],
+    "correct": 0,
+    "tip": "Die S3-Leitliniengruppe weist jedoch darauf hin, dass G-BA-Bewertung und Leitlinienempfehlung methodisch nicht direkt vergleichbar sind.",
+    "explanation": "Der G-BA bewertete den Zusatznutzen für Nivolumab als nicht belegt, für Atezolizumab als gering und für Pembrolizumab als beträchtlich, jeweils in der Zweitlinie nach platinhaltiger Chemotherapie."
+  },
+  {
+    "question": "Welche Substanz sollte laut Empfehlung 10.23 (Empfehlungsgrad B) bei Patienten mit Kontraindikation gegen Immuncheckpoint-Inhibitoren als Zweitlinie eingesetzt werden?",
+    "options": [
+      "Vinflunin.",
+      "Ausschließlich BCG.",
+      "Ausschließlich eine erneute Cisplatin-Monotherapie.",
+      "Keine Substanz, die Therapie soll beendet werden."
+    ],
+    "correct": 0,
+    "tip": "Diese Substanz zeigte in einer randomisierten Phase-III-Studie einen Überlebensvorteil gegenüber bester supportiver Therapie.",
+    "explanation": "Empfehlung 10.23 sieht vor, dass Patienten mit Kontraindikation gegen Immuncheckpoint-Inhibitoren als Zweitlinie eine Behandlung mit Vinflunin erhalten sollten."
+  },
+  {
+    "question": "Für welche Patienten kann laut Empfehlung 10.27 (Kapitel 10.4, Empfehlungsgrad 0) eine Metastasenresektion in kurativer Absicht nach multidisziplinärer Abstimmung durchgeführt werden?",
+    "options": [
+      "Patienten mit gutem Performance-Status (PS 0-1), gutem Ansprechen auf Chemotherapie und lediglich Lymphknotenmetastasen oder Oligometastasierung.",
+      "Ausschließlich Patienten mit ausgedehnter, diffuser Fernmetastasierung.",
+      "Ausschließlich Patienten, die nicht auf eine Chemotherapie angesprochen haben.",
+      "Alle Patienten mit metastasiertem Urothelkarzinom unabhängig vom Ansprechen."
+    ],
+    "correct": 0,
+    "tip": "Diese Patientengruppe repräsentiert nur eine Minderheit aller Patienten mit metastasiertem Urothelkarzinom.",
+    "explanation": "Empfehlung 10.27 sieht eine Metastasenresektion in kurativer Absicht bei Patienten mit gutem Performance-Status (PS 0-1), gutem Ansprechen auf die Chemotherapie und lediglich Lymphknotenmetastasen oder Oligometastasierung vor."
+  },
+  {
+    "question": "Was besagt Statement 10.28 zur Metastasenresektion bei Patienten, die nicht auf eine Chemotherapie angesprochen haben?",
+    "options": [
+      "Unter kurativem Aspekt ist sie nicht sinnvoll; bei symptomatischen Metastasen kann sie in palliativer Absicht diskutiert werden.",
+      "Sie ist bei diesen Patienten die Standardtherapie mit kurativer Intention.",
+      "Sie ist in jedem Fall kontraindiziert, auch bei symptomatischen Metastasen.",
+      "Sie führt bei diesen Patienten zu einer signifikanten Verlängerung des Gesamtüberlebens."
+    ],
+    "correct": 0,
+    "tip": "Diese Unterscheidung zwischen kurativer und palliativer Zielsetzung ist entscheidend für die Indikationsstellung.",
+    "explanation": "Statement 10.28 stellt fest, dass eine Metastasenresektion bei Patienten ohne Ansprechen auf eine Chemotherapie unter kurativem Aspekt nicht sinnvoll ist, bei symptomatischen Metastasen aber in palliativer Absicht diskutiert werden kann."
+  },
+  {
+    "question": "Welches Überleben zeigte die größte Serie von Herr et al. (Kapitel 10.4, n=207) für Patienten OHNE Metastasenresektion im Vergleich zu den operierten Patienten?",
+    "options": [
+      "Nur 1 von 127 Patienten (8%) ohne Resektion überlebte, gegenüber deutlich mehr überlebenden Patienten in der operierten Gruppe.",
+      "Alle Patienten ohne Resektion überlebten langfristig.",
+      "Kein Unterschied im Überleben zwischen operierten und nicht-operierten Patienten.",
+      "Die nicht-operierten Patienten zeigten ein signifikant besseres Überleben."
+    ],
+    "correct": 0,
+    "tip": "Von den 80 operierten Patienten lebten zum Zeitpunkt der Auswertung immerhin 20 (41%).",
+    "explanation": "In der Serie von Herr et al. überlebte von den 127 Patienten ohne Metastasenresektion nur 1 Patient (8%), während von den 80 operierten Patienten 20 (41%) zum Auswertungszeitpunkt lebten."
+  },
+  {
+    "question": "Welche Therapieoptionen soll Empfehlung 10.29 (Kapitel 10.5) Patienten mit symptomatischen ossären Metastasen oder drohender Instabilität anbieten?",
+    "options": [
+      "Medikamentöse Schmerztherapie, Strahlentherapie, operative Intervention und/oder Bisphosphonat oder Denosumab.",
+      "Ausschließlich eine abwartende Haltung ohne jede Intervention.",
+      "Ausschließlich eine systemische Chemotherapie ohne lokale Maßnahmen.",
+      "Ausschließlich eine Amputation der betroffenen Extremität."
+    ],
+    "correct": 0,
+    "tip": "Die operative Intervention erfolgt in der Regel in Kombination mit einer Bestrahlung.",
+    "explanation": "Empfehlung 10.29 sieht vor, dass Patienten mit symptomatischen ossären Metastasen oder drohender Instabilität eine oder mehrere der Optionen medikamentöse Schmerztherapie, Strahlentherapie, operative Intervention oder Bisphosphonat/Denosumab angeboten werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 10.30 (Empfehlungsgrad A) vor Gabe von Bisphosphonaten oder Denosumab zur Prävention von Kieferosteonekrosen?",
+    "options": [
+      "Eine zahnärztliche Untersuchung mit ggf. erforderlicher Sanierung sowie eine Unterweisung zu sorgfältiger Mundhygiene.",
+      "Eine prophylaktische Extraktion aller Zähne.",
+      "Keine spezifische Maßnahme, da das Risiko vernachlässigbar ist.",
+      "Eine Reduktion der Dosis auf ein Zehntel der Standarddosis."
+    ],
+    "correct": 0,
+    "tip": "Diese Maßnahme entspricht der analogen Empfehlung bei anderen Tumorentitäten unter Bisphosphonat- oder Denosumab-Therapie.",
+    "explanation": "Empfehlung 10.30 fordert vor Gabe von Bisphosphonaten oder Denosumab eine zahnärztliche Untersuchung und ggf. Sanierung sowie eine Unterweisung und Motivation zu besonders sorgfältiger Mundhygiene."
+  }
+]

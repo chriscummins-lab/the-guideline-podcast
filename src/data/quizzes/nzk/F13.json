@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 12.1 (Kapitel 12.1, Empfehlungsgrad A) bei Patienten mit Nierenzellkarzinom und Hirn-/Knochenmetastasen, spinaler Kompression oder anderen symptomatischen Metastasen?",
+    "options": [
+      "Die Indikation für eine palliative Strahlentherapie soll geprüft werden.",
+      "Eine palliative Strahlentherapie ist bei Nierenzellkarzinom grundsätzlich kontraindiziert.",
+      "Es soll ausschließlich eine systemische Therapie ohne jede Lokalmaßnahme erfolgen.",
+      "Eine Strahlentherapie darf erst nach Ausschöpfung aller medikamentösen Optionen erwogen werden."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung bildet die Grundlage für die spezifischeren Empfehlungen zu einzelnen Metastasenlokalisationen.",
+    "explanation": "Empfehlung 12.1 fordert mit Empfehlungsgrad A, dass bei Hirn-/Knochenmetastasen, spinaler Kompression und anderen symptomatischen Metastasen die Indikation für eine palliative Strahlentherapie geprüft werden soll."
+  },
+  {
+    "question": "Welches Bestrahlungskonzept empfiehlt Empfehlung 12.3 bei Patienten mit begrenzter Prognose im Rahmen der palliativen Bestrahlung?",
+    "options": [
+      "Kurzzeitkonzepte wie 1 x 8 Gy oder 5 x 4 Gy.",
+      "Ausschließlich ein Langzeitkonzept mit 20 x 2 Gy.",
+      "Grundsätzlich keine Bestrahlung, sondern nur medikamentöse Schmerztherapie.",
+      "Ausschließlich stereotaktische Radiochirurgie in einer Sitzung."
+    ],
+    "correct": 0,
+    "tip": "Bei einem zu erwartenden längeren Überleben (> 6 Monate) wird dagegen ein intensiveres Schema wie 10 x 3 Gy empfohlen.",
+    "explanation": "Empfehlung 12.3 sieht bei begrenzter Prognose Kurzzeitkonzepte wie 1 x 8 Gy oder 5 x 4 Gy vor; bei längerem Überleben (> 6 Monate) sollte ein intensiveres Schema wie 10 x 3 Gy verwendet werden."
+  },
+  {
+    "question": "Was sollte laut Empfehlung 12.4 (Kapitel 12.1.1, Empfehlungsgrad B) bei Frakturrisiko oder instabiler Fraktur vor einer Radiotherapie erwogen werden?",
+    "options": [
+      "Eine stabilisierende Chirurgie.",
+      "Eine sofortige Chemotherapie.",
+      "Eine Erhöhung der Bisphosphonat-Dosis.",
+      "Ein vollständiger Verzicht auf jede weitere Intervention."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung betrifft gezielt das orthopädisch-chirurgische Vorgehen vor Bestrahlung.",
+    "explanation": "Empfehlung 12.4 sieht vor, dass bei Frakturrisiko oder instabiler Fraktur eine stabilisierende Chirurgie vor einer Radiotherapie erwogen werden sollte."
+  },
+  {
+    "question": "Welchen Effekt auf die Gehfähigkeit zeigte laut Kapitel 12.1.1 eine Dekompression vor Bestrahlung im Vergleich zu alleiniger Bestrahlung bei spinaler Kompression durch Knochenmetastasen?",
+    "options": [
+      "Eine höhere Rate an Gehfähigkeit (84 % vs. 57 %).",
+      "Keine Verbesserung, beide Verfahren zeigten identische Raten.",
+      "Eine Verschlechterung der Gehfähigkeit (57 % vs. 84 %) durch die Dekompression.",
+      "Gehfähigkeit war in beiden Gruppen bei 100 % der Patienten erhalten."
+    ],
+    "correct": 0,
+    "tip": "Diese Beobachtung stammt aus derselben Studie, die auch als Grundlage für Empfehlung 12.5 zur spinalen Kompression dient.",
+    "explanation": "Kapitel 12.1.1 beschreibt, dass bei spinaler Kompression durch Knochenmetastasen eine Dekompression vor Bestrahlung zu einer höheren Rate an Gehfähigkeit führte (84 % vs. 57 % bei alleiniger Bestrahlung)."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 12.5 (Kapitel 12.1.2, Empfehlungsgrad B) bei Patienten mit relativ günstiger Prognose und begrenzter Myelonkompression (z. B. maximal 3 Wirbel)?",
+    "options": [
+      "Chirurgische Dekompression mit anschließender Radiotherapie (10 x 3 Gy) sollte einer alleinigen Radiotherapie vorgezogen werden.",
+      "Eine alleinige Radiotherapie ist der chirurgischen Dekompression in jedem Fall vorzuziehen.",
+      "Eine Chemotherapie soll der Radiotherapie vorausgehen.",
+      "Weder Operation noch Radiotherapie sind in dieser Situation indiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt nicht spezifisch für das Nierenzellkarzinom, sondern wurde aus einer bestehenden Leitlinie adaptiert.",
+    "explanation": "Empfehlung 12.5 sieht vor, dass bei relativ günstiger Prognose und begrenzter Myelonkompression eine chirurgische Dekompression mit anschließender Radiotherapie (10 x 3 Gy) einer alleinigen Radiotherapie vorgezogen werden sollte."
+  },
+  {
+    "question": "Für welche Patientengruppe wird laut Empfehlung 12.6 (Kapitel 12.1.3, Empfehlungsgrad B) eine Ganzhirnbestrahlung empfohlen?",
+    "options": [
+      "Bei Patienten mit mehr als 4 Hirnmetastasen und mäßigem bis gutem Karnofsky-Index.",
+      "Nur bei Patienten mit einer einzelnen, solitären Hirnmetastase.",
+      "Bei allen Patienten mit Nierenzellkarzinom unabhängig von Hirnmetastasen.",
+      "Nur bei Patienten mit irreversibel schlechtem Allgemeinzustand."
+    ],
+    "correct": 0,
+    "tip": "Bei irreversibel schlechtem Allgemein- oder neurologischem Zustand ist die Ganzhirnbestrahlung dagegen nicht indiziert.",
+    "explanation": "Empfehlung 12.6 empfiehlt bei Patienten mit mehr als 4 Hirnmetastasen und mäßigem bis gutem Karnofsky-Index eine Bestrahlung des gesamten Gehirns."
+  },
+  {
+    "question": "Welches mediane Überleben beschreibt Statement 12.8 für unbehandelte Patienten mit Hirnmetastasen im Vergleich zur Behandlung mit Kortikosteroiden bzw. Ganzhirnbestrahlung (WBRT)?",
+    "options": [
+      "1 Monat unbehandelt, 2 Monate mit Kortikosteroiden, 3-6 Monate nach WBRT.",
+      "12 Monate unbehandelt, identisch mit und ohne Behandlung.",
+      "6 Monate unbehandelt, kürzer nach jeder Behandlung.",
+      "Es gibt keinen Unterschied zwischen den drei Gruppen."
+    ],
+    "correct": 0,
+    "tip": "Die Behandlung verlängert das mediane Überleben in dieser Reihenfolge stufenweise.",
+    "explanation": "Statement 12.8 beschreibt ein medianes Überleben von einem Monat bei unbehandelten Patienten mit Hirnmetastasen, 2 Monaten mit Kortikosteroiden und 3-6 Monaten nach Behandlung mit Ganzhirnbestrahlung (WBRT)."
+  },
+  {
+    "question": "Welche drei Stufen umfasst das in Kapitel 13.1.1 beschriebene WHO-Stufenschema zur Schmerztherapie?",
+    "options": [
+      "Stufe I: Nichtopioid-Analgetikum; Stufe II: schwach wirkendes Opioid; Stufe III: stark wirkendes Opioid.",
+      "Stufe I: starkes Opioid; Stufe II: schwaches Opioid; Stufe III: Nichtopioid-Analgetikum.",
+      "Es gibt nur zwei Stufen: medikamentös und operativ.",
+      "Stufe I: Chemotherapie; Stufe II: Strahlentherapie; Stufe III: Opioide."
+    ],
+    "correct": 0,
+    "tip": "Die Reihenfolge der Stufen orientiert sich an der Stärke der eingesetzten Analgetika, von Nichtopioid bis stark wirkendem Opioid.",
+    "explanation": "Kapitel 13.1.1 beschreibt das dreistufige WHO-Schema: Stufe I ein Nichtopioid-Analgetikum, Stufe II ein schwach wirkendes Opioid, Stufe III ein stark wirkendes Opioid, jeweils ggf. mit Koanalgetika und Adjuvantien."
+  },
+  {
+    "question": "Welche medikamentösen Substanzen sollten laut Empfehlung 13.2 (Kapitel 13.1.2, Empfehlungsgrad B) zur Vermeidung skelettaler Komplikationen bei ossären Metastasen eingesetzt werden?",
+    "options": [
+      "Bisphosphonate oder der monoklonale Antikörper Denosumab, jeweils in Kombination mit Calcium und Vitamin D3.",
+      "Ausschließlich hochdosierte Kortikosteroide.",
+      "Ausschließlich klassische Chemotherapeutika.",
+      "Ausschließlich NSAR ohne weitere Zusatztherapie."
+    ],
+    "correct": 0,
+    "tip": "Beide Substanzen zeigen eine signifikante Senkung des Risikos skelettaler Komplikationen im Vergleich zu Placebo.",
+    "explanation": "Empfehlung 13.2 sieht zur Vermeidung skelettaler Komplikationen bei ossären Metastasen den Einsatz von Bisphosphonaten oder Denosumab in Kombination mit Calcium und Vitamin D3 vor."
+  },
+  {
+    "question": "Was fordert Empfehlung 13.3 (Empfehlungsgrad A) vor Beginn einer medikamentösen Therapie mit Bisphosphonaten oder Denosumab zur Prävention von Kieferosteonekrosen?",
+    "options": [
+      "Eine zahnärztliche Untersuchung und ggf. Sanierung sowie eine Unterweisung in Mundhygiene.",
+      "Eine prophylaktische Extraktion aller Zähne.",
+      "Keine spezifische Maßnahme ist notwendig.",
+      "Eine Reduktion der Bisphosphonat-Dosis auf die Hälfte."
+    ],
+    "correct": 0,
+    "tip": "Das Risiko für Kieferosteonekrosen unter diesen Substanzen liegt bei etwa 1-2 % und steigt mit der Behandlungsdauer.",
+    "explanation": "Empfehlung 13.3 fordert mit Empfehlungsgrad A vor Beginn einer Therapie mit Bisphosphonaten oder Denosumab eine zahnärztliche Untersuchung und evtl. Sanierung sowie eine Unterweisung in Mundhygiene zur Prävention von Kieferosteonekrosen."
+  }
+]

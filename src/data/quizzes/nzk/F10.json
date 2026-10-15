@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert die Konsensbasierte Empfehlung in Kapitel 8.1 beim Auftreten von Metastasen eines Nierenzellkarzinoms?",
+    "options": [
+      "Das weitere Procedere sollte interdisziplinär diskutiert werden.",
+      "Es soll ausschließlich der behandelnde Urologe allein entscheiden.",
+      "Jede Metastasierung erfordert sofort eine Systemtherapie ohne weitere Diskussion.",
+      "Eine interdisziplinäre Diskussion ist nur bei synchroner Metastasierung vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung bildet die Grundlage für alle weiteren, spezifischeren Empfehlungen dieses Kapitels.",
+    "explanation": "Kapitel 8.1 fordert, dass beim Auftreten von Metastasen das weitere Procedere interdisziplinär diskutiert werden sollte."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 8.2 (Empfehlungsgrad B) bei synchron metastasierten Patienten mit gutem Performance Status (ECOG 0-1)?",
+    "options": [
+      "Der Primärtumor sollte operativ entfernt werden.",
+      "Eine Operation ist in dieser Situation grundsätzlich kontraindiziert.",
+      "Es soll ausschließlich eine Systemtherapie ohne jede Operation erfolgen.",
+      "Eine Operation kommt nur bei ECOG 2-4 in Betracht."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert unter anderem auf zwei randomisierten Studien aus der Zytokin-Ära.",
+    "explanation": "Empfehlung 8.2 sieht mit Empfehlungsgrad B vor, dass bei synchron metastasierten Patienten mit gutem Performance Status (ECOG 0-1) der Primärtumor operativ entfernt werden sollte."
+  },
+  {
+    "question": "Welches mediane Gesamtüberleben zeigte die SWOG8949-Studie von Flanigan et al. (Kapitel 8.1) für Nephrektomie plus IFN-alpha im Vergleich zu alleiniger IFN-alpha-Therapie?",
+    "options": [
+      "11,1 vs. 8,1 Monate zugunsten der Kombination aus Nephrektomie und IFN-alpha.",
+      "Kein Unterschied zwischen beiden Behandlungsarmen.",
+      "8,1 vs. 11,1 Monate zugunsten der alleinigen IFN-alpha-Therapie.",
+      "25,4 vs. 11 Monate zugunsten der Kombination."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich war das Vorhandensein alleiniger Lungenmetastasen und ein guter Performance Status (ECOG 0) prognostisch günstig.",
+    "explanation": "In der Studie von Flanigan et al. (SWOG8949) war das mediane Gesamtüberleben im Arm Nephrektomie + IFN-alpha mit 11,1 Monaten signifikant länger als im Arm mit alleiniger IFN-alpha-Gabe (8,1 Monate)."
+  },
+  {
+    "question": "Wie veränderte sich das geschätzte mediane Überleben in der EORTC30947-Studie von Mickisch et al. (Kapitel 8.1) durch die Kombination aus Nephrektomie und IFN-alpha gegenüber alleiniger IFN-alpha-Gabe?",
+    "options": [
+      "Verbesserung von 7 auf 17 Monate.",
+      "Verschlechterung von 17 auf 7 Monate.",
+      "Keine Veränderung, beide Arme zeigten 11 Monate.",
+      "Verbesserung von 3 auf 5 Monate."
+    ],
+    "correct": 0,
+    "tip": "Die objektive Ansprechrate unterschied sich dabei nicht signifikant zwischen den beiden Studienarmen.",
+    "explanation": "In der Studie von Mickisch et al. (EORTC30947) verbesserte sich das geschätzte mediane Überleben für den Nephrektomie + IFN-alpha-Arm von 7 auf 17 Monate (p=0,03)."
+  },
+  {
+    "question": "Welches Ergebnis zeigte die Meta-Analyse beider randomisierter Studien (Flanigan und Mickisch) zum medianen Gesamtüberleben bei zytoreduktiver Nephrektomie plus IFN-alpha?",
+    "options": [
+      "13,6 Monate vs. 7,8 Monate (HR 0,69) zugunsten der Kombination.",
+      "Kein signifikanter Unterschied zwischen beiden Behandlungsarmen.",
+      "7,8 Monate vs. 13,6 Monate zugunsten der alleinigen IFN-alpha-Therapie.",
+      "20 Monate vs. 20 Monate, exakt identisch in beiden Armen."
+    ],
+    "correct": 0,
+    "tip": "In dieser gepoolten Analyse war zusätzlich der Performance Status, nicht aber die Metastasenlokalisation, prognostisch signifikant.",
+    "explanation": "Die Meta-Analyse beider Studien ergab ein medianes Gesamtüberleben von 13,6 Monaten vs. 7,8 Monaten (HR 0,69; 95%-CI 0,55-0,87; p=0,002) zugunsten der Kombination aus Nephrektomie und IFN-alpha."
+  },
+  {
+    "question": "Was empfehlen die Empfehlungen 8.3/8.4 (Kapitel 8.2, Empfehlungsgrad B) bei metachroner Metastasierung mit solitären Befunden?",
+    "options": [
+      "Solitäre Befunde sollten lokal therapiert werden; bei kurativer Intention und kompletter Resektabilität sollte unabhängig vom Organsystem eine Operation erwogen werden.",
+      "Solitäre Befunde sollen grundsätzlich nur beobachtet werden.",
+      "Eine lokale Therapie ist bei metachroner Metastasierung generell kontraindiziert.",
+      "Es soll ausschließlich eine Systemtherapie ohne lokale Komponente erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Zu Hirnmetastasen gibt es eine eigene, gesonderte Empfehlung.",
+    "explanation": "Empfehlungen 8.3 und 8.4 sehen vor, dass bei metachroner Metastasierung solitäre Befunde lokal therapiert werden sollten, wobei bei kurativer Intention und kompletter Resektabilität unabhängig vom Organsystem eine Operation erwogen werden sollte."
+  },
+  {
+    "question": "Welche Therapieoption nennt Empfehlung 8.5 bei Oligometastasierung in einem Organsystem mit nicht komplett resektablen Metastasen oder Inoperabilität des Patienten?",
+    "options": [
+      "Eine hochdosierte externe Radiotherapie oder eine Radiochirurgie/stereotaktische Radiotherapie.",
+      "Ausschließlich eine palliative Chemotherapie.",
+      "Eine systemische Zytokintherapie ohne jede Lokaltherapie.",
+      "Eine Watch-and-Wait-Strategie ohne jede weitere Diagnostik."
+    ],
+    "correct": 0,
+    "tip": "Hierbei soll mit dem Patienten die Morbidität der Radiotherapie und ein eventueller Überlebensvorteil individuell abgewogen werden.",
+    "explanation": "Empfehlung 8.5 sieht bei Oligometastasierung in einem Organsystem mit nicht komplett resektablen Metastasen oder Inoperabilität eine hochdosierte externe Radiotherapie oder eine Radiochirurgie/stereotaktische Radiotherapie vor."
+  },
+  {
+    "question": "Wie bewertet Statement 8.7 den Stellenwert der lokalen Therapie bei synchroner oder metachroner Metastasierung in MEHREREN Organsystemen?",
+    "options": [
+      "Der Stellenwert ist unklar.",
+      "Lokale Therapie ist in diesem Fall klar etablierter Standard.",
+      "Lokale Therapie ist in diesem Fall ausdrücklich kontraindiziert.",
+      "Es liegen hierzu randomisierte Phase-III-Daten mit klarem Ergebnis vor."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz dazu gibt es für die Oligometastasierung in nur einem Organsystem konkretere Empfehlungen.",
+    "explanation": "Statement 8.7 stellt fest, dass der Stellenwert der lokalen Therapie bei synchroner oder metachroner Metastasierung in mehreren Organsystemen unklar ist."
+  },
+  {
+    "question": "Welches 5-Jahres-Überleben beschrieben Kavolius et al. (Kapitel 8.2) nach kompletter Metastasenresektion im Vergleich zu inkompletter Resektion bzw. nicht-operativen Maßnahmen?",
+    "options": [
+      "44 % (komplett) vs. 14 % (inkomplett) vs. 11 % (nicht-operativ).",
+      "90 % (komplett) vs. 85 % (inkomplett) vs. 80 % (nicht-operativ).",
+      "Kein Unterschied zwischen den drei Gruppen.",
+      "11 % (komplett) vs. 44 % (inkomplett) vs. 14 % (nicht-operativ)."
+    ],
+    "correct": 0,
+    "tip": "Prognostisch signifikant waren zudem ein krankheitsfreies Intervall über 12 Monate, eine solitäre Metastase und ein Alter unter 60 Jahren.",
+    "explanation": "Kavolius et al. berichteten ein 5-Jahres-Überleben von 44 % nach kompletter Metastasenresektion, 14 % nach inkompletter Resektion und 11 % nach rein nicht-operativen Maßnahmen."
+  },
+  {
+    "question": "Welchen Anteil an kompletten Resektionen und welches 5-Jahres-Überleben beschrieben Kierney et al. (Kapitel 8.2) bei 41 Patienten mit metachroner Metastasierung?",
+    "options": [
+      "88 % komplette Resektionen, 5-Jahres-Überleben von 31 %.",
+      "20 % komplette Resektionen, 5-Jahres-Überleben von 5 %.",
+      "100 % komplette Resektionen, 5-Jahres-Überleben von 90 %.",
+      "50 % komplette Resektionen, 5-Jahres-Überleben von 60 %."
+    ],
+    "correct": 0,
+    "tip": "Über die Hälfte der komplett resezierten Patienten hatte dabei nur eine einzige solitäre Metastase.",
+    "explanation": "Kierney et al. berichteten bei 41 Patienten mit metachroner Metastasierung eine komplette Resektion in 88 % der Fälle (36/41) mit einem 1-, 3- und 5-Jahres-Überleben von 77 %, 59 % und 31 %."
+  }
+]

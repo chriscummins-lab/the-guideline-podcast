@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie viele Menschen erkranken laut Kapitel 2.1 in Deutschland jährlich neu an einem Harnblasentumor, und welchen Rang nimmt das Harnblasenkarzinom unter den urologischen Tumoren ein?",
+    "options": [
+      "Ca. 31.000 Neuerkrankungen jährlich; zweithäufigster Tumor im Fachgebiet der Urologie.",
+      "Ca. 5.000 Neuerkrankungen jährlich; seltenster urologischer Tumor.",
+      "Ca. 100.000 Neuerkrankungen jährlich; häufigster urologischer Tumor.",
+      "Ca. 31.000 Neuerkrankungen jährlich; vierthäufigster urologischer Tumor."
+    ],
+    "correct": 0,
+    "tip": "Das mittlere Erkrankungsalter liegt bei 76 (Männer) bzw. 74 Jahren (Frauen).",
+    "explanation": "Kapitel 2.1 beschreibt ca. 31.000 jährliche Neuerkrankungen in Deutschland; das Harnblasenkarzinom ist damit der zweithäufigste Tumor im Fachgebiet der Urologie."
+  },
+  {
+    "question": "Welche Rezidiv- und Progressionshäufigkeit beschreibt Kapitel 2.1 für oberflächliche Harnblasentumoren nach ausschließlicher transurethraler Resektion?",
+    "options": [
+      "Ca. 70% Rezidivrate, bis zu 25% Progress in ein höheres Tumorstadium.",
+      "Ca. 5% Rezidivrate, praktisch kein Progressionsrisiko.",
+      "100% Rezidivrate bei allen Patienten innerhalb eines Jahres.",
+      "Rezidive treten praktisch nie auf, Progress ist das Hauptproblem."
+    ],
+    "correct": 0,
+    "tip": "Die genaue Häufigkeit ist abhängig von Tumorstadium und Differenzierungsgrad.",
+    "explanation": "Kapitel 2.1 beschreibt, dass oberflächliche Harnblasentumoren in Abhängigkeit von Stadium und Differenzierungsgrad in ca. 70% nach alleiniger TUR rezidivieren und bis zu 25% der Patienten einen Progress erleiden."
+  },
+  {
+    "question": "Welche mediane Gesamtüberlebenszeit beschreibt Kapitel 2.1 für das unbehandelte metastasierte Urothelkarzinom, und wie verändert sich diese unter cisplatinhaltiger Polychemotherapie?",
+    "options": [
+      "Unbehandelt unter 6 Monate; unter Chemotherapie Verlängerung auf 13 Monate, aber weiterhin palliativer Charakter.",
+      "Unbehandelt 5 Jahre; unter Chemotherapie keine Veränderung.",
+      "Unbehandelt 24 Monate; unter Chemotherapie Verkürzung auf 13 Monate.",
+      "Unbehandelt und behandelt identisch bei 13 Monaten."
+    ],
+    "correct": 0,
+    "tip": "Trotz der Verlängerung bleibt die Chemotherapie in dieser Situation palliativ, nicht kurativ.",
+    "explanation": "Kapitel 2.1 beschreibt eine mediane Gesamtüberlebenszeit von unter 6 Monaten beim unbehandelten metastasierten Urothelkarzinom, die durch eine cisplatinhaltige Polychemotherapie auf 13 Monate verlängert werden kann, wobei der palliative Charakter bestehen bleibt."
+  },
+  {
+    "question": "Was fordert die Konsensbasierte Empfehlung in Kapitel 3.1.1 zur epidemiologischen Berichterstattung beim Harnblasenkarzinom?",
+    "options": [
+      "Sie soll alle Tumorstadien umfassen, insbesondere auch pTa und das Carcinoma in situ.",
+      "Sie soll sich ausschließlich auf muskelinvasive Tumoren beschränken.",
+      "pTa- und CIS-Fälle sollen aus der Statistik grundsätzlich ausgeschlossen bleiben.",
+      "Es ist keine einheitliche Berichterstattung notwendig."
+    ],
+    "correct": 0,
+    "tip": "Seit Einführung der ICD-10 1998 werden Tis und Ta statistisch nicht mehr als bösartig klassifiziert, was die Datenlage verzerrt.",
+    "explanation": "Die Empfehlung in Kapitel 3.1.1 fordert, dass die epidemiologische Berichterstattung alle Tumorstadien umfassen soll, insbesondere auch die nicht-muskelinvasiven Karzinome mit pTa und das Carcinoma in situ, da diese nicht-invasiven Tumoren etwa 70% der Erstdiagnosen ausmachen."
+  },
+  {
+    "question": "Welche kumulative Inzidenz für ein Harnblasenkarzinom bis zum 75. Lebensjahr beschreibt Kapitel 3.2.1.2 für MSH2-Mutationsträger:innen im Rahmen des Lynch-Syndroms, und welche therapeutische Konsequenz hat der Nachweis von dMMR/MSI-H?",
+    "options": [
+      "Bis zu 16% kumulative Inzidenz; dMMR/MSI-H-Tumoren sprechen grundsätzlich gut auf Immuncheckpoint-Inhibitoren an.",
+      "100% kumulative Inzidenz; keine therapeutischen Konsequenzen.",
+      "Unter 1% kumulative Inzidenz; dMMR/MSI-H ist für die Therapie irrelevant.",
+      "Bis zu 16% kumulative Inzidenz, aber ohne jede Konsequenz für die Systemtherapie."
+    ],
+    "correct": 0,
+    "tip": "Der Nachweis dieser Signatur eröffnet den Zugang zu einer spezifischen Immuntherapie, auch bei Lynch-assoziierten Harnblasenkarzinomen.",
+    "explanation": "Kapitel 3.2.1.2 beschreibt eine geschlechts- und genabhängige kumulative Inzidenz von bis zu 16% bis zum 75. Lebensjahr bei MSH2- und MLH1-Mutationsträger:innen; der Nachweis von dMMR/MSI-H eröffnet zudem den therapeutischen Zugang zu Immuncheckpoint-Inhibitoren."
+  },
+  {
+    "question": "Welche genetischen Risikofaktoren aus genomweiten Assoziationsstudien nennt Kapitel 3.2.1.2 als bislang untersucht, und welche klinische Relevanz haben sie im ärztlichen Alltag?",
+    "options": [
+      "Ein NAT2-Tagging-SNP und die GSTM1-Gendeletion; sie haben im ärztlichen Alltag derzeit keine klinische Relevanz.",
+      "BRCA1 und BRCA2; sie sind Standard im Screening.",
+      "TP53 und RB1; sie ersetzen die Zystoskopie.",
+      "Es wurden bislang keine genetischen Risikofaktoren identifiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Ergebnisse der Grundlagenforschung sind auf Kollektivebene nachweisbar, ohne bislang Konsequenzen für die Prävention zu haben.",
+    "explanation": "Kapitel 3.2.1.2 nennt ein NAT2-Tagging-SNP und die Deletion des GSTM1-Gens als bislang untersuchte genetische Risikofaktoren, die jedoch im ärztlichen Alltag keine klinische Relevanz haben."
+  },
+  {
+    "question": "Welche Beziehung zeigt sich laut Kapitel 3.2.1.4 zwischen dem Rauchen von Zigaretten und dem Harnblasenkarzinomrisiko?",
+    "options": [
+      "Eine klare Dosis-Wirkungsbeziehung: Das Risiko steigt mit Dauer und Anzahl der gerauchten Zigaretten und sinkt nach Rauchstopp.",
+      "Rauchen hat keinen nachweisbaren Einfluss auf das Harnblasenkarzinomrisiko.",
+      "Das Risiko ist unabhängig von Dauer und Menge des Rauchens konstant erhöht.",
+      "Nach Rauchstopp bleibt das Risiko dauerhaft auf dem Niveau eines aktiven Rauchers."
+    ],
+    "correct": 0,
+    "tip": "Die IARC bestätigt diese Dosis-Wirkungsbeziehung sowohl für die Zigarettenanzahl als auch für die Raucherjahre.",
+    "explanation": "Kapitel 3.2.1.4 beschreibt eine klare Dosis-Wirkungsbeziehung zwischen Rauchdauer/-menge und Harnblasenkarzinomrisiko, wobei das relative Risiko nach Beendigung des Rauchens im Zeitverlauf abnimmt."
+  },
+  {
+    "question": "Welche Substanzen nennt Kapitel 3.2.1.3 (Hintergrund zu 3.5) als Medikamente/Arzneistoffe mit erhöhtem Harnblasenkarzinomrisiko, und welche Risikoerhöhung zeigte sich für Cyclophosphamid in Abhängigkeit von der Gesamtdosis?",
+    "options": [
+      "Cyclophosphamid, Chlornaphazin, Phenacetin und Aristolochiasäure; bei Cyclophosphamid < 20 g RR 2,4, bei > 50 g RR 14,5.",
+      "Ausschließlich Metformin, ohne jede Dosis-Wirkungsbeziehung.",
+      "Ausschließlich NSAR, mit einem einheitlichen Risiko unabhängig von der Dosis.",
+      "Ausschließlich Antibiotika, mit einem Risiko nur bei Langzeitanwendung."
+    ],
+    "correct": 0,
+    "tip": "Die Dosis-Wirkungsbeziehung für Cyclophosphamid stammt aus einer Studie an Non-Hodgkin-Lymphom-Patienten.",
+    "explanation": "Kapitel 3.2.1.3 nennt Cyclophosphamid, Chlornaphazin, Phenacetin und Aristolochiasäure als risikoerhöhende Substanzen; für Cyclophosphamid zeigte sich eine klare Dosis-Wirkungsbeziehung mit einem relativen Risiko von 2,4 bei einer Gesamtdosis unter 20 g und 14,5 bei über 50 g."
+  },
+  {
+    "question": "Welche Berufskrankheiten-Ziffern sind laut Kapitel 3.2.2 für beruflich bedingte Harnblasenkarzinome durch aromatische Amine bzw. polyzyklische aromatische Kohlenwasserstoffe maßgeblich, und wie lang war die mittlere Latenzzeit der zwischen 2008-2022 anerkannten BK-1301-Fälle?",
+    "options": [
+      "BK 1301 (aromatische Amine) und BK 1321 (PAK, ab 80 Benzo(a)pyren-Jahren); mittlere Latenzzeit ca. 50 Jahre.",
+      "BK 1301 und BK 1321; mittlere Latenzzeit ca. 2 Jahre.",
+      "Es gibt für das Harnblasenkarzinom keine anerkannten Berufskrankheiten-Ziffern.",
+      "BK 2108 und BK 2109; mittlere Latenzzeit ca. 10 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Diese lange Latenzzeit erklärt, warum eine lückenlose Berufsanamnese bis zum Ende der Schulzeit entscheidend ist.",
+    "explanation": "Kapitel 3.2.2 nennt BK 1301 (Schleimhautveränderungen/Krebs der Harnwege durch aromatische Amine) und BK 1321 (durch polyzyklische aromatische Kohlenwasserstoffe bei mindestens 80 Benzo(a)pyren-Jahren) als relevante Berufskrankheiten; die mittlere Latenzzeit der zwischen 2008-2022 anerkannten BK-1301-Fälle betrug 50 Jahre."
+  },
+  {
+    "question": "Was ermöglicht die in Kapitel 3.2.2.3 beschriebene 'Öffnungsklausel' nach § 9 Abs. 2 SGB VII?",
+    "options": [
+      "Die Anerkennung einer nicht in der Berufskrankheiten-Liste bezeichneten Krankheit als Berufskrankheit, wenn neue medizinisch-wissenschaftliche Erkenntnisse dies rechtfertigen.",
+      "Den automatischen Ausschluss jeder nicht gelisteten Erkrankung von der Anerkennung.",
+      "Die Anerkennung ausschließlich von BK 1301 und BK 1321, aber keiner anderen Erkrankung.",
+      "Eine pauschale finanzielle Entschädigung ohne medizinische Einzelfallprüfung."
+    ],
+    "correct": 0,
+    "tip": "In der Praxis wurde diese Klausel beim Harnblasenkarzinom nur sehr selten erfolgreich angewendet (1 von 338 angezeigten Fällen 1997-2004).",
+    "explanation": "Die Öffnungsklausel nach § 9 Abs. 2 SGB VII erlaubt es den Unfallversicherungsträgern, eine nicht in der Berufskrankheiten-Verordnung bezeichnete Krankheit als Berufskrankheit anzuerkennen, sofern zum Entscheidungszeitpunkt neue medizinisch-wissenschaftliche Erkenntnisse die entsprechenden Voraussetzungen erfüllen."
+  }
+]

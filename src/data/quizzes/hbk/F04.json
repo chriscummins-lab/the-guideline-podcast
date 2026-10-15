@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie hoch ist laut Kapitel 5.1 der positive prädiktive Wert (PPV) für das Vorliegen eines Harnblasenkarzinoms bei Patienten mit Makrohämaturie, obwohl die Makrohämaturie das führende Symptom ist?",
+    "options": [
+      "Nur ca. 2,6-8,3%, mit höherem Wert bei Männern (8,0%) als bei Frauen (3,7%).",
+      "Nahezu 100% bei jedem Patienten mit Makrohämaturie.",
+      "Konstant 50% unabhängig vom Geschlecht.",
+      "Unter 0,1%, Makrohämaturie ist praktisch nie mit einem Harnblasenkarzinom assoziiert."
+    ],
+    "correct": 0,
+    "tip": "Zwischen 68-97,5% der Harnblasenkarzinom-Patienten haben zwar eine Makrohämaturie, aber nur ein kleiner Teil aller Makrohämaturie-Patienten hat tatsächlich ein Karzinom.",
+    "explanation": "Kapitel 5.1 beschreibt einen PPV von nur 2,6-8,3% für das Vorliegen eines Harnblasenkarzinoms bei Makrohämaturie, wobei der Wert bei Männern (8,0%) höher liegt als bei Frauen (3,7%), obwohl 68-97,5% der Karzinompatienten eine Makrohämaturie aufweisen."
+  },
+  {
+    "question": "Bei wie viel Prozent der Patienten mit asymptomatischer Mikrohämaturie liegt laut Kapitel 5.1 ein Malignom der Harnblase oder der ableitenden Harnwege vor?",
+    "options": [
+      "10-15%",
+      "Unter 0,1%",
+      "Über 90%",
+      "Genau 50%"
+    ],
+    "correct": 0,
+    "tip": "Dieser Anteil ist niedriger als bei Makrohämaturie, aber klinisch relevant genug für eine weitere Abklärung.",
+    "explanation": "Kapitel 5.1 beschreibt, dass bei 10-15% der Patienten mit asymptomatischer Mikrohämaturie ein Malignom der Harnblase oder der ableitenden Harnwege vorliegt."
+  },
+  {
+    "question": "Bei wie viel Prozent der Harnblasenkarzinom-Patienten treten laut Kapitel 5.1 irritative Symptome (Pollakisurie, Drangsymptomatik, Dysurie) auf, und was ist in ca. 40% der Fälle deren Ursache?",
+    "options": [
+      "20-25% der Patienten; eine begleitende Harnwegsinfektion ist in ca. 40% der Fälle ursächlich.",
+      "90% der Patienten; immer eine Fernmetastasierung.",
+      "Unter 1% der Patienten; nie eine Harnwegsinfektion.",
+      "100% der Patienten; ausschließlich tumorbedingte Schmerzen."
+    ],
+    "correct": 0,
+    "tip": "Weitere mögliche Ursachen sind eine reduzierte Blasenkapazität, Blasenhalsobstruktion, Tumornekrose oder ein Carcinoma in situ.",
+    "explanation": "Kapitel 5.1 beschreibt irritative Symptome bei 20-25% der Harnblasenkarzinom-Patienten, wobei in ca. 40% der Fälle eine begleitende Harnwegsinfektion ursächlich ist."
+  },
+  {
+    "question": "Welche Faktoren können laut Kapitel 5.2 (Qualitätskriterien der Urinzytologie) zu falsch-positiven bzw. verfälschten Befunden führen?",
+    "options": [
+      "Harnwegsinfektionen, kürzlich erfolgte transurethrale Resektion, hypoosmolare Spüllösungen und Kontrastmittelgabe.",
+      "Ausschließlich das Alter des Patienten.",
+      "Ausschließlich die verwendete Färbemethode, unabhängig vom klinischen Kontext.",
+      "Falsch-positive Befunde kommen bei der Urinzytologie praktisch nie vor."
+    ],
+    "correct": 0,
+    "tip": "Falsch-negative Befunde treten dagegen eher bei kleinen, gut differenzierten Tumoren und zellarmen Präparaten auf.",
+    "explanation": "Kapitel 5.2 nennt Harnwegsinfektionen, kürzlich erfolgte TUR, hypoosmolare Spüllösungen und Kontrastmittelgabe als Ursachen für verfälschte bzw. falsch-positive Urinzytologie-Befunde."
+  },
+  {
+    "question": "Wie hoch war laut Kapitel 5.2 die Interobserverübereinstimmung der Urinzytologie bei erfahrenen Untersuchern für Low-Grade- im Vergleich zu High-Grade-Tumoren?",
+    "options": [
+      "33,9% bei Low-Grade- vs. 76% bei High-Grade-Tumoren.",
+      "100% bei beiden Gruppen gleichermaßen.",
+      "76% bei Low-Grade- vs. 33,9% bei High-Grade-Tumoren.",
+      "Unter 5% bei beiden Gruppen."
+    ],
+    "correct": 0,
+    "tip": "Diese deutliche Diskrepanz erklärt, warum die Urinzytologie vor allem für High-Grade-Läsionen als wertvoll gilt.",
+    "explanation": "Kapitel 5.2 beschreibt eine Interobserverübereinstimmung von 33,9% für Low-Grade-Tumoren gegenüber 76% für High-Grade-Tumoren bei erfahrenen Untersuchern."
+  },
+  {
+    "question": "Welche Sensitivität und Spezifität zeigte der BTA-Stat-Test laut der Metaanalyse von Glas et al. (Kapitel 5.3), und wodurch werden vermehrt falsch-positive Ergebnisse verursacht?",
+    "options": [
+      "Sensitivität 70%, Spezifität 75%; falsch-positive Ergebnisse vermehrt bei Hämaturie (bis zu 80%).",
+      "Sensitivität 100%, Spezifität 100%, keine falsch-positiven Ergebnisse möglich.",
+      "Sensitivität 5%, Spezifität 5%; keine bekannten Störfaktoren.",
+      "Sensitivität 70%, Spezifität 75%; falsch-positive Ergebnisse ausschließlich bei Diabetes mellitus."
+    ],
+    "correct": 0,
+    "tip": "Der Grund für die hohe Rate falsch-positiver Befunde bei Hämaturie liegt in der hohen Blutkonzentration des nachgewiesenen Proteins hCFHrp.",
+    "explanation": "Die Metaanalyse von Glas et al. ermittelte für BTA Stat eine Sensitivität von 70% und eine Spezifität von 75%; falsch-positive Ergebnisse treten vermehrt bei Hämaturie auf (bis zu 80%), da das nachgewiesene Protein hCFHrp im Blut in hoher Konzentration vorliegt."
+  },
+  {
+    "question": "Welche Sensitivität und Spezifität werden laut Kapitel 5.3 für den UBC-Rapid-Test in der Metaanalyse beschrieben?",
+    "options": [
+      "Sensitivität 59%, Spezifität 86%.",
+      "Sensitivität 99%, Spezifität 99%.",
+      "Sensitivität 10%, Spezifität 10%.",
+      "Der UBC-Rapid-Test wurde nie in einer Metaanalyse untersucht."
+    ],
+    "correct": 0,
+    "tip": "Die Sensitivität war in der Erstpublikation am höchsten und fiel in späteren Veröffentlichungen deutlich ab.",
+    "explanation": "Kapitel 5.3 beschreibt für den UBC-Rapid-Test in der Metaanalyse eine Sensitivität von 59% bei einer Spezifität von 86%."
+  },
+  {
+    "question": "Welchen positiven prädiktiven Wert (PPV) zeigte laut Kapitel 5.3 der FGFR3-Nachweis im Urin bei Patienten mit Hämaturie in einer prospektiven Studie?",
+    "options": [
+      "95%",
+      "5%",
+      "50%, identisch zur Urinzytologie",
+      "FGFR3 zeigte in dieser Studie keinerlei prädiktiven Wert"
+    ],
+    "correct": 0,
+    "tip": "FGFR3-Mutationen sind insbesondere beim nicht-muskelinvasiven Harnblasenkarzinom von Bedeutung.",
+    "explanation": "Kapitel 5.3 berichtet für den positiven FGFR3-Nachweis im Urin bei Hämaturie-Patienten einen PPV von 95% in einer prospektiven Studie."
+  },
+  {
+    "question": "Welche Sensitivität zeigte der Survivin-mRNA-Nachweis im Vergleich zu NMP22 und Urinzytologie in der in Kapitel 5.3 zitierten prospektiven Untersuchung?",
+    "options": [
+      "Survivin 87,5% vs. NMP22 61,3% vs. Urinzytologie 40%.",
+      "Survivin 10% vs. NMP22 90% vs. Urinzytologie 95%.",
+      "Alle drei Verfahren zeigten identische Sensitivität von 50%.",
+      "Survivin wurde nie mit NMP22 oder Urinzytologie verglichen."
+    ],
+    "correct": 0,
+    "tip": "Trotz dieser guten Ergebnisse ist eine klinische Bewertung von Survivin wegen uneinheitlicher PCR-Primer in den Studien bislang nicht möglich.",
+    "explanation": "Kapitel 5.3 berichtet eine Sensitivität von 87,5% für den Survivin-mRNA-Nachweis im Vergleich zu 61,3% für NMP22 und 40% für die Urinzytologie in einer prospektiven Untersuchung."
+  },
+  {
+    "question": "Welche Sensitivität zeigte der mRNA-Multiplex-Assay CxbladderDetect laut Kapitel 5.3 im Vergleich zu NMP22 ELISA, BladderChek und Urinzytologie?",
+    "options": [
+      "82% (97% bei High-Grade-Tumoren) vs. NMP22 50,0%, BladderChek 37,9% und Urinzytologie 56,1%.",
+      "20% vs. 90% für alle Vergleichsverfahren.",
+      "Identische Sensitivität von 60% für alle vier Verfahren.",
+      "CxbladderDetect wurde nie mit anderen Markern verglichen."
+    ],
+    "correct": 0,
+    "tip": "Besonders bei High-Grade-Tumoren erreichte dieser Multiplex-mRNA-Assay eine sehr hohe Sensitivität.",
+    "explanation": "Kapitel 5.3 beschreibt für CxbladderDetect eine Sensitivität von 82% (97% bei High-Grade-Tumoren) gegenüber 50,0% für NMP22 ELISA, 37,9% für BladderChek und 56,1% für die Urinzytologie."
+  }
+]

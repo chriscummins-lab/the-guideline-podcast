@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welchen Begriff verwendet die WHO-Klassifikation 2022 laut Kapitel 4.2.1.3 anstelle des früheren Begriffs 'Varianten' des Urothelkarzinoms, und wovon wird dieser Begriff klar abgegrenzt?",
+    "options": [
+      "'Histologische Subtypen', abgegrenzt von der 'divergenten Differenzierung' (z. B. plattenepitheliale, drüsige oder neuroendokrine Differenzierung).",
+      "'Molekulare Subklassen', abgegrenzt vom Grading.",
+      "'Zytologische Varianten', abgegrenzt vom TNM-Stadium.",
+      "Der Begriff 'Varianten' wurde unverändert beibehalten."
+    ],
+    "correct": 0,
+    "tip": "Der Begriff 'Variante' wurde als irreführend empfunden, da er in der Molekulargenetik eine andere feste Bedeutung hat.",
+    "explanation": "Die WHO-Klassifikation 2022 führte laut Kapitel 4.2.1.3 den Begriff 'histologische Subtypen' ein, der von Urothelkarzinomen mit divergenter Differenzierung (plattenepithelial, glandulär, neuroendokrin) klar abgegrenzt wird."
+  },
+  {
+    "question": "Wie unterscheidet die TNM-Klassifikation (Tabelle 16) die Kategorien T2a und T2b?",
+    "options": [
+      "T2a: Invasion der oberflächlichen (inneren) Hälfte der Muscularis propria; T2b: Invasion der tiefen (äußeren) Hälfte.",
+      "T2a: mikroskopische Invasion des perivesikalen Gewebes; T2b: makroskopische Invasion.",
+      "T2a: Invasion der Prostata; T2b: Invasion der Beckenwand.",
+      "T2a und T2b unterscheiden sich nur durch die Tumorgröße in cm."
+    ],
+    "correct": 0,
+    "tip": "Die Unterscheidung mikroskopisch/makroskopisch betrifft dagegen die T3-Kategorie.",
+    "explanation": "Laut Tabelle 16 beschreibt T2a die Invasion der oberflächlichen (inneren) Hälfte der Muscularis propria, T2b die Invasion der tiefen (äußeren) Hälfte."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.5 (Kapitel 4.2.1.3) zur Erfassung histologischer Subtypen und divergenter Differenzierung im pathologischen Gutachten?",
+    "options": [
+      "Sie sollen als prozentualer Anteil des Tumor-Probenmaterials erfasst werden; TUR-Befunde mit Subtypen sollen vor weiterer Therapie im uroonkologischen Tumorboard diskutiert werden.",
+      "Subtypen müssen im Befund nicht erwähnt werden, solange der Haupttyp urothelial ist.",
+      "Die Angabe eines prozentualen Anteils ist gesetzlich verboten.",
+      "Ein Tumorboard ist bei Subtypen-Nachweis ausdrücklich nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung verbindet die exakte pathologische Befundung direkt mit der klinischen Therapieentscheidung.",
+    "explanation": "Empfehlung 4.5 fordert, dass histologische Subtypen und/oder divergente Differenzierung als prozentualer Anteil im Gutachten erfasst werden sollen und TUR-Befunde mit solchen Subtypen vor weiterführender Therapie im Tumorboard diskutiert werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.6 bei Vorliegen multipler Tumoren im Zystektomiepräparat?",
+    "options": [
+      "Multiple Tumoren sollen getrennt befundet werden.",
+      "Nur der größte Tumor soll befundet werden, die übrigen werden ignoriert.",
+      "Multiple Tumoren müssen immer als ein gemeinsamer Befund zusammengefasst werden.",
+      "Bei multiplen Tumoren ist keine histologische Befundung mehr notwendig."
+    ],
+    "correct": 0,
+    "tip": "Die Multifokalität von Harnblasentumoren kann klonal sein, aber auch genetisch unterschiedlichen Läsionen entsprechen.",
+    "explanation": "Empfehlung 4.6 legt fest, dass multiple Tumoren des Zystektomiepräparates getrennt befundet werden sollen."
+  },
+  {
+    "question": "Welches zusätzliche Grading-System soll laut Empfehlung 4.7 bei invasiven Urothelkarzinomen zusätzlich zum Low-/High-Grade-System angegeben werden?",
+    "options": [
+      "Das dreistufige Gradingsystem G1-3 entsprechend der WHO-Klassifikation von 1973.",
+      "Ein neues fünfstufiges Gradingsystem von 2022.",
+      "Ausschließlich der Gleason-Score.",
+      "Kein zusätzliches Grading ist bei invasiven Tumoren vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "G1-invasive Tumoren gibt es dabei nicht – die prognostisch wichtige Unterscheidung liegt zwischen G2 und G3.",
+    "explanation": "Empfehlung 4.7 fordert, dass bei invasiven Tumoren zusätzlich das dreistufige Gradingsystem (G1-3 nach WHO 1973) angegeben werden soll, da die WHO-Klassifikation 2004 hinsichtlich des Gradings invasiver Tumoren nicht präzise war."
+  },
+  {
+    "question": "Welchen prognostischen Stellenwert hat laut Empfehlung 4.8 das Ausmaß der Lamina-propria-Invasion bei pT1-Tumoren?",
+    "options": [
+      "Es hat einen prognostischen Wert und sollte im pathologischen Befund benannt werden.",
+      "Es hat keinerlei prognostische Bedeutung und muss nicht erfasst werden.",
+      "Es ist nur bei metastasierten Tumoren relevant.",
+      "Es ersetzt die TNM-Klassifikation vollständig."
+    ],
+    "correct": 0,
+    "tip": "Verschiedene mikrometrische und histoanatomische Methoden zur Bestimmung der Infiltrationstiefe korrelieren signifikant mit Rezidiv und Progression.",
+    "explanation": "Empfehlung 4.8 (Empfehlungsgrad B) stellt fest, dass das Ausmaß der Lamina-propria-Invasion bei pT1-Tumoren einen prognostischen Wert hat und daher im pathologischen Befund benannt werden sollte."
+  },
+  {
+    "question": "Welches Infiltrationsmuster ist laut Kapitel 4.2.1.4 (Hintergrund zu Empfehlung 4.9) bei pT1-Tumoren mit einem 3,01-fach höheren Progressionsrisiko assoziiert?",
+    "options": [
+      "Das netzige (infiltrative) Wachstumsmuster, im Vergleich zum plumpen Muster.",
+      "Das plumpe Wachstumsmuster, im Vergleich zum netzigen Muster.",
+      "Beide Muster zeigen ein identisches Progressionsrisiko.",
+      "Das Wachstumsmuster hat laut Leitlinie keinen Einfluss auf die Progression."
+    ],
+    "correct": 0,
+    "tip": "Diese Beobachtung korreliert in der Regel mit einem Verlust an Differenzierung.",
+    "explanation": "Kapitel 4.2.1.4 beschreibt, dass das netzige Infiltrationsmuster mit einer schlechteren Prognose und einem 3,01-fach höheren Progressionsrisiko einhergeht als das plumpe Infiltrationsmuster, weshalb Empfehlung 4.9 die Angabe des Wachstumstyps vorsieht."
+  },
+  {
+    "question": "Wie sollen laut Empfehlung 4.10 alle makroskopisch identifizierten Lymphknoten eines Lymphadenektomiepräparats für die Histologie aufbereitet werden, und wie viele Lymphknoten sind für die pN-Klassifikation nach UICC 2012 mindestens zu untersuchen?",
+    "options": [
+      "Mindestens halbiert, wenn die Größe es erlaubt; mindestens 8 Lymphknoten für die pN-Klassifikation.",
+      "Immer im Ganzen, niemals geteilt; mindestens 20 Lymphknoten.",
+      "Nur jeder zweite Lymphknoten wird untersucht; keine Mindestzahl vorgeschrieben.",
+      "Lymphknoten werden ausschließlich zytologisch, nie histologisch untersucht."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich sollen im Befund Lokalisation, Gesamtzahl, Zahl befallener Lymphknoten, maximale Metastasengröße und kapselüberschreitendes Wachstum angegeben werden.",
+    "explanation": "Empfehlung 4.10 fordert, dass alle makroskopisch identifizierten Lymphknoten mindestens halbiert eingebettet werden sollen, wenn die Größe es erlaubt; für die pN-Klassifikation nach UICC 2012 ist die Untersuchung von mindestens acht Lymphknoten notwendig."
+  },
+  {
+    "question": "In welchem Anteil der Urothelkarzinome findet sich laut Kapitel 4.3 eine GATA3-Expression, und welche Einschränkung ist bei der Interpretation dieses Markers zu beachten?",
+    "options": [
+      "Bis zu 86% der Urothelkarzinome; GATA3 ist aber auch bei nicht-urothelialen Tumoren wie dem Mammakarzinom positiv.",
+      "Nur 5%; GATA3 ist hochspezifisch und kommt bei keinem anderen Tumor vor.",
+      "100%; GATA3 ist ausschließlich beim Urothelkarzinom nachweisbar.",
+      "GATA3 wird beim Urothelkarzinom nie exprimiert."
+    ],
+    "correct": 0,
+    "tip": "Deshalb wird GATA3 meist im Panel mit anderen Markern eingesetzt, nicht isoliert.",
+    "explanation": "Kapitel 4.3 beschreibt eine GATA3-Expression in bis zu 86% der Urothelkarzinome, weist aber auch auf eine Expression bei nicht-urothelialen Tumoren wie dem Mammakarzinom hin, was den kombinierten Einsatz mit weiteren Markern erforderlich machen kann."
+  },
+  {
+    "question": "Wie viele immunhistochemische Marker sollten laut Empfehlung 4.14 (Kapitel 4.3.2) mindestens parallel eingesetzt werden, um eine reaktive Atypie des Urothels vom Carcinoma in situ abzugrenzen?",
+    "options": [
+      "Mindestens 3 Marker (aus CK20, Ki-67, p53, CK5/6, CD44).",
+      "Ein einzelner Marker reicht grundsätzlich aus.",
+      "Mindestens 10 Marker sind zwingend erforderlich.",
+      "Eine immunhistochemische Abgrenzung ist grundsätzlich nicht möglich."
+    ],
+    "correct": 0,
+    "tip": "Rein morphologisch kann eine reaktive Veränderung gerade im kleinen Biopsat von einem neoplastischen Prozess ununterscheidbar sein.",
+    "explanation": "Empfehlung 4.14 sieht vor, dass zur Abgrenzung einer reaktiven Atypie von neoplastischen Veränderungen (z. B. CIS) eine immunhistochemische Untersuchung mit mindestens 3 der Marker CK20, Ki-67, p53, CK5/6 und CD44 parallel eingesetzt werden sollte."
+  }
+]

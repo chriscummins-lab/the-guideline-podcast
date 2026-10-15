@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt Statement 7.23 (Kapitel 7.8) zur Systemtherapie bei terminaler Niereninsuffizienz?",
+    "options": [
+      "Eine terminale Niereninsuffizienz und/oder Hämodialyse ist keine Kontraindikation gegen eine Systemtherapie mit TKI, Checkpoint- oder mTOR-Inhibitoren.",
+      "Eine Hämodialyse schließt jede Systemtherapie grundsätzlich aus.",
+      "Nur Checkpointinhibitoren dürfen bei Hämodialyse eingesetzt werden.",
+      "Bei Hämodialyse ist ausschließlich eine Dosisreduktion auf 10 % der Standarddosis zulässig."
+    ],
+    "correct": 0,
+    "tip": "Erste Berichte zur Sicherheit stammen bereits aus dem Jahr 2008 zu Sorafenib bei chronischer Hämodialyse.",
+    "explanation": "Statement 7.23 stellt klar, dass eine terminale Niereninsuffizienz und/oder Hämodialyse keine Kontraindikation gegen eine Systemtherapie mit TKI, Checkpoint- oder mTOR-Inhibitoren darstellt."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 7.25 (Kapitel 7.9) die systemische Behandlung des metastasierten Nierenzellkarzinoms zeitnah beginnen?",
+    "options": [
+      "Bei tumorbedingter Symptomatik oder schlechter Prognose.",
+      "Nur wenn der Patient explizit danach fragt.",
+      "Erst nach Ablauf eines Jahres Beobachtungszeit.",
+      "Nur bei Patienten mit günstigem IMDC-Risiko."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt unabhängig von einem nachgewiesenen Progress, wenn Symptome oder eine ungünstige Prognose vorliegen.",
+    "explanation": "Empfehlung 7.25 fordert, dass bei tumorbedingter Symptomatik oder schlechter Prognose die Behandlung zeitnah beginnen soll."
+  },
+  {
+    "question": "Unter welcher Bedingung kann laut Empfehlung 7.26 bei asymptomatischen Patienten mit günstiger oder intermediärer Prognose die zielgerichtete Therapie erst später eingeleitet werden?",
+    "options": [
+      "Erst bei nachgewiesenem Progress und fehlender lokaler Therapieoption.",
+      "Erst nach Erreichen eines bestimmten Lebensalters.",
+      "Nur wenn eine Hämodialyse vorliegt.",
+      "Grundsätzlich nie, die Therapie muss sofort beginnen."
+    ],
+    "correct": 0,
+    "tip": "Dies betrifft gezielt Patienten ohne Symptome und mit nicht-ungünstiger Prognose.",
+    "explanation": "Empfehlung 7.26 sieht vor, dass bei asymptomatischen Patienten mit günstiger oder intermediärer Prognose die zielgerichtete Therapie erst bei nachgewiesenem Progress und fehlender lokaler Therapieoption eingeleitet werden kann."
+  },
+  {
+    "question": "Was ist bei der Entscheidung zum Therapiewechsel laut Empfehlung 7.27 bezüglich Checkpointinhibitoren besonders zu beachten?",
+    "options": [
+      "Dass es in der ersten Behandlungsphase zu einer transienten Größenzunahme des Tumors kommen kann (Pseudoprogression).",
+      "Dass Checkpointinhibitoren niemals zu einer Größenzunahme führen können.",
+      "Dass ein Wechsel bereits nach der ersten Bildgebung erfolgen muss.",
+      "Dass Checkpointinhibitoren grundsätzlich nicht gewechselt werden dürfen."
+    ],
+    "correct": 0,
+    "tip": "Ein Therapiewechsel soll erst nach dokumentiertem gesichertem Progress erfolgen – gerade deshalb ist diese Beobachtung wichtig.",
+    "explanation": "Empfehlung 7.27 weist darauf hin, dass bei Checkpointinhibitoren in der ersten Behandlungsphase eine transiente Größenzunahme auftreten kann, was bei der Entscheidung über einen Therapiewechsel zu berücksichtigen ist."
+  },
+  {
+    "question": "In welchem Intervall sollte laut Empfehlung 7.29 (Kapitel 7.9.1) eine Schnittbildgebung unter laufender Systemtherapie erfolgen?",
+    "options": [
+      "Alle 6 bis 12 Wochen, vorzugsweise mittels CT.",
+      "Nur einmal jährlich.",
+      "Täglich während der ersten Woche.",
+      "Nur bei Auftreten von Symptomen, nie planmäßig."
+    ],
+    "correct": 0,
+    "tip": "Die in den Zulassungsstudien verwendeten Intervalle lagen zwischen 4 und 12 Wochen.",
+    "explanation": "Empfehlung 7.29 sieht vor, dass unter einer laufenden Systemtherapie eine Schnittbildgebung, vorzugsweise mittels CT, alle 6 bis 12 Wochen durchgeführt werden sollte."
+  },
+  {
+    "question": "Was fordert die Empfehlung in Kapitel 13.1.3 (Empfehlungsgrad A) zur Reduzierung des Fatigue-Syndroms bei Krebspatienten?",
+    "options": [
+      "Ein sich an der individuellen Belastungsfähigkeit orientierendes Ausdauertraining im Rahmen der Bewegungstherapie.",
+      "Vollständige körperliche Schonung bis zum Ende der Systemtherapie.",
+      "Ausschließlich medikamentöse Therapie mit Stimulanzien.",
+      "Eine Reduktion der Flüssigkeitszufuhr."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung stützt sich auf die S3-Leitlinie Psychoonkologie und gilt sowohl während der Primärtherapie als auch für 'cancer survivors'.",
+    "explanation": "Kapitel 13.1.3 fordert mit Empfehlungsgrad A ein sich an der individuellen Belastungsfähigkeit orientierendes Ausdauertraining im Rahmen der Bewegungstherapie zur Reduzierung des Fatigue-Syndroms."
+  },
+  {
+    "question": "Wie häufig tritt laut Kapitel 13.1.4 ein arterieller Hypertonus unter Therapie mit aVEGF-Substanzen oder mTOR-Inhibitoren auf, und wie wird er klinisch eingeordnet?",
+    "options": [
+      "Bei 17-40 % der Patienten, möglicherweise assoziiert mit besserem progressionsfreiem Überleben.",
+      "Bei unter 1 % der Patienten, ohne jede klinische Relevanz.",
+      "Bei fast 100 % der Patienten, stets mit schlechterer Prognose assoziiert.",
+      "Nur bei Patienten mit vorbestehender Niereninsuffizienz."
+    ],
+    "correct": 0,
+    "tip": "Interessanterweise wird das Auftreten dieser Nebenwirkung teils als positives prognostisches Zeichen diskutiert.",
+    "explanation": "Kapitel 13.1.4 beschreibt, dass ein arterieller Hypertonus bei 17-40 % der Patienten unter aVEGF- oder mTOR-Inhibitor-Therapie auftritt und möglicherweise mit einem besseren progressionsfreien Überleben assoziiert ist."
+  },
+  {
+    "question": "Ab welchem Wert des Gesamt-Bilirubins wird Pazopanib laut Kapitel 13.1.4 bei schwerer Leberfunktionsstörung nicht empfohlen?",
+    "options": [
+      "Mehr als das Dreifache des oberen Grenzwertes, unabhängig von den Transaminasen.",
+      "Jeder messbare Bilirubin-Anstieg über den Normwert.",
+      "Nur bei gleichzeitig erhöhten Transaminasen über das Zehnfache.",
+      "Es gibt keine Bilirubin-bezogene Einschränkung für Pazopanib."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich werden bei Pazopanib engmaschige Leberwertkontrollen in den Wochen 3, 5, 7 und 9 empfohlen.",
+    "explanation": "Kapitel 13.1.4 beschreibt, dass Pazopanib bei Patienten mit schwerer Leberfunktionsstörung (Gesamt-Bilirubin mehr als dreifach über dem oberen Grenzwert) unabhängig von den Transaminasen nicht empfohlen wird."
+  },
+  {
+    "question": "Ab welchem TSH-Wert sollte laut Kapitel 13.1.4/13.1.5 bei entsprechenden Symptomen eine Hormonsubstitution mit L-Thyroxin erfolgen?",
+    "options": [
+      "Bei Serum-TSH > 10 mU/l und Symptomen, die auf eine Hypothyreose hindeuten.",
+      "Bei jedem messbaren TSH-Anstieg über den Normwert, auch ohne Symptome.",
+      "Erst wenn eine manifeste Myxödemkoma vorliegt.",
+      "TSH-Werte werden bei TKI-Therapie generell nicht kontrolliert."
+    ],
+    "correct": 0,
+    "tip": "Empfohlen wird eine Kontrolle des Serum-TSH am Tag 1 der ersten 4 Zyklen und anschließend alle 2-3 Zyklen.",
+    "explanation": "Kapitel 13.1.4/13.1.5 beschreibt, dass bei TSH-Spiegeln über 10 mU/l und auf Hypothyreose hindeutenden Symptomen eine Hormonsubstitution mit L-Thyroxin in üblichen Dosierungen erfolgen sollte."
+  },
+  {
+    "question": "Wie häufig treten laut Kapitel 13.1.4 Blutbildveränderungen unter TKI-Therapie insgesamt auf, und wie häufig erreichen sie Grad 3/4 mit Notwendigkeit einer Therapiepause?",
+    "options": [
+      "Bis zu zwei Drittel der Patienten insgesamt betroffen, aber nur etwa 10 % mit Grad 3/4-Veränderungen.",
+      "Nahezu alle Patienten entwickeln Grad 3/4-Veränderungen.",
+      "Blutbildveränderungen treten unter TKI praktisch nie auf.",
+      "Nur 1 % der Patienten zeigen überhaupt Blutbildveränderungen."
+    ],
+    "correct": 0,
+    "tip": "Die Veränderungen sind typischerweise reversibel und selten dosislimitierend.",
+    "explanation": "Kapitel 13.1.4 beschreibt, dass Blutbildveränderungen unter TKI-Therapie bei bis zu zwei Dritteln der Patienten auftreten, jedoch nur bei etwa 10 % Grad 3 oder 4 erreichen und dann eine Therapiepause notwendig machen können."
+  }
+]

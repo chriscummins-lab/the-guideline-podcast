@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt Empfehlung 7.14 (Kapitel 7.4) zur präoperativen orthograden Darmreinigung vor Zystektomie mit Dünndarm-Harnableitung?",
+    "options": [
+      "Darauf kann ohne Kompromittierung der perioperativen Morbidität verzichtet werden.",
+      "Sie ist zwingend über mindestens 5 Tage präoperativ durchzuführen.",
+      "Sie verringert nachweislich die Mortalität signifikant.",
+      "Sie ist bei jeder Form der Harnableitung obligat."
+    ],
+    "correct": 0,
+    "tip": "Die zugrunde liegenden Studien zeigten keinen signifikanten Unterschied in Wundinfektionen, paralytischem Ileus oder Mortalität.",
+    "explanation": "Empfehlung 7.14 sieht vor, dass auf die präoperative orthograde Darmreinigung ohne Kompromittierung der perioperativen Morbidität verzichtet werden kann, sofern Dünndarm für die Harnableitung verwendet werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.17 (Empfehlungsgrad A) bezüglich der routinemäßigen postoperativen parenteralen Ernährung nach radikaler Zystektomie?",
+    "options": [
+      "Darauf soll verzichtet werden.",
+      "Sie soll bei jedem Patienten routinemäßig für mindestens 5 Tage erfolgen.",
+      "Sie ist Voraussetzung für eine frühzeitige Mobilisation.",
+      "Sie reduziert nachweislich die Infektionsrate."
+    ],
+    "correct": 0,
+    "tip": "Eine Studie zeigte für die parenterale Ernährung sogar eine erhöhte Infektionsrate durch den zentralvenösen Katheter.",
+    "explanation": "Empfehlung 7.17 fordert mit Empfehlungsgrad A, dass auf die routinemäßige postoperative parenterale Ernährung verzichtet werden soll."
+  },
+  {
+    "question": "Welchen Effekt zeigte laut Statement 7.18 das Kaugummikauen nach radikaler Zystektomie?",
+    "options": [
+      "Es verkürzt die Zeit bis zum Wiedereinsetzen der Darmtätigkeit.",
+      "Es verlängert die Zeit bis zum Wiedereinsetzen der Darmtätigkeit.",
+      "Es hat keinerlei Einfluss auf die Darmfunktion.",
+      "Es erhöht das Risiko einer Anastomoseninsuffizienz."
+    ],
+    "correct": 0,
+    "tip": "Dieser Effekt zeigte sich sowohl nach offener als auch nach roboterassistierter Zystektomie.",
+    "explanation": "Statement 7.18 beschreibt, dass das Kauen von Kaugummi nach radikaler Zystektomie die Zeit bis zum Wiedereinsetzen der Darmtätigkeit verkürzt."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.22 (Kapitel 7.5, Empfehlungsgrad A) bei einem invasiven Harnblasenkarzinom im Rahmen der radikalen Zystektomie?",
+    "options": [
+      "Eine zeitgleiche beidseitige pelvine Lymphadenektomie soll erfolgen.",
+      "Eine Lymphadenektomie ist generell nicht indiziert.",
+      "Eine Lymphadenektomie soll nur bei klinisch auffälligen Lymphknoten erfolgen.",
+      "Eine einseitige Lymphadenektomie ist ausreichend."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert auf der Evidenz, dass eine pelvine Lymphadenektomie das progressionsfreie, tumorspezifische und Gesamtüberleben verbessern kann.",
+    "explanation": "Empfehlung 7.22 fordert, dass bei einem invasiven Harnblasenkarzinom im Rahmen der radikalen Zystektomie zeitgleich eine beidseitige pelvine Lymphadenektomie erfolgen soll."
+  },
+  {
+    "question": "Wie viele Lymphknoten umfasst laut Statement 7.23 eine suffiziente beidseitige pelvine Lymphadenektomie mindestens?",
+    "options": [
+      "Mindestens 10-16 Lymphknoten.",
+      "Mindestens 1-2 Lymphknoten.",
+      "Mindestens 100 Lymphknoten.",
+      "Eine Mindestanzahl ist nicht definierbar."
+    ],
+    "correct": 0,
+    "tip": "Diese Zahl bezieht sich auf die Entnahme und Beurteilung im Rahmen der beidseitigen Lymphadenektomie.",
+    "explanation": "Statement 7.23 beschreibt, dass eine suffiziente beidseitige pelvine Lymphadenektomie die Entnahme und Beurteilung von mindestens 10-16 Lymphknoten umfasst."
+  },
+  {
+    "question": "Welche zwei unabhängigen Risikofaktoren für einen gleichzeitigen Tumorbefall der Urethra bei Frauen nennen die Statements 7.24 und 7.25 (Kapitel 7.6.1)?",
+    "options": [
+      "Tumorbefall des Blasenhalses und Tumorbefall der Vaginalvorderwand.",
+      "Ausschließlich das Alter der Patientin.",
+      "Ausschließlich die Tumorgröße des Primärtumors.",
+      "Ausschließlich die Anzahl vorheriger Schwangerschaften."
+    ],
+    "correct": 0,
+    "tip": "Beide Faktoren sind in der Leitlinie als unabhängige Risikofaktoren mit Evidenzlevel 3 ausgewiesen.",
+    "explanation": "Statement 7.24 nennt den Tumorbefall des Blasenhalses und Statement 7.25 den Tumorbefall der Vaginalvorderwand als unabhängige Risikofaktoren für das gleichzeitige Vorliegen eines Urethrabefalls bei Frauen."
+  },
+  {
+    "question": "Was soll laut Empfehlungen 7.28 und 7.29 bei Frauen mit geplantem orthotopem Blasenersatz intraoperativ erfolgen, und welche Konsequenz hat ein positiver Befund?",
+    "options": [
+      "Ein Schnellschnitt des Urethraabsetzungsrandes soll durchgeführt werden; bei Tumornachweis soll eine Urethrektomie erfolgen.",
+      "Es ist keine intraoperative Schnellschnittuntersuchung notwendig.",
+      "Ein Schnellschnitt soll nur bei bereits präoperativ bekanntem Urethrabefall erfolgen.",
+      "Bei positivem Schnellschnitt wird die Operation ohne weitere Konsequenz fortgesetzt."
+    ],
+    "correct": 0,
+    "tip": "Die Sensitivität dieser Schnellschnittuntersuchung bei der Frau liegt laut Leitlinie bei 97-100%.",
+    "explanation": "Empfehlung 7.28 fordert bei geplantem orthotopem Blasenersatz einen intraoperativen Schnellschnitt des Urethraabsetzungsrandes; Empfehlung 7.29 fordert bei Tumornachweis im Schnellschnitt eine Urethrektomie."
+  },
+  {
+    "question": "Wie häufig ist laut Statement 7.30 das isolierte Harnröhrenrezidiv bei entsprechender Selektion von Frauen zur Anlage eines orthotopen Blasenersatzes?",
+    "options": [
+      "Selten, mit unter 2%.",
+      "Sehr häufig, mit über 50%.",
+      "Bei praktisch jeder Patientin (nahezu 100%).",
+      "Ein isoliertes Harnröhrenrezidiv wurde bei Frauen nie beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich hat der orthotope Blasenersatz bei der Frau laut Statement 7.31 keinen negativen Einfluss auf das onkologische Ergebnis.",
+    "explanation": "Statement 7.30 beschreibt, dass bei entsprechender Selektion der Frauen zur Anlage eines orthotopen Blasenersatzes das isolierte Harnröhrenrezidiv mit unter 2% selten ist."
+  },
+  {
+    "question": "Welcher Faktor stellt laut Statement 7.32 (Kapitel 7.6.2) bei Männern den größten Risikofaktor für ein Harnröhrenrezidiv dar, und wie hoch ist das Risiko bei Nachweis im Prostatastroma?",
+    "options": [
+      "Die Stromainvasion der Prostata, mit einem Harnröhrenrezidivrisiko von 18-67%.",
+      "Das Patientenalter, mit einem Risiko von unter 1%.",
+      "Die Tumorgröße der Blase, unabhängig von der Prostatabeteiligung.",
+      "Es existiert laut Leitlinie kein identifizierbarer Hauptrisikofaktor."
+    ],
+    "correct": 0,
+    "tip": "Weitere Risikofaktoren sind die Multifokalität des Tumors und die Art der Harnableitung.",
+    "explanation": "Statement 7.32 identifiziert die Stromainvasion der Prostata als größten Risikofaktor für ein Harnröhrenrezidiv bei Männern, wobei 18-67% der Patienten mit Nachweis im Prostatastroma ein Harnröhrenrezidiv entwickeln."
+  },
+  {
+    "question": "Ist ein Carcinoma in situ der Harnblase laut Statement 7.34 eine Indikation zur Urethrektomie?",
+    "options": [
+      "Nein, ein Carcinoma in situ in der Harnblase ist keine Indikation zur Urethrektomie.",
+      "Ja, ein CIS der Harnblase macht eine Urethrektomie in jedem Fall zwingend notwendig.",
+      "Ja, aber nur wenn das CIS multifokal auftritt.",
+      "Diese Frage wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Diese Aussage gilt unabhängig vom Geschlecht des Patienten.",
+    "explanation": "Statement 7.34 stellt klar, dass ein Carcinoma in situ in der Harnblase keine Indikation zur Urethrektomie darstellt."
+  }
+]

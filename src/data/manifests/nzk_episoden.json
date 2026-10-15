@@ -1,0 +1,196 @@
+{
+  "guideline": "S3-Leitlinie Diagnostik, Therapie und Nachsorge des Nierenzellkarzinoms – AWMF 043-017OL, Langversion 5.0, September 2024",
+  "glCode": "NZK",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "NZK_F01_EpidemiologieBildgebung",
+      "titel": "Neuerungen, Risikofaktoren & Bildgebung",
+      "kapitel": [
+        "Neuerungen",
+        "2",
+        "3",
+        "4.1.1"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 1 – Neuerungen der Version 5.0, Risikofaktoren & Bildgebung des Nierentumors\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf die „Wesentlichen Neuerungen“, Kapitel 2 (Einführung, Methodik), Kapitel 3 (Epidemiologie, Risikofaktoren und Prävention, Statements 3.1–3.3) und Kapitel 4.1.1 (Bildgebung, Empfehlungen 4.1–4.2) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Neuerungen der Version 5.0 im Schnelldurchlauf: neues Kapitel 11 zu erblichen Tumoren, Auslagerung der erblichen Formen aus Kapitel 3 und 10, Ergänzung zur Lebensqualität bei den Erstlinien-Kombinationen, 2024 modifizierte Empfehlungen (u. a. 4.9 WHO-Klassifikation, 9.7 konsolidierendes Pembrolizumab).\n- Methodik kurz: Empfehlungsgrade A/B/0 („soll/sollte/kann“), Level of Evidence, Expertenkonsens (EK), Konsensstärke.\n- Modifizierbare Risikofaktoren: Rauchen, Übergewicht und Hypertonie (Statement 3.1); gute Blutdruckeinstellung kann das Risiko senken (Statement 3.2); Ernährung und antihypertensive Medikation als Diskussionspunkte.\n- Sehr hohe berufliche Trichlorethen-Exposition als Risikofaktor und mögliche Berufskrankheit (Statement 3.3) – Anamnese und Meldung.\n- Bildgebung: Standard-CT nativ plus früharterielle und venöse Phase von Leberkuppe bis Symphyse nach einheitlichen Standards zum lokalen Staging und zur Resektionsplanung (Empf. 4.1, Grad A).\n- MRT bei Verdacht auf Venen- oder Cavabeteiligung (Empf. 4.2, Grad B); Stellenwert von Sonographie und Kontrastmittel-Sonographie als Zuweisungsbefund.\n- Verweis: erbliche Nierentumoren folgen in Episode 12.\nFormat & Moderation:\n- Zwei urologische Kollegen besprechen am Befundungsmonitor einen 58-jährigen Raucher mit Adipositas und Hypertonie, bei dem sonographisch ein 4-cm-Nierentumor als Zufallsbefund aufgefallen ist.\n- Kollegial, präzise, mit feinem ärztlichem Humor. Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: einphasiges Staging-CT „aus der Notaufnahme“ als OP-Planungsgrundlage verwenden.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 2,
+      "stem": "NZK_F02_BiopsiePathologieStaging",
+      "titel": "Biopsie, Pathologie & Ausbreitungsdiagnostik",
+      "kapitel": [
+        "4.1.2",
+        "4.1.3",
+        "4.1.4"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 2 – Nierentumorbiopsie, Pathologie & Ausbreitungsdiagnostik\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.1.2 (Biopsie, Empfehlungen 4.3–4.8), Kapitel 4.1.3 (Pathologie, Empfehlungen 4.9–4.13) und Kapitel 4.1.4 (Ausbreitungsdiagnostik, Empfehlungen 4.14–4.16) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Biopsie nur, wenn sie die Therapiewahl beeinflusst (Empf. 4.3); obligat vor ablativer Therapie (Empf. 4.4); zystische Raumforderungen nicht biopsieren (Empf. 4.5).\n- Vor Systemtherapie histologische Sicherung von Primarius oder Metastase inkl. Subtyp (Empf. 4.6); optional vor zytoreduktiver Nephrektomie (Empf. 4.7).\n- Technik: Stanzzylinderbiopsie, mindestens 2 Biopsien unter Ultraschall- oder CT-Kontrolle (Empf. 4.8); Treffsicherheit, nicht-diagnostische Biopsien, Komplikationen, Stichkanalmetastasen laut Hintergrundtext.\n- Pathologie: aktuelle WHO-Klassifikation (Empf. 4.9, modifiziert 2024), aktuelle TNM-Klassifikation, WHO/ISUP-Grading beim klarzelligen und papillären NZK plus Anteil Tumornekrose (Empf. 4.10).\n- Kein Grading beim chromophoben NZK (Empf. 4.11); papilläres NZK Typ 1/Typ 2 (Empf. 4.12); sarkomatoide/rhabdoide Differenzierung immer angeben (Empf. 4.13) – Bedeutung für die Prognose und die Systemtherapie.\n- Ausbreitungsdiagnostik: Thorax-CT bei malignen Tumoren > 3 cm (Empf. 4.14); bei Verdacht auf Knochenmetastasen Low-Dose-Ganzkörper-CT oder MRT statt Skelettszintigraphie (Empf. 4.15); Schädel-MRT mit Kontrastmittel bei Verdacht auf Hirnmetastasen (Empf. 4.16).\nFormat & Moderation:\n- Ein urologischer Assistenzarzt und eine Pathologin diskutieren drei Fälle: kleiner solider Tumor vor geplanter Kryoablation, Bosniak-Zyste und ein metastasierter Patient ohne Histologie.\n- Interdisziplinär, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: die komplexe Zyste „zur Sicherheit“ punktieren – und Systemtherapie ohne histologische Sicherung starten.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 3,
+      "stem": "NZK_F03_PrognoseScores",
+      "titel": "Prognosefaktoren, Scores & Nomogramme",
+      "kapitel": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 3 – Prognosefaktoren, Scores & Nomogramme – von Leibovich bis IMDC\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.2–4.7 (Prognosemarker und -scores, Nomogramme, prä- und postoperative Modelle, Modelle vor systemischer Therapie, weitere Risikomodelle; Statements 4.17–4.20) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Klinische Prognosefaktoren: Performance Status, Zeitpunkt und Ort der Metastasierung, Symptome, Hb, Thrombozyten, Neutrophile, LDH (Statement 4.17).\n- Validierte multifaktorielle Modelle sind präziser als einzelne Tumormerkmale (Statement 4.18); Einsatz in der Beratung unter Beachtung der validierten Präzision (Statement 4.19).\n- Präoperative Modelle (Cindolo, Yaycioglu, Karakiewicz) vs. postoperative Modelle (UISS, SSIGN, Leibovich, Kattan, Sorbellini) – wofür welches Modell, Bedeutung für Nachsorge und adjuvante Therapie.\n- Modelle vor Systemtherapie: MSKCC und IMDC; IMDC-Risikofaktoren (Hb unter Norm, korrigiertes Kalzium über Norm, Karnofsky < 80 %, Neutrophile und Thrombozyten über Norm, ≤ 12 Monate von Diagnose bis Systemtherapie) und Gruppen günstig (0), intermediär (1–2), ungünstig (≥ 3).\n- Weitere Modelle (CCF, French model, Sunitinib-Modell, Leibovich vor Immuntherapie) kurz einordnen.\n- Molekulare Marker: keine ausreichende Evidenz zur Prognosebewertung (Statement 4.20).\nFormat & Moderation:\n- Vorbereitung der Tumorkonferenz: zwei Kollegen berechnen für einen Patienten mit synchronen Lungenmetastasen den IMDC-Score und für einen frisch Nephrektomierten (pT3a G3) den Leibovich-Score.\n- Strukturiert, anschaulich, mit feinem ärztlichem Humor – Scores Schritt für Schritt „durchrechnen“.\n- Diskutiert den Fallstrick: das Zeitkriterium „Diagnose bis Systemtherapie ≤ 12 Monate“ im IMDC vergessen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 4,
+      "stem": "NZK_F04_KleinerNierentumorASAblation",
+      "titel": "Kleiner Nierentumor – Active Surveillance & Ablation",
+      "kapitel": [
+        "5"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 4 – Der kleine Nierentumor: Active Surveillance & ablative Verfahren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5 (Therapie des nicht metastasierten Nierenzellkarzinoms: 5.1 Aktive Überwachung, 5.2 Fokale Therapie, Empfehlungen 5.1–5.5) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Definition kleiner Nierentumor (≤ 4 cm), natürlicher Verlauf, Wachstumsraten aus den Kohorten des Hintergrundtextes; Tumorgröße und Wachstumsrate als Beurteilungsparameter.\n- Keine objektiven Selektionskriterien und keine einheitliche Definition der Aktiven Überwachung (Statement 5.1).\n- AS bei hoher Komorbidität und/oder begrenzter Lebenserwartung (Empf. 5.2, Grad 0); Biopsie vor AS (Empf. 5.3).\n- Kryoablation und Radiofrequenzablation bei kleinen Tumoren und hoher Komorbidität/begrenzter Lebenserwartung (Empf. 5.4, Grad 0); perkutane Biopsie vor Ablation obligat (Empf. 5.5, Grad A).\n- Vergleich Ablation vs. Teilresektion: Lokalrezidivraten, Re-Ablation, Komplikationen, Nierenfunktion; Abgrenzung AS vs. Watchful Waiting.\n- Aufklärung und partizipative Entscheidungsfindung.\nFormat & Moderation:\n- Sprechstunde: eine 81-jährige Patientin mit Herzinsuffizienz und 2,5-cm-Nierentumor, danach ein 49-jähriger Sportler mit 2-cm-Tumor, der „nur veröden“ will.\n- Empathisch, evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Ablation ohne vorherige Histologie – und AS beim jungen, gesunden Patienten als Dauerlösung.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 5,
+      "stem": "NZK_F05_TeilresektionNephrektomie",
+      "titel": "Nierenteilresektion & Nephrektomie – Zugang & Ischämie",
+      "kapitel": [
+        "6.1",
+        "6.2"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 5 – Nierenteilresektion & Nephrektomie: Indikation, Zugangswege & Ischämie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.1 (Offene oder laparoskopische/robotergestützte Operation bei Teil-/Totalnephrektomie, Empfehlungen 6.1–6.8) und Kapitel 6.2 (Warm- oder Kaltischämie, Empfehlung 6.9) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Kurative chirurgische Resektion beim lokalisierten NZK (Empf. 6.1, Grad A).\n- cT1 soll nierenerhaltend operiert werden (Empf. 6.2, Grad A); > T1 sollte, wenn technisch möglich, nierenerhaltend operiert werden (Empf. 6.3, Grad B) – Begründung über Nierenfunktion und kardiovaskuläres Risiko.\n- Zugangsweg für die Teilresektion nach Erfahrung des Operateurs (Empf. 6.4); robotische vs. offene Teilresektion: weniger Komplikationen, kürzere Liegedauer, vergleichbare funktionelle und onkologische Ergebnisse (Statement 6.5).\n- Nephrektomie, wenn Organerhalt nicht möglich (Empf. 6.6), minimal-invasiv abhängig vom Lokalbefund (Empf. 6.7); robotisch der Laparoskopie nicht überlegen, aber teurer (Statement 6.8).\n- Ischämie: so kurz wie möglich (Empf. 6.9); warme vs. kalte Ischämie, Zero-Ischemia-Techniken, Datenlage aus experimentellen und retrospektiven Studien.\n- Komplexität des Tumors und Nephrometrie-Scores als Planungshilfe laut Hintergrundtext.\nFormat & Moderation:\n- OP-Planung: ein Oberarzt und eine Assistenzärztin besprechen einen 5-cm-Tumor mit zentralem Anteil und einen 9-cm-Tumor bei Einzelniere.\n- Fachlich detailliert, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Lieber gleich die ganze Niere raus, ist onkologisch sicherer“ beim cT1b-Tumor.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 6,
+      "stem": "NZK_F06_PerioperativLADAdjuvanz",
+      "titel": "Lymphadenektomie, Adrenalektomie, R1 & (neo-)adjuvante Therapie",
+      "kapitel": [
+        "6.3",
+        "6.4",
+        "6.5",
+        "9"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 6 – Perioperativ: Lymphadenektomie, Adrenalektomie, R1-Befund & neoadjuvante/adjuvante Therapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.3 (Lymphadenektomie, Empf. 6.10–6.11), 6.4 (Adrenalektomie, Empf. 6.12), 6.5 (R1-Befunde, Empf. 6.13–6.17) und Kapitel 9 (Neoadjuvante und adjuvante Therapie, Empf. 9.1–9.7) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Keine systematische/extendierte Lymphadenektomie bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund (Empf. 6.10, Grad A); bei vergrößerten Lymphknoten möglich zum Staging und zur lokalen Kontrolle (Empf. 6.11).\n- Keine Adrenalektomie bei unauffälliger Bildgebung und unauffälligem Situs (Empf. 6.12, Grad A).\n- R0-Resektion als Ziel (Empf. 6.13); R1 ohne nachgewiesenen Einfluss auf das tumorspezifische Überleben (Statement 6.14), aber erhöhtes Lokalrezidivrisiko (Statement 6.15); Überwachung statt Nachoperation (Empf. 6.16); Schnellschnitt verzichtbar (Empf. 6.17).\n- Keine neoadjuvante Therapie in der nicht-metastasierten Situation (Empf. 9.1), nur in Studien (Empf. 9.3); Volumenreduktion von Tumor oder Cava-Thrombus klinisch nicht relevant (Statement 9.2).\n- Adjuvant: keine postoperative Strahlentherapie (Empf. 9.4) und keine VEGFR-TKI (Empf. 9.5); Pembrolizumab beim klarzelligen NZK mit intermediär-hohem und hohem Risiko wie in der Studie definiert (Empf. 9.6, Grad B; KEYNOTE-564), Gesamtüberlebensdaten laut Leitlinie noch nicht valide.\n- Konsolidierendes Pembrolizumab bei oligometastasierten Patienten nach Resektion von Primärtumor und Metastasen mit stabiler Erkrankung (Empf. 9.7, modifiziert 2024).\n- Aufklärung über immunvermittelte Nebenwirkungen bei einer Therapie mit Rezidivrisiko statt Tumorlast.\nFormat & Moderation:\n- Visite und Tumorkonferenz: Befund pT3a pN0 G3 klarzellig, R1 an der Teilresektionsfläche; der Patient fragt nach „Nachschneiden“ und „Chemo zur Sicherheit“.\n- Kollegial, evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Re-Operation wegen mikroskopischem R1 – und adjuvante Therapie ohne Risikostratifizierung.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 7,
+      "stem": "NZK_F07_SystemtherapieErstlinie",
+      "titel": "Systemtherapie des mRCC – Erstlinie",
+      "kapitel": [
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5.1",
+        "7.6.1",
+        "7.7"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 7 – Systemtherapie des metastasierten klarzelligen NZK – die Erstlinie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.1–7.4 (Einleitung, Chemo-, Zytokin- und Chemoimmuntherapie), 7.5.1 (Erstlinientherapie, Empfehlungen 7.1–7.10), 7.6.1 (Hintergrund Erstlinie) und 7.7 (Flowchart) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Was nicht mehr gemacht wird: keine palliative Chemotherapie (Empf. 7.1), keine Zytokintherapie mit subkutanem IL-2 und/oder IFN (Empf. 7.2), keine Chemoimmuntherapie (Empf. 7.3).\n- Studienkollektive mit unterschiedlichen Risikogruppen sind nicht direkt vergleichbar (Statement 7.4); Auswahl nach IMDC-Risiko und patientenindividuellen Faktoren (Empf. 7.5).\n- Standard für alle Risikogruppen: Nivolumab + Cabozantinib, Pembrolizumab + Axitinib oder Pembrolizumab + Lenvatinib (Empf. 7.6, Grad A); Avelumab + Axitinib als Alternative (Empf. 7.7, Grad B).\n- Intermediäres und ungünstiges Risiko: Ipilimumab + Nivolumab (Empf. 7.8, Grad A); IO/IO vs. IO/TKI – Ansprechrate, Progressionsrate, Toxizitätsprofil, Lebensqualität (Neuerung im Hintergrundtext).\n- Wenn keine Checkpointinhibitor-Kombination möglich: Monotherapie nach Risiko – günstig Pazopanib, Sunitinib oder Tivozanib; intermediär Cabozantinib, Pazopanib, Sunitinib oder Tivozanib; ungünstig Cabozantinib oder Sunitinib (Empf. 7.9, Grad A); Pazopanib oder Temsirolimus individuell bei ungünstigem Risiko (Empf. 7.10).\n- Flowchart der Leitlinie (Kapitel 7.7) als roter Faden; Zulassungsstatus klar benennen.\nFormat & Moderation:\n- Onkologische Ambulanz: ein 63-Jähriger mit synchronen Lungen- und Knochenmetastasen (IMDC intermediär, 2 Risikofaktoren) und eine 77-Jährige mit Autoimmunthyreoiditis und Kolitis in der Anamnese.\n- Fachlich anspruchsvoll, kollegial, mit feinem ärztlichem Humor; Studien- und Substanznamen präzise, keine Dosierungen erfinden.\n- Diskutiert den Fallstrick: Sunitinib-Monotherapie „wie früher“ beim fitten Patienten ohne Kontraindikation gegen Immuntherapie.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 8,
+      "stem": "NZK_F08_SystemtherapieFolgelinien",
+      "titel": "Folge- & Drittlinientherapie, Langzeitkontrolle unter ICI",
+      "kapitel": [
+        "7.5.2",
+        "7.5.3",
+        "7.5.4",
+        "7.5.5",
+        "7.5.6",
+        "7.6.2",
+        "7.6.3"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 8 – Systemtherapie des mRCC – Zweit- und Drittlinie & Langzeitkontrolle nach Checkpointinhibitoren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.5.2–7.5.6 (Folgetherapien und Langzeitkontrolle, Empfehlungen 7.11–7.22), 7.6.2 (Hintergrund Folgetherapie) und 7.6.3 (Evidenz der eingesetzten Medikamente) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Nach alleiniger VEGF/R-Therapie: Cabozantinib oder Nivolumab ohne festgelegte Sequenz (Empf. 7.11, Grad A); Lenvatinib + Everolimus (Empf. 7.12, Grad B); alternativ anderer TKI (Empf. 7.13, Grad 0).\n- Nach Checkpointinhibitor-basierter Erstlinie kein etablierter Standard (Statement 7.14); nach Ipilimumab + Nivolumab TKI-basiert, wobei nur Sunitinib zulassungskonform ist (Empf. 7.15); nach IO/TKI-Kombination TKI-basiert, zulassungskonform Sunitinib, Cabozantinib, Lenvatinib + Everolimus (Empf. 7.16).\n- Nach mTOR-Inhibitor: TKI oder Nivolumab (Statement 7.17, Empf. 7.18).\n- Drittlinie ohne Standard (Statement 7.19); Vortherapien berücksichtigen, nicht verwendete Substanzen wählen (Empf. 7.20, 7.21).\n- Langzeitkontrolle: auch nach Therapieende auf immunvermittelte Nebenwirkungen achten und schweregradabhängig behandeln (Empf. 7.22, Grad A).\n- Substanzprofile aus Kapitel 7.6.3 im Überblick: Wirkmechanismus (VEGFR-TKI, MET/AXL, mTOR, PD-1/PD-L1, CTLA-4) und typische Toxizitäten.\nFormat & Moderation:\n- Tumorboard-Vorbereitung: Therapiesequenz für einen Patienten mit Progress nach Pembrolizumab + Axitinib und für einen Patienten nach Ipilimumab + Nivolumab.\n- Hohes Niveau, kollegial, mit feinem ärztlichem Humor; Zulassungsstatus und Off-Label-Situationen klar benennen.\n- Diskutiert den Fallstrick: nach Versagen einer IO-Kombination erneut auf Checkpointinhibitor setzen – und die Hypophysitis Monate nach Therapieende übersehen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 9,
+      "stem": "NZK_F09_TherapiemanagementNebenwirkungen",
+      "titel": "Therapiesteuerung, Bildgebung & Nebenwirkungsmanagement",
+      "kapitel": [
+        "7.8",
+        "7.9",
+        "13.1.3",
+        "13.1.4",
+        "13.1.5"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 9 – Therapiesteuerung unter Systemtherapie & Nebenwirkungsmanagement\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.8 (Terminale Niereninsuffizienz, Statement 7.23), 7.9 (Beginn, Dauer und Wechsel der Systemtherapie, Empfehlungen 7.24–7.31) sowie Kapitel 13.1.3–13.1.5 (Prophylaxe und Management therapiebedingter Nebenwirkungen inkl. Checkpointinhibitortherapie, Empfehlung 13.4) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Terminale Niereninsuffizienz/Dialyse ist keine Kontraindikation für TKI, Checkpoint- oder mTOR-Inhibitoren (Statement 7.23).\n- Auswahl nach Effektivität, Toxizität und Komorbidität (Empf. 7.24); zeitnaher Beginn bei Symptomen oder schlechter Prognose (Empf. 7.25); bei asymptomatischen Patienten mit günstiger/intermediärer Prognose Start erst bei Progress möglich (Empf. 7.26).\n- Therapiewechsel erst bei gesichertem Progress oder nicht tolerablen Nebenwirkungen; Pseudoprogression unter Checkpointinhibitoren (Empf. 7.27); Bestätigung des Progresses bei gutem Zustand (Empf. 7.28).\n- Schnittbildgebung, bevorzugt CT, alle 6–12 Wochen (Empf. 7.29); Therapiepause: Einfluss auf die Prognose unklar (Statement 7.30), Aufklärung und engmaschige Überwachung (Statement 7.31).\n- Nebenwirkungsmanagement der TKI (z. B. Hypertonie, Hand-Fuß-Syndrom, Diarrhö, Hypothyreose) und der Checkpointinhibitoren (immunvermittelte Kolitis, Hepatitis, Endokrinopathien, Pneumonitis) gemäß Kapitel 13.1.4 und 13.1.5.\n- Ausdauertraining gegen Fatigue (Empf. 13.4, Grad A).\nFormat & Moderation:\n- Ambulanz-Nachmittag: eine Assistenzärztin und ein Onkologe sehen einen Patienten unter Pembrolizumab + Axitinib mit Diarrhö Grad 2, neu erhöhtem Blutdruck und einem CT mit leichter Größenzunahme.\n- Praxisnah, präzise, mit feinem ärztlichem Humor; keine Dosierungen erfinden.\n- Diskutiert den Fallstrick: Durchfall unter Kombinationstherapie reflexhaft dem TKI zuschreiben – und die Therapie nach dem ersten CT wegen „Progress“ umstellen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 10,
+      "stem": "NZK_F10_LokaleMetastasentherapie",
+      "titel": "Lokale Metastasentherapie & zytoreduktive Nephrektomie",
+      "kapitel": [
+        "8"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 10 – Lokale Metastasentherapie: zytoreduktive Nephrektomie, Metastasenchirurgie & Stereotaxie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8 (Lokale Metastasentherapie, Empfehlungen 8.1–8.14 inkl. 8.3.1–8.3.5) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Interdisziplinäre Diskussion beim Auftreten von Metastasen (Empf. 8.1).\n- Synchrone Metastasierung mit ECOG 0–1: Entfernung des Primärtumors (Empf. 8.2, Grad B) – Einordnung im Zeitalter der Immunkombinationen.\n- Metachrone solitäre Metastasen lokal therapieren, bei kurativer Intention und kompletter Resektabilität Operation erwägen (Empf. 8.3, 8.4) – inkl. Sondervotum von DEGRO und BVDST: Stereotaxie/Radiochirurgie als gleichwertige kurativ intendierte Alternative.\n- Oligometastasierung ohne Resektabilität: hochdosierte Radiotherapie oder Stereotaxie mit individueller Nutzen-Morbiditäts-Abwägung (Empf. 8.5); mehrere metachrone Metastasen in einem Organsystem (Empf. 8.6); mehrere Organsysteme: Stellenwert unklar (Statement 8.7).\n- Lungenmetastasen: Resektion mit systematischer Lymphknotendissektion (Empf. 8.8), offen mit Palpation (Empf. 8.9), VATS nur bei kleinen singulären Herden oder diagnostisch (Empf. 8.10), sekundäre Resektion nach Systemtherapie bei erwarteter R0 (Empf. 8.11).\n- Knochen-, Leber- und Pankreasmetastasen (8.3.2, 8.3.4, 8.3.5); Hirnmetastasen: Stereotaxie prüfen (Empf. 8.12), Radiochirurgie ohne anschließende Ganzhirnbestrahlung bei limitierter Metastasierung (Empf. 8.13).\n- Perioperative Systemtherapie bei Metastasenchirurgie ohne randomisierte Daten (Statement 8.14).\nFormat & Moderation:\n- Tumorkonferenz mit Urologe, Thoraxchirurgin und Strahlentherapeut: drei Patienten – synchron metastasiert mit ECOG 0, solitäre Lungenmetastase 4 Jahre nach Nephrektomie, zwei Hirnmetastasen.\n- Kontrovers, aber fair und evidenzbasiert; die Sicht der Strahlentherapie zum Sondervotum ausdrücklich zu Wort kommen lassen; feiner ärztlicher Humor.\n- Diskutiert den Fallstrick: zytoreduktive Nephrektomie beim Patienten mit ungünstigem Risiko und hoher Tumorlast „weil die Leitlinie das sagt“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 11,
+      "stem": "NZK_F11_NichtKlarzelligeNZK",
+      "titel": "Nicht-klarzellige Nierenzellkarzinome",
+      "kapitel": [
+        "10"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 11 – Nicht-klarzellige Nierenzellkarzinome: papillär, chromophob & sarkomatoid\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10 (Nicht-klarzellige Nierenzellkarzinome: 10.1 Pathologie, 10.2 Therapie, Empfehlungen 10.1–10.10) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Klassifikation nach aktueller WHO (Empf. 10.1), bei Bedarf mit Immunhistochemie und Molekularpathologie (Empf. 10.2); Überblick über die wichtigsten Subtypen (papillär, chromophob, Sammelrohr-, Translokations-, FH-defizientes NZK).\n- Diagnostik, Operation und Nachsorge wie beim klarzelligen NZK (Empf. 10.3); keine entitätsbezogenen Standards (Statement 10.4).\n- Metastasiert: keine alleinige Zytokintherapie (Empf. 10.5); IO/IO- oder IO/TKI-Kombination analog zum klarzelligen NZK (Empf. 10.6, Grad A).\n- Monotherapie: TKI, bevorzugt Sunitinib (Empf. 10.7); mTOR-Inhibitoren beim chromophoben NZK als Alternative (Empf. 10.8); TKI generell möglich (Empf. 10.9).\n- Sarkomatoide Anteile: analog klarzellig mit IO-Kombination behandeln (Empf. 10.10) – warum gerade hier Checkpointinhibitoren gut wirken.\n- Studienlage: kleine Kollektive, Basket-Studien, Studieneinschluss anbieten.\nFormat & Moderation:\n- Ein urologischer Assistenzarzt und eine Pathologin besprechen den Befund „papilläres NZK, metastasiert“ und einen chromophoben Tumor mit sarkomatoider Komponente.\n- Interdisziplinär, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Nicht-klarzellig heißt, die Immuntherapie bringt nichts.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 12,
+      "stem": "NZK_F12_ErblicheNierentumoren",
+      "titel": "Erbliche Nierentumoren (neues Kapitel 11)",
+      "kapitel": [
+        "11"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 12 – Erbliche Nierentumoren: erkennen, testen, behandeln & Familien begleiten\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 11 (Erbliche Tumoren, neu in Version 5.0: 11.1–11.5, Empfehlungen und Statements 11.1–11.26, Tabelle 52) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Warnzeichen für erbliche Nierentumoren (Statement 11.1): Syndrommanifestationen bei Patient oder Familie, Erkrankung vor dem 47. Lebensjahr, betroffene Verwandte 1./2. Grades, bilaterale/multifokale Tumoren, pathognomonische Histologie; standardisierte Evaluation bei jeder Diagnose (Empf. 11.2).\n- Syndrome nach Tabelle 52: Von-Hippel-Lindau, hereditäres papilläres NZK (MET), Birt-Hogg-Dubé, HLRCC (FH), tuberöse Sklerose u. a. – Gene, Histologie, extrarenale Manifestationen, Lebenszeitrisiko.\n- Beratung im spezialisierten Zentrum (Empf. 11.3); genetische Beratung und Testung nach Gendiagnostikgesetz (Empf. 11.4); Rolle der Pathologie (Empf. 11.5–11.7).\n- Diagnostik über renale und extrarenale Manifestationen (Statement 11.8, 11.9); MRT zur renalen Bildgebung (Empf. 11.11); zeitlich unbegrenzte Nachsorge (Empf. 11.10).\n- Therapie nach Syndrom (Empf. 11.12): < 3 cm abwartendes Vorgehen prüfen (Empf. 11.13, Grad A), sonst organerhaltend (Empf. 11.14), fokale Therapie als Alternative (Empf. 11.15); HLRCC, SDH- und Translokations-NZK unabhängig von der Größe mit weitem Sicherheitsabstand resezieren (Empf. 11.16).\n- Tuberöse Sklerose: Angiomyolipome, mTOR-Inhibitor, Embolisation, Kinderwunsch, Nephrektomie vermeiden (Empf. 11.17–11.20).\n- Angehörige: genetische Beratung (Empf. 11.21), Betreuung im Zentrum (Empf. 11.22), prädiktive Testung bei Kindern (Empf. 11.23), Monitoring ohne genetisches Korrelat (Empf. 11.24–11.26).\nFormat & Moderation:\n- Sprechstunde: eine 34-Jährige mit bilateralen Nierentumoren und Netzhaut-Hämangioblastom in der Vorgeschichte; ihre Schwester fragt, ob sie sich testen lassen soll.\n- Empathisch, präzise, mit feinem ärztlichem Humor; Syndrome klar strukturiert.\n- Diskutiert den Fallstrick: jeden kleinen VHL-Tumor sofort operieren – und beim HLRCC wie beim kleinen sporadischen Tumor abwarten.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 13,
+      "stem": "NZK_F13_PalliativSupportiv",
+      "titel": "Palliative Radiotherapie, Supportiv- & Palliativversorgung",
+      "kapitel": [
+        "12",
+        "13.1.1",
+        "13.1.2",
+        "13.1.6",
+        "13.2"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 13 – Palliative Lokaltherapie, Knochenprotektion, Palliativversorgung & komplementäre Verfahren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 12 (Palliative Lokaltherapie, Empfehlungen 12.1–12.8) und Kapitel 13.1.1, 13.1.2, 13.1.6 sowie 13.2 (Supportive Therapie, Palliativversorgung, Komplementärmedizin; Empfehlungen 13.1–13.3 und 13.5–13.11) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Palliative Strahlentherapie bei Hirn-/Knochenmetastasen, spinaler Kompression und symptomatischen Metastasen prüfen (Empf. 12.1, Grad A); bei lokalen Beschwerden (Empf. 12.2).\n- Fraktionierung: bei kurzer Lebenserwartung Kurzzeitkonzepte (z. B. 1 × 8 Gy oder 5 × 4 Gy), bei erwartetem Überleben > 6 Monate intensiver (z. B. 10 × 3 Gy) (Empf. 12.3).\n- Stabilisierende Chirurgie bei Frakturrisiko (Empf. 12.4); spinale Kompression durch begrenzte Wirbelkörpermetastasierung: Dekompression plus Radiotherapie (Empf. 12.5); multiple Hirnmetastasen (> 4) und Ganzhirnbestrahlung (Empf. 12.6, Statements 12.7, 12.8).\n- Knochenmetastasen: Analgesie, Radiotherapie, Chirurgie (Statement 13.1); Bisphosphonate oder Denosumab mit Calcium und Vitamin D3 (Empf. 13.2), vorher zahnärztliche Sanierung (Empf. 13.3).\n- Palliativversorgung: Informationen zu Hospiz- und Palliativangeboten (Empf. 13.5), Bedarf wiederholt erfassen (Empf. 13.6), bedarfsorientiert mitbetreuen (Empf. 13.7); tumorspezifische Therapie in der Sterbephase beenden (Empf. 13.8, 13.9).\n- Komplementäre Therapie: aktiv nachfragen (Empf. 13.10), Risiken und Interaktionen ansprechen (Empf. 13.11); Akupunktur, Meditation, Homöopathie, Misteltherapie, Hyperthermie laut Leitlinie einordnen.\nFormat & Moderation:\n- Notfalldienst und Palliativkonsil: ein Patient mit mRCC, neuen Rückenschmerzen und beginnender Beinschwäche; später fragt seine Frau nach Mistelspritzen.\n- Empathisch, präzise; Humor nur behutsam. Keine Dosierungen außerhalb der Leitlinie.\n- Diskutiert den Fallstrick: bei Verdacht auf spinale Kompression erst den nächsten regulären MRT-Termin abwarten – und Denosumab ohne Zahnstatus beginnen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 14,
+      "stem": "NZK_F14_NachsorgeRehaPsychoonkologie",
+      "titel": "Rehabilitation, Nachsorge, Psychoonkologie & Qualitätsindikatoren",
+      "kapitel": [
+        "14",
+        "15",
+        "16"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 14 – Rehabilitation, risikoadaptierte Nachsorge, Psychoonkologie & Qualitätsindikatoren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 14 (Rehabilitation und Nachsorge, Empfehlungen 14.1–14.10, Tabellen 53–56), Kapitel 15 (Psychoonkologische Aspekte, Empfehlungen 15.1–15.3) und Kapitel 16 (Qualitätsindikatoren) der S3-Leitlinie Nierenzellkarzinom (AWMF 043-017OL, Version 5.0, September 2024).\nInhalte:\n- Rehabilitation: Anschlussheilbehandlung für alle nach Lokaltherapie (Empf. 14.1); weitere Maßnahmen bei fortbestehenden Beschwerden (Empf. 14.2); auch bei systemischer Erkrankung sinnvoll (Statement 14.3); multimodal (Statement 14.4), mit Psychoonkologie, Sozialberatung, Physio- und Ergotherapie (Empf. 14.5, 14.6).\n- Risikoadaptierte Nachsorge (Empf. 14.7, Statement 14.8): Risikogruppen nach Tabelle 53 – niedrig (pT1a/b cN0 cM0 G1–2), mittel (pT1a/b G3, pT2 G1–2, Ablation oder R1 eines sonst Niedrigrisiko-Tumors), hoch (pT2 G3, pT3–4 und/oder pN+).\n- Instrumente (Empf. 14.9): Klinik, Labor (Blutbild, Kreatinin, CRP/BSG, TSH vor Kontrastmittel), Sonographie, CT/MRT Abdomen und CT Thorax; Nachsorgepläne nach Tabellen 54–56 (Niedrigrisiko bis 60 Monate, mittleres und hohes Risiko bis 108 Monate).\n- Kein Stellenwert in der Routine-Nachsorge: PET/CT, Schädel-CT/MRT, Röntgen-Thorax, Knochenszintigraphie (Statement 14.10); Basis-CT/MRT 8–12 Wochen nach komplexer Teilresektion.\n- Psychoonkologie: bedarfsorientierte Information (Empf. 15.1), niederschwellige psychosoziale Angebote (Empf. 15.2), regelmäßiges Belastungsscreening (Empf. 15.3).\n- Qualitätsindikatoren (Kapitel 16) und ihre Rolle in zertifizierten Nierenkrebszentren; Abschluss der Serie: die wichtigsten Leitlinienpunkte für den Stationsalltag.\nFormat & Moderation:\n- Nachsorgesprechstunde: drei Patienten nach Teilresektion (pT1a G2), nach Kryoablation und nach Nephrektomie (pT3a G3) – zwei Kollegen ordnen die Risikogruppen zu und legen die Untersuchungen fest.\n- Empathisch und evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: PET/CT und Knochenszintigraphie „zur Beruhigung“ in der Routine-Nachsorge – und den Abladierten wie einen Niedrigrisiko-Patienten nachsorgen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    }
+  ]
+}
