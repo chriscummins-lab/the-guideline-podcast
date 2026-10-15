@@ -41,7 +41,7 @@ export const CONTENT: { categories: Category[] } = {
           id: "harnblasenkarzinom",
           name: "Harnblasenkarzinom",
           badge: "S3",
-          available: false,
+          available: true,
           description: "S3-Leitlinie Harnblasenkarzinom",
           episodes: hbkEpisodes,
         },
