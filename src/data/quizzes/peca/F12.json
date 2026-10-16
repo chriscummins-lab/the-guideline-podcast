@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll laut Empfehlung 3.1 bezüglich des Wunsches eines Patienten erfragt werden, Gespräche gemeinsam mit einer Vertrauensperson zu führen?",
+    "options": [
+      "Dieser Wunsch soll aktiv erfragt werden.",
+      "Eine Begleitperson ist bei Aufklärungsgesprächen grundsätzlich nicht zugelassen.",
+      "Dieser Wunsch soll bewusst nicht thematisiert werden.",
+      "Nur Angehörige, nicht aber Patientenvertreter, dürfen als Vertrauensperson fungieren."
+    ],
+    "correct": 0,
+    "tip": "Als Vertrauensperson kommen Partner, Angehörige oder auch Patientenvertreter infrage.",
+    "explanation": "Empfehlung 3.1 fordert, dass der Wunsch des Patienten, Gespräche gemeinsam mit einer Vertrauensperson zu führen, aktiv erfragt werden soll."
+  },
+  {
+    "question": "Worauf soll der Patient laut Empfehlung 3.3 im Rahmen der ärztlichen Beratung über die mögliche Behandlung hingewiesen werden?",
+    "options": [
+      "Auf die evidenzbasierte Patientenleitlinie zum Peniskarzinom.",
+      "Auf ausschließlich kommerzielle, nicht evidenzbasierte Gesundheitsportale.",
+      "Auf den vollständigen Verzicht auf jede schriftliche Zusatzinformation.",
+      "Eine solche Empfehlung existiert in der Leitlinie nicht."
+    ],
+    "correct": 0,
+    "tip": "Die Patientenleitlinie soll zeitnah zum ärztlichen Gespräch über die mögliche Behandlung ausgehändigt werden.",
+    "explanation": "Empfehlung 3.3 fordert, dass der Patient auf die evidenzbasierte Patientenleitlinie zum Peniskarzinom hingewiesen werden soll."
+  },
+  {
+    "question": "Worüber soll der Patient laut der im Kapitel 3.1 genannten Empfehlung zusätzlich informiert werden?",
+    "options": [
+      "Über die Möglichkeit, eine Zweitmeinung bei einem anderen Facharzt oder einer anderen Fachklinik einzuholen.",
+      "Darüber, dass eine Zweitmeinung grundsätzlich nicht gestattet ist.",
+      "Darüber, dass eine Zweitmeinung nur bei Privatpatienten möglich ist.",
+      "Diese Information wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies ist Ausdruck der Patientenautonomie und des Rechts auf freie Arzt- und Klinikwahl.",
+    "explanation": "Der Patient sollte über die Möglichkeit informiert werden, eine Zweitmeinung bei einem anderen Facharzt oder einer anderen Fachklinik einzuholen."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.4 bezüglich der Bedürfnisse von Krebs-Überlebenden?",
+    "options": [
+      "Sie sollen exploriert und entsprechende Unterstützungsangebote sowie gesundheitsfördernde Maßnahmen bei Folgestörungen vermittelt werden.",
+      "Sie sind für die Nachsorge nicht relevant.",
+      "Sie sollen ausschließlich einmalig bei der Diagnosestellung erfasst werden.",
+      "Eine Erfassung dieser Bedürfnisse ist in der Leitlinie nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Hierzu zählen auch Aspekte wie Fertilität, tumorassoziierte Fatigue und Maßnahmen zur Vermeidung eines Lymphödems.",
+    "explanation": "Empfehlung 3.4 fordert, dass die Bedürfnisse von Krebs-Überlebenden exploriert und entsprechende Unterstützungsangebote sowie gesundheitsfördernde Maßnahmen bei Folgestörungen vermittelt werden sollen."
+  },
+  {
+    "question": "Was fordert die Empfehlung in Kapitel 3.2 bezüglich des niederschwelligen Angebots einer psychosozialen Beratung?",
+    "options": [
+      "Es sollte allen Betroffenen und ihren Angehörigen in jeder Phase der Erkrankung, auch langfristig, zur Verfügung stehen.",
+      "Es soll nur bei fortgeschrittener Erkrankung angeboten werden.",
+      "Es ist ausschließlich für den Patienten, nicht für Angehörige, vorgesehen.",
+      "Ein solches Angebot wird in der Leitlinie nicht gefordert."
+    ],
+    "correct": 0,
+    "tip": "Psychosoziale Beratung und Behandlung gelten als integraler Bestandteil der onkologischen Diagnostik, Therapie und Nachsorge.",
+    "explanation": "Die Empfehlung in Kapitel 3.2 fordert, dass das niederschwellige Angebot einer psychosozialen Beratung, Begleitung und Behandlung allen Betroffenen und ihren Angehörigen in jeder Phase der Erkrankung, auch langfristig, zur Verfügung stehen sollte."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.7 bezüglich eines Screenings auf psychosoziale Belastungen?",
+    "options": [
+      "Alle Patienten sollen ein Screening erhalten, das frühestmöglich und wiederholt im Krankheitsverlauf durchgeführt werden sollte.",
+      "Ein Screening ist nur bei explizitem Wunsch des Patienten vorgesehen.",
+      "Ein Screening soll ausschließlich einmalig bei Erstdiagnose erfolgen.",
+      "Ein strukturiertes Screening wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Als Screeninginstrumente werden z. B. das Distress-Thermometer oder die deutsche Version der Hospital Anxiety and Depression Scale (HADS-D) empfohlen.",
+    "explanation": "Empfehlung 3.7 fordert, dass alle Patienten ein Screening auf psychosoziale Belastungen erhalten sollen, das frühestmöglich und in angemessenen Abständen wiederholt im Krankheitsverlauf durchgeführt werden sollte."
+  },
+  {
+    "question": "Was besagt Statement 8.6 im Kontext exulzerierter kutaner Metastasen und Lymphknotenmetastasen?",
+    "options": [
+      "Diese stellen für Patienten, Angehörige und Pflegende eine große Herausforderung dar, u. a. durch hohen Pflegeaufwand und Geruchsbelästigung.",
+      "Sie treten beim Peniskarzinom praktisch nie auf.",
+      "Sie sind grundsätzlich schmerzfrei und erfordern keine besondere Behandlung.",
+      "Eine systematische Betrachtung dieses Themas erfolgt in der Leitlinie nicht."
+    ],
+    "correct": 0,
+    "tip": "Häufig handelt es sich um blumenkohlartig wachsende und nekrotisch zerfallende Lokalrezidive und Metastasen.",
+    "explanation": "Statement 8.6 beschreibt exulzerierte kutane Metastasen und Lymphknotenmetastasen als große Herausforderung für Patienten, Angehörige und Pflegende, u. a. durch hohen Pflegeaufwand und häufige Geruchsbelästigung."
+  },
+  {
+    "question": "Welche Maßnahme wird im Rahmen der Therapieplanung zur Vorbereitung auf eine antizipierte heftige (Arrosions-)Blutung empfohlen?",
+    "options": [
+      "Das Blutungsrisiko abzuschätzen und mit Patient und Angehörigen über Behandlungswünsche einschließlich einer möglichen therapeutischen Sedierung zu sprechen.",
+      "Jede Form der Blutungsprophylaxe zu unterlassen.",
+      "Den Patienten über das Blutungsrisiko bewusst im Unklaren zu lassen.",
+      "Eine Vorbereitung auf solche Blutungsereignisse ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Besonders ulzerierende Lymphknoten können zu Arrosionsblutungen der Femoralgefäße mit Todesfolge führen.",
+    "explanation": "Im Rahmen der Therapieplanung soll das Blutungsrisiko abgeschätzt und mit dem Patienten sowie den Angehörigen über die Behandlungswünsche, einschließlich der Option einer therapeutischen Sedierung im Falle einer ausgeprägten Blutung, gesprochen werden."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.7 (Empfehlungsgrad A) bei einem chronischen Lymphödem bei Peniskarzinom-Patienten?",
+    "options": [
+      "Eine komplexe Entstauungsbehandlung mit Lymphdrainage, Kompressionsbehandlung und Hautpflege.",
+      "Eine alleinige medikamentöse Diuretikatherapie ohne physikalische Maßnahmen.",
+      "Den Verzicht auf jede Behandlung des Lymphödems.",
+      "Eine sofortige operative Lymphgefäßrekonstruktion bei jedem Patienten."
+    ],
+    "correct": 0,
+    "tip": "Sekundäre Lymphödeme sind insbesondere nach beidseitiger radikaler inguinaler/pelviner Lymphadenektomie nicht selten.",
+    "explanation": "Empfehlung 8.7 fordert mit Empfehlungsgrad A bei chronischem Lymphödem eine komplexe Entstauungsbehandlung bestehend aus Lymphdrainage, Kompressionsbehandlung und Hautpflege."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 12 im Zusammenhang mit Arrosionsblutungen diskutiert?",
+    "options": [
+      "Kein vorbereiteter Plan für eine mögliche Arrosionsblutung, sowie ein psychoonkologisches Screening erst dann durchzuführen, wenn der Patient bereits 'auffällig' wird.",
+      "Zu viele Vorbereitungsgespräche über mögliche Blutungsereignisse zu führen.",
+      "Ein psychoonkologisches Screening bei jedem Patienten routinemäßig durchzuführen.",
+      "Patienten grundsätzlich nicht über mögliche Komplikationen aufzuklären."
+    ],
+    "correct": 0,
+    "tip": "Ein proaktiver Notfallplan mit klaren Absprachen zu Behandlungswünschen kann im Ernstfall entscheidend für eine würdevolle Versorgung sein.",
+    "explanation": "Der diskutierte Fallstrick ist, keinen vorbereiteten Plan für eine mögliche Arrosionsblutung zu haben, sowie ein psychoonkologisches Screening erst dann durchzuführen, wenn der Patient bereits auffällig wird, anstatt es frühzeitig und wiederholt im Verlauf anzubieten."
+  }
+]

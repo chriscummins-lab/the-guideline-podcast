@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche T-Kategorie wird laut Empfehlung 5.1 (TNM, 8. Auflage) für ein Peniskarzinom mit Invasion des Corpus spongiosum verwendet?",
+    "options": [
+      "T2.",
+      "T1a.",
+      "T4.",
+      "Tis."
+    ],
+    "correct": 0,
+    "tip": "Eine Invasion des Corpus cavernosum entspricht dagegen der Kategorie T3.",
+    "explanation": "Nach der TNM-Klassifikation (8. Auflage) entspricht eine Invasion des Corpus spongiosum der Kategorie T2."
+  },
+  {
+    "question": "Welche Unterscheidung wird innerhalb der Kategorie T1 getroffen, und wovon hängt sie ab?",
+    "options": [
+      "T1a vs. T1b, abhängig von Lymphgefäß-/Perineuralinvasion und dem Differenzierungsgrad (schlecht differenziert).",
+      "T1a vs. T1b, abhängig ausschließlich vom Alter des Patienten.",
+      "Es gibt innerhalb der Kategorie T1 keine weitere Unterscheidung.",
+      "T1a vs. T1b, abhängig ausschließlich vom HPV-Status."
+    ],
+    "correct": 0,
+    "tip": "T1a liegt vor ohne Lymphgefäß-/Perineuralinvasion und ohne schlechte Differenzierung, T1b bei Vorliegen dieser Faktoren.",
+    "explanation": "Die Unterscheidung T1a vs. T1b hängt vom Vorliegen einer Lymphgefäß- oder Perineuralinvasion sowie vom Differenzierungsgrad (schlecht differenziert) ab."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.1 bei unklaren penilen Läsionen?",
+    "options": [
+      "Eine frühzeitige histologische Sicherung.",
+      "Eine primär abwartende Haltung über mindestens 12 Monate.",
+      "Eine sofortige radikale Penektomie ohne vorherige Histologie.",
+      "Eine ausschließlich bildgebende Abklärung ohne Gewebeentnahme."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich sollen laut Empfehlung 6.2 Lokalisation, Größe, Wachstumsmuster, Verschieblichkeit und Sexualfunktion dokumentiert werden.",
+    "explanation": "Empfehlung 6.1 fordert, dass unklare penile Läsionen frühzeitig histologisch gesichert werden sollen."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 6.3 eine Schnittbild- oder Hybridbildgebung zum primären Staging erfolgen?",
+    "options": [
+      "Nur bei T3/T4-Tumoren oder positivem Lymphknotenstatus.",
+      "Bei jedem Patienten unabhängig vom Tumorstadium.",
+      "Ausschließlich bei Tis oder Ta.",
+      "Eine Bildgebung ist beim primären Staging generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Die Leiste soll dagegen laut Empfehlung 6.4 immer klinisch untersucht und dokumentiert werden.",
+    "explanation": "Empfehlung 6.3 sieht eine Schnittbild- oder Hybridbildgebung zum primären Staging nur bei T3/T4-Tumoren oder positivem Lymphknotenstatus vor."
+  },
+  {
+    "question": "Welche Vorgehensweise wird laut Empfehlung 6.5 (Empfehlungsgrad A) bei nicht tastbaren Lymphknoten ab pT1b invasiv empfohlen?",
+    "options": [
+      "Eine modifizierte inguinale Lymphadenektomie oder eine dynamische Sentinel-Biopsie.",
+      "Ein rein abwartendes Verhalten ohne jede invasive Diagnostik.",
+      "Eine sofortige radikale pelvine Lymphadenektomie ohne vorherige Sentinel-Diagnostik.",
+      "Eine ausschließlich bildgebende Verlaufskontrolle per MRT."
+    ],
+    "correct": 0,
+    "tip": "Bis einschließlich pT1a kann dagegen laut Empfehlung 6.6 (Grad 0) zugunsten klinischer Nachbeobachtung verzichtet werden.",
+    "explanation": "Empfehlung 6.5 fordert bei nicht tastbaren Lymphknoten ab pT1b invasiv eine modifizierte inguinale Lymphadenektomie oder eine dynamische Sentinel-Biopsie."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.7 bei tastbaren Lymphknoten und gleichzeitig kurativem Therapieansatz?",
+    "options": [
+      "Eine histologische Sicherung, bei ipsilateraler Metastase eine radikale Lymphadenektomie und kontralateral eine invasive Diagnostik.",
+      "Einen vollständigen Verzicht auf jede weitere Diagnostik bei tastbaren Lymphknoten.",
+      "Eine ausschließlich antibiotische Behandlung der tastbaren Lymphknoten.",
+      "Eine primär palliative Therapie ohne jede invasive Diagnostik."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung unterscheidet sich deutlich vom Vorgehen bei nicht tastbaren Lymphknoten.",
+    "explanation": "Empfehlung 6.7 fordert bei tastbaren Lymphknoten eine histologische Sicherung; bei nachgewiesener ipsilateraler Metastase soll eine radikale Lymphadenektomie erfolgen, kontralateral bei kurativem Ansatz eine invasive Diagnostik."
+  },
+  {
+    "question": "Wie verläuft die lymphogene Ausbreitung des Peniskarzinoms laut Kapitel 6.2.3/6.3 typischerweise in Bezug auf pelvine Lymphknoten und Fernmetastasen?",
+    "options": [
+      "Spät, überwiegend lymphogen.",
+      "Sehr früh und primär hämatogen.",
+      "Pelvine Lymphknoten und Fernmetastasen treten laut Leitlinie nie auf.",
+      "Ausschließlich über eine direkte Infiltration der Harnröhre."
+    ],
+    "correct": 0,
+    "tip": "Die PET-CT zeigt dabei je nach Organsystem eine unterschiedliche Sensitivität.",
+    "explanation": "Pelvine Lymphknoten und Fernmetastasen entstehen beim Peniskarzinom typischerweise spät und überwiegend über lymphogene Ausbreitung."
+  },
+  {
+    "question": "Warum ist laut dem diskutierten Fallstrick ein unauffälliges CT/PET-CT der Leiste kein ausreichender Beleg für einen N0-Status?",
+    "options": [
+      "Weil die Bildgebung Mikrometastasen nicht zuverlässig erkennt.",
+      "Weil die Bildgebung grundsätzlich fehlerhafte Ergebnisse liefert.",
+      "Weil ein CT/PET-CT der Leiste technisch nicht durchführbar ist.",
+      "Weil nach jedem unauffälligen Befund automatisch eine Metastasierung vorliegt."
+    ],
+    "correct": 0,
+    "tip": "Daher ist bei entsprechendem T-Stadium eine invasive Lymphknotendiagnostik auch bei unauffälliger Bildgebung erforderlich.",
+    "explanation": "Der diskutierte Fallstrick besteht darin, ein unauffälliges CT/PET-CT der Leiste als Beleg für N0 zu werten, obwohl die Bildgebung Mikrometastasen nicht zuverlässig erkennt."
+  },
+  {
+    "question": "Welche klinischen Parameter sollen laut Empfehlung 6.2 bei der Untersuchung des Primärtumors dokumentiert werden?",
+    "options": [
+      "Lokalisation, Größe, Wachstumsmuster, Verschieblichkeit und Sexualfunktion.",
+      "Ausschließlich die Tumorfarbe.",
+      "Ausschließlich der PSA-Wert.",
+      "Diese Parameter werden in der Leitlinie nicht gefordert."
+    ],
+    "correct": 0,
+    "tip": "Diese Dokumentation ist Grundlage für die weitere Therapieplanung, insbesondere im Hinblick auf organerhaltende Verfahren.",
+    "explanation": "Empfehlung 6.2 fordert die Dokumentation von Lokalisation, Größe, Wachstumsmuster, Verschieblichkeit und Sexualfunktion."
+  },
+  {
+    "question": "Welche TNM-Kategorien werden für die klinische bzw. pathologische Lymphknotenklassifikation des Peniskarzinoms genannt?",
+    "options": [
+      "cN1–cN3 und pN1–pN3.",
+      "Ausschließlich N0 und N1, ohne weitere Unterteilung.",
+      "N-Kategorien spielen beim Peniskarzinom keine Rolle.",
+      "Ausschließlich eine einzige gemeinsame Kategorie Nx für alle Fälle."
+    ],
+    "correct": 0,
+    "tip": "Diese Kategorien werden gemeinsam mit der T-Kategorie zur Bildung der UICC-Stadien verwendet.",
+    "explanation": "Die Leitlinie nennt cN1–cN3 für die klinische und pN1–pN3 für die pathologische Lymphknotenklassifikation des Peniskarzinoms."
+  }
+]

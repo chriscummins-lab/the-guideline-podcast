@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Was fordert Empfehlung 7.52 (Empfehlungsgrad A) für die palliative Chemotherapie des metastasierten Peniskarzinoms?",
+    "options": [
+      "Die Chemotherapie soll Cisplatin-basiert sein, wenn die Komorbiditäten dies erlauben.",
+      "Die Chemotherapie darf niemals Cisplatin enthalten.",
+      "Es wird keine konkrete Substanzklasse empfohlen.",
+      "Eine Chemotherapie ist im metastasierten Stadium kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung hat den höchsten Empfehlungsgrad A in diesem Kapitel.",
+    "explanation": "Empfehlung 7.52 fordert mit Empfehlungsgrad A, dass die Chemotherapie Cisplatin-basiert sein soll, sofern die Komorbiditäten dies erlauben."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.53 (Empfehlungsgrad B) bei gutem Allgemeinzustand (ECOG < 2) im metastasierten Stadium?",
+    "options": [
+      "Eine Kombinationschemotherapie zur Lebensverlängerung und zur Symptomkontrolle.",
+      "Ausschließlich eine Monotherapie unabhängig vom Allgemeinzustand.",
+      "Den generellen Verzicht auf jede systemische Therapie.",
+      "Eine ausschließlich orale Chemotherapie ohne intravenöse Komponente."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt spezifisch für Patienten mit gutem Allgemeinzustand (ECOG < 2).",
+    "explanation": "Empfehlung 7.53 fordert mit Empfehlungsgrad B bei gutem Allgemeinzustand eine Kombinationschemotherapie zur Lebensverlängerung und zur Symptomkontrolle."
+  },
+  {
+    "question": "Aus welchen Substanzen soll die Chemotherapie laut Empfehlung 7.54 (Empfehlungsgrad B) zusammengesetzt sein?",
+    "options": [
+      "Cisplatin, Ifosfamid und Paclitaxel.",
+      "Ausschließlich Methotrexat und Vincristin.",
+      "Ausschließlich Bleomycin als Monotherapie.",
+      "Es wird in dieser Empfehlung keine Substanz genannt."
+    ],
+    "correct": 0,
+    "tip": "Alternativ kann laut Empfehlung 7.55 die Kombination von Cisplatin und 5-Fluorouracil verwendet werden.",
+    "explanation": "Empfehlung 7.54 fordert mit Empfehlungsgrad B eine Chemotherapie aus Cisplatin, Ifosfamid und Paclitaxel."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.56 (Empfehlungsgrad B) bezüglich Bleomycin-haltiger Kombinationstherapien?",
+    "options": [
+      "Sie sollten wegen der Toxizität nicht mehr verwendet werden.",
+      "Sie gelten weiterhin als Standardtherapie der ersten Wahl.",
+      "Sie sind ausschließlich bei jungen Patienten indiziert.",
+      "Bleomycin-haltige Schemata werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Historisch wurden Bleomycin-haltige Schemata (z. B. mit Methotrexat und Vincristin) eingesetzt, gelten heute aber als zu toxisch."
+    ,
+    "explanation": "Empfehlung 7.56 fordert mit Empfehlungsgrad B, dass Bleomycin-haltige Kombinationstherapien wegen der Toxizität nicht mehr verwendet werden sollten."
+  },
+  {
+    "question": "Was besagt Statement 7.57 zur Zweitlinientherapie des metastasierten Peniskarzinoms?",
+    "options": [
+      "Es gibt keine Standardtherapie für die zweite Linie.",
+      "Die Zweitlinientherapie ist durch mehrere große randomisierte Studien klar definiert.",
+      "Eine Zweitlinientherapie ist beim Peniskarzinom generell nicht vorgesehen.",
+      "Cisplatin ist auch in der Zweitlinie die einzig zugelassene Substanz."
+    ],
+    "correct": 0,
+    "tip": "In der zweiten Linie kann laut Empfehlung 7.58 Paclitaxel als Monotherapie eingesetzt werden.",
+    "explanation": "Statement 7.57 stellt fest, dass es keine Standardtherapie für die zweite Linie des metastasierten Peniskarzinoms gibt."
+  },
+  {
+    "question": "Welche Monotherapie kann laut Empfehlung 7.58 (Empfehlungsgrad 0) in der zweiten Linie eingesetzt werden?",
+    "options": [
+      "Paclitaxel.",
+      "Bleomycin.",
+      "Methotrexat.",
+      "Es wird keine Monotherapie empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Dies ergänzt das in Statement 7.57 beschriebene Fehlen einer definierten Standardtherapie für die Zweitlinie.",
+    "explanation": "Empfehlung 7.58 sieht mit Empfehlungsgrad 0 den Einsatz von Paclitaxel als Monotherapie in der zweiten Linie vor."
+  },
+  {
+    "question": "Welches Fraktionierungsschema wird laut dem Episodeninhalt für die palliative Strahlentherapie bei großen inguinalen Lymphknotenmetastasen beispielhaft genannt?",
+    "options": [
+      "Eine hypofraktionierte Bestrahlung, z. B. 12 × 3 Gy.",
+      "Eine Einzeldosis von 60 Gy an einem Tag.",
+      "Eine Standardfraktionierung über 40 Einzelsitzungen à 1 Gy.",
+      "Eine palliative Strahlentherapie wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Diese palliative Bestrahlung kann u. a. zur Linderung von Lokalpflege, Ödem, Blutung und Schmerz beitragen.",
+    "explanation": "Für die palliative Strahlentherapie wird beispielhaft eine hypofraktionierte Bestrahlung mit 12 × 3 Gy genannt."
+  },
+  {
+    "question": "Welcher Anteil der Patienten entwickelt laut dem Episodeninhalt nach inguinaler Lymphadenektomie eine Lymphfistel?",
+    "options": [
+      "Etwa ein Drittel.",
+      "Praktisch kein Patient.",
+      "Nahezu alle Patienten (über 95 %).",
+      "Eine Lymphfistel wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Eine solche Lymphfistel kann mit einer niedrig dosierten Radiatio behandelt werden.",
+    "explanation": "Laut dem Episodeninhalt entwickelt etwa ein Drittel der Patienten nach inguinaler Lymphadenektomie eine Lymphfistel."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 10 im Zusammenhang mit 'alten Protokollen' diskutiert?",
+    "options": [
+      "Ein Bleomycin-haltiges Schema 'aus alten Protokollen' einzusetzen, obwohl dies wegen der Toxizität nicht mehr verwendet werden sollte.",
+      "Grundsätzlich jede Form der Chemotherapie abzulehnen.",
+      "Ausschließlich moderne, nicht in der Leitlinie erwähnte Substanzen einzusetzen.",
+      "Paclitaxel grundsätzlich nicht als Zweitlinientherapie zu verwenden."
+    ],
+    "correct": 0,
+    "tip": "Dies widerspricht direkt der Empfehlung 7.56, die den Verzicht auf Bleomycin-haltige Kombinationen wegen der Toxizität fordert.",
+    "explanation": "Der diskutierte Fallstrick ist der Einsatz eines Bleomycin-haltigen Schemas 'aus alten Protokollen', obwohl Bleomycin-haltige Kombinationstherapien laut Empfehlung 7.56 wegen der Toxizität nicht mehr verwendet werden sollten."
+  },
+  {
+    "question": "Welcher weitere Fallstrick wird in Episode 10 im Zusammenhang mit Cisplatin diskutiert?",
+    "options": [
+      "Cisplatin ohne vorherige Prüfung von Nierenfunktion und Komorbidität einzusetzen.",
+      "Cisplatin grundsätzlich nie einzusetzen, obwohl es immer indiziert wäre.",
+      "Cisplatin ausschließlich bei jungen, gesunden Patienten zu verwenden.",
+      "Cisplatin mit Paclitaxel zu kombinieren, obwohl dies nicht vorgesehen ist."
+    ],
+    "correct": 0,
+    "tip": "Empfehlung 7.52 fordert explizit, dass die Chemotherapie nur dann Cisplatin-basiert sein soll, wenn die Komorbiditäten dies erlauben.",
+    "explanation": "Der diskutierte Fallstrick ist, Cisplatin ohne vorherige Prüfung von Nierenfunktion und Komorbidität einzusetzen, obwohl Empfehlung 7.52 die Cisplatin-basierte Therapie an eine entsprechende Eignung des Patienten knüpft."
+  }
+]

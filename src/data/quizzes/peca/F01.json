@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie viele Neuerkrankungen am Peniskarzinom wurden laut Kapitel 4.2 für Deutschland im Jahr 2014 angegeben, und wie hoch ist das relative 5-Jahres-Überleben?",
+    "options": [
+      "Ca. 950 Neuerkrankungen, relatives 5-Jahres-Überleben 71 %.",
+      "Ca. 50.000 Neuerkrankungen, relatives 5-Jahres-Überleben 10 %.",
+      "Ca. 10 Neuerkrankungen, relatives 5-Jahres-Überleben 99 %.",
+      "Es werden in der Leitlinie keine epidemiologischen Zahlen für Deutschland genannt."
+    ],
+    "correct": 0,
+    "tip": "Das mittlere Erkrankungsalter liegt bei 70 Jahren; in Teilen Südamerikas, Asiens und Afrikas kann das Peniskarzinom bis zu 10 % der Malignome des Mannes ausmachen.",
+    "explanation": "Kapitel 4.2 gibt für Deutschland ca. 950 Neuerkrankungen im Jahr 2014 an, bei einem relativen 5-Jahres-Überleben von 71 %."
+  },
+  {
+    "question": "Welche zwei Pathogenesewege werden beim Peniskarzinom unterschieden, und welcher Anteil der Fälle ist HPV-assoziiert?",
+    "options": [
+      "HPV-assoziiert (v. a. Typ 16 und 18) vs. nicht-HPV-assoziiert, wobei ca. 50 % der Fälle HPV-assoziiert sind.",
+      "Nur ein einziger, ausschließlich genetisch bedingter Pathogeneseweg.",
+      "Ausschließlich traumatisch bedingt, HPV spielt keine Rolle.",
+      "Nahezu 100 % aller Fälle sind HPV-assoziiert."
+    ],
+    "correct": 0,
+    "tip": "Nicht-HPV-assoziierte Fälle stehen häufig im Zusammenhang mit chronischer Balanoposthitis, Lichen sclerosus oder Phimose.",
+    "explanation": "Es werden ein HPV-assoziierter Weg (v. a. Hochrisiko-HPV-Typ 16 und 18, ca. 50 % der Fälle) und ein nicht-HPV-assoziierter Weg (u. a. chronische Balanoposthitis, Lichen sclerosus, Phimose) unterschieden."
+  },
+  {
+    "question": "Welche Risikofaktoren werden für den nicht-HPV-assoziierten Pathogeneseweg des Peniskarzinoms genannt?",
+    "options": [
+      "Chronische Balanoposthitis, Lichen sclerosus, Phimose, lange Vorhaut und mangelnde Genitalhygiene.",
+      "Ausschließlich ein hoher Alkoholkonsum.",
+      "Ausschließlich eine vegetarische Ernährung.",
+      "Für den nicht-HPV-assoziierten Weg sind keine Risikofaktoren bekannt."
+    ],
+    "correct": 0,
+    "tip": "Diese Faktoren stehen im Gegensatz zum HPV-assoziierten Pathogeneseweg mit Hochrisiko-HPV-Typen.",
+    "explanation": "Als Risikofaktoren für den nicht-HPV-assoziierten Pathogeneseweg werden chronische Balanoposthitis, Lichen sclerosus, Phimose, lange Vorhaut und mangelnde Genitalhygiene genannt."
+  },
+  {
+    "question": "Was besagt Statement 4.1 zum Zusammenhang zwischen Zirkumzision im Kindesalter, Genitalhygiene und dem Risiko für ein Peniskarzinom?",
+    "options": [
+      "Zirkumzision im Kindesalter und gute Genitalhygiene senken das Risiko.",
+      "Zirkumzision im Kindesalter erhöht das Risiko signifikant.",
+      "Genitalhygiene hat keinerlei Einfluss auf das Risiko.",
+      "Ein Zusammenhang zwischen diesen Faktoren und dem Peniskarzinomrisiko wird in der Leitlinie nicht hergestellt."
+    ],
+    "correct": 0,
+    "tip": "Die diskutierten Mechanismen dazu werden im Hintergrundtext der Leitlinie näher erläutert.",
+    "explanation": "Statement 4.1 besagt, dass eine Zirkumzision im Kindesalter und eine gute Genitalhygiene das Risiko für ein Peniskarzinom senken."
+  },
+  {
+    "question": "In welchem Alter sollen Jungen laut Statement 4.2 gegen HPV geimpft werden, um das Risiko HPV-assoziierter Peniskarzinome zu senken?",
+    "options": [
+      "Im Alter von 9–14 Jahren.",
+      "Im Alter von 60–70 Jahren.",
+      "Ausschließlich im Säuglingsalter unter 1 Jahr.",
+      "Eine HPV-Impfung bei Jungen wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dem Urologen kommt dabei auch eine Rolle in der Impfberatung zu.",
+    "explanation": "Statement 4.2 besagt, dass eine HPV-Impfung von Jungen im Alter von 9–14 Jahren das Risiko HPV-assoziierter Karzinome senken kann."
+  },
+  {
+    "question": "Welche Hochrisiko-HPV-Typen werden im Zusammenhang mit dem Peniskarzinom besonders genannt?",
+    "options": [
+      "HPV-Typ 16 und 18.",
+      "HPV-Typ 6 und 11.",
+      "HPV-Typ 1 und 2.",
+      "Es wird kein spezifischer HPV-Typ genannt."
+    ],
+    "correct": 0,
+    "tip": "HPV-Typ 6 und 11 sind dagegen eher mit genitalen Warzen (Condylomata acuminata) assoziiert.",
+    "explanation": "Die Hochrisiko-HPV-Typen 16 und 18 werden im Zusammenhang mit dem Peniskarzinom besonders genannt."
+  },
+  {
+    "question": "Wie unterscheidet sich das Erkrankungsalter von Patienten mit penilen Vorläuferläsionen im Vergleich zu Patienten mit invasivem Karzinom?",
+    "options": [
+      "Patienten mit Vorläuferläsionen sind im Mittel etwa drei Jahre jünger als Patienten mit invasivem Karzinom.",
+      "Patienten mit Vorläuferläsionen sind im Mittel 30 Jahre älter.",
+      "Es besteht kein Altersunterschied zwischen beiden Gruppen.",
+      "Patienten mit Vorläuferläsionen sind ausschließlich unter 20 Jahre alt."
+    ],
+    "correct": 0,
+    "tip": "Penile Vorläuferläsionen werden ebenfalls im Krebsregister erfasst.",
+    "explanation": "Patienten mit penilen Vorläuferläsionen sind im Mittel drei Jahre jünger als Patienten mit einem invasiven Peniskarzinom."
+  },
+  {
+    "question": "Welchen Hinweis gibt die Leitlinie zu ihrem eigenen Aktualisierungsstand (Version 1.0, August 2020)?",
+    "options": [
+      "Die Leitlinie ist seit über 5 Jahren nicht aktualisiert und befindet sich in Überarbeitung.",
+      "Die Leitlinie wird jährlich vollständig neu aufgelegt.",
+      "Die Leitlinie wurde erst vor wenigen Monaten erstmals veröffentlicht.",
+      "Zum Aktualisierungsstand macht die Leitlinie keine Angabe."
+    ],
+    "correct": 0,
+    "tip": "Bei der Episodenerstellung soll daher ausschließlich der Inhalt der Leitlinie wiedergegeben werden, ohne neuere Daten zu ergänzen.",
+    "explanation": "Die Leitlinie (Version 1.0, August 2020) weist darauf hin, dass sie seit über 5 Jahren nicht aktualisiert wurde und sich in Überarbeitung befindet."
+  },
+  {
+    "question": "Welche Empfehlungsgrade werden methodisch in der S3-Leitlinie Peniskarzinom verwendet?",
+    "options": [
+      "A ('soll'), B ('sollte') und 0 ('kann'), ergänzt durch Expertenkonsens (EK).",
+      "Ausschließlich die Grade I bis IV ohne weitere Unterteilung.",
+      "Ausschließlich 'ja' oder 'nein' ohne Abstufung.",
+      "Die Leitlinie verwendet keine Empfehlungsgrade."
+    ],
+    "correct": 0,
+    "tip": "Diese Systematik entspricht der auch in anderen AWMF-Leitlinien gebräuchlichen Methodik.",
+    "explanation": "Die Leitlinie verwendet die Empfehlungsgrade A ('soll'), B ('sollte') und 0 ('kann'), ergänzt durch Expertenkonsens (EK) und eine Angabe der Konsensstärke."
+  },
+  {
+    "question": "Welcher klinische Fallstrick wird in Episode 1 im Zusammenhang mit einer nicht heilenden Glansläsion diskutiert?",
+    "options": [
+      "Eine persistierende Glansläsion wird monatelang als 'Balanitis' mit Salben behandelt, wobei Scham und verzögerte Vorstellung ein typisches Problem darstellen.",
+      "Jede Glansläsion wird sofort und unkritisch biopsiert.",
+      "Patienten werden routinemäßig zu früh zur Zirkumzision überwiesen.",
+      "Ein Fallstrick wird in dieser Episode nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Scham-besetzte Themen führen häufig zu einer verzögerten ärztlichen Vorstellung, was die Prognose verschlechtern kann.",
+    "explanation": "Der diskutierte Fallstrick ist, eine persistierende Glansläsion monatelang als 'Balanitis' mit Salben zu behandeln, wobei Scham und eine dadurch verzögerte Vorstellung ein typisches Problem dieser Entität darstellen."
+  }
+]

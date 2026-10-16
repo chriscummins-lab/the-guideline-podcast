@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Muss die Vorhaut laut Empfehlung 7.12 bei kleineren Glanstumoren zwingend entfernt werden?",
+    "options": [
+      "Nein, sie kann bei kleineren Glanstumoren belassen werden.",
+      "Ja, die Vorhaut muss bei jedem Glanstumor zwingend entfernt werden.",
+      "Ja, aber nur bei Tumoren über 5 cm.",
+      "Zur Vorhaut wird in dieser Empfehlung keine Aussage getroffen."
+    ],
+    "correct": 0,
+    "tip": "Vor einer Strahlen- oder topischen Therapie soll laut Empfehlung 7.13 jedoch eine Zirkumzision erfolgen.",
+    "explanation": "Empfehlung 7.12 besagt, dass die Vorhaut bei kleineren Glanstumoren belassen werden kann."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.13 vor einer Strahlen- oder topischen Therapie erfolgen?",
+    "options": [
+      "Eine Zirkumzision.",
+      "Eine radikale Penektomie.",
+      "Eine systemische Chemotherapie.",
+      "Eine pelvine Lymphadenektomie."
+    ],
+    "correct": 0,
+    "tip": "Dies dient u. a. der besseren Zugänglichkeit und Beurteilbarkeit des Behandlungsareals.",
+    "explanation": "Empfehlung 7.13 fordert eine Zirkumzision vor Beginn einer Strahlen- oder topischen Therapie."
+  },
+  {
+    "question": "Welchen Empfehlungsgrad hat die Glansektomie (ggf. mit Rekonstruktion/Spalthaut-Neoglans) im Stadium T1/T2 laut Empfehlung 7.15?",
+    "options": [
+      "Empfehlungsgrad A.",
+      "Empfehlungsgrad 0.",
+      "Empfehlungsgrad B.",
+      "Die Glansektomie wird im Stadium T1/T2 nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Ist eine Glansektomie nicht möglich, soll laut Empfehlung 7.16 (ebenfalls Grad A) eine Penisteilamputation angeboten werden.",
+    "explanation": "Empfehlung 7.15 sieht die Glansektomie im Stadium T1/T2 mit Empfehlungsgrad A vor."
+  },
+  {
+    "question": "Welcher tumorfreie Resektionsabstand gilt laut Empfehlung 7.17 (Empfehlungsgrad B) heute als ausreichend?",
+    "options": [
+      "Wenige Millimeter genügen – eine Abkehr von der alten 2-cm-Regel.",
+      "Mindestens 2 cm, entsprechend der historischen Regel.",
+      "Mindestens 5 cm in jedem Fall.",
+      "Es wird kein konkreter Sicherheitsabstand genannt."
+    ],
+    "correct": 0,
+    "tip": "Bei positivem Schnittrand soll laut Empfehlung 7.18 eine Nachresektion erfolgen.",
+    "explanation": "Empfehlung 7.17 stellt mit Empfehlungsgrad B fest, dass wenige Millimeter tumorfreier Abstand genügen, womit die frühere Regel eines 2-cm-Sicherheitsabstands aufgegeben wurde."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.18 bei einem positiven Schnittrand nach organerhaltender Operation erfolgen?",
+    "options": [
+      "Eine Nachresektion.",
+      "Eine abwartende Beobachtung ohne weitere Maßnahme.",
+      "Eine sofortige systemische Chemotherapie ohne lokale Nachresektion.",
+      "Eine Nachresektion ist in diesem Fall nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht die Bedeutung einer sorgfältigen intraoperativen und postoperativen Schnittrandkontrolle.",
+    "explanation": "Empfehlung 7.18 fordert bei einem positiven Schnittrand eine Nachresektion."
+  },
+  {
+    "question": "Was besagt Statement 7.20 zum onkologischen Vergleich zwischen Brachytherapie und Operation bei T1/T2-Tumoren?",
+    "options": [
+      "Die Brachytherapie ist onkologisch der Operation gleichwertig.",
+      "Die Brachytherapie ist der Operation onkologisch deutlich unterlegen.",
+      "Die Brachytherapie wird in der Leitlinie für T1/T2-Tumoren nicht erwähnt.",
+      "Eine Strahlentherapie ist bei T1/T2-Tumoren grundsätzlich kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Die perkutane Strahlentherapie zeigt dagegen laut Empfehlung 7.21 eine niedrigere lokale Kontrolle.",
+    "explanation": "Statement 7.20 besagt, dass die Brachytherapie onkologisch der Operation gleichwertig ist."
+  },
+  {
+    "question": "Worüber sollen Patienten laut Empfehlung 7.21 (Empfehlungsgrad A) bei einer perkutanen Strahlentherapie im Vergleich zur Brachytherapie aufgeklärt werden?",
+    "options": [
+      "Über die niedrigere lokale Kontrolle der perkutanen Strahlentherapie.",
+      "Darüber, dass die perkutane Strahlentherapie der Operation in jeder Hinsicht überlegen ist.",
+      "Darüber, dass keine relevanten Unterschiede zwischen den Verfahren bestehen.",
+      "Eine Aufklärungspflicht besteht in diesem Zusammenhang nicht."
+    ],
+    "correct": 0,
+    "tip": "Diese Aufklärung ist Teil der partizipativen Entscheidungsfindung zwischen organerhaltenden Therapieoptionen.",
+    "explanation": "Empfehlung 7.21 fordert mit Empfehlungsgrad A, dass Patienten über die im Vergleich niedrigere lokale Kontrolle der perkutanen Strahlentherapie aufgeklärt werden sollen."
+  },
+  {
+    "question": "Welche Therapieoption kann laut Empfehlung 7.14 (Empfehlungsgrad B) bei kleineren invasiven Glanstumoren eingesetzt werden?",
+    "options": [
+      "Die lokale Exzision.",
+      "Ausschließlich die radikale Penektomie.",
+      "Ausschließlich eine systemische Chemotherapie.",
+      "Eine lokale Therapieoption wird in diesem Stadium nicht angeboten."
+    ],
+    "correct": 0,
+    "tip": "Ist eine lokale Exzision nicht ausreichend, kommen Glansektomie oder Penisteilamputation in Betracht.",
+    "explanation": "Empfehlung 7.14 sieht mit Empfehlungsgrad B die lokale Exzision bei kleineren invasiven Glanstumoren vor."
+  },
+  {
+    "question": "Welche Kriterien werden laut Episode 5 als relevante Entscheidungskriterien bei der Therapiewahl zwischen Organerhalt und Teilamputation genannt?",
+    "options": [
+      "Lebensqualität, Sexualfunktion und Miktion im Stehen.",
+      "Ausschließlich die Versicherungsart des Patienten.",
+      "Ausschließlich das Operationsdatum.",
+      "Diese Kriterien werden in der Episode nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Diese funktionellen und lebensqualitätsbezogenen Aspekte sind zentral für die gemeinsame Therapieentscheidung mit dem Patienten.",
+    "explanation": "Lebensqualität, Sexualfunktion und die Fähigkeit zur Miktion im Stehen werden als wichtige Entscheidungskriterien bei der Therapiewahl genannt."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 5 im Zusammenhang mit dem Resektionsabstand diskutiert?",
+    "options": [
+      "Bei einem kleinen Glanstumor weiterhin 'lieber 2 cm Sicherheitsabstand und Teilamputation' zu wählen, obwohl wenige Millimeter ausreichen.",
+      "Einen zu geringen Sicherheitsabstand von unter 1 mm zu akzeptieren.",
+      "Grundsätzlich jede Form der Nachresektion abzulehnen.",
+      "Patienten nie über den Resektionsabstand aufzuklären."
+    ],
+    "correct": 0,
+    "tip": "Dies führt unnötig häufig zu einer radikaleren Operation als onkologisch erforderlich wäre.",
+    "explanation": "Der diskutierte Fallstrick ist, weiterhin einen Sicherheitsabstand von 2 cm mit entsprechender Teilamputation zu fordern, obwohl laut Empfehlung 7.17 bereits wenige Millimeter tumorfreier Abstand ausreichen."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 8.1 (Empfehlungsgrad A) bezüglich der Nachsorge von Peniskarzinom-Patienten?",
+    "options": [
+      "Eine regelmäßige risikostratifizierte Nachsorge, um sowohl Tumorrezidive als auch funktionelle Störungen erfassen zu können.",
+      "Eine Nachsorge ist bei kurativ behandelten Patienten nicht erforderlich.",
+      "Eine Nachsorge soll ausschließlich bildgebend ohne jede klinische Untersuchung erfolgen.",
+      "Eine Nachsorge soll ausschließlich bei Patienten mit Lymphknotenbefall erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Die klinische Untersuchung stellt dabei die wichtigste Komponente der Nachsorge dar.",
+    "explanation": "Empfehlung 8.1 fordert mit Empfehlungsgrad A eine regelmäßige risikostratifizierte Nachsorge, um sowohl Tumorrezidive als auch funktionelle Störungen erfassen zu können."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.2 den Patienten im Rahmen der Patientenedukation beigebracht werden?",
+    "options": [
+      "Die Selbstuntersuchung zur frühen Detektion von Rezidiven und langfristigen Erkennung von Zweittumoren.",
+      "Eine eigenständige Durchführung bildgebender Untersuchungen zu Hause.",
+      "Der Verzicht auf jede ärztliche Nachsorge zugunsten der Selbstuntersuchung.",
+      "Eine Patientenedukation ist in der Leitlinie nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Bei selbst beobachteten Veränderungen soll sich der Patient umgehend vorstellen, ohne den nächsten routinemäßigen Nachsorgetermin abzuwarten.",
+    "explanation": "Empfehlung 8.2 fordert, dass Patienten im Rahmen der Edukation die Selbstuntersuchung zur frühen Detektion von Rezidiven und langfristigen Erkennung von Zweittumoren beigebracht werden soll."
+  },
+  {
+    "question": "In welchen Intervallen soll laut dem empfohlenen Nachsorgeschema die klinische Untersuchung nach Organerhalt in den Jahren 1–2 bzw. 3–5 erfolgen?",
+    "options": [
+      "Alle 3 Monate in den Jahren 1–2, alle 6 Monate in den Jahren 3–5.",
+      "Einmal jährlich unabhängig vom Jahr nach Therapie.",
+      "Täglich in den ersten beiden Jahren.",
+      "Eine Nachsorge nach Organerhalt ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Nach totaler Penektomie erfolgt die Nachsorge in den Jahren 1–2 ebenfalls alle 3 Monate, danach jedoch nur noch jährlich.",
+    "explanation": "Nach Organerhalt soll die klinische Untersuchung in den Jahren 1–2 alle 3 Monate und in den Jahren 3–5 alle 6 Monate erfolgen."
+  },
+  {
+    "question": "Welchen Stellenwert hat laut Kapitel 8.1 die Bestimmung von Tumormarkern in der Nachsorge des Peniskarzinoms?",
+    "options": [
+      "Sie hat keinerlei Stellenwert in der Nachsorge.",
+      "Sie ist die zentrale, obligate Nachsorgeuntersuchung.",
+      "Sie ersetzt die klinische Untersuchung vollständig.",
+      "Tumormarker werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die klinische Untersuchung stellt stattdessen die wichtigste Komponente der Nachsorge dar.",
+    "explanation": "Die Bestimmung von Tumormarkern hat laut Kapitel 8.1 keinerlei Stellenwert in der Nachsorge des Peniskarzinoms."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.3 (Empfehlungsgrad B) bezüglich patientenberichteter Endpunkte bei der Behandlung von Peniskarzinom-Patienten?",
+    "options": [
+      "Lebensqualität, Symptomlast und/oder psychosoziale Belastung (Distress) sollen regelmäßig erhoben werden.",
+      "Patientenberichtete Endpunkte spielen keine Rolle in der Leitlinie.",
+      "Sie sollen ausschließlich einmalig bei Erstdiagnose erhoben werden.",
+      "Sie sollen ausschließlich von Angehörigen, nicht vom Patienten selbst, berichtet werden."
+    ],
+    "correct": 0,
+    "tip": "Eine systematische Literaturrecherche ergab signifikant erhöhte psychische Belastungen bei Peniskarzinom-Patienten im Vergleich zu anderen urogenitalen Tumorentitäten.",
+    "explanation": "Empfehlung 8.3 fordert mit Empfehlungsgrad B, dass Lebensqualität, Symptomlast und/oder psychosoziale Belastung (Distress) regelmäßig als patientenberichtete Endpunkte erhoben werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.4 bei persistierenden oder dringlichen psychosozialen Belastungen?",
+    "options": [
+      "Die bedarfsabhängige Integration spezialisierter psychosozialer und palliativer Maßnahmen gemäß den S3-Leitlinien Psychoonkologie und Palliativmedizin.",
+      "Den generellen Verzicht auf jede psychosoziale Unterstützung.",
+      "Eine ausschließlich medikamentöse Behandlung ohne psychosoziale Begleitung.",
+      "Eine Integration ist nur bei Patienten unter 40 Jahren vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Maßnahmen sollen bedarfsorientiert in die Behandlung integriert werden.",
+    "explanation": "Empfehlung 8.4 fordert bei persistierenden oder dringlichen Belastungen die bedarfsabhängige Integration spezialisierter psychosozialer und palliativer Maßnahmen gemäß den S3-Leitlinien Psychoonkologie und Palliativmedizin."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.5 (Empfehlungsgrad B) bezüglich sexueller Funktionsstörungen?",
+    "options": [
+      "Sie sollten sowohl im kurativen als auch im palliativen Behandlungskontext offen thematisiert werden.",
+      "Sie sollen aus Rücksicht auf den Patienten nicht angesprochen werden.",
+      "Sie sind ausschließlich im palliativen Kontext relevant.",
+      "Sexuelle Funktionsstörungen werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "70 % der Patienten berichten laut Hintergrundtext über negative Auswirkungen der Behandlung auf die Sexualfunktion.",
+    "explanation": "Empfehlung 8.5 fordert mit Empfehlungsgrad B, dass sexuelle Funktionsstörungen sowohl im kurativen als auch im palliativen Behandlungskontext offen thematisiert werden sollten."
+  },
+  {
+    "question": "Mit welcher Kompetenz und in welchem Setting soll laut Empfehlung 8.8 die Rehabilitation von Peniskarzinom-Patienten erfolgen?",
+    "options": [
+      "Mit uroonkologischer Kompetenz und unter Verwendung multimodaler Therapiekonzepte in spezialisierten Rehabilitationskliniken.",
+      "Ausschließlich ambulant ohne jede fachärztliche Begleitung.",
+      "Ausschließlich durch den Hausarzt ohne spezialisierte Einrichtung.",
+      "Eine Rehabilitation wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Die Anschlussrehabilitation ist u. a. im SGB V, SGB VI und SGB IX gesetzlich verankert.",
+    "explanation": "Empfehlung 8.8 fordert, dass die Rehabilitation mit uroonkologischer Kompetenz und unter Verwendung multimodaler Therapiekonzepte in spezialisierten Rehabilitationskliniken erfolgen soll."
+  },
+  {
+    "question": "Aus wie vielen Qualitätsindikatoren besteht das in Kapitel 9 vorgestellte Set der Leitlinie, und welche Themen deckt es u. a. ab?",
+    "options": [
+      "8 Qualitätsindikatoren, u. a. psychosoziales Screening, Befundberichte, invasive Lymphknotendiagnostik und Tumorboard-Vorstellung.",
+      "50 Qualitätsindikatoren zu allen denkbaren Aspekten der Versorgung.",
+      "1 einziger Qualitätsindikator zur Gesamtmortalität.",
+      "Es existiert kein definiertes Set an Qualitätsindikatoren."
+    ],
+    "correct": 0,
+    "tip": "Weitere Indikatoren betreffen z. B. die Kontrollbiopsie nach topischer/Lasertherapie und die neoadjuvante Chemotherapie.",
+    "explanation": "Kapitel 9 stellt ein Set von 8 Qualitätsindikatoren vor, das u. a. psychosoziales Screening, Befundberichte nach Resektion bzw. Lymphknotenentfernung, invasive Lymphknotendiagnostik und die Tumorboard-Vorstellung umfasst."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 11 im Zusammenhang mit der Nachsorge diskutiert?",
+    "options": [
+      "Routine-CT und Tumormarker 'zur Sicherheit' statt einer sorgfältigen Leistenpalpation einzusetzen, sowie das Thema Sexualität aus Scham auszuklammern.",
+      "Zu häufige klinische Untersuchungen durchzuführen, obwohl diese gar nicht nötig wären.",
+      "Die Selbstuntersuchung generell für überflüssig zu erklären.",
+      "Patienten grundsätzlich keine Nachsorgetermine anzubieten."
+    ],
+    "correct": 0,
+    "tip": "Die klinische Untersuchung, insbesondere die sorgfältige Leistenpalpation, stellt laut Leitlinie die wichtigste Komponente der Nachsorge dar; Tumormarker haben dagegen keinen Stellenwert.",
+    "explanation": "Der diskutierte Fallstrick ist, Routine-CT und Tumormarker 'zur Sicherheit' anstelle einer sorgfältigen Leistenpalpation einzusetzen, sowie das Thema Sexualität aus Scham in der Nachsorge auszuklammern."
+  }
+]

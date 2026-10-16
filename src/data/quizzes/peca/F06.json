@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Therapie der Wahl wird laut Empfehlung 7.22 bei T3-Tumoren genannt, und welche Alternative besteht bei ausgedehntem Befall?",
+    "options": [
+      "Penisteilamputation als Therapie der Wahl; bei ausgedehntem Befall radikale Penektomie mit perinealer Urethrostomie (Boutonniere).",
+      "Ausschließlich eine abwartende Beobachtung ohne operative Maßnahme.",
+      "Ausschließlich eine systemische Chemotherapie ohne jede operative Option.",
+      "Eine Therapieempfehlung wird für T3-Tumoren nicht gegeben."
+    ],
+    "correct": 0,
+    "tip": "Bei nur distaler Corporektomie kann zudem eine Neoglans gebildet werden.",
+    "explanation": "Empfehlung 7.22 nennt die Penisteilamputation als Therapie der Wahl bei T3-Tumoren, bei ausgedehntem Befall die radikale Penektomie mit perinealer Urethrostomie (Boutonniere)."
+  },
+  {
+    "question": "Welche Alternative zur Operation wird laut Empfehlung 7.23 bei T3-Tumoren genannt, und wie wird diese bewertet?",
+    "options": [
+      "Lokale Strahlentherapie, vorzugsweise Brachytherapie, mit geringerer lokaler Kontrolle als die Operation.",
+      "Eine Chemotherapie als vollwertiger Ersatz der Operation mit identischer Erfolgsrate.",
+      "Eine alleinige Beobachtungsstrategie ohne jede Therapie.",
+      "Eine Alternative zur Operation wird bei T3 nicht genannt."
+    ],
+    "correct": 0,
+    "tip": "Die perkutane Radiatio ist bei kurativer Intention dagegen nicht indiziert.",
+    "explanation": "Empfehlung 7.23 nennt die lokale Strahlentherapie, vorzugsweise als Brachytherapie, als Alternative zur Operation bei T3-Tumoren, mit einer im Vergleich geringeren lokalen Kontrolle."
+  },
+  {
+    "question": "Welche Therapieoptionen werden laut Empfehlung 7.24 bei T4-Tumoren genannt?",
+    "options": [
+      "Eine ausgedehnte Resektion oder eine lokale Strahlentherapie.",
+      "Ausschließlich eine abwartende Beobachtung.",
+      "Ausschließlich eine alleinige topische Therapie mit 5-Fluorouracil.",
+      "T4-Tumoren werden in der Leitlinie therapeutisch nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Häufig besteht bei T4-Tumoren bereits ein Lymphknotenbefall, sodass eine neoadjuvante Chemotherapie bzw. Radiochemotherapie erwogen werden sollte.",
+    "explanation": "Empfehlung 7.24 nennt bei T4-Tumoren eine ausgedehnte Resektion oder eine lokale Strahlentherapie als Therapieoptionen."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 7.25 ein Lokalrezidiv nach organerhaltender Operation behandelt werden?",
+    "options": [
+      "Wie der Primärtumor.",
+      "Grundsätzlich immer mit einer radikalen Penektomie, unabhängig vom Befund.",
+      "Ausschließlich palliativ, da ein Rezidiv per se inkurabel ist.",
+      "Ein Lokalrezidiv wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Nach einer Strahlentherapie ist dagegen laut Empfehlung 7.26 eine operative Salvage-Therapie vorgesehen.",
+    "explanation": "Empfehlung 7.25 fordert, dass ein Lokalrezidiv nach organerhaltender Operation wie der Primärtumor behandelt werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.26 bei einem Lokalrezidiv nach vorangegangener Strahlentherapie?",
+    "options": [
+      "Eine operative Salvage-Therapie.",
+      "Eine erneute Strahlentherapie mit derselben Technik.",
+      "Eine alleinige Beobachtung ohne Intervention.",
+      "Eine Salvage-Therapie ist in diesem Fall nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Nach topischer oder Lasertherapie soll laut Empfehlung 7.27 dagegen ein Wechsel der Behandlungsmodalität erfolgen.",
+    "explanation": "Empfehlung 7.26 fordert bei einem Lokalrezidiv nach Strahlentherapie eine operative Salvage-Therapie."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.27 bei einem Lokalrezidiv nach topischer oder Lasertherapie erfolgen?",
+    "options": [
+      "Ein Wechsel der Behandlungsmodalität.",
+      "Eine unveränderte Wiederholung derselben Therapieform.",
+      "Ausschließlich eine abwartende Beobachtung.",
+      "Eine sofortige systemische Chemotherapie ohne lokale Maßnahme."
+    ],
+    "correct": 0,
+    "tip": "Ein erneutes Lasern eines nach Laser rezidivierten Tumors widerspricht dieser Empfehlung.",
+    "explanation": "Empfehlung 7.27 fordert bei einem Lokalrezidiv nach topischer oder Lasertherapie einen Wechsel der Behandlungsmodalität."
+  },
+  {
+    "question": "Wie beeinflussen Lokalrezidive im Vergleich zu Lymphknotenrezidiven laut dem Episodeninhalt das Überleben?",
+    "options": [
+      "Lokalrezidive beeinflussen das Überleben weniger stark als Lymphknotenrezidive.",
+      "Lokalrezidive haben einen deutlich stärkeren Einfluss auf das Überleben als Lymphknotenrezidive.",
+      "Beide Rezidivformen haben identischen Einfluss auf das Überleben.",
+      "Rezidive haben laut Leitlinie grundsätzlich keinen Einfluss auf das Überleben."
+    ],
+    "correct": 0,
+    "tip": "Dies hat eine wichtige Konsequenz für die Aufklärung über organerhaltende Therapiekonzepte.",
+    "explanation": "Lokalrezidive beeinflussen laut dem Episodeninhalt das Überleben weniger als Lymphknotenrezidive."
+  },
+  {
+    "question": "Auf welches weitere Thema wird im Zusammenhang mit der psychischen Belastung nach Penektomie in Episode 6 verwiesen?",
+    "options": [
+      "Auf die Psychoonkologie, mit Querverweis auf eine spätere Episode.",
+      "Auf eine rein kosmetische Problematik ohne psychologische Relevanz.",
+      "Auf ein Thema, das in der Leitlinie nicht behandelt wird.",
+      "Ausschließlich auf finanzielle Aspekte der Behandlung."
+    ],
+    "correct": 0,
+    "tip": "Die Psychoonkologie wird in einer eigenen späteren Episode vertieft behandelt.",
+    "explanation": "Im Zusammenhang mit der psychischen Belastung und dem Körperbild nach Penektomie wird auf die Psychoonkologie mit Querverweis auf eine spätere Episode verwiesen."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 6 im Zusammenhang mit Lokalrezidiven nach Bestrahlung bzw. nach Laser diskutiert?",
+    "options": [
+      "Das Rezidiv nach Bestrahlung erneut zu bestrahlen und ein Lokalrezidiv nach Laser erneut zu lasern.",
+      "Jedes Lokalrezidiv sofort radikal operativ ohne jede Diagnostik zu behandeln.",
+      "Lokalrezidive grundsätzlich zu ignorieren.",
+      "Ein Lokalrezidiv immer fälschlich als Lymphknotenrezidiv zu werten."
+    ],
+    "correct": 0,
+    "tip": "Dies widerspricht den Empfehlungen 7.26 und 7.27, die nach Strahlen- bzw. Lasertherapie jeweils einen Wechsel der Modalität fordern.",
+    "explanation": "Der diskutierte Fallstrick ist, ein Rezidiv nach Bestrahlung erneut zu bestrahlen bzw. ein Lokalrezidiv nach Laser erneut zu lasern, anstatt wie empfohlen die Behandlungsmodalität zu wechseln."
+  },
+  {
+    "question": "Welcher Eingriff wird bei ausgedehntem T3-Befall als radikalste Form der lokalen Chirurgie mit perinealer Harnröhrenausleitung genannt?",
+    "options": [
+      "Die radikale Penektomie mit perinealer Urethrostomie (Boutonniere).",
+      "Die alleinige Zirkumzision.",
+      "Die alleinige lokale Exzision.",
+      "Die Glansektomie ohne Urethraversetzung."
+    ],
+    "correct": 0,
+    "tip": "Bei dieser Technik wird die Harnröhre perineal ausgeleitet.",
+    "explanation": "Die radikale Penektomie mit perinealer Urethrostomie (Boutonniere) wird als radikalste Operationsform bei ausgedehntem T3-Befall genannt."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 4.3 bezüglich des histologischen Subtyps im Befundbericht des Peniskarzinoms?",
+    "options": [
+      "Er soll nach der aktuellen WHO-Klassifikation angegeben werden, mit Unterscheidung HPV-assoziierter und nicht-HPV-assoziierter Plattenepithelkarzinome.",
+      "Eine Angabe des histologischen Subtyps ist nicht erforderlich.",
+      "Es genügt die alleinige Angabe 'Plattenepithelkarzinom' ohne weitere Differenzierung.",
+      "Der Subtyp soll ausschließlich nach TNM-Klassifikation angegeben werden."
+    ],
+    "correct": 0,
+    "tip": "Beispiele für HPV-assoziierte Subtypen sind basaloid oder warzig, für nicht-HPV-assoziierte der gewöhnliche, verruköse oder pseudohyperplastische Typ.",
+    "explanation": "Empfehlung 4.3 fordert, dass der histologische Subtyp nach aktueller WHO-Klassifikation angegeben werden soll, mit Unterscheidung HPV-assoziierter (z. B. basaloid, warzig) und nicht-HPV-assoziierter Subtypen (z. B. gewöhnlicher Typ, verrukös, pseudohyperplastisch)."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.4 bezüglich Vorläuferläsionen (PeIN) und begleitender Lichen sclerosus im pathologischen Befund?",
+    "options": [
+      "Sie sollen im Befund angegeben werden, da sie Bedeutung für das Lokalrezidivrisiko bei Organerhalt haben.",
+      "Sie sollen aus dem Befund weggelassen werden, da sie klinisch bedeutungslos sind.",
+      "Nur Lichen sclerosus, nicht aber PeIN soll angegeben werden.",
+      "Eine Angabe dieser Befunde ist nur bei metastasierter Erkrankung relevant."
+    ],
+    "correct": 0,
+    "tip": "Diese Angaben sind insbesondere für die Entscheidung über organerhaltende Therapiekonzepte relevant.",
+    "explanation": "Empfehlung 4.4 fordert die Angabe von Vorläuferläsionen (PeIN) und entzündlichen Begleiterkrankungen wie Lichen sclerosus im Befund, da dies Bedeutung für das Lokalrezidivrisiko bei Organerhalt hat."
+  },
+  {
+    "question": "Ist das Grading laut Empfehlung 4.5 beim Peniskarzinom obligat, und welche besondere methodische Einschränkung wird dabei genannt?",
+    "options": [
+      "Ja, das Grading ist obligat und Teil der T-Kategorie (pT1a vs. pT1b); es besteht jedoch eine hohe Interobserver-Variabilität (Kappa 0,34).",
+      "Nein, das Grading spielt beim Peniskarzinom keine Rolle.",
+      "Das Grading ist optional und hat keinen Einfluss auf die T-Kategorie.",
+      "Das Grading wird ausschließlich bei metastasierten Tumoren erhoben."
+    ],
+    "correct": 0,
+    "tip": "Diese Interobserver-Variabilität verdeutlicht die Grenzen der pathologischen Beurteilung in der Praxis.",
+    "explanation": "Empfehlung 4.5 legt fest, dass das Grading obligat ist und Teil der T-Kategorie (Unterscheidung pT1a vs. pT1b), wobei eine hohe Interobserver-Variabilität mit einem Kappa-Wert von 0,34 besteht."
+  },
+  {
+    "question": "Welche prognostischen Faktoren sollen laut Empfehlung 4.6 im pathologischen Befund angegeben werden?",
+    "options": [
+      "Lokalisation, perineurale Invasion, Infiltrationstiefe, Lymphgefäß- und venöse Invasion sowie das Wachstumsmuster an der Invasionsfront.",
+      "Ausschließlich die Tumorgröße in Millimetern.",
+      "Ausschließlich der PSA-Wert des Patienten.",
+      "Prognostische Faktoren werden in der Leitlinie nicht gefordert."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll laut Empfehlung 4.7 der Lymphknotenbefund mit Anzahl, Lokalisation, maximaler Metastasengröße und Kapselüberschreitung angegeben werden.",
+    "explanation": "Empfehlung 4.6 fordert die Angabe von Lokalisation, perineuraler Invasion, Infiltrationstiefe, Lymphgefäß- und venöser Invasion sowie Wachstumsmuster an der Invasionsfront als prognostische Faktoren im Befund."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.8 (Empfehlungsgrad A) bezüglich des HPV-Status im pathologischen Befund?",
+    "options": [
+      "Er soll im Befund angegeben werden, da HPV-/p16-positive Tumoren mit einem besseren krankheitsspezifischen Überleben assoziiert sind.",
+      "Eine Angabe des HPV-Status ist generell nicht vorgesehen.",
+      "Der HPV-Status ist der alleinige, ausreichende Prognosefaktor.",
+      "HPV-positive Tumoren zeigen laut Leitlinie ein schlechteres Überleben."
+    ],
+    "correct": 0,
+    "tip": "Der HPV-Status allein ist jedoch nicht der alleinige Prognosefaktor und muss im Gesamtkontext bewertet werden.",
+    "explanation": "Empfehlung 4.8 fordert mit Empfehlungsgrad A die Angabe des HPV-Status im Befund, da HPV-/p16-positive Tumoren mit einem besseren krankheitsspezifischen Überleben assoziiert sind, wenngleich dies nicht der alleinige Prognosefaktor ist."
+  },
+  {
+    "question": "Was besagt Statement 4.9 zur Rolle molekularer Marker in der Routinediagnostik des Peniskarzinoms?",
+    "options": [
+      "Es gibt keine molekularen Marker für die Routinediagnostik.",
+      "Molekulare Marker sind der zentrale Bestandteil der Standarddiagnostik.",
+      "Ausschließlich BRCA1/2-Testung ist obligat.",
+      "Molekulare Marker ersetzen die histologische Diagnostik vollständig."
+    ],
+    "correct": 0,
+    "tip": "Die Diagnostik stützt sich daher primär auf histologische und klinische Kriterien.",
+    "explanation": "Statement 4.9 stellt fest, dass es keine molekularen Marker für die Routinediagnostik des Peniskarzinoms gibt."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.10 bezüglich der Penisbiopsie?",
+    "options": [
+      "Es soll ausreichend Gewebe aus repräsentativen Arealen entnommen werden.",
+      "Eine oberflächliche Shave-Biopsie ist in jedem Fall ausreichend.",
+      "Eine Biopsie ist beim Peniskarzinom generell nicht erforderlich.",
+      "Es genügt eine zytologische Abstrichuntersuchung ohne Gewebeentnahme."
+    ],
+    "correct": 0,
+    "tip": "Eine zu oberflächliche Biopsie kann Invasionstiefe und Grading nicht zuverlässig beurteilbar machen.",
+    "explanation": "Empfehlung 4.10 fordert die Entnahme von ausreichend Gewebe aus repräsentativen Arealen im Rahmen der Penisbiopsie."
+  },
+  {
+    "question": "Entlang welcher anatomischen Strukturen kann sich das Peniskarzinom laut Kapitel 4.4.6 charakteristisch ausbreiten?",
+    "options": [
+      "Entlang der Perineuralspalten und intramukosal in der Harnröhre.",
+      "Ausschließlich hämatogen über die Nierenvenen.",
+      "Ausschließlich lymphogen in die mediastinalen Lymphknoten.",
+      "Eine spezifische Ausbreitungsroute wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Dies ist für die Beurteilung von Schnellschnitten und Absetzungsrändern von Bedeutung.",
+    "explanation": "Kapitel 4.4.6 beschreibt eine charakteristische Ausbreitung entlang der Perineuralspalten und intramukosal in der Harnröhre."
+  },
+  {
+    "question": "Welche Konsequenz kann laut dem Episodeninhalt eine zu oberflächliche Shave-Biopsie für die Lymphknotenstrategie haben?",
+    "options": [
+      "Sie macht Invasionstiefe und Grading nicht beurteilbar, was eine falsche Lymphknotenstrategie auslösen kann.",
+      "Sie hat keinerlei Einfluss auf die weitere Therapieplanung.",
+      "Sie führt automatisch zu einer korrekten Einschätzung der Invasionstiefe.",
+      "Sie ersetzt vollständig die Notwendigkeit einer Lymphknotendiagnostik."
+    ],
+    "correct": 0,
+    "tip": "Dies ist der in Episode 2 diskutierte zentrale Fallstrick bei der Diagnostik des Peniskarzinoms.",
+    "explanation": "Eine zu oberflächliche Shave-Biopsie macht die Invasionstiefe und das Grading nicht zuverlässig beurteilbar, was in der Folge zu einer falschen Lymphknotenstrategie führen kann."
+  },
+  {
+    "question": "Welche beiden HPV-assoziierten histologischen Subtypen werden als Beispiele genannt?",
+    "options": [
+      "Basaloid und warzig.",
+      "Gewöhnlicher Typ und verrukös.",
+      "Pseudohyperplastisch und sarkomatoid.",
+      "Adenosquamös und klarzellig."
+    ],
+    "correct": 0,
+    "tip": "Nicht-HPV-assoziierte Subtypen sind dagegen z. B. der gewöhnliche Typ, verrukös oder pseudohyperplastisch.",
+    "explanation": "Als Beispiele für HPV-assoziierte histologische Subtypen werden der basaloide und der warzige Typ genannt."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was ist das Grundprinzip der Behandlung laut Empfehlung 7.1 bei oberflächlichen bzw. frühen Stadien des Peniskarzinoms?",
+    "options": [
+      "Eine stadien- und differenzierungsabhängige organerhaltende Therapie.",
+      "Immer die radikale Penektomie unabhängig vom Stadium.",
+      "Grundsätzlich nur eine abwartende Beobachtung ohne jede Therapie.",
+      "Eine ausschließlich systemische Chemotherapie bereits im Frühstadium."
+    ],
+    "correct": 0,
+    "tip": "Die Aufklärung des Patienten über alle stadiengerechten Optionen soll dabei auf Basis einer aussagekräftigen Histologie erfolgen (Empfehlung 7.2).",
+    "explanation": "Empfehlung 7.1 fordert eine stadien- und differenzierungsabhängige organerhaltende Therapie als Grundprinzip."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.3 für oberflächliche Tumoren?",
+    "options": [
+      "Eine organ- und funktionserhaltende kurative Behandlung.",
+      "Grundsätzlich eine radikale Penektomie.",
+      "Eine rein palliative Behandlung ohne kurativen Anspruch.",
+      "Den vollständigen Verzicht auf jede Behandlung."
+    ],
+    "correct": 0,
+    "tip": "Dies gilt laut Empfehlung 7.4 jedoch nur bei Vorliegen einer aussagekräftigen Histologie.",
+    "explanation": "Empfehlung 7.3 fordert eine organ- und funktionserhaltende kurative Behandlung oberflächlicher Tumoren."
+  },
+  {
+    "question": "Welche topische Therapie kann laut Empfehlung 7.6 (Empfehlungsgrad 0) bei PeIN/Präkanzerosen eingesetzt werden?",
+    "options": [
+      "5-Fluorouracil oder Imiquimod.",
+      "Eine systemische Hochdosis-Chemotherapie.",
+      "Eine topische Antibiotikatherapie.",
+      "Eine topische Therapie ist bei PeIN nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Patienten sollen laut Empfehlung 7.7 über die begrenzte Wirksamkeit und den Off-Label-Gebrauch aufgeklärt werden.",
+    "explanation": "Empfehlung 7.6 sieht mit Empfehlungsgrad 0 den Einsatz von 5-Fluorouracil oder Imiquimod bei PeIN/Präkanzerosen vor."
+  },
+  {
+    "question": "Welche Lasertechniken werden laut Empfehlung 7.8 für PeIN/Präkanzerosen bzw. für Ta/T1-Tumoren unterschieden?",
+    "options": [
+      "CO2-Laser für PeIN/Präkanzerosen, Nd:YAG-Laser mit Tiefenkoagulation für Ta/T1.",
+      "Beide Stadien werden ausschließlich mit demselben Lasertyp behandelt.",
+      "Lasertherapie wird in der Leitlinie für das Peniskarzinom nicht erwähnt.",
+      "CO2-Laser wird ausschließlich bei T3/T4-Tumoren eingesetzt."
+    ],
+    "correct": 0,
+    "tip": "Beide Lasertechniken sollen mit entsprechenden Rezidivraten im Hintergrundtext diskutiert werden.",
+    "explanation": "Empfehlung 7.8 unterscheidet den CO2-Laser für PeIN/Präkanzerosen vom Nd:YAG-Laser mit Tiefenkoagulation für Ta/T1-Tumoren."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.9 nach einer topischen oder Lasertherapie?",
+    "options": [
+      "Eine Kontrollbiopsie und eine langfristige Nachsorge.",
+      "Keine weitere Kontrolle, da die Therapie als abschließend gilt.",
+      "Eine sofortige radikale Penektomie unabhängig vom Ansprechen.",
+      "Eine ausschließlich bildgebende Verlaufskontrolle ohne Biopsie."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt auch als Qualitätsindikator der Leitlinie.",
+    "explanation": "Empfehlung 7.9 fordert nach topischer oder Lasertherapie eine Kontrollbiopsie und eine langfristige Nachsorge."
+  },
+  {
+    "question": "Welches Verfahren wird laut Empfehlung 7.10 beim Carcinoma in situ (CIS) der Glans empfohlen?",
+    "options": [
+      "Das Glans Resurfacing (komplette Deepithelialisierung).",
+      "Ausschließlich eine systemische Chemotherapie.",
+      "Ausschließlich eine Strahlentherapie des gesamten Beckens.",
+      "Eine Behandlung des CIS wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Dieses Verfahren erhält die Glans weitgehend funktionell, während das befallene Epithel entfernt wird.",
+    "explanation": "Empfehlung 7.10 sieht das Glans Resurfacing (komplette Deepithelialisierung) beim Carcinoma in situ der Glans vor."
+  },
+  {
+    "question": "Welche Therapie wird laut Empfehlung 7.11 bei auf die Vorhaut beschränkten Tumoren empfohlen?",
+    "options": [
+      "Die Zirkumzision.",
+      "Eine radikale Penektomie.",
+      "Eine alleinige systemische Chemotherapie.",
+      "Eine palliative Strahlentherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese Therapie ist bei strikt auf die Vorhaut begrenzten Tumoren in der Regel ausreichend.",
+    "explanation": "Empfehlung 7.11 sieht bei auf die Vorhaut beschränkten Tumoren eine Zirkumzision vor."
+  },
+  {
+    "question": "Was kann laut Empfehlung 7.5 optional zur Abgrenzung eines Carcinoma in situ eingesetzt werden?",
+    "options": [
+      "Die Fluoreszenzdiagnostik.",
+      "Eine MRT des gesamten Körpers.",
+      "Eine Knochenszintigraphie.",
+      "Eine solche Zusatzdiagnostik wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies ist eine optionale, nicht obligate diagnostische Ergänzungsmaßnahme.",
+    "explanation": "Empfehlung 7.5 sieht die Fluoreszenzdiagnostik als optionale Methode zur Abgrenzung des Carcinoma in situ vor."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.4 Voraussetzung für eine organerhaltende Behandlung oberflächlicher Tumoren sein?",
+    "options": [
+      "Eine aussagekräftige Histologie.",
+      "Ein negativer HPV-Status.",
+      "Ein Patientenalter unter 50 Jahren.",
+      "Eine Voraussetzung wird in dieser Empfehlung nicht genannt."
+    ],
+    "correct": 0,
+    "tip": "Ohne eine solche aussagekräftige Histologie ist eine sichere Therapieentscheidung nicht möglich.",
+    "explanation": "Empfehlung 7.4 fordert eine aussagekräftige Histologie als Voraussetzung für die organerhaltende Behandlung oberflächlicher Tumoren."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 4 im Zusammenhang mit topischer oder Lasertherapie diskutiert?",
+    "options": [
+      "Nach Imiquimod oder Laser 'sieht gut aus' ohne Kontrollbiopsie zu werten, sowie eine topische Therapie ohne vorherige Histologie zu beginnen.",
+      "Eine Kontrollbiopsie routinemäßig durchzuführen, obwohl dies nicht erforderlich wäre.",
+      "Jede PeIN sofort radikal operativ zu behandeln.",
+      "Imiquimod grundsätzlich bei jedem Patienten zu verweigern."
+    ],
+    "correct": 0,
+    "tip": "Dies widerspricht den Anforderungen aus Empfehlung 7.4 (Histologie vor Therapie) und Empfehlung 7.9 (Kontrollbiopsie nach Therapie).",
+    "explanation": "Der diskutierte Fallstrick ist, nach Imiquimod- oder Lasertherapie allein aufgrund des optischen Eindrucks ohne Kontrollbiopsie von einem Therapieerfolg auszugehen, sowie eine topische Therapie ohne vorherige Histologiesicherung zu beginnen."
+  }
+]
