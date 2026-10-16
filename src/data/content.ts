@@ -98,7 +98,7 @@ export const CONTENT: { categories: Category[] } = {
           id: "interstitielle-zystitis",
           name: "Interstitielle Zystitis (IC/BPS)",
           badge: "S2k",
-          available: false,
+          available: true,
           description: "S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS)",
           episodes: icEpisodes,
         },

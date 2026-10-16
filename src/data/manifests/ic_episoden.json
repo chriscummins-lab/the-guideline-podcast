@@ -13,9 +13,9 @@
         "2.2",
         "2.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 1 – Grundlagen – Definition, Subtypen & Epidemiologie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 1.7–1.8 (Ziele, Adressaten), Kapitel 2.1 (Definition und Begriff), Kapitel 2.2 (Historie der Definitionen) und Kapitel 2.3 (Epidemiologie) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Ziele der Leitlinie: Erkennung, Diagnostik und Behandlung der IC/BPS im deutschsprachigen Raum verbessern; interdisziplinäre Adressaten inkl. Patientenvertretung; vollständig überarbeitete Version 2024.\n- Neue Definition 1 (2024): Entzündung von Harnblase oder Harnröhre, mögliche Assoziationen (Urothelschaden, Infektion, Toxine, Autoimmunität, Allergie), typische Symptome – stets unter Ausschluss von Differenzialdiagnosen.\n- Definition 2 – Subtypen nach zystoskopischem Befund: Hunner-Typ IC (HIC, „Hunner Lesion Disease“) vs. Nicht-Hunner-Typ IC (NHIC) mit bzw. ohne Glomerulationen; davon abgegrenzt das Blasenschmerzsyndrom (BPS) ohne zystoskopische oder histologische Veränderungen.\n- Die Hunner-Läsion: umschriebenes gerötetes Areal mit zur zentralen Narbe ziehenden Gefäßen und Fibrinbelag, wasserfallartige Blutung bei Dehnung; Glomerulationen sicher nur per Hydrodistension auszuschließen.\n- Terminologie-Wirrwarr im Vergleich (Tabelle 3): deutsche Leitlinie vs. ESSIC/ICD-11 (BPS als Überbegriff), AUA (IC/BPS), Ostasien (HIC vs. BPS, Hypersensitive Bladder); histologische Unterschiede HIC/NHIC/BPS (Tabelle 4).\n- Abgrenzung zur OAB: Leitsymptom Schmerz (NHIC) vs. Drang (OAB); IC/BPS ist keine histopathologische Diagnose und an kein bestimmtes Blasenvolumen gebunden. Kodierung ICD-10 N30.1, ICD-11 GC00.3 bzw. MG30.00.\n- Kurzer historischer Bogen (Tabelle 5): von Physick 1808 über Hunner 1915 bis Messing & Stamey 1978.\n- Epidemiologie: alle Altersgruppen, Gipfel im mittleren Alter; Frauen neunmal häufiger betroffen; Prävalenz Frauen 52–500/100.000, Männer 8–41/100.000; VHA-Daten 0,87 %; in Deutschland selten diagnostiziert, Dunkelziffer unbekannt.\nFormat & Moderation:\n- Zwei urologische Kollegen im fachlich fundierten Dialog beim Kaffee nach der Frühbesprechung.\n- Kollegial, präzise und differenziert, mit feinem ärztlichem Humor. Keine Verwässerung medizinischer Fachbegriffe.\n- Diskutiert den typischen Fallstrick: „Zystoskopie unauffällig – also keine IC.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 24
     },
     {
       "folge": 2,
@@ -24,9 +24,9 @@
       "kapitel": [
         "2.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 2 – Komorbiditäten, Lebensqualität & Malignomrisiko\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.4 (Begleiterscheinungen und Komorbiditäten, inkl. 2.4.1–2.4.4; Empfehlungen 2.1–2.7) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Auswirkungen der IC/BPS sollen erfragt und bei der Therapie berücksichtigt werden (2.1).\n- Nicht-blasenassoziierte Komorbiditäten als Warnsignal (2.2): Reizdarmsyndrom, Endometriose, Fibromyalgie, Autoimmunerkrankungen, Allergien, Vulvodynie, Migräne, Schlafapnoe, psychische Erkrankungen – bei Blasenbeschwerden an IC/BPS denken.\n- Bei Erstdiagnose und im Verlauf nach somatischen und psychosozialen Komorbiditäten fragen (2.3); bei Frauen im Verlauf kardiologische Abklärung (2.4).\n- Einschränkungen der Lebensqualität, existenzielle und soziopsychologische Faktoren (Kapitel 2.4.3): Partnerschaft, Sexualität, Arbeitsfähigkeit.\n- Malignomrisiko (2.4.4): Keller 2013 (0,63 % vs. 0,21 %, HR 1,96), Wu 2018 – etwa 6-fach erhöhtes Risiko für ein Harnblasenkarzinom und 2-fach für Urothelkarzinome des oberen Harntrakts; mögliche Erklärung durch chronische Entzündung.\n- Konsequenzen: Zystoskopie zu Beginn und im Verlauf, je nach Befund mit Biopsie (2.5); erhöhtes Risiko bei der Überwachung berücksichtigen (2.6); Patienten sollen über das deutlich erhöhte Risiko aufgeklärt werden (2.7).\nFormat & Moderation:\n- Zwei urologische Kollegen besprechen eine 45-jährige Patientin mit Reizdarmsyndrom, Migräne und seit Jahren „chronischer Blasenentzündung“.\n- Empathisch, präzise, kollegial, mit feinem ärztlichem Humor. Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: neue Mikrohämaturie bei bekannter IC/BPS als „gehört zur Grunderkrankung“ abtun.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 21
     },
     {
       "folge": 3,
@@ -45,9 +45,9 @@
         "2.5.10",
         "2.5.11"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 3 – Ätiopathogenese – was wissen wir wirklich?\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.5.1–2.5.11 (Hypothesen zur Ätiopathogenese; Statements/Empfehlungen 2.8–2.18) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024). Ernährung und Histaminintoleranz (2.5.12–2.5.13) folgen in Episode 6.\nInhalte:\n- Urotheldysfunktion: Urotheldefekte und erhöhte Permeabilität charakteristisch für HIC (2.8) – GAG-Schicht als Rationale späterer Therapien.\n- Infektionen (2.9): bakterielle/virale HWI als möglicher Trigger; ca. 7 % mit begleitenden rezidivierenden HWI; Symptomschübe nicht mit Bakteriennachweis verbunden; erhöhtes Risiko für Hepatitis B/C und Herpes zoster.\n- Beckenbodendysfunktion: Untersuchung auf erhöhten Tonus, Spannungsmyalgie, myofasziales Schmerzsyndrom (Tenderpoints) (2.10).\n- Viszeraler Crosstalk Darm–Blase (2.11) und Mikrobiom (2.12): bislang keine therapeutischen Konsequenzen.\n- Entzündung (2.13): B- und T-Zell-Infiltrate, bei HIC dichter, oft follikulär; Genetik (2.14) ohne klinische Diagnostik; NLRP3-Inflammasom als künftiger Angriffspunkt (2.15).\n- Neuronale Überaktivität, periphere und zentrale Sensibilisierung (2.16); Mastzellen: nicht die Dichte im Detrusor, sondern die subepitheliale Lokalisation ist typisch für HIC (2.17).\n- Gestörte Mikroperfusion als Erklärung für Gefäßpermeabilität und petechiale Blutungen (2.18).\n- Synthese: IC/BPS als heterogenes Syndrom mit mehreren Phänotypen – Bedeutung für eine phänotyporientierte Therapie.\nFormat & Moderation:\n- Journal Club: eine Assistenzärztin präsentiert, ein forschungsaffiner Oberarzt fragt kritisch nach – Grundlagen klinisch übersetzt.\n- Präzise und verständlich, mit feinem ärztlichem Humor; klar trennen zwischen gesicherten Statements und Hypothesen.\n- Diskutiert den Fallstrick: „Mastzellen in der Biopsie beweisen die IC.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 4,
@@ -61,9 +61,9 @@
         "3.5",
         "3.6"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 4 – Diagnostik I – Differenzialdiagnosen, Anamnese, Untersuchung & Urin\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 3.1 (Differenzialdiagnose), 3.2 (Anamnese), 3.3 (Biomarker), 3.4 (Körperliche Untersuchung inkl. Beckenbodenfunktionsuntersuchung), 3.5 (Urinuntersuchung) und 3.6 (Spezifische Schmerzdiagnostik); Empfehlungen 3.1–3.15 der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- IC/BPS als Ausschlussdiagnose mit vielen „confusable diseases“: OAB und hypersensitive Blase; Differenzialdiagnosen nach Organsystemen (Tabelle 9: muskuloskelettal, gastrointestinal, gynäkologisch, neurogen, psychisch, urologisch).\n- Zielgerichtete Anamnese (3.1): Beginn, Verlauf, Dauer, Auslöser, systematische Dokumentation mit Symptomschwere; aktuelle Medikations- und Therapieliste (3.2), alle Komorbiditäten (3.3).\n- Biomarker spielen in der klinischen Routine keine Rolle (3.4).\n- Körperliche Untersuchung: Schmerzmapping mit Triggerpunkten (3.5), rektale bzw. vaginale Untersuchung (3.6); vorher partizipative Aufklärung, Fokus auf Tenderpunkte, Tonus und Relaxation, sensibles Vorgehen bei Ängsten (3.7a–c).\n- Urin (3.8–3.13): Infekt- oder Virusnachweis schließt IC/BPS nicht aus; Urinstatus auf Mikrohämaturie, Leukozyturie, Nitrit, bakteriellen/mykotischen HWI; STD-Ausschluss per NAAT/PCR; bei steriler Leukozyturie Tuberkulose ausschließen; keine Suche nach Viren, Archaeen, Mikrobiom oder Biomarkern außerhalb von Studien; Urinzytologie vor Schnelltest, ersetzt keine Urethrozystoskopie.\n- Schmerzdiagnostik (3.14, 3.15): Basisassessment mit GUPI, ICSI oder VAS; bei V. a. chronische Schmerzerkrankung interdisziplinäres multimodales algesiologisches Assessment.\nFormat & Moderation:\n- Zwei urologische Kollegen in der Spezialsprechstunde gehen Schritt für Schritt die Erstvorstellung einer 38-jährigen Patientin mit Blasenschmerz und Pollakisurie durch.\n- Praxisnah, präzise, kollegial, mit feinem ärztlichem Humor – Fokus auf „Was brauche ich wirklich, was ist Studiencharakter?“.\n- Diskutiert den Fallstrick: sterile Leukozyturie ohne Tuberkulose-Ausschluss.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 5,
@@ -76,9 +76,9 @@
         "3.10",
         "3.11"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 5 – Diagnostik II – Urodynamik, Zystoskopie, Hydrodistension & Biopsie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 3.7 (Zusätzliche Untersuchungen: Urosonografie, Uroflowmetrie, Uroflow-EMG, Zystometrie/Druck-Fluss, Urethrozystoskopie, diagnostische Hydrodistension), 3.8 (KCl-Test), 3.9 (Biopsie), 3.10 (Stuhlanalyse) und 3.11 (Bildgebung); Empfehlungen 3.16–3.28 der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Basis: Urosonografie soll (3.16), Uroflowmetrie mit Restharn sollte (3.17), Uroflow-EMG (3.18) und Zystometrie/Druck-Fluss-Studie (3.19) können erwogen werden.\n- Urethrozystoskopie soll erfolgen (3.20a), Durchführung unter Anästhesie soll angeboten werden (3.20b), Erweiterung um Hydrodistension möglich (3.20c); Befunde: Glomerulationen, Petechien, pergamentartiges Urothel vs. Hunner-Läsion; NBI verbessert die Erkennung; unauffällige Zystoskopie schließt IC nicht aus.\n- Diagnostische Hydrodistension (3.21): bei unauffälliger Zystoskopie oder ausgeprägten Symptomen, immer in Narkose; Technik: Füllung unter Sicht mit 60–80 cm Wassersäule bis zum Stopp bzw. max. 800–1000 ml, Druck 1–3 min halten, Beobachtung bei Entleerung (Glomerulationen, Mucosa-Cracking, wasserfallartige Blutung), Fotodokumentation.\n- KCl-Test nur untergeordnet – fehlende Cut-offs, Schmerzbelastung (3.22).\n- Biopsie (3.23–3.25): IC/BPS durch Biopsie weder nachweisbar noch ausschließbar; Biopsien bei Hinweisen zum Ausschluss anderer Pathologien, v. a. CIS; Entnahme unter Einschluss des Detrusors; keine randomisierten Mapping-Biopsien bei unauffälligem Befund.\n- Keine Stuhlmikrobiomanalyse (3.26); radiologische Bildgebung nur zur Differenzialdiagnostik, ansonsten Studiencharakter (3.27, 3.28).\nFormat & Moderation:\n- Zwei urologische Kollegen im OP vor und während einer Zystoskopie mit Hydrodistension – einer erklärt, der andere fragt als Assistent nach.\n- Technisch präzise, kollegial, mit feinem ärztlichem Humor; Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: Hydrodistension in Lokalanästhesie „mal eben in der Ambulanz“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 18
     },
     {
       "folge": 6,
@@ -90,9 +90,9 @@
         "4.1.1",
         "4.1.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 6 – Konservative Therapie I – Lebensstil & Ernährung\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.5.12 (Nahrungsmittel und -inhaltsstoffe), 2.5.13 (Histaminintoleranz), 4.1.1 (Lebensstilveränderungen) und 4.1.2 (Ernährungsempfehlungen); Empfehlungen/Statements 2.19–2.21 und 4.1–4.11 der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Lebensstil (4.1–4.6): Kleidung, Sexualpraktiken, Ernährung, Getränke und Sport individuell anpassen; Unterkühlung und Stress vermeiden; Wärme oder Kälte bei Schüben; Blasentraining mit kontrollierter Trinkmenge; Rauchstopp; Atem- und Entspannungstechniken erlernen.\n- Evidenz zu Lebensmitteln (2.19): symptomverstärkende Lebensmittel in Humanstudien identifiziert, aber keine allgemeingültigen Ernährungsempfehlungen ableitbar; Fragebogen nach Shorter & Moldwin.\n- Individuelle Prüfung der Verträglichkeit statt pauschaler Meidung (2.20); keine eindeutigen Belege für nahrungsmittelbedingte Histaminintoleranz bei IC/BPS (2.21).\n- Anti-inflammatorische Ernährung kann Beschwerden lindern (4.7, 4.8).\n- Strukturiertes Vorgehen nach dem Nutrition Care Process (4.9): Ernährungsanamnese, Ernährungsdiagnose, individuelle Empfehlung, Monitoring, Evaluation.\n- Stufenschema bei V. a. Unverträglichkeit (4.10a–e): Ernährungs-Symptom-Tagebuch → zeitlich begrenzte individuelle Diät → Re-Exposition; keine generellen Verbotslisten; bei V. a. Histamin Karenz- und Testphase nach der entsprechenden Leitlinie.\n- Begleitende Ernährungstherapie durch qualifizierte Ernährungsfachkraft oder Ernährungsmediziner (4.11).\nFormat & Moderation:\n- Zwei urologische Kollegen besprechen eine Patientin, die aus Internet-Foren eine Liste von 40 „verbotenen“ Lebensmitteln mitbringt.\n- Empathisch, alltagsnah und evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: generelle Verbotslisten statt individueller Austestung mit Re-Exposition.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 19
     },
     {
       "folge": 7,
@@ -103,9 +103,9 @@
         "4.1.4",
         "4.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 7 – Konservative Therapie II – Psyche, Physiotherapie & Schmerztherapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.1.3 (Psychische Aspekte inkl. Mind-Body-Medizin), 4.1.4 (Physiotherapie inkl. Tenderpunkttherapie und Osteopathie) und 4.3 (Schmerztherapie: Allgemeines, Amitriptylin, Mirtazapin, Antikonvulsiva); Empfehlungen/Statements 4.12–4.18 und 4.37–4.43 der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Psychische Faktoren primär erfassen, z. B. mit HADS-D und PHQ-D (4.12); psychosoziale Aspekte frühzeitig ansprechen (4.13); bei psychischen Komorbiditäten psychotherapeutische/psychosomatische Mitbehandlung (4.14); Psychopharmaka nach den Leitlinien der jeweiligen Symptome (4.15).\n- Mind-Body-Medizin zur Stärkung der Selbstwirksamkeit und zum Stressabbau (4.16).\n- Beckenbodenphysiotherapie bei erhöhtem Tonus, myofaszialen Schmerzen oder Tenderpunkten durch speziell ausgebildete Therapeuten (4.17); Osteopathie als Option (4.18).\n- Schmerztherapie nach den Prinzipien chronischer Schmerzerkrankungen, interdisziplinär-multimodal (4.37, 4.38).\n- Nicht-Opioide und Opioide: geringe Evidenz, mit nicht-medikamentösen Maßnahmen kombinieren (4.39); NSAR und Opioide können Histamin freisetzen und Beschwerden verstärken (4.40).\n- Amitriptylin einschleichend mit 10 mg abends (4.41); Mirtazapin als Alternative bei Unverträglichkeit oder anticholinerger Last, ohne Zulassung (4.42); Antikonvulsiva bei stechenden, neuropathischen Schmerzen (4.43).\nFormat & Moderation:\n- Interdisziplinäre Schmerzkonferenz: eine Urologin und ein schmerztherapeutisch erfahrener Kollege besprechen einen 52-jährigen Patienten mit IC/BPS, Schlafstörung und depressiver Verstimmung.\n- Reflektiert, präzise, kollegial; Dosierungen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: Opioid-Eskalation als Monotherapie.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 8,
@@ -114,9 +114,9 @@
       "kapitel": [
         "4.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 8 – Orale medikamentöse Therapie – von PPS bis Antiinfektiva\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.2 (Orale medikamentöse Therapie, 4.2.1–4.2.11; Empfehlungen/Statements 4.19–4.36) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Pentosanpolysulfat (PPS) als einziges in Deutschland zugelassenes orales Präparat: Basistherapie bei Glomerulationen oder Hunner-Läsionen gemäß Zulassung, eingebettet in flankierende Maßnahmen (4.19); Mechanismus (GAG-Ersatz), Dosierung 3 × 100 mg, Wirkbeginn nach 3–6 Monaten, besserer Effekt bei frühem Therapiebeginn; Nebenwirkungen und Kontraindikationen (aktive Blutung).\n- PPS und pigmentäre Makulopathie (4.20): Kausalität nicht sicher belegt, trotzdem regelmäßige augenärztliche Kontrollen und Aufklärung über Frühsymptome.\n- Weitere Optionen mit schwächerer Evidenz: Alpha-1A-Blocker bei Schmerz plus Pollakisurie (4.21), Hydroxyzin bevorzugt in Kombination (4.22), Cimetidin bei Erwachsenen (4.23), keine H2-Antagonisten bei Kindern (4.24), Montelukast (4.25), PDE-5-Hemmer off-label (4.26), Nifedipin (4.27), Cyclosporin A im Einzelfall (4.28), Muskelrelaxanzien bei hypertonem Beckenboden (4.31).\n- Monoklonale Antikörper (Anti-TNF-α, Anti-NGF) und Thrombomodulin: nur Studiencharakter (4.29, 4.30).\n- Antiinfektive Therapie (4.32–4.36): keine antimikrobielle Therapie ohne eindeutig nachgewiesene Begleitinfektion; HWI nach S3-Leitlinie unkomplizierte HWI behandeln; asymptomatische Bakteriurie nur vor schleimhautverletzenden Eingriffen; STD resistenzgerecht behandeln; Impfung gegen Hepatitis B und Herpes zoster (ab 50 Jahren).\nFormat & Moderation:\n- Zwei urologische Kollegen bei der Therapieplanung für eine Patientin mit NHIC mit Glomerulationen, die nach 6 Wochen PPS „noch nichts merkt“.\n- Präzise, kollegial, mit feinem ärztlichem Humor; Empfehlungsstärke (soll/sollte/kann) jeweils klar benennen.\n- Diskutiert den Fallstrick: wiederholte Antibiotikakuren bei jedem Symptomschub.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 9,
@@ -125,9 +125,9 @@
       "kapitel": [
         "4.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 9 – Komplementärmedizinische & experimentelle Verfahren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.4 (Komplementärmedizinische Therapie, 4.4.1–4.4.12; Empfehlungen/Statements 4.44–4.59) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Akupunktur: Wirkung nicht abschließend beurteilbar, wegen fehlender Nebenwirkungen als Heilversuch möglich, sofern wirksamere Therapien nicht verzögert werden (4.44).\n- Intravesikales Ozon bei therapierefraktären Patienten (4.45); ESWT mit widersprüchlicher Datenlage (4.46); PEMF nebenwirkungsfrei, kann angeboten werden (4.47, 4.48).\n- Phytotherapie mit histaminmodulierenden Pflanzen kann angeboten werden (4.49, 4.50); Nahrungsergänzungsmittel nicht empfohlen, außer L-Arginin keine RCTs, individueller Therapieversuch möglich (4.51, 4.52).\n- Neuraltherapie als Therapieversuch (4.53); transkranielle Magnetstimulation in refraktären Fällen (4.54).\n- Nicht empfohlen bzw. nur in Studien: Glitazone (4.55), Stammzelltherapie (4.56, 4.57), PRP allein (4.59); autologes emulgiertes Fett zusammen mit PRP als intravesikale Injektion bei refraktärer IC/BPS erwägbar (4.58).\n- Wie man Patienten zu Komplementärverfahren berät: Erwartungsmanagement, Kosten, Evidenzniveau.\nFormat & Moderation:\n- Zwei urologische Kollegen gehen die „Wunschliste“ einer gut informierten Patientin durch, die alles von Akupunktur bis Stammzellen ausprobieren möchte.\n- Offen, fair und evidenzbasiert, mit feinem ärztlichem Humor – weder abwertend noch unkritisch.\n- Diskutiert den Fallstrick: teure Selbstzahlerverfahren mit Studiencharakter als etablierte Therapie verkaufen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 22
     },
     {
       "folge": 10,
@@ -136,9 +136,9 @@
       "kapitel": [
         "4.5"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 10 – Intravesikale Therapie – Instillationen, Injektionen & Hydrodistension\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.5 (Intravesikale Therapie, 4.5.1–4.5.11; Empfehlungen/Statements 4.60–4.71) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- GAG-Schicht-Restitution: Heparin ohne Dosisempfehlung (4.60); Hyaluronsäure (4.61) und Chondroitinsulfat (4.62) sollten angeboten werden; alle GAG-Substanzen wirksam, optimale Substanz, Dosis, Verweildauer und Intervalle unklar (4.63); Kombination HA + CS mit höheren Wirkstoffkonzentrationen und möglichem Vorteil (4.64).\n- Lidocain intravesikal auch zur akuten Schmerztherapie (4.65).\n- DMSO als Zweitlinientherapie mit umsichtiger Anwendung (4.66): Wirkmechanismen, in Deutschland nicht als sterile Fertiglösung erhältlich (USA: RIMSO-50), üblich 50 ml 50 % mit 10–20 min Verweildauer; besonders bei HIC und nach Hydrodistension.\n- Intravesikales Oxybutynin bei therapieresistenter IC/BPS (4.67).\n- Injektionen: Onabotulinumtoxin A off-label (4.68); Lokalanästhetika und/oder Kortikosteroide (4.69).\n- Therapeutische Hydrodistension, bei Besserung wiederholbar (4.70); EMDA-Therapie sollte angeboten werden (4.71).\nFormat & Moderation:\n- Zwei urologische Kollegen im Instillationsraum der Ambulanz planen ein Instillationsschema für eine Patientin nach erfolgloser oraler Therapie.\n- Praxisnah, präzise, kollegial, mit feinem ärztlichem Humor; keine Dosierungen oder Schemata erfinden – nur aus der Leitlinie.\n- Diskutiert den Fallstrick: DMSO als Erstlinientherapie.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 17
     },
     {
       "folge": 11,
@@ -148,9 +148,9 @@
         "4.6",
         "5"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 11 – Interventionelle & operative Therapie, Rehabilitation\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.6 (Interventionelle/operative Therapie, 4.6.1–4.6.6; Empfehlungen/Statements 4.72–4.80) und Kapitel 5 (Rehabilitationsmaßnahmen; Empfehlungen 5.1–5.2) der S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS) (AWMF 043-050, Version 2.0, 2024).\nInhalte:\n- Hunner-Läsionen: transurethrale Fulguration soll Patienten mit HIC angeboten werden (4.72); TUC, TUR oder Laser; Ansprechraten 57–100 %, Wirkung über Monate bis >2 Jahre, häufig Wiederholung nötig.\n- Neuromodulation: SNM nach Versagen mehrerer konservativer Verfahren und vor großen Operationen (4.73); PNM in erfahrenen Zentren (4.74); pNTS/tNTS parallel zu anderen konservativen Verfahren, implantierbare NTS bei unzureichendem Ansprechen (4.75).\n- Hyperbare Sauerstofftherapie als ergänzende Option, wenn andere konservative Maßnahmen nicht ausreichen (4.76).\n- Zystektomie und Harnableitung als Ultima Ratio (4.77, 4.79); Aufklärung über alle Formen der Harnableitung inkl. kontinenter Ableitung als katheterisierbarer Nabelpouch auch nach Urethrektomie (4.78); Risiko der Symptompersistenz bei belassener Harnröhre oder Blasenanteilen (4.80).\n- Stationäre urologische Rehabilitation vor invasiveren Maßnahmen bei Versagen ambulanter Therapie (5.1) und nach Zystektomie mit Harnableitung (5.2); Voraussetzung Rehabilitationsfähigkeit.\n- Abschließender Überblick: die Eskalationslogik der IC/BPS-Therapie von konservativ bis operativ.\nFormat & Moderation:\n- Tumorkonferenz-ähnliche Fallbesprechung zweier urologischer Kollegen: eine 58-jährige Patientin mit therapierefraktärer HIC und Blasenkapazität von 150 ml fragt nach der Zystektomie.\n- Abwägend, präzise und empathisch, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: supratrigonale Zystektomie ohne Aufklärung über mögliche Symptompersistenz.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 21
     }
   ]
 }
