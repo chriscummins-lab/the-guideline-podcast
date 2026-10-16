@@ -6,6 +6,9 @@ import { bpsEpisodes } from "@/data/guidelines/bps";
 import { phiEpisodes } from "@/data/guidelines/phi";
 import { nzkEpisodes } from "@/data/guidelines/nzk";
 import { hbkEpisodes } from "@/data/guidelines/hbk";
+import { pecaEpisodes } from "@/data/guidelines/peca";
+import { icEpisodes } from "@/data/guidelines/ic";
+import { uroEpisodes } from "@/data/guidelines/uro";
 import { andrologieGuidelines } from "@/data/guidelines/andrologie";
 
 export const CONTENT: { categories: Category[] } = {
@@ -58,8 +61,8 @@ export const CONTENT: { categories: Category[] } = {
           name: "Peniskarzinom",
           badge: "S3",
           available: false,
-          description: "S3-Leitlinie Peniskarzinom",
-          episodes: [],
+          description: "S3-Leitlinie Diagnostik, Therapie und Nachsorge des Peniskarzinoms",
+          episodes: pecaEpisodes,
         },
       ],
     },
@@ -90,6 +93,22 @@ export const CONTENT: { categories: Category[] } = {
           available: true,
           description: "S2e-Leitlinie Diagnostik und Therapie des Benignen Prostatasyndroms",
           episodes: bpsEpisodes,
+        },
+        {
+          id: "interstitielle-zystitis",
+          name: "Interstitielle Zystitis (IC/BPS)",
+          badge: "S2k",
+          available: false,
+          description: "S2k-Leitlinie Diagnostik und Therapie der Interstitiellen Zystitis (IC/BPS)",
+          episodes: icEpisodes,
+        },
+        {
+          id: "urolithiasis",
+          name: "Urolithiasis",
+          badge: "S2k",
+          available: false,
+          description: "S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis",
+          episodes: uroEpisodes,
         },
         {
           id: "neurogene-blase",

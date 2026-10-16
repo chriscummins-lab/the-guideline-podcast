@@ -1,0 +1,231 @@
+{
+  "guideline": "S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis – AWMF 043-025, Aktualisierung 2018 (publiziert 07/2019, Gültigkeit abgelaufen)",
+  "glCode": "URO",
+  "episoden": [
+    {
+      "folge": 1,
+      "stem": "URO_F01_GrundlagenBildgebung",
+      "titel": "Grundlagen & bildgebende Diagnostik",
+      "kapitel": [
+        "1",
+        "M (Tab. 4, 5)",
+        "2.1"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 1 – Grundlagen & bildgebende Diagnostik\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 1 (Einleitung), die Konsens- und Empfehlungsstärken im Methodenteil (Tabellen 4 und 5) sowie Kapitel 2.1 (Methoden und Zielsetzung der Bildgebung, 2.1.1–2.1.6) der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Harnsteinleiden als Volkskrankheit: steigende Inzidenz und Prävalenz bei Erwachsenen und Kindern, Rezidivrate bis zu 50 % – daher Identifikation von Risikopatienten; Key Changes 2018 (konservative Therapie, Kinder, metabolische Diagnostik, Metaphylaxe). Kurzer Hinweis: S2k-Leitlinie, Literatur bis 12/2017, Gültigkeit inzwischen abgelaufen.\n- Empfehlungssprache „soll / sollte / kann“ und Konsensstärken kurz erklären.\n- ALARA-Prinzip (Statement 2.1): Steinpatienten, besonders junge Rezidivsteinbildner, haben ein relevantes Risiko kumulativer Strahlenbelastung.\n- Ziele der Bildgebung: Steinnachweis/-ausschluss, Lokalisation, Größe, Röntgeneigenschaft, Konfiguration des Hohlsystems, Sekundärpathologien.\n- Ultraschall als Bildgebung der ersten Wahl in Akutsituation, Diagnostik und Nachsorge (2.1.1): Sensitivität bis 96 % bei Steinen >5 mm mit Kelchdilatation, Farbdoppler/Twinkling, Überschätzung der Steingröße – Schallschattenbreite und S-Mode.\n- Abdomenübersicht (Sensitivität 44–77 %, ca. 0,5 mSv) und Ausscheidungsurographie (Kontraindikationen) im heutigen Stellenwert.\n- Native CT als weiterführende Standarddiagnostik bei V. a. Harnleiterstein (Sensitivität 94–100 %), Hounsfield-Einheiten, koronare Rekonstruktion, Dual-Energy-CT; Strahlendosen low-dose vs. regulär vs. Kontrast-CT; Indinavir- und Matrixsteine sind auch im CT nicht sichtbar.\n- MRT und Nierenszintigraphie spielen in der Routinediagnostik keine Rolle; Ureteropyelographie bei Indikation zur Harnableitung – bei Infekt keine Druckerhöhung im Hohlsystem (Urosepsis-Risiko).\nFormat & Moderation:\n- Zwei urologische Kollegen am Ultraschallgerät in der Notaufnahme, daneben ein Monitor mit dem Steinsuche-CT.\n- Kollegial, präzise und differenziert, mit feinem ärztlichem Humor. Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: das dritte CT im Jahr beim 28-jährigen Rezidivsteinbildner „zur Sicherheit“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 2,
+      "stem": "URO_F02_NierenkolikSchmerztherapie",
+      "titel": "Akute Nierenkolik – Notfalldiagnostik & Schmerztherapie",
+      "kapitel": [
+        "2.2",
+        "3.1",
+        "3.1.1",
+        "3.2",
+        "Abb. 1",
+        "Tab. 6"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 2 – Akute Nierenkolik – Notfalldiagnostik & Schmerztherapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.2 (Notfalldiagnostik), Kapitel 3 (Behandlung von Patienten mit Nierenkolik inkl. 3.1, 3.1.1 und 3.2), Abbildung 1 (Algorithmus akute Harnleiterkolik) und Tabelle 6 (Laboruntersuchungen) der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Notfalldiagnostik: Sonographie als Primärdiagnostik, natives CT weiterführend; sofortige Diagnosesicherung bei V. a. Urosepsis, Fieber oder Einzelniere; verzögerte CT als Alternative bei geringer Interventionswahrscheinlichkeit.\n- Algorithmus akute Harnleiterkolik (Abbildung 1) und empfohlenes Labor (Tabelle 6): Urinstix, Sediment/Kultur, Blutbild, Kreatinin, Harnsäure, (ionisiertes) Kalzium, Natrium, Kalium, CRP, Gerinnung bei wahrscheinlicher Intervention.\n- Schmerzziel nach NRS: ≤3 in Ruhe bzw. ≤5 während einer Kolikepisode.\n- Empfehlung 3.1: Metamizol, Paracetamol und Diclofenac (bei normaler Nierenfunktion) sind Opioiden vorzuziehen; Metamizol 1 g ≈ Diclofenac 75 mg, 2 g Metamizol überlegen; Agranulozytose-Risiko; NSAID-Risiken bei Nierenvorschädigung und kardiovaskulären Patienten.\n- Opioide nur zweite Linie; Pethidin nicht verwenden, Tramadol nur bei gesicherter Wirkung (poor metabolizer, Emesis); N-Butylscopolamin sollte nicht eingesetzt werden.\n- Schwangerschaft und Stillzeit: Paracetamol und Opioide möglich, NSAIDs nur nach Nutzen-Risiko-Abwägung (trimesterspezifische Bedenken).\n- Prävention rezidivierender Koliken: NSAIDs, Alphablocker (off-label, Aufklärung); bei Status colicus Harnleiterschiene, Nephrostomie oder primäre Steinentfernung anbieten. Entlassungskriterien bei MET: Infekt ausgeschlossen, ausreichende Analgesie, Kooperationsfähigkeit.\nFormat & Moderation:\n- Nachtdienst in der Notaufnahme: Assistenzärztin und Oberarzt bei einem 42-jährigen Patienten mit linksseitiger Kolik, der sich vor Schmerzen krümmt.\n- Praxisnah, präzise, mit feinem ärztlichem Humor. Dosierungen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: Buscopan als „Klassiker“ gegen die Kolik.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 3,
+      "stem": "URO_F03_HarnableitungInfekt",
+      "titel": "Harnableitung & infizierte Harnstauungsniere",
+      "kapitel": [
+        "4",
+        "4.1",
+        "4.1.1",
+        "4.1.2",
+        "6.1"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 3 – Harnableitung & infizierte Harnstauungsniere\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4 (Harnableitung: Indikationen, infizierte Harnstauungsniere, Steingröße/-lokalisation und Therapieplanung) sowie Kapitel 6.1 (generelle Empfehlung vor interventioneller Steintherapie) der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Indikationen zur Harnableitung (Statement 4.1): medikamentös nicht beherrschbare Koliken, hochgradige Obstruktion mit Harnstauungsniere, steigende Retentionswerte (postrenales Nierenversagen).\n- DJ-Schiene und perkutane Nephrostomie sind gleichwertig; die geplante Folgetherapie soll die Wahl mitbestimmen.\n- Infizierte Harnstauungsniere als urologischer Notfall: sofortige Entlastung (PCN oder DJ, gleichwertig), Ziel Vermeidung der Urosepsis; Datenlage zur alleinigen Antibiotikatherapie unzureichend; Zeitpunkt der kalkulierten Antibiose und selektive Urinprobe aus der Niere.\n- Sofortige Nephrektomie als seltene Option in der Akutsituation.\n- Definitive Steinsanierung erst nach resistenzgerechter Infektbehandlung; vor jeder aktiven Steintherapie Ausschluss bzw. Behandlung einer akuten HWI (6.1), bei klinisch signifikanter Infektion und Obstruktion mehrtägige Harnableitung vorab.\n- Weitere Faktoren der Therapieplanung (4.1.2): Spontanabgangswahrscheinlichkeit, Patientenpräferenz, Verfügbarkeit und Narkosemöglichkeiten; präoperative Schienung vor URS.\n- Ureteropyelographie bei Indikation zur Ableitung, aber Druckerhöhung bei Infekt vermeiden (Querbezug zu 2.1.5).\nFormat & Moderation:\n- Zwei urologische Kollegen am Wochenende: 67-jährige Patientin mit Fieber 39,2 °C, Harnleiterstein 8 mm und Harnstau Grad II – DJ oder PCN?\n- Klar, entscheidungsorientiert und kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Wir machen gleich die URS, dann ist der Stein auch raus.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 4,
+      "stem": "URO_F04_KonservativeTherapieMET",
+      "titel": "Konservative Therapie – Spontanabgang, MET & aktive Überwachung",
+      "kapitel": [
+        "5.1",
+        "5.2",
+        "5.3",
+        "Abb. 2",
+        "Tab. 7",
+        "Tab. 8"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 4 – Konservative Therapie – Spontanabgang, MET & aktive Überwachung\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5 (Konservative Therapie: 5.1 Harnleitersteine, 5.2 medikamentöse Supportivmedikation, 5.3 aktive Überwachung bei Nierensteinen) inkl. Abbildung 2 und Tabellen 7 und 8 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Abwarten des Spontanabgangs bei neu diagnostiziertem Harnleiterstein bis 7 mm unter regelmäßiger Kontrolle; Verlaufskontrollen alle 1–2 Wochen (Schmerzmittelbedarf, Infektzeichen, Harntransportstörung, Nierenfunktion).\n- Spontanabgangsraten nach Tabelle 7: <5 mm 68 %, 5–10 mm 47 %, 4–5 mm 87 % (ca. 6 Tage), 6–7 mm 75 % (ca. 12,5 Tage); Steine ≤4 mm bis 95 % innerhalb von 40 Tagen.\n- Entscheidung konservativ vs. interventionell auch nach patientenorientierten Faktoren.\n- MET: Alphablocker (Tamsulosin, Silodosin, Doxazosin u. a.) und Nifedipin; größter Nutzen bei distalen Steinen >5 mm (Ye et al.: 87 vs. 75 %); Pickard-Studie (SUSPEND) und warum sie nicht für Steine >5 mm gepowert war.\n- Off-label-Gebrauch, Aufklärungspflicht, Nebenwirkungen (retrograde Ejakulation, Hypotonie), Kontraindikationen; G-BA-Beschluss 2019 zu Tamsulosin; keine Empfehlung für Kombination mit PDE-5-Hemmern oder Kortikosteroiden.\n- MET nach ESWL/URS und Alphablocker gegen Schienenbeschwerden (5.2.3); Algorithmus Therapieplanung (Abbildung 2).\n- Asymptomatische Nierensteine: aktive Überwachung mit jährlicher Untersuchung und Bildgebung; natürlicher Verlauf nach Tabelle 8 (Symptomentwicklung, Größenzunahme, Interventionsbedarf).\nFormat & Moderation:\n- Zwei urologische Kollegen in der Steinsprechstunde: ein 35-jähriger Patient mit 6-mm-Stein im distalen Harnleiter möchte „bitte keine OP“, eine Patientin mit Zufallsbefund 5-mm-Kelchstein.\n- Abwägend, evidenzbasiert, mit feinem ärztlichem Humor; kritische Diskussion der widersprüchlichen MET-Studien.\n- Diskutiert den Fallstrick: MET ohne Aufklärung über Off-label-Gebrauch und ohne Kontrolltermin.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 5,
+      "stem": "URO_F05_InterventionIndikation",
+      "titel": "Interventionelle Therapie – Indikationen & Verfahrenswahl",
+      "kapitel": [
+        "2.3",
+        "6",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5",
+        "Abb. 3–5",
+        "Tab. 9"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 5 – Interventionelle Therapie – Indikationen & Verfahrenswahl\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2.3 (Bildgebung für interventionelle Steinbehandlung) und Kapitel 6 (Indikatoren zur interventionellen Therapie: 6.2 spezielle Indikationen, 6.3 Harnleitersteine, 6.4 Nierensteine, 6.5 Nachsorge) inkl. Abbildungen 3–5 und Tabelle 9 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Indikationen zur aktiven Steintherapie: geringe Spontanabgangswahrscheinlichkeit, keine adäquate Analgesie, persistierende Obstruktion; präinterventionell Kenntnis der Hohlsystemkonfiguration (meist Kontrastmittelbildgebung).\n- Spezielle Situationen: Antikoagulation (URS als Verfahren der Wahl, wenn Pausieren nicht möglich; ASS 100 mg kann fortgeführt werden), Adipositas (ESWL/PCNL schlechter, URS BMI-unabhängig), harte Steine (Brushit, CaOx-Monohydrat, Zystin → PCNL/URS), röntgennegative Steine (orale Chemolitholyse bei Harnsäure).\n- Harnleitersteine (Abbildung 3): proximal ≤10 mm 1. ESWL, 2. URS; proximal >10 mm URS/ESWL; mittlerer/distaler Harnleiter 1. URS, 2. ESWL. Steinfreiheitsraten nach Tabelle 9 (z. B. distal URS 93 % vs. ESWL 74 %).\n- Antegrade URS sowie offene/laparoskopische Ureterolithotomie als Ausnahmeoptionen.\n- Nierensteine außer Unterpol (Abbildung 4): >20 mm 1. PCNL (2. URS oder ESWL), 10–20 mm ESWL/PCNL/URS, <10 mm 1. ESWL/URS (2. PCNL).\n- Unterpolsteine (Abbildung 5): ESWL-SFR nur 25–85 %; 10–20 mm abhängig von negativen Erfolgsprädiktoren (ja → 1. URS/PCNL; nein → URS/PCNL/ESWL); flexible URS bei Steinen >1,5 cm möglich, aber sinkende SFR und mehr Zweiteingriffe.\n- Nachsorge: Ultraschall innerhalb von 3 Monaten bei asymptomatischen Patienten, low-dose nativ-CT bei V. a. relevante Residuen; bei in-toto-Extraktion kann postinterventionelle Röntgenbildgebung entfallen.\nFormat & Moderation:\n- Indikationsbesprechung im Steinboard: zwei Kollegen gehen vier CT-Befunde durch (proximaler 8-mm-Stein, distaler 6-mm-Stein unter DOAK, 15-mm-Unterpolstein, 25-mm-Nierenbeckenstein).\n- Strukturiert, präzise und kollegial – die Algorithmen sollen hörbar „durchgegangen“ werden.\n- Diskutiert den Fallstrick: ESWL beim 15-mm-Unterpolstein mit langem, engem Kelchhals.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 6,
+      "stem": "URO_F06_ESWL",
+      "titel": "Extrakorporale Stoßwellenlithotripsie (ESWL)",
+      "kapitel": [
+        "7",
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "Tab. 10"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 6 – Extrakorporale Stoßwellenlithotripsie (ESWL)\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7 (Extrakorporale Stoßwellenlithotripsie: 7.1 Indikationen und Kontraindikationen, 7.2 prä- und perioperatives Procedere, 7.3 Ergebnisse, 7.4 Komplikationen) inkl. Tabelle 10 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Erfolgslimitierende Faktoren: harte Steine >1.000 HU, steiler Unterkelch-Nierenbecken-Winkel, langer Kelchhals (>10 mm), enges Infundibulum (<5 mm), Skelettdeformitäten, Adipositas/Haut-Stein-Abstand.\n- Kontraindikationen: Antikoagulation/Gerinnungsstörung (Bridging 24 h vor bis 48 h nach Eingriff, ASS ggf. fortführbar), Schwangerschaft, unbehandelte HWI, schwere Nephrokalzinose/Oxalose, Aneurysma in der Fokuszone, Obstruktion distal des Steins, unkontrollierter Hypertonus, Pankreatitis.\n- Keine routinemäßige DJ-Einlage vor ESWL; bei neuem Fieber Schienenwechsel auch bei regelrechter Lage.\n- Technik: adäquate Analgesie (Atemexkursionen), Frequenz 1,0–1,5 Hz bzw. 60–90/min statt 120/min, schrittweise Energieeskalation, optimale Ankopplung ohne Luftblasen (Gel direkt aus der Flasche, Ausstreichen spart ca. 25 % Stoßwellen); Wiederholungssitzungen und maximal 3 in Folge.\n- Antibiotikaprophylaxe nicht routinemäßig – aber bei Infektsteinen, Fremdmaterial oder Bakteriurie; Kriterien für ambulante ESWL.\n- Ergebnisse: SFR erst nach 6–12 Wochen beurteilbar; Tabelle 10 (Nierenbecken/obere/mittlere Kelche 85–90 %, Unterkelch 50–60 %); MET nach ESWL soll erfolgen; additive Maßnahmen (Perkussion, Vibration, Trendelenburg, Diurese).\n- Komplikationen: Steinstraße 4–7 %, Koliken 2–4 %, Sepsis 1–2,7 %, asymptomatische Hämatome bis 19 % (symptomatisch <1 %) – stationäre Überwachung bei symptomatischem Hämatom, Harnableitung bei Obstruktion und Sepsiszeichen; Röntgenkontrolle spätestens nach 12 Wochen.\nFormat & Moderation:\n- Zwei urologische Kollegen am Lithotripter-Arbeitsplatz vor einer ESWL-Liste – einer erklärt dem anderen „seine“ Maschine.\n- Technisch fundiert, praxisnah und kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Patient unter Apixaban und unkontrolliertem Blutdruck auf der ESWL-Liste.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 7,
+      "stem": "URO_F07_Ureterorenoskopie",
+      "titel": "Ureterorenoskopie – semirigide & flexibel",
+      "kapitel": [
+        "8",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "Tab. 11–14"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 7 – Ureterorenoskopie – semirigide & flexibel\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8 (Ureterorenoskopie: Indikationen und Kontraindikationen, prä- und perioperatives Procedere, Technik und Hilfsmittel, Ergebnisse, Komplikationen) inkl. Tabellen 11–14 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Indikationen in allen Lokalisationen, Domäne bis 2 cm; unbehandelte HWI als Kontraindikation; antegrader Zugang bei Stenosen.\n- Antikoagulation möglichst pausieren, URS aber auch unter fortgeführter Antikoagulation möglich; Antibiotikaprophylaxe risikoadaptiert, Verzicht bei kleinen distalen Steinen ohne erhöhtes Risiko möglich; Durchleuchtung muss verfügbar sein.\n- Semirigide vs. flexible URS: Einsatzgebiete.\n- Hilfsmittel: Sicherheitsdraht sollte verwendet werden; Harnleiterschleuse (≥9 Ch) senkt intrarenalen Druck und Sepsisrisiko, kraftfreie Platzierung; spitzenlose Nitinolkörbchen; Ho:YAG-Laser als Goldstandard.\n- Harnleiterschiene: präoperativ nicht routinemäßig nötig, aber Vorteile für SFR und Komplikationen; postoperativ nach komplizierten Eingriffen, Residuen oder Komplikationen soll geschient werden; Alphablocker gegen Schienenbeschwerden.\n- Ergebnisse nach Tabellen 11 und 12 (Harnleiter distal 93 %, mittel 87 %, proximal 82 %; Niere gesamt 81 %, inkl. Zweiteingriff 90 %).\n- Komplikationen (Tabelle 13): schwere <1 %, milde 9–25 %; Perforation, Abriss, Strikturen – und das Komplikationsmanagement nach Tabelle 14; Begründung für stationäre Durchführung.\nFormat & Moderation:\n- Zwei urologische Kollegen im OP-Saal zwischen zwei Eingriffen – der eine hat gerade eine flexible URS mit Schleuse beendet.\n- Praxisnah, technisch präzise, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: die Schleuse „mit Nachdruck“ hochschieben, wenn sie hängt.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 8,
+      "stem": "URO_F08_PCNL",
+      "titel": "Perkutane Nephrolithotomie (PCNL)",
+      "kapitel": [
+        "9",
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "Tab. 15",
+        "Tab. 16"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 8 – Perkutane Nephrolithotomie (PCNL)\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 9 (Perkutane Nephrolithotomie: Indikationen, Instrumentarium, prä- und perioperatives Vorgehen, Ergebnisse, Komplikationen) inkl. Tabellen 15 und 16 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Indikation: Verfahren der Wahl bei Nierensteinen >2 cm, im Unterpol bereits ab 1,5 cm; Kontraindikationen (unbehandelte HWI, Antikoagulation – ASS ggf. fortführbar –, atypische Koloninterposition, Schwangerschaft); perioperative Antibiotikaprophylaxe soll erfolgen.\n- Instrumentarium: konventionell 24–32 Ch, Mini 14–22 Ch, Ultra-Mini 11–13 Ch, Mikro 4,8–11 Ch; Lithotripsie: Ultraschall/ballistisch bei konventioneller PCNL, Ho:YAG bei miniaturisierten/flexiblen Endoskopen, EHL nicht mehr einsetzen.\n- Lagerung: Bauch- oder Rückenlage gleichwertig (Präferenz des Operateurs), Vorteil der Rückenlage für kombinierte ECIRS-Ansätze, Bauchlage bei Adipositas und Ausgusssteinen.\n- Punktion: kombiniert sonographisch und durchleuchtungsgeführt mit weniger Komplikationen; Unterpol mit geringster Dichte an Segmentarterien; Dilatationstechniken; Bernoulli-Effekt bei Mini-Instrumenten.\n- Postoperative Harnableitung: PCN soll bei Reststeinen, geplantem Second Look, signifikanter Blutung, Perforation, Infektsteinen und Multitrakt-PCNL; tubeless bei unkompliziertem Eingriff möglich.\n- Komplikationen nach Tabelle 15 (Transfusion 7 %, Fieber 10,8 %, Sepsis 0,5 %, Embolisation 0,4 %); Risikofaktoren (ASA, OP-Zeit, Niereninsuffizienz), Spüldruck <30 mmHg, putrider Urin bei Punktion → Abbruch mit PCN.\n- Komplikationsmanagement nach Tabelle 16: Blutung (Abklemmen, Embolisation), Pleura- und Kolonverletzung, Leber/Milz, Hypothermie.\nFormat & Moderation:\n- Ein erfahrener Oberarzt und eine Assistenzärztin vor ihrer ersten eigenständigen Punktion – Besprechung am Vorabend anhand des CT.\n- Lehrreich, präzise, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: suprakostaler Zugang oberhalb der 11. Rippe, „weil man so besser in alle Kelche kommt“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 9,
+      "stem": "URO_F09_LitholyseSteinstrasseReste",
+      "titel": "Chemolitholyse, offene Verfahren, Steinstraße & Restfragmente",
+      "kapitel": [
+        "10",
+        "11",
+        "13.1",
+        "13.2"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 9 – Chemolitholyse, offene Verfahren, Steinstraße & Restfragmente\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10 (Chemolitholyse), Kapitel 11 (laparoskopische und offene Verfahren), Kapitel 13.1 (Steinstraße) und Kapitel 13.2 (Restfragmente) der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Orale Chemolitholyse soll nur bei Harnsäuresteinen als Erstlinientherapie eingesetzt werden; Ziel-Urin-pH 7,0–7,2, mehrfach tägliche Selbstmessung; Risiko der Kalziumphosphatsteinbildung bei langer Alkalisierung; adjuvanter Einsatz bei Restfragmenten; perkutane Litholyse heute obsolet.\n- Offene und laparoskopische Verfahren: bei gleichzeitiger Korrektur anatomischer Abflusshindernisse (z. B. subpelvine Stenose) und als Ausnahmeindikation bei sehr großen Steinen.\n- Steinstraße: Definition, Häufigkeit 4–7 % nach ESWL, präoperative Schienung verhindert sie bei Steinen >15 mm; bei Fieber/HWI perkutane Ableitung (alternativ DJ); bei symptomatischer Steinstraße und erfolgloser konservativer Therapie soll URS erfolgen, ggf. ESWL auf den distalen Anteil; asymptomatisch konservativ mit medikamentöser Unterstützung.\n- Restfragmente: Nidus für neue Steine, persistierende HWI und Koliken; nach ESWL mit Fragmenten ≤4 mm benötigen 21,4 % in knapp 5 Jahren eine weitere Behandlung; Infektsteine mit 78 % Rezidiv in 2,2 Jahren.\n- Der Begriff „CIRF“ ist irreführend und sollte nicht verwendet werden.\n- Empfehlung zu Residualfragmenten: ≤4 mm symptomatisch → aktive Entfernung, asymptomatisch → Kontrolle; >4 mm → immer aktive Entfernung.\nFormat & Moderation:\n- Zwei urologische Kollegen bei der Visite: ein Patient mit Steinstraße am Tag 3 nach ESWL und ein Patient, dem „nur noch Krümel“ geblieben sind.\n- Pointiert, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Die 3-mm-Reste sind klinisch insignifikant.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 10,
+      "stem": "URO_F10_SpezielleSituationen",
+      "titel": "Spezielle Situationen – Schwangerschaft, Harnableitung, Transplantat & Anomalien",
+      "kapitel": [
+        "3.1.1",
+        "13.3",
+        "13.4",
+        "13.5",
+        "13.6"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 10 – Spezielle Situationen – Schwangerschaft, Harnableitung, Transplantat & Anomalien\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 13.3 (Urolithiasis in der Schwangerschaft), 13.4 (Patienten mit Harnableitung), 13.5 (nach Nierentransplantation) und 13.6 (anatomische Anomalien); für die Analgesie in der Schwangerschaft kurzer Rückbezug auf Kapitel 3.1.1 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Schwangerschaft – Bildgebung: Ultraschall erste Wahl, ionisierende Strahlen möglichst vermeiden, im 1. Trimenon kein Röntgen; physiologische Dilatation als Fallstrick; Doppler-Resistive-Index, MR-Urographie als Option.\n- Schwangerschaft – Therapie: unkomplizierte Urolithiasis primär konservativ (ca. 80 % Spontanabgang); bei Interventionsbedarf primär Harnableitung (Silikonstents, häufige Wechsel wegen Inkrustation), definitive Therapie post partum; URS in der Schwangerschaft möglich, in Kooperation mit Geburtsmedizin; ESWL absolut kontraindiziert.\n- Harnableitung: erhöhtes Steinrisiko (Hyperoxalurie, Hyperkalziurie, Hypozitraturie, Mukus, Ureasebildner, Stase), bis 65 % in 5 Jahren; meist endourologisch/perkutan-antegrad; Steine im Reservoir, große Steinmassen offen; Prävention durch Korrektur metabolischer Störungen, Infektkontrolle, Spülungen.\n- Nierentransplantation: Inzidenz 0,2–1,7 %, Risikofaktoren (Immunsuppression, tertiärer HPT, RTA); Diagnostik mit Ultraschall und ggf. nativ-CT; Therapie wie bei Einzelniere, antegrader Zugang wegen Neo-Ostium, ESWL eingeschränkt.\n- Anatomische Anomalien: dystope Nieren (Kombination laparoskopisch/perkutan), Hufeisennieren (ESWL schlechter, flexible URS erschwert, PCNL über den Oberpol), Kelchdivertikelsteine (PCNL oder URS mit Inzision/Dilatation des Kelchhalses).\nFormat & Moderation:\n- Interdisziplinäre Fallkonferenz: eine Urologin und ein Kollege besprechen eine Schwangere in der 28. SSW mit Kolik, einen Patienten mit Neoblase und Nierenbeckenstein sowie einen Steinbefund in einer Transplantatniere.\n- Sachlich, präzise und kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Harnstau in der Spätschwangerschaft automatisch als Steinobstruktion zu werten.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 11,
+      "stem": "URO_F11_HarnsteineKinder",
+      "titel": "Harnsteine bei Kindern",
+      "kapitel": [
+        "12",
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "Tab. 17–19"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 11 – Harnsteine bei Kindern\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 12 (Harnsteine bei Kindern: Epidemiologie und Ätiologie, Klinik, Bildgebung, konservative und interventionelle Therapie, metabolische Abklärung und Rezidivprophylaxe) inkl. Tabellen 17–19 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Epidemiologie: ca. 1 % aller Steinereignisse betreffen unter 18-Jährige, Geschlechterverteilung nach Lebensjahrzehnt; häufiger genetische Ursachen (Zystinurie, primäre Hyperoxalurie), Fehlbildungen und Infektsteine; jedes Kind ist Hochrisikopatient.\n- Klinik: nur ältere Kinder mit typischer Kolik; kleine Kinder mit Unruhe, periumbilikalen Bauchschmerzen, Erbrechen, teils nur Mikrohämaturie oder HWI.\n- Bildgebung: Ultraschall erste Wahl (Twinkling, Resistance-Index), low-dose-CT nur in unklaren Fällen, MR-Urographie statt Ausscheidungsurogramm zur Therapieplanung; Röntgen streng fokussiert, einseitig, minimale Aufnahmezahl.\n- Therapieindikation: symptomatische Steine, Ausgusssteine, Infektsteine; asymptomatische Kinder primär Stoffwechselabklärung; Therapie nur in erfahrenen Zentren.\n- Verfahrenswahl nach der Kindertabelle in 12.4 (z. B. Nierenstein <10 mm ESWL, distaler Harnleiter URS); ESWL bei Kindern mit höheren SFR als bei Erwachsenen, Narkose meist <10 Jahre, 1 Hz besser als 2 Hz; Risiko bei Nephrokalzinose/PH durch wiederholte ESWL; MET mit geringer Evidenz (Tamsulosin > Doxazosin).\n- Indikationen für endourologische/laparoskopische bzw. offene Verfahren bei Kindern.\n- Metabolische Abklärung nach dem ersten Stein: Urinstix, Sediment (Zystin, 2,8-DHA), 1–3 24-h-Sammelurine, Drei-Tage-Protokoll bei V. a. primäre Hyperoxalurie, Serumparameter; Referenzwerte der Tabellen 17–19 nur exemplarisch nennen.\nFormat & Moderation:\n- Kinderurologische Sprechstunde: zwei Kollegen mit einem 4-jährigen Mädchen mit Nierenbeckenstein und rezidivierenden HWI – die Eltern fragen, ob das „einfach Pech“ war.\n- Empathisch, präzise, kollegial, mit feinem ärztlichem Humor; Zahlen sparsam, aber exakt.\n- Diskutiert den Fallstrick: das Kind wie einen „kleinen Erwachsenen“ abklären und Stoffwechseldiagnostik erst beim Rezidiv veranlassen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 12,
+      "stem": "URO_F12_MetaphylaxeGrundlagen",
+      "titel": "Metaphylaxe I – Steinanalyse, Risikogruppen & allgemeine Metaphylaxe",
+      "kapitel": [
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.4",
+        "Abb. 6",
+        "Tab. 20–24"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 12 – Metaphylaxe I – Steinanalyse, Risikogruppen & allgemeine Metaphylaxe\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 14.1 (Harnsteinanalyse), 14.2 (Basisdiagnostik), 14.3 (erweiterte metabolische Diagnostik) und 14.4 (allgemeine Metaphylaxe) inkl. Abbildung 6 und Tabellen 20–24 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Harnsteinanalyse bei jedem ersten Stein; erneute Analyse bei Rezidiv unter Prävention, frühem Rezidiv nach Steinfreiheit oder spätem Rezidiv; Infrarotspektroskopie, Röntgendiffraktion, Polarisationsmikroskopie – nasschemische Verfahren sollen nicht mehr eingesetzt werden.\n- Harnsteinarten und Häufigkeiten (Tabelle 20): Whewellit 60–70 %, Weddellit 10–15 %, Harnsäure ca. 10 %, Struvit 5–10 %, Karbonatapatit 5 %, Brushit 1 %, Zystin 0,5 % – inkl. Röntgenverhalten.\n- Zuordnung zur Niedrig- oder Hochrisikogruppe (ca. drei Viertel vs. ein Viertel); Hochrisikokriterien nach Tabelle 21 (frühes Auftreten, Familie, Brushit, Harnsäure, Infektsteine, Einzelniere, assoziierte Erkrankungen, genetische Ursachen, Anomalien); Algorithmus Abbildung 6.\n- Basisdiagnostik bei bekannter und unbekannter Steinart: Anamnese, Sonographie, Blutlabor inkl. ionisiertem Kalzium, Urinstatus und Kultur; bei unbekannter Steinart zusätzlich Bildgebung mit HU, Kristallmikroskopie, Urin-pH-Tagesprofil.\n- Erweiterte Diagnostik: mindestens zwei korrekt gesammelte 24-h-Urine, im häuslichen Alltag, steinfrei, mindestens 3 Wochen nach Intervention; Kontrolle unter Medikation nach 3–6 Monaten, dann alle 12 Monate; wichtige Grenzwerte aus Tabelle 23 (Urin-pH, spezifisches Gewicht, Kalzium, Oxalat, Harnsäure, Zitrat, Zystin).\n- Allgemeine Metaphylaxe (Tabelle 24): ausreichende Harndilution als wichtigste Maßnahme – Trinkmenge 2,5–3 l, Harnvolumen 2,0–2,5 l, über 24 h verteilt, Harndichte <1,010; keine zuckergesüßten Softdrinks; Kalzium 1–1,2 g/Tag, Kochsalz <6 g/Tag, Protein 0,8–1,0 g/kg KG/Tag, ballaststoffreich, oxalatreduziert; Bewegung, Gewichtsnormalisierung, Stressbegrenzung.\nFormat & Moderation:\n- Zwei urologische Kollegen in der Metaphylaxe-Sprechstunde mit einem 45-jährigen Patienten nach seinem dritten Stein, der fragt: „Und was kann ich jetzt selbst tun?“\n- Strukturiert, präzise, alltagsnah, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: kalziumarme Diät bei Kalziumoxalatsteinen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 13,
+      "stem": "URO_F13_MetaphylaxeKalziumsteine",
+      "titel": "Metaphylaxe II – Kalziumoxalat- & Kalziumphosphatsteine",
+      "kapitel": [
+        "14.5.1",
+        "14.5.2",
+        "14.5.3",
+        "Abb. 7",
+        "Abb. 8",
+        "Tab. 25",
+        "Tab. 26"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 13 – Metaphylaxe II – Kalziumoxalat- & Kalziumphosphatsteine\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 14.5.1 (Kalziumoxalatsteine), 14.5.2 (Kalziumphosphatsteine) und 14.5.3 (Stoffwechselstörungen und Erkrankungen, die zur Kalziumsteinbildung führen) inkl. Abbildungen 7 und 8 sowie Tabellen 25 und 26 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Spezifische Metaphylaxe nur für Hochrisikopatienten; erweiterte Abklärung bei Kalziumoxalatsteinen (Tabelle 25): PTH bei erhöhtem Kalzium, pH-Tagesprofil mit ≥4 Messungen, 2 × 24-h-Urin (Volumen, Dichte, Kalzium, Oxalat, Harnsäure, Zitrat, Magnesium); ca. 70 % idiopathisch.\n- pH-Interpretation: konstant <5,8 Säurestarre (Co-Kristallisation), konstant >5,8 nach Infektausschluss Hinweis auf RTA.\n- Hyperoxalurie >0,5 mmol/Tag: oxalatreiche Lebensmittel reduzieren (Spinat, Mangold, Rote Bete, Rhabarber, Nüsse, Schokolade), Kalzium/Magnesium zu den Mahlzeiten (nur bei Erwachsenen); >0,8 mmol/Tag primäre Hyperoxalurie abklären.\n- Pharmakologisch: Hyperkalziurie >5 mmol/Tag Alkalizitrat 9–12 g/Tag oder Natriumbikarbonat; >8 mmol/Tag zusätzlich Thiazid (Chlorthalidon 25–50 mg) – wegen Hautkrebsrisiko unter Hydrochlorothiazid Chlorthalidon oder Indapamid bevorzugen; Hypozitraturie <1,7 mmol/Tag Alkalizitrat; Hyperurikosurie Allopurinol 100–300 mg (Alternative Febuxostat mit Nebenwirkungsprofil); Kalium-Präparate bei Niereninsuffizienz meiden.\n- Kalziumphosphatsteine: Karbonatapatit (pH >6,8, oft infektassoziiert → Urinkultur; ohne Infekt dRTA mit Ammoniumchlorid-Belastungstest abklären) vs. Brushit (pH 6,5–6,8, kein Infektbezug, Hochrisiko); Therapie nach Abbildung 8: Alkalizitrat ± Thiazid je nach Kalziurie, L-Methionin bei neutral-alkalischem pH (Ziel 5,8–6,2), Antibiotika bei HWI.\n- Grunderkrankungen: primärer HPT (Diagnostik, Parathyreoidektomie, Cinacalcet), primäre Hyperoxalurie Typ I–III (Pyridoxin bei einem Drittel der PH I, kombinierte Leber-Nieren-Transplantation, RNAi in Erprobung), enterale Hyperoxalurie (Kurzdarm, M. Crohn, bariatrische Chirurgie), distale RTA (Alkalisierung trotz alkalischem Urin, ggf. Thiazid).\nFormat & Moderation:\n- Zwei Kollegen sitzen über den Befunden zweier 24-h-Sammelurine eines Kalziumoxalatsteinbildners mit Magenbypass – Schritt für Schritt wird der Algorithmus abgearbeitet.\n- Analytisch, präzise und kollegial, mit feinem ärztlichem Humor; Dosierungen und Grenzwerte ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: Alkalizitrat bei Karbonatapatitsteinen „weil Alkalizitrat ja immer hilft“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    },
+    {
+      "folge": 14,
+      "stem": "URO_F14_MetaphylaxeSeltene",
+      "titel": "Metaphylaxe III – Harnsäure-, Infekt-, Zystin- & seltene Steine",
+      "kapitel": [
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "Abb. 9–12",
+        "Tab. 27–29"
+      ],
+      "erstellt": null,
+      "prompt": "Episode 14 – Metaphylaxe III – Harnsäure-, Infekt-, Zystin- & seltene Steine\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 14.5.4 (Harnsäuresteine), 14.5.5 (Ammoniumuratsteine), 14.5.6 (Struvitsteine), 14.5.7 (Zystinsteine) und 14.5.8 (seltene Harnsteine) inkl. Abbildungen 9–12 und Tabellen 27–29; für die Chemolitholyse nur kurzer Rückbezug auf Kapitel 10 der S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (AWMF 043-025, Aktualisierung 2018/19).\nInhalte:\n- Harnsäuresteine: Säurestarre (pH konstant <5,8), Ursachen von Hyperurikosurie und niedrigem Urin-pH (Insulinresistenz, metabolisches Syndrom, tierisches Eiweiß, Diarrhö); Harnvolumen >2,5–3 l, Purinreduktion; Alkalizitrat/Natriumbikarbonat mit Ziel-pH 6,5–6,8 zur Metaphylaxe vs. 7,0–7,2 zur Litholyse; Allopurinol 100 mg bzw. 100–300 mg bei Hyperurikämie, Febuxostat als Alternative.\n- Ammoniumuratsteine: Bildungsoptimum pH >6,5, häufig infektassoziiert, Malabsorption/Malnutrition; Ansäuerung mit L-Methionin (pH 5,8–6,2), testgerechte Antibiose, Allopurinol.\n- Struvit-/Infektsteine: obligate Ureasebildner (Proteus, Morganella, Corynebacterium urealyticum, Ureaplasma, Providencia rettgeri) und fakultative; Urin- und Steinkultur mit Antibiogramm; vollständige Steinsanierung, antibiotische Therapie, regelmäßige Kulturen, Korrektur anatomischer Faktoren, L-Methionin; Acetohydroxamsäure in Deutschland nicht zugelassen; trotzdem metabolische Diagnostik empfohlen.\n- Zystinsteine: autosomal-rezessive Zystinurie; Urinvolumen >3,5 l/Tag bei Erwachsenen bzw. Trinkmenge >1,5 l/m² KO bei Kindern (ggf. PEG); Urin-pH dauerhaft deutlich >7,5 mit Alkalizitrat/Natriumbikarbonat; Tiopronin (Start 2 × 250 mg, bis 2 g/Tag) bei Rezidiven oder Zystinausscheidung >3 mmol/Tag, Tachyphylaxie.\n- Seltene Steine: 2,8-DHA (APRT-Defekt, Kristalle im Sediment, Allopurinol 300–600 mg, Trinkmenge 3,5–4 l), Xanthin (keine medikamentöse Therapie, >3 l, purinarm; Allopurinol-induzierte Form), medikamenteninduzierte Steine (z. B. Indinavir, Sulfonamide, Triamteren, Ceftriaxon, Topiramat, Vitamin D), Matrixsteine (keine validierte Metaphylaxe).\nFormat & Moderation:\n- Quiz-Format unter Kollegen: einer zieht nacheinander „Steinanalysen aus dem Labor“, der andere leitet jeweils Diagnostik und Metaphylaxe her.\n- Lebendig, präzise und kollegial, mit feinem ärztlichem Humor; Ziel-pH-Werte klar gegeneinander abgrenzen.\n- Diskutiert den Fallstrick: Rest-Infektstein „klein genug zum Belassen“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
+      "dauerMin": null
+    }
+  ]
+}
