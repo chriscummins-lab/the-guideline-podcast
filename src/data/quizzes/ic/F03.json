@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was gilt laut Kapitel 2.5.1 (Urotheldysfunktion, Statement 2.8) als charakteristisch für den Hunner-Typ IC (HIC)?",
+    "options": [
+      "Urotheldefekte und eine erhöhte Permeabilität des Uroethels.",
+      "Ein vollkommen intaktes, unauffälliges Urothel ohne jede Permeabilitätsstörung.",
+      "Eine ausschließlich bakterielle Besiedlung des Uroethels.",
+      "Eine vollständige Regeneration der GAG-Schicht."
+    ],
+    "correct": 0,
+    "tip": "Die gestörte GAG-Schicht dient als Rationale für spätere intravesikale Therapien wie Hyaluronsäure oder Chondroitinsulfat.",
+    "explanation": "Statement 2.8 beschreibt Urotheldefekte und eine erhöhte Permeabilität des Uroethels als charakteristisch für den Hunner-Typ IC."
+  },
+  {
+    "question": "Was wird laut Kapitel 2.5.2 (Infektionen, Statement 2.9) zum Zusammenhang zwischen bakteriellen/viralen Harnwegsinfektionen und IC/BPS-Symptomschüben ausgesagt?",
+    "options": [
+      "Symptomschübe sind nicht zwingend mit einem Bakteriennachweis verbunden, obwohl ca. 7 % begleitende rezidivierende Harnwegsinfekte aufweisen.",
+      "Jeder Symptomschub ist zwingend mit einem positiven Bakteriennachweis verbunden.",
+      "Harnwegsinfektionen spielen bei der IC/BPS keinerlei Rolle als möglicher Trigger.",
+      "IC/BPS-Patienten haben ein vermindertes Risiko für Herpes zoster."
+    ],
+    "correct": 0,
+    "tip": "Zudem besteht bei IC/BPS-Patienten ein erhöhtes Risiko für Hepatitis B/C und Herpes zoster.",
+    "explanation": "Statement 2.9 beschreibt bakterielle/virale Harnwegsinfekte als möglichen Trigger, wobei etwa 7 % der Patienten begleitende rezidivierende HWI aufweisen; Symptomschübe sind jedoch nicht zwingend mit einem Bakteriennachweis verbunden, und es besteht ein erhöhtes Risiko für Hepatitis B/C und Herpes zoster."
+  },
+  {
+    "question": "Worauf soll bei der Untersuchung auf eine Beckenbodendysfunktion (Kapitel 2.5.3, Statement 2.10) geachtet werden?",
+    "options": [
+      "Auf erhöhten Tonus, Spannungsmyalgie und myofasziales Schmerzsyndrom mit Tenderpoints.",
+      "Ausschließlich auf eine Beckenbodenschwäche mit Senkungssymptomatik.",
+      "Ausschließlich auf eine Harninkontinenz bei Belastung.",
+      "Beckenbodendysfunktion spielt laut Leitlinie keine Rolle bei der IC/BPS."
+    ],
+    "correct": 0,
+    "tip": "Diese Befunde können später Grundlage für eine gezielte Beckenbodenphysiotherapie sein.",
+    "explanation": "Statement 2.10 fordert die Untersuchung auf erhöhten Beckenbodentonus, Spannungsmyalgie und ein myofasziales Schmerzsyndrom mit Tenderpoints."
+  },
+  {
+    "question": "Welche klinischen bzw. therapeutischen Konsequenzen ergeben sich laut Kapitel 2.5.5 (Mikrobiom, Statement 2.12) derzeit aus Erkenntnissen zum Mikrobiom bei IC/BPS?",
+    "options": [
+      "Bislang keine therapeutischen Konsequenzen.",
+      "Eine obligate stuhlbasierte Mikrobiomtherapie für alle Patienten.",
+      "Eine vollständige Ablehnung jeglicher Rolle des Mikrobioms in der Pathogenese.",
+      "Eine Zulassung spezifischer Probiotika zur Standardtherapie."
+    ],
+    "correct": 0,
+    "tip": "Auch der viszerale Crosstalk zwischen Darm und Blase (Kapitel 2.5.4) hat bislang keine etablierten therapeutischen Konsequenzen.",
+    "explanation": "Statement 2.12 stellt fest, dass sich aus den Erkenntnissen zum Mikrobiom bei IC/BPS bislang keine therapeutischen Konsequenzen ergeben."
+  },
+  {
+    "question": "Was wird laut Kapitel 2.5.6 (Entzündung, Statement 2.13) zu den Zellinfiltraten bei IC/BPS beschrieben?",
+    "options": [
+      "B- und T-Zell-Infiltrate, die beim Hunner-Typ IC dichter und oft follikulär ausgeprägt sind.",
+      "Ausschließlich neutrophile Granulozyten ohne jede lymphozytäre Beteiligung.",
+      "Es liegen bei IC/BPS keinerlei entzündliche Zellinfiltrate vor.",
+      "Eosinophile Infiltrate als einziger charakteristischer Zelltyp."
+    ],
+    "correct": 0,
+    "tip": "Die Genetik (Kapitel 2.5.7) spielt dagegen für die klinische Diagnostik derzeit keine Rolle.",
+    "explanation": "Statement 2.13 beschreibt B- und T-Zell-Infiltrate, die beim Hunner-Typ IC dichter und oft follikulär ausgeprägt sind."
+  },
+  {
+    "question": "Welches molekulare Target wird laut Kapitel 2.5.8 (Statement 2.15) als künftiger Angriffspunkt für die IC/BPS-Therapie diskutiert?",
+    "options": [
+      "Das NLRP3-Inflammasom.",
+      "Der Androgenrezeptor.",
+      "Der HER2-Rezeptor.",
+      "Das PSMA-Molekül."
+    ],
+    "correct": 0,
+    "tip": "Dieses Inflammasom ist Teil der angeborenen Immunantwort und an Entzündungsprozessen beteiligt.",
+    "explanation": "Statement 2.15 nennt das NLRP3-Inflammasom als künftigen Angriffspunkt für die Therapie der IC/BPS."
+  },
+  {
+    "question": "Was ist laut Kapitel 2.5.9 (Statement 2.16) bei der IC/BPS in Bezug auf das Nervensystem beschrieben?",
+    "options": [
+      "Eine neuronale Überaktivität mit peripherer und zentraler Sensibilisierung.",
+      "Eine vollständige Denervierung der Blasenwand ohne jede neuronale Aktivität.",
+      "Eine ausschließlich periphere, nie zentrale Sensibilisierung.",
+      "Das Nervensystem spielt bei der Pathogenese keine erkennbare Rolle."
+    ],
+    "correct": 0,
+    "tip": "Diese Sensibilisierung kann zur Chronifizierung der Schmerzsymptomatik beitragen.",
+    "explanation": "Statement 2.16 beschreibt eine neuronale Überaktivität mit peripherer und zentraler Sensibilisierung bei IC/BPS."
+  },
+  {
+    "question": "Welche Lokalisation der Mastzellen gilt laut Kapitel 2.5.10 (Statement 2.17) als typisch für den Hunner-Typ IC – im Gegensatz zu einer bloßen Dichtezunahme im Detrusor?",
+    "options": [
+      "Die subepitheliale Lokalisation der Mastzellen.",
+      "Eine Lokalisation ausschließlich im perivesikalen Fettgewebe.",
+      "Eine Lokalisation ausschließlich in den Ureteren.",
+      "Mastzellen spielen laut Leitlinie keine Rolle bei HIC."
+    ],
+    "correct": 0,
+    "tip": "Diese Unterscheidung ist wichtig, da allein der Nachweis von Mastzellen in einer Biopsie nicht beweisend für eine IC ist.",
+    "explanation": "Statement 2.17 beschreibt, dass nicht die Dichte der Mastzellen im Detrusor, sondern deren subepitheliale Lokalisation typisch für den Hunner-Typ IC ist."
+  },
+  {
+    "question": "Womit wird laut Kapitel 2.5.11 (Statement 2.18) die Gefäßpermeabilität und die petechialen Blutungen bei IC/BPS erklärt?",
+    "options": [
+      "Mit einer gestörten Mikroperfusion.",
+      "Mit einer überschießenden Koagulation ohne Gefäßbeteiligung.",
+      "Mit einer ausschließlich arteriosklerotischen Gefäßveränderung.",
+      "Mikrovaskuläre Veränderungen spielen bei der IC/BPS keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Diese petechialen Blutungen (Glomerulationen) können bei der diagnostischen Hydrodistension beobachtet werden.",
+    "explanation": "Statement 2.18 erklärt die Gefäßpermeabilität und die petechialen Blutungen bei IC/BPS durch eine gestörte Mikroperfusion."
+  },
+  {
+    "question": "Was ist laut dem diskutierten Fallstrick aus Episode 3 problematisch an der Aussage 'Mastzellen in der Biopsie beweisen die IC'?",
+    "options": [
+      "Der bloße Nachweis von Mastzellen beweist die IC nicht; entscheidend ist vielmehr die subepitheliale Lokalisation, nicht allein die Zelldichte.",
+      "Mastzellen kommen bei IC/BPS nie in Biopsien vor.",
+      "Eine Biopsie ist bei IC/BPS generell kontraindiziert.",
+      "Diese Aussage ist vollständig korrekt und unproblematisch."
+    ],
+    "correct": 0,
+    "tip": "IC/BPS wird insgesamt als heterogenes Syndrom mit mehreren Phänotypen verstanden, was eine phänotyporientierte Therapie nahelegt.",
+    "explanation": "Der Fallstrick besteht darin, den bloßen Nachweis von Mastzellen in einer Biopsie als beweisend für die IC zu werten, obwohl laut Statement 2.17 die subepitheliale Lokalisation und nicht allein die Zelldichte entscheidend ist."
+  }
+]

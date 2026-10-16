@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche beiden GAG-Schicht-restituierenden Substanzen sollten laut den Empfehlungen 4.61/4.62 angeboten werden?",
+    "options": [
+      "Hyaluronsäure und Chondroitinsulfat.",
+      "Insulin und Glukagon.",
+      "Penicillin und Cephalosporin.",
+      "Diese Substanzklasse wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Heparin kann laut Empfehlung 4.60 ebenfalls eingesetzt werden, allerdings ohne konkrete Dosisempfehlung.",
+    "explanation": "Die Empfehlungen 4.61/4.62 sehen vor, dass Hyaluronsäure und Chondroitinsulfat zur GAG-Schicht-Restitution angeboten werden sollten."
+  },
+  {
+    "question": "Was besagt Statement 4.63 zur Wirksamkeit und optimalen Anwendung der verschiedenen GAG-Substanzen?",
+    "options": [
+      "Alle GAG-Substanzen sind wirksam, die optimale Substanz, Dosis, Verweildauer und die Intervalle sind jedoch unklar.",
+      "Nur eine einzige GAG-Substanz gilt als wirksam, alle anderen sind obsolet.",
+      "GAG-Substanzen gelten insgesamt als unwirksam.",
+      "Für alle GAG-Substanzen existiert ein einheitliches, verbindliches Dosierungsschema."
+    ],
+    "correct": 0,
+    "tip": "Eine Kombination aus Hyaluronsäure und Chondroitinsulfat mit höheren Wirkstoffkonzentrationen bietet laut Empfehlung 4.64 einen möglichen zusätzlichen Vorteil.",
+    "explanation": "Statement 4.63 stellt fest, dass alle GAG-Substanzen wirksam sind, die optimale Substanz, Dosis, Verweildauer und die Behandlungsintervalle jedoch unklar bleiben."
+  },
+  {
+    "question": "Wofür kann intravesikales Lidocain laut Empfehlung 4.65 zusätzlich zur GAG-Restitution eingesetzt werden?",
+    "options": [
+      "Auch zur akuten Schmerztherapie.",
+      "Ausschließlich zur Lokalanästhesie vor einer Biopsie.",
+      "Ausschließlich zur Desinfektion der Blasenschleimhaut.",
+      "Lidocain wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies macht Lidocain zu einer Option sowohl in der symptomatischen Akuttherapie als auch im Rahmen von Instillationsschemata.",
+    "explanation": "Empfehlung 4.65 sieht vor, dass intravesikales Lidocain auch zur akuten Schmerztherapie eingesetzt werden kann."
+  },
+  {
+    "question": "Wie wird DMSO (Dimethylsulfoxid) laut Empfehlung 4.66 in der Therapiehierarchie der IC/BPS eingeordnet?",
+    "options": [
+      "Als Zweitlinientherapie mit umsichtiger Anwendung.",
+      "Als unangefochtene Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
+      "Als in Deutschland nicht verfügbares und daher nicht erwähntes Verfahren.",
+      "Als ausschließlich bei Kindern zugelassene Therapieoption."
+    ],
+    "correct": 0,
+    "tip": "In den USA ist DMSO als sterile Fertiglösung unter dem Namen RIMSO-50 erhältlich, in Deutschland jedoch nicht.",
+    "explanation": "Empfehlung 4.66 ordnet DMSO als Zweitlinientherapie ein, die mit umsichtiger Anwendung eingesetzt werden soll."
+  },
+  {
+    "question": "Wie ist DMSO in Deutschland laut dem Episodeninhalt verfügbar, und bei welcher Anwendungsweise kommt es üblicherweise zum Einsatz?",
+    "options": [
+      "Nicht als sterile Fertiglösung erhältlich; üblich sind 50 ml 50%ige Lösung mit 10–20 Minuten Verweildauer.",
+      "Als sterile Fertiglösung unter dem Namen RIMSO-50 regulär verfügbar.",
+      "Nur als orale Kapsel verfügbar.",
+      "DMSO ist in Deutschland komplett verboten."
+    ],
+    "correct": 0,
+    "tip": "DMSO kommt dabei besonders bei HIC und nach vorausgegangener Hydrodistension zum Einsatz.",
+    "explanation": "DMSO ist in Deutschland nicht als sterile Fertiglösung erhältlich (in den USA als RIMSO-50); üblich ist die Anwendung von 50 ml einer 50%igen Lösung mit 10–20 Minuten Verweildauer."
+  },
+  {
+    "question": "Bei welcher Patientengruppe kann laut Empfehlung 4.67 intravesikales Oxybutynin eingesetzt werden?",
+    "options": [
+      "Bei therapieresistenter IC/BPS.",
+      "Ausschließlich als Erstlinientherapie bei milden Symptomen.",
+      "Ausschließlich bei Kindern unter 6 Jahren.",
+      "Oxybutynin wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies ergänzt die weiteren intravesikalen Injektionsoptionen wie Onabotulinumtoxin A oder Lokalanästhetika/Kortikosteroide.",
+    "explanation": "Empfehlung 4.67 sieht den Einsatz von intravesikalem Oxybutynin bei therapieresistenter IC/BPS vor."
+  },
+  {
+    "question": "Welche Injektionstherapie wird laut Empfehlung 4.68 off-label bei IC/BPS eingesetzt?",
+    "options": [
+      "Onabotulinumtoxin A.",
+      "Insulin.",
+      "Adrenalin.",
+      "Heparin wird ausschließlich injiziert, nicht instilliert."
+    ],
+    "correct": 0,
+    "tip": "Als weitere Injektionsoption werden laut Empfehlung 4.69 Lokalanästhetika und/oder Kortikosteroide genannt.",
+    "explanation": "Empfehlung 4.68 sieht den off-label Einsatz von Onabotulinumtoxin A als Injektionstherapie bei IC/BPS vor."
+  },
+  {
+    "question": "Kann die therapeutische Hydrodistension laut Empfehlung 4.70 bei Besserung wiederholt werden?",
+    "options": [
+      "Ja, sie kann bei Besserung wiederholt werden.",
+      "Nein, sie darf nur ein einziges Mal im Leben eines Patienten durchgeführt werden.",
+      "Nein, die therapeutische Hydrodistension ist generell verboten.",
+      "Die Wiederholbarkeit wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Die EMDA-Therapie (elektromotive Drug Administration) sollte laut Empfehlung 4.71 ebenfalls angeboten werden.",
+    "explanation": "Empfehlung 4.70 besagt, dass die therapeutische Hydrodistension bei Besserung wiederholt werden kann."
+  },
+  {
+    "question": "Welche Therapieform sollte laut Empfehlung 4.71 zusätzlich angeboten werden?",
+    "options": [
+      "Die EMDA-Therapie (elektromotive Drug Administration).",
+      "Eine systemische Chemotherapie.",
+      "Eine Strahlentherapie der Blase.",
+      "Eine EMDA-Therapie wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies ergänzt das Spektrum der intravesikalen Therapieoptionen neben GAG-Substanzen, Lidocain und DMSO.",
+    "explanation": "Empfehlung 4.71 sieht vor, dass die EMDA-Therapie zusätzlich angeboten werden sollte."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 10 im Zusammenhang mit DMSO diskutiert?",
+    "options": [
+      "DMSO als Erstlinientherapie einzusetzen, obwohl es laut Leitlinie eine Zweitlinientherapie darstellt.",
+      "DMSO grundsätzlich nie einzusetzen, obwohl es stets erste Wahl wäre.",
+      "DMSO ausschließlich bei Kindern einzusetzen.",
+      "DMSO mit Hyaluronsäure zu verwechseln."
+    ],
+    "correct": 0,
+    "tip": "Vor DMSO sollten in der Regel zunächst die GAG-Substanzen als Erstlinientherapie ausgeschöpft werden.",
+    "explanation": "Der diskutierte Fallstrick ist der Einsatz von DMSO als Erstlinientherapie, obwohl es gemäß Empfehlung 4.66 eine Zweitlinientherapie darstellt."
+  }
+]

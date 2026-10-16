@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Mit welchen Instrumenten sollen laut Empfehlung 4.12 psychische Faktoren bei IC/BPS-Patienten primär erfasst werden?",
+    "options": [
+      "Mit HADS-D und PHQ-D.",
+      "Ausschließlich mit einem unstrukturierten Gespräch ohne validierte Instrumente.",
+      "Mit einem EEG.",
+      "Psychische Faktoren sollen laut Leitlinie nicht erfasst werden."
+    ],
+    "correct": 0,
+    "tip": "Psychosoziale Aspekte sollen zudem laut Empfehlung 4.13 frühzeitig angesprochen werden.",
+    "explanation": "Empfehlung 4.12 fordert die primäre Erfassung psychischer Faktoren mittels validierter Instrumente wie HADS-D und PHQ-D."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.14 bei Patienten mit psychischen Komorbiditäten?",
+    "options": [
+      "Eine psychotherapeutische bzw. psychosomatische Mitbehandlung.",
+      "Den vollständigen Verzicht auf jede psychische Mitbetreuung.",
+      "Eine ausschließlich medikamentöse Behandlung ohne psychotherapeutische Begleitung.",
+      "Eine stationäre psychiatrische Zwangseinweisung."
+    ],
+    "correct": 0,
+    "tip": "Psychopharmaka sollen dabei laut Empfehlung 4.15 nach den Leitlinien der jeweiligen Symptome eingesetzt werden.",
+    "explanation": "Empfehlung 4.14 fordert bei psychischen Komorbiditäten eine psychotherapeutische bzw. psychosomatische Mitbehandlung."
+  },
+  {
+    "question": "Wozu dient laut Empfehlung 4.16 die Mind-Body-Medizin bei IC/BPS-Patienten?",
+    "options": [
+      "Zur Stärkung der Selbstwirksamkeit und zum Stressabbau.",
+      "Als alleinige kurative Therapie ohne jede weitere Maßnahme.",
+      "Ausschließlich zur Gewichtsreduktion.",
+      "Mind-Body-Medizin wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Sie ergänzt dabei andere psychosoziale und physiotherapeutische Maßnahmen.",
+    "explanation": "Empfehlung 4.16 sieht die Mind-Body-Medizin als Mittel zur Stärkung der Selbstwirksamkeit und zum Stressabbau."
+  },
+  {
+    "question": "Bei welchem Befund soll laut Empfehlung 4.17 eine Beckenbodenphysiotherapie durch speziell ausgebildete Therapeuten erfolgen?",
+    "options": [
+      "Bei erhöhtem Tonus, myofaszialen Schmerzen oder Tenderpunkten.",
+      "Nur bei nachgewiesener Harninkontinenz.",
+      "Nur bei Männern, nicht bei Frauen.",
+      "Eine Beckenbodenphysiotherapie wird bei IC/BPS nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Als weitere Option kann laut Empfehlung 4.18 auch eine Osteopathie angeboten werden.",
+    "explanation": "Empfehlung 4.17 fordert eine Beckenbodenphysiotherapie durch speziell ausgebildete Therapeuten bei erhöhtem Tonus, myofaszialen Schmerzen oder Tenderpunkten."
+  },
+  {
+    "question": "Nach welchen Prinzipien soll die Schmerztherapie bei IC/BPS laut Empfehlung 4.37/4.38 erfolgen?",
+    "options": [
+      "Nach den Prinzipien chronischer Schmerzerkrankungen, interdisziplinär-multimodal.",
+      "Ausschließlich nach den Prinzipien akuter postoperativer Schmerzen.",
+      "Ausschließlich durch eine einmalige Medikamentengabe ohne Verlaufskontrolle.",
+      "Eine strukturierte Schmerztherapie ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Nicht-Opioide und Opioide haben dabei laut Empfehlung 4.39 nur eine geringe Evidenz und sollen mit nicht-medikamentösen Maßnahmen kombiniert werden.",
+    "explanation": "Empfehlung 4.37/4.38 fordert eine Schmerztherapie nach den Prinzipien chronischer Schmerzerkrankungen, interdisziplinär-multimodal."
+  },
+  {
+    "question": "Was besagt Empfehlung 4.40 zu NSAR und Opioiden bei IC/BPS?",
+    "options": [
+      "Sie können Histamin freisetzen und die Beschwerden verstärken.",
+      "Sie sind die Mittel der ersten Wahl ohne jede Einschränkung.",
+      "Sie haben keinerlei Einfluss auf die Symptomatik.",
+      "Sie sind bei IC/BPS absolut kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Dies ist ein wichtiger Aspekt bei der Auswahl der analgetischen Therapie.",
+    "explanation": "Empfehlung 4.40 weist darauf hin, dass NSAR und Opioide Histamin freisetzen und die Beschwerden bei IC/BPS verstärken können."
+  },
+  {
+    "question": "In welcher Dosierung soll Amitriptylin laut Empfehlung 4.41 einschleichend begonnen werden?",
+    "options": [
+      "Mit 10 mg abends.",
+      "Mit 150 mg abends.",
+      "Mit 500 mg morgens.",
+      "Eine Dosierungsangabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Mirtazapin ist laut Empfehlung 4.42 eine Alternative bei Unverträglichkeit oder anticholinerger Last, allerdings ohne Zulassung für diese Indikation.",
+    "explanation": "Empfehlung 4.41 fordert ein einschleichendes Vorgehen mit Amitriptylin, beginnend mit 10 mg abends."
+  },
+  {
+    "question": "Bei welcher Schmerzqualität sollen laut Empfehlung 4.43 Antikonvulsiva erwogen werden?",
+    "options": [
+      "Bei stechenden, neuropathischen Schmerzen.",
+      "Ausschließlich bei dumpfem Druckgefühl.",
+      "Ausschließlich bei kolikartigen Schmerzen.",
+      "Antikonvulsiva werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Dies ergänzt die Optionen Amitriptylin und Mirtazapin im Rahmen der Schmerztherapie.",
+    "explanation": "Empfehlung 4.43 sieht den Einsatz von Antikonvulsiva bei stechenden, neuropathischen Schmerzen vor."
+  },
+  {
+    "question": "Welches Psychopharmakon wird laut dem Episodeninhalt als mögliche Alternative zu Amitriptylin genannt, allerdings ohne Zulassung für diese Indikation?",
+    "options": [
+      "Mirtazapin.",
+      "Haloperidol.",
+      "Lithium.",
+      "Clozapin."
+    ],
+    "correct": 0,
+    "tip": "Mirtazapin kommt insbesondere bei Unverträglichkeit von Amitriptylin oder hoher anticholinerger Last infrage.",
+    "explanation": "Mirtazapin wird als mögliche Alternative zu Amitriptylin bei Unverträglichkeit oder anticholinerger Last genannt, allerdings ohne Zulassung für diese spezifische Indikation."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 7 im Zusammenhang mit der Schmerztherapie diskutiert?",
+    "options": [
+      "Eine Opioid-Eskalation als Monotherapie durchzuführen.",
+      "Zu selten Opioide einzusetzen.",
+      "Grundsätzlich auf jede Schmerztherapie zu verzichten.",
+      "Amitriptylin immer in maximaler Dosierung zu beginnen."
+    ],
+    "correct": 0,
+    "tip": "Nicht-medikamentöse Maßnahmen und nicht-Opioid-Analgetika sollen nach der Leitlinie stets einbezogen werden.",
+    "explanation": "Der diskutierte Fallstrick ist eine Opioid-Eskalation als alleinige Monotherapie, anstatt diese mit nicht-medikamentösen Maßnahmen zu kombinieren."
+  }
+]

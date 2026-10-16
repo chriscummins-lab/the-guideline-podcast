@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche beiden Krankheitsbilder zählen laut Kapitel 3.1 (Differenzialdiagnose) zu den wichtigsten 'confusable diseases', von denen die IC/BPS abzugrenzen ist?",
+    "options": [
+      "Die überaktive Blase (OAB) und die hypersensitive Blase.",
+      "Ausschließlich die akute bakterielle Zystitis.",
+      "Ausschließlich das Prostatakarzinom.",
+      "Es existieren laut Leitlinie keine relevanten Differenzialdiagnosen."
+    ],
+    "correct": 0,
+    "tip": "Differenzialdiagnosen werden dabei systematisch nach Organsystemen gegliedert (muskuloskelettal, gastrointestinal, gynäkologisch, neurogen, psychisch, urologisch).",
+    "explanation": "Kapitel 3.1 nennt die überaktive Blase (OAB) und die hypersensitive Blase als wichtige 'confusable diseases', von denen die IC/BPS differenzialdiagnostisch abzugrenzen ist."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.1 bezüglich der Anamnese bei Verdacht auf IC/BPS?",
+    "options": [
+      "Eine zielgerichtete Anamnese zu Beginn, Verlauf, Dauer und Auslösern mit systematischer Dokumentation der Symptomschwere.",
+      "Den vollständigen Verzicht auf eine strukturierte Anamnese zugunsten einer sofortigen Zystoskopie.",
+      "Eine Anamnese, die sich ausschließlich auf die letzten 24 Stunden bezieht.",
+      "Eine Anamnese ausschließlich durch einen Fragebogen ohne ärztliches Gespräch."
+    ],
+    "correct": 0,
+    "tip": "Ergänzend sollen laut Empfehlung 3.2 die aktuelle Medikations- und Therapieliste sowie laut Empfehlung 3.3 alle Komorbiditäten erfasst werden.",
+    "explanation": "Empfehlung 3.1 fordert eine zielgerichtete Anamnese zu Beginn, Verlauf, Dauer und Auslösern der Beschwerden mit systematischer Dokumentation der Symptomschwere."
+  },
+  {
+    "question": "Welche Rolle spielen Biomarker laut Statement 3.4 in der klinischen Routinediagnostik der IC/BPS?",
+    "options": [
+      "Sie spielen in der klinischen Routine keine Rolle.",
+      "Sie sind das zentrale, obligate Diagnosekriterium.",
+      "Sie ersetzen die Anamnese vollständig.",
+      "Sie sind ausschließlich bei Männern diagnostisch relevant."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht, dass die IC/BPS-Diagnose primär klinisch anhand von Anamnese, Untersuchung und Ausschlussdiagnostik gestellt wird.",
+    "explanation": "Statement 3.4 stellt fest, dass Biomarker in der klinischen Routinediagnostik der IC/BPS keine Rolle spielen."
+  },
+  {
+    "question": "Worauf liegt laut Empfehlung 3.5 der Fokus bei der körperlichen Untersuchung, einschließlich Schmerzmapping?",
+    "options": [
+      "Auf Triggerpunkten im Rahmen eines Schmerzmappings.",
+      "Ausschließlich auf der Inspektion der äußeren Haut ohne jede weitere Untersuchung.",
+      "Ausschließlich auf der Auskultation des Abdomens.",
+      "Eine körperliche Untersuchung ist bei IC/BPS nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Ergänzend erfolgt laut Empfehlung 3.6 eine rektale bzw. vaginale Untersuchung mit Fokus auf Tenderpunkte, Tonus und Relaxation.",
+    "explanation": "Empfehlung 3.5 fordert ein Schmerzmapping mit Fokus auf Triggerpunkte als Teil der körperlichen Untersuchung."
+  },
+  {
+    "question": "Was gilt laut den Empfehlungen zur Urinuntersuchung (3.8–3.13), wenn ein Infekt- oder Virusnachweis im Urin vorliegt?",
+    "options": [
+      "Ein Infekt- oder Virusnachweis schließt eine IC/BPS nicht aus.",
+      "Ein positiver Infektnachweis schließt eine IC/BPS definitiv aus.",
+      "Nur ein negativer Virusnachweis erlaubt die Diagnose IC/BPS.",
+      "Urinuntersuchungen sind bei IC/BPS generell nicht indiziert."
+    ],
+    "correct": 0,
+    "tip": "Der Urinstatus soll dennoch auf Mikrohämaturie, Leukozyturie, Nitrit sowie bakterielle/mykotische Harnwegsinfekte untersucht werden.",
+    "explanation": "Die Empfehlungen zur Urinuntersuchung stellen klar, dass ein Infekt- oder Virusnachweis im Urin eine IC/BPS nicht ausschließt."
+  },
+  {
+    "question": "Was soll laut den Empfehlungen zur Urindiagnostik bei einer sterilen Leukozyturie ausgeschlossen werden?",
+    "options": [
+      "Eine Tuberkulose.",
+      "Eine Herpes-simplex-Infektion.",
+      "Eine Influenza-Infektion.",
+      "Es ist bei steriler Leukozyturie keine weitere Abklärung erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Dies ist einer der häufig übersehenen diagnostischen Fallstricke bei der Abklärung von Blasenbeschwerden.",
+    "explanation": "Bei steriler Leukozyturie soll laut der Leitlinie eine Tuberkulose ausgeschlossen werden."
+  },
+  {
+    "question": "Durch welches Verfahren soll laut den Empfehlungen zur Urindiagnostik ein Ausschluss sexuell übertragbarer Erkrankungen (STD) erfolgen?",
+    "options": [
+      "Per NAAT/PCR.",
+      "Ausschließlich durch eine klinische Blickdiagnose ohne Labortest.",
+      "Ausschließlich durch eine Urinkultur auf festen Nährböden.",
+      "Ein STD-Ausschluss ist bei IC/BPS nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll vor einem Schnelltest eine Urinzytologie erfolgen, die jedoch keine Urethrozystoskopie ersetzt.",
+    "explanation": "Der Ausschluss sexuell übertragbarer Erkrankungen soll mittels NAAT/PCR erfolgen."
+  },
+  {
+    "question": "Was sagt die Leitlinie zur Suche nach Viren, Archaeen, Mikrobiom oder weiteren Biomarkern im Urin außerhalb klinischer Studien?",
+    "options": [
+      "Eine solche Suche wird außerhalb von Studien nicht empfohlen.",
+      "Sie ist ein obligater Bestandteil der Routinediagnostik.",
+      "Sie ersetzt die Zystoskopie vollständig.",
+      "Sie ist nur bei männlichen Patienten vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Verfahren haben derzeit ausschließlich Studiencharakter und keine Rolle in der klinischen Routine.",
+    "explanation": "Die Leitlinie empfiehlt keine Suche nach Viren, Archaeen, Mikrobiom oder weiteren Biomarkern im Urin außerhalb von Studien."
+  },
+  {
+    "question": "Mit welchen Instrumenten soll laut Empfehlung 3.14/3.15 das Basisassessment der Schmerzdiagnostik erfolgen?",
+    "options": [
+      "Mit GUPI, ICSI oder VAS.",
+      "Ausschließlich mit einem EKG.",
+      "Ausschließlich mit einer Blutgasanalyse.",
+      "Eine standardisierte Schmerzdiagnostik ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Bei Verdacht auf eine chronische Schmerzerkrankung soll zusätzlich ein interdisziplinäres multimodales algesiologisches Assessment erfolgen.",
+    "explanation": "Das Basisassessment der Schmerzdiagnostik soll laut Empfehlung 3.14/3.15 mit GUPI, ICSI oder VAS erfolgen."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 4 im Zusammenhang mit der Urindiagnostik besonders hervorgehoben?",
+    "options": [
+      "Eine sterile Leukozyturie ohne Tuberkulose-Ausschluss abzuklären.",
+      "Zu viele Urinuntersuchungen bei IC/BPS-Patienten durchzuführen.",
+      "Die Urinzytologie generell wegzulassen, da sie als überflüssig gilt.",
+      "Jede Form der Urinuntersuchung bei IC/BPS zu unterlassen."
+    ],
+    "correct": 0,
+    "tip": "Dieser Fallstrick kann zu einer verzögerten Diagnose einer behandelbaren Grunderkrankung führen.",
+    "explanation": "Der diskutierte Fallstrick ist eine sterile Leukozyturie, bei der keine Tuberkulose-Abklärung erfolgt, obwohl dies gefordert ist."
+  }
+]

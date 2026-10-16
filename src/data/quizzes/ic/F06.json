@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Lebensstilbereiche sollen laut den Empfehlungen 4.1–4.6 individuell angepasst werden?",
+    "options": [
+      "Kleidung, Sexualpraktiken, Ernährung, Getränke und Sport.",
+      "Ausschließlich die berufliche Tätigkeit.",
+      "Ausschließlich der Wohnort.",
+      "Lebensstilfaktoren spielen laut Leitlinie keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich sollen Unterkühlung und Stress vermieden werden, mit Wärme oder Kälte bei akuten Schüben.",
+    "explanation": "Die Empfehlungen 4.1–4.6 fordern eine individuelle Anpassung von Kleidung, Sexualpraktiken, Ernährung, Getränken und Sport."
+  },
+  {
+    "question": "Welche Trainingsform wird im Rahmen der Lebensstilveränderungen mit kontrollierter Trinkmenge empfohlen?",
+    "options": [
+      "Das Blasentraining.",
+      "Ein hochintensives Ausdauertraining ohne Flüssigkeitsrestriktion.",
+      "Ein reines Krafttraining ohne Bezug zur Trinkmenge.",
+      "Es wird kein Training in diesem Zusammenhang empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Ergänzend werden ein Rauchstopp sowie Atem- und Entspannungstechniken empfohlen.",
+    "explanation": "Im Rahmen der Lebensstilveränderungen wird ein Blasentraining mit kontrollierter Trinkmenge empfohlen."
+  },
+  {
+    "question": "Was besagt Statement 2.19 zur Evidenz symptomverstärkender Lebensmittel bei IC/BPS?",
+    "options": [
+      "Symptomverstärkende Lebensmittel wurden zwar in Humanstudien identifiziert, es lassen sich daraus jedoch keine allgemeingültigen Ernährungsempfehlungen ableiten.",
+      "Es existieren klare, für alle Patienten gültige Verbotslisten für bestimmte Lebensmittel.",
+      "Lebensmittel haben nachweislich keinerlei Einfluss auf die Symptomatik.",
+      "Nur eine einzige Lebensmittelgruppe wurde bislang als relevant identifiziert."
+    ],
+    "correct": 0,
+    "tip": "Zur individuellen Erfassung kann der Fragebogen nach Shorter & Moldwin eingesetzt werden.",
+    "explanation": "Statement 2.19 besagt, dass symptomverstärkende Lebensmittel zwar in Humanstudien identifiziert wurden, sich daraus aber keine allgemeingültigen Ernährungsempfehlungen ableiten lassen."
+  },
+  {
+    "question": "Was fordert Statement 2.20 hinsichtlich der Prüfung der Lebensmittelverträglichkeit?",
+    "options": [
+      "Eine individuelle Prüfung der Verträglichkeit statt einer pauschalen Meidung bestimmter Lebensmittel.",
+      "Eine pauschale, für alle Patienten identische Verbotsliste.",
+      "Den vollständigen Verzicht auf jede diätetische Beratung.",
+      "Eine ausschließlich laborchemische Testung ohne jedes Ernährungstagebuch."
+    ],
+    "correct": 0,
+    "tip": "Dies steht im Gegensatz zu generellen, undifferenzierten Verbotslisten, wie sie z. B. aus Internetforen kursieren.",
+    "explanation": "Statement 2.20 fordert eine individuelle Prüfung der Lebensmittelverträglichkeit anstelle einer pauschalen Meidung."
+  },
+  {
+    "question": "Was besagt Statement 2.21 zur nahrungsmittelbedingten Histaminintoleranz bei IC/BPS?",
+    "options": [
+      "Es gibt keine eindeutigen Belege für eine nahrungsmittelbedingte Histaminintoleranz bei IC/BPS.",
+      "Eine Histaminintoleranz ist bei allen IC/BPS-Patienten zweifelsfrei nachgewiesen.",
+      "Eine Histaminintoleranz ist die alleinige Ursache der IC/BPS.",
+      "Histamin spielt bei der IC/BPS keinerlei pathophysiologische Rolle."
+    ],
+    "correct": 0,
+    "tip": "Bei entsprechendem Verdacht wird dennoch eine Karenz- und Testphase nach der entsprechenden Leitlinie empfohlen.",
+    "explanation": "Statement 2.21 stellt fest, dass es keine eindeutigen Belege für eine nahrungsmittelbedingte Histaminintoleranz bei IC/BPS gibt."
+  },
+  {
+    "question": "Welche Form der Ernährung kann laut Empfehlung 4.7/4.8 die Beschwerden bei IC/BPS lindern?",
+    "options": [
+      "Eine anti-inflammatorische Ernährung.",
+      "Eine streng ketogene Diät.",
+      "Eine ausschließlich fleischbasierte Ernährung.",
+      "Eine Ernährung ohne jeden pflanzlichen Anteil."
+    ],
+    "correct": 0,
+    "tip": "Die begleitende Ernährungstherapie soll laut Empfehlung 4.11 durch eine qualifizierte Ernährungsfachkraft oder einen Ernährungsmediziner erfolgen.",
+    "explanation": "Empfehlung 4.7/4.8 besagt, dass eine anti-inflammatorische Ernährung die Beschwerden bei IC/BPS lindern kann."
+  },
+  {
+    "question": "Welches strukturierte Vorgehen wird laut Empfehlung 4.9 für die Ernährungsberatung empfohlen?",
+    "options": [
+      "Der Nutrition Care Process mit Ernährungsanamnese, Ernährungsdiagnose, individueller Empfehlung, Monitoring und Evaluation.",
+      "Eine einmalige, nicht weiter strukturierte Ernährungsberatung ohne Verlaufskontrolle.",
+      "Ein ausschließlich online durchgeführtes, standardisiertes Ernährungsprogramm.",
+      "Es wird kein strukturiertes Vorgehen empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Dieses mehrstufige Vorgehen soll eine individualisierte, evidenzbasierte Ernährungsberatung sicherstellen.",
+    "explanation": "Empfehlung 4.9 empfiehlt den Nutrition Care Process mit den Schritten Ernährungsanamnese, Ernährungsdiagnose, individuelle Empfehlung, Monitoring und Evaluation."
+  },
+  {
+    "question": "Wie sieht das Stufenschema bei Verdacht auf eine Nahrungsmittelunverträglichkeit laut Empfehlung 4.10a–e aus?",
+    "options": [
+      "Ernährungs-Symptom-Tagebuch → zeitlich begrenzte individuelle Diät → Re-Exposition.",
+      "Sofortige lebenslange Diät ohne vorherige Testphase.",
+      "Direkte Einleitung einer medikamentösen Therapie ohne jede diätetische Maßnahme.",
+      "Ein Stufenschema ist laut Leitlinie nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Generelle Verbotslisten sind dabei ausdrücklich nicht vorgesehen.",
+    "explanation": "Empfehlung 4.10a–e beschreibt das Stufenschema: Ernährungs-Symptom-Tagebuch, gefolgt von einer zeitlich begrenzten individuellen Diät und anschließender Re-Exposition."
+  },
+  {
+    "question": "Wer soll laut Empfehlung 4.11 die begleitende Ernährungstherapie durchführen?",
+    "options": [
+      "Eine qualifizierte Ernährungsfachkraft oder ein Ernährungsmediziner.",
+      "Ausschließlich der behandelnde Urologe ohne weitere Qualifikation.",
+      "Ausschließlich der Patient in Eigenregie ohne professionelle Begleitung.",
+      "Eine begleitende Ernährungstherapie ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dies gewährleistet eine fachlich fundierte Umsetzung des individualisierten Ernährungskonzepts.",
+    "explanation": "Empfehlung 4.11 sieht vor, dass die begleitende Ernährungstherapie durch eine qualifizierte Ernährungsfachkraft oder einen Ernährungsmediziner erfolgen soll."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 6 im Zusammenhang mit Ernährungsempfehlungen diskutiert?",
+    "options": [
+      "Generelle Verbotslisten anstelle einer individuellen Austestung mit Re-Exposition zu verwenden.",
+      "Zu wenige Lebensmittel als potenziell problematisch einzustufen.",
+      "Ernährungsberatung grundsätzlich für überflüssig zu halten.",
+      "Ausschließlich histaminarme Kost ohne jede individuelle Testung zu empfehlen."
+    ],
+    "correct": 0,
+    "tip": "Solche pauschalen Listen, wie sie z. B. aus Internetforen stammen, stehen im Widerspruch zur empfohlenen individuellen Vorgehensweise.",
+    "explanation": "Der diskutierte Fallstrick ist die Verwendung genereller Verbotslisten (z. B. aus Internetforen) anstelle der empfohlenen individuellen Austestung mit Re-Exposition."
+  }
+]

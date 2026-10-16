@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches ist laut Kapitel 4.2.1 das einzige in Deutschland zugelassene orale Präparat zur Behandlung der IC/BPS?",
+    "options": [
+      "Pentosanpolysulfat (PPS).",
+      "Gabapentin.",
+      "Metformin.",
+      "Methotrexat."
+    ],
+    "correct": 0,
+    "tip": "PPS wird gemäß Empfehlung 4.19 als Basistherapie bei Glomerulationen oder Hunner-Läsionen eingesetzt.",
+    "explanation": "Pentosanpolysulfat (PPS) ist laut Kapitel 4.2.1 das einzige in Deutschland zugelassene orale Präparat zur Behandlung der IC/BPS."
+  },
+  {
+    "question": "In welcher Dosierung wird Pentosanpolysulfat laut der Leitlinie üblicherweise eingesetzt, und nach welchem Zeitraum ist mit einem Wirkbeginn zu rechnen?",
+    "options": [
+      "3 × 100 mg täglich, Wirkbeginn nach 3–6 Monaten.",
+      "1 × 1000 mg täglich, Wirkbeginn innerhalb von 24 Stunden.",
+      "3 × 10 mg täglich, Wirkbeginn nach einer einzigen Einnahme.",
+      "Eine Dosierungsangabe existiert in der Leitlinie nicht."
+    ],
+    "correct": 0,
+    "tip": "Ein früher Therapiebeginn ist dabei mit einem besseren Effekt assoziiert.",
+    "explanation": "Pentosanpolysulfat wird in einer Dosierung von 3 × 100 mg eingesetzt, wobei mit einem Wirkbeginn nach 3–6 Monaten zu rechnen ist."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.20 im Zusammenhang mit der möglichen Assoziation von PPS und pigmentärer Makulopathie?",
+    "options": [
+      "Regelmäßige augenärztliche Kontrollen und Aufklärung über Frühsymptome, obwohl die Kausalität nicht sicher belegt ist.",
+      "Den sofortigen und endgültigen Verzicht auf PPS bei jedem Patienten.",
+      "Eine augenärztliche Kontrolle ist nicht erforderlich, da kein Zusammenhang besteht.",
+      "PPS darf nach dieser Empfehlung nur noch bei Männern eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "Ein möglicher Zusammenhang wurde insbesondere bei langfristiger, hochdosierter Einnahme diskutiert, was zu einem Rote-Hand-Brief führte.",
+    "explanation": "Empfehlung 4.20 fordert trotz nicht sicher belegter Kausalität regelmäßige augenärztliche Kontrollen und eine Aufklärung über Frühsymptome einer pigmentären Makulopathie."
+  },
+  {
+    "question": "Bei welcher Symptomkonstellation können laut Empfehlung 4.21 Alpha-1A-Blocker eingesetzt werden?",
+    "options": [
+      "Bei Schmerz in Kombination mit Pollakisurie.",
+      "Ausschließlich bei isolierter Dysurie ohne jedes weitere Symptom.",
+      "Ausschließlich bei nachgewiesener Harnwegsinfektion.",
+      "Alpha-1A-Blocker werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Hydroxyzin wird laut Empfehlung 4.22 bevorzugt in Kombination mit anderen Therapien eingesetzt.",
+    "explanation": "Empfehlung 4.21 sieht den Einsatz von Alpha-1A-Blockern bei Schmerz in Kombination mit Pollakisurie vor."
+  },
+  {
+    "question": "Was gilt laut Empfehlung 4.24 für den Einsatz von H2-Antagonisten wie Cimetidin bei Kindern mit IC/BPS?",
+    "options": [
+      "H2-Antagonisten sollen bei Kindern nicht eingesetzt werden.",
+      "Sie sind bei Kindern die Therapie der ersten Wahl.",
+      "Sie sind nur bei Kindern, nicht bei Erwachsenen zugelassen.",
+      "Eine Altersbeschränkung existiert in der Leitlinie nicht."
+    ],
+    "correct": 0,
+    "tip": "Bei Erwachsenen kann Cimetidin dagegen laut Empfehlung 4.23 eingesetzt werden.",
+    "explanation": "Empfehlung 4.24 legt fest, dass H2-Antagonisten bei Kindern mit IC/BPS nicht eingesetzt werden sollen."
+  },
+  {
+    "question": "Welchen Stellenwert haben laut den Empfehlungen 4.29/4.30 monoklonale Antikörper (z. B. Anti-TNF-α, Anti-NGF) und Thrombomodulin bei der IC/BPS-Therapie?",
+    "options": [
+      "Sie haben derzeit nur Studiencharakter.",
+      "Sie sind die Standardtherapie der ersten Wahl.",
+      "Sie sind in Deutschland für diese Indikation regulär zugelassen.",
+      "Sie werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Diese Substanzklassen befinden sich noch in der klinischen Erprobung für die Indikation IC/BPS.",
+    "explanation": "Die Empfehlungen 4.29/4.30 ordnen monoklonale Antikörper (Anti-TNF-α, Anti-NGF) und Thrombomodulin als Verfahren mit derzeit nur Studiencharakter ein."
+  },
+  {
+    "question": "Was fordert die Leitlinie (Kapitel 4.2.9–4.2.11) zur antiinfektiven Therapie bei IC/BPS?",
+    "options": [
+      "Keine antimikrobielle Therapie ohne eindeutig nachgewiesene Begleitinfektion.",
+      "Eine prophylaktische Dauerantibiose bei jedem IC/BPS-Patienten.",
+      "Eine antibiotische Therapie bei jedem Symptomschub, unabhängig vom Erregernachweis.",
+      "Eine antiinfektive Therapie wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Eine nachgewiesene Harnwegsinfektion soll dagegen nach der S3-Leitlinie unkomplizierte Harnwegsinfektionen behandelt werden.",
+    "explanation": "Die Leitlinie fordert, dass keine antimikrobielle Therapie ohne eindeutig nachgewiesene Begleitinfektion erfolgen soll."
+  },
+  {
+    "question": "Wann soll laut der Leitlinie eine asymptomatische Bakteriurie bei IC/BPS-Patienten antibiotisch behandelt werden?",
+    "options": [
+      "Nur vor schleimhautverletzenden Eingriffen.",
+      "Immer und sofort bei jedem Nachweis.",
+      "Nur bei männlichen Patienten.",
+      "Eine asymptomatische Bakteriurie wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Dies entspricht dem allgemeinen Grundsatz einer zurückhaltenden antibiotischen Therapie bei asymptomatischer Bakteriurie.",
+    "explanation": "Eine asymptomatische Bakteriurie soll laut der Leitlinie nur vor schleimhautverletzenden Eingriffen antibiotisch behandelt werden."
+  },
+  {
+    "question": "Gegen welche Infektionen wird bei IC/BPS-Patienten laut Kapitel 4.2.11 ab einem bestimmten Alter eine Impfung empfohlen?",
+    "options": [
+      "Gegen Hepatitis B und Herpes zoster (ab 50 Jahren).",
+      "Gegen Masern und Mumps.",
+      "Gegen Tetanus und Diphtherie, unabhängig vom Alter.",
+      "Eine Impfempfehlung wird in diesem Kapitel nicht gegeben."
+    ],
+    "correct": 0,
+    "tip": "Dies steht im Zusammenhang mit dem in Kapitel 2.5.2 beschriebenen erhöhten Risiko für diese Infektionen bei IC/BPS-Patienten.",
+    "explanation": "Kapitel 4.2.11 empfiehlt bei IC/BPS-Patienten eine Impfung gegen Hepatitis B und Herpes zoster ab einem Alter von 50 Jahren."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 8 im Zusammenhang mit Symptomschüben diskutiert?",
+    "options": [
+      "Wiederholte Antibiotikakuren bei jedem Symptomschub, ohne dass eine eindeutige Infektion nachgewiesen ist.",
+      "Zu seltene Antibiotikagabe bei eindeutig nachgewiesener Infektion.",
+      "Der generelle Verzicht auf jede Form der Therapie bei Symptomschüben.",
+      "Die ausschließliche Anwendung von Pentosanpolysulfat bei jedem Schub."
+    ],
+    "correct": 0,
+    "tip": "Dies widerspricht der Grundregel, keine antimikrobielle Therapie ohne eindeutig nachgewiesene Begleitinfektion durchzuführen.",
+    "explanation": "Der diskutierte Fallstrick sind wiederholte Antibiotikakuren bei jedem Symptomschub, obwohl keine eindeutig nachgewiesene Infektion vorliegt."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Therapie soll laut Empfehlung 4.72 Patienten mit Hunner-Typ IC (HIC) bei Nachweis von Hunner-Läsionen angeboten werden?",
+    "options": [
+      "Die transurethrale Fulguration (z. B. TUC, TUR oder Laser).",
+      "Ausschließlich eine systemische Chemotherapie.",
+      "Ausschließlich eine Strahlentherapie der Blase.",
+      "Eine Therapie der Hunner-Läsionen ist laut Leitlinie nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Die Ansprechraten liegen bei 57–100 %, die Wirkung hält über Monate bis mehr als 2 Jahre an, häufig ist jedoch eine Wiederholung nötig.",
+    "explanation": "Empfehlung 4.72 fordert, dass Patienten mit Hunner-Typ IC eine transurethrale Fulguration (z. B. TUC, TUR oder Laser) angeboten werden soll."
+  },
+  {
+    "question": "Wie hoch sind laut dem Episodeninhalt die Ansprechraten der transurethralen Fulguration von Hunner-Läsionen, und wie lange hält die Wirkung typischerweise an?",
+    "options": [
+      "Ansprechraten von 57–100 %, Wirkung über Monate bis mehr als 2 Jahre.",
+      "Ansprechraten von unter 5 %, Wirkung nur für wenige Stunden.",
+      "Ansprechraten von 100 %, immer dauerhaft ohne jede Notwendigkeit einer Wiederholung.",
+      "Es werden keine Ansprechraten in der Leitlinie genannt."
+    ],
+    "correct": 0,
+    "tip": "Häufig ist dennoch eine Wiederholung der Fulguration erforderlich.",
+    "explanation": "Die Ansprechraten der transurethralen Fulguration liegen bei 57–100 %, mit einer Wirkdauer von Monaten bis mehr als 2 Jahren."
+  },
+  {
+    "question": "In welcher klinischen Situation ist laut Empfehlung 4.73 eine sakrale Neuromodulation (SNM) indiziert?",
+    "options": [
+      "Nach Versagen mehrerer konservativer Verfahren und vor großen Operationen.",
+      "Als allererste Therapieoption vor jeder konservativen Maßnahme.",
+      "Ausschließlich bei Patienten unter 18 Jahren.",
+      "SNM wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die pudendale Neuromodulation (PNM) soll dagegen laut Empfehlung 4.74 in erfahrenen Zentren erfolgen.",
+    "explanation": "Empfehlung 4.73 sieht die sakrale Neuromodulation (SNM) nach Versagen mehrerer konservativer Verfahren und vor größeren Operationen vor."
+  },
+  {
+    "question": "Wann kann laut Empfehlung 4.76 eine hyperbare Sauerstofftherapie als ergänzende Option eingesetzt werden?",
+    "options": [
+      "Wenn andere konservative Maßnahmen nicht ausreichen.",
+      "Als alleinige Erstlinientherapie ohne jede vorherige konservative Maßnahme.",
+      "Ausschließlich in Kombination mit einer Zystektomie.",
+      "Die hyperbare Sauerstofftherapie wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Sie ergänzt das Spektrum der eskalierenden Therapieoptionen vor einer möglichen operativen Therapie.",
+    "explanation": "Empfehlung 4.76 sieht die hyperbare Sauerstofftherapie als ergänzende Option vor, wenn andere konservative Maßnahmen nicht ausreichen."
+  },
+  {
+    "question": "Als welche Therapieoption werden laut den Empfehlungen 4.77/4.79 die Zystektomie und Harnableitung bei IC/BPS eingeordnet?",
+    "options": [
+      "Als Ultima Ratio.",
+      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
+      "Als ausschließlich ambulant durchführbares Verfahren.",
+      "Zystektomie und Harnableitung werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Vor dieser Maßnahme sollen die etablierten konservativen und interventionellen Optionen ausgeschöpft sein.",
+    "explanation": "Die Zystektomie und Harnableitung werden laut den Empfehlungen 4.77/4.79 als Ultima Ratio bei der Behandlung der IC/BPS eingeordnet."
+  },
+  {
+    "question": "Über welche Formen der Harnableitung soll der Patient laut Empfehlung 4.78 aufgeklärt werden, auch im Fall einer vorherigen Urethrektomie?",
+    "options": [
+      "Über alle Formen der Harnableitung, inklusive der kontinenten Ableitung als katheterisierbarer Nabelpouch.",
+      "Ausschließlich über das Ileum-Conduit als einzige Option.",
+      "Es ist laut Leitlinie keine Aufklärung über Harnableitungsformen notwendig.",
+      "Ausschließlich über die perkutane Nephrostomie."
+    ],
+    "correct": 0,
+    "tip": "Auch nach einer Urethrektomie ist eine kontinente Ableitung als katheterisierbarer Nabelpouch möglich.",
+    "explanation": "Empfehlung 4.78 fordert eine Aufklärung über alle Formen der Harnableitung, einschließlich der kontinenten Ableitung als katheterisierbarer Nabelpouch, auch nach Urethrektomie."
+  },
+  {
+    "question": "Worüber muss der Patient laut Empfehlung 4.80 aufgeklärt werden, wenn Harnröhre oder Blasenanteile bei der operativen Therapie belassen werden?",
+    "options": [
+      "Über das Risiko einer Symptompersistenz.",
+      "Über eine garantierte vollständige Symptomfreiheit.",
+      "Über eine damit verbundene Heilung der Grunderkrankung.",
+      "Eine gesonderte Aufklärung ist in diesem Fall nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Dies ist besonders bei supratrigonalen Resektionsverfahren relevant, bei denen Blasenanteile verbleiben.",
+    "explanation": "Empfehlung 4.80 fordert eine Aufklärung über das Risiko einer Symptompersistenz, wenn Harnröhre oder Blasenanteile belassen werden."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 5.1 eine stationäre urologische Rehabilitation erfolgen?",
+    "options": [
+      "Vor invasiveren Maßnahmen bei Versagen der ambulanten Therapie.",
+      "Ausschließlich nach Abschluss aller Therapien, unabhängig vom Erfolg.",
+      "Niemals, da eine Rehabilitation bei IC/BPS nicht vorgesehen ist.",
+      "Nur bei Patienten unter 30 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich ist laut Empfehlung 5.2 auch nach einer Zystektomie mit Harnableitung eine Rehabilitation vorgesehen.",
+    "explanation": "Empfehlung 5.1 sieht eine stationäre urologische Rehabilitation vor invasiveren Maßnahmen bei Versagen der ambulanten Therapie vor."
+  },
+  {
+    "question": "Für welche Patientengruppe ist laut Empfehlung 5.2 ebenfalls eine stationäre Rehabilitation vorgesehen?",
+    "options": [
+      "Für Patienten nach Zystektomie mit Harnableitung.",
+      "Ausschließlich für Patienten mit erfolgreicher konservativer Therapie ohne jede Intervention.",
+      "Ausschließlich für Kinder mit IC/BPS.",
+      "Für diese Patientengruppe ist keine Rehabilitation vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Voraussetzung ist dabei stets die Rehabilitationsfähigkeit des Patienten.",
+    "explanation": "Empfehlung 5.2 sieht auch für Patienten nach Zystektomie mit Harnableitung eine stationäre urologische Rehabilitation vor."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 11 im Zusammenhang mit der supratrigonalen Zystektomie diskutiert?",
+    "options": [
+      "Eine supratrigonale Zystektomie ohne vorherige Aufklärung über eine mögliche Symptompersistenz durchzuführen.",
+      "Eine Zystektomie generell für obsolet zu erklären.",
+      "Jeden Patienten unabhängig vom Befund sofort zur Zystektomie zu überweisen.",
+      "Eine Zystektomie ausschließlich bei Männern durchzuführen."
+    ],
+    "correct": 0,
+    "tip": "Dies verbindet sich direkt mit der in Empfehlung 4.80 geforderten Aufklärungspflicht bei belassenen Blasenanteilen.",
+    "explanation": "Der diskutierte Fallstrick ist eine supratrigonale Zystektomie ohne vorherige Aufklärung über die laut Empfehlung 4.80 mögliche Symptompersistenz bei belassenen Blasenanteilen oder der Harnröhre."
+  }
+]

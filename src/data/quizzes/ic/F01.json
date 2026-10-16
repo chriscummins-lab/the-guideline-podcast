@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie wird die Interstitielle Zystitis/das Blasenschmerzsyndrom (IC/BPS) laut der neuen Definition 1 (2024) der S2k-Leitlinie grundsätzlich beschrieben?",
+    "options": [
+      "Als Entzündung von Harnblase oder Harnröhre, möglicherweise assoziiert mit Urothelschaden, Infektion, Toxinen, Autoimmunität oder Allergie, mit typischen Symptomen unter Ausschluss von Differenzialdiagnosen.",
+      "Als eine ausschließlich bakteriell bedingte chronische Blasenentzündung.",
+      "Als rein psychogene Erkrankung ohne jede somatische Komponente.",
+      "Als histopathologisch eindeutig definierte Tumorvorstufe der Harnblase."
+    ],
+    "correct": 0,
+    "tip": "Diese Definition schließt verschiedene mögliche Assoziationen ein, erfordert aber stets den Ausschluss anderer Erkrankungen.",
+    "explanation": "Die neue Definition 1 (2024) beschreibt die IC/BPS als Entzündung von Harnblase oder Harnröhre mit möglichen Assoziationen (Urothelschaden, Infektion, Toxine, Autoimmunität, Allergie) und typischen Symptomen, stets unter Ausschluss von Differenzialdiagnosen."
+  },
+  {
+    "question": "Welche zwei Subtypen werden laut Definition 2 nach dem zystoskopischen Befund unterschieden, und wie wird das Blasenschmerzsyndrom (BPS) davon abgegrenzt?",
+    "options": [
+      "Hunner-Typ IC (HIC) und Nicht-Hunner-Typ IC (NHIC); das BPS zeigt dagegen keinerlei zystoskopische oder histologische Veränderungen.",
+      "Nur ein einziger Subtyp existiert, eine weitere Unterteilung ist nicht vorgesehen.",
+      "Akute und chronische IC, wobei BPS eine Sonderform der akuten IC darstellt.",
+      "Bakterielle und virale IC, wobei BPS ausschließlich durch Pilzinfektionen verursacht wird."
+    ],
+    "correct": 0,
+    "tip": "NHIC kann dabei mit oder ohne Glomerulationen vorliegen.",
+    "explanation": "Definition 2 unterscheidet nach zystoskopischem Befund den Hunner-Typ IC (HIC) vom Nicht-Hunner-Typ IC (NHIC, mit oder ohne Glomerulationen); davon abgegrenzt wird das Blasenschmerzsyndrom (BPS), das keine zystoskopischen oder histologischen Veränderungen zeigt."
+  },
+  {
+    "question": "Wie wird die Hunner-Läsion charakteristisch beschrieben?",
+    "options": [
+      "Als umschriebenes gerötetes Areal mit zur zentralen Narbe ziehenden Gefäßen und Fibrinbelag, mit wasserfallartiger Blutung bei Dehnung.",
+      "Als diffuse, blasse Schleimhautveränderung ohne jede Gefäßzeichnung.",
+      "Als isolierte weiße Plaque ohne jede Blutungsneigung.",
+      "Als ausschließlich im Trigonum lokalisierte Verkalkung."
+    ],
+    "correct": 0,
+    "tip": "Glomerulationen lassen sich dagegen nur sicher mittels Hydrodistension ausschließen.",
+    "explanation": "Die Hunner-Läsion wird als umschriebenes gerötetes Areal mit zur zentralen Narbe ziehenden Gefäßen und Fibrinbelag beschrieben, mit einer charakteristischen wasserfallartigen Blutung bei Dehnung der Blase."
+  },
+  {
+    "question": "Wie unterscheidet sich das Leitsymptom bei NHIC von dem der überaktiven Blase (OAB)?",
+    "options": [
+      "Bei NHIC steht der Schmerz im Vordergrund, bei der OAB dagegen der imperative Harndrang.",
+      "Bei NHIC steht der imperative Harndrang im Vordergrund, bei der OAB der Schmerz.",
+      "Beide Erkrankungen sind klinisch und per Definition identisch.",
+      "Die OAB ist durch Hunner-Läsionen definiert, NHIC nicht."
+    ],
+    "correct": 0,
+    "tip": "Zudem ist die IC/BPS keine histopathologische Diagnose und an kein bestimmtes Blasenvolumen gebunden.",
+    "explanation": "Die Abgrenzung zur OAB erfolgt über das Leitsymptom: bei NHIC steht der Schmerz im Vordergrund, während bei der OAB der imperative Harndrang das Leitsymptom ist."
+  },
+  {
+    "question": "Ist die IC/BPS an ein bestimmtes zystoskopisch gemessenes Blasenvolumen gebunden?",
+    "options": [
+      "Nein, die IC/BPS ist keine histopathologische Diagnose und an kein bestimmtes Blasenvolumen gebunden.",
+      "Ja, sie ist definitionsgemäß nur bei einer Blasenkapazität unter 100 ml zu diagnostizieren.",
+      "Ja, sie erfordert zwingend eine Blasenkapazität über 800 ml.",
+      "Ja, das Blasenvolumen ist das alleinige diagnostische Kriterium."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht, dass die IC/BPS primär eine klinische und keine rein messtechnische Diagnose ist.",
+    "explanation": "Die Leitlinie stellt klar, dass die IC/BPS keine histopathologische Diagnose ist und nicht an ein bestimmtes Blasenvolumen gebunden ist."
+  },
+  {
+    "question": "Unter welchem ICD-10-Code wird die Interstitielle Zystitis kodiert?",
+    "options": [
+      "N30.1",
+      "C67.9",
+      "N39.0",
+      "F45.4"
+    ],
+    "correct": 0,
+    "tip": "In der ICD-11 lautet die Kodierung GC00.3 bzw. MG30.00.",
+    "explanation": "Die Interstitielle Zystitis wird nach ICD-10 unter N30.1 kodiert, nach ICD-11 unter GC00.3 bzw. MG30.00."
+  },
+  {
+    "question": "Um welchen Faktor sind Frauen laut der Epidemiologie-Angaben in Kapitel 2.3 häufiger von IC/BPS betroffen als Männer?",
+    "options": [
+      "Etwa neunmal häufiger.",
+      "Etwa zweimal häufiger.",
+      "Männer sind insgesamt häufiger betroffen als Frauen.",
+      "Beide Geschlechter sind gleich häufig betroffen."
+    ],
+    "correct": 0,
+    "tip": "Die IC/BPS betrifft dabei alle Altersgruppen, mit einem Gipfel im mittleren Alter.",
+    "explanation": "Laut Kapitel 2.3 sind Frauen etwa neunmal häufiger von IC/BPS betroffen als Männer."
+  },
+  {
+    "question": "In welchem Bereich liegt die angegebene Prävalenz der IC/BPS bei Frauen pro 100.000 Personen?",
+    "options": [
+      "52–500 pro 100.000.",
+      "1–5 pro 100.000.",
+      "5.000–10.000 pro 100.000.",
+      "Es wird keine Prävalenzangabe für Frauen gemacht."
+    ],
+    "correct": 0,
+    "tip": "Bei Männern liegt die angegebene Prävalenz deutlich niedriger, bei 8–41 pro 100.000.",
+    "explanation": "Die Leitlinie gibt für Frauen eine Prävalenz von 52–500 pro 100.000 Personen an, für Männer dagegen eine deutlich niedrigere Prävalenz von 8–41 pro 100.000."
+  },
+  {
+    "question": "Welche Prävalenzangabe wird aus den VHA-Daten (Veterans Health Administration) zitiert?",
+    "options": [
+      "0,87 %.",
+      "25 %.",
+      "0,001 %.",
+      "50 %."
+    ],
+    "correct": 0,
+    "tip": "In Deutschland wird die IC/BPS selten diagnostiziert, die tatsächliche Dunkelziffer ist unbekannt.",
+    "explanation": "Aus den VHA-Daten wird eine Prävalenz von 0,87 % zitiert, während in Deutschland die Erkrankung selten diagnostiziert wird und die Dunkelziffer unbekannt ist."
+  },
+  {
+    "question": "Was besagt der in Episode 1 diskutierte klinische Fallstrick zur Zystoskopie?",
+    "options": [
+      "Eine unauffällige Zystoskopie schließt eine IC/BPS nicht aus, da auch NHIC bzw. BPS ohne sichtbare zystoskopische Veränderungen vorliegen können.",
+      "Eine unauffällige Zystoskopie beweist zweifelsfrei, dass keine IC vorliegt.",
+      "Die Zystoskopie ist für die Diagnose der IC/BPS irrelevant und wird nicht empfohlen.",
+      "Eine unauffällige Zystoskopie ist nur beim Hunner-Typ IC zu erwarten."
+    ],
+    "correct": 0,
+    "tip": "Gerade das Blasenschmerzsyndrom (BPS) ist definitionsgemäß durch das Fehlen zystoskopischer oder histologischer Veränderungen gekennzeichnet.",
+    "explanation": "Der diskutierte Fallstrick ist die Annahme „Zystoskopie unauffällig – also keine IC“: Eine unauffällige Zystoskopie schließt eine IC/BPS nicht aus, da insbesondere das Blasenschmerzsyndrom (BPS) per Definition ohne zystoskopische oder histologische Veränderungen einhergeht."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche zusätzlichen Basisuntersuchungen 'sollen' bzw. 'sollten' laut Empfehlung 3.16/3.17 erfolgen?",
+    "options": [
+      "Die Urosonografie soll erfolgen, die Uroflowmetrie mit Restharnbestimmung sollte erfolgen.",
+      "Ausschließlich eine Computertomographie des Abdomens soll erfolgen.",
+      "Ausschließlich eine Nierenszintigraphie soll erfolgen.",
+      "Zusätzliche Untersuchungen sind bei IC/BPS generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Uroflow-EMG und Zystometrie/Druck-Fluss-Studie können dagegen laut Empfehlung 3.18/3.19 lediglich erwogen werden.",
+    "explanation": "Empfehlung 3.16 fordert, dass eine Urosonografie erfolgen soll, Empfehlung 3.17, dass eine Uroflowmetrie mit Restharnbestimmung erfolgen sollte."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.20a zur Urethrozystoskopie im Rahmen der IC/BPS-Diagnostik?",
+    "options": [
+      "Sie soll erfolgen.",
+      "Sie ist bei IC/BPS kontraindiziert.",
+      "Sie soll nur bei Männern durchgeführt werden.",
+      "Sie ersetzt jede weitere Diagnostik vollständig."
+    ],
+    "correct": 0,
+    "tip": "Die Durchführung unter Anästhesie soll laut Empfehlung 3.20b angeboten werden, eine Erweiterung um Hydrodistension ist laut 3.20c möglich.",
+    "explanation": "Empfehlung 3.20a fordert, dass eine Urethrozystoskopie erfolgen soll."
+  },
+  {
+    "question": "Schließt eine unauffällige Zystoskopie laut Kapitel 3.7 eine IC/BPS aus?",
+    "options": [
+      "Nein, eine unauffällige Zystoskopie schließt eine IC aus nicht aus.",
+      "Ja, eine unauffällige Zystoskopie schließt eine IC immer sicher aus.",
+      "Ja, aber nur bei männlichen Patienten.",
+      "Eine Zystoskopie ist dafür ungeeignet und wird daher nicht durchgeführt."
+    ],
+    "correct": 0,
+    "tip": "Insbesondere das Blasenschmerzsyndrom (BPS) ist definitionsgemäß ohne zystoskopische Veränderungen möglich.",
+    "explanation": "Kapitel 3.7 stellt klar, dass eine unauffällige Zystoskopie eine IC nicht ausschließt."
+  },
+  {
+    "question": "Welches bildgebende Verfahren wird laut Kapitel 3.7 erwähnt, das die Erkennung von Befunden wie Glomerulationen oder Hunner-Läsionen verbessern kann?",
+    "options": [
+      "Narrow Band Imaging (NBI).",
+      "Die konventionelle Röntgenaufnahme des Abdomens.",
+      "Die Magnetresonanztomographie des kleinen Beckens.",
+      "Die Skelettszintigraphie."
+    ],
+    "correct": 0,
+    "tip": "Typische Befunde bei der Zystoskopie sind Glomerulationen, Petechien oder ein pergamentartiges Urothel im Gegensatz zur Hunner-Läsion.",
+    "explanation": "Narrow Band Imaging (NBI) wird in Kapitel 3.7 als Verfahren genannt, das die Erkennung relevanter Befunde bei der Zystoskopie verbessert."
+  },
+  {
+    "question": "Wie soll laut Kapitel 3.7 (Empfehlung 3.21) die diagnostische Hydrodistension technisch durchgeführt werden?",
+    "options": [
+      "Immer in Narkose, mit Füllung unter Sicht mit 60–80 cm Wassersäule bis zum Stopp bzw. maximal 800–1000 ml, Druckhaltung 1–3 min.",
+      "Grundsätzlich in Lokalanästhesie in der Ambulanz.",
+      "Ohne jede Begrenzung des Füllvolumens oder der Druckhöhe.",
+      "Ausschließlich ambulant ohne Sedierung oder Anästhesie."
+    ],
+    "correct": 0,
+    "tip": "Bei der Entleerung wird dann auf Glomerulationen, Mucosa-Cracking und wasserfallartige Blutung geachtet, mit Fotodokumentation.",
+    "explanation": "Empfehlung 3.21 fordert, dass die diagnostische Hydrodistension immer in Narkose durchgeführt wird, mit Füllung unter Sicht mit 60–80 cm Wassersäule bis zum Stopp bzw. maximal 800–1000 ml und einer Druckhaltung von 1–3 Minuten."
+  },
+  {
+    "question": "Wie wird der KCl-Test (Kaliumchlorid-Test) laut Empfehlung 3.22 in der aktuellen Leitlinie eingeordnet?",
+    "options": [
+      "Er spielt nur eine untergeordnete Rolle, u. a. wegen fehlender Cut-offs und der Schmerzbelastung für den Patienten.",
+      "Er gilt als zentraler, obligater diagnostischer Goldstandard.",
+      "Er ersetzt die Zystoskopie vollständig.",
+      "Er wird erstmals in dieser Leitlinienversion als Standardverfahren eingeführt."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung beruht u. a. auf der fehlenden Standardisierung diagnostischer Schwellenwerte.",
+    "explanation": "Empfehlung 3.22 ordnet den KCl-Test als nur untergeordnet relevant ein, insbesondere wegen fehlender Cut-off-Werte und der Schmerzbelastung für den Patienten."
+  },
+  {
+    "question": "Kann eine IC/BPS laut den Empfehlungen 3.23–3.25 durch eine Biopsie bewiesen oder ausgeschlossen werden?",
+    "options": [
+      "Nein, eine IC/BPS ist durch Biopsie weder nachweisbar noch ausschließbar.",
+      "Ja, eine Biopsie ist der alleinige diagnostische Goldstandard.",
+      "Ja, aber nur bei männlichen Patienten.",
+      "Eine Biopsie ist bei IC/BPS grundsätzlich verboten."
+    ],
+    "correct": 0,
+    "tip": "Biopsien werden vor allem zum Ausschluss anderer Pathologien, insbesondere eines Carcinoma in situ (CIS), entnommen.",
+    "explanation": "Die Empfehlungen 3.23–3.25 stellen klar, dass eine IC/BPS durch eine Biopsie weder nachweisbar noch ausschließbar ist."
+  },
+  {
+    "question": "Welche Pathologie soll laut Kapitel 3.9 insbesondere durch eine gezielte Biopsie ausgeschlossen werden?",
+    "options": [
+      "Ein Carcinoma in situ (CIS).",
+      "Eine Zystitis cystica.",
+      "Eine benigne Prostatahyperplasie.",
+      "Ein Leiomyom der Harnblase."
+    ],
+    "correct": 0,
+    "tip": "Randomisierte Mapping-Biopsien bei unauffälligem Befund sind dagegen nicht vorgesehen.",
+    "explanation": "Kapitel 3.9 nennt das Carcinoma in situ (CIS) als wichtigste auszuschließende Pathologie bei gezielter Biopsie."
+  },
+  {
+    "question": "Was gilt laut den Empfehlungen 3.26–3.28 für die Stuhlmikrobiomanalyse und die radiologische Bildgebung bei IC/BPS?",
+    "options": [
+      "Keine Stuhlmikrobiomanalyse; radiologische Bildgebung nur zur Differenzialdiagnostik, ansonsten mit Studiencharakter.",
+      "Beide Verfahren sind obligater Bestandteil der Routinediagnostik.",
+      "Die Stuhlmikrobiomanalyse ist obligat, die Bildgebung dagegen generell verboten.",
+      "Beide Verfahren werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Diese Zurückhaltung spiegelt die begrenzte Evidenz dieser Verfahren für die IC/BPS-Diagnostik wider.",
+    "explanation": "Die Empfehlungen 3.26–3.28 sehen keine Stuhlmikrobiomanalyse vor; radiologische Bildgebung soll nur zur Differenzialdiagnostik eingesetzt werden, ansonsten hat sie Studiencharakter."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 5 im Zusammenhang mit der Hydrodistension diskutiert?",
+    "options": [
+      "Die Hydrodistension 'mal eben in der Ambulanz' in Lokalanästhesie durchzuführen, statt sie immer in Narkose vorzunehmen.",
+      "Die Hydrodistension generell zu unterlassen, obwohl sie immer notwendig wäre.",
+      "Die Hydrodistension routinemäßig ambulant und ohne jede Bildgebung durchzuführen.",
+      "Die Hydrodistension nur bei Männern durchzuführen."
+    ],
+    "correct": 0,
+    "tip": "Die diagnostische Hydrodistension erfolgt laut Empfehlung 3.21 grundsätzlich immer in Narkose.",
+    "explanation": "Der diskutierte Fallstrick ist, die Hydrodistension in Lokalanästhesie 'mal eben in der Ambulanz' durchzuführen, obwohl sie laut Leitlinie immer in Narkose erfolgen soll."
+  }
+]

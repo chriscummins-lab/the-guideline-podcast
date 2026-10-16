@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 2.1 (Kapitel 2.4) hinsichtlich der Auswirkungen der IC/BPS auf den Patienten?",
+    "options": [
+      "Sie sollen erfragt und bei der Therapie berücksichtigt werden.",
+      "Sie sollen explizit nicht thematisiert werden, um den Patienten nicht zu belasten.",
+      "Sie sind für die Therapieplanung irrelevant.",
+      "Sie sollen ausschließlich von Angehörigen, nicht vom Patienten selbst erfragt werden."
+    ],
+    "correct": 0,
+    "tip": "Dies umfasst sowohl körperliche als auch psychosoziale Auswirkungen der Erkrankung.",
+    "explanation": "Empfehlung 2.1 fordert, dass die Auswirkungen der IC/BPS erfragt und bei der Therapie berücksichtigt werden sollen."
+  },
+  {
+    "question": "Welche nicht-blasenassoziierten Komorbiditäten gelten laut Empfehlung 2.2 als Warnsignal, bei dem an eine IC/BPS gedacht werden sollte?",
+    "options": [
+      "Reizdarmsyndrom, Endometriose, Fibromyalgie, Autoimmunerkrankungen, Allergien, Vulvodynie, Migräne, Schlafapnoe und psychische Erkrankungen.",
+      "Ausschließlich Diabetes mellitus Typ 2.",
+      "Ausschließlich eine koronare Herzkrankheit.",
+      "Es existieren laut Leitlinie keine relevanten Komorbiditäten als Warnsignal."
+    ],
+    "correct": 0,
+    "tip": "Bei Blasenbeschwerden in Kombination mit einer oder mehreren dieser Komorbiditäten sollte gezielt an IC/BPS gedacht werden.",
+    "explanation": "Empfehlung 2.2 nennt als Warnsignale nicht-blasenassoziierte Komorbiditäten wie Reizdarmsyndrom, Endometriose, Fibromyalgie, Autoimmunerkrankungen, Allergien, Vulvodynie, Migräne, Schlafapnoe und psychische Erkrankungen."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 2.3 nach somatischen und psychosozialen Komorbiditäten gefragt werden?",
+    "options": [
+      "Bei Erstdiagnose und im weiteren Verlauf.",
+      "Nur einmalig bei Erstdiagnose, nicht im weiteren Verlauf.",
+      "Nur im Verlauf, nicht bei Erstdiagnose.",
+      "Komorbiditäten sollen laut dieser Empfehlung nicht erfragt werden."
+    ],
+    "correct": 0,
+    "tip": "Bei Frauen soll im Verlauf zusätzlich eine kardiologische Abklärung erfolgen (Empfehlung 2.4).",
+    "explanation": "Empfehlung 2.3 fordert, dass sowohl bei Erstdiagnose als auch im weiteren Verlauf nach somatischen und psychosozialen Komorbiditäten gefragt werden soll."
+  },
+  {
+    "question": "Welche zusätzliche Abklärung soll laut Empfehlung 2.4 bei Frauen mit IC/BPS im Verlauf erfolgen?",
+    "options": [
+      "Eine kardiologische Abklärung.",
+      "Eine ausschließlich dermatologische Abklärung.",
+      "Eine ausschließlich HNO-ärztliche Abklärung.",
+      "Keine zusätzliche Abklärung ist vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dies steht im Zusammenhang mit der Häufung bestimmter Komorbiditäten bei IC/BPS-Patientinnen.",
+    "explanation": "Empfehlung 2.4 sieht vor, dass bei Frauen mit IC/BPS im Verlauf eine kardiologische Abklärung erfolgen soll."
+  },
+  {
+    "question": "Welches relative Risiko für ein Harnblasenkarzinom zeigte die Studie von Keller 2013 bei IC/BPS-Patienten im Vergleich zur Kontrollgruppe?",
+    "options": [
+      "0,63 % vs. 0,21 %, entsprechend einer Hazard Ratio von 1,96.",
+      "Kein erhöhtes Risiko im Vergleich zur Kontrollgruppe.",
+      "Ein um das 100-fache erhöhtes Risiko.",
+      "Ein um 90 % reduziertes Risiko."
+    ],
+    "correct": 0,
+    "tip": "Diese Daten werden als eine mögliche Folge der chronischen Entzündung bei IC/BPS diskutiert.",
+    "explanation": "Die Studie von Keller 2013 zeigte eine Rate von 0,63 % vs. 0,21 % mit einer Hazard Ratio von 1,96 für das Harnblasenkarzinom bei IC/BPS-Patienten."
+  },
+  {
+    "question": "Um welchen Faktor war das Risiko für ein Harnblasenkarzinom bzw. für Urothelkarzinome des oberen Harntrakts laut der Studie von Wu 2018 bei IC/BPS-Patienten erhöht?",
+    "options": [
+      "Etwa 6-fach erhöhtes Risiko für Harnblasenkarzinom und 2-fach für Urothelkarzinome des oberen Harntrakts.",
+      "Kein erhöhtes Risiko für beide Tumorentitäten.",
+      "Nur ein erhöhtes Risiko für Urothelkarzinome des oberen Harntrakts, nicht für das Harnblasenkarzinom.",
+      "Ein 20-fach erhöhtes Risiko für beide Tumorentitäten."
+    ],
+    "correct": 0,
+    "tip": "Eine mögliche Erklärung für diesen Zusammenhang ist die chronische Entzündung bei IC/BPS.",
+    "explanation": "Die Studie von Wu 2018 zeigte ein etwa 6-fach erhöhtes Risiko für ein Harnblasenkarzinom und ein 2-fach erhöhtes Risiko für Urothelkarzinome des oberen Harntrakts bei IC/BPS-Patienten."
+  },
+  {
+    "question": "Welche diagnostische Konsequenz ergibt sich laut Empfehlung 2.5 aus dem erhöhten Malignomrisiko bei IC/BPS?",
+    "options": [
+      "Eine Zystoskopie soll zu Beginn und im Verlauf erfolgen, je nach Befund mit Biopsie.",
+      "Eine jährliche Ganzkörper-CT ist obligat.",
+      "Eine Zystoskopie ist bei IC/BPS-Patienten kontraindiziert.",
+      "Es sind keine bildgebenden oder endoskopischen Maßnahmen erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung dient dem Ausschluss bzw. der frühzeitigen Erkennung eines begleitenden Urothelkarzinoms.",
+    "explanation": "Empfehlung 2.5 fordert eine Zystoskopie zu Beginn und im Verlauf, die je nach Befund mit einer Biopsie ergänzt werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 2.7 bezüglich der Aufklärung von IC/BPS-Patienten?",
+    "options": [
+      "Patienten sollen über das deutlich erhöhte Malignomrisiko aufgeklärt werden.",
+      "Patienten sollen bewusst nicht über das Malignomrisiko informiert werden, um Ängste zu vermeiden.",
+      "Eine Aufklärung über das Malignomrisiko ist nur bei Männern vorgesehen.",
+      "Die Aufklärung über das Malignomrisiko obliegt ausschließlich dem Hausarzt."
+    ],
+    "correct": 0,
+    "tip": "Diese Aufklärungspflicht ergänzt die in Empfehlung 2.6 geforderte Berücksichtigung des erhöhten Risikos bei der Überwachung.",
+    "explanation": "Empfehlung 2.7 fordert, dass Patienten über das deutlich erhöhte Malignomrisiko aufgeklärt werden sollen."
+  },
+  {
+    "question": "Welche Aspekte werden im Zusammenhang mit der Lebensqualität bei IC/BPS (Kapitel 2.4.3) als existenzielle und soziopsychologische Faktoren genannt?",
+    "options": [
+      "Partnerschaft, Sexualität und Arbeitsfähigkeit.",
+      "Ausschließlich die finanzielle Situation.",
+      "Ausschließlich die Wohnsituation.",
+      "Diese Aspekte werden in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkungen der Lebensqualität sollten aktiv bei der Betreuung der Patienten berücksichtigt werden.",
+    "explanation": "Kapitel 2.4.3 nennt Partnerschaft, Sexualität und Arbeitsfähigkeit als existenzielle und soziopsychologische Faktoren, die durch die IC/BPS beeinträchtigt werden können."
+  },
+  {
+    "question": "Was ist laut dem diskutierten Fallstrick aus Episode 2 bei einer neu aufgetretenen Mikrohämaturie bei bekannter IC/BPS zu vermeiden?",
+    "options": [
+      "Sie vorschnell als 'gehört zur Grunderkrankung' abzutun, ohne eine weitere Abklärung zu veranlassen.",
+      "Sie überhaupt zu dokumentieren.",
+      "Sie sofort mit einer empirischen Antibiotikatherapie zu behandeln.",
+      "Sie dem Patienten gegenüber zu erwähnen."
+    ],
+    "correct": 0,
+    "tip": "Angesichts des deutlich erhöhten Malignomrisikos bei IC/BPS-Patienten ist eine neu aufgetretene Mikrohämaturie besonders ernst zu nehmen.",
+    "explanation": "Der diskutierte Fallstrick besteht darin, eine neue Mikrohämaturie bei bekannter IC/BPS vorschnell als 'gehört zur Grunderkrankung' abzutun, anstatt sie angesichts des erhöhten Malignomrisikos angemessen weiter abzuklären."
+  }
+]

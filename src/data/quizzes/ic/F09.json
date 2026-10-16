@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie wird die Akupunktur laut Empfehlung 4.44 in der aktuellen Leitlinie bewertet?",
+    "options": [
+      "Ihre Wirkung ist nicht abschließend beurteilbar; wegen fehlender Nebenwirkungen ist sie als Heilversuch möglich, sofern wirksamere Therapien nicht verzögert werden.",
+      "Sie gilt als nachgewiesen unwirksam und wird daher nicht empfohlen.",
+      "Sie ist die einzige evidenzbasierte First-line-Therapie der IC/BPS.",
+      "Sie wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Entscheidend ist dabei, dass wirksamere Therapieoptionen durch den Heilversuch nicht verzögert werden.",
+    "explanation": "Empfehlung 4.44 bewertet die Wirkung der Akupunktur als nicht abschließend beurteilbar, erlaubt sie aber wegen fehlender Nebenwirkungen als Heilversuch, sofern wirksamere Therapien nicht verzögert werden."
+  },
+  {
+    "question": "Bei welcher Patientengruppe kann laut Empfehlung 4.45 intravesikales Ozon eingesetzt werden?",
+    "options": [
+      "Bei therapierefraktären Patienten.",
+      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
+      "Ausschließlich bei Kindern.",
+      "Intravesikales Ozon wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die ESWT (extrakorporale Stoßwellentherapie) wird dagegen laut Empfehlung 4.46 wegen widersprüchlicher Datenlage zurückhaltender bewertet.",
+    "explanation": "Empfehlung 4.45 sieht den Einsatz von intravesikalem Ozon bei therapierefraktären Patienten vor."
+  },
+  {
+    "question": "Wie wird die PEMF-Therapie (gepulste elektromagnetische Felder) laut den Empfehlungen 4.47/4.48 eingeordnet?",
+    "options": [
+      "Als nebenwirkungsfreies Verfahren, das angeboten werden kann.",
+      "Als Verfahren mit hohem Nebenwirkungsrisiko, das nicht angeboten werden soll.",
+      "Als etablierte Erstlinientherapie mit Zulassung in Deutschland.",
+      "PEMF wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zur ESWT wird die PEMF-Therapie als nebenwirkungsfrei beschrieben.",
+    "explanation": "Die PEMF-Therapie wird laut den Empfehlungen 4.47/4.48 als nebenwirkungsfreies Verfahren beschrieben, das angeboten werden kann."
+  },
+  {
+    "question": "Welche pflanzliche Therapieform kann laut Empfehlung 4.49/4.50 angeboten werden?",
+    "options": [
+      "Phytotherapie mit histaminmodulierenden Pflanzen.",
+      "Eine ausschließlich auf Cannabis basierte Therapie.",
+      "Eine rein homöopathische Einzelmitteltherapie ohne jede weitere Evidenzbasis.",
+      "Phytotherapie wird in der Leitlinie explizit ausgeschlossen."
+    ],
+    "correct": 0,
+    "tip": "Nahrungsergänzungsmittel werden dagegen laut Empfehlung 4.51/4.52 nicht generell empfohlen, mit Ausnahme eines individuellen Therapieversuchs mit L-Arginin.",
+    "explanation": "Empfehlung 4.49/4.50 sieht vor, dass eine Phytotherapie mit histaminmodulierenden Pflanzen angeboten werden kann."
+  },
+  {
+    "question": "Welches einzelne Nahrungsergänzungsmittel wird laut Empfehlung 4.51/4.52 als möglicher individueller Therapieversuch genannt, obwohl keine RCTs vorliegen?",
+    "options": [
+      "L-Arginin.",
+      "Vitamin D.",
+      "Omega-3-Fettsäuren.",
+      "Magnesium."
+    ],
+    "correct": 0,
+    "tip": "Ansonsten werden Nahrungsergänzungsmittel bei IC/BPS generell nicht empfohlen.",
+    "explanation": "L-Arginin wird als Ausnahme genannt, für die trotz fehlender RCTs ein individueller Therapieversuch möglich ist, während Nahrungsergänzungsmittel ansonsten nicht empfohlen werden."
+  },
+  {
+    "question": "In welcher klinischen Situation wird laut Empfehlung 4.54 die transkranielle Magnetstimulation erwogen?",
+    "options": [
+      "In refraktären Fällen.",
+      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
+      "Ausschließlich bei Kindern unter 12 Jahren.",
+      "Transkranielle Magnetstimulation wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die Neuraltherapie wird dagegen laut Empfehlung 4.53 als allgemeiner Therapieversuch eingeordnet.",
+    "explanation": "Empfehlung 4.54 sieht die transkranielle Magnetstimulation als Option in refraktären Fällen vor."
+  },
+  {
+    "question": "Welche Therapieverfahren werden laut den Empfehlungen 4.55–4.57 nicht empfohlen bzw. nur innerhalb von Studien eingesetzt?",
+    "options": [
+      "Glitazone und Stammzelltherapie.",
+      "Pentosanpolysulfat und Amitriptylin.",
+      "Hyaluronsäure und Chondroitinsulfat.",
+      "Beckenbodenphysiotherapie und Mind-Body-Medizin."
+    ],
+    "correct": 0,
+    "tip": "Diese Verfahren gelten als experimentell und sollten außerhalb klinischer Studien nicht routinemäßig eingesetzt werden.",
+    "explanation": "Die Empfehlungen 4.55–4.57 ordnen Glitazone und Stammzelltherapie als nicht empfohlen bzw. nur im Rahmen von Studien einsetzbar ein."
+  },
+  {
+    "question": "Welche Kombinationstherapie wird laut Empfehlung 4.58 bei refraktärer IC/BPS als intravesikale Injektion erwägbar beschrieben?",
+    "options": [
+      "Autologes emulgiertes Fett zusammen mit PRP (plättchenreichem Plasma).",
+      "Eine Kombination aus Cisplatin und Paclitaxel.",
+      "Eine Kombination aus Insulin und Glukagon.",
+      "Eine solche Kombinationstherapie wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "PRP allein wird dagegen laut Empfehlung 4.59 anders bewertet als in Kombination mit autologem Fett.",
+    "explanation": "Empfehlung 4.58 beschreibt autologes emulgiertes Fett zusammen mit PRP als bei refraktärer IC/BPS erwägbare intravesikale Injektionstherapie."
+  },
+  {
+    "question": "Welche grundlegenden Aspekte sollten laut dem Episodeninhalt bei der Beratung von Patienten zu Komplementärverfahren berücksichtigt werden?",
+    "options": [
+      "Erwartungsmanagement, Kosten und Evidenzniveau.",
+      "Ausschließlich die Verfügbarkeit in der eigenen Klinik.",
+      "Ausschließlich die Meinung anderer Patienten aus Internetforen.",
+      "Diese Aspekte werden im Episodeninhalt nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Eine faire, weder abwertende noch unkritische Beratung berücksichtigt alle drei Aspekte gemeinsam.",
+    "explanation": "Bei der Beratung zu Komplementärverfahren sollten laut dem Episodeninhalt Erwartungsmanagement, Kosten und das jeweilige Evidenzniveau berücksichtigt werden."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 9 im Zusammenhang mit Komplementärverfahren diskutiert?",
+    "options": [
+      "Teure Selbstzahlerverfahren mit reinem Studiencharakter als etablierte Therapie zu verkaufen.",
+      "Komplementärverfahren grundsätzlich für wirkungslos zu erklären.",
+      "Patienten jede Information zu Komplementärverfahren vorzuenthalten.",
+      "Ausschließlich kostenlose Verfahren anzubieten."
+    ],
+    "correct": 0,
+    "tip": "Eine transparente Aufklärung über den tatsächlichen Evidenzgrad ist hier besonders wichtig.",
+    "explanation": "Der diskutierte Fallstrick ist, teure Selbstzahlerverfahren mit lediglich Studiencharakter gegenüber Patienten als etablierte, gesicherte Therapie darzustellen."
+  }
+]
