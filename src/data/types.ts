@@ -21,6 +21,7 @@ export type Guideline = {
   id: string;
   name: string;
   badge?: string;
+  year?: number;
   available: boolean;
   description: string;
   episodes: Episode[];

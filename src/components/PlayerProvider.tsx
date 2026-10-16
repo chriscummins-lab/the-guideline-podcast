@@ -17,6 +17,8 @@ export type Track = {
   subtitle: string;
   href: string;
   storageKey: string;
+  // Nächste Folge derselben Leitlinie, für automatisches Weiterspielen nach Ende.
+  autoNext?: Track;
 };
 
 const SPEEDS = [1, 1.25, 1.5, 1.75, 2, 0.75] as const;
@@ -191,6 +193,8 @@ export default function PlayerProvider({ children }: { children: React.ReactNode
       if (next) {
         setQueue((prev) => prev.slice(1));
         applyTrack(next);
+      } else if (track?.autoNext) {
+        applyTrack(track.autoNext);
       }
     };
 

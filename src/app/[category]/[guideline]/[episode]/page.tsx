@@ -20,6 +20,9 @@ export default async function EpisodePage({
       </Link>
       <EpisodeView
         episode={episode}
+        episodes={guideline.episodes}
+        categoryId={category.id}
+        guidelineId={guideline.id}
         guidelineName={guideline.name}
         storageKey={episodeKey(category.id, guideline.id, episode.id)}
       />

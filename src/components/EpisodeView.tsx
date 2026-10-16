@@ -6,6 +6,7 @@ import type { Episode } from "@/data/types";
 import { isListened, onListenedChange, setListened } from "@/lib/listened";
 import { isBookmarked, onBookmarksChange, setBookmarked } from "@/lib/bookmarks";
 import { getProgressRatio, onProgressChange } from "@/lib/progress";
+import { buildTrackChain } from "@/lib/trackChain";
 import { usePlayer } from "./PlayerProvider";
 
 function formatTime(sec: number): string {
@@ -23,10 +24,16 @@ const PANELS = [
 
 export default function EpisodeView({
   episode,
+  episodes,
+  categoryId,
+  guidelineId,
   guidelineName,
   storageKey,
 }: {
   episode: Episode;
+  episodes: Episode[];
+  categoryId: string;
+  guidelineId: string;
   guidelineName: string;
   storageKey: string;
 }) {
@@ -115,13 +122,16 @@ export default function EpisodeView({
     if (isCurrent) {
       player.toggle();
     } else {
-      player.loadAndPlay({
-        src: episode.audioUrl,
-        title: episode.name,
-        subtitle: guidelineName,
-        href,
-        storageKey,
-      });
+      const chain = buildTrackChain(categoryId, guidelineId, guidelineName, episodes, episode.id);
+      player.loadAndPlay(
+        chain ?? {
+          src: episode.audioUrl,
+          title: episode.name,
+          subtitle: guidelineName,
+          href,
+          storageKey,
+        }
+      );
     }
   }
 

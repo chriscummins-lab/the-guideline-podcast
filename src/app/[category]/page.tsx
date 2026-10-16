@@ -24,7 +24,13 @@ export default async function CategoryPage({
         {category.guidelines.map((gl) => {
           const content = (
             <>
-              {gl.badge && <span className="big-btn-badge">{gl.badge}</span>}
+              {(gl.badge || gl.year) && (
+                <span className="big-btn-badge">
+                  {gl.badge}
+                  {gl.badge && gl.year ? " · " : ""}
+                  {gl.year}
+                </span>
+              )}
               <div className="big-btn-icon">{category.icon}</div>
               <div className="big-btn-name">{gl.name}</div>
               <div className="big-btn-desc">{gl.description}</div>

@@ -2,12 +2,13 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { CONTENT } from "@/data/content";
+import { CONTENT, getGuideline } from "@/data/content";
 import { flattenEpisodes } from "@/lib/catalog";
 import { isListened, onListenedChange } from "@/lib/listened";
 import { getProgress, getProgressRatio, onProgressChange } from "@/lib/progress";
 import { usePlayer } from "@/components/PlayerProvider";
 import { categoryIconClass } from "@/lib/categoryIcons";
+import { buildTrackChain } from "@/lib/trackChain";
 
 // Platzhalter, solange es keine echte Anmeldung gibt. Sobald ein Login-System
 // existiert, hier durch den eingeloggten Nutzernamen ersetzen.
@@ -106,13 +107,25 @@ export default function HomePage() {
 
   function handleContinue() {
     if (!item || !item.episode.audioUrl) return;
-    player.loadAndPlay({
-      src: item.episode.audioUrl,
-      title: item.episode.name,
-      subtitle: item.guidelineName,
-      href: `/${item.storageKey}`,
-      storageKey: item.storageKey,
-    });
+    const { guideline } = getGuideline(item.categoryId, item.guidelineId);
+    const chain = guideline
+      ? buildTrackChain(
+          item.categoryId,
+          item.guidelineId,
+          item.guidelineName,
+          guideline.episodes,
+          item.episode.id
+        )
+      : null;
+    player.loadAndPlay(
+      chain ?? {
+        src: item.episode.audioUrl,
+        title: item.episode.name,
+        subtitle: item.guidelineName,
+        href: `/${item.storageKey}`,
+        storageKey: item.storageKey,
+      }
+    );
   }
 
   return (
