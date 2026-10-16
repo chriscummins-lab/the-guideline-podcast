@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei Indikationen zur Harnableitung werden laut Statement 4.1 genannt?",
+    "options": [
+      "Medikamentös nicht beherrschbare Koliken, hochgradige Obstruktion mit Harnstauungsniere und steigende Retentionswerte (postrenales Nierenversagen).",
+      "Ausschließlich ein Steindurchmesser über 20 mm.",
+      "Ausschließlich eine beidseitige Steinbildung.",
+      "Eine Harnableitung ist beim Harnleiterstein generell nicht indiziert."
+    ],
+    "correct": 0,
+    "tip": "Die geplante Folgetherapie soll bei der Wahl zwischen DJ-Schiene und perkutaner Nephrostomie mitbestimmend sein.",
+    "explanation": "Statement 4.1 nennt medikamentös nicht beherrschbare Koliken, hochgradige Obstruktion mit Harnstauungsniere und steigende Retentionswerte (postrenales Nierenversagen) als Indikationen zur Harnableitung."
+  },
+  {
+    "question": "Wie verhalten sich DJ-Schiene und perkutane Nephrostomie laut Kapitel 4 zueinander in Bezug auf ihre Wirksamkeit?",
+    "options": [
+      "Sie sind gleichwertig.",
+      "Die DJ-Schiene ist in jedem Fall der perkutanen Nephrostomie überlegen.",
+      "Die perkutane Nephrostomie ist in jedem Fall der DJ-Schiene überlegen.",
+      "Beide Verfahren werden in der Leitlinie als obsolet eingestuft."
+    ],
+    "correct": 0,
+    "tip": "Die geplante Folgetherapie soll die Wahl zwischen beiden Verfahren mitbestimmen.",
+    "explanation": "DJ-Schiene und perkutane Nephrostomie sind laut Kapitel 4 bezüglich ihrer Wirksamkeit als Harnableitung gleichwertig."
+  },
+  {
+    "question": "Wie soll laut Kapitel 4.1.1 eine infizierte Harnstauungsniere mit drohender oder eingetretener Sepsis behandelt werden?",
+    "options": [
+      "Durch sofortige Entlastung mittels perkutaner Nephrostomie oder DJ-Schiene, als urologischer Notfall.",
+      "Zunächst rein konservativ mit Antibiotika, ohne jede Harnableitung.",
+      "Durch Abwarten bis zum Fieberabfall, bevor eine Ableitung erwogen wird.",
+      "Eine infizierte Harnstauungsniere stellt keine Notfallsituation dar."
+    ],
+    "correct": 0,
+    "tip": "Ziel ist die Vorbeugung einer systemischen Infektion (Urosepsis); sekundär erfolgt dann die Sanierung des Fokus.",
+    "explanation": "Die infizierte Harnstauungsniere mit drohender oder eingetretener Sepsis soll als urologischer Notfall durch sofortige Entlastung mittels perkutaner Nephrostomie oder DJ-Schiene behandelt werden."
+  },
+  {
+    "question": "Wie ist laut dem Episodeninhalt die Datenlage zur alleinigen Antibiotikatherapie bei infizierter Harnstauungsniere einzuschätzen?",
+    "options": [
+      "Sie ist unzureichend.",
+      "Sie ist exzellent und rechtfertigt den Verzicht auf jede Harnableitung.",
+      "Es liegen zahlreiche große randomisierte Studien mit eindeutigem Ergebnis vor.",
+      "Diese Frage wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Entscheidend bleibt daher die sofortige Harnableitung als primäre Maßnahme.",
+    "explanation": "Die Datenlage zur alleinigen Antibiotikatherapie bei infizierter Harnstauungsniere ist laut dem Episodeninhalt unzureichend."
+  },
+  {
+    "question": "Wann soll laut dem Episodeninhalt die definitive Steinsanierung bei infizierter Harnstauungsniere erfolgen?",
+    "options": [
+      "Erst nach resistenzgerechter Infektbehandlung.",
+      "Immer sofort und zeitgleich mit der Harnableitung.",
+      "Vor jeder Form der Harnableitung.",
+      "Eine Steinsanierung ist in dieser Situation generell kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Vor jeder aktiven Steintherapie soll zudem eine akute Harnwegsinfektion ausgeschlossen bzw. behandelt werden (Empfehlung 6.1).",
+    "explanation": "Die definitive Steinsanierung soll laut Episodeninhalt erst nach resistenzgerechter Infektbehandlung erfolgen."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.1 bezüglich einer akuten Harnwegsinfektion vor jeder aktiven Steintherapie?",
+    "options": [
+      "Sie soll ausgeschlossen bzw. behandelt werden.",
+      "Sie ist für die Therapieentscheidung irrelevant.",
+      "Sie soll erst nach der Steintherapie behandelt werden.",
+      "Eine Testung auf Harnwegsinfektion ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Bei klinisch signifikanter Infektion und Obstruktion soll eine mehrtägige Harnableitung vorab erfolgen.",
+    "explanation": "Empfehlung 6.1 fordert, dass vor jeder aktiven Steintherapie eine akute Harnwegsinfektion ausgeschlossen bzw. behandelt werden soll."
+  },
+  {
+    "question": "Welche weiteren Faktoren der Therapieplanung werden laut Kapitel 4.1.2 neben der Spontanabgangswahrscheinlichkeit genannt?",
+    "options": [
+      "Patientenpräferenz, Verfügbarkeit und Narkosemöglichkeiten.",
+      "Ausschließlich das Körpergewicht des Patienten.",
+      "Ausschließlich die Jahreszeit.",
+      "Diese Faktoren werden in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Vor einer URS wird zudem häufig eine präoperative Schienung diskutiert.",
+    "explanation": "Kapitel 4.1.2 nennt neben der Spontanabgangswahrscheinlichkeit die Patientenpräferenz, die Verfügbarkeit und die Narkosemöglichkeiten als weitere Faktoren der Therapieplanung."
+  },
+  {
+    "question": "Was gilt laut dem Episodeninhalt als seltene, aber mögliche Option in der akuten Situation bei infizierter Harnstauungsniere?",
+    "options": [
+      "Die sofortige Nephrektomie.",
+      "Die primäre Chemolitholyse.",
+      "Die alleinige Beobachtung ohne jede Intervention.",
+      "Eine solche Option wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Diese Option kommt nur in besonders schweren, seltenen Fällen in Betracht.",
+    "explanation": "Die sofortige Nephrektomie gilt laut Episodeninhalt als seltene, aber mögliche Option in der Akutsituation bei infizierter Harnstauungsniere."
+  },
+  {
+    "question": "Was soll laut dem Episodeninhalt bezüglich der Ureteropyelographie bei Indikation zur Harnableitung beachtet werden?",
+    "options": [
+      "Eine Druckerhöhung im Hohlsystem bei Infekt soll vermieden werden.",
+      "Sie soll grundsätzlich mit maximalem Druck durchgeführt werden.",
+      "Sie ist bei Indikation zur Harnableitung generell kontraindiziert.",
+      "Diese Untersuchung spielt bei der Harnableitung keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Dies entspricht dem bereits in Kapitel 2.1.5 beschriebenen Vorsichtsprinzip zur Vermeidung einer Urosepsis.",
+    "explanation": "Bei Indikation zur Ureteropyelographie soll eine Druckerhöhung im Hohlsystem bei Infekt vermieden werden, um das Risiko einer Urosepsis zu reduzieren."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 3 im Zusammenhang mit einer fiebrigen Patientin mit Harnleiterstein diskutiert?",
+    "options": [
+      "Direkt eine URS durchzuführen, um 'den Stein gleich mit herauszuholen', statt zunächst eine Harnableitung vorzunehmen.",
+      "Grundsätzlich auf jede Form der Bildgebung zu verzichten.",
+      "Die Patientin ohne jede Diagnostik stationär aufzunehmen.",
+      "Eine sofortige Nephrektomie ohne vorherige Harnableitung durchzuführen."
+    ],
+    "correct": 0,
+    "tip": "Bei infizierter Harnstauungsniere steht die sofortige Entlastung im Vordergrund, nicht die primäre Steinentfernung.",
+    "explanation": "Der diskutierte Fallstrick ist, bei einer fiebrigen Patientin mit infizierter Harnstauungsniere direkt eine URS durchzuführen, um den Stein sofort zu entfernen, anstatt zunächst eine Harnableitung vorzunehmen."
+  }
+]

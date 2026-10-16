@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bis zu welcher Steingröße soll laut Kapitel 5.1 bei einem neu diagnostizierten Harnleiterstein zunächst der Spontanabgang unter regelmäßiger Kontrolle abgewartet werden?",
+    "options": [
+      "Bis 7 mm.",
+      "Bis 20 mm.",
+      "Nur bis 1 mm.",
+      "Ein Abwarten ist bei Harnleitersteinen generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Verlaufskontrollen sollen dabei alle 1–2 Wochen erfolgen, u. a. mit Blick auf Schmerzmittelbedarf, Infektzeichen und Nierenfunktion.",
+    "explanation": "Kapitel 5.1 sieht vor, bei neu diagnostizierten Harnleitersteinen bis 7 mm zunächst den Spontanabgang unter regelmäßiger Kontrolle abzuwarten."
+  },
+  {
+    "question": "Welche Spontanabgangsrate wird laut Tabelle 7 für Steine unter 5 mm angegeben?",
+    "options": [
+      "68 %.",
+      "5 %.",
+      "100 %.",
+      "Es wird keine Rate für diese Größenklasse angegeben."
+    ],
+    "correct": 0,
+    "tip": "Für Steine der Größe 5–10 mm liegt die Spontanabgangsrate bei 47 %.",
+    "explanation": "Laut Tabelle 7 liegt die Spontanabgangsrate für Steine unter 5 mm bei 68 %."
+  },
+  {
+    "question": "Innerhalb welcher Zeitspanne gehen laut Tabelle 7 Steine mit einer Größe von bis zu 4 mm bei bis zu 95 % spontan ab?",
+    "options": [
+      "Innerhalb von 40 Tagen.",
+      "Innerhalb von 24 Stunden.",
+      "Innerhalb von 5 Jahren.",
+      "Eine solche Zeitangabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Für Steine der Größe 4–5 mm liegt die Spontanabgangsrate bei 87 %, mit einer mittleren Abgangsdauer von ca. 6 Tagen.",
+    "explanation": "Steine bis 4 mm gehen laut Tabelle 7 bei bis zu 95 % der Patienten innerhalb von 40 Tagen spontan ab."
+  },
+  {
+    "question": "Welche Substanzklassen kommen laut dem Episodeninhalt bei der medikamentösen expulsiven Therapie (MET) zum Einsatz?",
+    "options": [
+      "Alphablocker (z. B. Tamsulosin, Silodosin, Doxazosin) und Nifedipin.",
+      "Ausschließlich Betablocker.",
+      "Ausschließlich Antibiotika.",
+      "Eine medikamentöse expulsive Therapie wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Der größte Nutzen zeigt sich bei distalen Steinen über 5 mm.",
+    "explanation": "Bei der medikamentösen expulsiven Therapie (MET) kommen laut Episodeninhalt Alphablocker (z. B. Tamsulosin, Silodosin, Doxazosin) sowie Nifedipin zum Einsatz."
+  },
+  {
+    "question": "Bei welcher Steinlokalisation und -größe zeigt die MET laut dem Episodeninhalt (Ye et al.) den größten Nutzen?",
+    "options": [
+      "Bei distalen Steinen über 5 mm (87 % vs. 75 % Spontanabgangsrate).",
+      "Ausschließlich bei proximalen Steinen unter 2 mm.",
+      "Die MET zeigt bei keiner Steinlokalisation einen Effekt.",
+      "Ausschließlich bei Nierensteinen, nicht bei Harnleitersteinen."
+    ],
+    "correct": 0,
+    "tip": "Die SUSPEND-Studie (Pickard-Studie) war für Steine über 5 mm nicht ausreichend gepowert, was bei der Interpretation widersprüchlicher Studienergebnisse zu beachten ist.",
+    "explanation": "Laut der Studie von Ye et al. zeigt die MET den größten Nutzen bei distalen Steinen über 5 mm, mit einer Spontanabgangsrate von 87 % gegenüber 75 % ohne MET."
+  },
+  {
+    "question": "Welchen Status hat die Anwendung von Tamsulosin bei Urolithiasis laut dem G-BA-Beschluss von 2019?",
+    "options": [
+      "Es handelt sich um einen Off-Label-Use, der eine entsprechende Aufklärungspflicht nach sich zieht.",
+      "Tamsulosin ist für diese Indikation regulär zugelassen, ohne jede Besonderheit.",
+      "Tamsulosin ist für die Urolithiasis-Therapie in Deutschland verboten.",
+      "Der G-BA hat sich zu dieser Frage nicht geäußert."
+    ],
+    "correct": 0,
+    "tip": "Zu den möglichen Nebenwirkungen zählen u. a. retrograde Ejakulation und Hypotonie.",
+    "explanation": "Die Anwendung von Tamsulosin bei Urolithiasis stellt laut G-BA-Beschluss von 2019 einen Off-Label-Use dar, über den die Patienten entsprechend aufgeklärt werden müssen."
+  },
+  {
+    "question": "Mit welchen Substanzen soll eine MET laut dem Episodeninhalt nicht kombiniert werden?",
+    "options": [
+      "Mit PDE-5-Hemmern oder Kortikosteroiden.",
+      "Mit Paracetamol.",
+      "Mit Metamizol.",
+      "Eine solche Einschränkung besteht laut Leitlinie nicht."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung betrifft insbesondere die Kombination von Alphablockern mit diesen Substanzgruppen.",
+    "explanation": "Eine MET soll laut Episodeninhalt nicht mit PDE-5-Hemmern oder Kortikosteroiden kombiniert werden."
+  },
+  {
+    "question": "Wofür kann eine MET laut Kapitel 5.2.3 zusätzlich eingesetzt werden, abgesehen von der Unterstützung des primären Steinabgangs?",
+    "options": [
+      "Nach ESWL/URS sowie gegen Schienenbeschwerden mittels Alphablockern.",
+      "Ausschließlich zur Fiebersenkung.",
+      "Ausschließlich zur präoperativen Sedierung.",
+      "Eine weitere Anwendung wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Alphablocker können hier die durch die Harnleiterschiene bedingten Beschwerden lindern.",
+    "explanation": "Kapitel 5.2.3 beschreibt den Einsatz von MET auch nach ESWL/URS sowie zur Linderung von Schienenbeschwerden mittels Alphablockern."
+  },
+  {
+    "question": "Wie sollen asymptomatische Nierensteine laut Kapitel 5.3 überwacht werden?",
+    "options": [
+      "Mittels aktiver Überwachung mit jährlicher Untersuchung und Bildgebung.",
+      "Sie sollen grundsätzlich sofort interventionell entfernt werden.",
+      "Eine Überwachung ist bei asymptomatischen Nierensteinen nicht vorgesehen.",
+      "Sie sollen ausschließlich einmalig bei Diagnosestellung untersucht werden, ohne weitere Kontrollen."
+    ],
+    "correct": 0,
+    "tip": "Der natürliche Verlauf wird dabei anhand von Symptomentwicklung, Größenzunahme und Interventionsbedarf beurteilt (Tabelle 8).",
+    "explanation": "Asymptomatische Nierensteine sollen laut Kapitel 5.3 mittels aktiver Überwachung mit jährlicher Untersuchung und Bildgebung kontrolliert werden."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 4 im Zusammenhang mit der MET diskutiert?",
+    "options": [
+      "MET ohne Aufklärung über den Off-Label-Gebrauch und ohne vereinbarten Kontrolltermin einzusetzen.",
+      "MET grundsätzlich nicht anzubieten, obwohl sie immer indiziert wäre.",
+      "MET ausschließlich bei asymptomatischen Nierensteinen einzusetzen.",
+      "MET routinemäßig vor jeder ESWL-Behandlung einzusetzen."
+    ],
+    "correct": 0,
+    "tip": "Da Tamsulosin off-label verwendet wird, ist eine entsprechende Aufklärung des Patienten zwingend erforderlich.",
+    "explanation": "Der diskutierte Fallstrick ist, eine MET ohne Aufklärung über den Off-Label-Gebrauch und ohne vereinbarten Kontrolltermin einzusetzen."
+  }
+]

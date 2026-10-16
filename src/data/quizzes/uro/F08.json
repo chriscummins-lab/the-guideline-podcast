@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ab welcher Steingröße gilt die PCNL laut Kapitel 9 als Verfahren der Wahl bei Nierensteinen, und welche Sonderregel gilt für den Unterpol?",
+    "options": [
+      "Ab Steinen über 2 cm; im Unterpol bereits ab 1,5 cm.",
+      "Ab Steinen über 5 mm, unabhängig von der Lokalisation.",
+      "Die PCNL ist bei keiner Steingröße das Verfahren der Wahl.",
+      "Ab Steinen über 10 cm."
+    ],
+    "correct": 0,
+    "tip": "Kontraindikationen sind u. a. eine unbehandelte Harnwegsinfektion und eine atypische Koloninterposition.",
+    "explanation": "Die PCNL gilt laut Kapitel 9 als Verfahren der Wahl bei Nierensteinen über 2 cm, im Unterpol bereits ab 1,5 cm."
+  },
+  {
+    "question": "Welche Instrumentengrößen werden laut dem Episodeninhalt für die konventionelle, Mini-, Ultra-Mini- und Mikro-PCNL unterschieden?",
+    "options": [
+      "Konventionell 24–32 Ch, Mini 14–22 Ch, Ultra-Mini 11–13 Ch, Mikro 4,8–11 Ch.",
+      "Es gibt laut Leitlinie nur eine einheitliche Instrumentengröße für die PCNL.",
+      "Alle Varianten verwenden identische Instrumentendurchmesser.",
+      "Diese Größenklassen werden in der Leitlinie nicht unterschieden."
+    ],
+    "correct": 0,
+    "tip": "Bei den miniaturisierten Varianten wird in der Regel der Ho:YAG-Laser zur Lithotripsie eingesetzt.",
+    "explanation": "Laut Episodeninhalt werden die Instrumentengrößen konventionell (24–32 Ch), Mini (14–22 Ch), Ultra-Mini (11–13 Ch) und Mikro (4,8–11 Ch) unterschieden."
+  },
+  {
+    "question": "Welches Lithotripsieverfahren sollte laut dem Episodeninhalt nicht mehr eingesetzt werden?",
+    "options": [
+      "Die EHL (elektrohydraulische Lithotripsie).",
+      "Der Ho:YAG-Laser.",
+      "Die Ultraschalllithotripsie.",
+      "Die ballistische Lithotripsie."
+    ],
+    "correct": 0,
+    "tip": "Bei konventioneller PCNL kommen dagegen Ultraschall oder ballistische Verfahren zum Einsatz.",
+    "explanation": "Die EHL (elektrohydraulische Lithotripsie) sollte laut Episodeninhalt bei der PCNL nicht mehr eingesetzt werden."
+  },
+  {
+    "question": "Wie verhalten sich Bauch- und Rückenlagerung bei der PCNL laut dem Episodeninhalt zueinander, und wann wird die Bauchlage bevorzugt?",
+    "options": [
+      "Beide Lagerungen sind gleichwertig; die Bauchlage wird bei Adipositas und Ausgusssteinen bevorzugt.",
+      "Die Bauchlage ist generell die einzig zulässige Lagerung.",
+      "Die Rückenlage ist bei Ausgusssteinen kontraindiziert.",
+      "Die Lagerungsfrage spielt für den Erfolg der PCNL keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Die Rückenlage bietet Vorteile für kombinierte ECIRS-Ansätze.",
+    "explanation": "Bauch- und Rückenlagerung sind laut Episodeninhalt bei der PCNL gleichwertig (abhängig von der Präferenz des Operateurs), wobei die Bauchlage bei Adipositas und Ausgusssteinen bevorzugt wird."
+  },
+  {
+    "question": "Welche Punktionstechnik wird laut dem Episodeninhalt mit den wenigsten Komplikationen assoziiert?",
+    "options": [
+      "Die kombinierte sonographisch und durchleuchtungsgeführte Punktion.",
+      "Die alleinige, rein durchleuchtungsgestützte Punktion.",
+      "Die alleinige, rein sonographiegestützte Punktion ohne Durchleuchtung.",
+      "Die Punktionstechnik hat laut Leitlinie keinen Einfluss auf die Komplikationsrate."
+    ],
+    "correct": 0,
+    "tip": "Der Unterpol weist dabei die geringste Dichte an Segmentarterien auf.",
+    "explanation": "Die kombiniert sonographisch und durchleuchtungsgeführte Punktion ist laut Episodeninhalt mit den wenigsten Komplikationen assoziiert."
+  },
+  {
+    "question": "Bei welchen Konstellationen soll laut dem Episodeninhalt nach PCNL eine perkutane Nephrostomie (PCN) zur postoperativen Harnableitung eingelegt werden?",
+    "options": [
+      "Bei Reststeinen, geplantem Second Look, signifikanter Blutung, Perforation, Infektsteinen und Multitrakt-PCNL.",
+      "Grundsätzlich bei jedem Patienten, unabhängig vom intraoperativen Befund.",
+      "Eine postoperative Harnableitung ist nach PCNL nie erforderlich.",
+      "Ausschließlich bei Patienten unter 18 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Bei unkompliziertem Eingriff ist dagegen ein 'tubeless'-Vorgehen möglich.",
+    "explanation": "Eine perkutane Nephrostomie soll laut Episodeninhalt bei Reststeinen, geplantem Second Look, signifikanter Blutung, Perforation, Infektsteinen und Multitrakt-PCNL eingelegt werden."
+  },
+  {
+    "question": "Welche Komplikationsraten werden laut Tabelle 15 für Transfusion und Sepsis nach PCNL angegeben?",
+    "options": [
+      "Transfusion 7 %, Sepsis 0,5 %.",
+      "Transfusion 70 %, Sepsis 50 %.",
+      "Transfusion und Sepsis treten laut Tabelle nie auf.",
+      "Diese Werte werden in der Leitlinie nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Fieber tritt laut derselben Tabelle in 10,8 % der Fälle auf, Embolisation in 0,4 %.",
+    "explanation": "Laut Tabelle 15 liegt die Transfusionsrate nach PCNL bei 7 % und die Sepsisrate bei 0,5 %."
+  },
+  {
+    "question": "Welche Konsequenz soll laut dem Episodeninhalt bei putridem Urin während der Punktion gezogen werden?",
+    "options": [
+      "Der Eingriff soll mit Anlage einer PCN abgebrochen werden.",
+      "Der Eingriff soll unverändert fortgesetzt werden.",
+      "Es soll sofort eine Nephrektomie erfolgen.",
+      "Putrider Urin bei Punktion hat keine Konsequenz für das weitere Vorgehen."
+    ],
+    "correct": 0,
+    "tip": "Auch ein Spüldruck unter 30 mmHg wird als sicherheitsrelevanter Parameter während der PCNL genannt.",
+    "explanation": "Bei putridem Urin während der Punktion soll laut Episodeninhalt der Eingriff mit Anlage einer PCN abgebrochen werden."
+  },
+  {
+    "question": "Welche Komplikationen werden laut Tabelle 16 im Rahmen des Komplikationsmanagements der PCNL genannt?",
+    "options": [
+      "Blutung (Abklemmen, Embolisation), Pleura- und Kolonverletzung, Leber-/Milzverletzung und Hypothermie.",
+      "Ausschließlich allergische Reaktionen auf das Kontrastmittel.",
+      "Ausschließlich postoperative Obstipation.",
+      "Diese Tabelle behandelt ausschließlich psychische Nebenwirkungen."
+    ],
+    "correct": 0,
+    "tip": "Zur Vermeidung einer intraoperativen Hypothermie soll auf gewärmte Spüllösungen geachtet werden.",
+    "explanation": "Tabelle 16 nennt im Rahmen des Komplikationsmanagements u. a. Blutung (Abklemmen, Embolisation), Pleura- und Kolonverletzung, Leber-/Milzverletzung sowie Hypothermie."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 8 im Zusammenhang mit dem Punktionszugang diskutiert?",
+    "options": [
+      "Einen suprakostalen Zugang oberhalb der 11. Rippe zu wählen, 'weil man so besser in alle Kelche kommt'.",
+      "Grundsätzlich jeden subkostalen Zugang abzulehnen.",
+      "Die Punktion ausschließlich sonographisch ohne jede Durchleuchtung durchzuführen.",
+      "Den Zugang immer über den Oberpol zu wählen, unabhängig vom Steinbefund."
+    ],
+    "correct": 0,
+    "tip": "Ein suprakostaler Zugang ist mit einem erhöhten Risiko für Pleura- und Organverletzungen verbunden.",
+    "explanation": "Der diskutierte Fallstrick ist, einen suprakostalen Zugang oberhalb der 11. Rippe zu wählen, mit der Begründung, so besser in alle Kelche zu gelangen, obwohl dies mit erhöhten Risiken verbunden ist."
+  }
+]

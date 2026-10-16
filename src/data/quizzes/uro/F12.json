@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wann soll laut Kapitel 14.1 eine Harnsteinanalyse erfolgen?",
+    "options": [
+      "Bei jedem ersten Stein, sowie bei Rezidiven unter laufender Prävention oder nach Steinfreiheit.",
+      "Ausschließlich bei Patienten über 60 Jahre.",
+      "Eine Harnsteinanalyse wird in der Leitlinie nicht empfohlen.",
+      "Ausschließlich bei Infektsteinen."
+    ],
+    "correct": 0,
+    "tip": "Nasschemische Verfahren sollen dabei nicht mehr eingesetzt werden, stattdessen Infrarotspektroskopie, Röntgendiffraktion oder Polarisationsmikroskopie.",
+    "explanation": "Kapitel 14.1 fordert eine Harnsteinanalyse bei jedem ersten Stein sowie bei einem Rezidiv unter laufender Prävention, bei frühem Rezidiv nach Steinfreiheit oder bei spätem Rezidiv."
+  },
+  {
+    "question": "Welches sind laut Tabelle 20 die beiden häufigsten Harnsteinarten, und in welchem Häufigkeitsbereich liegen sie?",
+    "options": [
+      "Whewellit (60–70 %) und Weddellit (10–15 %).",
+      "Struvit (90 %) und Zystin (5 %).",
+      "Harnsäure (80 %) und Brushit (15 %).",
+      "Diese Angaben werden in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Beide Steinarten bestehen aus Kalziumoxalat und sind im Röntgenbild nicht-schattengebend bzw. schattengebend je nach Zusammensetzung.",
+    "explanation": "Laut Tabelle 20 sind Whewellit (60–70 %) und Weddellit (10–15 %) die beiden häufigsten Harnsteinarten."
+  },
+  {
+    "question": "Welcher Anteil der Steinpatienten gehört laut dem Episodeninhalt zur Hochrisikogruppe?",
+    "options": [
+      "Etwa ein Viertel.",
+      "Praktisch alle Patienten.",
+      "Weniger als 1 %.",
+      "Diese Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zu den Hochrisikokriterien zählen u. a. frühes Auftreten, familiäre Belastung, Brushit- oder Harnsäuresteine, Infektsteine sowie das Vorliegen einer Einzelniere.",
+    "explanation": "Etwa ein Viertel der Steinpatienten gehört laut dem Episodeninhalt zur Hochrisikogruppe, die übrigen drei Viertel zur Niedrigrisikogruppe."
+  },
+  {
+    "question": "Welche Hochrisikokriterien werden laut Tabelle 21 genannt?",
+    "options": [
+      "Frühes Auftreten, familiäre Belastung, Brushit- oder Harnsäuresteine, Infektsteine, Einzelniere, assoziierte Erkrankungen, genetische Ursachen und anatomische Anomalien.",
+      "Ausschließlich das Patientenalter.",
+      "Ausschließlich die Steinanzahl im CT.",
+      "Diese Kriterien werden in der Leitlinie nicht benannt."
+    ],
+    "correct": 0,
+    "tip": "Diese Kriterien bestimmen über den in Abbildung 6 dargestellten Algorithmus die weitere diagnostische und therapeutische Vorgehensweise.",
+    "explanation": "Tabelle 21 nennt frühes Auftreten, familiäre Belastung, Brushit- oder Harnsäuresteine, Infektsteine, das Vorliegen einer Einzelniere, assoziierte Erkrankungen, genetische Ursachen und anatomische Anomalien als Hochrisikokriterien."
+  },
+  {
+    "question": "Welche Basisdiagnostik wird laut Kapitel 14.2 bei bekannter und unbekannter Steinart gleichermaßen empfohlen?",
+    "options": [
+      "Anamnese, Sonographie, Blutlabor inklusive ionisiertem Kalzium sowie Urinstatus und Kultur.",
+      "Ausschließlich eine CT-Untersuchung des gesamten Abdomens.",
+      "Ausschließlich eine genetische Testung.",
+      "Diese Diagnostik wird in der Leitlinie nicht spezifiziert."
+    ],
+    "correct": 0,
+    "tip": "Bei unbekannter Steinart kommen zusätzlich Bildgebung mit Hounsfield-Einheiten, Kristallmikroskopie und ein Urin-pH-Tagesprofil hinzu.",
+    "explanation": "Die Basisdiagnostik umfasst laut Kapitel 14.2 Anamnese, Sonographie, Blutlabor inklusive ionisiertem Kalzium sowie Urinstatus und Kultur, unabhängig davon, ob die Steinart bekannt ist."
+  },
+  {
+    "question": "Wie viele 24-Stunden-Urinsammlungen sollen laut Kapitel 14.3 für die erweiterte metabolische Diagnostik mindestens korrekt gesammelt werden?",
+    "options": [
+      "Mindestens zwei.",
+      "Mindestens zehn.",
+      "Nur eine einzige Sammlung genügt in jedem Fall.",
+      "Eine 24-Stunden-Sammlung wird nicht gefordert."
+    ],
+    "correct": 0,
+    "tip": "Die Sammlung soll im häuslichen Alltag, steinfrei und mindestens 3 Wochen nach einer Intervention erfolgen.",
+    "explanation": "Für die erweiterte metabolische Diagnostik sollen laut Kapitel 14.3 mindestens zwei korrekt gesammelte 24-Stunden-Urine vorliegen."
+  },
+  {
+    "question": "Welche Harndichte gilt laut Tabelle 23 als ein anzustrebender Grenzwert im Rahmen der allgemeinen Metaphylaxe?",
+    "options": [
+      "Eine Harndichte unter 1,010 kg/l.",
+      "Eine Harndichte über 1,030 kg/l.",
+      "Die Harndichte spielt für die Metaphylaxe keine Rolle.",
+      "Ein Grenzwert wird nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Diese Harndichte korrespondiert mit dem Ziel-Harnvolumen von 2,0–2,5 l über 24 Stunden verteilt.",
+    "explanation": "Laut Tabelle 23 gilt eine Harndichte unter 1,010 kg/l als anzustrebender Grenzwert im Rahmen der allgemeinen Metaphylaxe."
+  },
+  {
+    "question": "Welche Maßnahme gilt laut Tabelle 24 als die wichtigste der allgemeinen Metaphylaxe?",
+    "options": [
+      "Eine ausreichende Harndilution mit einer Trinkmenge von 2,5–3 l pro Tag.",
+      "Eine streng kalziumarme Diät.",
+      "Eine ausschließlich medikamentöse Therapie ohne Trinkmengenanpassung.",
+      "Eine vollständige Proteinkarenz."
+    ],
+    "correct": 0,
+    "tip": "Zuckergesüßte Softdrinks sollen dabei vermieden werden.",
+    "explanation": "Eine ausreichende Harndilution mit einer Trinkmenge von 2,5–3 l pro Tag gilt laut Tabelle 24 als die wichtigste Maßnahme der allgemeinen Metaphylaxe."
+  },
+  {
+    "question": "Welche Kochsalz- und Proteinmengen werden laut Tabelle 24 im Rahmen der allgemeinen Metaphylaxe empfohlen?",
+    "options": [
+      "Kochsalz unter 6 g/Tag, Protein 0,8–1,0 g/kg Körpergewicht/Tag.",
+      "Kochsalz mindestens 20 g/Tag, Protein unbegrenzt.",
+      "Diese Nährstoffe werden in der Metaphylaxe nicht berücksichtigt.",
+      "Protein soll vollständig gemieden werden."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich wird eine ballaststoffreiche, oxalatreduzierte Ernährung empfohlen.",
+    "explanation": "Tabelle 24 empfiehlt im Rahmen der allgemeinen Metaphylaxe eine Kochsalzzufuhr unter 6 g/Tag und eine Proteinzufuhr von 0,8–1,0 g/kg Körpergewicht/Tag."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 12 im Zusammenhang mit Kalziumoxalatsteinen diskutiert?",
+    "options": [
+      "Eine kalziumarme Diät bei Kalziumoxalatsteinen zu empfehlen, obwohl dies nicht der aktuellen Empfehlung entspricht.",
+      "Zu viel Kalzium in der Ernährung zu empfehlen.",
+      "Die Trinkmenge bei Kalziumoxalatsteinen zu reduzieren.",
+      "Eine kochsalzreiche Ernährung bei Kalziumoxalatsteinen zu empfehlen."
+    ],
+    "correct": 0,
+    "tip": "Laut Tabelle 24 wird eine Kalziumzufuhr von 1–1,2 g/Tag empfohlen, nicht eine kalziumarme Diät.",
+    "explanation": "Der diskutierte Fallstrick ist, Patienten mit Kalziumoxalatsteinen eine kalziumarme Diät zu empfehlen, obwohl dies der aktuellen Empfehlung einer Kalziumzufuhr von 1–1,2 g/Tag widerspricht."
+  }
+]

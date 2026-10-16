@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was besagt das ALARA-Prinzip (Statement 2.1), das für Steinpatienten besonders relevant ist?",
+    "options": [
+      "Steinpatienten, besonders junge Rezidivsteinbildner, haben ein relevantes Risiko kumulativer Strahlenbelastung, die so niedrig wie vernünftigerweise erreichbar gehalten werden soll.",
+      "Jeder Steinpatient soll unabhängig vom klinischen Verlauf jährlich ein natives CT erhalten.",
+      "Strahlenbelastung spielt bei der Diagnostik der Urolithiasis keine relevante Rolle.",
+      "Das ALARA-Prinzip bezieht sich ausschließlich auf die Therapie, nicht auf die Diagnostik."
+    ],
+    "correct": 0,
+    "tip": "ALARA steht für 'As Low As Reasonably Achievable' und ist ein grundlegendes Prinzip des Strahlenschutzes.",
+    "explanation": "Das ALARA-Prinzip (Statement 2.1) besagt, dass Steinpatienten, insbesondere junge Rezidivsteinbildner, ein relevantes Risiko kumulativer Strahlenbelastung haben, die so niedrig wie vernünftigerweise erreichbar gehalten werden soll."
+  },
+  {
+    "question": "Welches bildgebende Verfahren gilt laut Kapitel 2.1.1 als Diagnostik der ersten Wahl in der Akutsituation, Diagnostik und Nachsorge der Urolithiasis?",
+    "options": [
+      "Der Ultraschall.",
+      "Die native Computertomographie.",
+      "Die Ausscheidungsurographie.",
+      "Die Magnetresonanztomographie."
+    ],
+    "correct": 0,
+    "tip": "Die Sensitivität des Ultraschalls liegt bei Steinen über 5 mm mit begleitender Kelchdilatation bei bis zu 96 %.",
+    "explanation": "Der Ultraschall ist laut Kapitel 2.1.1 das bildgebende Verfahren der ersten Wahl in der Akutsituation, in der Diagnostik und in der Nachsorge der Urolithiasis."
+  },
+  {
+    "question": "Wie hoch sind Sensitivität und die geschätzte Strahlendosis der Abdomenübersichtsaufnahme laut Kapitel 2.1.2?",
+    "options": [
+      "Sensitivität 44–77 %, Strahlendosis ca. 0,5 mSv.",
+      "Sensitivität 99–100 %, Strahlendosis ca. 10 mSv.",
+      "Sensitivität unter 5 %, keine messbare Strahlendosis.",
+      "Diese Werte werden im entsprechenden Kapitel nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Die Spezifität der Abdomenübersichtsaufnahme liegt bei 80–87 %.",
+    "explanation": "Die Abdomenübersichtsaufnahme hat laut Kapitel 2.1.2 eine Sensitivität von 44–77 % bei einer geschätzten Strahlendosis von ca. 0,5 mSv."
+  },
+  {
+    "question": "Welche Sensitivität erreicht die native CT bei Verdacht auf einen Harnleiterstein laut Kapitel 2.1.3?",
+    "options": [
+      "94–100 %.",
+      "Unter 20 %.",
+      "Genau 50 %.",
+      "Die native CT wird in der Leitlinie zur Harnleitersteindiagnostik nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Aufgrund dieser hohen Sensitivität und Spezifität gilt die native CT der Abdomenübersicht und der intravenösen Urographie als überlegen.",
+    "explanation": "Die native Computertomographie erreicht laut Kapitel 2.1.3 eine Sensitivität von 94–100 % und gilt als weiterführende Standarddiagnostik bei Verdacht auf einen Harnleiterstein."
+  },
+  {
+    "question": "Welche zwei Steinarten sind laut dem Episodeninhalt auch im nativen CT nicht sichtbar?",
+    "options": [
+      "Indinavir- und Matrixsteine.",
+      "Whewellit- und Weddellit-Steine.",
+      "Zystin- und Brushit-Steine.",
+      "Alle Steinarten sind im CT uneingeschränkt sichtbar."
+    ],
+    "correct": 0,
+    "tip": "Diese röntgennegativen Steinarten stellen eine diagnostische Besonderheit dar, die bei unklaren Fällen bedacht werden sollte.",
+    "explanation": "Indinavir- und Matrixsteine sind laut dem Episodeninhalt auch im CT nicht sichtbar, was eine diagnostische Besonderheit bei der Bildgebung der Urolithiasis darstellt."
+  },
+  {
+    "question": "Welche Rolle spielen MRT und Nierenszintigraphie laut dem Episodeninhalt in der Routinediagnostik der Urolithiasis?",
+    "options": [
+      "Sie spielen in der Routinediagnostik keine Rolle.",
+      "Die MRT ist das Verfahren der ersten Wahl in der Akutdiagnostik.",
+      "Die Nierenszintigraphie ersetzt die native CT vollständig.",
+      "Beide Verfahren sind obligater Bestandteil jeder Steindiagnostik."
+    ],
+    "correct": 0,
+    "tip": "Bei Indikation zur Harnableitung kann dagegen eine Ureteropyelographie zum Einsatz kommen.",
+    "explanation": "MRT und Nierenszintigraphie spielen laut dem Episodeninhalt in der Routinediagnostik der Urolithiasis keine Rolle."
+  },
+  {
+    "question": "Was ist bei der Ureteropyelographie im Fall eines begleitenden Infekts laut dem Episodeninhalt zu vermeiden?",
+    "options": [
+      "Eine Druckerhöhung im Hohlsystem, wegen des Risikos einer Urosepsis.",
+      "Die Verwendung von Kontrastmittel generell.",
+      "Eine Durchführung in Narkose.",
+      "Es gibt bei dieser Untersuchung keine relevanten Einschränkungen bei Infekt."
+    ],
+    "correct": 0,
+    "tip": "Dieses Vorsichtsprinzip zieht sich durch mehrere Kapitel der Leitlinie, überall dort, wo eine Ureteropyelographie bei Infekt diskutiert wird.",
+    "explanation": "Bei Indikation zur Ureteropyelographie soll im Fall eines begleitenden Infekts eine Druckerhöhung im Hohlsystem vermieden werden, da dies das Risiko einer Urosepsis birgt."
+  },
+  {
+    "question": "Bis zu welcher Rezidivrate kann es laut dem Episodeninhalt beim Harnsteinleiden kommen, was die Identifikation von Risikopatienten besonders wichtig macht?",
+    "options": [
+      "Bis zu 50 %.",
+      "Unter 1 %.",
+      "Nahezu 100 % bei jedem Patienten.",
+      "Eine Rezidivrate wird in der Leitlinie nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Diese hohe Rezidivrate ist einer der Hauptgründe für die Bedeutung der in späteren Kapiteln behandelten Metaphylaxe.",
+    "explanation": "Das Harnsteinleiden kann laut dem Episodeninhalt eine Rezidivrate von bis zu 50 % aufweisen, was die Identifikation von Risikopatienten besonders wichtig macht."
+  },
+  {
+    "question": "Welche Überschätzung ist laut dem Episodeninhalt beim Ultraschall als diagnostische Fallstricke zu beachten?",
+    "options": [
+      "Eine Überschätzung der Steingröße.",
+      "Eine systematische Unterschätzung der Steinanzahl.",
+      "Der Ultraschall unterschätzt grundsätzlich jede Steingröße.",
+      "Diese Problematik wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Zur Beurteilung können Schallschattenbreite und der sogenannte S-Mode hilfreich sein.",
+    "explanation": "Beim Ultraschall ist laut dem Episodeninhalt eine Überschätzung der Steingröße zu beachten, wobei Schallschattenbreite und S-Mode zur genaueren Beurteilung beitragen können."
+  },
+  {
+    "question": "Welche Kernthemen zählen laut dem Episodeninhalt zu den 'Key Changes' der Leitlinienaktualisierung von 2018?",
+    "options": [
+      "Konservative Therapie, Diagnostik und Therapie bei Kindern, metabolische Diagnostik und Metaphylaxe.",
+      "Ausschließlich die Einführung eines neuen Steinregisters.",
+      "Ausschließlich eine Änderung der Abrechnungsziffern.",
+      "Es gab laut Leitlinie keine wesentlichen inhaltlichen Änderungen 2018."
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie weist selbst darauf hin, dass ihre Gültigkeit inzwischen abgelaufen ist (Literaturstand bis 12/2017).",
+    "explanation": "Zu den Key Changes der Aktualisierung von 2018 zählen laut dem Episodeninhalt die konservative Therapie, die Diagnostik und Therapie bei Kindern, die metabolische Diagnostik sowie die Metaphylaxe."
+  }
+]

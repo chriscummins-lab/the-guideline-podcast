@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In welchen Lokalisationen ist die URS laut Kapitel 8 indiziert, und bis zu welcher Steingröße gilt sie als Domäne des Verfahrens?",
+    "options": [
+      "In allen Lokalisationen, mit einer Domäne bis 2 cm.",
+      "Ausschließlich im distalen Harnleiter, unabhängig von der Steingröße.",
+      "Ausschließlich bei Steinen über 3 cm.",
+      "Die URS ist nur bei Nierenbeckensteinen indiziert."
+    ],
+    "correct": 0,
+    "tip": "Eine unbehandelte Harnwegsinfektion gilt dagegen als Kontraindikation.",
+    "explanation": "Die URS ist laut Kapitel 8 in allen Lokalisationen indiziert, wobei sie bis zu einer Steingröße von 2 cm als Domäne des Verfahrens gilt."
+  },
+  {
+    "question": "Was gilt laut dem Episodeninhalt als Kontraindikation für die URS?",
+    "options": [
+      "Eine unbehandelte Harnwegsinfektion.",
+      "Eine fortgeführte Antikoagulation.",
+      "Ein Patientenalter über 60 Jahre.",
+      "Eine Steingröße unter 5 mm."
+    ],
+    "correct": 0,
+    "tip": "Bei Stenosen kann alternativ ein antegrader Zugang gewählt werden.",
+    "explanation": "Eine unbehandelte Harnwegsinfektion gilt laut Episodeninhalt als Kontraindikation für die URS."
+  },
+  {
+    "question": "Ist eine URS laut dem Episodeninhalt auch unter fortgeführter Antikoagulation möglich?",
+    "options": [
+      "Ja, die URS ist auch unter fortgeführter Antikoagulation möglich, ein Pausieren wird jedoch nach Möglichkeit angestrebt.",
+      "Nein, eine Antikoagulation stellt eine absolute Kontraindikation für die URS dar.",
+      "Nur bei Patienten unter 30 Jahren.",
+      "Diese Frage wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Die Antibiotikaprophylaxe soll risikoadaptiert erfolgen; bei kleinen distalen Steinen ohne erhöhtes Risiko kann auf sie verzichtet werden.",
+    "explanation": "Laut Episodeninhalt ist eine URS auch unter fortgeführter Antikoagulation möglich, wobei ein Pausieren nach Möglichkeit angestrebt werden sollte."
+  },
+  {
+    "question": "Welches Hilfsmittel sollte laut Empfehlung in Kapitel 8.3 bei der URS verwendet werden, um Sicherheit zu erhöhen?",
+    "options": [
+      "Ein Sicherheitsdraht.",
+      "Ausschließlich ein starres Zystoskop.",
+      "Ausschließlich ein Ballonkatheter.",
+      "Ein solches Hilfsmittel wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich senkt eine Harnleiterschleuse (≥9 Ch) den intrarenalen Druck und das Sepsisrisiko.",
+    "explanation": "Laut Kapitel 8.3 sollte ein Sicherheitsdraht bei der URS verwendet werden, um die Sicherheit des Eingriffs zu erhöhen."
+  },
+  {
+    "question": "Welchen Effekt hat laut dem Episodeninhalt die Verwendung einer Harnleiterschleuse (≥9 Ch) bei der URS?",
+    "options": [
+      "Sie senkt den intrarenalen Druck und das Sepsisrisiko.",
+      "Sie erhöht das Sepsisrisiko deutlich.",
+      "Sie hat keinen Einfluss auf den intrarenalen Druck.",
+      "Harnleiterschleusen werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die Platzierung sollte dabei kraftfrei erfolgen.",
+    "explanation": "Die Verwendung einer Harnleiterschleuse (≥9 Ch) senkt laut Episodeninhalt den intrarenalen Druck und das Sepsisrisiko bei der URS."
+  },
+  {
+    "question": "Welcher Lasertyp gilt laut dem Episodeninhalt als Goldstandard bei der URS?",
+    "options": [
+      "Der Ho:YAG-Laser.",
+      "Der CO2-Laser.",
+      "Der Argonlaser.",
+      "Es wird kein Lasertyp als Goldstandard genannt."
+    ],
+    "correct": 0,
+    "tip": "Als Hilfsmittel kommen zudem spitzenlose Nitinolkörbchen zum Einsatz.",
+    "explanation": "Der Ho:YAG-Laser gilt laut Episodeninhalt als Goldstandard bei der URS."
+  },
+  {
+    "question": "Ist eine präoperative Harnleiterschienung laut dem Episodeninhalt vor einer URS routinemäßig notwendig?",
+    "options": [
+      "Nein, nicht routinemäßig notwendig, kann aber Vorteile für Steinfreiheitsrate und Komplikationen haben.",
+      "Ja, sie ist vor jeder URS zwingend erforderlich.",
+      "Eine Schienung ist nach URS niemals indiziert.",
+      "Diese Frage wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Postoperativ soll dagegen nach komplizierten Eingriffen, bei Residuen oder Komplikationen geschient werden.",
+    "explanation": "Eine präoperative Harnleiterschienung ist laut Episodeninhalt nicht routinemäßig notwendig, kann aber Vorteile für Steinfreiheitsrate und Komplikationsrate bieten."
+  },
+  {
+    "question": "Welche Steinfreiheitsraten werden laut den Tabellen 11 und 12 für die URS je nach Lokalisation angegeben?",
+    "options": [
+      "Harnleiter distal 93 %, mittel 87 %, proximal 82 %; Niere gesamt 81 % (inkl. Zweiteingriff 90 %).",
+      "Für alle Lokalisationen einheitlich 50 %.",
+      "Für alle Lokalisationen einheitlich über 99 %.",
+      "Diese Werte werden in der Leitlinie nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Diese Werte verdeutlichen, dass die Steinfreiheitsrate mit zunehmender Entfernung vom distalen Harnleiter tendenziell abnimmt.",
+    "explanation": "Laut Tabellen 11 und 12 liegen die Steinfreiheitsraten der URS im distalen Harnleiter bei 93 %, im mittleren bei 87 %, im proximalen bei 82 % und in der Niere insgesamt bei 81 % (inklusive Zweiteingriff bei 90 %)."
+  },
+  {
+    "question": "Wie hoch sind laut Tabelle 13 die Raten schwerer bzw. milder Komplikationen nach URS?",
+    "options": [
+      "Schwere Komplikationen unter 1 %, milde Komplikationen 9–25 %.",
+      "Schwere Komplikationen bei über 50 %.",
+      "Es treten laut Leitlinie praktisch nie Komplikationen auf.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zu den möglichen Komplikationen zählen Perforation, Harnleiterabriss und Strikturen.",
+    "explanation": "Laut Tabelle 13 liegen schwere Komplikationen nach URS bei unter 1 %, milde Komplikationen bei 9–25 %."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 7 im Zusammenhang mit einer hängenden Harnleiterschleuse diskutiert?",
+    "options": [
+      "Die Schleuse 'mit Nachdruck' hochzuschieben, wenn sie beim Vorschieben hängt.",
+      "Die Schleuse grundsätzlich nie zu verwenden.",
+      "Die Schleuse routinemäßig vor jeder URS zu entfernen.",
+      "Die Schleusengröße ist für die Platzierung irrelevant."
+    ],
+    "correct": 0,
+    "tip": "Die Platzierung der Harnleiterschleuse soll kraftfrei erfolgen, um Verletzungen des Harnleiters zu vermeiden.",
+    "explanation": "Der diskutierte Fallstrick ist, eine hängende Harnleiterschleuse 'mit Nachdruck' hochzuschieben, obwohl die Platzierung laut Leitlinie kraftfrei erfolgen soll."
+  }
+]

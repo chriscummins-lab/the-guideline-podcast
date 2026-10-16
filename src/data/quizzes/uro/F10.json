@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches bildgebende Verfahren ist laut Kapitel 13.3 bei Urolithiasis in der Schwangerschaft erste Wahl?",
+    "options": [
+      "Der Ultraschall.",
+      "Die native Computertomographie.",
+      "Die Ausscheidungsurographie.",
+      "Die Skelettszintigraphie."
+    ],
+    "correct": 0,
+    "tip": "Ionisierende Strahlen sollen möglichst vermieden werden, im 1. Trimenon soll keine Röntgenuntersuchung erfolgen.",
+    "explanation": "Der Ultraschall ist laut Kapitel 13.3 das bildgebende Verfahren der ersten Wahl bei Urolithiasis in der Schwangerschaft."
+  },
+  {
+    "question": "Was gilt laut dem Episodeninhalt bei der sonographischen Beurteilung der Harnwege in der Schwangerschaft als möglicher Fallstrick?",
+    "options": [
+      "Die physiologische Dilatation des Hohlsystems kann fälschlich als Obstruktion gedeutet werden.",
+      "Eine Dilatation des Hohlsystems kommt in der Schwangerschaft nie vor.",
+      "Der Ultraschall ist in der Schwangerschaft grundsätzlich nicht durchführbar.",
+      "Dieser Aspekt wird im Episodeninhalt nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Der Doppler-Resistance-Index kann hier zur weiteren Differenzierung beitragen.",
+    "explanation": "Die physiologische Dilatation des Hohlsystems in der Schwangerschaft kann fälschlich als Obstruktion gedeutet werden – ein wichtiger diagnostischer Fallstrick."
+  },
+  {
+    "question": "Wie hoch ist laut dem Episodeninhalt die Rate an Spontanabgängen bei unkomplizierter Urolithiasis in der Schwangerschaft?",
+    "options": [
+      "Ca. 80 %.",
+      "Unter 5 %.",
+      "100 %.",
+      "Diese Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Daher wird bei unkomplizierter Urolithiasis in der Schwangerschaft primär konservativ vorgegangen.",
+    "explanation": "Bei unkomplizierter Urolithiasis in der Schwangerschaft liegt die Rate an Spontanabgängen laut Episodeninhalt bei ca. 80 %."
+  },
+  {
+    "question": "Welches Therapieverfahren ist laut dem Episodeninhalt in der Schwangerschaft absolut kontraindiziert?",
+    "options": [
+      "Die ESWL.",
+      "Die primäre Harnableitung.",
+      "Die URS.",
+      "Der Ultraschall."
+    ],
+    "correct": 0,
+    "tip": "Bei Interventionsbedarf wird primär eine Harnableitung mit Silikonstents angestrebt, die definitive Therapie erfolgt meist post partum.",
+    "explanation": "Die ESWL ist laut Episodeninhalt in der Schwangerschaft absolut kontraindiziert."
+  },
+  {
+    "question": "Warum sind bei einer Harnableitung mittels Stent in der Schwangerschaft laut dem Episodeninhalt häufige Wechsel erforderlich?",
+    "options": [
+      "Wegen der Inkrustationsneigung der verwendeten Silikonstents.",
+      "Weil Stents in der Schwangerschaft generell nur für 24 Stunden halten.",
+      "Weil Stents in der Schwangerschaft grundsätzlich nicht toleriert werden.",
+      "Dieser Aspekt wird im Episodeninhalt nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die definitive Steintherapie erfolgt in der Regel erst post partum.",
+    "explanation": "Häufige Stentwechsel sind laut Episodeninhalt wegen der Inkrustationsneigung der verwendeten Silikonstents erforderlich."
+  },
+  {
+    "question": "Bis zu welchem Anteil entwickeln Patienten mit Harnableitung (z. B. Neoblase, Conduit) laut dem Episodeninhalt innerhalb von 5 Jahren Harnsteine?",
+    "options": [
+      "Bis zu 65 %.",
+      "Unter 1 %.",
+      "100 % aller Patienten mit Harnableitung.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zu den Risikofaktoren zählen Hyperoxalurie, Hyperkalziurie, Hypozitraturie, Mukusbildung, Ureasebildner und Stase.",
+    "explanation": "Patienten mit Harnableitung entwickeln laut Episodeninhalt innerhalb von 5 Jahren bei bis zu 65 % Harnsteine."
+  },
+  {
+    "question": "In welchem Bereich liegt laut dem Episodeninhalt die Inzidenz der Urolithiasis nach Nierentransplantation?",
+    "options": [
+      "0,2–1,7 %.",
+      "50–70 %.",
+      "Eine Urolithiasis nach Nierentransplantation kommt praktisch nie vor.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zu den Risikofaktoren zählen u. a. Immunsuppression, tertiärer Hyperparathyreoidismus und renal-tubuläre Azidose.",
+    "explanation": "Die Inzidenz der Urolithiasis nach Nierentransplantation liegt laut Episodeninhalt bei 0,2–1,7 %."
+  },
+  {
+    "question": "Welcher Zugangsweg wird laut dem Episodeninhalt bei Urolithiasis in der Transplantatniere wegen des Neo-Ostiums bevorzugt?",
+    "options": [
+      "Der antegrade Zugang.",
+      "Ausschließlich der retrograde transurethrale Zugang.",
+      "Ausschließlich die ESWL ohne jeden invasiven Zugang.",
+      "Ein bevorzugter Zugangsweg wird nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die ESWL ist bei Transplantatnieren in ihrer Anwendung eingeschränkt.",
+    "explanation": "Bei Urolithiasis in der Transplantatniere wird laut Episodeninhalt wegen des Neo-Ostiums der antegrade Zugang bevorzugt."
+  },
+  {
+    "question": "Welche Besonderheiten gelten laut dem Episodeninhalt für die Steintherapie bei Hufeisennieren?",
+    "options": [
+      "Die ESWL ist schlechter wirksam, die flexible URS erschwert, die PCNL erfolgt meist über den Oberpol.",
+      "Alle Therapieverfahren funktionieren bei Hufeisennieren identisch wie bei normal angelegten Nieren.",
+      "Eine aktive Steintherapie ist bei Hufeisennieren generell kontraindiziert.",
+      "Diese Besonderheiten werden im Episodeninhalt nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Bei Kelchdivertikelsteinen kommt dagegen eine PCNL oder URS mit Inzision/Dilatation des Kelchhalses infrage.",
+    "explanation": "Bei Hufeisennieren ist laut Episodeninhalt die ESWL schlechter wirksam, die flexible URS erschwert, und die PCNL erfolgt meist über den Oberpol."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 10 im Zusammenhang mit der Spätschwangerschaft diskutiert?",
+    "options": [
+      "Einen Harnstau in der Spätschwangerschaft automatisch als Steinobstruktion zu werten, obwohl auch eine physiologische Dilatation vorliegen kann.",
+      "Jede Schwangere bei Verdacht auf Urolithiasis sofort mit ESWL zu behandeln.",
+      "Eine Ultraschalluntersuchung in der Schwangerschaft grundsätzlich zu unterlassen.",
+      "Jede Harnableitung in der Schwangerschaft als kontraindiziert einzustufen."
+    ],
+    "correct": 0,
+    "tip": "Die physiologische Dilatation des Hohlsystems kann eine Steinobstruktion vortäuschen und muss differenzialdiagnostisch bedacht werden.",
+    "explanation": "Der diskutierte Fallstrick ist, einen Harnstau in der Spätschwangerschaft automatisch als Steinobstruktion zu werten, obwohl es sich auch um eine physiologische Dilatation handeln kann."
+  }
+]

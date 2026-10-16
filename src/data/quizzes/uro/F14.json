@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher Urin-pH-Wert kennzeichnet laut dem Episodeninhalt die 'Säurestarre' bei Harnsäuresteinen?",
+    "options": [
+      "Ein konstant niedriger pH unter 5,8.",
+      "Ein konstant hoher pH über 7,5.",
+      "Harnsäuresteine sind unabhängig vom Urin-pH.",
+      "Diese Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Insulinresistenz, metabolisches Syndrom, tierisches Eiweiß und Diarrhö begünstigen Hyperurikosurie und niedrigen Urin-pH.",
+    "explanation": "Die 'Säurestarre' bei Harnsäuresteinen ist laut Episodeninhalt durch einen konstant niedrigen Urin-pH unter 5,8 gekennzeichnet."
+  },
+  {
+    "question": "Auf welchen Ziel-pH-Bereich wird bei Harnsäuresteinen laut dem Episodeninhalt eingestellt – zur Metaphylaxe im Vergleich zur Litholyse?",
+    "options": [
+      "Metaphylaxe: pH 6,5–6,8; Litholyse: pH 7,0–7,2.",
+      "Für beide Indikationen identisch bei pH 4,0.",
+      "Eine pH-Einstellung spielt bei Harnsäuresteinen keine Rolle.",
+      "Diese Unterscheidung wird im Episodeninhalt nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zur Metaphylaxe genügt eine moderatere Alkalisierung als zur aktiven Litholyse bestehender Steine.",
+    "explanation": "Laut Episodeninhalt wird bei Harnsäuresteinen zur Metaphylaxe ein Ziel-pH von 6,5–6,8 angestrebt, zur Litholyse dagegen 7,0–7,2."
+  },
+  {
+    "question": "In welcher Dosierung wird Allopurinol laut dem Episodeninhalt bei nachgewiesener Hyperurikosurie bzw. Hyperurikämie eingesetzt?",
+    "options": [
+      "100 mg bei Hyperurikosurie, 100–300 mg bei Hyperurikämie.",
+      "Einheitlich 5 mg unabhängig von der Indikation.",
+      "Allopurinol wird bei Harnsäuresteinen nicht eingesetzt.",
+      "Eine Dosierung wird im Episodeninhalt nicht genannt."
+    ],
+    "correct": 0,
+    "tip": "Febuxostat steht als Alternative zu Allopurinol zur Verfügung, allerdings mit einem abweichenden Nebenwirkungsprofil.",
+    "explanation": "Allopurinol wird laut Episodeninhalt bei Hyperurikosurie in einer Dosierung von 100 mg und bei Hyperurikämie in einer Dosierung von 100–300 mg eingesetzt."
+  },
+  {
+    "question": "Bei welchem Urin-pH-Optimum bilden sich laut dem Episodeninhalt Ammoniumuratsteine, und welche Begleitfaktoren werden genannt?",
+    "options": [
+      "Bei einem pH über 6,5, häufig infektassoziiert und bei Malabsorption/Malnutrition.",
+      "Bei einem pH unter 4,0, nie infektassoziiert.",
+      "Ammoniumuratsteine kommen laut Leitlinie nicht vor.",
+      "Diese Angaben werden im Episodeninhalt nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zur Therapie wird u. a. eine Ansäuerung mit L-Methionin auf einen Ziel-pH von 5,8–6,2 empfohlen.",
+    "explanation": "Ammoniumuratsteine bilden sich laut Episodeninhalt bevorzugt bei einem Urin-pH über 6,5, häufig infektassoziiert sowie bei Malabsorption/Malnutrition."
+  },
+  {
+    "question": "Welche Erreger zählen laut Kapitel 14.5.6 zu den obligaten Ureasebildnern bei Struvit-/Infektsteinen?",
+    "options": [
+      "Proteus, Morganella, Corynebacterium urealyticum, Ureaplasma urealyticum und Providencia rettgeri.",
+      "Ausschließlich Escherichia coli.",
+      "Ausschließlich Staphylococcus saprophyticus.",
+      "Diese Erreger werden im Kapitel nicht benannt."
+    ],
+    "correct": 0,
+    "tip": "Daneben existieren auch fakultative Ureasebildner, die seltener an der Infektsteinbildung beteiligt sind.",
+    "explanation": "Kapitel 14.5.6 nennt Proteus, Morganella, Corynebacterium urealyticum, Ureaplasma urealyticum und Providencia rettgeri als obligate Ureasebildner bei Struvit-/Infektsteinen."
+  },
+  {
+    "question": "Ist Acetohydroxamsäure laut dem Episodeninhalt in Deutschland zur Behandlung von Infektsteinen zugelassen?",
+    "options": [
+      "Nein, der Wirkstoff ist aktuell in Deutschland nicht zugelassen.",
+      "Ja, er ist die Standardtherapie der ersten Wahl.",
+      "Ja, aber nur bei Kindern unter 10 Jahren.",
+      "Diese Information wird im Episodeninhalt nicht gegeben."
+    ],
+    "correct": 0,
+    "tip": "Zur Therapie gehören stattdessen die vollständige Steinsanierung, eine antibiotische Therapie und regelmäßige Urinkulturen.",
+    "explanation": "Acetohydroxamsäure ist laut Episodeninhalt in Deutschland aktuell nicht zugelassen, der Nutzen gilt zudem als umstritten."
+  },
+  {
+    "question": "Welche Mindest-Trinkmenge wird laut dem Episodeninhalt bei erwachsenen Zystinurie-Patienten zur Erreichung eines ausreichenden Urinvolumens empfohlen?",
+    "options": [
+      "Ein Urinvolumen von über 3,5 l/Tag.",
+      "Ein Urinvolumen von unter 0,5 l/Tag.",
+      "Eine Trinkmengenempfehlung wird nicht gegeben.",
+      "Genau 1 l/Tag, unabhängig vom Körpergewicht."
+    ],
+    "correct": 0,
+    "tip": "Bei Kindern wird die Trinkmenge gewichtsadaptiert mit über 1,5 l/m² Körperoberfläche angegeben, ggf. auch per PEG-Sonde.",
+    "explanation": "Bei erwachsenen Zystinurie-Patienten wird laut Episodeninhalt ein Urinvolumen von über 3,5 l/Tag angestrebt."
+  },
+  {
+    "question": "Welcher Chelatbildner wird laut Kapitel 14.5.7 bei Zystinsteinen eingesetzt, und in welcher Initialdosis?",
+    "options": [
+      "Tiopronin, initial 2 × 250 mg.",
+      "Penicillamin, initial 2 g pro Tag.",
+      "Ein Chelatbildner wird bei Zystinsteinen nicht eingesetzt.",
+      "Diese Angabe wird im Kapitel nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Die Dosis kann je nach therapeutischem Erfolg auf bis zu 2 g pro Tag gesteigert werden; es kann zu einer Tachyphylaxie kommen.",
+    "explanation": "Kapitel 14.5.7 beschreibt den Einsatz von Tiopronin als Chelatbildner bei Zystinsteinen, mit einer Initialdosis von 2 × 250 mg."
+  },
+  {
+    "question": "Welche seltene Steinart wird laut dem Episodeninhalt mit einem APRT-Defekt in Verbindung gebracht, bei der Allopurinol eingesetzt wird?",
+    "options": [
+      "2,8-Dihydroxyadenin-Steine (2,8-DHA).",
+      "Brushitsteine.",
+      "Struvitsteine.",
+      "Diese Steinart wird im Episodeninhalt nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Kristalle dieser Steinart lassen sich im Sediment nachweisen.",
+    "explanation": "2,8-Dihydroxyadenin-Steine (2,8-DHA) werden laut Episodeninhalt mit einem APRT-Defekt in Verbindung gebracht, bei dem Allopurinol (300–600 mg) eingesetzt wird."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 14 im Zusammenhang mit Infektsteinresten diskutiert?",
+    "options": [
+      "Einen Rest-Infektstein als 'klein genug zum Belassen' einzustufen, obwohl Infektsteine ein hohes Rezidivrisiko haben.",
+      "Jeden noch so kleinen Infektsteinrest sofort operativ zu entfernen.",
+      "Infektsteine grundsätzlich nicht mittels Steinanalyse zu untersuchen.",
+      "Bei jedem Infektstein routinemäßig Acetohydroxamsäure einzusetzen."
+    ],
+    "correct": 0,
+    "tip": "Infektsteinreste gelten als Nidus für rasche Rezidive und sollten konsequent saniert werden.",
+    "explanation": "Der diskutierte Fallstrick ist, einen Rest-Infektstein als 'klein genug zum Belassen' einzustufen, obwohl Infektsteinreste ein besonders hohes Rezidivrisiko bergen und eine vollständige Sanierung angestrebt werden sollte."
+  }
+]

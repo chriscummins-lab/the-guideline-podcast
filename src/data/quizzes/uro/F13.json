@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Für welche Patientengruppe ist laut Kapitel 14.5 die spezifische Metaphylaxe vorgesehen?",
+    "options": [
+      "Ausschließlich für Hochrisikopatienten.",
+      "Für alle Steinpatienten gleichermaßen, unabhängig vom Risikoprofil.",
+      "Ausschließlich für Patienten unter 18 Jahren.",
+      "Eine spezifische Metaphylaxe wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Bei Niedrigrisikopatienten genügt in der Regel die allgemeine Metaphylaxe aus Kapitel 14.4.",
+    "explanation": "Die spezifische Metaphylaxe ist laut Kapitel 14.5 ausschließlich für Hochrisikopatienten vorgesehen."
+  },
+  {
+    "question": "Welcher Anteil der Kalziumoxalatsteine gilt laut dem Episodeninhalt als idiopathisch?",
+    "options": [
+      "Ca. 70 %.",
+      "Unter 5 %.",
+      "100 %.",
+      "Diese Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Zur erweiterten Abklärung gehören u. a. ein pH-Tagesprofil mit mindestens 4 Messungen und zwei 24-Stunden-Urinsammlungen.",
+    "explanation": "Etwa 70 % der Kalziumoxalatsteine gelten laut Episodeninhalt als idiopathisch."
+  },
+  {
+    "question": "Wie ist ein konstant niedriger Urin-pH-Wert unter 5,8 laut dem Episodeninhalt zu interpretieren?",
+    "options": [
+      "Als 'Säurestarre' mit begünstigter Co-Kristallisation.",
+      "Als Hinweis auf eine renal-tubuläre Azidose (RTA).",
+      "Als völlig unbedeutender Normalbefund ohne jede Konsequenz.",
+      "Als sicherer Beweis für einen Harnwegsinfekt."
+    ],
+    "correct": 0,
+    "tip": "Ein konstant hoher pH-Wert über 5,8 kann dagegen nach Ausschluss eines Infekts auf eine RTA hinweisen.",
+    "explanation": "Ein konstant niedriger Urin-pH-Wert unter 5,8 wird laut Episodeninhalt als 'Säurestarre' mit begünstigter Co-Kristallisation interpretiert."
+  },
+  {
+    "question": "Ab welcher Hyperkalziurie wird laut dem Episodeninhalt zusätzlich zur Alkalizitrat-Therapie ein Thiazid empfohlen?",
+    "options": [
+      "Ab einer Kalziurie über 8 mmol/Tag.",
+      "Ab der ersten minimalen Erhöhung des Kalziumwerts im Serum.",
+      "Thiazide werden bei Hyperkalziurie generell nicht empfohlen.",
+      "Diese Schwelle wird in der Leitlinie nicht angegeben."
+    ],
+    "correct": 0,
+    "tip": "Bei einer Hyperkalziurie über 5 mmol/Tag wird zunächst Alkalizitrat oder Natriumbikarbonat empfohlen.",
+    "explanation": "Ab einer Hyperkalziurie über 8 mmol/Tag wird laut Episodeninhalt zusätzlich zur Alkalizitrat-Therapie ein Thiazid (z. B. Chlorthalidon 25–50 mg) empfohlen."
+  },
+  {
+    "question": "Warum werden Chlorthalidon oder Indapamid laut dem Episodeninhalt gegenüber Hydrochlorothiazid bevorzugt?",
+    "options": [
+      "Wegen eines unter Hydrochlorothiazid-Langzeitanwendung beschriebenen erhöhten Hautkrebsrisikos.",
+      "Weil Hydrochlorothiazid keinerlei Effekt auf die Kalziurie hat.",
+      "Weil Hydrochlorothiazid ausschließlich bei Kindern zugelassen ist.",
+      "Ein Unterschied zwischen diesen Substanzen wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Dieses Risiko bezieht sich insbesondere auf das spinozelluläre Karzinom der Haut (weißer Hautkrebs).",
+    "explanation": "Chlorthalidon oder Indapamid werden laut Episodeninhalt gegenüber Hydrochlorothiazid bevorzugt, da unter Hydrochlorothiazid-Langzeitanwendung ein erhöhtes Hautkrebsrisiko beschrieben wurde."
+  },
+  {
+    "question": "Bei welchem Urin-pH-Wert fallen Karbonatapatitkristalle laut dem Episodeninhalt bevorzugt aus, und welche Assoziation besteht häufig?",
+    "options": [
+      "Bei einem pH über 6,8, häufig infektassoziiert.",
+      "Bei einem pH unter 5,0, nie infektassoziiert.",
+      "Karbonatapatit hat keine pH-Abhängigkeit.",
+      "Diese Angaben werden im Episodeninhalt nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Daher soll bei Karbonatapatitsteinbildung immer eine Urinkultur erfolgen.",
+    "explanation": "Karbonatapatitkristalle fallen laut Episodeninhalt bei einem Urin-pH über 6,8 aus und sind häufig infektassoziiert, weshalb eine Urinkultur erfolgen soll."
+  },
+  {
+    "question": "In welchem Urin-pH-Bereich entstehen laut dem Episodeninhalt Brushitsteine, und welche Rolle spielen dabei Harnwegsinfekte?",
+    "options": [
+      "pH 6,5–6,8; Harnwegsinfekte spielen bei der Brushitsteinbildung keine Rolle.",
+      "pH unter 4,0; immer infektassoziiert.",
+      "Brushitsteine entstehen bei jedem beliebigen pH-Wert.",
+      "Diese Angaben werden im Episodeninhalt nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Brushitsteine gelten trotz fehlendem Infektbezug als Hochrisikosteine.",
+    "explanation": "Brushitsteine entstehen laut Episodeninhalt in einem engen Urin-pH-Bereich von 6,5–6,8, wobei Harnwegsinfekte im Gegensatz zum Karbonatapatit keine Rolle spielen."
+  },
+  {
+    "question": "Welche Abklärung wird laut dem Episodeninhalt bei Karbonatapatitsteinbildung ohne nachweisbaren Infekt empfohlen?",
+    "options": [
+      "Eine Abklärung auf distale renal-tubuläre Azidose (dRTA) mittels Ammoniumchlorid-Belastungstest.",
+      "Eine genetische Untersuchung auf Zystinurie.",
+      "Eine Abklärung ist in diesem Fall nicht erforderlich.",
+      "Eine CT-Untersuchung des gesamten Abdomens."
+    ],
+    "correct": 0,
+    "tip": "Bei nachgewiesener Infektion erfolgt die Prävention der Karbonatapatitsteinbildung dagegen über die Behandlung des Harnwegsinfekts.",
+    "explanation": "Bei Karbonatapatitsteinbildung ohne nachweisbaren Infekt wird laut Episodeninhalt eine Abklärung auf distale renal-tubuläre Azidose mittels Ammoniumchlorid-Belastungstest empfohlen."
+  },
+  {
+    "question": "Welche Grunderkrankung wird laut dem Episodeninhalt im Zusammenhang mit Kalziumsteinbildung genannt, bei der eine Parathyreoidektomie infrage kommt?",
+    "options": [
+      "Der primäre Hyperparathyreoidismus.",
+      "Die Zystinurie.",
+      "Die distale renal-tubuläre Azidose.",
+      "Diese Grunderkrankung wird im Episodeninhalt nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Alternativ zur Parathyreoidektomie kann auch Cinacalcet eingesetzt werden.",
+    "explanation": "Der primäre Hyperparathyreoidismus wird laut Episodeninhalt als Grunderkrankung genannt, bei der eine Parathyreoidektomie oder alternativ Cinacalcet infrage kommt."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 13 im Zusammenhang mit Karbonatapatitsteinen diskutiert?",
+    "options": [
+      "Alkalizitrat zu verabreichen, 'weil Alkalizitrat ja immer hilft', obwohl Karbonatapatit gerade durch einen hohen Urin-pH begünstigt wird.",
+      "Bei Karbonatapatitsteinen grundsätzlich auf jede medikamentöse Therapie zu verzichten.",
+      "Karbonatapatitsteine routinemäßig mit L-Methionin bei saurem Urin-pH zu behandeln.",
+      "Eine Urinkultur bei Karbonatapatitsteinen für überflüssig zu halten."
+    ],
+    "correct": 0,
+    "tip": "Alkalizitrat würde den Urin-pH weiter anheben und damit die Karbonatapatitsteinbildung eher begünstigen als verhindern.",
+    "explanation": "Der diskutierte Fallstrick ist, Alkalizitrat bei Karbonatapatitsteinen zu verabreichen, obwohl diese Steinart gerade durch einen hohen Urin-pH begünstigt wird und eine Alkalisierung hier kontraproduktiv wäre."
+  }
+]

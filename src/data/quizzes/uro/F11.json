@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher Anteil aller Steinereignisse betrifft laut Kapitel 12.1 Kinder unter 18 Jahren?",
+    "options": [
+      "Etwa 1 %.",
+      "Etwa 50 %.",
+      "Nahezu 100 %.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Im zweiten Lebensjahrzehnt sind Mädchen häufiger betroffen als Jungen, im ersten Lebensjahrzehnt eher umgekehrt.",
+    "explanation": "Etwa 1 % aller Steinereignisse betreffen laut Kapitel 12.1 Kinder unter 18 Jahren."
+  },
+  {
+    "question": "Was besagt das Statement in Kapitel 12.1 zur Risikoeinstufung von Kindern mit Harnsteinbildung?",
+    "options": [
+      "Kinder zählen zu den Hochrisiko-Steinpatienten.",
+      "Kinder haben grundsätzlich ein geringeres Steinrisiko als Erwachsene.",
+      "Eine Risikoeinstufung bei Kindern wird in der Leitlinie nicht vorgenommen.",
+      "Kinder gelten nur dann als Hochrisikopatienten, wenn bereits ein Rezidiv aufgetreten ist."
+    ],
+    "correct": 0,
+    "tip": "Dies hängt u. a. mit häufigeren genetischen Ursachen, Infekt-assoziierter Steinbildung und urogenitalen Fehlbildungen bei Kindern zusammen.",
+    "explanation": "Das Statement in Kapitel 12.1 besagt, dass Kinder zu den Hochrisiko-Steinpatienten zählen."
+  },
+  {
+    "question": "Welche Ursachen der Steinbildung kommen laut Kapitel 12.1 bei Kindern im Vergleich zu Erwachsenen häufiger vor?",
+    "options": [
+      "Hereditäre Ursachen wie Zystinurie oder primäre Hyperoxalurie sowie urogenitale Fehlbildungen.",
+      "Ausschließlich ernährungsbedingte Ursachen.",
+      "Bei Kindern treten ausschließlich idiopathische Steine ohne erkennbare Ursache auf.",
+      "Diese Frage wird im entsprechenden Kapitel nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Je früher die Steinerkrankung im Kindesalter beginnt, desto wahrscheinlicher liegt eine metabolische Erkrankung zugrunde.",
+    "explanation": "Bei Kindern kommen laut Kapitel 12.1 hereditäre Ursachen wie Zystinurie oder primäre Hyperoxalurie sowie urogenitale Fehlbildungen häufiger vor als bei Erwachsenen."
+  },
+  {
+    "question": "Wie präsentiert sich ein akutes Steinereignis laut Kapitel 12.2 bei kleinen Kindern typischerweise, im Gegensatz zu älteren Kindern und Jugendlichen?",
+    "options": [
+      "Mit Gereiztheit und unspezifischen periumbilikalen Bauchschmerzen, teils mit Erbrechen.",
+      "Mit klassischen Flankenschmerzen wie bei Erwachsenen.",
+      "Vollständig asymptomatisch, mit Zufallsdiagnose im Ultraschall.",
+      "Mit isolierten neurologischen Symptomen."
+    ],
+    "correct": 0,
+    "tip": "Bei älteren Kindern und Jugendlichen treten dagegen typische Flankenschmerzen mit Makro- oder Mikrohämaturie auf.",
+    "explanation": "Kleine Kinder zeigen laut Kapitel 12.2 bei einem akuten Steinereignis häufig nur Gereiztheit und unspezifische periumbilikale Bauchschmerzen, teils mit Erbrechen."
+  },
+  {
+    "question": "Welches bildgebende Verfahren soll laut Kapitel 12.3 bei Kindern als Verfahren der ersten Wahl eingesetzt werden?",
+    "options": [
+      "Der Ultraschall.",
+      "Die native Computertomographie.",
+      "Die Ausscheidungsurographie.",
+      "Die Skelettszintigraphie."
+    ],
+    "correct": 0,
+    "tip": "Ein low-dose non-Contrast CT kann bei unklaren Fällen ergänzend erwogen werden.",
+    "explanation": "Die Ultraschalldiagnostik soll laut Kapitel 12.3 bei Kindern als Verfahren der ersten Wahl erfolgen."
+  },
+  {
+    "question": "Welches Verfahren sollte laut Kapitel 12.3 bei Kindern zur Therapieplanung aus strahlenhygienischen Gründen dem Ausscheidungsurogramm vorgezogen werden?",
+    "options": [
+      "Die MR-Urographie.",
+      "Die Skelettszintigraphie.",
+      "Eine konventionelle Abdomenübersicht.",
+      "Es wird kein alternatives Verfahren genannt."
+    ],
+    "correct": 0,
+    "tip": "Röntgenaufnahmen bei Kindern sollen streng fokussiert, nach Möglichkeit einseitig und mit minimaler Aufnahmezahl erfolgen.",
+    "explanation": "Die MR-Urographie sollte laut Kapitel 12.3 aus strahlenhygienischen Gründen dem Ausscheidungsurogramm zur Therapieplanung bei Kindern vorgezogen werden."
+  },
+  {
+    "question": "Welche Besonderheit gilt laut dem Episodeninhalt für die ESWL bei Kindern im Vergleich zu Erwachsenen?",
+    "options": [
+      "Kinder zeigen höhere Steinfreiheitsraten, Narkose ist meist bei Kindern unter 10 Jahren erforderlich, und 1 Hz ist besser als 2 Hz.",
+      "Die ESWL ist bei Kindern generell kontraindiziert.",
+      "Kinder benötigen grundsätzlich höhere Stoßwellenfrequenzen als Erwachsene.",
+      "Diese Besonderheiten werden im Episodeninhalt nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Bei Nephrokalzinose oder primärer Hyperoxalurie besteht durch wiederholte ESWL ein erhöhtes Risiko.",
+    "explanation": "Bei Kindern zeigt die ESWL laut Episodeninhalt höhere Steinfreiheitsraten als bei Erwachsenen, eine Narkose ist meist bei Kindern unter 10 Jahren erforderlich, und eine Frequenz von 1 Hz ist einer Frequenz von 2 Hz überlegen."
+  },
+  {
+    "question": "Welche Substanz zeigt laut dem Episodeninhalt bei Kindern eine bessere Wirkung im Rahmen der MET als Doxazosin, wenn auch mit insgesamt geringer Evidenz?",
+    "options": [
+      "Tamsulosin.",
+      "Metamizol.",
+      "Nifedipin in Höchstdosis.",
+      "Eine Überlegenheit einer Substanz wird nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die Evidenz zur MET bei Kindern ist insgesamt geringer als bei Erwachsenen.",
+    "explanation": "Tamsulosin zeigt laut Episodeninhalt bei Kindern im Rahmen der MET eine bessere Wirkung als Doxazosin, wenngleich die Evidenz insgesamt gering ist."
+  },
+  {
+    "question": "Welche Untersuchungen gehören laut dem Episodeninhalt zur metabolischen Abklärung nach dem ersten Stein bei Kindern?",
+    "options": [
+      "Urinstix, Sediment (u. a. auf Zystin, 2,8-DHA), 1–3 24-Stunden-Sammelurine sowie Serumparameter.",
+      "Ausschließlich eine einmalige Blutentnahme ohne weitere Urinanalysen.",
+      "Eine metabolische Abklärung ist bei Kindern erst nach dem dritten Rezidiv vorgesehen.",
+      "Diese Untersuchungen werden im Episodeninhalt nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Bei Verdacht auf primäre Hyperoxalurie wird zusätzlich ein Drei-Tage-Protokoll empfohlen.",
+    "explanation": "Zur metabolischen Abklärung nach dem ersten Stein gehören laut Episodeninhalt Urinstix, Sediment (u. a. auf Zystin und 2,8-DHA), 1–3 24-Stunden-Sammelurine sowie Serumparameter."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 11 im Zusammenhang mit der Abklärung von Kindern mit Harnsteinen diskutiert?",
+    "options": [
+      "Das Kind wie einen 'kleinen Erwachsenen' abzuklären und die Stoffwechseldiagnostik erst beim Rezidiv zu veranlassen.",
+      "Jedem Kind sofort eine PCNL anzubieten.",
+      "Kinder generell nicht bildgebend zu untersuchen.",
+      "Eine metabolische Diagnostik bei Kindern grundsätzlich für überflüssig zu halten."
+    ],
+    "correct": 0,
+    "tip": "Da Kinder als Hochrisikopatienten gelten, soll die metabolische Diagnostik bereits nach dem ersten Steinereignis erfolgen, nicht erst beim Rezidiv.",
+    "explanation": "Der diskutierte Fallstrick ist, ein Kind wie einen 'kleinen Erwachsenen' abzuklären und die Stoffwechseldiagnostik erst beim Rezidiv zu veranlassen, obwohl sie bereits nach dem ersten Stein erfolgen sollte."
+  }
+]

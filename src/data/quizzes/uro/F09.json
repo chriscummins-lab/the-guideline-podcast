@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bei welcher Steinart soll laut Kapitel 10 die orale Chemolitholyse als Erstlinientherapie eingesetzt werden?",
+    "options": [
+      "Ausschließlich bei Harnsäuresteinen.",
+      "Bei allen Steinarten gleichermaßen.",
+      "Ausschließlich bei Zystinsteinen.",
+      "Die orale Chemolitholyse wird in der Leitlinie nicht als Erstlinientherapie beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Eine perkutane Litholyse gilt dagegen heute als obsolet.",
+    "explanation": "Die orale Chemolitholyse soll laut Kapitel 10 nur bei Harnsäuresteinen als Erstlinientherapie eingesetzt werden."
+  },
+  {
+    "question": "Auf welchen Ziel-Urin-pH-Wert soll die orale Chemolitholyse bei Harnsäuresteinen eingestellt werden?",
+    "options": [
+      "7,0–7,2.",
+      "3,0–4,0.",
+      "9,5–10,0.",
+      "Eine Ziel-pH-Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Eine mehrfach tägliche Selbstmessung des Urin-pH ist dabei notwendig.",
+    "explanation": "Die orale Chemolitholyse bei Harnsäuresteinen soll auf einen Ziel-Urin-pH von 7,0–7,2 eingestellt werden."
+  },
+  {
+    "question": "Welches Risiko besteht laut dem Episodeninhalt bei einer zu lange durchgeführten Alkalisierung im Rahmen der Chemolitholyse?",
+    "options": [
+      "Das Risiko der Bildung von Kalziumphosphatsteinen.",
+      "Das Risiko einer Hypokaliämie.",
+      "Das Risiko einer Hyperurikämie.",
+      "Ein solches Risiko wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die Chemolitholyse kann auch adjuvant bei Restfragmenten eingesetzt werden.",
+    "explanation": "Bei einer zu lange durchgeführten Alkalisierung besteht laut Episodeninhalt das Risiko der Bildung von Kalziumphosphatsteinen."
+  },
+  {
+    "question": "In welchen Situationen werden offene oder laparoskopische Verfahren laut dem Episodeninhalt eingesetzt?",
+    "options": [
+      "Bei gleichzeitiger Korrektur anatomischer Abflusshindernisse und als Ausnahmeindikation bei sehr großen Steinen.",
+      "Als generelle Erstlinientherapie bei jedem Harnleiterstein.",
+      "Ausschließlich bei Kindern unter 2 Jahren.",
+      "Offene und laparoskopische Verfahren werden in der Leitlinie nicht mehr erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Ein Beispiel für ein solches Abflusshindernis ist eine subpelvine Stenose.",
+    "explanation": "Offene und laparoskopische Verfahren werden laut Episodeninhalt bei gleichzeitiger Korrektur anatomischer Abflusshindernisse (z. B. subpelvine Stenose) und als Ausnahmeindikation bei sehr großen Steinen eingesetzt."
+  },
+  {
+    "question": "Wie häufig tritt laut dem Episodeninhalt eine Steinstraße nach ESWL auf, und wodurch kann sie bei Steinen über 15 mm verhindert werden?",
+    "options": [
+      "In 4–7 % der Fälle; eine präoperative Schienung kann sie bei Steinen über 15 mm verhindern.",
+      "In über 90 % der Fälle; es gibt keine präventive Maßnahme.",
+      "Eine Steinstraße tritt laut Leitlinie praktisch nie auf.",
+      "Diese Angaben werden in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Bei Fieber oder Harnwegsinfektion im Rahmen einer Steinstraße soll eine perkutane Ableitung (alternativ DJ) erfolgen.",
+    "explanation": "Eine Steinstraße tritt laut Episodeninhalt in 4–7 % der Fälle nach ESWL auf; bei Steinen über 15 mm kann sie durch eine präoperative Schienung verhindert werden."
+  },
+  {
+    "question": "Was soll laut dem Episodeninhalt bei symptomatischer Steinstraße und erfolgloser konservativer Therapie erfolgen?",
+    "options": [
+      "Eine URS, ggf. ergänzt um eine ESWL auf den distalen Anteil.",
+      "Eine sofortige Nephrektomie.",
+      "Eine alleinige Beobachtung ohne weitere Maßnahme.",
+      "Eine Chemolitholyse unabhängig von der Steinart."
+    ],
+    "correct": 0,
+    "tip": "Eine asymptomatische Steinstraße kann dagegen konservativ mit medikamentöser Unterstützung behandelt werden.",
+    "explanation": "Bei symptomatischer Steinstraße und erfolgloser konservativer Therapie soll laut Episodeninhalt eine URS erfolgen, ggf. ergänzt um eine ESWL auf den distalen Anteil."
+  },
+  {
+    "question": "Wie viel Prozent der Patienten mit Restfragmenten ≤4 mm benötigten laut dem Episodeninhalt innerhalb von knapp 5 Jahren eine weitere Behandlung?",
+    "options": [
+      "21,4 %.",
+      "0 %.",
+      "100 %.",
+      "Diese Zahl wird in der Leitlinie nicht genannt."
+    ],
+    "correct": 0,
+    "tip": "Bei Infektsteinen liegt die Rezidivrate mit 78 % innerhalb von 2,2 Jahren noch deutlich höher.",
+    "explanation": "Laut Episodeninhalt benötigten 21,4 % der Patienten mit Restfragmenten ≤4 mm innerhalb von knapp 5 Jahren eine weitere Behandlung."
+  },
+  {
+    "question": "Welche Rezidivrate wird laut dem Episodeninhalt für Infektsteine als Restfragmente genannt, und innerhalb welchen Zeitraums?",
+    "options": [
+      "78 % innerhalb von 2,2 Jahren.",
+      "1 % innerhalb von 10 Jahren.",
+      "Infektsteine zeigen laut Leitlinie nie ein Rezidiv.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Restfragmente dienen als Nidus für neue Steine, persistierende Harnwegsinfekte und Koliken.",
+    "explanation": "Bei Infektsteinen liegt die Rezidivrate laut Episodeninhalt bei 78 % innerhalb von 2,2 Jahren."
+  },
+  {
+    "question": "Warum gilt der Begriff 'CIRF' (clinical insignificant residual fragments) laut dem Episodeninhalt als irreführend?",
+    "options": [
+      "Weil auch kleine Restfragmente ≤4 mm klinisch relevant werden können (z. B. als Nidus für neue Steine oder rezidivierende Infekte).",
+      "Weil es sich um eine veraltete, in der aktuellen Leitlinie nicht mehr verwendete Abkürzung handelt.",
+      "Weil der Begriff CIRF ausschließlich für Harnsäuresteine verwendet wird.",
+      "Dieser Begriff wird im Episodeninhalt nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie fordert daher, den Begriff CIRF nicht mehr zu verwenden.",
+    "explanation": "Der Begriff 'CIRF' gilt laut Episodeninhalt als irreführend, da auch kleine Restfragmente klinisch relevant werden können, etwa als Nidus für neue Steine, persistierende Harnwegsinfekte oder Koliken."
+  },
+  {
+    "question": "Welche Empfehlung gilt laut dem Episodeninhalt für Residualfragmente über 4 mm?",
+    "options": [
+      "Eine aktive Entfernung soll immer erfolgen.",
+      "Sie sollen grundsätzlich nur beobachtet werden.",
+      "Sie erfordern niemals eine weitere Intervention.",
+      "Für Fragmente über 4 mm wird keine Empfehlung gegeben."
+    ],
+    "correct": 0,
+    "tip": "Bei Fragmenten ≤4 mm richtet sich die Empfehlung danach, ob der Patient symptomatisch ist oder nicht.",
+    "explanation": "Bei Residualfragmenten über 4 mm soll laut Episodeninhalt immer eine aktive Entfernung erfolgen."
+  }
+]

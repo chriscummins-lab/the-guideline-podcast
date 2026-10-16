@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei Hauptkriterien sprechen laut Kapitel 6 für eine aktive Steintherapie statt weiterem Abwarten?",
+    "options": [
+      "Geringe Spontanabgangswahrscheinlichkeit, keine adäquate Analgesie und persistierende Obstruktion.",
+      "Ausschließlich das Alter des Patienten über 60 Jahre.",
+      "Ausschließlich die Jahreszeit des Auftretens.",
+      "Es gibt laut Leitlinie keine definierten Kriterien für eine aktive Therapie."
+    ],
+    "correct": 0,
+    "tip": "Präinterventionell soll dabei in der Regel die Kenntnis der Hohlsystemkonfiguration mittels Kontrastmittelbildgebung vorliegen.",
+    "explanation": "Kapitel 6 nennt geringe Spontanabgangswahrscheinlichkeit, fehlende adäquate Analgesie und persistierende Obstruktion als Hauptkriterien für eine aktive Steintherapie."
+  },
+  {
+    "question": "Welches Verfahren ist laut dem Episodeninhalt bei Patienten unter fortgeführter Antikoagulation (wenn Pausieren nicht möglich ist) das Verfahren der Wahl?",
+    "options": [
+      "Die Ureterorenoskopie (URS).",
+      "Die ESWL.",
+      "Die perkutane Nephrolithotomie (PCNL).",
+      "Eine aktive Steintherapie ist unter Antikoagulation generell kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "ASS 100 mg kann dabei in der Regel fortgeführt werden.",
+    "explanation": "Bei fortgeführter Antikoagulation, wenn ein Pausieren nicht möglich ist, gilt die URS laut Episodeninhalt als Verfahren der Wahl."
+  },
+  {
+    "question": "Welche Steinarten gelten laut dem Episodeninhalt als besonders hart und sprechen eher für PCNL/URS statt ESWL?",
+    "options": [
+      "Brushit, Kalziumoxalat-Monohydrat und Zystin.",
+      "Ausschließlich Harnsäuresteine.",
+      "Ausschließlich Struvitsteine.",
+      "Es gibt keine steinartspezifischen Therapieempfehlungen in der Leitlinie."
+    ],
+    "correct": 0,
+    "tip": "Röntgennegative Steine kommen dagegen ggf. für eine orale Chemolitholyse bei Harnsäure infrage.",
+    "explanation": "Brushit, Kalziumoxalat-Monohydrat und Zystin gelten laut Episodeninhalt als besonders harte Steinarten, die eher für PCNL/URS statt für ESWL sprechen."
+  },
+  {
+    "question": "Welche Therapiereihenfolge wird laut Abbildung 3 für proximale Harnleitersteine ≤10 mm empfohlen?",
+    "options": [
+      "1. ESWL, 2. URS.",
+      "1. URS, 2. ESWL.",
+      "Ausschließlich PCNL, unabhängig von der Größe.",
+      "Ausschließlich Chemolitholyse."
+    ],
+    "correct": 0,
+    "tip": "Bei proximalen Steinen über 10 mm wird dagegen URS oder ESWL gleichrangig angeboten.",
+    "explanation": "Für proximale Harnleitersteine bis 10 mm wird laut Abbildung 3 zunächst die ESWL, bei Versagen die URS empfohlen."
+  },
+  {
+    "question": "Welche Therapiereihenfolge gilt laut Abbildung 3 für Steine im mittleren oder distalen Harnleiter?",
+    "options": [
+      "1. URS, 2. ESWL.",
+      "1. ESWL, 2. URS.",
+      "Ausschließlich die offene Ureterolithotomie.",
+      "Ausschließlich die PCNL."
+    ],
+    "correct": 0,
+    "tip": "Die Steinfreiheitsraten nach Tabelle 9 liegen distal bei URS bei 93 % gegenüber 74 % bei ESWL.",
+    "explanation": "Für Steine im mittleren oder distalen Harnleiter wird laut Abbildung 3 zunächst die URS, bei Versagen die ESWL empfohlen."
+  },
+  {
+    "question": "Wie lautet die empfohlene Therapiereihenfolge laut Abbildung 4 für Nierensteine (außer Unterpol) über 20 mm?",
+    "options": [
+      "1. PCNL, 2. URS oder ESWL.",
+      "1. ESWL, 2. PCNL.",
+      "Ausschließlich die alleinige Chemolitholyse.",
+      "Eine aktive Therapie ist bei dieser Größe nicht indiziert."
+    ],
+    "correct": 0,
+    "tip": "Bei Steinen von 10–20 mm sind ESWL, PCNL und URS gleichrangige Optionen.",
+    "explanation": "Für Nierensteine über 20 mm (außer Unterpol) wird laut Abbildung 4 zunächst die PCNL empfohlen, mit URS oder ESWL als Alternativen."
+  },
+  {
+    "question": "In welchem Bereich liegt laut Kapitel 6.4.1 die Steinfreiheitsrate (SFR) der ESWL bei Unterpolsteinen?",
+    "options": [
+      "25–85 %.",
+      "Konstant bei 99 %.",
+      "Unter 1 %.",
+      "Diese Angabe wird in der Leitlinie nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Diese breite Spanne hängt stark von negativen Erfolgsprädiktoren wie Kelchhalslänge und -winkel ab.",
+    "explanation": "Die Steinfreiheitsrate der ESWL bei Unterpolsteinen liegt laut Kapitel 6.4.1 zwischen 25–85 %."
+  },
+  {
+    "question": "Ab welcher Steingröße kann laut dem Episodeninhalt bei Unterpolsteinen eine flexible URS erwogen werden, wobei die SFR sinkt und mehr Zweiteingriffe nötig werden?",
+    "options": [
+      "Bei Steinen über 1,5 cm.",
+      "Bei Steinen unter 2 mm.",
+      "Eine flexible URS wird bei Unterpolsteinen generell nicht angeboten.",
+      "Diese Information wird im Episodeninhalt nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Diese Option muss gegen eine sinkende Steinfreiheitsrate und eine höhere Rate an Zweiteingriffen abgewogen werden.",
+    "explanation": "Bei Unterpolsteinen über 1,5 cm kann laut Episodeninhalt eine flexible URS erwogen werden, wobei die Steinfreiheitsrate sinkt und mehr Zweiteingriffe erforderlich werden."
+  },
+  {
+    "question": "Wann soll laut Kapitel 6.5 bei asymptomatischen Patienten nach Steintherapie eine Ultraschall-Nachsorge erfolgen?",
+    "options": [
+      "Innerhalb von 3 Monaten.",
+      "Erst nach 5 Jahren.",
+      "Eine Nachsorge ist bei asymptomatischen Patienten nicht erforderlich.",
+      "Ausschließlich am Tag der Entlassung."
+    ],
+    "correct": 0,
+    "tip": "Bei Verdacht auf relevante Residuen kann zusätzlich ein low-dose natives CT erfolgen.",
+    "explanation": "Kapitel 6.5 sieht bei asymptomatischen Patienten eine Ultraschall-Nachsorge innerhalb von 3 Monaten vor."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 5 im Zusammenhang mit einem 15-mm-Unterpolstein diskutiert?",
+    "options": [
+      "ESWL bei einem 15-mm-Unterpolstein mit langem, engem Kelchhals anzuwenden, obwohl hier ungünstige Erfolgsprädiktoren vorliegen.",
+      "Bei jedem Unterpolstein grundsätzlich primär eine PCNL durchzuführen.",
+      "Unterpolsteine generell unbehandelt zu lassen.",
+      "Eine flexible URS bei jedem noch so kleinen Unterpolstein einzusetzen."
+    ],
+    "correct": 0,
+    "tip": "Ein langer, enger Kelchhals zählt zu den negativen Erfolgsprädiktoren, die gegen eine ESWL bei Unterpolsteinen sprechen.",
+    "explanation": "Der diskutierte Fallstrick ist, bei einem 15-mm-Unterpolstein mit langem, engem Kelchhals eine ESWL anzuwenden, obwohl in dieser Konstellation ungünstige Erfolgsprädiktoren gegen dieses Verfahren sprechen."
+  }
+]

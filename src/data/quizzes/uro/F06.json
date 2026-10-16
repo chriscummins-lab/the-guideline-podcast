@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Faktoren limitieren laut Kapitel 7.1 den Erfolg einer ESWL?",
+    "options": [
+      "Harte Steine über 1.000 HU, steiler Unterkelch-Nierenbecken-Winkel, langer Kelchhals (>10 mm) und enges Infundibulum (<5 mm).",
+      "Ausschließlich das Alter des Patienten.",
+      "Ausschließlich die Tageszeit der Behandlung.",
+      "Es werden in der Leitlinie keine erfolgslimitierenden Faktoren genannt."
+    ],
+    "correct": 0,
+    "tip": "Auch Skelettdeformitäten und ein großer Haut-Stein-Abstand bei Adipositas können den Erfolg limitieren.",
+    "explanation": "Kapitel 7.1 nennt harte Steine über 1.000 HU, einen steilen Unterkelch-Nierenbecken-Winkel, einen langen Kelchhals (>10 mm) und ein enges Infundibulum (<5 mm) als erfolgslimitierende Faktoren der ESWL."
+  },
+  {
+    "question": "Wie soll laut dem Episodeninhalt bei Patienten unter Antikoagulation/Gerinnungsstörung vor und nach einer ESWL vorgegangen werden?",
+    "options": [
+      "Mit einem Bridging von 24 Stunden vor bis 48 Stunden nach dem Eingriff; ASS kann ggf. fortgeführt werden.",
+      "Die Antikoagulation muss immer mindestens 4 Wochen vor dem Eingriff abgesetzt werden.",
+      "Eine Antikoagulation stellt keine Besonderheit für die ESWL dar.",
+      "ESWL ist bei jeder Form der Antikoagulation absolut kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Gerinnungsstörungen gehören insgesamt zu den Kontraindikationen der ESWL.",
+    "explanation": "Bei Antikoagulation/Gerinnungsstörung soll laut Episodeninhalt ein Bridging von 24 Stunden vor bis 48 Stunden nach dem Eingriff erfolgen, wobei ASS ggf. fortgeführt werden kann."
+  },
+  {
+    "question": "Welche Frequenz wird laut dem Episodeninhalt für die Stoßwellenapplikation bei der ESWL empfohlen, statt der früher üblichen 120/min?",
+    "options": [
+      "1,0–1,5 Hz bzw. 60–90/min.",
+      "5 Hz bzw. 300/min.",
+      "0,01 Hz bzw. 1 Stoßwelle pro Minute.",
+      "Eine Frequenzempfehlung wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Eine niedrigere Frequenz (60–90 statt 120/min) verbessert die Steinfreiheitsrate.",
+    "explanation": "Für die Stoßwellenapplikation wird laut Episodeninhalt eine Frequenz von 1,0–1,5 Hz bzw. 60–90/min empfohlen, statt der früher üblichen 120/min."
+  },
+  {
+    "question": "Ist laut dem Episodeninhalt vor einer ESWL routinemäßig eine DJ-Schiene einzulegen?",
+    "options": [
+      "Nein, keine routinemäßige DJ-Einlage vor ESWL.",
+      "Ja, eine DJ-Schiene ist vor jeder ESWL obligat.",
+      "Nur bei Patienten über 70 Jahren.",
+      "Diese Frage wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Bei neu auftretendem Fieber soll ein Schienenwechsel erwogen werden, auch bei regelrechter Lage der Schiene.",
+    "explanation": "Laut Episodeninhalt soll keine routinemäßige DJ-Einlage vor einer ESWL erfolgen."
+  },
+  {
+    "question": "Was gilt laut dem Episodeninhalt für die Antibiotikaprophylaxe bei ESWL?",
+    "options": [
+      "Sie ist nicht routinemäßig erforderlich, außer bei Infektsteinen, Fremdmaterial oder Bakteriurie.",
+      "Sie soll bei jedem Patienten obligat erfolgen.",
+      "Sie ist bei ESWL grundsätzlich kontraindiziert.",
+      "Diese Frage wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung erlaubt auch Kriterien für eine ambulante ESWL-Durchführung.",
+    "explanation": "Eine Antibiotikaprophylaxe ist bei ESWL laut Episodeninhalt nicht routinemäßig erforderlich, außer bei Infektsteinen, Fremdmaterial oder Bakteriurie."
+  },
+  {
+    "question": "Ab wann ist laut dem Episodeninhalt der Behandlungserfolg einer ESWL (Steinfreiheitsrate) sinnvoll beurteilbar?",
+    "options": [
+      "Erst nach 6–12 Wochen.",
+      "Unmittelbar nach dem Eingriff.",
+      "Erst nach 5 Jahren.",
+      "Eine solche Angabe wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Nach Tabelle 10 liegt die SFR für Nierenbecken/obere/mittlere Kelche bei 85–90 %, für den Unterkelch bei 50–60 %.",
+    "explanation": "Der Behandlungserfolg der ESWL ist laut Episodeninhalt sinnvoll erst nach 6–12 Wochen beurteilbar."
+  },
+  {
+    "question": "Welche additiven Maßnahmen werden laut dem Episodeninhalt nach ESWL zur Unterstützung der Fragmentausscheidung genannt?",
+    "options": [
+      "Perkussion, Vibration, Trendelenburg-Lagerung und forcierte Diurese.",
+      "Ausschließlich eine strikte Bettruhe.",
+      "Ausschließlich eine kochsalzfreie Diät.",
+      "Additive Maßnahmen werden in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll laut Leitlinie nach ESWL eine MET erfolgen.",
+    "explanation": "Als additive Maßnahmen nach ESWL werden Perkussion, Vibration, Trendelenburg-Lagerung und forcierte Diurese genannt."
+  },
+  {
+    "question": "Wie häufig tritt laut Episodeninhalt eine Steinstraße nach ESWL als Komplikation auf, und in welchem Bereich liegt die Rate symptomatischer Hämatome?",
+    "options": [
+      "Steinstraße in 4–7 % der Fälle; symptomatische Hämatome unter 1 % (asymptomatische bis 19 %).",
+      "Steinstraße in über 90 % der Fälle; Hämatome praktisch nie.",
+      "Diese Komplikationen treten laut Leitlinie bei der ESWL nicht auf.",
+      "Eine Steinstraße tritt ausschließlich nach PCNL auf, nie nach ESWL."
+    ],
+    "correct": 0,
+    "tip": "Bei symptomatischem Hämatom ist eine stationäre Überwachung erforderlich, bei Obstruktion und Sepsiszeichen eine Harnableitung.",
+    "explanation": "Eine Steinstraße tritt nach ESWL laut Episodeninhalt in 4–7 % der Fälle auf; symptomatische Hämatome treten in unter 1 % der Fälle auf, asymptomatische Hämatome dagegen bei bis zu 19 %."
+  },
+  {
+    "question": "Bis zu welchem Zeitpunkt soll laut dem Episodeninhalt spätestens eine Röntgenkontrolle nach ESWL erfolgen?",
+    "options": [
+      "Spätestens nach 12 Wochen.",
+      "Erst nach 2 Jahren.",
+      "Eine Röntgenkontrolle ist nach ESWL nicht vorgesehen.",
+      "Ausschließlich unmittelbar am Tag der Behandlung."
+    ],
+    "correct": 0,
+    "tip": "Dies dient der Dokumentation des Behandlungserfolgs bzw. etwaiger Residuen.",
+    "explanation": "Eine Röntgenkontrolle soll laut Episodeninhalt spätestens nach 12 Wochen nach ESWL erfolgen."
+  },
+  {
+    "question": "Welcher Fallstrick wird in Episode 6 im Zusammenhang mit einem Patienten unter Apixaban diskutiert?",
+    "options": [
+      "Einen Patienten unter Apixaban und unkontrolliertem Blutdruck ohne entsprechende Vorsichtsmaßnahmen auf die ESWL-Liste zu setzen.",
+      "Apixaban generell nicht als Kontraindikation für eine ESWL zu werten.",
+      "Jede Form der Antikoagulation unabhängig vom Substanztyp gleich zu behandeln.",
+      "Einen unkontrollierten Hypertonus als irrelevant für die ESWL-Planung einzustufen."
+    ],
+    "correct": 0,
+    "tip": "Sowohl Gerinnungsstörungen als auch ein unkontrollierter Hypertonus zählen zu den Kontraindikationen der ESWL.",
+    "explanation": "Der diskutierte Fallstrick ist, einen Patienten unter Apixaban und mit unkontrolliertem Blutdruck ohne entsprechende Vorsichtsmaßnahmen auf die ESWL-Liste zu setzen, obwohl beide Faktoren Kontraindikationen bzw. relevante Risikofaktoren darstellen."
+  }
+]

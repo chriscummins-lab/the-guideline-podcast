@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches Schmerzziel nach der numerischen Ratingskala (NRS) wird laut Kapitel 3.1 bei der Behandlung der akuten Nierenkolik angestrebt?",
+    "options": [
+      "NRS ≤3 im Ruheintervall bzw. NRS ≤5 während einer Kolikepisode.",
+      "NRS 0 unter allen Umständen, auch während der akuten Kolik.",
+      "NRS ≤8 als generell akzeptables Therapieziel.",
+      "Ein konkretes NRS-Ziel wird in der Leitlinie nicht benannt."
+    ],
+    "correct": 0,
+    "tip": "Schmerzen können mit dieser numerischen Schmerzskala eingeschätzt werden.",
+    "explanation": "Das Schmerzziel nach NRS liegt bei ≤3 im Ruheintervall bzw. ≤5 während einer Kolikepisode."
+  },
+  {
+    "question": "Welche Analgetika sind laut Empfehlung 3.1 bei akuter Nierenkolik Opioiden vorzuziehen (bei normaler Nierenfunktion)?",
+    "options": [
+      "Metamizol, Paracetamol und Diclofenac.",
+      "Ausschließlich Morphin als Mittel der ersten Wahl.",
+      "Ausschließlich Codein.",
+      "Eine Rangfolge der Analgetika wird nicht vorgegeben."
+    ],
+    "correct": 0,
+    "tip": "Nicht-steroidale Antiphlogistika, Paracetamol und Pyrazolon-Derivate wie Metamizol sind in der Wirksamkeit bei der Nierenkolik gut belegt.",
+    "explanation": "Empfehlung 3.1 nennt Metamizol, Paracetamol und Diclofenac (bei normaler Nierenfunktion) als Analgetika, die Opioiden vorzuziehen sind."
+  },
+  {
+    "question": "In welcher Dosierung sind Metamizol und Diclofenac laut dem Hintergrundtext zu Kapitel 3.1 in der analgetischen Wirkung äquivalent, und welche Dosis ist diesem Vergleich überlegen?",
+    "options": [
+      "Metamizol 1 g ist äquivalent zu Diclofenac 75 mg; 2 g Metamizol sind überlegen.",
+      "Metamizol 100 mg ist äquivalent zu Diclofenac 1000 mg.",
+      "Eine Äquivalenzdosis wird in der Leitlinie nicht angegeben.",
+      "Diclofenac ist in jeder Dosierung dem Metamizol überlegen."
+    ],
+    "correct": 0,
+    "tip": "Metamizol wirkt zusätzlich spasmolytisch, was bei kolikartigen Schmerzen von Vorteil sein kann.",
+    "explanation": "Metamizol 1 g und Diclofenac 75 mg sind laut Hintergrundtext in der Wirkung äquivalent, wobei 2 g Metamizol dieser Kombination überlegen sind."
+  },
+  {
+    "question": "Welches seltene, aber relevante Risiko ist mit der Gabe von Metamizol verbunden?",
+    "options": [
+      "Eine Agranulozytose.",
+      "Eine akute Leberinsuffizienz bei jeder Einnahme.",
+      "Eine obligate Verlängerung der Blutungszeit.",
+      "Ein generelles Risiko wird für Metamizol nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die Inzidenz der Agranulozytose unter Metamizol wird mit 0,1 % bis 0,0001 % angegeben.",
+    "explanation": "Mit der Gabe von Metamizol ist das seltene, aber relevante Risiko einer Agranulozytose verbunden."
+  },
+  {
+    "question": "Welches Opioid sollte laut dem Hintergrundtext zu Kapitel 3.1 aufgrund belegter unerwünschter Wirkungen, insbesondere Übelkeit, nicht verwendet werden?",
+    "options": [
+      "Pethidin.",
+      "Tramadol in jeder Dosierung.",
+      "Alle Opioide sind gleichermaßen unproblematisch.",
+      "Morphin wird als einziges Opioid explizit ausgeschlossen."
+    ],
+    "correct": 0,
+    "tip": "Opioide sollen generell nur ergänzend bei unzureichender Wirkung der Nicht-Opioide in zweiter Linie gegeben werden.",
+    "explanation": "Pethidin sollte laut Hintergrundtext aufgrund belegter unerwünschter Wirkungen, insbesondere Übelkeit, nicht verwendet werden."
+  },
+  {
+    "question": "Welches Medikament sollte laut dem Episodeninhalt bei der Behandlung der Nierenkolik nicht eingesetzt werden, obwohl es umgangssprachlich als 'Klassiker' gilt?",
+    "options": [
+      "N-Butylscopolamin.",
+      "Metamizol.",
+      "Diclofenac.",
+      "Paracetamol."
+    ],
+    "correct": 0,
+    "tip": "Dieser Fallstrick wird in der Episode explizit als häufige Fehlpraxis diskutiert.",
+    "explanation": "N-Butylscopolamin sollte laut Leitlinie bei der Nierenkolik nicht eingesetzt werden, obwohl es umgangssprachlich oft als 'Klassiker' gegen die Kolik gilt."
+  },
+  {
+    "question": "Bei welchen Patienten sollten Diclofenac und Ibuprofen laut dem Hintergrundtext nur unter sorgfältiger Abwägung gegeben werden?",
+    "options": [
+      "Bei Gefäßpatienten, wegen eines erhöhten Risikos kardialer ischämischer Ereignisse.",
+      "Bei allen Patienten unabhängig von Komorbiditäten.",
+      "Ausschließlich bei Kindern unter 12 Jahren.",
+      "Eine solche Einschränkung wird in der Leitlinie nicht beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Diclofenac ist zudem bei schwerer Niereninsuffizienz kontraindiziert.",
+    "explanation": "Diclofenac und Ibuprofen erhöhen bei Gefäßpatienten das Risiko kardialer ischämischer Ereignisse und sollten daher nur unter sorgfältiger Abwägung gegeben werden."
+  },
+  {
+    "question": "Welche Analgetika können laut dem Episodeninhalt während Schwangerschaft und Stillzeit eingesetzt werden?",
+    "options": [
+      "Paracetamol und Opioide, während NSAIDs nur nach sorgfältiger Nutzen-Risiko-Abwägung infrage kommen.",
+      "Ausschließlich NSAIDs ohne jede Einschränkung.",
+      "Keinerlei Analgetika sind in Schwangerschaft und Stillzeit vertretbar.",
+      "Ausschließlich Metamizol in Höchstdosis."
+    ],
+    "correct": 0,
+    "tip": "Bei NSAIDs bestehen dabei trimesterspezifische Bedenken.",
+    "explanation": "In Schwangerschaft und Stillzeit können laut Episodeninhalt Paracetamol und Opioide eingesetzt werden, während NSAIDs nur nach sorgfältiger Nutzen-Risiko-Abwägung infrage kommen."
+  },
+  {
+    "question": "Welche empfohlenen Laboruntersuchungen nennt Tabelle 6 im Zusammenhang mit der Behandlung der akuten Nierenkolik, zusätzlich zu Urinstix, Sediment/Kultur und Blutbild?",
+    "options": [
+      "Kreatinin, Harnsäure, (ionisiertes) Kalzium, Natrium, Kalium und CRP.",
+      "Ausschließlich die Leberwerte.",
+      "Ausschließlich der Blutzucker.",
+      "Keine weiteren Laborparameter werden empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Bei wahrscheinlicher Intervention soll zusätzlich die Gerinnung bestimmt werden.",
+    "explanation": "Tabelle 6 nennt zusätzlich zu Urinstix, Sediment/Kultur und Blutbild die Bestimmung von Kreatinin, Harnsäure, (ionisiertem) Kalzium, Natrium, Kalium und CRP."
+  },
+  {
+    "question": "Welche Entlassungskriterien werden laut dem Episodeninhalt bei medikamentöser expulsiver Therapie (MET) genannt?",
+    "options": [
+      "Infekt ausgeschlossen, ausreichende Analgesie und Kooperationsfähigkeit des Patienten.",
+      "Der Patient muss vollständig schmerzfrei sein, bevor er die Klinik verlassen darf.",
+      "Es existieren laut Leitlinie keine definierten Entlassungskriterien.",
+      "Eine stationäre Aufnahme ist bei MET immer zwingend erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Bei Status colicus sollte dagegen eine Harnleiterschiene, Nephrostomie oder primäre Steinentfernung angeboten werden.",
+    "explanation": "Als Entlassungskriterien bei medikamentöser expulsiver Therapie werden ausgeschlossener Infekt, ausreichende Analgesie und Kooperationsfähigkeit des Patienten genannt."
+  }
+]
