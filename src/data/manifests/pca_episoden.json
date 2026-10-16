@@ -12,9 +12,9 @@
         "3",
         "4.1"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 1 – Neuerungen der Version 8, Risikofaktoren & risikoadaptierte Früherkennung\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf die „Wesentlichen Neuerungen“, Kapitel 2 (Einführung, Methodik), Kapitel 3 (Epidemiologie, Risikofaktoren, Prävention) und Kapitel 4.1 (Früherkennung, Empfehlungen 4.1–4.10, Tabelle 7) der S3-Leitlinie Prostatakarzinom (AWMF 043-022OL, Version 8.1, August 2025).\nInhalte:\n- Die wichtigsten Neuerungen der Version 8 im Schnelldurchlauf: keine DRU zur Früherkennung, PSA-basierte risikoadaptierte Früherkennung, gestärkte MRT, keine Biopsie bei PI-RADS 1–2, Niedrigrisiko nur noch Aktive Überwachung, neue Empfehlungen zu Watchful Waiting, Hochrisiko-BCR, mHSPC und Lutetium-PSMA.\n- Methodik kurz: Empfehlungsgrade A/B/0 („soll/sollte/kann“), Expertenkonsens, Konsensstärke.\n- Epidemiologie und Risikofaktoren: Alter (Empf. 3.1), familiäre Belastung (Empf. 3.2); Testosteronsubstitution bei Hypogonadismus möglich, vorher DRU und PSA (Empf. 3.3, 3.4); 5-Alpha-Reduktase-Hemmer nicht zur Prävention zugelassen (Statement 3.6).\n- Keine digital-rektale Untersuchung zur Früherkennung (Empf. 4.1) – Begründung mit PROBASE.\n- Ergebnisoffene Beratung ab 45 Jahren bei Lebenserwartung ≥10 Jahre, dann PSA-Angebot (Empf. 4.2, 4.3); risikoadaptierte Intervalle nach Basis-PSA: <1,5 ng/ml 5-jährlich, 1,5–2,99 ng/ml 2-jährlich, ≥3 ng/ml (kontrolliert) Diagnostik (Empf. 4.4); Kontrolle innerhalb von 3 Monaten unter Berücksichtigung von Einflussfaktoren (Empf. 4.5); dann urologische Konsultation und MRT (Empf. 4.6).\n- Vor- und Nachteile nach Tabelle 7 (vermiedene Todesfälle und Metastasen, Überdiagnose, falsch-positive Befunde); Labor-Fallstricke (gleiche Methode im Verlauf, keine Point-of-Care-Tests).\n- Familiäre Belastung ab 45 Jahren (Empf. 4.7); pathogene Varianten in BRCA2, MSH2, MSH6 ab 40 Jahren mit PSA und MRT (Empf. 4.8–4.10).\nFormat & Moderation:\n- Zwei urologische Kollegen in der PSA-Sprechstunde, die einen 45-jährigen ratsuchenden Mann und seinen Bruder mit BRCA2-Variante besprechen.\n- Kollegial, präzise und differenziert, mit feinem ärztlichem Humor. Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: einmalig erhöhter PSA-Wert nach der Radtour – und sofort zur Biopsie?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 22
     },
     {
       "folge": 2,
@@ -23,9 +23,9 @@
       "kapitel": [
         "4.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 2 – Diagnostik: MRT, PI-RADS, Biopsieindikation & Biopsietechnik\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.2 (Diagnostik, Empfehlungen 4.11–4.38, Abbildung 2) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- MRT vor Biopsie ab bestätigtem PSA >3 ng/ml, sofern handlungsrelevant (Empf. 4.12); vorher individuelles Risiko besprechen inkl. DRU und PSA-Dichte (Empf. 4.13); Qualität: Q2-zertifizierte Befundung, PI-QUAL (Empf. 4.15).\n- PSA-Dichte und PI-RADS als stärkste Prädiktoren; Risikokalkulatoren.\n- Biopsieindikation: PI-RADS 4/5 gezielt mit 2–3 Zylindern pro Herd (Empf. 4.17); PI-RADS 3 bei niedrigem Risiko nicht biopsieren (Empf. 4.18); PI-RADS 1–2 keine Biopsie (Empf. 4.23); Fusions- oder In-bore-Biopsie (Empf. 4.19); zusätzliche systematische Biopsie bei Erstbiopsie (Empf. 4.20), bei Re-Biopsie verzichtbar (Empf. 4.21).\n- Ultraschall: TRUS/Hochfrequenz-US ergänzend möglich; CEUS, Elastographie, Histoscanning nicht zur Primärdiagnostik (Empf. 4.24–4.26).\n- Nach negativer Biopsie: MRT nachholen (Empf. 4.28), keine weitere Invasivität bei stabilen Parametern (Empf. 4.29).\n- Technik: transperineal oder transrektal (Empf. 4.30); systematisch 10–12 Zylinder (Empf. 4.31); Antibiotikaprophylaxe transrektal (Empf. 4.32), Rektalabstrich bei Risikopatienten (Empf. 4.33), Povidon-Jod (Empf. 4.34), Verzicht auf Prophylaxe transperineal möglich (Empf. 4.35); Anästhesie (Empf. 4.36).\n- Humangenetische Beratung bei metastasiertem PCa und familiärem Tumorrisikosyndrom (Empf. 4.37, 4.38).\n- Biomarker und PSMA-PET in der Primärdiagnostik: Einordnung ohne Leitlinienempfehlung.\nFormat & Moderation:\n- Zwei urologische Kollegen bei der MRT-Demonstration, danach im Biopsieraum: drei Fälle mit PI-RADS 2, 3 und 5.\n- Präzise, kollegial, mit feinem ärztlichem Humor; Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: PI-RADS 3 bei niedriger PSA-Dichte reflexhaft biopsieren.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 25
     },
     {
       "folge": 3,
@@ -34,9 +34,9 @@
       "kapitel": [
         "4.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 3 – Stadieneinteilung, Risikoklassifikationen & Staging mit PSMA-PET\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.3 (Stadieneinteilung, Empfehlungen 4.39–4.46, Tabellen 9–14) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- UICC: lokal begrenzt (T1–2 N0 M0), lokal fortgeschritten (T3–4 N0 M0), N1/M1.\n- Klassifikationen im Vergleich: D’Amico, NCCN (günstig/ungünstig intermediär, sehr hohes Risiko), EAU, Cambridge Prognostic Groups – wo sie sich widersprechen.\n- Das klinische Beispiel der Leitlinie (cT1c, ISUP 3, PSA 16 ng/ml, MRT-Samenblaseninfiltration): Stadienmigration und Konsequenz für die ADT-Dauer; Basis der Klassifikation dokumentieren; Tumorboard.\n- T-Kategorie aus DRU und MRT (Empf. 4.39); Grenzen der Bildgebung für EPE und Samenblaseninfiltration.\n- Risikoadaptiertes Staging: keins bei Niedrigrisiko (Empf. 4.40), Verzicht bei günstig intermediärem Risiko (Empf. 4.41), Staging ab ungünstig intermediärem Risiko (Empf. 4.43).\n- PSMA-PET genauer als CT plus Knochenszintigraphie (Statement 4.42, proPSMA); Einsatz bei ISUP ≥3, cT3/4 oder PSA ≥20 ng/ml (Empf. 4.44); PROMISE-v2; unspezifischer Knochenuptake bei 18F-PSMA-1007.\n- Nur extern validierte Nomogramme (Empf. 4.45, 4.46).\nFormat & Moderation:\n- Vorbereitung des Tumorboards: zwei Kollegen ordnen drei Patienten in die Klassifikationen ein.\n- Strukturiert, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Knochenszintigraphie und CT „wie früher“ – oder PSMA-PET beim Niedrigrisiko.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 20
     },
     {
       "folge": 4,
@@ -45,9 +45,9 @@
       "kapitel": [
         "5"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 4 – Pathologie: Was im Befund stehen muss\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5 (Pathologisch-anatomische Diagnostik, Empfehlungen 5.1–5.24) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Was der Urologe liefern muss (Empf. 5.1): klinische Angaben inkl. PSA und PI-RADS; Prostatektomiepräparat ohne vorherige Gewebeentnahme.\n- Karzinomdiagnose (Empf. 5.2–5.6): ASAP, Immunhistochemie nur in unklaren Fällen, nur High-Grade-PIN berichten.\n- Grading (Empf. 5.7–5.9): ISUP-Graduierungsgruppen, intraduktales Karzinom und cribriforme Anteile – Bedeutung für die Aktive Überwachung.\n- Stanzbiopsie-Befund (Empf. 5.10–5.13): Lokalisation, Ausdehnung in mm, Gleason pro Stanze bzw. pro Zielläsion, Perineuralscheideninfiltration.\n- Prostatektomiepräparat (Empf. 5.14–5.16): pT3a fokal vs. etabliert, R1 mit Lokalisation, Ausdehnung und Gleason-Muster am Rand.\n- TUR-P/Enukleation (Empf. 5.17), Lymphadenektomie (Empf. 5.18).\n- Prognosefaktoren (Empf. 5.19–5.21): Gleason, TNM, R-Status; genomische Tests nur, wenn sie die Therapie ändern; BRCA1/2- und MMR-Testung beim mCRPC (Empf. 5.22, 5.23).\nFormat & Moderation:\n- Ein urologischer Assistenzarzt und eine Pathologin am Doppelkopfmikroskop.\n- Interdisziplinär, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: ISUP 2 mit cribriformem Anteil – trotzdem Aktive Überwachung?\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 17
     },
     {
       "folge": 5,
@@ -58,9 +58,9 @@
         "6.2",
         "6.8"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 5 – Therapieplanung, Aktive Überwachung & Watchful Waiting\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.1 (Therapieplanung und Aufklärung), Kapitel 6.2 (Niedriges Risikoprofil, inkl. Abbildung 6) und Kapitel 6.8 (Watchful Waiting) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Therapieplanung: Abwägung Therapiefolgen vs. verpasste Behandlung (Empf. 6.3); Aufklärung durch Urologe und Strahlentherapeut (Empf. 6.4); Komorbidität mit Charlson-Score/ASA (Empf. 6.5); Nebenwirkungsprofile von RPE und Strahlentherapie.\n- Kernänderung: Niedrigrisiko (ISUP 1, D’Amico low risk) soll aktiv überwacht werden (Empf. 6.6).\n- AS-Protokoll: PSA in den ersten 2 Jahren alle 6 Monate bei ISUP 1, alle 3 Monate bei ISUP 2 (Empf. 6.7); erste Re-Biopsie mit initialer MRT nach 12–18 Monaten, ohne initiale MRT innerhalb von 6 Monaten (Empf. 6.8); weitere Biopsien spätestens alle 3 Jahre (Empf. 6.10); PSA-Dichte und Verdopplungszeit.\n- Beendigung der AS, Patientenwunsch, Angst, Shared Decision Making.\n- Watchful Waiting: Definition (Statement 6.90), keine anlassfreien PSA-Kontrollen oder Bildgebung (Empf. 6.91), Lebenserwartung unter 10 Jahren (Empf. 6.92), palliative Therapie bei symptomatischer Progression (Empf. 6.93); Abschätzung mit Komorbidität, Gebrechlichkeit, mentalem Status.\n- Abgrenzung AS vs. WW und Wechsel im Verlauf.\nFormat & Moderation:\n- AS-Sprechstunde: ein 62-Jähriger mit ISUP 1, der „das Ding raushaben“ will, danach ein 86-Jähriger mit Zufallsbefund.\n- Empathisch, evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: isolierter PSA-Anstieg als OP-Trigger – und unter Watchful Waiting „nur mal kurz PSA“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 21
     },
     {
       "folge": 6,
@@ -72,9 +72,9 @@
         "6.3.2",
         "6.7"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 6 – Intermediäres & hohes Risiko: Aktive Überwachung, radikale Prostatektomie & fokale Therapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.3 (Einleitung, Abbildung 7), 6.3.1 (Aktive Überwachung beim intermediären Risiko), 6.3.2 (Radikale Prostatektomie, Empf. 6.15–6.18) und 6.7 (Fokale Therapie) der S3-Leitlinie Prostatakarzinom. Die Strahlentherapie folgt in Episode 7.\nInhalte:\n- Risikoprofile in Kapitel 6: D’Amico und NCCN (günstig/ungünstig intermediär, hoch, sehr hoch).\n- AS beim intermediären Risiko: Voraussetzungen gemäß Empf. 6.13 und 6.14, nur mit MRT, stringenteres Monitoring.\n- RPE beim intermediären (Empf. 6.15) und hohen Risiko, ggf. multimodal (Empf. 6.16), bei Lebenserwartung über 10 Jahre.\n- Lymphadenektomie: kann beim intermediären Risiko (Empf. 6.17), sollte ausgedehnt bei hohem/sehr hohem Risiko (Empf. 6.18).\n- Zugangswege ohne bewiesene Überlegenheit; Nerverhalt nur bei niedrigem seitenspezifischem EPE-Risiko; Pflichtinhalte der OP-Aufklärung; keine bevorzugte Empfehlung RPE vs. Strahlentherapie.\n- Fokale Therapie: nur VTP mit RCT gegen AS (Statement 6.85); unzureichende Daten für fokales HIFU und Kryotherapie (6.86, 6.87); weitere Verfahren nur in Studien (6.89); Persistenz- und Folgetherapieraten.\nFormat & Moderation:\n- OP-Vorgespräch zu einem 64-Jährigen mit ungünstig intermediärem Risiko und einseitigem EPE-Verdacht, der nach „HIFU statt OP“ fragt.\n- Fachlich detailliert, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: beidseitiger Nerverhalt trotz MRT-Hinweis auf Kapselüberschreitung.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 24
     },
     {
       "folge": 7,
@@ -84,9 +84,9 @@
         "6.3.3",
         "6.3.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 7 – Strahlentherapie des lokal begrenzten Prostatakarzinoms: perkutan & Brachytherapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.3.3 (Perkutane Strahlentherapie, Empf. 6.19–6.34) und Kapitel 6.3.4 (Brachytherapie, Empf. 6.39–6.53) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Standard IMRT + IGRT; PROTECT: gleiches krebsspezifisches und Gesamtüberleben nach RT und RPE.\n- Intermediäres Risiko: EBRT (Empf. 6.21) plus ADT 4–6 Monate (Empf. 6.22, 6.23); Standardfraktionierung 74–80 Gy oder moderate Hypofraktionierung (Empf. 6.24); extreme Hypofraktionierung analog HYPO-RT/PACE-B mit Aufklärung über GU-Toxizität (Empf. 6.26, 6.27); Protonen ohne Vorteil (Statement 6.29).\n- Hohes Risiko: EBRT (Empf. 6.30) plus ADT 24–36 Monate, Beginn bis 6 Monate vor RT, Dauer individuell (Empf. 6.31–6.34).\n- Brachytherapie: LDR-Monotherapie beim günstig intermediären Risiko (Empf. 6.39, 6.40); LDR- oder HDR-Boost plus EBRT beim ungünstig intermediären Risiko mit ADT 4–6 Monate (Empf. 6.41–6.46) und beim hohen Risiko mit ADT 24–36 Monate (Empf. 6.47–6.52); keine Brachy-Monotherapie beim hohen Risiko (Empf. 6.53); Aufklärung über Spättoxizität ≥ Grad 3.\n- Studienlage zum Boost (ASCENDE-RT: bessere biochemische Kontrolle, mehr GU-Toxizität, kein Überlebensvorteil); Nebenwirkungsprofile, Zweitmalignome.\nFormat & Moderation:\n- Interdisziplinäre Sprechstunde: ein Urologe und eine Strahlentherapeutin beraten drei Patienten mit günstig intermediärem, ungünstig intermediärem und hohem Risiko.\n- Sachlich, präzise, kollegial; Dosen und ADT-Dauern ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: Seed-Monotherapie oder ADT-Verzicht beim höheren Risiko, „weil es schonender ist“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 25
     },
     {
       "folge": 8,
@@ -97,9 +97,9 @@
         "6.5",
         "6.6"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 8 – Lokal fortgeschrittenes & lymphknotenpositives Prostatakarzinom, (neo-)adjuvante Therapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 6.4 (Lokal fortgeschrittenes PCa, Empf. 6.54–6.67), Kapitel 6.5 (Lymphknotenpositives PCa, Statements 6.68–6.69, Empf. 6.70) und Kapitel 6.6 (Neoadjuvante/Adjuvante Therapie bei RPE, Empf. 6.71 ff.) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- RPE als Teil multimodaler Therapie bei Lebenserwartung über 10 Jahre, auch bei NCCN „very high risk“ (Empf. 6.54), mit ausgedehnter Lymphadenektomie.\n- EBRT (Empf. 6.55) plus ADT über 24–36 Monate, Dauer individuell (Empf. 6.56–6.58).\n- Intensivierung mit GnRH-Analogon 3 Jahre plus Abirateron/Prednison 2 Jahre bei ≥2 Risikofaktoren (Empf. 6.59) und bei N1 M0 (Empf. 6.70), jeweils bei Bestrahlung von Prostata und Becken (STAMPEDE) – Zulassungsstatus in Deutschland.\n- Pelvine Lymphabflussbestrahlung nach POP-RT (Empf. 6.60); Protonen nur in Studien (Empf. 6.61); Brachy-Boost nur bei cT3a (Empf. 6.62–6.67).\n- N+: lokale und systemische Optionen ohne validen Vergleich (Statement 6.68), offener Stellenwert von Lymphadenektomie und pelviner RT nach RPE (Statement 6.69).\n- Keine neoadjuvante antihormonelle Therapie vor RPE (Empf. 6.71); Definition der adjuvanten RT (Statement 6.72) und Abgrenzung zur frühen Salvage-RT; adjuvante Optionen gemäß den weiteren Empfehlungen in Kapitel 6.6.\nFormat & Moderation:\n- Tumorkonferenz: zuerst ein 67-Jähriger mit cT3b, ISUP 4, PSA 48 ng/ml, dann der Befund pT3b pN1 R1 eines Operierten.\n- Kontrovers, aber fair und evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „adjuvant“ und „Salvage“ im Arztbrief verwechselt – und „Abirateron ist doch nur für Metastasierte“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 24
     },
     {
       "folge": 9,
@@ -109,9 +109,9 @@
         "7.1",
         "7.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 9 – Rezidiv: Definition, PSMA-PET & Salvage-Therapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.1 (Definition und Diagnostik des Tumorrezidivs) und Kapitel 7.2 (Therapie des PSA-Rezidivs, 7.2.1–7.2.3) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Biochemisches Rezidiv: nach RPE PSA ≥0,2 ng/ml, nach Strahlentherapie Nadir + 2 ng/ml (Phoenix); PSA-Bounce; PSA-Persistenz.\n- Diagnostik: Anastomosenbiopsie ungeeignet; histologische Sicherung vor lokaler Salvage nach RT; PSMA-PET bei BCR, falls therapeutische Konsequenz (Empf. 7.6), Detektionsrate nach PSA-Höhe (Tabelle 19); ein negatives PET darf die frühe Salvage-Therapie nicht verzögern.\n- EAU-Risikoeinteilung des BCR (Tabelle 20).\n- Systemisch: Enzalutamid ± ADT beim Hochrisiko-BCR nach EMBARK (Empf. 7.11), Aufklärung (Empf. 7.12), vorher kurative Bestrahlung diskutieren (Empf. 7.13).\n- Salvage-RT nach RPE: mindestens 66 Gy (Empf. 7.14); ADT oder Bicalutamid bei PSA >0,7 ng/ml (Empf. 7.15) bzw. bei ungünstigen Kriterien (Empf. 7.16); ADT-Dauer nach Risiko (Empf. 7.17); früher Beginn bei PSA <0,5 ng/ml (Empf. 7.18).\n- Salvage-Optionen nach primärer Strahlentherapie (7.2.3) – nur in erfahrenen Zentren.\nFormat & Moderation:\n- Nachsorgesprechstunde: Patient 3 Jahre nach RPE mit PSA 0,24 ng/ml und negativem PSMA-PET.\n- Präzise, kollegial, mit feinem ärztlichem Humor; Grenzwerte ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: mit der Salvage-RT warten, bis „das PET endlich etwas zeigt“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 10,
@@ -120,9 +120,9 @@
       "kapitel": [
         "7.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 10 – Das hormonsensitive metastasierte Prostatakarzinom (mHSPC)\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.3 (Therapie des mHSPC, inkl. Empfehlungen 7.30 und 7.31 sowie Abbildung 8) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- ADT als Basis; warum ADT allein und Docetaxel plus ADT allein nicht mehr Standard sind.\n- Dublette bei ECOG 0–1: Apalutamid oder Enzalutamid (7.30a, Grad A), Darolutamid (7.30b, Grad B), Abirateron/Prednison bei de-novo-Hochrisiko (7.30c, Grad A).\n- Triplette bei Docetaxel-Eignung: Darolutamid + 6 Zyklen Docetaxel + ADT (7.30d, ARASENS); Abirateron + Docetaxel + ADT bei de-novo-High-Volume (7.30e, PEACE-1) – Zulassungsstatus.\n- Durchführung (Empf. 7.31): Beginn innerhalb von 3 Monaten nach ADT-Start; Dosierungen gemäß Leitlinie (Apalutamid 240 mg/d, Enzalutamid 160 mg/d, Darolutamid 2 × 600 mg/d, Abirateron 1000 mg/d plus Prednison/Prednisolon 5 mg/d).\n- Begriffe High/Low Volume (CHAARTED), High Risk (LATITUDE), de novo vs. metachron; keine direkten Vergleichsstudien.\n- Auswahl nach Nebenwirkungsprofil, Komorbidität und Patientenpräferenz; Alter allein ist kein Ausschlusskriterium.\nFormat & Moderation:\n- Onkologische Ambulanz: ein 71-Jähriger mit de novo ossär metastasiertem PCa (high volume), ECOG 1, mit KHK.\n- Fachlich anspruchsvoll, kollegial, mit feinem ärztlichem Humor; Dosierungen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: „ADT-Monotherapie reicht doch beim Älteren.“\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 27
     },
     {
       "folge": 11,
@@ -131,9 +131,9 @@
       "kapitel": [
         "7.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 11 – Das kastrationsresistente Prostatakarzinom: nmCRPC, mCRPC & NEPC\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.4 (Therapie des CRPC, inkl. 7.4.1–7.4.3) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Definition: Progress unter Kastrationsniveau (Testosteron <50 ng/dl); symptomatischer Progress allein reicht nicht.\n- ADT fortsetzen (Empf. 7.39); geriatrisches Assessment; palliativ-supportive Basis.\n- nmCRPC: ARPI (Apalutamid, Darolutamid, Enzalutamid) bei PSA-Verdopplungszeit <10 Monate (Empf. 7.40).\n- mCRPC nach Vortherapie: Docetaxel 2- oder 3-wöchentlich (Empf. 7.49); PARP-Inhibitor-Kombinationen (Empf. 7.50); Cabazitaxel nach ARPI und Docetaxel; Wechsel des Wirkmechanismus, Kreuzresistenz.\n- Lutetium-177-PSMA nach ARPI und Taxan (VISION, zugelassen) sowie nach ARPI ohne Chemotherapie-Eignung (Empf. 7.51, nicht zugelassen); qualitätsgesicherte PSMA-PET als Voraussetzung.\n- Radium-223 mit Indikationseinschränkungen (Empf. 7.54, 7.55); reduzierter Allgemeinzustand (Empf. 7.56, 7.57); neuroendokrines PCa (7.4.3).\nFormat & Moderation:\n- Tumorboard-Vorbereitung: Therapiesequenz für einen Patienten nach ADT + Apalutamid im mHSPC, jetzt mit PSA- und radiologischem Progress.\n- Hohes Niveau, kollegial, mit feinem ärztlichem Humor; Zulassungsstatus klar benennen.\n- Diskutiert den Fallstrick: ADT beim CRPC absetzen – und ARPI auf ARPI sequenzieren.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 27
     },
     {
       "folge": 12,
@@ -144,9 +144,9 @@
         "7.6",
         "7.7"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 12 – Lokaltherapie bei Metastasierung, Knochenmetastasen & Therapiemonitoring\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.5 (Lokale Therapie bei metastasiertem PCa), 7.6 (Therapie von Knochenmetastasen) und 7.7 (Bildgebung für das Therapiemonitoring) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Bestrahlung der Prostata bei neu diagnostiziertem Low-Volume-PCa nach CHAARTED (Empf. 7.61) und bei hohem lokalem Progressionsrisiko (Empf. 7.62); hypofraktioniert, maximal 74 Gy EQD2 (Empf. 7.63).\n- RPE beim oligometastasierten PCa nur nach Tumorkonferenz (Empf. 7.64, 7.65); metastasengerichtete Therapie, bevorzugt SBRT, ohne Ersatz für intensivierte Systemtherapie (Empf. 7.66–7.68).\n- Knochenmetastasen: Schmerztherapie, Bestrahlung, Operation (Empf. 7.69); Bestrahlungsindikationen inkl. drohender spinaler Kompression (Empf. 7.70); Radionuklide (Empf. 7.71).\n- Knochenprotektion: keine Bisphosphonate im hormonnaiven Stadium (Empf. 7.72); Denosumab oder Zoledronsäure im kastrationsresistenten Stadium (Empf. 7.73); zahnärztliche Sanierung vorher (Empf. 7.74).\n- Bildgebung im Therapiemonitoring nach Kapitel 7.7.\nFormat & Moderation:\n- Notfalldienst: Patient mit mCRPC und neuen Rückenschmerzen, danach Planung der Knochenprotektion.\n- Praxisnah, präzise, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Zoledronsäure routinemäßig schon im hormonsensitiven Stadium.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 13
     },
     {
       "folge": 13,
@@ -156,9 +156,9 @@
         "7.8",
         "7.9"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 13 – Supportivtherapie & Versorgung in der nicht-kurativen Situation\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.8 (Supportivtherapie, inkl. Tabelle 32) und Kapitel 7.9 (Versorgung in der nicht-kurativen Therapiesituation) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Nebenwirkungen der Hormonentzugstherapie und ihre Behandlung (Tabelle 32): Hitzewallungen, erektile Dysfunktion, Gynäkomastie, Osteoporose, metabolische und kardiovaskuläre Risiken, Anämie, Kognition; Bewegung als Basismaßnahme.\n- Typische Nebenwirkungen von ARPI/Abirateron, Taxanen, PARP-Inhibitoren und Radioligandentherapie (7.8.5–7.8.8).\n- Nicht-kurative Situation: Definition und Zielsetzung, frühe Integration der Palliativversorgung, Advance Care Planning.\n- Spezifische Probleme gemäß 7.9.5 (u. a. Schmerz, Harnabflussstörung, Blutung, Fatigue); Therapiebegrenzung (7.9.6); Versorgungsstrukturen AAPV, SAPV, Palliativdienst (7.9.7).\nFormat & Moderation:\n- Eine urologische Assistenzärztin und ein Palliativmediziner besprechen zwei Patienten: einen unter ADT + Abirateron mit Hitzewallungen und Hypertonie und einen mit mCRPC nach mehreren Therapielinien.\n- Empathisch, präzise; Humor nur behutsam. Keine Dosierungen erfinden.\n- Diskutiert den Fallstrick: „Hitzewallungen muss man halt aushalten“ – und Palliativversorgung erst in den letzten Lebenstagen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 24
     },
     {
       "folge": 14,
@@ -168,9 +168,9 @@
         "8",
         "9"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 14 – Rehabilitation & Nachsorge\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8 (Rehabilitation, 8.1–8.3) und Kapitel 9 (Nachsorge, 9.1–9.3) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Rehabilitation nach kurativer Therapie: Anschlussheilbehandlung, multimodales Kontinenztraining (Beckenbodentraining, Elektrostimulation, Biofeedback), Rehabilitation der erektilen Dysfunktion, psychoonkologische Unterstützung.\n- Rehabilitation unter Hormonentzugstherapie mit Bewegungstherapie (Statement 8.7, Empf. 8.8); Rehabilitation in der Palliativsituation.\n- Nachsorge: Basis-PSA nach 6–12 Wochen; Intervalle bei asymptomatischen Patienten (Empf. 9.1); PSA als zentrales Instrument (Empf. 9.2); keine routinemäßige DRU ohne Rezidiv (Statement 9.3); Bildgebung nur bei Konsequenz oder Symptomen (Empf. 9.4).\n- Testosteronsubstitution nach Prostatakarzinom (9.2) und Follow-up unter hormonablativer Therapie (9.3).\nFormat & Moderation:\n- Nachsorgesprechstunde ein Jahr nach RPE: Patient mit Belastungsinkontinenz Grad II und erektiler Dysfunktion.\n- Empathisch und evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: routinemäßiges CT und Szintigramm „zur Sicherheit“.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 22
     },
     {
       "folge": 15,
@@ -181,9 +181,9 @@
         "11",
         "12"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 15 – Psychosoziale Aspekte, Lebensqualität & Qualitätsindikatoren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 10 (Psychosoziale Aspekte und Lebensqualität), Kapitel 11 (Qualitätsindikatoren) und Kapitel 12 (Forschungsfragen) der S3-Leitlinie Prostatakarzinom.\nInhalte:\n- Aufklärung und Beratung (10.1): Informationsbedürfnisse, partizipative Entscheidungsfindung, Entscheidungshilfen, Patientenleitlinien, Einbeziehung der Partnerin bzw. des Partners, Selbsthilfe.\n- Psychosoziale Unterstützung (10.2): Belastungsscreening, Psychoonkologie, Sexualberatung, Umgang mit Angst unter Aktiver Überwachung.\n- Lebensqualität messbar machen: EPIC-26 als patientenberichtetes Outcome.\n- Qualitätsindikatoren (Kapitel 11) und ihre Nutzung in zertifizierten Prostatakrebszentren.\n- Offene Forschungsfragen (Kapitel 12) als Ausblick.\n- Abschluss der Serie: die fünf wichtigsten Leitlinienänderungen für den Stationsalltag.\nFormat & Moderation:\n- Abschlussgespräch zweier Kollegen nach dem Zertifizierungsaudit des Prostatakrebszentrums.\n- Reflektiert, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Sexualität und Partnerschaft werden in der Sprechstunde gar nicht angesprochen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 25
     }
   ]
 }
