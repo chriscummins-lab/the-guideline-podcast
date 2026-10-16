@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie soll laut Empfehlung 5.1 (Kapitel 5.1) das Prostatektomiepräparat an den Pathologen übersandt werden?",
+    "options": [
+      "Ohne vorherige Gewebsentnahme, um Artdiagnose, pT-Kategorie und Resektionsrand nicht zu beeinträchtigen.",
+      "Immer mit vorheriger Gewebsentnahme zur Schnellschnittdiagnostik.",
+      "Nur als fotografische Dokumentation, nicht als Gewebepräparat.",
+      "Trocken ohne jede Fixierlösung."
+    ],
+    "correct": 0,
+    "tip": "Eine Ausnahme besteht nur bei konkreter gemeinsamer Absprache, z. B. für einen intraoperativen Schnellschnitt.",
+    "explanation": "Empfehlung 5.1 fordert, dass das Prostatektomiepräparat ohne vorherige Gewebsentnahme an den Pathologen übersandt werden soll, um die Artdiagnose des Tumors, die Bestimmung der pT-Kategorie und die Beurteilung des Resektionsrands nicht zu beeinträchtigen."
+  },
+  {
+    "question": "Welche drei histomorphologischen Kriterien sind laut Empfehlung 5.2 in der Regel für die Diagnose des azinären Adenokarzinoms der Prostata erforderlich?",
+    "options": [
+      "Architekturstörungen, Kernatypie und Ausschluss einer benignen Läsion.",
+      "Ausschließlich ein erhöhter PSA-Wert.",
+      "Ausschließlich die Tumorgröße im MRT.",
+      "Ausschließlich das Patientenalter."
+    ],
+    "correct": 0,
+    "tip": "Sind nur zwei dieser drei Kriterien erfüllt, sollte stattdessen die Diagnose ASAP (atypical small acinar proliferation) gestellt werden.",
+    "explanation": "Empfehlung 5.2 nennt Architekturstörungen, Kernatypie und den Ausschluss einer benignen Läsion als die drei in der Regel erforderlichen histomorphologischen Kriterien für die Diagnose des azinären Adenokarzinoms."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.3 für Fälle mit konventionell-morphologisch eindeutig benignen oder malignen Läsionen?",
+    "options": [
+      "Es soll keine Immunhistochemie durchgeführt werden.",
+      "Es soll immer eine umfassende immunhistochemische Zusatzdiagnostik erfolgen.",
+      "Es ist eine molekulargenetische Untersuchung zwingend vorgeschrieben.",
+      "Eine Zweitbegutachtung durch ein Referenzzentrum ist obligat."
+    ],
+    "correct": 0,
+    "tip": "Immunhistochemie wird gezielt nur in unklaren Fällen eingesetzt, nicht routinemäßig bei eindeutigen Befunden.",
+    "explanation": "Empfehlung 5.3 legt fest, dass bei konventionell-morphologisch eindeutig benignen oder malignen Läsionen keine Immunhistochemie durchgeführt werden soll."
+  },
+  {
+    "question": "Nach welchem System soll laut Empfehlung 5.5 das Prostatakarzinom histologisch typisiert werden?",
+    "options": [
+      "Nach der aktuellen WHO-Klassifikation.",
+      "Nach der TNM-Klassifikation allein.",
+      "Nach einem rein numerischen PSA-basierten System.",
+      "Eine histologische Typisierung ist nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Die aktuelle WHO-Klassifikation von 2022 unterscheidet u. a. seltene Subtypen wie siegelring-ähnliche, sarkomatoide und PIN-artige Karzinome.",
+    "explanation": "Empfehlung 5.5 fordert, dass das Prostatakarzinom gemäß der aktuellen WHO-Klassifikation histologisch typisiert werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.6 bei Vorliegen einer prostatischen intraepithelialen Neoplasie (PIN) für den histopathologischen Befund?",
+    "options": [
+      "Nur die 'High-Grade-PIN' soll erwähnt werden, mit zusätzlichem Hinweis auf uni- oder multifokales Auftreten.",
+      "Sowohl Low-Grade- als auch High-Grade-PIN sollen gleichwertig im Befund genannt werden.",
+      "PIN-Befunde sollen aus dem histopathologischen Befund generell weggelassen werden.",
+      "Jede PIN-Läsion soll automatisch als Prostatakarzinom gewertet werden."
+    ],
+    "correct": 0,
+    "tip": "Nur die High-Grade-PIN gilt als fakultative Vorläuferläsion des Karzinoms der peripheren Zone.",
+    "explanation": "Empfehlung 5.6 fordert, dass bei Vorliegen einer PIN im histopathologischen Befund nur die High-Grade-PIN erwähnt werden soll, zusammen mit einem Hinweis auf uni- oder multifokales Auftreten."
+  },
+  {
+    "question": "Wie hoch ist laut Kapitel 5.1.2 die Rate an invasiven Karzinomen bei bioptischer Kontrolle nach einer Diagnose 'ASAP' (atypical small acinar proliferation)?",
+    "options": [
+      "42-48%, wobei die Karzinomdetektionsrate in neueren, MRT-gestützten Daten etwas niedriger liegen dürfte.",
+      "0%, ASAP-Befunde sind immer gutartig.",
+      "100%, jeder ASAP-Befund entwickelt sich zu einem invasiven Karzinom.",
+      "Unter 1%, eine Re-Biopsie ist bei ASAP nie indiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Zahlen stammen überwiegend aus der Prä-MRT-Ära und sind daher heute kritisch zu bewerten.",
+    "explanation": "Kapitel 5.1.2 beschreibt bei Patienten mit der Diagnose ASAP eine Rate an invasiven Karzinomen bei bioptischer Kontrolle von 42-48%, wobei neuere Daten eine etwas niedrigere Detektionsrate nahelegen."
+  },
+  {
+    "question": "Auf welchen Wert steigt laut Kapitel 5.1.2 das Risiko für ein invasives Karzinom bei ausgedehnter High-Grade-PIN (Nachweis in mindestens vier Gewebeproben), und welche Konsequenz wird daraus abgeleitet?",
+    "options": [
+      "Das Risiko steigt auf 39%, weshalb in diesem Fall eine Re-Biopsie empfohlen wird.",
+      "Das Risiko sinkt auf 0%, eine weitere Diagnostik ist dann nicht mehr notwendig.",
+      "Das Risiko bleibt bei durchschnittlichen 24,1% unverändert.",
+      "Das Risiko steigt auf 100%, sodass direkt eine radikale Prostatektomie erfolgen soll."
+    ],
+    "correct": 0,
+    "tip": "Im Median liegt das Karzinomrisiko bei Re-Biopsie nach High-Grade-PIN insgesamt bei 24,1%, bei ausgedehntem Befund aber deutlich höher.",
+    "explanation": "Kapitel 5.1.2 beschreibt, dass sich bei ausgedehnter High-Grade-PIN mit Nachweis in mindestens vier Gewebeproben das Risiko eines invasiven Karzinoms auf 39% erhöht, weshalb in diesem Fall eine Re-Biopsie empfohlen wird."
+  },
+  {
+    "question": "Nach welchem System soll laut Empfehlung 5.7 (Kapitel 5.1.3) der Tumorgrad des Prostatakarzinoms angegeben werden?",
+    "options": [
+      "Als Gleason-Score nach aktueller ISUP/WHO-Klassifikation.",
+      "Ausschließlich als numerischer PSA-Wert.",
+      "Ausschließlich nach TNM-Klassifikation ohne Gleason-Score.",
+      "Nach einem rein molekulargenetischen Score ohne histologische Beurteilung."
+    ],
+    "correct": 0,
+    "tip": "Das Gleason-System wurde seit der ISUP-Konsensuskonferenz 2005 mehrfach überarbeitet, zuletzt 2014 und 2019.",
+    "explanation": "Empfehlung 5.7 fordert, dass bei der Angabe des Tumorgrades der Gleason-Score nach aktueller ISUP/WHO-Klassifikation erfolgen soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.8 zu einer intraduktalen Tumorkomponente (IDC-P), und welche klinische Konsequenz hat dieser Befund laut Kapitel 5.1.3?",
+    "options": [
+      "Sie soll in der Diagnose erwähnt werden; ihr Vorhandensein stellt eine Kontraindikation für eine aktive Überwachung dar.",
+      "Sie muss im Befund nicht erwähnt werden, da sie klinisch bedeutungslos ist.",
+      "Ihr Nachweis spricht für eine besonders günstige Prognose und eignet sich daher besonders für die aktive Überwachung.",
+      "IDC-P wird in der aktuellen WHO-Klassifikation nicht mehr anerkannt."
+    ],
+    "correct": 0,
+    "tip": "IDC-P ist häufig mit höheren Gleason-Scores, fortgeschrittenerem Tumorstadium und erhöhter Metastasierungswahrscheinlichkeit assoziiert.",
+    "explanation": "Empfehlung 5.8 fordert, dass eine intraduktale Tumorkomponente (IDC-P) in der Diagnose erwähnt werden soll; da sie mit aggressiverem Krankheitsverlauf assoziiert ist, stellt sie eine Kontraindikation für eine aktive Überwachung dar."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.9 bei einem Gleason-Score von 7 (WHO/ISUP Grade Groups 2-3) bezüglich cribriformer Tumorkomponenten?",
+    "options": [
+      "Sie sollen im Kommentar des Befundes erwähnt werden.",
+      "Sie dürfen im Befund nicht erwähnt werden, um Verunsicherung zu vermeiden.",
+      "Sie sind nur bei Gleason-Score 10 relevant und müssen bei Score 7 nicht erwähnt werden.",
+      "Cribriforme Tumorkomponenten gelten als prognostisch günstig und müssen daher nicht gesondert benannt werden."
+    ],
+    "correct": 0,
+    "tip": "Cribriforme Tumorbestandteile gelten unabhängig davon, ob sie invasiv oder intraduktal vorliegen, als prognostisch ungünstig.",
+    "explanation": "Empfehlung 5.9 fordert, dass bei einem Gleason-Score von 7 cribriforme Tumorkomponenten im Kommentar des pathologischen Befundes erwähnt werden sollen, da sie prognostisch ungünstig sind."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Kriterien definieren laut der NCCN-Risikoeinteilung (Kapitel 4.3) das niedrige Risiko eines Prostatakarzinoms?",
+    "options": [
+      "cT1-cT2a, ISUP-Grad 1 und PSA <10 ng/mL (bei Nichterfüllung der Kriterien für sehr niedriges Risiko).",
+      "cT3-cT4, ISUP-Grad 4-5 und PSA >40 ng/mL.",
+      "Ausschließlich ein PSA-Wert unter 1 ng/mL, unabhängig von T-Kategorie und Grading.",
+      "Mindestens 50% positive Biopsiezylinder, unabhängig vom ISUP-Grad."
+    ],
+    "correct": 0,
+    "tip": "Für ein 'sehr niedriges Risiko' müssen zusätzliche, strengere Kriterien wie <3 positive Zylinder und PSA-Dichte <0,15 ng/mL/g erfüllt sein.",
+    "explanation": "Die NCCN-Risikoeinteilung definiert das niedrige Risiko durch cT1-cT2a, ISUP-Grad 1 und PSA unter 10 ng/mL, sofern nicht bereits die strengeren Kriterien eines sehr niedrigen Risikos erfüllt sind."
+  },
+  {
+    "question": "Welche Kriterien kennzeichnen laut Kapitel 4.3 das hohe Risiko (im Gegensatz zum sehr hohen Risiko) nach NCCN-Klassifikation?",
+    "options": [
+      "Erfüllung von 1 Hochrisikofaktor (cT3-cT4 oder ISUP-Grad 4/5 oder PSA >20 ng/mL), aber nicht die Kriterien für sehr hohes Risiko.",
+      "Erfüllung von mindestens 3 Hochrisikofaktoren gleichzeitig.",
+      "Ausschließlich ein PSA-Wert über 100 ng/mL.",
+      "Ausschließlich das Vorliegen von Fernmetastasen."
+    ],
+    "correct": 0,
+    "tip": "Für das sehr hohe Risiko müssen dagegen mindestens zwei dieser Kriterien gleichzeitig erfüllt sein.",
+    "explanation": "Die Kategorie 'Hoch' ist laut Kapitel 4.3 erfüllt, wenn ein Hochrisikofaktor (cT3-cT4, ISUP-Grad 4 oder 5, oder PSA über 20 ng/mL) vorliegt, aber nicht die strengeren Kriterien für ein sehr hohes Risiko."
+  },
+  {
+    "question": "Welche Kriterien definieren laut Kapitel 4.3 das sehr hohe Risiko nach NCCN-Klassifikation?",
+    "options": [
+      "Erfüllung von mindestens zwei der Kriterien cT3-cT4, ISUP-Grad 4 oder 5, PSA >40 ng/mL.",
+      "Ein einzelner erfüllter Risikofaktor reicht bereits für die Einstufung als sehr hohes Risiko aus.",
+      "Ausschließlich das Alter des Patienten über 80 Jahre.",
+      "Es gibt keine Kategorie 'sehr hohes Risiko' in der NCCN-Klassifikation."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination mehrerer schwerer Risikofaktoren unterscheidet das sehr hohe vom hohen Risiko.",
+    "explanation": "Die Kategorie 'Sehr hoch' erfordert laut Kapitel 4.3 die Erfüllung von mindestens zwei der Kriterien cT3-cT4, ISUP-Grad 4 oder 5 und PSA über 40 ng/mL."
+  },
+  {
+    "question": "Wie wird das intermediäre Risiko laut Kapitel 4.3 (Hintergrund zu Empfehlung 4.40-4.44) in der aktuellen Leitlinienversion differenziert?",
+    "options": [
+      "Es wird nuanciert in ein günstiges und ein ungünstiges intermediäres Risiko unterteilt, da diese Subgruppen unterschiedlich mit dem Metastasierungsrisiko korrelieren.",
+      "Das intermediäre Risiko wurde komplett aus der Klassifikation gestrichen.",
+      "Das intermediäre Risiko wird nun mit dem niedrigen Risiko zusammengefasst.",
+      "Es gibt keine weitere Unterteilung, alle intermediären Fälle werden identisch behandelt."
+    ],
+    "correct": 0,
+    "tip": "Diese differenziertere Betrachtung hat direkten Einfluss auf die Indikation zu weiterführenden Staging-Untersuchungen.",
+    "explanation": "Kapitel 4.3 beschreibt, dass das Stadium des intermediären Risikos nicht mehr zusammengefasst, sondern in ein günstiges und ungünstiges intermediäres Risiko nuanciert betrachtet wird, da diese Gruppen unterschiedlich mit dem Metastasierungsrisiko korrelieren."
+  },
+  {
+    "question": "Welche beiden Untersuchungen sollen laut Empfehlung 4.39 (Empfehlungsgrad A) zur Bestimmung der klinischen T-Kategorie herangezogen werden?",
+    "options": [
+      "Der digital-rektale Untersuchungsbefund und die Magnetresonanztomographie.",
+      "Ausschließlich die Knochenszintigraphie.",
+      "Ausschließlich die PSMA-PET/CT.",
+      "Ausschließlich der PSA-Wert ohne weitere Untersuchungen."
+    ],
+    "correct": 0,
+    "tip": "Die Sensitivität des bildgebenden Stagings ist dabei begrenzt, insbesondere für den Nachweis extrakapsulären Wachstums.",
+    "explanation": "Empfehlung 4.39 fordert, dass zur Bestimmung der klinischen T-Kategorie der digital-rektale Untersuchungsbefund und die Magnetresonanztomographie herangezogen werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.40 bei Patienten mit Tumorkategorie cT1 und Low-risk-Parametern bezüglich weiterer Staginguntersuchungen?",
+    "options": [
+      "Nach MRT vor Biopsie sollen keine weiteren bildgebenden Staginguntersuchungen (Skelettszintigraphie, CT, PET/CT) erfolgen.",
+      "Es sollen alle verfügbaren Staginguntersuchungen routinemäßig durchgeführt werden.",
+      "Eine PSMA-PET/CT ist bei dieser Gruppe obligat.",
+      "Eine Knochenszintigraphie ist bei jedem Patienten mit cT1 zwingend vorgeschrieben."
+    ],
+    "correct": 0,
+    "tip": "Diese Zurückhaltung beruht auf dem sehr geringen Metastasierungsrisiko dieser Patientengruppe.",
+    "explanation": "Empfehlung 4.40 legt fest, dass Patienten mit Tumorkategorie cT1 und Low-risk-Parametern nach MRT vor Biopsie keine bildgebenden Staginguntersuchungen wie Skelettszintigraphie, CT oder PET/CT erhalten sollen."
+  },
+  {
+    "question": "Was besagt Statement 4.42 zum Vergleich der PSMA-PET-Bildgebung mit der Kombination aus CT und Knochenszintigraphie beim Nachweis von Metastasen?",
+    "options": [
+      "Die PSMA-PET-Bildgebung hat eine höhere Genauigkeit für den Nachweis von Metastasen als die Kombination aus CT und Knochenszintigraphie.",
+      "Die PSMA-PET-Bildgebung ist der Kombination aus CT und Knochenszintigraphie deutlich unterlegen.",
+      "Beide Verfahren zeigen exakt identische Genauigkeit ohne jeden Unterschied.",
+      "Die PSMA-PET-Bildgebung wird in der Leitlinie nicht erwähnt."
+    ],
+    "correct": 0,
+    "tip": "Die PSMA-PET gilt seit der proPSMA-Studie als Referenzstandard für das Ganzkörperstaging.",
+    "explanation": "Statement 4.42 stellt fest, dass die PSMA-PET-Bildgebung eine höhere Genauigkeit für den Nachweis von Prostatakarzinom-Metastasen hat als die Kombination aus Computertomographie und Knochenszintigraphie."
+  },
+  {
+    "question": "Für welche Patientengruppe soll laut Empfehlung 4.43 (Empfehlungsgrad A) vor der Entscheidung über eine therapeutische Maßnahme ein Staging erfolgen?",
+    "options": [
+      "Patienten mit unfavorable intermediate risk oder high risk/very high risk Prostatakarzinom.",
+      "Ausschließlich Patienten mit sehr niedrigem Risiko.",
+      "Alle Patienten unabhängig vom Risikoprofil.",
+      "Nur Patienten über 90 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Bei Patienten mit favorable intermediate risk wird dagegen laut Empfehlung 4.41 von einer Ganzkörper-Staging-Bildgebung abgesehen.",
+    "explanation": "Empfehlung 4.43 fordert, dass Patienten mit unfavorable intermediate risk oder high risk/very high risk Prostatakarzinom vor der Entscheidung über eine therapeutische Maßnahme ein Staging erhalten sollen."
+  },
+  {
+    "question": "Bei welchen Risikofaktoren für eine Fernmetastasierung soll laut Empfehlung 4.44 (Empfehlungsgrad A) eine PSMA-PET/CT zur Ausbreitungsdiagnostik eingesetzt werden?",
+    "options": [
+      "ISUP-Grad ≥3 oder T-Kategorie cT3/cT4 oder PSA ≥20 ng/mL.",
+      "Ausschließlich bei einem PSA-Wert unter 1 ng/mL.",
+      "Ausschließlich bei Patienten ohne jeden Risikofaktor.",
+      "Nur bei bereits gesicherten Fernmetastasen, nie zur Erstdiagnostik."
+    ],
+    "correct": 0,
+    "tip": "Diese Risikofaktoren markieren ein erhöhtes Risiko für das Vorliegen von Fernmetastasen bei Erstdiagnose.",
+    "explanation": "Empfehlung 4.44 fordert den Einsatz der PSMA-PET/CT zur Ausbreitungsdiagnostik bei Prostatakarzinom mit Risikofaktoren für eine Fernmetastasierung, definiert als ISUP-Grad 3 oder höher, T-Kategorie cT3/cT4 oder ein PSA-Wert ab 20 ng/mL."
+  },
+  {
+    "question": "Was zeigte die randomisierte proPSMA-Studie von Hofman et al. 2020 (Kapitel 4.3), die als Grundlage für den Stellenwert der PSMA-PET im Ganzkörperstaging dient?",
+    "options": [
+      "Sie untersuchte 302 Patienten und etablierte die PSMA-PET als Referenzstandard für das Ganzkörperstaging.",
+      "Sie zeigte, dass die PSMA-PET der konventionellen Bildgebung in jeder Hinsicht unterlegen ist.",
+      "Sie wurde an nur 5 Patienten durchgeführt und lieferte daher keine verwertbaren Ergebnisse.",
+      "Sie untersuchte ausschließlich die MRT ohne jeden Bezug zur PSMA-PET."
+    ],
+    "correct": 0,
+    "tip": "Diese Studie (ANZCTR12617000005358) bildet zusammen mit mehreren systematischen Übersichtsarbeiten die Evidenzgrundlage der aktuellen Staging-Empfehlungen.",
+    "explanation": "Die randomisierte kontrollierte proPSMA-Studie von Hofman et al. 2020 untersuchte 302 Patienten und trug wesentlich dazu bei, dass die PSMA-PET-Bildgebung seitdem als Referenzstandard für das Ganzkörperstaging gilt."
+  }
+]

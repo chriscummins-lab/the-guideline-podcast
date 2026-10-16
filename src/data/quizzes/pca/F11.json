@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher Zusatztherapie soll laut Empfehlung 7.40 (Kapitel 7.4.1, Empfehlungsgrad A) Patienten mit nicht-metastasiertem, kastrationsresistentem Prostatakarzinom (nmCRPC) und hohem Metastasierungsrisiko (PSA-Verdopplungszeit <10 Monate) zusätzlich zur Androgendeprivation angeboten werden?",
+    "options": [
+      "Ein Androgenrezeptor-Signalweg-Inhibitor (ARPI): Apalutamid, Darolutamid oder Enzalutamid.",
+      "Eine alleinige Chemotherapie mit Docetaxel ohne weitere Hormontherapie.",
+      "Ausschließlich eine Bestrahlung des gesamten Skeletts.",
+      "Ausschließlich Bicalutamid als Monotherapie."
+    ],
+    "correct": 0,
+    "tip": "Die Ergebnisse der drei zugelassenen Substanzen gelten laut Leitlinie als vergleichbar.",
+    "explanation": "Empfehlung 7.40 fordert, dass Patienten mit nmCRPC und hohem Risiko für eine Metastasierung (PSA-Verdopplungszeit <10 Monate) zusätzlich zur ADT die Therapie mit einem ARPI (Apalutamid, Darolutamid oder Enzalutamid) angeboten werden soll."
+  },
+  {
+    "question": "Welche vier ungünstigen prognostischen Faktoren werden im Hintergrundtext zu Empfehlung 7.40 genannt?",
+    "options": [
+      "Kurzes Intervall zwischen RPE und biochemischem Progress, Gleason-Score >8, Basis-PSA-Wert >2 ng/ml und PSA-Verdopplungszeit <10 Monate.",
+      "Ausschließlich das Patientenalter über 80 Jahre.",
+      "Ausschließlich die Anzahl der bisherigen Chemotherapiezyklen.",
+      "Ausschließlich der Body-Mass-Index des Patienten."
+    ],
+    "correct": 0,
+    "tip": "Diese Faktoren helfen, Patienten mit besonders hohem Risiko für eine rasche Progression zu identifizieren.",
+    "explanation": "Als ungünstige prognostische Faktoren werden ein kurzes Intervall zwischen radikaler Prostatektomie und biochemischem Progress, ein Gleason-Score über 8, ein Basis-PSA-Wert über 2 ng/ml und eine PSA-Verdopplungszeit unter 10 Monaten genannt."
+  },
+  {
+    "question": "Auf welcher Zulassungsstudie basiert die Zulassung von Apalutamid beim nmCRPC, und welchen Effekt zeigte sie auf das metastasenfreie Überleben?",
+    "options": [
+      "Die SPARTAN-Studie zeigte ein medianes metastasenfreies Überleben von 40,5 vs. 16,2 Monaten (HR 0,28).",
+      "Die SPARTAN-Studie zeigte keinen Unterschied im metastasenfreien Überleben.",
+      "Die ARAMIS-Studie war Grundlage der Apalutamid-Zulassung.",
+      "Apalutamid wurde ohne jede randomisierte Studie zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Die Studie war international, multizentrisch, randomisiert und placebokontrolliert mit 1.207 Patienten.",
+    "explanation": "Die Zulassung von Apalutamid basiert auf der SPARTAN-Studie, die ein medianes metastasenfreies Überleben von 40,5 Monaten unter Apalutamid versus 16,2 Monaten unter Placebo zeigte (HR 0,28)."
+  },
+  {
+    "question": "Welche systemische Zusatzmaßnahme soll laut Empfehlung 7.41 (Kapitel 7.4.2) bei der Therapie des mCRPC berücksichtigt werden?",
+    "options": [
+      "Die systemische Therapie soll bei Bedarf in Kombination mit symptomatischen und supportiven Maßnahmen durchgeführt werden.",
+      "Eine supportive Therapie ist beim mCRPC generell nicht vorgesehen.",
+      "Ausschließlich eine rein kurative Therapie ohne jede supportive Komponente.",
+      "Eine palliative Begleitung ist nur bei terminalen Patienten erlaubt."
+    ],
+    "correct": 0,
+    "tip": "Für Details der supportiven Therapie wird auf die AWMF S3-Leitlinie 'Supportive Therapie bei onkologischen PatientInnen' verwiesen.",
+    "explanation": "Empfehlung 7.41 fordert, dass die systemische Therapie des mCRPC bei Bedarf in Kombination mit symptomatischen und supportiven Maßnahmen durchgeführt werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.42 (Empfehlungsgrad A) vor Einleitung einer systemischen Therapie des mCRPC, falls keine positiven Ergebnisse einer früheren Keimbahntestung vorliegen?",
+    "options": [
+      "Eine Sequenzierung (Keimbahn, somatisch) von Genen der homologen Rekombinationsreparatur (HRR) soll durchgeführt werden.",
+      "Eine erneute Prostatabiopsie ist in jedem Fall zwingend erforderlich.",
+      "Eine Ganzkörper-Skelettszintigraphie muss wiederholt werden.",
+      "Eine genetische Testung ist beim mCRPC nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Relevant ist dies vor allem wegen der Verfügbarkeit von PARP-Inhibitoren bei Nachweis von HRR-Defekten.",
+    "explanation": "Empfehlung 7.42 fordert, dass vor Einleitung einer systemischen Therapie des mCRPC die Sequenzierung von Genen der homologen Rekombinationsreparatur durchgeführt werden soll, falls keine positiven Ergebnisse einer früheren Keimbahntestung vorliegen."
+  },
+  {
+    "question": "Welcher Anteil der mCRPC-Patienten weist laut Hintergrundtext zu Empfehlung 7.42 genetische Aberrationen der DNS-Reparatur auf, und welcher Genanteil entfällt dabei auf BRCA1/2-Mutationen?",
+    "options": [
+      "Bis zu einem Drittel der Patienten; BRCA1/2-Mutationen machen davon etwa ein Drittel aus.",
+      "Nahezu 100% aller Patienten weisen solche Aberrationen auf.",
+      "Weniger als 1% der Patienten, sodass eine Testung nicht sinnvoll ist.",
+      "Genetische Aberrationen spielen beim mCRPC keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Zu den relevanten Genen zählen u. a. ATM, BRCA1, BRCA2, BRIP1, CDK12, CHEK2, FANCA, HDAC2 und PALB2.",
+    "explanation": "Laut Hintergrundtext zu Empfehlung 7.42 weisen bis zu einem Drittel der mCRPC-Patienten genetische Aberrationen der DNS-Reparatur auf, wobei BRCA1/2-Mutationen etwa ein Drittel dieser Aberrationen ausmachen."
+  },
+  {
+    "question": "Welche Monotherapie soll laut Empfehlung 7.43 (Empfehlungsgrad A) bei Nachweis einer BRCA1/2-Mutation und Progress nach Vortherapie mit ARPI oder Abirateron angeboten werden?",
+    "options": [
+      "Eine Monotherapie mit Olaparib.",
+      "Eine Monotherapie mit Docetaxel.",
+      "Eine Monotherapie mit Bicalutamid.",
+      "Eine Monotherapie mit Flutamid."
+    ],
+    "correct": 0,
+    "tip": "Olaparib ist ein PARP-Inhibitor, dessen Zulassung auf der PROfound-Studie basiert.",
+    "explanation": "Empfehlung 7.43 fordert, dass bei Nachweis einer BRCA1/2-Mutation und Progress nach Vortherapie mit einem ARPI oder Abirateron eine Monotherapie mit Olaparib angeboten werden soll."
+  },
+  {
+    "question": "Welche drei Kombinationstherapien nennt Empfehlung 7.44 (Empfehlungsgrad A) bei Nachweis einer BRCA1/2-Mutation, falls eine Chemotherapie klinisch nicht indiziert ist?",
+    "options": [
+      "Niraparib + Abirateron, Olaparib + Abirateron, oder Talazoparib + Enzalutamid.",
+      "Ausschließlich eine alleinige Androgendeprivation ohne weitere Substanz.",
+      "Ausschließlich Docetaxel in Kombination mit Prednison.",
+      "Ausschließlich Cabazitaxel als Monotherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese drei Kombinationen stammen jeweils aus unterschiedlichen Zulassungsstudien mit teils unterschiedlichem Evidenzlevel.",
+    "explanation": "Empfehlung 7.44 nennt als Kombinationstherapien bei Nachweis einer BRCA1/2-Mutation Niraparib + Abirateron (mit Prednison/Prednisolon), Olaparib + Abirateron (mit Prednison/Prednisolon) oder Talazoparib + Enzalutamid."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.45 bei der Therapieentscheidung zwischen den verschiedenen PARPI-Kombinationstherapien berücksichtigt werden, da keine direkt vergleichenden Studien vorliegen?",
+    "options": [
+      "Die Charakteristika der jeweiligen Zulassungsstudien.",
+      "Ausschließlich der Preis des jeweiligen Präparats.",
+      "Ausschließlich die alphabetische Reihenfolge der Substanznamen.",
+      "Eine Entscheidung ist ohnehin beliebig, da alle Optionen identisch sind."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung trägt dem Fehlen von Head-to-Head-Vergleichsstudien zwischen den drei Kombinationen Rechnung.",
+    "explanation": "Empfehlung 7.45 fordert, dass bei der Therapieentscheidung mangels direkt vergleichender Studien insbesondere die Charakteristika der jeweiligen Zulassungsstudien berücksichtigt werden sollen."
+  },
+  {
+    "question": "Welches Ergebnis zeigte die PROfound-Studie für Olaparib gegenüber Abirateron/Enzalutamid in der BRCA1/2/ATM-Kohorte (Kohorte A) hinsichtlich des progressionsfreien Überlebens?",
+    "options": [
+      "Eine signifikante Verlängerung auf 7,4 vs. 3,6 Monate (HR 0,34; p<0,001).",
+      "Keinen Unterschied im progressionsfreien Überleben zwischen beiden Armen.",
+      "Eine Verkürzung des progressionsfreien Überlebens unter Olaparib.",
+      "Die PROfound-Studie untersuchte ausschließlich das Gesamtüberleben, nicht das progressionsfreie Überleben."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich zeigte sich auch eine signifikante Verlängerung der medianen Gesamtüberlebenszeit (19,1 vs. 14,7 Monate).",
+    "explanation": "Die PROfound-Studie zeigte für Olaparib in der BRCA1/2/ATM-Kohorte eine signifikante Verlängerung des progressionsfreien Überlebens auf 7,4 vs. 3,6 Monate (HR 0,34; p<0,001) gegenüber Abirateron/Enzalutamid."
+  }
+]

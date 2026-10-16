@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wodurch ist laut Statement 7.2 (Kapitel 7.1) nach radikaler Prostatektomie ein biochemisches Rezidiv definiert?",
+    "options": [
+      "Ein in mindestens zwei Messungen bestätigter PSA-Wert über 0,2 ng/ml.",
+      "Jeder messbare PSA-Wert über der Nachweisgrenze, unabhängig von Wiederholungsmessungen.",
+      "Ein PSA-Wert über 10 ng/ml bei einmaliger Messung.",
+      "Ein PSA-Anstieg um das 10-fache des Ausgangswertes."
+    ],
+    "correct": 0,
+    "tip": "Die Messungen sollen im Abstand von mindestens zwei Wochen erfolgen; auch zwei ansteigende Werte unter 0,2 ng/ml können bereits ein Rezidiv bedeuten.",
+    "explanation": "Statement 7.2 definiert das biochemische Rezidiv nach radikaler Prostatektomie als einen in mindestens zwei Messungen bestätigten PSA-Wert über 0,2 ng/ml."
+  },
+  {
+    "question": "Wie ist laut Statement 7.3 ein biochemisches Rezidiv nach alleiniger Strahlentherapie definiert (sog. 'Phoenix-Definition')?",
+    "options": [
+      "Ein bestätigter PSA-Anstieg von mehr als 2 ng/ml über den postinterventionellen PSA-Nadir.",
+      "Jeder PSA-Wert über 0,2 ng/ml, analog zur Definition nach Prostatektomie.",
+      "Drei konsekutive PSA-Anstiege nach der alten ASTRO-Definition.",
+      "Ein PSA-Abfall unter den Nadir-Wert."
+    ],
+    "correct": 0,
+    "tip": "Diese Nadir-plus-2-Definition zeigte sich sensitiver und spezifischer als die frühere ASTRO-Definition mit drei konsekutiven Anstiegen.",
+    "explanation": "Statement 7.3 definiert das biochemische Rezidiv nach alleiniger Strahlentherapie als einen in mindestens zwei Messungen bestätigten PSA-Anstieg von mehr als 2 ng/ml über den postinterventionellen PSA-Nadir."
+  },
+  {
+    "question": "Was besagt Statement 7.4 zur bioptischen Sicherung eines biochemischen Rezidivs nach radikaler Prostatektomie?",
+    "options": [
+      "Sie ist nicht erforderlich.",
+      "Sie ist in jedem Fall obligat vor jeder weiteren Therapieentscheidung.",
+      "Sie muss an mindestens drei unterschiedlichen Lokalisationen erfolgen.",
+      "Sie ersetzt die PSA-Bestimmung vollständig."
+    ],
+    "correct": 0,
+    "tip": "Eine Biopsie der vesico-urethralen Anastomose gilt als ungenaue Methode zum Nachweis eines Lokalrezidivs.",
+    "explanation": "Statement 7.4 legt fest, dass eine bioptische Sicherung eines biochemischen Rezidivs nach radikaler Prostatektomie nicht erforderlich ist."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 7.6 (Empfehlungsgrad A) primär eine PSMA-PET Hybrid-Bildgebung zur Beurteilung der Tumorausbreitung bei biochemischem Rezidiv erfolgen?",
+    "options": [
+      "Falls sich aus dem Befund eine therapeutische Konsequenz ergibt.",
+      "Grundsätzlich nie, da die PSMA-PET bei Rezidiven keine Rolle spielt.",
+      "Nur bei PSA-Werten unter 0,05 ng/ml.",
+      "Ausschließlich bei Patienten, die eine Chemotherapie ablehnen."
+    ],
+    "correct": 0,
+    "tip": "Die PSMA-PET-Positivitätsrate korreliert stark mit der Höhe des PSA-Werts, von 33% bei PSA<0,2 bis 95% bei PSA≥2,0 ng/ml.",
+    "explanation": "Empfehlung 7.6 fordert, dass bei biochemischem Rezidiv primär eine PSMA-PET Hybrid-Bildgebung erfolgen soll, falls sich aus dem Befund eine therapeutische Konsequenz ergibt."
+  },
+  {
+    "question": "Welche drei Faktoren sollen laut Empfehlung 7.7 zur Differenzierung zwischen lokalem und systemischem Rezidiv herangezogen werden?",
+    "options": [
+      "PSA-Verdopplungszeit, Latenzzeit zur primären kurativ intendierten Therapie und Gleason-Score.",
+      "Ausschließlich das Körpergewicht des Patienten.",
+      "Ausschließlich die Dauer der ursprünglichen Operation.",
+      "Ausschließlich die Blutgruppe des Patienten."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt insbesondere bei Patienten, für die eine lokale Rezidivtherapieoption in Frage kommt.",
+    "explanation": "Empfehlung 7.7 nennt die PSA-Verdopplungszeit, die Latenzzeit zur primären kurativ intendierten Therapie und den Gleason-Score als Faktoren zur Differenzierung zwischen lokalem und systemischem Rezidiv."
+  },
+  {
+    "question": "Was besagt Statement 7.9 (Kapitel 7.2.1) für Patienten mit PSA-Rezidiv und günstigen prognostischen Kriterien (PSA-Verdopplungszeit >12 Monate, Gleason-Score <8)?",
+    "options": [
+      "Das abwartende Verhalten ist eine Option.",
+      "Eine sofortige Chemotherapie ist in jedem Fall zwingend.",
+      "Eine beidseitige Orchiektomie muss unmittelbar erfolgen.",
+      "Eine Androgendeprivation ist als einzige zugelassene Option vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dies beruht u. a. auf Daten, nach denen die metastasenfreie Überlebensrate nach 15 Jahren bei günstigem Kollektiv bei 82% liegt.",
+    "explanation": "Statement 7.9 stellt fest, dass bei Patienten mit PSA-Rezidiv und günstigen prognostischen Kriterien (PSA-Verdopplungszeit über 12 Monate, Gleason-Score unter 8) das abwartende Verhalten eine Option ist."
+  },
+  {
+    "question": "Welche neue Therapieoption soll laut Empfehlung 7.11 (basierend auf der EMBARK-Studie) Patienten mit high-risk biochemischem Rezidiv angeboten werden?",
+    "options": [
+      "Enzalutamid als Monotherapie oder in Kombination mit einer Androgendeprivationstherapie.",
+      "Ausschließlich eine Chemotherapie mit Cabazitaxel.",
+      "Ausschließlich eine sofortige Zystektomie.",
+      "Eine alleinige Beobachtung ohne jede medikamentöse Therapie."
+    ],
+    "correct": 0,
+    "tip": "Vor Therapieeinleitung sollen die Patienten laut Empfehlung 7.12 über Vor- und Nachteile der Mono- bzw. Kombinationstherapie aufgeklärt werden.",
+    "explanation": "Empfehlung 7.11 fordert, dass Patienten mit high-risk biochemischem Rezidiv nach der EMBARK-Studie Enzalutamid als Monotherapie oder in Kombination mit einer Androgendeprivationstherapie angeboten werden sollte."
+  },
+  {
+    "question": "Mit welcher Mindestdosis soll laut Empfehlung 7.14 die perkutane Salvage-Strahlentherapie (SRT) nach radikaler Prostatektomie bei PSA-Anstieg aus dem Nullbereich erfolgen?",
+    "options": [
+      "Mindestens 66 Gy.",
+      "Mindestens 20 Gy.",
+      "Mindestens 150 Gy.",
+      "Eine Mindestdosis ist nicht festgelegt."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt für Patienten in der Kategorie pN0/NX.",
+    "explanation": "Empfehlung 7.14 fordert, dass die perkutane Salvage-Strahlentherapie mit mindestens 66 Gy als Therapieoption nach radikaler Prostatektomie bei PSA-Anstieg aus dem Nullbereich angeboten werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.16 bei Patienten mit ungünstigen prognostischen Kriterien (PSA-Verdopplungszeit <12 Monate, Gleason 8-10) zusätzlich zur perkutanen Salvage-Strahlentherapie?",
+    "options": [
+      "Eine Kombination mit einer Androgendeprivationstherapie (ADT).",
+      "Den vollständigen Verzicht auf jede weitere Therapie.",
+      "Eine erneute radikale Prostatektomie.",
+      "Eine alleinige Beobachtung ohne Bestrahlung."
+    ],
+    "correct": 0,
+    "tip": "Die Dauer dieser ADT kann sich laut Empfehlung 7.17 am Progressionsrisiko orientieren (6 bzw. 24 Monate).",
+    "explanation": "Empfehlung 7.16 fordert, dass die perkutane Salvage-Strahlentherapie in Kombination mit einer Androgendeprivationstherapie bei Patienten mit ungünstigen prognostischen Kriterien angeboten werden soll."
+  },
+  {
+    "question": "Bei welchem PSA-Wert soll laut Empfehlung 7.18a die Salvage-Strahlentherapie möglichst frühzeitig beginnen?",
+    "options": [
+      "Bei einem PSA-Wert vor SRT unter 0,5 ng/ml.",
+      "Erst bei einem PSA-Wert über 20 ng/ml.",
+      "Erst nach Nachweis von Fernmetastasen.",
+      "Ein PSA-Grenzwert spielt für den Zeitpunkt keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Bei initialem Stadium pN0 und frühzeitigem Bestrahlungsbeginn sollen laut Empfehlung 7.18b die Lymphabflusswege nicht mitbestrahlt werden.",
+    "explanation": "Empfehlung 7.18a fordert, dass die Salvage-Strahlentherapie möglichst frühzeitig beginnen soll, bei einem PSA-Wert vor SRT unter 0,5 ng/ml."
+  }
+]

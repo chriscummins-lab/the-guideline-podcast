@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was ist laut den 'Wesentlichen Neuerungen' der Version 8 eine zentrale neue Empfehlung zur digital-rektalen Untersuchung (DRU)?",
+    "options": [
+      "Zur Früherkennung von Prostatakarzinomen soll keine DRU mehr erfolgen.",
+      "Die DRU soll ab sofort halbjährlich bei jedem Mann ab 40 Jahren erfolgen.",
+      "Die DRU ersetzt künftig den PSA-Test als alleiniges Früherkennungsverfahren.",
+      "Die DRU wird neu als verpflichtende Kassenleistung ab dem 18. Lebensjahr eingeführt."
+    ],
+    "correct": 0,
+    "tip": "Die PROBASE-Studie zeigte, dass die DRU dem PSA-Test bei der Tumordetektion deutlich unterlegen ist.",
+    "explanation": "Eine wesentliche Neuerung ist Empfehlung 4.1, wonach zur Früherkennung von Prostatakarzinomen keine digital-rektale Untersuchung mehr erfolgen soll."
+  },
+  {
+    "question": "Wie ist laut der neuen risikoadaptierten Früherkennungsstrategie (Empfehlung 4.4) das PSA-Kontrollintervall bei einem Basis-PSA-Wert unter 1,5 ng/ml bzw. bei 1,5-2,99 ng/ml?",
+    "options": [
+      "5-jährliche Intervalle bei <1,5 ng/ml; 2-jährliche Intervalle bei 1,5-2,99 ng/ml.",
+      "Monatliche Intervalle in beiden Gruppen.",
+      "2-jährliche Intervalle bei <1,5 ng/ml; 5-jährliche Intervalle bei 1,5-2,99 ng/ml.",
+      "Es ist in beiden Gruppen keine weitere Kontrolle vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Ab einem kontrollierten PSA-Wert von 3 ng/ml wird dagegen eine weitere Diagnostik empfohlen.",
+    "explanation": "Empfehlung 4.4 sieht eine risikoadaptierte Strategie vor: 5-jährliche Intervalle bei einem PSA-Wert unter 1,5 ng/ml (niedriges Risiko) und 2-jährliche Intervalle bei 1,5-2,99 ng/ml (intermediäres Risiko)."
+  },
+  {
+    "question": "Was ist laut den Neuerungen die wesentlichste Änderung bei der Therapie des lokal begrenzten Prostatakarzinoms des niedrigen Risikoprofils?",
+    "options": [
+      "Initial wird ausschließlich die Aktive Überwachung empfohlen, keine lokale Therapie mehr.",
+      "Die radikale Prostatektomie wird als einzige Therapieoption empfohlen.",
+      "Eine primäre Strahlentherapie wird als neuer Standard festgelegt.",
+      "Watchful Waiting wird als einzige Option für alle Risikoprofile empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Dies ist Teil der kompletten Umstrukturierung von Kapitel 6 in Anlehnung an die EAU-Leitlinie.",
+    "explanation": "Als wesentlichste Änderung im Kapitel zum lokalisierten Prostatakarzinom wird für das niedrige Risikoprofil initial ausschließlich die Aktive Überwachung (Empfehlung 6.6) empfohlen, aber keine lokale Therapie mehr."
+  },
+  {
+    "question": "Bis zu welchem maximalen Zeitraum ist die S3-Leitlinie Prostatakarzinom laut Kapitel 2.1 gültig?",
+    "options": [
+      "Bis zur nächsten Aktualisierung, maximal 5 Jahre.",
+      "Unbegrenzt, eine Aktualisierung ist nicht vorgesehen.",
+      "Maximal 6 Monate.",
+      "Maximal 20 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Diese Gültigkeitsdauer ist im Kapitel 'Einführung' der Leitlinie festgelegt.",
+    "explanation": "Kapitel 2.1 legt fest, dass die S3-Leitlinie bis zur nächsten Aktualisierung gültig ist, maximal jedoch für 5 Jahre."
+  },
+  {
+    "question": "Welche Position nimmt das Prostatakarzinom laut Kapitel 3.1 unter den bösartigen Tumoren des Mannes in Deutschland ein, und wie hoch war die Zahl der Neuerkrankungen im Jahr 2016?",
+    "options": [
+      "Häufigster bösartiger Tumor beim Mann; 58.780 Neuerkrankungen im Jahr 2016.",
+      "Seltenster bösartiger Tumor beim Mann; unter 100 Neuerkrankungen 2016.",
+      "Zweithäufigster bösartiger Tumor beim Mann; 10.000 Neuerkrankungen 2016.",
+      "Häufigster bösartiger Tumor beim Mann; über 500.000 Neuerkrankungen 2016."
+    ],
+    "correct": 0,
+    "tip": "Das mittlere Erkrankungsalter lag 2016 bei 72 Jahren, entsprechend einer altersstandardisierten Inzidenz von 91,6 pro 100.000 Einwohner.",
+    "explanation": "Kapitel 3.1 beschreibt das Prostatakarzinom als häufigsten bösartigen Tumor beim Mann in Deutschland, mit 58.780 Neuerkrankungen im Jahr 2016."
+  },
+  {
+    "question": "Welcher Anteil der männlichen Bevölkerung in westlichen Industrieländern trägt laut Kapitel 3.1 das Lebenszeitrisiko, ein Prostatakarzinom zu entwickeln, und welcher Anteil verstirbt daran?",
+    "options": [
+      "Ca. 40% tragen das Risiko, zu erkranken; nur ca. 3% versterben daran.",
+      "Ca. 3% tragen das Risiko; 40% versterben daran.",
+      "100% tragen das Risiko; 50% versterben daran.",
+      "Unter 1% tragen das Risiko; niemand verstirbt daran."
+    ],
+    "correct": 0,
+    "tip": "Nur etwa 10% der Betroffenen werden überhaupt symptomatisch.",
+    "explanation": "Kapitel 3.1 beschreibt, dass etwa 40% der männlichen Bevölkerung das Risiko tragen, im Laufe ihres Lebens ein Prostatakarzinom zu entwickeln, aber nur etwa 10% symptomatisch werden und nur 3% daran versterben."
+  },
+  {
+    "question": "Was besagt Empfehlung 3.1 (Kapitel 3.2.1, Empfehlungsgrad A) zum wichtigsten Risikofaktor für das Auftreten eines Prostatakarzinoms?",
+    "options": [
+      "Männer sollen darauf hingewiesen werden, dass das Alter der wichtigste Risikofaktor ist.",
+      "Männer sollen darauf hingewiesen werden, dass Ernährung der wichtigste Risikofaktor ist.",
+      "Männer sollen darauf hingewiesen werden, dass Diabetes mellitus der wichtigste Risikofaktor ist.",
+      "Es existiert laut Leitlinie kein nachweisbarer Risikofaktor."
+    ],
+    "correct": 0,
+    "tip": "Die Inzidenz steigt von 17,3/100.000 bei 45-49-Jährigen auf über 650/100.000 bei 70-74-Jährigen an.",
+    "explanation": "Empfehlung 3.1 legt mit Empfehlungsgrad A fest, dass Männer darauf hingewiesen werden sollen, dass das Alter der wichtigste Risikofaktor für das Auftreten eines Prostatakarzinoms ist."
+  },
+  {
+    "question": "Um welchen Faktor ist laut Empfehlung 3.2 das Risiko erhöht, wenn Brüder und/oder der Vater eines Mannes an einem Prostatakarzinom erkrankt sind?",
+    "options": [
+      "Über zweifach erhöht.",
+      "Keine Risikoerhöhung nachweisbar.",
+      "Um das Zehnfache verringert.",
+      "Nur bei Müttern relevant, nicht bei Vätern oder Brüdern."
+    ],
+    "correct": 0,
+    "tip": "Das relative Risiko liegt laut den zugrunde liegenden Metaanalysen bei 2,5 bis 4,3 für jeglichen erstgradigen Verwandten.",
+    "explanation": "Empfehlung 3.2 besagt, dass Männer, deren Brüder und/oder Väter an einem Prostatakarzinom erkrankt sind/waren, auf das über zweifach erhöhte Risiko hingewiesen werden sollen."
+  },
+  {
+    "question": "Welches Ergebnis der PROBASE-Studie (Kapitel 4.1.2, Hintergrund zu Empfehlung 4.1) begründet den Verzicht auf die DRU zur Früherkennung?",
+    "options": [
+      "Nur etwa 14% der mit dem PSA-Test detektierten Tumoren wurden auch mit einer DRU getastet.",
+      "Die DRU detektierte 100% der mit PSA gefundenen Tumoren.",
+      "Die DRU war in der Studie der PSA-Bestimmung deutlich überlegen.",
+      "Es wurden in der PROBASE-Studie keine Unterschiede zwischen DRU und PSA gefunden."
+    ],
+    "correct": 0,
+    "tip": "Eine systematische Übersicht von 8 Studien mit über 85.000 Teilnehmern bestätigte zudem die geringe Sensitivität und Spezifität der DRU.",
+    "explanation": "Die PROBASE-Studie zeigte, dass nur etwa 14% der mit dem PSA-Test detektierten Tumoren auch mit einer DRU getastet wurden, was die deutliche Unterlegenheit der DRU gegenüber dem PSA-Test belegt."
+  },
+  {
+    "question": "Ab welchem Alter soll Männern mit familiärer Belastung (mindestens ein erstgradig Verwandter mit Prostatakarzinom) laut Empfehlung 4.7 ein PSA-basiertes Screening angeboten werden?",
+    "options": [
+      "Ab einem Alter von 45 Jahren.",
+      "Ab einem Alter von 70 Jahren.",
+      "Erst ab einem Alter von 90 Jahren.",
+      "Ein PSA-Screening wird bei familiärer Belastung grundsätzlich nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Dies entspricht demselben Mindestalter wie bei der allgemeinen Früherkennungsberatung nach Empfehlung 4.2.",
+    "explanation": "Empfehlung 4.7 sieht vor, dass Männern mit einer familiären Belastung (mindestens ein erstgradig Verwandter) ein PSA-basiertes Screening ab einem Alter von 45 Jahren angeboten werden soll."
+  }
+]

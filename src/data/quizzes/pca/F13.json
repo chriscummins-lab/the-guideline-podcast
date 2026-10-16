@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was wird laut Kapitel 7.8.1 unter 'Supportivtherapie' verstanden?",
+    "options": [
+      "Unterstützende Maßnahmen, die die Sicherheit und Verträglichkeit systemischer Therapien, operativer Eingriffe, Strahlentherapie und/oder Radionuklidbehandlung verbessern.",
+      "Ausschließlich die alleinige Schmerztherapie ohne weitere Maßnahmen.",
+      "Eine alternative Bezeichnung für die kurative Primärtherapie.",
+      "Ausschließlich psychologische Begleitung ohne jeden medizinischen Bezug."
+    ],
+    "correct": 0,
+    "tip": "Supportive Maßnahmen gehören unverzichtbar zum onkologischen Behandlungskonzept und sollen Therapieabbrüche oder Dosisreduktionen möglichst vermeiden helfen.",
+    "explanation": "Kapitel 7.8.1 definiert die Supportivtherapie als unterstützende Maßnahmen, die die Sicherheit und Verträglichkeit systemischer Therapien, operativer Eingriffe, strahlentherapeutischer Behandlungen und/oder einer Radionuklidbehandlung beim Prostatakarzinom verbessern."
+  },
+  {
+    "question": "Worauf sollen Patienten laut Empfehlung 7.79 (Kapitel 7.8.2) während der onkologischen Therapie hingewiesen werden?",
+    "options": [
+      "Auf die Notwendigkeit körperlicher Aktivität, da diese sich positiv auf Fitness, Therapieverträglichkeit und Alltagsaktivitäten auswirkt.",
+      "Auf die Notwendigkeit absoluter Bettruhe während der gesamten Therapiedauer.",
+      "Auf den Verzicht auf jede Form körperlicher Bewegung.",
+      "Auf die Notwendigkeit einer streng kalorienreduzierten Diät."
+    ],
+    "correct": 0,
+    "tip": "Körperliche Aktivität kann laut Hintergrundtext das Risiko für die Entstehung bestimmter Tumorentitäten um etwa 20-40% verringern.",
+    "explanation": "Empfehlung 7.79 fordert, dass Patienten auf die Notwendigkeit körperlicher Aktivität während der onkologischen Therapie hingewiesen werden sollen, da sich diese positiv auf die körperliche Fitness, die Verträglichkeit der Therapie und die Ausführung täglicher Aktivitäten auswirkt."
+  },
+  {
+    "question": "Welche Ernährungsempfehlung spricht Empfehlung 7.80 für Patienten mit Prostatakrebs aus?",
+    "options": [
+      "Eine ausgewogene Ernährung mit hohem Anteil pflanzlicher Lebensmittel, wobei keine ausreichende Evidenz für spezifischere Ernährungsempfehlungen besteht.",
+      "Eine streng fleischbasierte, kohlenhydratarme Diät als einzig wirksame Maßnahme.",
+      "Eine vollständig parenterale Ernährung bei allen Patienten.",
+      "Der vollständige Verzicht auf jede Nahrungsaufnahme während der Therapie."
+    ],
+    "correct": 0,
+    "tip": "Weder für die Prävention noch für die Beeinflussung des Erkrankungsverlaufes gibt es spezifische Ernährungsempfehlungen mit ausreichender Evidenz.",
+    "explanation": "Empfehlung 7.80 empfiehlt Patienten mit Prostatakrebs eine ausgewogene Ernährung mit einem hohen Anteil pflanzlicher Lebensmittel, weist aber darauf hin, dass keine ausreichende Evidenz für spezifischere Ernährungsempfehlungen besteht."
+  },
+  {
+    "question": "Was besagt Statement 7.81 zum Einsatz von Nahrungsergänzungsmitteln beim Prostatakarzinom?",
+    "options": [
+      "Es gibt keine ausreichende Evidenz für deren Einsatz, weder zur Prävention noch zur Beeinflussung des Erkrankungsverlaufes.",
+      "Nahrungsergänzungsmittel sind nachweislich wirksam zur Heilung des Prostatakarzinoms.",
+      "Sie werden als Standardtherapie bei jedem Patienten empfohlen.",
+      "Sie ersetzen die Androgendeprivation vollständig."
+    ],
+    "correct": 0,
+    "tip": "Dasselbe gilt laut Statement 7.82 auch für komplementäre medizinische Methoden.",
+    "explanation": "Statement 7.81 stellt fest, dass es keine ausreichende Evidenz zum Einsatz von Nahrungsergänzungsmitteln beim Prostatakarzinom gibt, weder für die Prävention noch für die Beeinflussung des Erkrankungsverlaufes."
+  },
+  {
+    "question": "Was steht laut Statement 7.100 (Kapitel 7.9.1) im Zentrum der uro-onkologischen Versorgung in der nicht-kurativen Therapiesituation?",
+    "options": [
+      "Die Verbesserung der Lebensqualität durch effektive Behandlung typischer belastender Symptome als Teil der interdisziplinären Versorgung.",
+      "Die ausschließliche Verlängerung der Überlebenszeit um jeden Preis.",
+      "Der vollständige Verzicht auf jede symptomorientierte Behandlung.",
+      "Die alleinige Fokussierung auf laborchemische PSA-Verlaufskontrollen."
+    ],
+    "correct": 0,
+    "tip": "Zu dieser interdisziplinären Versorgung kann auch die palliativmedizinische Versorgung gehören.",
+    "explanation": "Statement 7.100 legt fest, dass im Zentrum der Versorgung in der nicht-kurativen Therapiesituation die Verbesserung der Lebensqualität durch effektive Behandlung typischer belastender Symptome steht, als Teil der interdisziplinären Versorgung."
+  },
+  {
+    "question": "Welche körperlichen und psychischen Beschwerden sollen laut Empfehlung 7.102 regelmäßig erhoben und behandelt werden?",
+    "options": [
+      "Angst, Unruhe, Depression, Dyspnoe, Schwäche und Fatigue.",
+      "Ausschließlich Übergewicht und Bluthochdruck.",
+      "Ausschließlich Zahnschmerzen.",
+      "Beschwerden sollen laut dieser Empfehlung nicht aktiv erhoben werden."
+    ],
+    "correct": 0,
+    "tip": "Zudem sollen reversible Ursachen dieser Beschwerden diagnostiziert und angemessen behandelt werden.",
+    "explanation": "Empfehlung 7.102 fordert, dass körperliche und psychische Beschwerden wie Angst, Unruhe, Depression, Dyspnoe, Schwäche und Fatigue regelmäßig erhoben und angemessen betreut und behandelt werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.103 (Empfehlungsgrad A) im Sinne einer 'Early integration of palliative care'?",
+    "options": [
+      "Die Möglichkeiten der palliativmedizinischen Versorgung sollen umfassend besprochen und frühzeitig im Krankheitsverlauf angeboten werden.",
+      "Palliativmedizinische Versorgung soll ausschließlich in der terminalen Lebensphase angeboten werden.",
+      "Eine palliativmedizinische Versorgung ist beim Prostatakarzinom generell nicht vorgesehen.",
+      "Die Besprechung palliativmedizinischer Optionen soll dem Patienten explizit vorenthalten werden."
+    ],
+    "correct": 0,
+    "tip": "Eine randomisierte Studie zeigte, dass frühe integrative palliative Betreuung die Lebensqualität signifikant verbessert, ohne die Überlebenszeit negativ zu beeinflussen.",
+    "explanation": "Empfehlung 7.103 fordert, dass die Möglichkeiten der palliativmedizinischen Versorgung mit dem Patienten und seinen Angehörigen umfassend besprochen werden sollen und im Sinne einer 'Early integration of palliative care' frühzeitig im Krankheitsverlauf Unterstützungsoptionen angeboten werden sollen."
+  },
+  {
+    "question": "Wovon hängt laut Statement 7.104 der Zeitpunkt der Ergänzung der Regelversorgung durch eine Palliativversorgung in erster Linie ab?",
+    "options": [
+      "Vom Bedürfnis des Patienten und dem individuellen Krankheitsverlauf.",
+      "Ausschließlich von starren, kalendarisch festgelegten Zeitpunkten nach Diagnosestellung.",
+      "Ausschließlich vom PSA-Wert, unabhängig von Symptomatik oder Patientenwunsch.",
+      "Ausschließlich von der Entscheidung der Krankenkasse."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht den individualisierten, patientenzentrierten Ansatz der Palliativmedizin.",
+    "explanation": "Statement 7.104 legt fest, dass der Zeitpunkt der Ergänzung der Regelversorgung durch eine Palliativversorgung in erster Linie vom Bedürfnis des Patienten und dem individuellen Krankheitsverlauf abhängt."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 7.105 die Festlegung der medizinischen Behandlungsstrategie in der nicht-kurativen Therapiesituation erfolgen?",
+    "options": [
+      "Interdisziplinär und multiprofessionell.",
+      "Ausschließlich durch den behandelnden Urologen allein.",
+      "Ausschließlich durch eine automatisierte Software-Empfehlung.",
+      "Ausschließlich durch den Hausarzt ohne Einbindung von Spezialisten."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll den Patienten laut Empfehlung 7.106 Zugang zu einem interdisziplinären Behandlungsteam angeboten werden.",
+    "explanation": "Empfehlung 7.105 fordert, dass die Festlegung der medizinischen Behandlungsstrategie interdisziplinär und multiprofessionell erfolgen soll."
+  },
+  {
+    "question": "Zu welchem interdisziplinären Behandlungsteam soll Patienten laut Empfehlung 7.106 Zugang angeboten werden?",
+    "options": [
+      "Zu einem Team einschließlich psychosozial bzw. psychoonkologisch sowie palliativmedizinisch geschultem Fachpersonal.",
+      "Ausschließlich zu einem rein chirurgisch orientierten Team.",
+      "Ausschließlich zu einem Team aus Verwaltungsmitarbeitern.",
+      "Ein interdisziplinäres Team ist laut dieser Empfehlung nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt den ganzheitlichen Versorgungsanspruch in der nicht-kurativen Therapiesituation wider.",
+    "explanation": "Empfehlung 7.106 fordert, dass Patienten Zugang zu einem interdisziplinären Behandlungsteam angeboten werden sollte, einschließlich psychosozial bzw. psychoonkologisch sowie palliativmedizinisch geschultem Fachpersonal."
+  }
+]

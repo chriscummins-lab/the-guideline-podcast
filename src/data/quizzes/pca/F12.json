@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie wird ein oligometastasiertes Prostatakarzinom laut Statement 7.60 (Kapitel 7.5.1) definiert?",
+    "options": [
+      "Ein Tumor mit maximal 4 in konventioneller Bildgebung nachweisbaren Knochenmetastasen ohne extraossäre viszerale Metastasen.",
+      "Jeder Tumor mit mindestens einer Fernmetastase, unabhängig von deren Anzahl oder Lokalisation.",
+      "Ein Tumor mit mehr als 10 Knochenmetastasen und zusätzlichen Lebermetastasen.",
+      "Ausschließlich ein Tumor mit Lymphknotenmetastasen, aber ohne jede Knochenmetastase."
+    ],
+    "correct": 0,
+    "tip": "Diese Grenze von bis zu 4 Knochenmetastasen wurde aus pragmatischen Gründen in Anlehnung an die Auswertung von Burdett et al. festgelegt.",
+    "explanation": "Statement 7.60 definiert das oligometastasierte Prostatakarzinom als Tumor mit maximal 4 in konventioneller Bildgebung nachweisbaren Knochenmetastasen ohne extraossäre viszerale Metastasen."
+  },
+  {
+    "question": "Welche Organe werden im Kontext von Statement 7.60 als 'extraossäre viszerale Metastasen' verstanden?",
+    "options": [
+      "Hämatogene Metastasen in Leber, Lunge, Hirn und anderen Organen.",
+      "Ausschließlich lymphogene Fernmetastasen in pelvinen Lymphknoten.",
+      "Ausschließlich Hautmetastasen.",
+      "Ausschließlich Metastasen im Bereich der Prostataloge selbst."
+    ],
+    "correct": 0,
+    "tip": "Lymphogene Fernmetastasen zählen explizit nicht dazu, da sie eine bessere Prognose aufweisen.",
+    "explanation": "Im Kontext von Statement 7.60 werden unter extraossären viszeralen Metastasen hämatogene Metastasen in Leber, Lunge, Hirn und anderen Organen verstanden, nicht jedoch lymphogene Fernmetastasen."
+  },
+  {
+    "question": "Was kann laut Empfehlung 7.61 Patienten mit neu diagnostiziertem, oligometastasiertem Prostatakarzinom ('low volume' nach CHAARTED-Kriterien) zusätzlich zur systemischen Therapie angeboten werden?",
+    "options": [
+      "Eine perkutane Strahlentherapie der Prostata.",
+      "Eine sofortige bilaterale Orchiektomie als alleinige Maßnahme.",
+      "Eine fokale Therapie der Prostata als Ersatz für die systemische Therapie.",
+      "Eine alleinige Watchful-Waiting-Strategie ohne jede weitere Therapie."
+    ],
+    "correct": 0,
+    "tip": "In der STAMPEDE-Studie zeigte sich für diese Subgruppe mit 'low metastatic burden' ein signifikanter Überlebensvorteil durch diese zusätzliche Bestrahlung.",
+    "explanation": "Empfehlung 7.61 sieht vor, dass Patienten mit neu diagnostiziertem, oligometastasiertem Prostatakarzinom (low volume nach CHAARTED) zusätzlich zur systemischen Therapie eine perkutane Strahlentherapie der Prostata angeboten werden kann."
+  },
+  {
+    "question": "Welche maximale Äquivalenzdosis soll laut Empfehlung 7.63 bei der externen, hypofraktionierten Strahlentherapie der Prostata im oligometastasierten Setting nicht überschritten werden?",
+    "options": [
+      "74 Gy in 2 Gy-Standardfraktionierung.",
+      "20 Gy in 2 Gy-Standardfraktionierung.",
+      "150 Gy in 2 Gy-Standardfraktionierung.",
+      "Es existiert keine Obergrenze für die Äquivalenzdosis."
+    ],
+    "correct": 0,
+    "tip": "Diese Bestrahlung soll laut Empfehlung 7.63 hypofraktioniert verabreicht werden.",
+    "explanation": "Empfehlung 7.63 fordert, dass die externe Strahlentherapie hypofraktioniert verabreicht werden sollte und eine Äquivalenzdosis von 74 Gy in 2 Gy-Standardfraktionierung nicht überschreiten sollte."
+  },
+  {
+    "question": "Was besagt die verknüpfte Empfehlung 7.64 zur radikalen Prostatektomie beim oligometastasierten Prostatakarzinom?",
+    "options": [
+      "Sie ist als Therapieoption nicht hinreichend durch Evidenz belegt.",
+      "Sie ist durch zahlreiche prospektive randomisierte Studien eindeutig als Standardtherapie belegt.",
+      "Sie ist beim oligometastasierten Prostatakarzinom explizit kontraindiziert.",
+      "Sie ersetzt in jedem Fall die systemische Therapie vollständig."
+    ],
+    "correct": 0,
+    "tip": "Trotzdem kann sie laut Empfehlung 7.65 nach Diskussion in einer interdisziplinären Tumorkonferenz im Rahmen einer multimodalen Therapie angeboten werden.",
+    "explanation": "Empfehlung 7.64 stellt fest, dass die radikale Prostatektomie als Therapieoption beim oligometastasierten Prostatakarzinom nicht hinreichend durch Evidenz belegt ist."
+  },
+  {
+    "question": "Wofür kann laut Empfehlung 7.67 die metastasengerichtete lokal ablative Therapie beim oligometastasierten Prostatakarzinom eingesetzt werden?",
+    "options": [
+      "Zur Verzögerung einer Androgendeprivation und/oder Tumorprogression.",
+      "Als vollständiger Ersatz jeder systemischen Therapie mit kurativer Absicht.",
+      "Ausschließlich zur Schmerzlinderung bei bereits bestehenden pathologischen Frakturen.",
+      "Sie ist beim oligometastasierten Prostatakarzinom ausdrücklich nicht einsetzbar."
+    ],
+    "correct": 0,
+    "tip": "Laut Empfehlung 7.68 sollte die externe Strahlentherapie dabei vorzugsweise als stereotaktische Bestrahlung (SBRT) erfolgen.",
+    "explanation": "Empfehlung 7.67 sieht vor, dass die metastasengerichtete lokal ablative Therapie beim oligometastasierten Prostatakarzinom zur Verzögerung einer Androgendeprivation und/oder Tumorprogression eingesetzt werden kann."
+  },
+  {
+    "question": "Welche drei Therapieoptionen sollen laut Empfehlung 7.69 (Kapitel 7.6) Patienten mit ossären Metastasen zusätzlich angeboten werden?",
+    "options": [
+      "Medikamentöse Schmerztherapie, lokale Bestrahlung und ggf. operative Intervention.",
+      "Ausschließlich eine Chemotherapie ohne jede weitere Maßnahme.",
+      "Ausschließlich eine psychologische Betreuung ohne medizinische Intervention.",
+      "Ausschließlich eine Ernährungsumstellung."
+    ],
+    "correct": 0,
+    "tip": "Die Therapie symptomatischer ossärer Metastasen ist dabei Bestandteil des onkologischen Gesamtkonzeptes.",
+    "explanation": "Empfehlung 7.69 fordert, dass Patienten mit ossären Metastasen zusätzlich eine oder mehrere der folgenden Optionen angeboten werden sollen: medikamentöse Schmerztherapie, lokale Bestrahlung oder operative Intervention."
+  },
+  {
+    "question": "In welchen Situationen soll laut Empfehlung 7.70 (Empfehlungsgrad A) eine lokale perkutane Bestrahlung bei Knochenmetastasen eingesetzt werden?",
+    "options": [
+      "Bei persistierenden lokalisierten Knochenschmerzen, drohender spinaler Kompression, nach operativer Stabilisierung oder bei erhöhtem Frakturrisiko.",
+      "Ausschließlich bei vollständig asymptomatischen Patienten ohne jede Beschwerde.",
+      "Nur bei Patienten unter 50 Jahren.",
+      "Nur wenn bereits eine Chemotherapie abgeschlossen wurde."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert auf Evidenzlevel 1++ und wurde mit starkem Konsens verabschiedet.",
+    "explanation": "Empfehlung 7.70 fordert den Einsatz der lokalen perkutanen Bestrahlung bei persistierenden lokalisierten Knochenschmerzen, drohender spinaler Kompression, nach operativer Stabilisierung oder bei erhöhtem Frakturrisiko."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.73 zur Prävention von Komplikationen bei Knochenmetastasen im kastrationsresistenten Stadium?",
+    "options": [
+      "Der monoklonale Antikörper Denosumab oder das Bisphosphonat Zoledronsäure soll unter Aufklärung von Nutzen und Schaden angeboten werden.",
+      "Bisphosphonate sollen in diesem Stadium grundsätzlich nicht eingesetzt werden.",
+      "Eine medikamentöse Prävention ist im kastrationsresistenten Stadium nicht vorgesehen.",
+      "Ausschließlich eine Chemotherapie ist zur Prävention von Knochenkomplikationen geeignet."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz dazu sollten Bisphosphonate laut Empfehlung 7.72 im hormon-naiven Stadium nicht eingesetzt werden.",
+    "explanation": "Empfehlung 7.73 fordert, dass zur Prävention von Komplikationen bei Knochenmetastasen im kastrationsresistenten Stadium Denosumab oder Zoledronsäure unter Aufklärung von Nutzen und Schaden angeboten werden soll."
+  },
+  {
+    "question": "Was soll laut Empfehlung 7.74 zur Prävention von Kieferosteonekrosen vor Gabe von Bisphosphonaten oder Denosumab erfolgen?",
+    "options": [
+      "Eine zahnärztliche Untersuchung mit ggf. erforderlicher Sanierung sowie eine Unterweisung zu überdurchschnittlicher Mundhygiene.",
+      "Eine vollständige Extraktion aller Zähne vor Therapiebeginn.",
+      "Keine besonderen Maßnahmen sind erforderlich.",
+      "Eine Röntgenaufnahme des gesamten Skeletts."
+    ],
+    "correct": 0,
+    "tip": "Diese Maßnahmen sollen das Risiko einer Kieferosteonekrose als mögliche Nebenwirkung dieser Substanzen reduzieren.",
+    "explanation": "Empfehlung 7.74 fordert vor der Gabe von Bisphosphonaten oder Denosumab eine zahnärztliche Untersuchung mit ggf. erforderlicher Sanierung sowie eine Unterweisung des Patienten zu überdurchschnittlicher Mundhygiene."
+  }
+]

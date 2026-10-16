@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Behandlung soll laut Empfehlung 6.54 (Kapitel 6.4) Patienten mit einer Lebenserwartung über 10 Jahren und einem lokal fortgeschrittenen Prostatakarzinom oder sehr hohem Risikoprofil (NCCN) angeboten werden?",
+    "options": [
+      "Eine radikale Prostatektomie als Teil einer multimodalen Therapie.",
+      "Ausschließlich eine palliative Therapie ohne kurativen Anspruch.",
+      "Ausschließlich eine Watchful-Waiting-Strategie.",
+      "Eine fokale Therapie als Standardoption."
+    ],
+    "correct": 0,
+    "tip": "Die Risikoklasse 'sehr hohes Risikoprofil' entspricht dabei der NCCN-Kategorie 'very high risk'.",
+    "explanation": "Empfehlung 6.54 fordert, dass Patienten mit einer Lebenserwartung über 10 Jahren und einem lokal fortgeschrittenen Prostatakarzinom oder lokal begrenztem Prostatakarzinom des sehr hohen Risikoprofils nach NCCN eine radikale Prostatektomie als Teil einer multimodalen Therapie angeboten werden soll."
+  },
+  {
+    "question": "Wie lange soll laut Empfehlung 6.57 die hormonablative Therapie bei Patienten mit lokal fortgeschrittenem Prostatakarzinom in Kombination mit perkutaner Strahlentherapie mindestens dauern?",
+    "options": [
+      "Mindestens 24 bis 36 Monate.",
+      "Mindestens 1 Woche.",
+      "Mindestens 10 Jahre.",
+      "Eine Mindestdauer ist nicht festgelegt."
+    ],
+    "correct": 0,
+    "tip": "Diese Therapie kann laut der Empfehlung bis zu 6 Monate vor der Strahlentherapie beginnen.",
+    "explanation": "Empfehlung 6.57 fordert, dass die hormonablative Therapie beim lokal fortgeschrittenen Prostatakarzinom mindestens 24 bis 36 Monate dauern soll und bis zu 6 Monate vor der Strahlentherapie beginnen kann."
+  },
+  {
+    "question": "Welche neue Hormontherapie-Kombination soll laut Empfehlung 6.59 (neu 2025) Patienten mit hormonsensitivem Prostatakarzinom (Nx/N0 M0) mit 2 oder mehr Risikofaktoren (PSA>40 ng/ml/T3-4/ISUP 4-5) bei Bestrahlung der Prostata und des pelvinen Lymphabflusses angeboten werden?",
+    "options": [
+      "GnRH-Analogon für 3 Jahre kombiniert mit Abirateron/Prednison für 2 Jahre.",
+      "Ausschließlich Bicalutamid als Monotherapie für 1 Monat.",
+      "Eine Chemotherapie mit Docetaxel als alleinige systemische Therapie.",
+      "Keine systemische Therapie, da eine alleinige Bestrahlung ausreicht."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination ist eine der wesentlichen Neuerungen der aktuellen Leitlinienversion und stützt sich auf Evidenzlevel 1+.",
+    "explanation": "Empfehlung 6.59 fordert, dass bei entsprechender Risikokonstellation zusätzlich zur Bestrahlung eine hormonablative Therapie mit einem GnRH-Analogon über 3 Jahre und Abirateron/Prednison über 2 Jahre angeboten werden soll."
+  },
+  {
+    "question": "In welchem Rahmen soll laut Empfehlung 6.61 (Empfehlungsgrad A) bei Patienten mit lokal fortgeschrittenem Prostatakarzinom eine Protonentherapie angeboten werden?",
+    "options": [
+      "Nur innerhalb klinischer Studien.",
+      "Als neuer Therapiestandard außerhalb von Studien.",
+      "Ausschließlich in Kombination mit einer radikalen Prostatektomie.",
+      "Als alleinige Therapie ohne begleitende Hormontherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung beruht auf der unklaren Datenlage zum patientenrelevanten Nutzen der Protonentherapie.",
+    "explanation": "Empfehlung 6.61 fordert, dass eine Protonentherapie bei Patienten mit lokal fortgeschrittenem Prostatakarzinom nur innerhalb klinischer Studien angeboten werden soll."
+  },
+  {
+    "question": "Welche lokalen Behandlungsoptionen nennt Statement 6.68 (Kapitel 6.5) für Patienten mit histologisch gesicherten Lymphknotenmetastasen?",
+    "options": [
+      "Die operative Therapie oder die Strahlentherapie, ergänzt durch eine sofortige oder verzögerte hormonablative Therapie.",
+      "Ausschließlich die alleinige Chemotherapie.",
+      "Ausschließlich die Watchful-Waiting-Strategie ohne jede weitere Therapie.",
+      "Es existiert laut Statement keine lokale Behandlungsoption bei Lymphknotenmetastasen."
+    ],
+    "correct": 0,
+    "tip": "Ein valider Vergleich dieser Primärtherapieverfahren als Monotherapie oder in Kombination ist laut dem Statement aufgrund der Studienlage nicht möglich.",
+    "explanation": "Statement 6.68 nennt als lokale Behandlungsoptionen bei histologisch gesicherten Lymphknotenmetastasen die operative Therapie oder die Strahlentherapie, als systemische Behandlung die sofortige oder verzögerte hormonablative Therapie."
+  },
+  {
+    "question": "Was besagt Statement 6.69 zum therapeutischen Stellenwert der Lymphadenektomie und der adjuvanten Strahlentherapie beim lymphknotenpositiven Prostatakarzinom?",
+    "options": [
+      "Beide sind nicht in prospektiven Studien geklärt.",
+      "Beide sind durch zahlreiche prospektive randomisierte Studien eindeutig belegt.",
+      "Die Lymphadenektomie ist kontraindiziert, die adjuvante Strahlentherapie obligat.",
+      "Beide Verfahren werden in der Leitlinie als obsolet bezeichnet."
+    ],
+    "correct": 0,
+    "tip": "Dies spiegelt die insgesamt eingeschränkte Evidenzlage (Evidenzlevel 3 bzw. 2-) zu diesem Thema wider.",
+    "explanation": "Statement 6.69 stellt fest, dass der therapeutische Stellenwert sowohl der Lymphadenektomie im Rahmen der radikalen Prostatektomie als auch der Bestrahlung der pelvinen Lymphabflusswege beim lymphknotenpositiven Prostatakarzinom nicht in prospektiven Studien geklärt ist."
+  },
+  {
+    "question": "Welche Hormontherapie-Kombination soll laut Empfehlung 6.70 Patienten mit lymphknotenpositivem hormonsensitivem Prostatakarzinom (N1 M0) bei Bestrahlung von Prostata und pelvinem Lymphabfluss angeboten werden?",
+    "options": [
+      "GnRH-Analogon für 3 Jahre kombiniert mit Abirateron/Prednison für 2 Jahre.",
+      "Ausschließlich eine kurzfristige 4-monatige Androgendeprivation ohne weitere Substanzen.",
+      "Eine alleinige Chemotherapie mit Docetaxel.",
+      "Keine systemische Therapie, da eine alleinige Operation ausreicht."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination ist analog zu Empfehlung 6.59 für den N0-Fall formuliert, hier jedoch spezifisch für nachgewiesenen Lymphknotenbefall.",
+    "explanation": "Empfehlung 6.70 fordert, dass Patienten mit lymphknotenpositivem hormonsensitivem Prostatakarzinom bei entsprechender Bestrahlung zusätzlich eine hormonablative Therapie mit GnRH-Analogon (3 Jahre) und Abirateron/Prednison (2 Jahre) angeboten werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.71 (Empfehlungsgrad B, Kapitel 6.6) bezüglich einer neoadjuvanten antihormonellen Therapie vor radikaler Prostatektomie?",
+    "options": [
+      "Sie sollte bei Patienten aller Risikoprofile mit lokal begrenztem Prostatakarzinom nicht erfolgen.",
+      "Sie soll bei allen Patienten obligat vor jeder radikalen Prostatektomie durchgeführt werden.",
+      "Sie soll ausschließlich bei Patienten mit niedrigem Risiko erfolgen.",
+      "Sie ist nur bei Patienten über 90 Jahre vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung deckt sich mit der Haltung der EAU-Leitlinie 2024, die ebenfalls von einer neoadjuvanten Hormontherapie vor der Operation abrät.",
+    "explanation": "Empfehlung 6.71 fordert, dass bei Patienten mit lokal begrenztem Prostatakarzinom aller Risikoprofile vor radikaler Prostatektomie keine neoadjuvante antihormonelle Therapie erfolgen sollte."
+  },
+  {
+    "question": "Für welche Patientengruppe soll laut Empfehlung 6.73 eine adjuvante Strahlentherapie (IMRT+IGRT) nach radikaler Prostatektomie als Option angeboten werden?",
+    "options": [
+      "Patienten mit lokal fortgeschrittenem Prostatakarzinom (pN0) mit pT3/pT4 (unabhängig vom R-Status) und Gleason Score 8-10 (ISUP 4-5).",
+      "Ausschließlich Patienten mit pT2-Tumoren und negativem Schnittrand.",
+      "Ausschließlich Patienten mit einem Gleason-Score von 6.",
+      "Alle Patienten nach radikaler Prostatektomie unabhängig vom Befund."
+    ],
+    "correct": 0,
+    "tip": "Die Patienten sollen dabei über Nutzen und Risiken dieser Option aufgeklärt werden.",
+    "explanation": "Empfehlung 6.73 beschränkt die Indikation zur adjuvanten Strahlentherapie auf Patienten mit lokal fortgeschrittenem Prostatakarzinom (pN0), die die Faktoren pT3/pT4 unabhängig vom R-Status und einen Gleason Score von 8-10 aufweisen."
+  },
+  {
+    "question": "Was soll laut Empfehlung 6.75 bei der Aufklärung über eine adjuvante Strahlentherapie zusätzlich genannt werden?",
+    "options": [
+      "Die alternative Option der perkutanen Strahlentherapie erst bei PSA-Anstieg aus dem definierten Nullbereich (Salvage-Strahlentherapie).",
+      "Dass eine adjuvante Strahlentherapie risikofrei ist.",
+      "Dass die Aktive Überwachung in dieser Situation die bevorzugte Alternative darstellt.",
+      "Dass eine fokale Therapie als gleichwertige Alternative zur Verfügung steht."
+    ],
+    "correct": 0,
+    "tip": "Diese alternative Strategie wird auch als frühe Salvage-Strahlentherapie bezeichnet und in Kapitel 7.2 näher behandelt.",
+    "explanation": "Empfehlung 6.75 fordert, dass bei der Aufklärung über die adjuvante Strahlentherapie die alternative Option der perkutanen Strahlentherapie bei PSA-Anstieg aus dem definierten Nullbereich genannt werden soll."
+  }
+]

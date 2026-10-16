@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was soll dem Patienten laut Empfehlung 10.1 (Kapitel 10.1, Empfehlungsgrad A) bezüglich Aufklärungs- und Beratungsgesprächen angeboten werden?",
+    "options": [
+      "Seine Partnerin/seinen Partner an diesen Gesprächen teilhaben zu lassen.",
+      "Aufklärungsgespräche grundsätzlich ohne jede Begleitperson zu führen.",
+      "Auf jede Form der Aufklärung zu verzichten, um den Patienten nicht zu belasten.",
+      "Aufklärungsgespräche ausschließlich schriftlich per Post zu führen."
+    ],
+    "correct": 0,
+    "tip": "Partnerinnen/Partner von PCa-Patienten haben häufig ein ebenso starkes Informationsbedürfnis wie die Patienten selbst und leiden teils stärker unter der Diagnose.",
+    "explanation": "Empfehlung 10.1 fordert, dass dem Patienten angeboten werden soll, seine Partnerin/seinen Partner an Aufklärungs- und Beratungsgesprächen teilhaben zu lassen."
+  },
+  {
+    "question": "Über welche speziellen Auswirkungen soll der Patient laut Empfehlung 10.2 im ärztlichen Gespräch insbesondere informiert werden?",
+    "options": [
+      "Auswirkungen auf körperliches Erscheinungsbild, Sexualleben, Harn- und Stuhlkontrolle sowie Aspekte des männlichen Selbstverständnisses.",
+      "Ausschließlich über finanzielle Aspekte der Behandlung.",
+      "Ausschließlich über die Namen der behandelnden Pflegekräfte.",
+      "Ausschließlich über die Parkmöglichkeiten am Behandlungsort."
+    ],
+    "correct": 0,
+    "tip": "Diese Aufklärung soll alle in der Leitlinie beschriebenen relevanten Therapieoptionen, deren Erfolgsaussichten und mögliche Auswirkungen umfassen.",
+    "explanation": "Empfehlung 10.2 fordert, dass der Patient insbesondere über Auswirkungen auf sein körperliches Erscheinungsbild, sein Sexualleben (Impotenz), seine Harn- und Stuhlkontrolle (Inkontinenz) und Aspekte des männlichen Selbstverständnisses informiert werden soll."
+  },
+  {
+    "question": "Was soll laut Empfehlung 10.3 im ärztlichen Gespräch eruiert und berücksichtigt werden, und was gilt, wenn ein Patient hierfür mehrere Gespräche benötigt?",
+    "options": [
+      "Die individuellen Präferenzen, Bedürfnisse, Sorgen und Ängste des Patienten; das Angebot zu weiteren Gesprächen soll bestehen.",
+      "Ausschließlich der Versicherungsstatus des Patienten; weitere Gespräche sind kostenpflichtig zu verweigern.",
+      "Ausschließlich die familiäre Vorgeschichte; weitere Gespräche sind grundsätzlich nicht vorgesehen.",
+      "Individuelle Präferenzen spielen laut dieser Empfehlung keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Individualisierte Aufklärung, die sich an den Präferenzen des einzelnen Patienten orientiert, verbessert die Entscheidungsfindung.",
+    "explanation": "Empfehlung 10.3 fordert, dass die individuellen Präferenzen, Bedürfnisse, Sorgen und Ängste des Patienten eruiert und berücksichtigt werden sollen, und dass bei Bedarf mehrerer Gespräche das Angebot zu weiteren Gesprächen bestehen soll."
+  },
+  {
+    "question": "Worauf soll der Patient laut Empfehlung 10.4 hingewiesen werden?",
+    "options": [
+      "Auf die evidenzbasierten Patientenleitlinien zum Prostatakarzinom.",
+      "Auf ausschließlich kommerzielle, nicht evidenzbasierte Gesundheitsportale.",
+      "Auf den vollständigen Verzicht auf jede weiterführende Information.",
+      "Auf ausschließlich fremdsprachige Fachliteratur ohne deutsche Übersetzung."
+    ],
+    "correct": 0,
+    "tip": "Diese Patientenleitlinien sollen dem Patienten eine qualifizierte, aber allgemeinverständliche Zusatzinformation bieten.",
+    "explanation": "Empfehlung 10.4 fordert, dass der Patient auf die evidenzbasierten Patientenleitlinien zum Prostatakarzinom hingewiesen werden soll."
+  },
+  {
+    "question": "Wozu soll der Patient laut Empfehlung 10.5 durch qualifizierte, allgemeinverständliche Informationen befähigt werden?",
+    "options": [
+      "Zur Therapieentscheidung.",
+      "Ausschließlich zur Selbstdiagnose ohne ärztliche Beteiligung.",
+      "Ausschließlich zur Durchführung der Operation in Eigenregie.",
+      "Information soll laut dieser Empfehlung explizit zurückgehalten werden."
+    ],
+    "correct": 0,
+    "tip": "Dies ist Teil des Prinzips der partizipativen Entscheidungsfindung (Shared Decision Making).",
+    "explanation": "Empfehlung 10.5 fordert, dass der Patient durch ebenso qualifizierte wie allgemeinverständliche Informationen zur Therapieentscheidung befähigt werden soll."
+  },
+  {
+    "question": "Welche Darstellungsform von Wahrscheinlichkeiten wird laut dem Hintergrundtext zu Empfehlung 10.2–10.5 für die Patientenaufklärung empfohlen?",
+    "options": [
+      "Absolute Zahlen (z. B. 'zehn von hundert Patienten') statt Prozentangaben, sowie die Number Needed to Treat (NNT) statt relativer Risikoreduktion.",
+      "Ausschließlich Prozentangaben ohne jede weitere Erläuterung.",
+      "Ausschließlich die relative Risikoreduktion, da diese am verständlichsten ist.",
+      "Eine quantitative Darstellung von Wahrscheinlichkeiten wird grundsätzlich abgelehnt."
+    ],
+    "correct": 0,
+    "tip": "Die relative Risikoreduktion gilt als schwer nachvollziehbar und sollte deshalb vermieden werden.",
+    "explanation": "Der Hintergrundtext empfiehlt die Darstellung von Wahrscheinlichkeiten in absoluten Zahlen statt Prozentangaben sowie die Verwendung der patientenverständlichen Number Needed to Treat (NNT) anstelle der schwerer nachvollziehbaren relativen Risikoreduktion."
+  },
+  {
+    "question": "Welche drei Themen waren laut den von Crawford und Mitarbeitern untersuchten Patientenpräferenzen die wichtigsten Aufklärungsinhalte für PCa-Patienten?",
+    "options": [
+      "Erhaltung der Lebensqualität (45%), Lebensverlängerung (29%) und Krankheitsverlangsamung (13%).",
+      "Ausschließlich die Kosten der Behandlung.",
+      "Ausschließlich die Dauer des Krankenhausaufenthalts.",
+      "Ausschließlich die Erreichbarkeit des Behandlungsteams."
+    ],
+    "correct": 0,
+    "tip": "Diese Rangfolge verdeutlicht, dass die Lebensqualität für die meisten Patienten den höchsten Stellenwert hat.",
+    "explanation": "Nach Untersuchungen von Crawford und Mitarbeitern waren für PCa-Patienten die Erhaltung der Lebensqualität (45%), die Lebensverlängerung (29%) und die Krankheitsverlangsamung (13%) die wichtigsten Aufklärungsinhalte."
+  },
+  {
+    "question": "Wozu dienen laut Kapitel 11 Qualitätsindikatoren (QI)?",
+    "options": [
+      "Der Beurteilung der Qualität von Strukturen, Prozessen bzw. Ergebnissen der Versorgung, um diese stetig zu verbessern.",
+      "Ausschließlich der Abrechnung gegenüber den Krankenkassen.",
+      "Ausschließlich der statistischen Erfassung von Patientennamen.",
+      "Qualitätsindikatoren spielen in der Leitlinie keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Die Ergebnisse der Versorgung werden dabei dargestellt, kritisch reflektiert und wenn nötig verbessert.",
+    "explanation": "Qualitätsindikatoren sind Messgrößen, deren Erhebung der Beurteilung der Qualität der zugrunde liegenden Strukturen, Prozesse bzw. Ergebnisse dient, mit dem Ziel der stetigen Verbesserung der Versorgung."
+  },
+  {
+    "question": "Aus wie vielen Qualitätsindikatoren besteht laut Kapitel 11 das finale Set der aktuellen Leitlinienversion, nachdem ein neuer QI angenommen, vier gestrichen und drei modifiziert wurden?",
+    "options": [
+      "10 Qualitätsindikatoren.",
+      "50 Qualitätsindikatoren.",
+      "1 Qualitätsindikator.",
+      "Es existiert kein festgelegtes QI-Set."
+    ],
+    "correct": 0,
+    "tip": "Vier dieser zehn Qualitätsindikatoren sind mit dem onkologischen Basisdatensatz der Krebsregister zu dokumentieren.",
+    "explanation": "Kapitel 11 beschreibt, dass das finale Set nach den Anpassungen der Arbeitsgruppe Qualitätsindikatoren aus 10 Qualitätsindikatoren besteht."
+  },
+  {
+    "question": "Welche Information soll laut dem Qualitätsindikator QI 1 (Befundbericht Stanzbiopsie) auf Basis von Empfehlung 5.8 im pathologischen Befundbericht erwähnt werden?",
+    "options": [
+      "Eine intraduktale Tumorkomponente (IDC-P nach WHO-Definition) soll in der Diagnose erwähnt werden.",
+      "Ausschließlich das Geburtsdatum des Patienten.",
+      "Ausschließlich die Versicherungsnummer des Patienten.",
+      "Diese Information ist für QI 1 nicht relevant."
+    ],
+    "correct": 0,
+    "tip": "QI 1 bezieht sich dabei u. a. auf die Empfehlungen 5.8, 5.9 und 5.11 zur Vollständigkeit des Befundberichts nach Stanzbiopsie.",
+    "explanation": "Qualitätsindikator QI 1 fordert auf Grundlage von Empfehlung 5.8, dass eine intraduktale Tumorkomponente (IDC-P) in der Diagnose des Befundberichts nach Stanzbiopsie erwähnt werden soll."
+  }
+]

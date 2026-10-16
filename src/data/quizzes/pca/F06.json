@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wem soll laut Empfehlung 6.15 (Empfehlungsgrad A, Kapitel 6.3.2) eine radikale Prostatektomie angeboten werden?",
+    "options": [
+      "Patienten mit lokal begrenztem Prostatakarzinom des intermediären Risikoprofils und einer Lebenserwartung von über 10 Jahren.",
+      "Ausschließlich Patienten mit metastasiertem Prostatakarzinom.",
+      "Nur Patienten mit einer Lebenserwartung unter 5 Jahren.",
+      "Ausschließlich Patienten über 85 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung basiert auf Evidenzlevel 1- und wurde mit starkem Konsens verabschiedet.",
+    "explanation": "Empfehlung 6.15 fordert, dass Patienten mit lokal begrenztem Prostatakarzinom des intermediären Risikoprofils und einer Lebenserwartung über 10 Jahren eine radikale Prostatektomie angeboten werden soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.16 (Empfehlungsgrad A) für Patienten mit lokal begrenztem Prostatakarzinom des hohen Risikoprofils und einer Lebenserwartung über 10 Jahren?",
+    "options": [
+      "Ihnen soll eine radikale Prostatektomie, gegebenenfalls als Teil einer multimodalen Therapie, angeboten werden.",
+      "Ihnen soll grundsätzlich nur eine Aktive Überwachung angeboten werden.",
+      "Ihnen soll keine lokale Therapie mehr angeboten werden.",
+      "Ihnen soll ausschließlich eine fokale Therapie angeboten werden."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zum intermediären Risiko (Empfehlung 6.15) wird hier explizit der mögliche multimodale Charakter der Therapie erwähnt.",
+    "explanation": "Empfehlung 6.16 fordert, dass Patienten mit lokal begrenztem Prostatakarzinom des hohen Risikoprofils und einer Lebenserwartung über 10 Jahren eine radikale Prostatektomie, gegebenenfalls als Teil einer multimodalen Therapie, angeboten werden soll."
+  },
+  {
+    "question": "Welche Patientengruppe soll laut Empfehlung 6.18 im Rahmen einer radikalen Prostatektomie eine ausgedehnte Lymphadenektomie erhalten?",
+    "options": [
+      "Patienten mit hohem oder sehr hohem Risiko (NCCN-Klassifikation) und Patienten mit lokal fortgeschrittenem Prostatakarzinom.",
+      "Ausschließlich Patienten mit sehr niedrigem Risiko.",
+      "Nur Patienten, die eine Aktive Überwachung abgelehnt haben.",
+      "Patienten mit Fernmetastasen, bei denen keine Prostatektomie erfolgt."
+    ],
+    "correct": 0,
+    "tip": "Bei Patienten mit intermediärem Risiko kann laut Empfehlung 6.17 eine ausgedehnte Lymphadenektomie erfolgen, ist aber nicht zwingend.",
+    "explanation": "Empfehlung 6.18 legt fest, dass Patienten mit hohem oder sehr hohem Risiko nach NCCN-Klassifikation sowie Patienten mit lokal fortgeschrittenem Prostatakarzinom im Rahmen einer radikalen Prostatektomie eine ausgedehnte Lymphadenektomie erhalten sollten."
+  },
+  {
+    "question": "Wie wird die fokale Therapie laut dem Konsensbasierten Statement zu Kapitel 6.7 (Einleitung) definiert?",
+    "options": [
+      "Bei der fokalen Therapie des lokal begrenzten Prostatakarzinoms wird nur ein Teil der Prostata behandelt.",
+      "Bei der fokalen Therapie wird immer die gesamte Prostata entfernt.",
+      "Die fokale Therapie bezeichnet ausschließlich die Androgendeprivation.",
+      "Die fokale Therapie ist ein Synonym für die radikale Prostatektomie."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zu den Standardtherapien folgt die fokale Therapie dem Konzept der Teildrüsenbehandlung.",
+    "explanation": "Das Statement zur Einleitung des Kapitels 6.7 definiert, dass bei der fokalen Therapie des lokal begrenzten Prostatakarzinoms nur ein Teil der Prostata behandelt wird."
+  },
+  {
+    "question": "Was ist laut Statement 6.78 das Ziel der fokalen Therapie bei lokal begrenztem Prostatakarzinom?",
+    "options": [
+      "Die Eradikation aller signifikanten Tumoren.",
+      "Die reine Symptomkontrolle ohne kurative Absicht.",
+      "Die vollständige Entfernung der Prostata samt Samenbläschen.",
+      "Die alleinige Reduktion des PSA-Werts ohne Tumoreradikation."
+    ],
+    "correct": 0,
+    "tip": "Dies setzt eine umfassende Diagnostik und die Einhaltung klarer Indikationskriterien voraus.",
+    "explanation": "Statement 6.78 legt fest, dass das Ziel der fokalen Therapie bei lokal begrenztem Prostatakarzinom die Eradikation aller signifikanten Tumoren ist."
+  },
+  {
+    "question": "Welche Voraussetzungen müssen laut Empfehlung 6.79 für ein unilaterales, lokal begrenztes Prostatakarzinom niedrigen Risikos erfüllt sein, damit eine fokale Therapie angeboten werden kann?",
+    "options": [
+      "Gleason Score 6, PSA <10 ng/ml, unauffälliger Tastbefund, maximal 50% positive Stanzen nur auf einer Seite.",
+      "Gleason Score 9, PSA >40 ng/ml, auffälliger Tastbefund beidseits.",
+      "Es gibt keine spezifischen Voraussetzungen, fokale Therapie ist bei jedem Risikoprofil möglich.",
+      "Nachweis von Fernmetastasen in der PSMA-PET/CT."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich müssen die Patienten sowohl Standardtherapien als auch eine Active Surveillance abgelehnt haben.",
+    "explanation": "Empfehlung 6.79 nennt als Voraussetzungen für eine fokale Therapie einen Gleason Score von 6, einen PSA-Wert unter 10 ng/ml, einen unauffälligen Tastbefund und maximal 50% positive Stanzen nur auf einer Seite in der systematischen Biopsie."
+  },
+  {
+    "question": "Welche diagnostischen Untersuchungen sollen Patienten laut Empfehlung 6.80a vor einer fokalen Therapie erhalten?",
+    "options": [
+      "Eine mpMRT, eine mpMRT-Fusionsbiopsie und eine systematische Biopsie.",
+      "Ausschließlich einen PSA-Test ohne jede Bildgebung.",
+      "Eine Knochenszintigraphie als einzige Untersuchung.",
+      "Keine weitere Diagnostik ist vor einer fokalen Therapie erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Ist eine MRT-Fusionsbiopsie nicht möglich, kann laut Empfehlung 6.80b alternativ eine templatebasierte Biopsie erfolgen.",
+    "explanation": "Empfehlung 6.80a fordert, dass Patienten, die eine fokale Therapie erwägen, eine mpMRT, eine mpMRT-Fusionsbiopsie und eine systematische Biopsie erhalten sollen."
+  },
+  {
+    "question": "Was muss die Aufklärung über eine fokale Therapie laut Empfehlung 6.81 beinhalten?",
+    "options": [
+      "Den Hinweis, dass keine Gleichwertigkeit mit den Standardtherapien nachgewiesen ist, sowie auf möglicherweise schlechtere Ergebnisse einer nötigen Salvagetherapie.",
+      "Die Zusicherung, dass die fokale Therapie der radikalen Prostatektomie onkologisch gleichwertig ist.",
+      "Ausschließlich Informationen zu den Kosten des Verfahrens.",
+      "Keine besonderen Aufklärungsinhalte sind erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Diese Aufklärungspflicht ergibt sich aus der im Vergleich zu Standardtherapien unzureichenden Datenlage zur fokalen Therapie.",
+    "explanation": "Empfehlung 6.81 fordert, dass die Aufklärung beinhalten soll, dass keine Gleichwertigkeit der fokalen Therapie mit den Standardtherapien nachgewiesen ist, und zusätzlich auf möglicherweise schlechtere funktionelle und onkologische Ergebnisse einer erforderlichen Salvagetherapie hinweisen soll."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 6.82 nach einer fokalen Therapie eine Kontrollbiopsie erfolgen, und wie soll diese durchgeführt werden?",
+    "options": [
+      "6 bis 12 Monate danach, gezielt im behandelten Areal und zusätzlich systematisch in der restlichen Drüse.",
+      "Erst nach 10 Jahren, ausschließlich systematisch.",
+      "Eine Kontrollbiopsie ist nach fokaler Therapie nicht vorgesehen.",
+      "Sofort nach dem Eingriff, ausschließlich im unbehandelten Areal."
+    ],
+    "correct": 0,
+    "tip": "Dieses Vorgehen orientiert sich an der Strategie der Aktiven Überwachung.",
+    "explanation": "Empfehlung 6.82 fordert, dass 6 bis 12 Monate nach einer fokalen Therapie eine gezielte Biopsie des behandelten Areals und zusätzlich eine systematische Biopsie der restlichen Drüse erfolgen soll."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.84 (Empfehlungsgrad A) für Patienten mit lokal fortgeschrittenem Prostatakarzinom bezüglich fokaler Therapie?",
+    "options": [
+      "Sie sollen keine fokale Therapie erhalten, unabhängig von der verwendeten Technologie.",
+      "Sie sollen bevorzugt eine fokale Therapie erhalten.",
+      "Eine fokale Therapie ist bei ihnen die einzig zugelassene Therapieoption.",
+      "Fokale Therapie und radikale Prostatektomie sind bei ihnen gleichwertig einsetzbar."
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung beruht auf der fehlenden Datenlage zur Wirksamkeit fokaler Therapien jenseits des lokal begrenzten, niedrigen Risikos.",
+    "explanation": "Empfehlung 6.84 legt mit Empfehlungsgrad A fest, dass Patienten mit lokal fortgeschrittenem Prostatakarzinom keine fokale Therapie erhalten sollen, unabhängig von der verwendeten Technologie."
+  }
+]

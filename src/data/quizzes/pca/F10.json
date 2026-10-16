@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Was fordert Empfehlung 7.24 (Kapitel 7.3) bei Patienten mit metastasiertem, hormonsensitivem Prostatakarzinom hinsichtlich des Beginns der Androgendeprivation?",
+    "options": [
+      "Sie soll zeitnah nach Diagnosestellung eingeleitet werden, u. a. zur Reduktion typischer Komplikationen wie pathologischer Frakturen oder Rückenmarkskompression.",
+      "Sie soll erst nach Auftreten von Knochenschmerzen begonnen werden.",
+      "Sie ist beim mHSPC grundsätzlich nicht indiziert.",
+      "Sie soll frühestens nach 2 Jahren begonnen werden."
+    ],
+    "correct": 0,
+    "tip": "Die Androgendeprivation dient auch der palliativen tumorspezifischen Therapie eventueller metastasenbedingter Symptome.",
+    "explanation": "Empfehlung 7.24 fordert, dass bei Patienten mit mHSPC zeitnah nach Diagnosestellung eine Androgendeprivation eingeleitet werden soll, um das Risiko typischer Komplikationen zu reduzieren und Symptome palliativ zu behandeln."
+  },
+  {
+    "question": "Durch welche Verfahren kann laut Empfehlung 7.25 eine Androgendeprivation durchgeführt werden?",
+    "options": [
+      "Durch chirurgische Kastration, GnRH-Agonisten oder GnRH-Antagonisten.",
+      "Ausschließlich durch eine Strahlentherapie der Hoden.",
+      "Ausschließlich durch eine Chemotherapie mit Docetaxel.",
+      "Ausschließlich durch eine diätetische Maßnahme ohne Medikamente."
+    ],
+    "correct": 0,
+    "tip": "GnRH-Agonisten bzw. -Antagonisten können subkutan, intramuskulär oder (bei bestimmten Antagonisten) oral verabreicht werden.",
+    "explanation": "Empfehlung 7.25 nennt als Möglichkeiten der Androgendeprivation die chirurgische Kastration sowie GnRH-Agonisten oder GnRH-Antagonisten."
+  },
+  {
+    "question": "Was fordert Empfehlung 7.27 bezüglich einer Monotherapie mit einem nicht-steroidalen Androgenrezeptor-Antagonisten der ersten Generation (z. B. Bicalutamid, Flutamid) beim mHSPC?",
+    "options": [
+      "Sie soll bei Patienten mit metastasiertem, hormonsensitivem Prostatakarzinom nicht durchgeführt werden.",
+      "Sie soll als bevorzugte Erstlinientherapie eingesetzt werden.",
+      "Sie ist gleichwertig zur Kombinationstherapie mit ARPI.",
+      "Sie wird in der Leitlinie nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Diese Substanzen der ersten Generation gelten als unzureichend wirksam im Vergleich zu modernen Kombinationstherapien.",
+    "explanation": "Empfehlung 7.27 legt fest, dass eine Monotherapie mit einem nicht-steroidalen Androgenrezeptor-Antagonisten der ersten Generation bei Patienten mit mHSPC nicht durchgeführt werden soll."
+  },
+  {
+    "question": "Nach welchen Kriterien soll laut Empfehlung 7.28 (Empfehlungsgrad A) eine Einteilung von Patienten mit mHSPC erfolgen?",
+    "options": [
+      "High- und low-volume, high- und low-risk, sowie de novo und metachron metastasiert.",
+      "Ausschließlich nach dem Körpergewicht des Patienten.",
+      "Ausschließlich nach dem Geburtsjahr des Patienten.",
+      "Eine Einteilung ist laut Leitlinie nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Diese Einteilung beeinflusst maßgeblich, welche Kombinationstherapie gemäß Empfehlung 7.30 angeboten werden soll.",
+    "explanation": "Empfehlung 7.28 fordert, dass bei Patienten mit mHSPC eine Einteilung nach high- und low-volume, high- und low-risk, sowie de novo und metachron metastasiert erfolgen soll."
+  },
+  {
+    "question": "Welche Hormontherapie soll laut Empfehlung 7.30a (Empfehlungsgrad A) Patienten in gutem Allgemeinzustand (ECOG 0-1) mit mHSPC zusätzlich zur Androgendeprivation angeboten werden?",
+    "options": [
+      "Apalutamid oder Enzalutamid.",
+      "Ausschließlich Bicalutamid als Monotherapie.",
+      "Ausschließlich eine Chemotherapie ohne jede Hormontherapie.",
+      "Ausschließlich Flutamid."
+    ],
+    "correct": 0,
+    "tip": "Für Darolutamid gilt laut Empfehlung 7.30b dagegen der niedrigere Empfehlungsgrad B.",
+    "explanation": "Empfehlung 7.30a fordert, dass Patienten in gutem Allgemeinzustand mit mHSPC zusätzlich zur Androgendeprivation eine Hormontherapie mit Apalutamid oder Enzalutamid angeboten werden soll."
+  },
+  {
+    "question": "Welche spezielle Kombinationstherapie soll laut Empfehlung 7.30c Patienten mit neu diagnostiziertem (de novo), high-risk mHSPC angeboten werden?",
+    "options": [
+      "Eine Hormontherapie mit Abirateron plus Prednison/Prednisolon zusätzlich zur Androgendeprivation.",
+      "Ausschließlich eine alleinige Androgendeprivation ohne weitere Substanz.",
+      "Ausschließlich eine Strahlentherapie des gesamten Skeletts.",
+      "Ausschließlich Cabazitaxel als Monotherapie."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt speziell für die de-novo-metastasierte, high-risk-Situation und hat Empfehlungsgrad A.",
+    "explanation": "Empfehlung 7.30c fordert, dass Patienten mit neu diagnostiziertem, metastasiertem, high-risk mHSPC zusätzlich zur Androgendeprivation eine Hormontherapie mit Abirateron (plus Prednison/Prednisolon) angeboten werden soll."
+  },
+  {
+    "question": "Welche Kombination soll laut Empfehlung 7.30d Patienten angeboten werden, die für eine Docetaxel-Chemotherapie geeignet sind?",
+    "options": [
+      "Darolutamid in Kombination mit 6 Zyklen Docetaxel, zusätzlich zur Androgendeprivation.",
+      "Ausschließlich 12 Zyklen Docetaxel ohne weitere Hormontherapie.",
+      "Ausschließlich Bicalutamid als Monotherapie.",
+      "Eine alleinige Watchful-Waiting-Strategie."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination hat Empfehlungsgrad A und basiert auf hoher Evidenz (1+).",
+    "explanation": "Empfehlung 7.30d fordert, dass Patienten, die für eine Docetaxel-Chemotherapie geeignet sind, zusätzlich zur Androgendeprivation eine Hormontherapie mit Darolutamid in Kombination mit 6 Zyklen Docetaxel angeboten werden soll."
+  },
+  {
+    "question": "Innerhalb welcher Frist soll laut Empfehlung 7.31a die Apalutamid-Gabe nach Beginn der Androgendeprivation starten, und in welcher Dosierung?",
+    "options": [
+      "Innerhalb von 3 Monaten, in einer Dosierung von 240 mg/Tag.",
+      "Innerhalb von 3 Jahren, in einer Dosierung von 10 mg/Tag.",
+      "Erst nach vollständigem Abschluss der Androgendeprivation.",
+      "Eine zeitliche Vorgabe existiert nicht."
+    ],
+    "correct": 0,
+    "tip": "Für Enzalutamid gilt laut Empfehlung 7.31b eine Dosierung von 160 mg/Tag, ebenfalls innerhalb von 3 Monaten nach ADT-Beginn.",
+    "explanation": "Empfehlung 7.31a fordert, dass die Apalutamid-Gabe innerhalb von 3 Monaten nach Beginn der Androgendeprivation starten soll, in einer Dosierung von 240 mg/Tag."
+  },
+  {
+    "question": "Worüber sollen Patienten laut Empfehlung 7.29 spätestens innerhalb von 3 Monaten nach Einleitung der Androgendeprivation aufgeklärt werden?",
+    "options": [
+      "Über eine Kombinationstherapie sowie über die zu erwartende Überlebenszeit, unerwünschte Wirkungen und den Einfluss auf die Lebensqualität.",
+      "Ausschließlich über die Kosten der Behandlung.",
+      "Ausschließlich über alternative pflanzliche Heilmethoden.",
+      "Eine Aufklärung ist bei mHSPC-Patienten nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Dabei soll explizit auch der nicht-kurative Charakter der Therapie thematisiert werden.",
+    "explanation": "Empfehlung 7.29 fordert, dass Patienten über eine Kombinationstherapie sowie über die zu erwartende Überlebenszeit trotz des nicht-kurativen Charakters, die unerwünschten Wirkungen und den Einfluss auf die Lebensqualität aufgeklärt werden sollen."
+  },
+  {
+    "question": "Bei welcher Konstellation sollte laut Empfehlung 7.26 die Androgendeprivation mit einem GnRH-Antagonisten und/oder einem Androgenrezeptor-Signalweg-Inhibitor (ARPI) eingeleitet werden?",
+    "options": [
+      "Bei ausgeprägten tumor- bzw. metastasenbedingten Schmerzen oder drohenden Komplikationen wie einer Rückenmarkskompression.",
+      "Bei allen Patienten unabhängig vom Beschwerdebild.",
+      "Ausschließlich bei asymptomatischen Patienten ohne jede Beschwerde.",
+      "Nur bei Patienten unter 40 Jahren."
+    ],
+    "correct": 0,
+    "tip": "GnRH-Antagonisten vermeiden im Gegensatz zu Agonisten den initialen Testosteron-Anstieg (Flare-up), was in dieser Akutsituation von Vorteil ist.",
+    "explanation": "Empfehlung 7.26 fordert, dass bei ausgeprägten tumor- oder metastasenbedingten Schmerzen oder drohenden Komplikationen die Androgendeprivation mit einem GnRH-Antagonisten und/oder einem ARPI eingeleitet werden sollte."
+  }
+]

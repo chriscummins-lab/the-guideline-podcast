@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In welcher Technik soll laut Empfehlung 6.19 (Empfehlungsgrad A, Kapitel 6.3.3) die perkutane Strahlentherapie des Prostatakarzinoms durchgeführt werden?",
+    "options": [
+      "In IMRT-Technik unter Einsatz bildgeführter Techniken (IGRT).",
+      "Ausschließlich in klassischer 3D-konformaler Technik ohne Bildführung.",
+      "Ausschließlich als Protonentherapie.",
+      "Grundsätzlich ohne jede technische Vorgabe."
+    ],
+    "correct": 0,
+    "tip": "Diese Technik hat die frühere 3-dimensional-geplante Bestrahlung in der klinischen Routine weitgehend abgelöst.",
+    "explanation": "Empfehlung 6.19 fordert, dass die perkutane Strahlentherapie in IMRT-Technik unter Einsatz bildgeführter Techniken (IGRT) durchgeführt werden soll."
+  },
+  {
+    "question": "Welche Gesamtdosis soll laut Empfehlung 6.20 (Empfehlungsgrad A) bei Patienten aller Risikogruppen bei Standardfraktionierung (IMRT + IGRT) angewendet werden?",
+    "options": [
+      "Mindestens 74,0 Gy bis ca. 80 Gy.",
+      "Maximal 20 Gy.",
+      "Mindestens 150 Gy.",
+      "Eine Dosisangabe ist bei der Standardfraktionierung nicht erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Diese Dosiseskalation beruht auf 6 randomisierten Phase-III-Studien, die einen signifikanten Vorteil für das progressionsfreie Überleben zeigten.",
+    "explanation": "Empfehlung 6.20 fordert, dass Patienten aller Risikogruppen bei Standardfraktionierung mit einer Dosis von mindestens 74,0 Gy bis ca. 80 Gy (IMRT + IGRT) bestrahlt werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 6.22 (Empfehlungsgrad B) zusätzlich zur perkutanen Strahlentherapie bei Patienten mit intermediärem Risikoprofil?",
+    "options": [
+      "Eine begleitende hormonablative Therapie von 4 bis 6 Monaten, die auch vor der Strahlentherapie beginnen kann.",
+      "Eine lebenslange Androgendeprivation ohne zeitliche Begrenzung.",
+      "Grundsätzlich keine zusätzliche Therapie.",
+      "Eine zusätzliche radikale Prostatektomie im Anschluss."
+    ],
+    "correct": 0,
+    "tip": "Bei der Entscheidung für oder gegen diese Zusatztherapie sollen laut Empfehlung 6.23 Faktoren wie Gleason Score und Komorbidität berücksichtigt werden.",
+    "explanation": "Empfehlung 6.22 fordert, dass Patienten mit intermediärem Risikoprofil zusätzlich zur perkutanen Strahlentherapie eine begleitende hormonablative Therapie von 4 bis 6 Monaten erhalten sollten, die vor der Strahlentherapie beginnen kann."
+  },
+  {
+    "question": "Welche beiden Fraktionierungsschemata sollen laut den verknüpften Empfehlungen 6.24/6.25 Patienten mit intermediärem Risikoprofil angeboten werden?",
+    "options": [
+      "Eine Standardfraktionierung (74-80 Gy) oder eine moderate Hypofraktionierung (z. B. 3 Gy/60 Gy), jeweils ergänzt durch eine 4-6-monatige Androgendeprivation.",
+      "Ausschließlich eine extreme Hypofraktionierung ohne jede Hormontherapie.",
+      "Ausschließlich eine einmalige Bestrahlung mit sehr hoher Einzeldosis.",
+      "Eine Bestrahlung ist bei intermediärem Risiko grundsätzlich nicht indiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Kombination mit einer Androgendeprivationstherapie von 4-6 Monaten ist in Empfehlung 6.25 festgelegt.",
+    "explanation": "Die verknüpften Empfehlungen 6.24 und 6.25 sehen vor, dass Patienten mit intermediärem Risikoprofil eine Standardfraktionierung (74-80 Gy) oder eine moderate Hypofraktionierung angeboten werden soll, zusätzlich ergänzt durch eine Androgendeprivationstherapie von 4-6 Monaten Dauer."
+  },
+  {
+    "question": "Worüber sollen Patienten laut Empfehlung 6.27 vor einer Entscheidung für eine extreme Hypofraktionierung aufgeklärt werden?",
+    "options": [
+      "Über das Risiko einer erhöhten urogenitalen Toxizität im Vergleich zur Standardfraktionierung.",
+      "Darüber, dass diese Methode mit Sicherheit nebenwirkungsfrei ist.",
+      "Darüber, dass diese Methode ausschließlich bei Niedrigrisiko-Patienten zugelassen ist.",
+      "Über eine erforderliche stationäre Behandlung von mindestens 4 Wochen."
+    ],
+    "correct": 0,
+    "tip": "Die extreme Hypofraktionierung erfolgt analog der HYPO-RT- oder der PACE-B-Studie mit sehr hohen Einzeldosen.",
+    "explanation": "Empfehlung 6.27 fordert, dass Patienten vor einer Entscheidung für eine extreme Hypofraktionierung über das Risiko einer erhöhten urogenitalen Toxizität gegenüber der Standardfraktionierung aufgeklärt werden sollen."
+  },
+  {
+    "question": "Was besagt Statement 6.29 zum Vergleich von Protonentherapie und Photonentherapie (IMRT + IGRT) bei intermediärem Risikoprofil?",
+    "options": [
+      "Es besteht kein Hinweis auf einen patientenrelevanten Vorteil der Protonentherapie gegenüber der Photonentherapie.",
+      "Die Protonentherapie ist der Photonentherapie eindeutig überlegen.",
+      "Die Photonentherapie gilt mittlerweile als obsolet.",
+      "Beide Verfahren sind beim Prostatakarzinom nicht zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Dieses Statement basiert auf Evidenzlevel 2+ und wurde mit starkem Konsens verabschiedet.",
+    "explanation": "Statement 6.29 stellt fest, dass bei Patienten mit intermediärem Risikoprofil kein Hinweis auf einen patientenrelevanten Vorteil der Protonentherapie im Vergleich zur Photonentherapie (IMRT + IGRT) besteht."
+  },
+  {
+    "question": "Wem soll laut Empfehlung 6.39 (Empfehlungsgrad A, Kapitel 6.3.4.1) eine LDR-Brachytherapie angeboten werden?",
+    "options": [
+      "Patienten mit lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils nach NCCN.",
+      "Ausschließlich Patienten mit sehr hohem Risiko nach NCCN.",
+      "Ausschließlich Patienten mit metastasiertem Prostatakarzinom.",
+      "Patienten mit lokal fortgeschrittenem Prostatakarzinom cT4."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung stützt sich u. a. auf die randomisierte Phase-3-Studie NRG-Oncology-RTOG-0232.",
+    "explanation": "Empfehlung 6.39 fordert, dass Patienten mit lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils (nach NCCN) eine LDR-Brachytherapie angeboten werden soll."
+  },
+  {
+    "question": "Als welche Therapieform soll die LDR-Brachytherapie laut Empfehlung 6.40 beim günstigen intermediären Risikoprofil durchgeführt werden?",
+    "options": [
+      "Als Monotherapie, ohne zusätzliche perkutane Strahlentherapie.",
+      "Immer in Kombination mit einer perkutanen Strahlentherapie.",
+      "Immer in Kombination mit einer radikalen Prostatektomie.",
+      "Nur als Boost nach vorheriger Androgendeprivation von 2 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Dies unterscheidet die Situation beim günstigen intermediären Risiko von der beim ungünstigen intermediären Risiko (Empfehlung 6.41).",
+    "explanation": "Empfehlung 6.40 legt fest, dass die LDR-Brachytherapie bei lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils als Monotherapie, ohne perkutane Strahlentherapie, durchgeführt werden soll."
+  },
+  {
+    "question": "Was wird Patienten mit lokal begrenztem Prostatakarzinom des ungünstigen intermediären Risikoprofils laut Empfehlung 6.41 angeboten?",
+    "options": [
+      "Ein LDR-Brachytherapie-Boost in Verbindung mit einer perkutanen Strahlentherapie (IMRT + IGRT).",
+      "Ausschließlich eine LDR-Brachytherapie als alleinige Monotherapie.",
+      "Ausschließlich Watchful Waiting ohne jede aktive Therapie.",
+      "Eine fokale Therapie als einzige Option."
+    ],
+    "correct": 0,
+    "tip": "Patienten sollen laut Empfehlung 6.42 zusätzlich über die mögliche signifikante Erhöhung der Spättoxizität aufgeklärt werden.",
+    "explanation": "Empfehlung 6.41 sieht vor, dass Patienten mit ungünstigem intermediärem Risikoprofil ein LDR-Brachytherapie-Boost in Verbindung mit einer perkutanen Strahlentherapie (IMRT + IGRT) angeboten werden sollte."
+  },
+  {
+    "question": "Welche Dauer soll laut Empfehlung 6.43 die Androgendeprivationstherapie bei Einsatz der Brachytherapie analog zur perkutanen Strahlentherapie haben?",
+    "options": [
+      "4 bis 6 Monate.",
+      "Lebenslang ohne zeitliche Begrenzung.",
+      "Nur 1 Woche.",
+      "Mindestens 5 Jahre."
+    ],
+    "correct": 0,
+    "tip": "Diese Dauer entspricht der auch bei der perkutanen Strahlentherapie empfohlenen Dauer der Androgendeprivation.",
+    "explanation": "Empfehlung 6.43 fordert, dass die Androgendeprivationstherapie bei Einsatz der Brachytherapie analog zu den Empfehlungen der perkutanen Strahlentherapie mit 4 bis 6 Monaten Dauer eingesetzt werden soll."
+  }
+]

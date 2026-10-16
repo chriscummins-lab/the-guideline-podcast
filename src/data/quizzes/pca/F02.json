@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wann soll laut den verknüpften Empfehlungen 4.12/4.13 (Kapitel 4.2, Empfehlungsgrad A) eine MRT der Prostata im Rahmen der Primärdiagnostik erfolgen?",
+    "options": [
+      "Ab einer bestätigten Erhöhung des PSA-Werts über 3 ng/ml und vor einer Biopsie, sofern handlungsrelevante Konsequenzen resultieren.",
+      "Erst nach mindestens zwei negativen Biopsien.",
+      "Grundsätzlich nie, da MRT in der Primärdiagnostik keinen Stellenwert hat.",
+      "Nur bei Männern unter 30 Jahren."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll vor der MRT das individuelle Risiko unter Berücksichtigung von Alter, Anamnese und familiärer Belastung besprochen werden.",
+    "explanation": "Empfehlung 4.12 fordert, dass eine MRT der Prostata im Rahmen der Primärdiagnostik ab einer bestätigten PSA-Erhöhung über 3 ng/ml und vor einer Biopsie erfolgen soll, sofern sich daraus handlungsrelevante Konsequenzen ergeben."
+  },
+  {
+    "question": "Welche Qualitätsanforderung stellt Empfehlung 4.15 an die Durchführung und Befundung der Prostata-MRT?",
+    "options": [
+      "Sie soll entsprechend aktueller Qualitätsstandards durch einen für die Prostata-MRT zertifizierten Radiologen (Q2-Zertifikat der Deutschen Röntgengesellschaft) erfolgen.",
+      "Jeder Radiologe darf die Prostata-MRT ohne zusätzliche Qualifikation befunden.",
+      "Die MRT darf nur von Urologen selbst befundet werden.",
+      "Eine Zertifizierung ist für die Prostata-MRT nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Diese Zertifizierungsanforderung soll eine konsistente Bildqualität und Befundungsqualität sicherstellen.",
+    "explanation": "Empfehlung 4.15 fordert, dass die Durchführung einer MRT entsprechend den aktuellen Qualitätsstandards und die Befundung durch einen für die MRT der Prostata zertifizierten Radiologen (Q2-Zertifikat der Deutschen Röntgengesellschaft) erfolgen soll."
+  },
+  {
+    "question": "Wie sollen laut Empfehlung 4.17 (Empfehlungsgrad A) in der MRT beschriebene Karzinom-suspekte Herde mit PI-RADS 4 und 5 biopsiert werden?",
+    "options": [
+      "Gezielt durch Entnahme von 2-3 Zylindern pro Herd.",
+      "Es soll bei PI-RADS 4/5 grundsätzlich keine Biopsie erfolgen.",
+      "Mit mindestens 20 Zylindern pro Herd.",
+      "Ausschließlich durch eine offene chirurgische Biopsie."
+    ],
+    "correct": 0,
+    "tip": "Diese gezielte Biopsie ergänzt bei der Erstbiopsie in der Regel die systematische Biopsie.",
+    "explanation": "Empfehlung 4.17 fordert, dass MRT-suspekte Herde mit PI-RADS 4 und 5 durch gezielte Entnahme von 2-3 Zylindern pro Herd biopsiert werden sollen."
+  },
+  {
+    "question": "Was besagt Empfehlung 4.18 (Empfehlungsgrad A) zu PI-RADS-3-Befunden bei niedrigem individuellem Risiko?",
+    "options": [
+      "Sie sollen nicht biopsiert werden.",
+      "Sie sollen immer mit mindestens 5 Zylindern biopsiert werden.",
+      "Sie erfordern grundsätzlich eine sofortige radikale Prostatektomie.",
+      "Sie werden gleich behandelt wie PI-RADS 5."
+    ],
+    "correct": 0,
+    "tip": "Diese Zurückhaltung gilt spezifisch bei niedrigem individuellem Risiko, nicht generell für alle PI-RADS-3-Befunde.",
+    "explanation": "Empfehlung 4.18 legt fest, dass PI-RADS-3-Befunde in der MRT der Prostata bei niedrigem individuellem Risiko nicht biopsiert werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.23 bei PI-RADS 1 und 2 Befunden in der Prostata-MRT?",
+    "options": [
+      "Es soll keine Biopsie durchgeführt werden.",
+      "Es soll immer eine Biopsie mit mindestens 12 Zylindern erfolgen.",
+      "Es soll eine sofortige Zystektomie erfolgen.",
+      "PI-RADS 1/2 Befunde werden in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "PI-RADS 1 und 2 gelten als unauffällige bzw. sehr wahrscheinlich gutartige Befunde.",
+    "explanation": "Empfehlung 4.23 legt fest, dass bei PI-RADS 1 und 2 Befunden keine Biopsie durchgeführt werden soll."
+  },
+  {
+    "question": "Über welche Verfahren sollte laut Empfehlung 4.19 (Empfehlungsgrad B) die gezielte Biopsie erfolgen?",
+    "options": [
+      "Software-basierte MRT/Ultraschall-Fusionsbiopsie oder MRT-gestützte 'in-bore'-Biopsie.",
+      "Ausschließlich durch rein digital-rektal gesteuerte Biopsie ohne Bildgebung.",
+      "Ausschließlich durch CT-gesteuerte Biopsie.",
+      "Ausschließlich durch eine Biopsie ohne jede bildgebende Unterstützung."
+    ],
+    "correct": 0,
+    "tip": "Die 'in-bore'-Biopsie bezeichnet eine gezielte Biopsie direkt im MRT.",
+    "explanation": "Empfehlung 4.19 sieht vor, dass die gezielte Biopsie über eine Software-basierte MRT/Ultraschall-Fusionsbiopsie oder als MRT-gestützte 'in-bore'-Biopsie erfolgen sollte."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.20 (Empfehlungsgrad B) zusätzlich zur MRT-gezielten Biopsie im Rahmen der Erstbiopsie?",
+    "options": [
+      "Eine systematische Biopsie sollte zusätzlich erfolgen.",
+      "Eine systematische Biopsie ist bei der Erstbiopsie ausdrücklich nicht vorgesehen.",
+      "Nur die gezielte Biopsie ohne jede weitere Ergänzung ist zulässig.",
+      "Statt einer Biopsie soll primär eine Prostatektomie erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Bei der Re-Biopsie nach tumorfreier Erstbiopsie kann auf diese Ergänzung dagegen laut Empfehlung 4.21 verzichtet werden.",
+    "explanation": "Empfehlung 4.20 fordert, dass zusätzlich zur MRT-gezielten Biopsie im Rahmen der Erstbiopsie eine systematische Biopsie erfolgen sollte."
+  },
+  {
+    "question": "Welche bildgebenden Ultraschallverfahren sollen laut Empfehlung 4.26 (Empfehlungsgrad A) nicht zur Primärdiagnostik des Prostatakarzinoms eingesetzt werden?",
+    "options": [
+      "Kontrastmittel-verstärkter Ultraschall, Ultraschall-Elastographie und Histoscanning.",
+      "Die konventionelle MRT der Prostata.",
+      "Die transrektale Stanzbiopsie.",
+      "Alle bildgebenden Verfahren sind zur Primärdiagnostik zugelassen, ohne Einschränkung."
+    ],
+    "correct": 0,
+    "tip": "Die transrektale Ultraschalluntersuchung selbst kann dagegen laut Empfehlung 4.24 als ergänzende Diagnostik genutzt werden.",
+    "explanation": "Empfehlung 4.26 legt fest, dass Kontrastmittel-verstärkter Ultraschall, Ultraschall-Elastographie und Histoscanning nicht zur Primärdiagnostik eingesetzt werden sollen."
+  },
+  {
+    "question": "Wie viele Gewebezylinder sollen laut Empfehlung 4.31 (Empfehlungsgrad A) bei einer systematischen Stanzbiopsie aller Sextanten der Prostata insgesamt entnommen werden?",
+    "options": [
+      "Zehn bis zwölf Gewebezylinder.",
+      "Ein einzelner Gewebezylinder.",
+      "Mindestens 50 Gewebezylinder.",
+      "Genau zwei Gewebezylinder, unabhängig vom Befund."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung gilt, wenn eine systematische Biopsie im Rahmen einer gezielten Biopsie erfolgt oder wenn keine MRT durchgeführt werden kann.",
+    "explanation": "Empfehlung 4.31 fordert, dass bei einer systematischen Stanzbiopsie alle Sextanten der Prostata mit insgesamt zehn bis zwölf Gewebezylindern abgedeckt werden sollen."
+  },
+  {
+    "question": "Was fordert Empfehlung 4.32 (Empfehlungsgrad A) für die transrektale Stanzbiopsie, und wie verhält sich dies laut Empfehlung 4.35 bei der transperinealen Biopsie?",
+    "options": [
+      "Die transrektale Stanzbiopsie soll unter Antibiotikaprophylaxe erfolgen; bei der transperinealen Biopsie kann darauf verzichtet werden.",
+      "Weder bei transrektaler noch bei transperinealer Biopsie ist eine Antibiotikaprophylaxe vorgesehen.",
+      "Eine Antibiotikaprophylaxe ist nur bei der transperinealen Biopsie zwingend, nicht bei der transrektalen.",
+      "Antibiotikaprophylaxe wird in der Leitlinie für Prostatabiopsien nicht thematisiert."
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied ergibt sich aus dem geringeren Infektionsrisiko des transperinealen Zugangswegs im Vergleich zum transrektalen.",
+    "explanation": "Empfehlung 4.32 fordert für die transrektale Stanzbiopsie eine Antibiotikaprophylaxe (Empfehlungsgrad A), während laut Empfehlung 4.35 bei der transperinealen Stanzbiopsie auf eine Antibiotikaprophylaxe verzichtet werden kann."
+  }
+]

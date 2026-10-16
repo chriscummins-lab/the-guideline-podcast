@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Worüber sollen Patienten laut Empfehlung 8.1 (Kapitel 8.1, Empfehlungsgrad A) nach lokaler Therapie informiert werden?",
+    "options": [
+      "Über eine fachspezifische Rehabilitation, insbesondere in Form einer Anschlussheilbehandlung (AHB).",
+      "Ausschließlich über eine rein ambulante Physiotherapie ohne jede weitere Option.",
+      "Über den vollständigen Verzicht auf jede Rehabilitationsmaßnahme.",
+      "Ausschließlich über psychologische Betreuung ohne körperliche Rehabilitation."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung stützt sich auf den gesetzlichen Anspruch auf Rehabilitationsleistungen nach SGB IX.",
+    "explanation": "Empfehlung 8.1 fordert, dass Patienten nach lokaler Therapie über eine fachspezifische Rehabilitation, insbesondere in Form einer Anschlussheilbehandlung, informiert werden sollen."
+  },
+  {
+    "question": "Welche zentralen Funktionsstörungen stehen laut Statement 8.2a im Mittelpunkt der Rehabilitationsziele nach radikaler Prostatektomie?",
+    "options": [
+      "Harninkontinenz und erektile Dysfunktion.",
+      "Ausschließlich Verdauungsstörungen.",
+      "Ausschließlich Hörstörungen.",
+      "Ausschließlich kognitive Beeinträchtigungen."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich zielt die Rehabilitation auf die Wiederherstellung der physischen und psychischen Leistungsfähigkeit sowie die gesellschaftliche Teilhabe ab.",
+    "explanation": "Statement 8.2a benennt als zentrale Zielsetzung der Rehabilitation nach radikaler Prostatektomie die Therapie der postoperativen Funktionsstörungen, insbesondere der Harninkontinenz und erektilen Dysfunktion."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 8.3 (Empfehlungsgrad B) die Rehabilitation strukturell organisiert sein?",
+    "options": [
+      "Fachurologisch, bei entsprechender Komorbidität multidisziplinär und mit Hilfe multimodaler Therapiekonzepte.",
+      "Ausschließlich durch den Hausarzt ohne fachärztliche Beteiligung.",
+      "Ausschließlich rein internistisch ohne urologische Fachkompetenz.",
+      "Ausschließlich online ohne jede persönliche Betreuung."
+    ],
+    "correct": 0,
+    "tip": "Urologische Fachkompetenz ist erforderlich, da postinterventionelle Funktionsstörungen einer unmittelbaren fachärztlichen Behandlung bedürfen.",
+    "explanation": "Empfehlung 8.3 fordert, dass die Rehabilitation fachurologisch erfolgen sollte, bei entsprechender Komorbidität der Patienten multidisziplinär und mit Hilfe multimodaler Therapiekonzepte."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.4 (Empfehlungsgrad A) im Mittelpunkt des Kontinenztrainings bei Belastungsinkontinenz nach radikaler Prostatektomie stehen?",
+    "options": [
+      "Die Physiotherapie.",
+      "Eine erneute Operation als Erstmaßnahme.",
+      "Ausschließlich eine medikamentöse Therapie ohne physiotherapeutische Begleitung.",
+      "Der vollständige Verzicht auf jede Behandlung."
+    ],
+    "correct": 0,
+    "tip": "Andere Formen der Inkontinenz sollen zusätzlich evaluiert und ggf. entsprechend behandelt werden.",
+    "explanation": "Empfehlung 8.4 fordert, dass die postoperative Harninkontinenz nach radikaler Prostatektomie mit Hilfe multimodaler Konzepte therapiert werden soll, wobei die Physiotherapie im Mittelpunkt des Kontinenztrainings bei Belastungsinkontinenz stehen soll."
+  },
+  {
+    "question": "Welche Substanzgruppe soll laut Empfehlung 8.5b zunächst zur Therapie der erektilen Dysfunktion nach kurativer Therapie eingesetzt werden?",
+    "options": [
+      "Ein PDE-5-Inhibitor.",
+      "Intrakavernöse Injektionen als alleinige Erstlinientherapie.",
+      "Ausschließlich chirurgische Penisimplantate.",
+      "Ausschließlich eine hochdosierte Testosterongabe."
+    ],
+    "correct": 0,
+    "tip": "Bei Ineffektivität sollten intrakavernöse Injektionen, intraurethrale Prostaglandine oder Vakuumerektionshilfesysteme unter Berücksichtigung der Patientenpräferenz erwogen werden.",
+    "explanation": "Empfehlung 8.5b fordert, dass zur Therapie der erektilen Dysfunktion zunächst ein PDE-5-Inhibitor eingesetzt werden sollte, kombiniert mit physiotherapeutischem ED-Training."
+  },
+  {
+    "question": "Was soll laut Empfehlung 8.6 (Empfehlungsgrad A) zur Unterstützung der Krankheitsverarbeitung geprüft werden?",
+    "options": [
+      "Der Bedarf einer psychoonkologischen Betreuung.",
+      "Ausschließlich der Bedarf an zusätzlicher Chemotherapie.",
+      "Ausschließlich der Bedarf an einer erneuten Operation.",
+      "Eine psychoonkologische Betreuung ist laut Leitlinie generell nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Hierzu wird ergänzend auf die S3-Leitlinie Psychoonkologie verwiesen.",
+    "explanation": "Empfehlung 8.6 fordert, dass der Bedarf einer psychoonkologischen Betreuung zur Unterstützung der Krankheitsverarbeitung geprüft und entsprechende Maßnahmen ggf. angeboten werden sollen."
+  },
+  {
+    "question": "In welchem Zeitfenster sollen laut Empfehlung 9.1a (Kapitel 9.1) asymptomatische Patienten nach lokaler kurativ intendierter Therapie eine erste Nachsorgeuntersuchung erhalten?",
+    "options": [
+      "Innerhalb von zwölf Wochen nach Ende der Therapie.",
+      "Erst nach 5 Jahren.",
+      "Innerhalb von 24 Stunden nach der Operation.",
+      "Eine erste Nachsorgeuntersuchung ist nicht vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Die weiteren Untersuchungen sollen laut Empfehlung 9.1b in den ersten zwei Jahren vierteljährlich erfolgen.",
+    "explanation": "Empfehlung 9.1a fordert, dass asymptomatische Patienten innerhalb von zwölf Wochen nach Ende der Therapie eine Nachsorgeuntersuchung erhalten sollen."
+  },
+  {
+    "question": "In welchen Intervallen sollen laut Empfehlung 9.1b die Nachsorgeuntersuchungen bei asymptomatischen Patienten ab dem 5. Jahr wiederholt werden?",
+    "options": [
+      "In jährlichen Intervallen.",
+      "Weiterhin vierteljährlich wie in den ersten beiden Jahren.",
+      "Nur noch alle 10 Jahre.",
+      "Nachsorgeuntersuchungen enden nach dem 5. Jahr vollständig."
+    ],
+    "correct": 0,
+    "tip": "Im 3. und 4. Jahr sollen die Untersuchungen laut derselben Empfehlung halbjährlich erfolgen.",
+    "explanation": "Empfehlung 9.1b sieht vor, dass die Untersuchungen innerhalb der ersten zwei Jahre vierteljährlich, im 3. und 4. Jahr halbjährlich und vom 5. Jahr an in jährlichen Intervallen wiederholt werden sollen."
+  },
+  {
+    "question": "Was besagt Statement 9.3 zum Stellenwert der digital-rektalen Untersuchung (DRU) in der Nachsorge bei Patienten ohne biochemisches Rezidiv?",
+    "options": [
+      "Die DRU ist in dieser Situation nicht routinemäßig indiziert.",
+      "Die DRU soll bei jeder Nachsorgeuntersuchung obligat durchgeführt werden.",
+      "Die DRU ersetzt die PSA-Bestimmung vollständig.",
+      "Die DRU ist zwingend häufiger durchzuführen als der PSA-Test."
+    ],
+    "correct": 0,
+    "tip": "Ein Rezidiv wird durch den PSA-Anstieg weitaus früher und zuverlässiger angezeigt als durch die DRU.",
+    "explanation": "Statement 9.3 stellt fest, dass bei Patienten ohne biochemisches Rezidiv die DRU in der Nachsorge des Prostatakarzinoms nicht routinemäßig indiziert ist."
+  },
+  {
+    "question": "Was kann laut Empfehlung 9.5 (Kapitel 9.2) eine Testosteronsubstitution nach kurativer Therapie bei Patienten mit Zeichen von Hypogonadismus bewirken, und was ist dabei zu beachten?",
+    "options": [
+      "Sie kann die Lebensqualität verbessern; der Einfluss auf das Rezidivrisiko ist jedoch unklar, weshalb eine besondere Aufklärung und Überwachung erfolgen sollte.",
+      "Sie ist nach Prostatakarzinom in jedem Fall absolut kontraindiziert.",
+      "Sie senkt nachweislich das Rezidivrisiko und wird daher bei jedem Patienten empfohlen.",
+      "Sie hat laut Leitlinie keinerlei Effekt auf die Lebensqualität."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung hat Empfehlungsgrad B und beruht auf einer Kombination aus Statement (Evidenzlevel 3) und Expertenkonsens (Evidenzlevel 4).",
+    "explanation": "Empfehlung 9.5 besagt, dass eine Testosteronsubstitution nach kurativer Therapie bei Patienten mit Zeichen von Hypogonadismus die Lebensqualität verbessern kann, der Einfluss auf das Rezidivrisiko aber aufgrund der Datenlage unklar ist, weshalb eine besondere Aufklärung und Überwachung erfolgen sollte."
+  }
+]
