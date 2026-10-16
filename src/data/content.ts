@@ -49,7 +49,7 @@ export const CONTENT: { categories: Category[] } = {
           id: "nierenzellkarzinom",
           name: "Nierenzellkarzinom",
           badge: "S3",
-          available: false,
+          available: true,
           description: "S3-Leitlinie Diagnostik, Therapie und Nachsorge des Nierenzellkarzinoms",
           episodes: nzkEpisodes,
         },
