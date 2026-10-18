@@ -9,6 +9,10 @@ import { hbkEpisodes } from "@/data/guidelines/hbk";
 import { pecaEpisodes } from "@/data/guidelines/peca";
 import { icEpisodes } from "@/data/guidelines/ic";
 import { uroEpisodes } from "@/data/guidelines/uro";
+import { nlutdEpisodes } from "@/data/guidelines/nlutd";
+import { hmiEpisodes } from "@/data/guidelines/hmi";
+import { beekEpisodes } from "@/data/guidelines/beek";
+import { nbfsEpisodes } from "@/data/guidelines/nbfs";
 import { andrologieGuidelines } from "@/data/guidelines/andrologie";
 
 export const CONTENT: { categories: Category[] } = {
@@ -121,10 +125,12 @@ export const CONTENT: { categories: Category[] } = {
         },
         {
           id: "neurogene-blase",
-          name: "Neurogene Blasenfunktionsstörungen",
+          name: "Neurogene Dysfunktion des unteren Harntraktes",
+          badge: "S2k",
+          year: 2022,
           available: false,
-          description: "Leitlinie Neurogene Blase",
-          episodes: [],
+          description: "S2k-Leitlinie Medikamentöse Therapie der neurogenen Dysfunktion des unteren Harntraktes (NLUTD)",
+          episodes: nlutdEpisodes,
         },
         {
           id: "erektile-dysfunktion",
@@ -132,6 +138,15 @@ export const CONTENT: { categories: Category[] } = {
           available: false,
           description: "Leitlinie Erektile Dysfunktion",
           episodes: [],
+        },
+        {
+          id: "hilfsmittel-inkontinenz",
+          name: "Hilfsmittelberatung bei Harninkontinenz",
+          badge: "S2k",
+          year: 2025,
+          available: false,
+          description: "S2k-Leitlinie Hilfsmittelberatung bei Harninkontinenz",
+          episodes: hmiEpisodes,
         },
       ],
     },
@@ -175,6 +190,24 @@ export const CONTENT: { categories: Category[] } = {
         },
         { id: "hodenhochstand", name: "Hodenhochstand", available: false, description: "Leitlinie Hodenhochstand", episodes: [] },
         { id: "vur", name: "Vesikoureteraler Reflux", available: false, description: "Leitlinie VUR", episodes: [] },
+        {
+          id: "blasenekstrophie-epispadie",
+          name: "Blasenekstrophie-Epispadie-Komplex (BEEK)",
+          badge: "S3",
+          year: 2024,
+          available: false,
+          description: "S3-Leitlinie Epidemiologie, Diagnostik, Therapie und Nachsorge des Blasenekstrophie-Epispadie-Komplex (BEEK)",
+          episodes: beekEpisodes,
+        },
+        {
+          id: "spinale-dysraphie",
+          name: "Neurogene Blasenfunktionsstörungen bei spinaler Dysraphie",
+          badge: "S2k",
+          year: 2019,
+          available: false,
+          description: "S2k-Leitlinie Diagnostik und Therapie der neurogenen Blasenfunktionsstörungen bei Kindern und Jugendlichen mit spinaler Dysraphie",
+          episodes: nbfsEpisodes,
+        },
       ],
     },
 
