@@ -115,7 +115,7 @@ export const CONTENT: { categories: Category[] } = {
           name: "Urolithiasis",
           badge: "S2k",
           year: 2019,
-          available: false,
+          available: true,
           description: "S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis",
           episodes: uroEpisodes,
         },

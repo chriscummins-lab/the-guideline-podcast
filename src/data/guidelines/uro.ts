@@ -40,7 +40,7 @@ export const uroEpisodes: Episode[] = manifest.episoden.map((ep) => ({
   name: `Folge ${ep.folge} – ${ep.titel}`,
   num: String(ep.folge).padStart(2, "0"),
   duration: ep.dauerMin ? `ca. ${ep.dauerMin} min` : undefined,
-  audioUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}.mp3` : null,
-  schaubildUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}_Schaubild.png` : null,
+  audioUrl: `${BASE_URL}${ep.stem}/${ep.stem}.mp3`,
+  schaubildUrl: `${BASE_URL}${ep.stem}/${ep.stem}_Schaubild.png`,
   quiz: quizByFolge[ep.folge] ?? [],
 }));
