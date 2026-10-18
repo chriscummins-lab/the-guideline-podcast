@@ -10,10 +10,6 @@ import { usePlayer } from "@/components/PlayerProvider";
 import { categoryIconClass } from "@/lib/categoryIcons";
 import { buildTrackChain } from "@/lib/trackChain";
 
-// Platzhalter, solange es keine echte Anmeldung gibt. Sobald ein Login-System
-// existiert, hier durch den eingeloggten Nutzernamen ersetzen.
-const DISPLAY_NAME = "Christina";
-
 function greeting(): string {
   const h = new Date().getHours();
   if (h < 11) return "Guten Morgen";
@@ -131,11 +127,7 @@ export default function HomePage() {
   return (
     <section>
       <div className="home-greeting-row">
-        <div>
-          <div className="home-greeting-label">{greeting()}</div>
-          <div className="home-greeting-name">{DISPLAY_NAME}</div>
-        </div>
-        <div className="home-avatar" aria-hidden="true" />
+        <div className="home-greeting-name">{greeting()}</div>
       </div>
 
       <Link href="/suche" className="search-box home-search-link">
