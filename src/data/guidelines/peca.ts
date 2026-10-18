@@ -29,14 +29,14 @@ const quizByFolge: Record<number, QuizQuestion[]> = {
 };
 
 const BASE_URL =
-  "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/01-uroonko/05-s3-peniskarzinom/";
+  "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/01-uroonko/S3_Peniskarzinom/";
 
 export const pecaEpisodes: Episode[] = manifest.episoden.map((ep) => ({
   id: ep.stem.toLowerCase(),
   name: `Folge ${ep.folge} – ${ep.titel}`,
   num: String(ep.folge).padStart(2, "0"),
   duration: ep.dauerMin ? `ca. ${ep.dauerMin} min` : undefined,
-  audioUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}.mp3` : null,
-  schaubildUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}_Schaubild.png` : null,
+  audioUrl: `${BASE_URL}${ep.stem}/${ep.stem}.mp3`,
+  schaubildUrl: `${BASE_URL}${ep.stem}/${ep.stem}_Schaubild.png`,
   quiz: quizByFolge[ep.folge] ?? [],
 }));

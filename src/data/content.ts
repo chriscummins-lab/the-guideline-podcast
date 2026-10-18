@@ -65,7 +65,7 @@ export const CONTENT: { categories: Category[] } = {
           name: "Peniskarzinom",
           badge: "S3",
           year: 2020,
-          available: false,
+          available: true,
           description: "S3-Leitlinie Diagnostik, Therapie und Nachsorge des Peniskarzinoms",
           episodes: pecaEpisodes,
         },

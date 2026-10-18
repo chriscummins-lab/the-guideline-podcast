@@ -12,9 +12,9 @@
         "4.2",
         "4.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 1 – Peniskarzinom: Epidemiologie, Risikofaktoren & Prävention\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 2 (Einführung, Methodik), Kapitel 4.1 (Definition), 4.2 (Epidemiologie) und 4.3 (Risikofaktoren und Prävention, Statements 4.1–4.2) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Einordnung der Leitlinie: Version 1.0 von 2020, seit über 5 Jahren nicht aktualisiert und in Überarbeitung – nur Inhalte der Leitlinie wiedergeben, keine neueren Daten ergänzen.\n- Methodik kurz: Empfehlungsgrade A/B/0 („soll/sollte/kann“), Evidenzlevel, Expertenkonsens (EK), Konsensstärke.\n- Epidemiologie: seltener Tumor mit starken regionalen Unterschieden (in Teilen Südamerikas, Asiens und Afrikas bis 10 % der Malignome des Mannes); in Deutschland ca. 950 Neuerkrankungen (2014), mittleres Erkrankungsalter 70 Jahre, relatives 5-Jahres-Überleben 71 %.\n- Zwei Pathogenesewege: HPV-assoziiert (Hochrisiko-HPV, v. a. Typ 16 und 18; ca. 50 % der Fälle) vs. nicht-HPV-assoziiert (chronische Balanoposthitis, Lichen sclerosus, Phimose, lange Vorhaut, mangelnde Genitalhygiene).\n- Zirkumzision im Kindesalter und Genitalhygiene senken das Risiko (Statement 4.1) – diskutierte Mechanismen laut Hintergrundtext.\n- HPV-Impfung von Jungen im Alter von 9–14 Jahren kann das Risiko HPV-assoziierter Karzinome senken (Statement 4.2) – Rolle des Urologen in der Impfberatung.\n- Penile Vorläuferläsionen: Erfassung im Krebsregister, Patienten im Mittel drei Jahre jünger als bei invasivem Karzinom.\nFormat & Moderation:\n- Zwei urologische Kollegen besprechen in der Sprechstunde einen 68-Jährigen mit langjähriger Phimose, Lichen sclerosus und einer „seit Monaten nicht heilenden“ Rötung an der Glans; danach fragt eine Mutter nach der HPV-Impfung für ihren 11-jährigen Sohn.\n- Kollegial, präzise, mit feinem ärztlichem Humor. Zahlen ausschließlich aus der Leitlinie.\n- Diskutiert den Fallstrick: eine persistierende Glansläsion monatelang als „Balanitis“ mit Salben behandeln – Scham und verzögerte Vorstellung als typisches Problem dieser Entität.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 19
     },
     {
       "folge": 2,
@@ -23,9 +23,9 @@
       "kapitel": [
         "4.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 2 – Pathologie des Peniskarzinoms: WHO-Subtypen, HPV, Grading & Biopsie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 4.4 (Pathologie inkl. 4.4.1 Grading, 4.4.2 Prognostische Faktoren, 4.4.3 HPV, 4.4.4 Molekularbiologie, 4.4.5 Penisbiopsie, 4.4.6 Schnellschnitte und Absetzungsränder; Empfehlungen und Statements 4.3–4.10) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Befundbericht mit histologischem Subtyp nach aktueller WHO-Klassifikation (Empf. 4.3): HPV-assoziierte (z. B. basaloid, warzig) vs. nicht-HPV-assoziierte Plattenepithelkarzinome (z. B. gewöhnlicher Typ, verrukös, pseudohyperplastisch) nach Tabelle 8.\n- Vorläuferläsionen (PeIN) und entzündliche Begleiterkrankungen wie Lichen sclerosus im Befund angeben (Empf. 4.4) – Bedeutung für das Lokalrezidivrisiko bei Organerhalt.\n- Grading ist obligat (Empf. 4.5) und Teil der T-Kategorie (pT1a vs. pT1b); hohe Interobserver-Variabilität (Kappa 0,34).\n- Prognostische Faktoren im Befund (Empf. 4.6): Lokalisation, perineurale Invasion, Infiltrationstiefe, Lymphgefäß- und venöse Invasion, Wachstumsmuster an der Invasionsfront; Lymphknotenbefund mit Anzahl, Lokalisation, maximaler Metastasengröße und Kapselüberschreitung (Empf. 4.7).\n- HPV-Status im Befund (Empf. 4.8, Grad A): HPV-/p16-positive Tumoren mit besserem krankheitsspezifischem Überleben, aber nicht alleiniger Prognosefaktor.\n- Keine molekularen Marker für die Routinediagnostik (Statement 4.9).\n- Biopsie: ausreichend Gewebe aus repräsentativen Arealen (Empf. 4.10); Schnellschnitt und Absetzungsränder – Ausbreitung entlang Perineuralspalten und intramukosal in der Harnröhre (Kapitel 4.4.6).\nFormat & Moderation:\n- Ein urologischer Assistenzarzt und eine Pathologin gehen am Mikroskop zwei Befunde durch: ein oberflächlich biopsiertes „verruköses Karzinom“ und ein Glansektomie-Präparat mit Lymphgefäßinvasion.\n- Interdisziplinär, anschaulich, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: eine zu oberflächliche Shave-Biopsie, die Invasionstiefe und Grading nicht beurteilbar macht – und damit die falsche Lymphknotenstrategie auslöst.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 28
     },
     {
       "folge": 3,
@@ -35,9 +35,9 @@
         "5",
         "6"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 3 – TNM-Klassifikation, klinische Diagnostik & Staging des Peniskarzinoms\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 5 (Stadieneinteilung, TNM-Klassifikation, Empfehlung 5.1) und Kapitel 6 (Diagnostik und Stadiendiagnose: 6.1 Primärtumor, 6.2 Regionäre Lymphknoten, 6.3 Fernmetastasen; Empfehlungen 6.1–6.7) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- TNM 8. Auflage (Empf. 5.1): Tis, Ta, T1a (ohne Lymphgefäß-/Perineuralinvasion, nicht schlecht differenziert) vs. T1b, T2 (Corpus spongiosum), T3 (Corpus cavernosum), T4; cN1–cN3 und pN1–pN3; UICC-Stadien.\n- Unklare penile Läsionen frühzeitig histologisch sichern (Empf. 6.1); Lokalisation, Größe, Wachstumsmuster, Verschieblichkeit und Sexualfunktion dokumentieren (Empf. 6.2).\n- Schnittbild- und Hybridbildgebung zum primären Staging nur bei T3/T4 oder positivem Lymphknotenstatus (Empf. 6.3).\n- Leiste klinisch untersuchen und dokumentieren – tastbar vs. nicht tastbar als zentrale Weiche (Empf. 6.4).\n- Nicht tastbare Lymphknoten ab pT1b invasiv abklären: modifizierte inguinale Lymphadenektomie oder dynamische Sentinel-Biopsie (Empf. 6.5, Grad A); bis pT1a Verzicht zugunsten klinischer Nachbeobachtung möglich (Empf. 6.6, Grad 0) – Verweis auf Episode 7.\n- Tastbare Lymphknoten histologisch sichern, bei Metastase ipsilateral radikale Lymphadenektomie, kontralateral invasive Diagnostik bei kurativem Ansatz (Empf. 6.7).\n- Pelvine Lymphknoten und Fernmetastasen: späte, lymphogene Ausbreitung; PET-CT mit organspezifisch unterschiedlicher Sensitivität (Kapitel 6.2.3, 6.3).\nFormat & Moderation:\n- Zwei Kollegen klassifizieren gemeinsam drei Fälle für die Tumorkonferenz: pT1 G2 ohne L1, pT1 G3, pT3 mit tastbarem Leistenknoten – jeweils mit TNM, Stadium und nächstem diagnostischem Schritt.\n- Strukturiert, Schritt für Schritt „durchklassifizieren“, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: unauffälliges CT/PET-CT der Leiste als Beleg für N0 werten – Bildgebung erkennt Mikrometastasen nicht.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 26
     },
     {
       "folge": 4,
@@ -48,9 +48,9 @@
         "7.1.1",
         "7.1.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 4 – Präkanzerosen, PeIN & oberflächliche Tumoren: topisch, Laser, Glans Resurfacing\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.1 (Behandlung des Primärtumors, Empfehlungen 7.1–7.2), 7.1.1 (Oberflächliche, nicht-invasive Tumoren und Präkanzerosen der Glans, Empfehlungen 7.3–7.10) und 7.1.2 (Tumoren der Vorhaut, Empfehlung 7.11) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Grundprinzip: stadien- und differenzierungsabhängig organerhaltend therapieren (Empf. 7.1); Aufklärung über alle stadiengerechten Optionen auf Basis einer aussagekräftigen Histologie (Empf. 7.2).\n- Oberflächliche Tumoren organ- und funktionserhaltend kurativ behandeln (Empf. 7.3), nur mit aussagekräftiger Histologie (Empf. 7.4); Fluoreszenzdiagnostik zur Abgrenzung des CIS optional (Empf. 7.5).\n- Topische Therapie mit 5-Fluorouracil oder Imiquimod bei PeIN/Präkanzerosen (Empf. 7.6, Grad 0); Aufklärung über begrenzte Wirksamkeit und Off-Label-Gebrauch (Empf. 7.7).\n- Laser: CO2 für PeIN/Präkanzerosen, Nd:YAG mit Tiefenkoagulation für Ta/T1 (Empf. 7.8); Rezidivraten laut Hintergrundtext.\n- Nach topischer oder Lasertherapie Kontrollbiopsie und langfristige Nachsorge (Empf. 7.9) – Qualitätsindikator.\n- Glans Resurfacing (komplette Deepithelialisierung) beim CIS (Empf. 7.10).\n- Auf die Vorhaut beschränkte Tumoren: Zirkumzision (Empf. 7.11).\nFormat & Moderation:\n- Sprechstunde: ein 55-Jähriger mit histologisch gesicherter PeIN an der Glans möchte „bloß keine OP“; zwei Kollegen gehen die Optionen von Imiquimod bis Glans Resurfacing durch.\n- Empathisch, praxisnah, mit feinem ärztlichem Humor; keine Dosierungen oder Anwendungsschemata erfinden.\n- Diskutiert den Fallstrick: nach Imiquimod oder Laser „sieht gut aus“ ohne Kontrollbiopsie – und topische Therapie ohne vorherige Histologie.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 24
     },
     {
       "folge": 5,
@@ -59,9 +59,9 @@
       "kapitel": [
         "7.1.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 5 – Invasive Glanstumoren T1/T2: Exzision, Glansektomie, Teilamputation & Strahlentherapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.1.3 (Behandlung invasiver auf die Glans beschränkter Tumoren T1/T2: Lokalexzision, Glansektomie, Penisteilamputation, Schnittränder, lokale Strahlentherapie; Empfehlungen und Statements 7.12–7.21) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Vorhaut bei kleineren Glanstumoren belassbar (Empf. 7.12); vor Strahlen- oder topischer Therapie Zirkumzision (Empf. 7.13).\n- Lokale Exzision bei kleineren invasiven Glanstumoren (Empf. 7.14, Grad B).\n- Glansektomie (ggf. mit Rekonstruktion/Spalthaut-Neoglans) im Stadium T1/T2 anbieten (Empf. 7.15, Grad A); Penisteilamputation, wenn keine Glansektomie möglich (Empf. 7.16, Grad A).\n- Schnittränder: wenige Millimeter tumorfreier Abstand genügen (Empf. 7.17, Grad B) – Abkehr von der alten 2-cm-Regel; bei positivem Schnittrand Nachresektion (Empf. 7.18).\n- Lokale Strahlentherapie als organerhaltende Option bei T1/T2 (Empf. 7.19); Brachytherapie onkologisch gleichwertig zur Operation (Statement 7.20); perkutane Strahlentherapie mit niedrigerer lokaler Kontrolle – darüber aufklären (Empf. 7.21, Grad A).\n- Lebensqualität, Sexualfunktion und Miktion im Stehen als Entscheidungskriterien.\nFormat & Moderation:\n- OP-Planung: ein Oberarzt und eine Assistenzärztin besprechen einen 45-Jährigen mit 1,5-cm-pT1-Tumor an der Glansspitze und einen 72-Jährigen mit pT2-Tumor, der die Glans großflächig einnimmt.\n- Fachlich detailliert, kollegial, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Lieber 2 cm Sicherheitsabstand und Teilamputation“ beim kleinen Glanstumor – und R1 nach Organerhalt einfach beobachten.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 20
     },
     {
       "folge": 6,
@@ -72,9 +72,9 @@
         "7.1.5",
         "7.1.6"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 6 – Fortgeschrittene Primärtumoren T3/T4 & Management von Lokalrezidiven\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.1.4 (Tumoren mit Invasion der Corpora cavernosa T3, Empfehlungen 7.22–7.23), 7.1.5 (Lokal fortgeschrittene Tumoren T4, Empfehlung 7.24) und 7.1.6 (Lokalrezidive, Empfehlungen 7.25–7.27) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- T3: Penisteilamputation als Therapie der Wahl, bei ausgedehntem Befall radikale Penektomie mit perinealer Urethrostomie (Boutonniere) (Empf. 7.22); Neoglans bei nur distaler Corporektomie.\n- Alternative bei T3: lokale Strahlentherapie, vorzugsweise Brachytherapie, mit geringerer lokaler Kontrolle (Empf. 7.23); perkutane Radiatio bei kurativer Intention nicht indiziert.\n- T4: ausgedehnte Resektion oder lokale Strahlentherapie (Empf. 7.24); meist palliatives Konzept, häufig mit Lymphknotenbefall – neoadjuvante Chemotherapie bzw. Radiochemotherapie erwägen (Querverweis Empf. 7.46, Episode 9).\n- Lokalrezidiv nach organerhaltender Operation wie Primärtumor behandeln (Empf. 7.25); nach Strahlentherapie operative Salvage-Therapie (Empf. 7.26); nach topischer oder Lasertherapie Wechsel der Modalität (Empf. 7.27).\n- Lokalrezidive beeinflussen das Überleben weniger als Lymphknotenrezidive – Konsequenz für die Aufklärung über Organerhalt.\n- Psychische Belastung und Körperbild nach Penektomie, Querverweis auf Psychoonkologie (Episode 12).\nFormat & Moderation:\n- Tumorkonferenz: ein 66-Jähriger mit pT3-Tumor und Wunsch nach Organerhalt sowie ein 74-Jähriger mit Lokalrezidiv zwei Jahre nach Brachytherapie.\n- Sachlich, empathisch, mit behutsamem ärztlichem Humor.\n- Diskutiert den Fallstrick: das Rezidiv nach Bestrahlung erneut bestrahlen – und Lokalrezidiv nach Laser erneut lasern.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 23
     },
     {
       "folge": 7,
@@ -84,9 +84,9 @@
         "6.2.1",
         "7.2.1"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 7 – Die nicht tastbare Leiste (cN0): Überwachung, dynamische Sentinel-Biopsie & modifizierte Lymphadenektomie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.2.1 (Management von Patienten mit klinisch unauffälligen Leistenlymphknoten: klinische Überwachung, Sentinel-Lymphknotendiagnostik, diagnostische inguinale Lymphadenektomie; Empfehlungen und Statements 7.28–7.34) sowie ergänzend Kapitel 6.2.1 (Empfehlungen 6.5–6.6) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Das primäre Lymphknotenmanagement entscheidet über das Überleben (Statement 7.28): 10–25 % (laut Hintergrundtext bis 30 %) okkulte Mikrometastasen bei cN0, Bildgebung schließt sie nicht aus; Langzeitüberleben fällt bei verzögerter Lymphadenektomie von ca. 90 % auf unter 40 %.\n- Klinische Überwachung nur bei pTa und pT1a G1 (Empf. 7.29, Grad A); Aufklärung über die schlechtere Prognose beim Lymphknotenrezidiv (Empf. 7.30); ab pT1 G2 keine Überwachung laut Hintergrundtext.\n- Invasives Staging ab pT1b (Empf. 6.5, Grad A) – Abgleich mit Empf. 6.6 (Grad 0, bis pT1a) und die Grauzone pT1a G2 klar herausarbeiten.\n- Dynamische Sentinel-Lymphknotenbiopsie als Option (Statement 7.31): Prinzip, Falsch-negativ-Rate 5–10 % in Zentren.\n- Modifizierte inguinale Lymphadenektomie als Standardmethode (Statement 7.32): Template, Morbidität im Vergleich zur radikalen Lymphadenektomie.\n- Kein Schnellschnitt vom MIL- oder Sentinel-Gewebe (Empf. 7.33); intraoperativ auffällige Lymphknoten dagegen im Schnellschnitt prüfen und bei Befall ipsilateral radikal lymphadenektomieren (Empf. 7.34).\nFormat & Moderation:\n- Stationsalltag: ein Oberarzt und eine Assistenzärztin diskutieren drei frische Befunde – pTa verrukös, pT1a G2, pT1b G2 – jeweils bei unauffälliger Leistenpalpation.\n- Lebendig, mit klarer Entscheidungslogik und feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: „Leiste unauffällig im CT, also beobachten wir“ – und Schnellschnitt vom Sentinel-Lymphknoten anfordern.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 19
     },
     {
       "folge": 8,
@@ -97,9 +97,9 @@
         "6.2.3",
         "7.2.2"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 8 – Tastbare Leistenknoten: radikale inguinale & pelvine Lymphadenektomie, adjuvante Therapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.2.2 (Management von Patienten mit tastbaren Leistenknoten cN1/cN2: radikale inguinale Lymphadenektomie, pelvine Lymphadenektomie, adjuvante Therapie; Empfehlungen und Statements 7.35–7.42) sowie Kapitel 6.2.2–6.2.3 der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Ca. 20 % haben bei Diagnose tastbare Leistenknoten, davon ca. 75 % Metastasen; neu tastbare Knoten unter Überwachung sind praktisch immer Metastasen.\n- Radikale inguinale Lymphadenektomie bei gesicherter Metastasierung (Empf. 7.35): Resektionsgrenzen (Leistenband, M. adductor longus, M. sartorius, M. pectineus), Ligatur der V. saphena magna, keine Sartorius-Transposition; Lymphknotenzahl als Prognosefaktor; Komplikationen (Wundheilung, Lymphozele, Lymphödem).\n- Ipsilaterale pelvine Lymphadenektomie bei ≥ 2 befallenen inguinalen Lymphknoten oder Kapselüberschreitung (Empf. 7.36) – Qualitätsindikator.\n- Adjuvante Chemotherapie bei pN2/pN3 (Empf. 7.37, Grad 0) und erwägbar bei pN1 mit ≥ G2 oder Metastase ≥ 3 cm (Empf. 7.38).\n- Schema: 4 Zyklen Cisplatin/Paclitaxel/5-FU (Empf. 7.39, Grad B), alternativ Cisplatin/Ifosfamid/Paclitaxel (Empf. 7.40).\n- Adjuvante Strahlentherapie unzureichend untersucht (Statement 7.41), nur bei hohem Rezidivrisiko wie extrakapsulärem Wachstum erwägen (Empf. 7.42).\nFormat & Moderation:\n- Visite und Tumorkonferenz: ein 61-Jähriger nach Glansektomie pT2 G3 mit 2,5 cm tastbarem Leistenknoten links; nach RIL zeigt die Histologie pN2 mit Kapselüberschreitung.\n- Fachlich anspruchsvoll, kollegial, mit feinem ärztlichem Humor; keine Dosierungen erfinden.\n- Diskutiert den Fallstrick: tastbaren Knoten antibiotisch „anbehandeln und abwarten“ – und die pelvine Lymphadenektomie bei pN2 vergessen.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 20
     },
     {
       "folge": 9,
@@ -109,9 +109,9 @@
         "7.2.3",
         "7.2.4"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 9 – Bulky Disease: fixierte Lymphknoten, neoadjuvante Chemotherapie & Lymphknotenrezidive\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.2.3 (Management von Patienten mit fixierten Lymphknotenmetastasen, neoadjuvante Chemotherapie; Empfehlungen 7.43–7.48) und 7.2.4 (Management von Lymphknotenrezidiven, Empfehlungen und Statement 7.49–7.51) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Metastasierte Patienten und multimodale Therapie im interdisziplinären Tumorboard (Empf. 7.43) – Qualitätsindikator.\n- Fixierte inguinale Lymphknoten (cN3) bei ECOG < 2: neoadjuvante Chemotherapie (Empf. 7.44, Grad A); auch bei primär resektablen fixierten Knoten zur Reduktion von Tumorlast und Morbidität anbieten (Empf. 7.45, Grad B).\n- T4-Tumoren: ausgedehnte Resektion oder Radiatio, neoadjuvante Chemotherapie oder Radiochemotherapie erwägen (Empf. 7.46).\n- Neoadjuvante Schemata: Paclitaxel/Ifosfamid/Cisplatin oder Cisplatin/Paclitaxel/5-FU (Empf. 7.47, Grad A); bei Ansprechen Operation nach spätestens 4 Zyklen (Empf. 7.48).\n- Lymphknotenrezidiv nach Überwachung wie primäre Lymphknotenmetastasen (Statement 7.49); nach radikaler Lymphadenektomie histologisch/zytologisch sichern, dann neoadjuvante Chemotherapie und Operation (Empf. 7.50); nach falsch-negativem invasivem Staging sichern und neoadjuvant oder adjuvant zur Operation behandeln (Empf. 7.51).\n- Prognose der Lymphknotenrezidive und realistische Therapieziele.\nFormat & Moderation:\n- Tumorboard mit Urologin, Onkologe und Strahlentherapeut: ein 58-Jähriger mit exulzerierendem, fixiertem Leistenpaket rechts und ECOG 1; danach ein Leistenrezidiv 8 Monate nach negativer Sentinel-Biopsie.\n- Interdisziplinär, kontrovers, aber evidenzbasiert, mit feinem ärztlichem Humor; keine Dosierungen erfinden.\n- Diskutiert den Fallstrick: das fixierte Paket primär „herausschälen“ statt neoadjuvant vorzubehandeln – und nach Ansprechen die Operation über 4 Zyklen hinaus aufschieben.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 31
     },
     {
       "folge": 10,
@@ -120,9 +120,9 @@
       "kapitel": [
         "7.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 10 – Das metastasierte Peniskarzinom: palliative Systemtherapie & Strahlentherapie\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 7.3 (Management von metastasierten Stadien: 7.3.1 Palliative Systemtherapie, 7.3.2 Palliative Strahlentherapie, 7.3.3 Psychoonkologische Betreuung; Empfehlungen und Statements 7.52–7.58) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Hinweis: Stand der Leitlinie 2020 (in Überarbeitung) – nur die dort genannten Substanzen besprechen und offen benennen, dass neuere Entwicklungen nicht Gegenstand der Leitlinie sind.\n- Cisplatin-basierte Chemotherapie, wenn Komorbiditäten es erlauben (Empf. 7.52, Grad A); Kombinationschemotherapie bei ECOG < 2 zur Lebensverlängerung und Symptomkontrolle (Empf. 7.53, Grad B).\n- Bevorzugt Cisplatin/Ifosfamid/Paclitaxel (Empf. 7.54); alternativ Cisplatin/5-FU (Empf. 7.55); keine Bleomycin-haltigen Kombinationen wegen Toxizität (Empf. 7.56).\n- Zweitlinie ohne Standard (Statement 7.57); Paclitaxel-Monotherapie möglich (Empf. 7.58).\n- Palliative Strahlentherapie (Kapitel 7.3.2): v. a. große inguinale Lymphknotenmetastasen – Lokalpflege, Ödem, Blutung, Schmerz; hypofraktioniert (z. B. 12 × 3 Gy laut Leitlinie); Sonderfall Peniswurzel/Beckenboden.\n- Niedrig dosierte Radiatio von Lymphfisteln nach inguinaler Lymphadenektomie (ca. ein Drittel entwickelt eine Lymphfistel).\n- Psychoonkologische Begleitung im metastasierten Stadium (Kapitel 7.3.3).\nFormat & Moderation:\n- Onkologische Ambulanz: ein 64-Jähriger mit Lungen- und retroperitonealen Lymphknotenmetastasen (ECOG 1) und ein 82-Jähriger mit Niereninsuffizienz und blutendem Leistenpaket.\n- Fachlich präzise, empathisch, mit behutsamem ärztlichem Humor; keine Dosierungen außerhalb der Leitlinie.\n- Diskutiert den Fallstrick: Bleomycin-haltiges Schema „aus alten Protokollen“ – und Cisplatin ohne Prüfung von Nierenfunktion und Komorbidität.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 22
     },
     {
       "folge": 11,
@@ -134,9 +134,9 @@
         "8.4",
         "9"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 11 – Nachsorge, Lebensqualität & Sexualität, Rehabilitation und Qualitätsindikatoren\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 8.1 (Nachbeobachtung und Nachsorgeschemata, Empfehlungen 8.1–8.2), 8.2 (Lebensqualität und sexuelle Aktivität, Empfehlungen 8.3–8.5), 8.4 (Rehabilitation, Empfehlung 8.8) und Kapitel 9 (Qualitätsindikatoren) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Risikostratifizierte Nachsorge zur Erkennung von Rezidiven und funktionellen Störungen (Empf. 8.1, Grad A): Lokalrezidive bis 5 Jahre, Lymphknotenrezidive meist in den ersten 1,5 Jahren, über die Hälfte aller Rezidive in den ersten 2 Jahren.\n- Nachsorgeschema Primärtumor: Organerhalt Jahr 1–2 alle 3 Monate, Jahr 3–5 alle 6 Monate; totale Penektomie Jahr 1–2 alle 3 Monate, dann jährlich. Leiste: pNx und pN1 Jahr 3–5 halbjährlich, pN0 jährlich; bei pN1 optional Schnittbildgebung oder Sonographie; klinische Untersuchung als wichtigste Komponente, keine Tumormarker.\n- Selbstuntersuchung schulen, bei Auffälligkeiten sofort vorstellen (Empf. 8.2).\n- Lebensqualität, Symptomlast und Distress regelmäßig als patientenberichtete Endpunkte erheben (Empf. 8.3); spezialisierte psychosoziale und palliative Maßnahmen bei Bedarf (Empf. 8.4).\n- Sexuelle Funktionsstörungen offen ansprechen, kurativ wie palliativ (Empf. 8.5) – Sexualität nach Organerhalt, Teilamputation und Penektomie, Partnerschaft.\n- Rehabilitation mit uroonkologischer Kompetenz in spezialisierten Kliniken (Empf. 8.8).\n- Die 8 Qualitätsindikatoren (Kapitel 9): psychosoziales Screening, Befundbericht Resektion, Befundbericht Lymphknoten, invasive Lymphknotendiagnostik, Kontrollbiopsie nach topischer/Lasertherapie, ipsilaterale pelvine Lymphadenektomie, Tumorboard, neoadjuvante Chemotherapie.\nFormat & Moderation:\n- Nachsorgesprechstunde: drei Patienten – nach Laser bei PeIN, nach Glansektomie mit pN0, nach Teilamputation mit pN1 – zwei Kollegen legen Intervalle und Untersuchungen fest; ein Patient spricht zögernd seine Sexualität an.\n- Empathisch, offen, evidenzbasiert, mit feinem ärztlichem Humor.\n- Diskutiert den Fallstrick: Routine-CT und Tumormarker „zur Sicherheit“ statt sorgfältiger Leistenpalpation – und das Thema Sexualität aus Scham ausklammern.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 21
     },
     {
       "folge": 12,
@@ -146,9 +146,9 @@
         "3",
         "8.3"
       ],
-      "erstellt": null,
+      "erstellt": true,
       "prompt": "Episode 12 – Umgang mit dem Patienten: Kommunikation, Psychoonkologie & palliative Symptomkontrolle\nErstelle eine Podcast-Episode auf Deutsch für Assistenzärzte in der Urologie (2.–5. Weiterbildungsjahr).\nFokussiere dich ausschließlich auf Kapitel 3 (Umgang mit den Patienten: Beratung und Aufklärung, Psychoonkologie, Palliativversorgung und Frühintegration, Selbsthilfe; Empfehlungen 3.1–3.10) und Kapitel 8.3 (Palliativversorgung: exulzerierte Metastasen, körperliche Symptome, maligne Lymphödeme; Statement 8.6, Empfehlung 8.7) der S3-Leitlinie Peniskarzinom (AWMF 043-042OL, Version 1.0, August 2020).\nInhalte:\n- Aufklärung: Vertrauensperson einbeziehen (Empf. 3.1), Hinweis auf die Patientenleitlinie (Empf. 3.2), Zweitmeinung (Empf. 3.3); Diagnosemitteilung bei einer schambesetzten Erkrankung; Bedürfnisse von Krebs-Überlebenden explorieren (Empf. 3.4).\n- Psychoonkologie: bedarfsorientierte Information (Empf. 3.5), niederschwellige psychosoziale Angebote (Empf. 3.6), Screening für alle Patienten z. B. mit Distress-Thermometer oder HADS-D (Empf. 3.7) – Qualitätsindikator; besondere Relevanz bei Veränderung des Körperbildes.\n- Palliativversorgung: Informationen für alle unabhängig vom Stadium (Empf. 3.8), bedarfsorientierte Mitbetreuung im fortgeschrittenen Stadium (Empf. 3.9); Zugang zu Selbsthilfegruppen (Empf. 3.10).\n- Exulzerierte Metastasen und Rezidive (Statement 8.6): Schmerz, Blutung (Risiko der Arrosion der Femoralgefäße, Notfallplan mit dunklen Tüchern, Anxiolyse und palliativer Sedierung, Hämostyptika, Tranexamsäure, Kurzzeitradiatio), Geruch (Debridement, Antiseptika, Kohleverbände, topisches Metronidazol), Wundsekretion.\n- Malignes Lymphödem: komplexe Entstauungstherapie mit Lymphdrainage, Kompression und Hautpflege (Empf. 8.7, Grad A).\n- Psychische und soziale Aspekte: Scham, soziale Isolation, Angehörige.\nFormat & Moderation:\n- Palliativkonsil: ein 70-Jähriger mit exulzerierendem Leistenpaket, Geruchsbelastung und kleineren Sickerblutungen; seine Frau hat Angst vor „der großen Blutung“. Rückblende auf das Diagnosegespräch einige Monate zuvor.\n- Empathisch, behutsam, ehrlich; Humor nur sehr dosiert. Keine Dosierungen außerhalb der Leitlinie.\n- Diskutiert den Fallstrick: kein vorbereiteter Plan für eine Arrosionsblutung – und psychoonkologisches Screening erst, wenn der Patient „auffällig“ wird.\n- Schließt mit 3 prägnanten klinischen Take-home-Messages ab.",
-      "dauerMin": null
+      "dauerMin": 25
     }
   ]
 }
