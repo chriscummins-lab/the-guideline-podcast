@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In einer Verlaufsserie mit engmaschigen Kontrollen musste bei 11/60 Patienten nach einem durchschnittlichen Follow-up von 16 Jahren welche Intervention erfolgen?",
+    "options": [
+      "Eine Blasenaugmentation.",
+      "Eine primäre Nierentransplantation.",
+      "Ein Blasenhalsverschluss.",
+      "Eine Vesikostomie."
+    ],
+    "correct": 0,
+    "tip": "In derselben Serie hatten zudem 7/58 eine eingeschränkte und 2 eine stark eingeschränkte Nierenfunktion.",
+    "explanation": "In der genannten Serie musste bei 11 von 60 Patienten trotz engmaschiger Kontrollen nach durchschnittlich 16 Jahren Follow-up eine Augmentation erfolgen."
+  },
+  {
+    "question": "Die Eltern eines 3 Wochen alten Säuglings mit MMC und Detrusor-Sphinkter-Dyssynergie befürchten, dass ein Katheterismus so früh unnötig sei. Was zeigte die MOMS-Studie zum Vergleich von intrauterinem und postpartalem Verschluss bezüglich des IK-Bedarfs?",
+    "options": [
+      "Es zeigte sich kein Unterschied im IK-Bedarf zwischen beiden Gruppen, lediglich eine geringere Trabekularisierung der Blase nach intrauterinem Verschluss.",
+      "Intrauterin operierte Kinder benötigten nie einen IK.",
+      "Postpartal operierte Kinder hatten eine signifikant bessere Blasenfunktion.",
+      "Der IK-Bedarf war nach intrauterinem Verschluss deutlich höher."
+    ],
+    "correct": 0,
+    "tip": "Auch intrauterin operierte Kinder benötigen daher weiterhin eine engmaschige Nachsorge.",
+    "explanation": "In der MOMS-Studie zeigte sich kein Unterschied zwischen intrauterin und postpartal verschlossenen Patienten bezüglich der Notwendigkeit eines IK, lediglich eine geringere Trabekularisierung der Blase in der intrauterin verschlossenen Gruppe."
+  },
+  {
+    "question": "Welche hierarchische Reihenfolge der Therapieziele gibt die Leitlinie bei neurogener Blasenfunktionsstörung vor?",
+    "options": [
+      "1. Protektion/Verbesserung der Nierenfunktion, 2. Optimierung der Blasenentleerung, 3. Harnkontinenz.",
+      "1. Harnkontinenz, 2. Nierenschutz, 3. Blasenentleerung.",
+      "1. Optimierung der Blasenentleerung, 2. Harnkontinenz, 3. Nierenschutz.",
+      "Alle drei Ziele sind gleichrangig und werden nicht priorisiert."
+    ],
+    "correct": 0,
+    "tip": "Die Lebensqualität korreliert zwar stark mit der Harninkontinenz, dennoch steht der Nierenschutz an erster Stelle.",
+    "explanation": "Die Therapieziele umfassen in hierarchischer Reihenfolge: 1. Protektion bzw. Verbesserung der Nierenfunktion, 2. Optimierung der Blasenentleerung, 3. Harnkontinenz."
+  },
+  {
+    "question": "Warum sind Crédé-Handgriff und Valsalva-Manöver zur Blasenentleerung bei spinaler Dysraphie laut Leitlinie obsolet?",
+    "options": [
+      "Sie können neben einer Schädigung des Harntraktes auch zu einer Blasenruptur führen.",
+      "Sie sind lediglich unangenehm, aber ungefährlich.",
+      "Sie erhöhen ausschließlich das Risiko einer Harnwegsinfektion.",
+      "Sie sind nur bei Mädchen kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Techniken erhöhen den intravesikalen Druck auf gefährliche Weise.",
+    "explanation": "Die Blasenentleerung mittels Crédé-Handgriff oder Valsalva-Manöver ist obsolet, da diese Techniken neben einer Schädigung des Harntraktes auch zu einer Blasenruptur führen können."
+  },
+  {
+    "question": "Bei wie viel Prozent der Kinder mit spinaler Dysraphie liegt eine Detrusor-Sphinkter-Dyssynergie (DSD) vor, und welchen Effekt hat ein früher Beginn des IK in dieser Gruppe auf den späteren Augmentationsbedarf?",
+    "options": [
+      "DSD liegt bei >50 % der Kinder vor; früher IK-Beginn kann den Augmentationsbedarf in der Hochrisikogruppe um bis zu 50 % reduzieren.",
+      "DSD liegt bei <5 % der Kinder vor; der IK-Zeitpunkt hat keinen Einfluss auf die Augmentationsrate.",
+      "DSD liegt bei >50 % vor, ein früher IK-Beginn erhöht jedoch den Augmentationsbedarf.",
+      "DSD kommt bei spinaler Dysraphie praktisch nicht vor."
+    ],
+    "correct": 0,
+    "tip": "Häufig wird der frühe IK mit der Gabe eines Antimuskarinikums kombiniert.",
+    "explanation": "Eine DSD liegt bei über 50 % der Kinder mit spinaler Dysraphie vor; der frühestmögliche Beginn des IK innerhalb der ersten Lebensmonate kann in dieser Hochrisikogruppe die Notwendigkeit einer späteren Blasenaugmentation um bis zu 50 % reduzieren."
+  },
+  {
+    "question": "Welcher Anteil der Patienten mit spinaler Dysraphie benötigt laut Leitlinie im Laufe des Lebens einen intermittierenden Katheterismus?",
+    "options": [
+      "Über 90 %.",
+      "Etwa 25 %.",
+      "Unter 10 %.",
+      "Etwa 50 %."
+    ],
+    "correct": 0,
+    "tip": "Ein weiterer Vorteil des frühen IK-Beginns ist die frühe Gewöhnung von Eltern und Kind an die Prozedur.",
+    "explanation": "Der IK wird letztlich bei über 90 % der Patienten mit spinaler Dysraphie im Laufe des Lebens notwendig."
+  },
+  {
+    "question": "Ein Kollege schlägt vor, bei einem Neugeborenen mit DSD zunächst abzuwarten, bis sich am oberen Harntrakt Veränderungen zeigen. Welches Risiko beschreibt die Leitlinie für dieses abwartende Management?",
+    "options": [
+      "Bei 5–19 % der Patienten kommt es zu vermeidbaren Komplikationen, bei spätem Therapiebeginn können Veränderungen des oberen Harntraktes (bis 31 %) und der Compliance (bis 58 %) irreversibel werden.",
+      "Ein abwartendes Management ist laut Leitlinie das empfohlene Standardvorgehen.",
+      "Abwartendes Management hat nachweislich keine Nachteile gegenüber dem proaktiven Vorgehen.",
+      "Das Risiko betrifft ausschließlich die Kontinenzentwicklung, nicht den oberen Harntrakt."
+    ],
+    "correct": 0,
+    "tip": "Insbesondere bei DSD mit erhöhtem renalem Risiko sollte der IK-Beginn deshalb noch vor der Klinikentlassung erfolgen.",
+    "explanation": "Bei abwartender Haltung kann es trotz engmaschiger Kontrollen bei 5–19 % der Patienten zu vermeidbaren Komplikationen kommen; setzt die konservative Therapie zu spät ein, sind Veränderungen des oberen Harntraktes in bis zu 31 % und der Compliance in bis zu 58 % irreversibel."
+  },
+  {
+    "question": "Eine Studie verglich die Wiederverwendung eines Katheters über eine Woche versus drei Wochen. Was zeigte sich bezüglich der Bakteriurierate?",
+    "options": [
+      "Die Prävalenz einer Bakteriurie stieg bei dreiwöchiger Wiederverwendung von 34 % auf 74 %.",
+      "Es zeigte sich kein Unterschied zwischen beiden Gruppen.",
+      "Die Bakteriurierate sank bei längerer Wiederverwendung.",
+      "Beide Gruppen hatten eine Bakteriurierate von über 95 %."
+    ],
+    "correct": 0,
+    "tip": "Trotz der steigenden Bakteriurie entwickelte innerhalb der 18-wöchigen Studie kein Patient einen fieberhaften HWI.",
+    "explanation": "In einer Cross-over-Studie mit 40 Kindern stieg die Prävalenz einer Bakteriurie bei Wiederverwendung eines Katheters über drei Wochen im Vergleich zu einer Woche von 34 % auf 74 %."
+  },
+  {
+    "question": "Ab welchem Lebensjahr sollte bei ausreichender manueller Geschicklichkeit und intellektueller Fähigkeit der eigenständige intermittierende Selbstkatheterismus (ISK) angestrebt werden?",
+    "options": [
+      "Ab ca. dem 6. Lebensjahr.",
+      "Ab dem 2. Lebensjahr.",
+      "Erst nach der Pubertät.",
+      "Erst im Erwachsenenalter."
+    ],
+    "correct": 0,
+    "tip": "Dabei müssen Störungen der Feinmotorik bei Chiari-Malformation und mögliche Sehstörungen bei Hirndruckkrisen berücksichtigt werden.",
+    "explanation": "Bei ausreichender manueller Geschicklichkeit und intellektueller Fähigkeit sollte der eigenständige ISK durch die Patienten ca. ab dem 6. Lebensjahr angestrebt werden."
+  },
+  {
+    "question": "Welche Komplikationsrate zeigte eine Schweizer Untersuchung bezüglich symptomatischer Harnwegsinfekte unter IK/ISK bei erwachsenen Patienten mit neurogener Blasenfunktionsstörung?",
+    "options": [
+      "Bis zu 70 % entwickeln mindestens einen symptomatischen HWI pro Jahr, 30 % zwei und mehr.",
+      "Weniger als 5 % entwickeln jemals einen symptomatischen HWI.",
+      "Nahezu 100 % entwickeln eine chronische Pyelonephritis.",
+      "Die HWI-Rate ist unter IK/ISK identisch mit der Normalbevölkerung."
+    ],
+    "correct": 0,
+    "tip": "Andere Komplikationen wie Urethraverletzungen oder Via falsa sind demgegenüber insgesamt seltener.",
+    "explanation": "Bis zu 70 % der erwachsenen Patienten mit neurogener Blasenfunktionsstörung entwickeln unter IK/ISK einen symptomatischen Harnwegsinfekt pro Jahr, 30 % entwickeln zwei und mehr, wie eine größere Untersuchung an einem Schweizer Zentrum zeigte."
+  }
+]

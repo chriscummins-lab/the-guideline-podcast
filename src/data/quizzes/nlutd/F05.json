@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Voraussetzungen müssen für die zulassungskonforme Anwendung von Onabotulinumtoxin bei NDÜ in Deutschland erfüllt sein?",
+    "options": [
+      "Stabile Querschnittlähmung unterhalb C8 oder MS mit EDSS ≤6,5, Alter ≥18 Jahre, urodynamisch gesicherte NDÜ, bestehende Harninkontinenz, Injektion bis 200 AE.",
+      "Jedes Alter, jede Lähmungshöhe, ohne vorherige urodynamische Sicherung.",
+      "Nur Patienten ohne Harninkontinenz dürfen behandelt werden.",
+      "Die Zulassung gilt nur für Patienten mit Querschnittlähmung oberhalb C8."
+    ],
+    "correct": 0,
+    "tip": "In der Schweiz und bei der EMA ist die Indikation weiter gefasst.",
+    "explanation": "Die zulassungskonforme Anwendung setzt eine stabile Querschnittlähmung unterhalb C8 oder MS mit EDSS ≤6,5, ein Alter ≥18 Jahre, urodynamisch gesicherte NDÜ, bestehende Harninkontinenz und eine Injektion von bis zu 200 AE voraus."
+  },
+  {
+    "question": "In der Studie von Cruz et al. (230 Patienten) wurde in Woche 6 bei welchem Anteil der Patienten eine sichere Harnkontinenz erreicht (Placebo vs. 200AE vs. 300AE)?",
+    "options": [
+      "7,6% vs. 38,0% vs. 39,6%.",
+      "50% vs. 50% vs. 50% (kein Unterschied).",
+      "90% vs. 10% vs. 10%.",
+      "0% in allen drei Gruppen."
+    ],
+    "correct": 0,
+    "tip": "Zwischen 200AE und 300AE gab es dabei keinen signifikanten Unterschied bei den urodynamischen Parametern.",
+    "explanation": "In der Studie von Cruz et al. war in Woche 6 eine sichere Harnkontinenz bei Placebo vs. 200AE vs. 300AE in 7,6% vs. 38,0% vs. 39,6% der Fälle eingetreten."
+  },
+  {
+    "question": "Eine 39-jährige MS-Patientin (EDSS 4,0) hat große Angst vor dem Katheter. Welcher Anteil der Patienten benötigte laut den Zulassungsstudien (Cruz et al., Ginsberg et al.) einen de-novo-ISK nach 200AE bzw. 300AE OBoNT?",
+    "options": [
+      "Etwa 35% bzw. 42% (gegenüber 10% unter Placebo).",
+      "0% bei beiden Dosierungen.",
+      "100% bei beiden Dosierungen.",
+      "Nur bei Patienten über 60 Jahren war ein de-novo-ISK erforderlich."
+    ],
+    "correct": 0,
+    "tip": "Dieser mögliche de-novo-ISK ist ein zentraler Aufklärungspunkt vor der Injektion.",
+    "explanation": "In der Studie von Ginsberg et al. war ein de-novo-ISK bei Placebo, 200AE und 300AE im Verhältnis 10% zu 35% zu 42% notwendig – ein wichtiger Aufklärungspunkt gerade für Patienten mit Katheterangst."
+  },
+  {
+    "question": "Welche dosisabhängige Wirkungsdauer (empfundene Wirkzeit) wurde in einer vergleichenden Studie mit OBoNT 200AE, 300AE und 400AE ermittelt?",
+    "options": [
+      "8,3 Monate bei 200AE, 10,8 Monate bei 300AE, 13,1 Monate bei 400AE.",
+      "Alle drei Dosierungen zeigten eine identische Wirkdauer von 6 Monaten.",
+      "Die Wirkdauer nahm mit steigender Dosis ab.",
+      "200AE wirkten länger als 400AE."
+    ],
+    "correct": 0,
+    "tip": "Diese dosisabhängige Verlängerung der Wirkzeit wurde durch weitere Untersuchungen bestätigt.",
+    "explanation": "In der vergleichenden Studie mit 200AE (N=105), 300AE (N=553) und 400AE (N=54) zeigte sich eine signifikante Verlängerung der empfundenen Wirkzeit: 8,3 Monate bei 200AE, 10,8 Monate bei 300AE und 13,1 Monate bei 400AE."
+  },
+  {
+    "question": "In der retrospektiven europäischen Multicenterstudie von Reitz et al. (200 Patienten, 300AE): wie veränderten sich maximale zystometrische Blasenkapazität und maximaler Detrusordruck 12 Wochen nach Injektion?",
+    "options": [
+      "Die MZBK stieg von 272 auf 420ml, der maximale Detrusordruck fiel von 61 auf 30cmH2O.",
+      "Die MZBK fiel von 420 auf 272ml.",
+      "Es zeigte sich keine Veränderung der urodynamischen Parameter.",
+      "Der maximale Detrusordruck stieg von 30 auf 61cmH2O."
+    ],
+    "correct": 0,
+    "tip": "73,3% der zuvor inkontinenten Patienten wurden vollständig kontinent – aber nur 25% konnten die Antimuskarinika vollständig absetzen.",
+    "explanation": "Bei Reitz et al. stieg die maximale zystometrische Blasenkapazität von 272 auf 420ml, und der maximale Detrusordruck fiel von 61 auf 30cmH2O; 132 von 180 inkontinenten Patienten (73,3%) wurden vollständig kontinent."
+  },
+  {
+    "question": "Ein 25-jähriger Paraplegiker mit routiniertem ISK möchte „ganz trocken“ werden. Welches Therapieziel verfolgt die OBoNT-Injektion bei Patienten, die bereits regelmäßig den ISK/IK anwenden?",
+    "options": [
+      "Eine vollständige Unterdrückung der NDÜ mit Niederdruckreservoirfunktion bis 400–500ml, erreichbar bei 60-69% der Patienten.",
+      "Der Erhalt der willentlichen Miktion ohne jede Katheterisierung.",
+      "Eine Steigerung des Reflexievolumens ohne Rücksicht auf die Restharnmenge.",
+      "Die Vermeidung jeder Form von Harnverhalt nach der Injektion."
+    ],
+    "correct": 0,
+    "tip": "Eine organisch fixierte Low-Compliance infolge Fibrosierung des Detrusors ist dagegen keine Indikation für diese Therapie.",
+    "explanation": "Bei Patienten mit regelmäßigem ISK/IK wird durch eine entsprechend gewählte Dosierung des OBoNT eine vollständige Unterdrückung der NDÜ mit einer Niederdruckreservoirfunktion bis 400–500ml angestrebt, was bei 60-69% erreicht werden kann."
+  },
+  {
+    "question": "Welche der häufigsten Nebenwirkungen nach Onabotulinumtoxin-Injektion bei NLUTD-Patienten nennt der Review von Karsenty et al.?",
+    "options": [
+      "Schmerzen am Injektionsort (11%), Harnwegsinfekte (2-32%) und kurzfristige milde Hämaturie (2-26%).",
+      "Ausschließlich schwere kardiale Arrhythmien.",
+      "Dauerhafter kompletter Harnverhalt bei allen Patienten.",
+      "Es wurden in dieser Übersicht keine Nebenwirkungen berichtet."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich existieren Fallbeschreibungen über systemische Nebenwirkungen wie passagere Muskelschwäche, vor allem bei Tetraplegikern.",
+    "explanation": "Karsenty et al. berichteten als häufigste Nebenwirkungen Schmerzen am Injektionsort (11%), Harnwegsinfekte (2-32%) und eine kurzfristige milde Hämaturie (2-26%)."
+  },
+  {
+    "question": "Warum ist es ein gefährlicher Fallstrick, Einheiten verschiedener Botulinumtoxin-Präparate 1:1 zu übertragen?",
+    "options": [
+      "1 Einheit Onabotulinumtoxin entspricht aufgrund biologischer Aktivitätsunterschiede etwa 4-5 (neuere Daten: 3) Einheiten Abobotulinumtoxin.",
+      "Alle Botulinumtoxin-Präparate sind biologisch exakt äquivalent und beliebig austauschbar.",
+      "Nur Incobotulinumtoxin unterscheidet sich von den übrigen Präparaten, alle anderen sind gleich.",
+      "Die Dosierungsangaben beziehen sich bei allen Präparaten auf dieselbe Maßeinheit Milligramm."
+    ],
+    "correct": 0,
+    "tip": "Dieser Umstand wird in der zitierten Literatur häufig in der Diktion der Dimensionen nicht ausreichend berücksichtigt.",
+    "explanation": "Auf Grund biologischer Aktivitätsunterschiede der Toxine sind die Präparate bezüglich der Dosierungen nicht untereinander austauschbar: 1 Einheit Onabotulinumtoxin entspricht etwa 4-5 (neuere Daten: 3) Einheiten Abobotulinumtoxin."
+  },
+  {
+    "question": "Mit welchem Wirkungseintritt nach der OBoNT-Injektion ist zu rechnen, und wie soll die zuvor bestehende antimuskarinerge Therapie gehandhabt werden?",
+    "options": [
+      "Wirkungseintritt nach 7-14 Tagen; die antimuskarinerge Therapie soll in dieser Zeit beibehalten und dann über 1-6 Wochen schrittweise abgesetzt werden.",
+      "Der Wirkungseintritt erfolgt sofort nach der Injektion, Antimuskarinika sollen unmittelbar abgesetzt werden.",
+      "Der Wirkungseintritt dauert mehrere Monate, Antimuskarinika spielen dabei keine Rolle.",
+      "Eine begleitende antimuskarinerge Therapie ist nach der Injektion grundsätzlich kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Der Therapieeffekt sollte im Off-Label-Use idealerweise nach 6 Wochen urodynamisch überprüft werden.",
+    "explanation": "Mit dem Wirkungseintritt der OBoNT-Injektion ist nach 7 bis 14 Tagen zu rechnen; in dieser Zeit sollte eine bereits bestehende antimuskarinerge Therapie beibehalten und danach über 1 bis 6 Wochen schrittweise abgesetzt werden."
+  },
+  {
+    "question": "Welche Aussage trifft Empfehlung 4e zur Aufklärung bei Anwendung von Onabotulinumtoxin?",
+    "options": [
+      "Es soll darüber aufgeklärt werden, dass der IK/ISK notwendig werden kann oder unvermeidbar ist, sofern er nicht ohnehin regelmäßig angewandt wird.",
+      "Eine Aufklärung über den möglichen IK ist nur bei Kindern erforderlich.",
+      "Die Injektion macht einen IK grundsätzlich überflüssig.",
+      "Eine Aufklärung über Harnverhalt ist laut Leitlinie nicht notwendig."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erzielte einen Konsens von 89,5%.",
+    "explanation": "Empfehlung 4e fordert, dass bei Anwendung von OBoNT darüber aufgeklärt werden soll, dass der IK/ISK notwendig werden kann oder unvermeidbar ist, sofern dieser nicht ohnehin regelmäßig angewandt wird."
+  }
+]

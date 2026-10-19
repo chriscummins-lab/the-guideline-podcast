@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche hormonelle Vorbehandlung wird laut Hintergrundinformationen zu 8.21 bei der Epispadie analog zur Hypospadie diskutiert, und welcher Applikationsform wird der Vorzug gegeben?",
+    "options": [
+      "Testosteron-Propionat i.m. oder Dihydrotestosteron-Gel 2,5 % topisch; der topischen Vorbehandlung wäre der Vorzug zu geben.",
+      "Östrogen-Creme topisch; diese ist beim Jungen die Standardtherapie.",
+      "Eine hormonelle Vorbehandlung ist beim BEEK grundsätzlich kontraindiziert.",
+      "Nur orale Kortikosteroide werden in der Leitlinie als Option genannt."
+    ],
+    "correct": 0,
+    "tip": "Die Wirksamkeit ist laut Leitlinie nicht abschließend belegt, und die Eltern sollen über mögliche Komplikationen aufgeklärt werden.",
+    "explanation": "Empfehlung 8.21 (EK) nennt Testosteron-Propionat 2 mg/kg i.m. alle drei Wochen oder Dihydrotestosteron-Gel 2,5 % zweimal täglich über vier Wochen lokal; der topischen Applikation wäre aufgrund der Hypospadie-Erfahrung der Vorzug zu geben. Die Penislängenzunahme ist reversibel."
+  },
+  {
+    "question": "Welche fünf grundlegenden operativen Schritte umfasst die Peniskorrektur bei der Epispadie-Rekonstruktion beim Jungen?",
+    "options": [
+      "Penisaufrichtung, Tubularisierung der Urethralplatte, Ventralverlagerung der Urethra, Meatoglanduloplastik und Hautdeckung.",
+      "Zystektomie, Osteotomie, Ureterneuimplantation, Stomaanlage und Hautdeckung.",
+      "Nur die Meatoglanduloplastik ist notwendig, alle anderen Schritte sind optional.",
+      "Symphysenzuggurtung, Herniotomie, Antirefluxplastik, Vesikostomie und Katheterismus."
+    ],
+    "correct": 0,
+    "tip": "Nach dem Degloving wird zusätzlich der dorsale Bindegewebsstreifen entfernt (Johnston-Manöver).",
+    "explanation": "Die grundlegenden operativen Schritte sind: 1. Penisaufrichtung (-deflexion), 2. Tubularisierung der Urethralplatte, 3. Ventralverlagerung der Urethra an die orthotope Position, 4. Meatoglanduloplastik und 5. Hautdeckung des Penisschaftes."
+  },
+  {
+    "question": "Wie unterscheiden sich laut Braga et al. 2008 die Gesamtkomplikationsraten der Cantwell-Ransley-Technik und der Mitchell-Bagli-Technik bei penopubischen Epispadien?",
+    "options": [
+      "57 % bei Cantwell-Ransley gegenüber 29 % bei Mitchell-Bagli.",
+      "29 % bei Cantwell-Ransley gegenüber 57 % bei Mitchell-Bagli.",
+      "Beide Techniken zeigten identische Komplikationsraten von 40 %.",
+      "Komplikationen wurden in dieser Studie nicht erfasst."
+    ],
+    "correct": 0,
+    "tip": "Auch bei den urethrokutanen Fisteln war die Cantwell-Ransley-Technik mit 29 % gegenüber 14 % bei Mitchell-Bagli doppelt so häufig betroffen.",
+    "explanation": "Braga et al. 2008 fanden eine Gesamtkomplikationsrate von 57 % bei der Cantwell-Ransley-Technik gegenüber 29 % bei der Mitchell-Bagli-Technik (\"complete disassembly\"), die wegen vaskulärer Risiken umstritten bleibt."
+  },
+  {
+    "question": "Wie wird die Klitoris bei der Rekonstruktion des Genitales beim Mädchen laut Kapitel 8.3.1.2 behandelt, und warum?",
+    "options": [
+      "Sie kann bifid verbleiben, um Durchblutung und Innervation nicht zu gefährden.",
+      "Sie wird immer vollständig reseziert, um eine symmetrische Optik zu erreichen.",
+      "Sie wird grundsätzlich erst in der Pubertät erstmals operiert.",
+      "Die Klitoris ist beim BEEK nie betroffen und bedarf keiner Rekonstruktion."
+    ],
+    "correct": 0,
+    "tip": "Eine Fusion der Labia majora wird angestrebt, um die Klitorishälften so nahe wie möglich aneinanderzubringen.",
+    "explanation": "Die Klitoris kann bifid verbleiben, um die sensitive Durchblutung und Innervation nicht zu gefährden; eine Fusion der Labia majora wird angestrebt, um die Klitorishälften möglichst nahe aneinanderzubringen."
+  },
+  {
+    "question": "Was besagt Statement 8.22 zum idealen Rekonstruktionsalter bei Epispadie, und wann wird die Korrektur laut Empfehlung 8.23 empfohlen?",
+    "options": [
+      "Ein ideales Alter ist anhand der Literatur nicht festzulegen; die Korrektur sollte zeitnah nach Diagnosestellung, vorzugsweise vor der Pubertät, erfolgen.",
+      "Das ideale Alter ist klar definiert: immer am ersten Lebenstag.",
+      "Eine Korrektur vor dem 18. Lebensjahr ist grundsätzlich kontraindiziert.",
+      "Die Korrektur soll ausschließlich im Erwachsenenalter erfolgen."
+    ],
+    "correct": 0,
+    "tip": "Meist wird in Analogie zur Hypospadie ein Operationszeitpunkt um den ersten Geburtstag gewählt.",
+    "explanation": "Statement 8.22 besagt, dass das ideale Alter für die Rekonstruktion in Hinblick auf Morbidität und Lebensqualität nicht festzulegen ist. Empfehlung 8.23 (EK) empfiehlt eine Korrektur zeitnah nach Diagnosestellung, vorzugsweise vor der Pubertät; meist wird der Zeitpunkt um den ersten Geburtstag gewählt."
+  },
+  {
+    "question": "Bei wie viel Prozent der Jungen mit Epispadie wird laut Cendron et al. eine spontane Harnkontinenz über alle Epispadieformen hinweg berichtet?",
+    "options": [
+      "Bei ca. 65 %.",
+      "Bei ca. 10 %.",
+      "Bei praktisch 100 %.",
+      "Spontane Kontinenz tritt bei Epispadie nie auf."
+    ],
+    "correct": 0,
+    "tip": "Auch distale Formen der Epispadie sind demnach nicht in jedem Fall kontinent.",
+    "explanation": "Cendron et al. berichten eine spontane Harnkontinenz bei 65 % der Jungen mit allen Epispadieformen; auch distale Epispadien sind damit nicht automatisch kontinent."
+  },
+  {
+    "question": "Welche Komponenten umfasst das Kontinenzkonzept laut Empfehlung 8.24 (Empfehlungsgrad A)?",
+    "options": [
+      "Funktionelle Blasenkapazität, Miktionszystourethrogramm, Urodynamik (inkl. Leak Point Pressure) sowie Komorbiditäten wie Stuhlkontinenz, rezidivierende HWI, Nierennarben, Hypertonie und soziale Aspekte.",
+      "Ausschließlich eine einmalige Sonographie der Blase.",
+      "Nur die subjektive Einschätzung der Eltern, ohne apparative Diagnostik.",
+      "Eine Genanalyse auf ISL1-Mutationen."
+    ],
+    "correct": 0,
+    "tip": "Empfehlung 8.25 ergänzt, dass der Zeitpunkt invasiver Diagnostik individuell besprochen werden soll und eine Narkoseuntersuchung nur bei zu erwartenden Konsequenzen gerechtfertigt ist.",
+    "explanation": "Empfehlung 8.24 fordert ein Kontinenzkonzept aus funktioneller Blasenkapazität, Miktionszystourethrogramm (Reflux, Blasenhalskonfiguration), Urodynamik inkl. Leak Point Pressure sowie Komorbiditäten/Komplikationen wie Stuhlkontinenz, rezidivierende Harnwegsinfektionen, Nierennarben, Hypertonie, Entwicklungs- und sozialmedizinische Aspekte."
+  },
+  {
+    "question": "In der Studie von Leclair 2018 wurden die perineale Urethralverlängerung mit Blasenhalsplikation und die RSTM bei Mädchen verglichen. Wie hoch war die Tag-und-Nacht-Kontinenzrate bei der RSTM im Vergleich zur perinealen Rekonstruktion?",
+    "options": [
+      "38 % bei RSTM vs. 57 % bei perinealer Rekonstruktion (Tag-und-Nacht-Kontinenz).",
+      "100 % bei RSTM vs. 38 % bei perinealer Rekonstruktion.",
+      "Beide Verfahren erreichten identische Tag-und-Nacht-Kontinenzraten von 80 %.",
+      "0 % bei beiden Verfahren."
+    ],
+    "correct": 0,
+    "tip": "Tagsüber erreichte die RSTM dagegen 100 % Kontinenz, die perineale Rekonstruktion 71 %.",
+    "explanation": "Die RSTM erwirkte eine Kontinenz tagsüber von 100 %, aber Tag und Nacht nur von 38 %, während bei der perinealen Rekonstruktion 71 % tagsüber und 57 % Tag und Nacht trocken waren."
+  },
+  {
+    "question": "Was fordert Empfehlung 8.26 (Empfehlungsgrad A) hinsichtlich des Zeitpunkts der Kontinenzoperation bei isolierter Epispadie?",
+    "options": [
+      "Der Zeitpunkt soll individuell gewählt werden; bei einzeitigen Methoden liegt er um das erste Lebensjahr, bei mehrzeitigen im Vorschul- und Schulalter, abhängig von Blasenkapazität und Kooperation des Kindes.",
+      "Die Kontinenzoperation muss bei allen Kindern exakt am ersten Geburtstag erfolgen.",
+      "Eine Kontinenzoperation ist erst nach dem 18. Lebensjahr sinnvoll.",
+      "Der Zeitpunkt ist irrelevant, da das Operationsalter keinen Einfluss auf das Ergebnis hat."
+    ],
+    "correct": 0,
+    "tip": "Zehn retrospektive Fallserien und fünf Kohortenstudien mit sehr heterogenen Herangehensweisen erlauben keinen eindeutigen Rückschluss auf ein optimales Alter.",
+    "explanation": "Empfehlung 8.26 (Empfehlungsgrad A) legt fest, dass der Zeitpunkt der kontinenzschaffenden Operation individuell gewählt werden soll: bei einzeitigen Rekonstruktionsmethoden um das erste Lebensjahr, bei mehrzeitigen Methoden im Vorschul- und Schulalter, abhängig von präoperativer Blasenkapazität und der Kooperation des Kindes."
+  },
+  {
+    "question": "Welche Kontinenzrate wurde für die isolierte Blasenhalsplastik bei Epispadie laut Leitlinie typischerweise berichtet?",
+    "options": [
+      "Meist um 50 %, stark altersabhängig, u. a. weil eine einheitliche Kontinenzdefinition fehlt.",
+      "Konstant bei 100 % unabhängig vom Alter.",
+      "Konstant bei 0 %, die Blasenhalsplastik ist bei Epispadie wirkungslos.",
+      "Die Kontinenzrate wurde in keiner zitierten Studie berichtet."
+    ],
+    "correct": 0,
+    "tip": "Zur Verfügung stehen konventionelle Blasenhalsplastiken wie YDL oder Mitchell-Bagli, die RSTM und perineale Techniken.",
+    "explanation": "Die Kontinenzraten der isolierten Blasenhalsplastik sind sehr variabel, liegen meist aber um 50 % und sind altersabhängig, was auch daran liegt, dass eine einheitliche Kontinenzdefinition fehlt."
+  }
+]

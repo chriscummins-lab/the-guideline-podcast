@@ -1,5 +1,16 @@
-import type { Episode } from "@/data/types";
+import type { Episode, QuizQuestion } from "@/data/types";
 import manifest from "@/data/manifests/hmi_episoden.json";
+import quizF01 from "@/data/quizzes/hmi/F01.json";
+import quizF02 from "@/data/quizzes/hmi/F02.json";
+import quizF03 from "@/data/quizzes/hmi/F03.json";
+import quizF04 from "@/data/quizzes/hmi/F04.json";
+
+const quizByFolge: Record<number, QuizQuestion[]> = {
+  1: quizF01,
+  2: quizF02,
+  3: quizF03,
+  4: quizF04,
+};
 
 const BASE_URL =
   "https://pub-34bb84b0ee064a0cb1687fdd3d9c586e.r2.dev/02-benigne-funktionell/06-s2k-hilfsmittel-inkontinenz/";
@@ -11,5 +22,5 @@ export const hmiEpisodes: Episode[] = manifest.episoden.map((ep) => ({
   duration: ep.dauerMin ? `ca. ${ep.dauerMin} min` : undefined,
   audioUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}.mp3` : null,
   schaubildUrl: ep.erstellt ? `${BASE_URL}${ep.stem}/${ep.stem}_Schaubild.png` : null,
-  quiz: [],
+  quiz: quizByFolge[ep.folge] ?? [],
 }));

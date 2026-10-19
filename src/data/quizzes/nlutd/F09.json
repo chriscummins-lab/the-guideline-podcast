@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein 9-jähriger Junge mit MMC hat trotz Propiverin in Höchstdosis und Oxybutynin-Instillation einen Detrusordruck von 45cmH2O. Die Mutter hat von Tamsulosin gelesen. Was zeigt die Studie mit 172 Kindern (2-17 Jahre) zu Alpha-Blockern bei dieser Fragestellung?",
+    "options": [
+      "Keine signifikante Verbesserung der Verum-Gruppe gegenüber Placebo beim Endpoint leak-point pressure.",
+      "Eine deutliche Überlegenheit des Alpha-Blockers gegenüber Placebo.",
+      "Alpha-Blocker senken bei Kindern den Detrusordruck zuverlässig und sollten first-line eingesetzt werden.",
+      "Die Studie zeigte ausschließlich schwere kardiovaskuläre Nebenwirkungen."
+    ],
+    "correct": 0,
+    "tip": "Auf Grund des weit akzeptierten Einsatzes des IK hat die medikamentöse Senkung des Auslasswiderstandes bei Kindern ihre Bedeutung verloren.",
+    "explanation": "Die weltweite Studie mit 172 Kindern mit neurogener Dysfunktion des unteren Harntraktes zeigte keine signifikante Verbesserung der Verum-Gruppe gegenüber Placebo bezüglich des Endpoints leak-point pressure – Alpha-Blocker sind daher beim katheterisierenden Kind nicht sinnvoll zur Auslasssenkung."
+  },
+  {
+    "question": "Was fordert Empfehlung 8n zum Einsatz von Alpha-Adreno-Antagonisten bei Kindern mit regelmäßigem IK und antimuskarinerger Therapie?",
+    "options": [
+      "Darauf sollte verzichtet werden.",
+      "Sie sollen als First-Line-Therapie bei jedem Kind mit NDÜ eingesetzt werden.",
+      "Sie sind nur bei Mädchen kontraindiziert.",
+      "Sie ersetzen bei unzureichender Wirkung die antimuskarinerge Therapie vollständig."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erreichte einen Konsens von 78,9%.",
+    "explanation": "Empfehlung 8n besagt, dass bei regelmäßigem IK in Verbindung mit einer antimuskarinergen Therapie bei NDÜ auf die Behandlung mit einem α-Adreno-Antagonisten zur Senkung des Blasenauslasswiderstandes verzichtet werden sollte."
+  },
+  {
+    "question": "In der Phase-3-Dosisfindungsstudie zu Mirabegron bei 68 Kindern mit MMC (alle mit IK) zeigte sich welcher Kapazitätsgewinn in den beiden Altersgruppen?",
+    "options": [
+      "72ml bei Kindern 3 bis <12 Jahre und 113ml bei Jugendlichen 12 bis <18 Jahre.",
+      "Kein messbarer Kapazitätsgewinn in beiden Gruppen.",
+      "500ml Kapazitätsgewinn in beiden Gruppen.",
+      "Der Kapazitätsgewinn war bei jüngeren Kindern größer als bei Jugendlichen."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich nahm die Zahl der Inkontinenzepisoden um etwa eine Episode pro Tag in beiden Gruppen ab.",
+    "explanation": "In der Phase-3-Dosisfindungsstudie mit 68 Kindern mit MMC vergrößerte sich die maximale zystometrische Kapazität in der Gruppe 3 bis <12 Jahre signifikant um 72ml, in der Gruppe 12 bis <18 Jahre um 113ml."
+  },
+  {
+    "question": "In der retrospektiven Studie mit 66 Kindern mit Spina bifida unter Mirabegron verbesserte sich die Compliance von 8,7ml/cmH2O auf welche Werte unter Mono- bzw. Kombinationstherapie?",
+    "options": [
+      "20ml/cmH2O unter Mirabegron-Monotherapie und 32,4ml/cmH2O unter der Kombination mit dem zuvor ineffektiven Antimuskarinikum.",
+      "Die Compliance verschlechterte sich unter beiden Therapieregimen.",
+      "Es zeigte sich kein Unterschied zwischen Mono- und Kombinationstherapie.",
+      "Die Compliance stieg nur unter Monotherapie, nicht unter Kombinationstherapie."
+    ],
+    "correct": 0,
+    "tip": "Unter beiden Regimen ging zusätzlich die Zahl der VUR-Einheiten auf die Hälfte zurück (von 8 auf 4).",
+    "explanation": "Die Compliance verbesserte sich von 8,7ml/cmH2O unter dem zuvor ineffektiven Antimuskarinikum auf 20ml/cmH2O unter 50mg Mirabegron als Monotherapie und auf 32,4ml/cmH2O unter der Kombination aus dem Antimuskarinikum und Mirabegron 50mg."
+  },
+  {
+    "question": "Welche gewichtsadaptierte Dosierung von Mirabegron schlägt Kroll für Kinder und Jugendliche vor?",
+    "options": [
+      "<20kg: 12,5-25mg; 20-40kg: 25-50mg; >40kg: 50mg, jeweils einmal täglich.",
+      "Eine einheitliche Fixdosis von 50mg unabhängig vom Körpergewicht.",
+      "Die Dosis richtet sich ausschließlich nach dem Alter, nicht nach dem Gewicht.",
+      "Mirabegron darf bei Kindern unter keinen Umständen eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "Offizielle Dosisempfehlungen für Kinder und Jugendliche liegen für Mirabegron nicht vor; der Einsatz erfolgt im Off-Label-Use.",
+    "explanation": "Kroll schlägt im Rahmen einer Studie folgende Dosis vor: Patienten <20kg 12,5-25mg, 20-40kg 25-50mg, >40kg 50mg, jeweils einmal täglich; bei Therapie ist besonders auf die Entwicklung einer arteriellen Hypertonie zu achten."
+  },
+  {
+    "question": "Welche Dosisempfehlung gab ein europäisches Expertenteam (2009) für die OBoNT-Injektion bei Kindern?",
+    "options": [
+      "Nicht unter 3 Jahren, Dosis 5-10 U/kg bis maximal 300U.",
+      "Ab dem 1. Lebensjahr, feste Dosis von 500U für alle Altersgruppen.",
+      "Erst ab dem 12. Lebensjahr, analog zur Erwachsenendosierung von 200AE.",
+      "Es gibt keine Altersuntergrenze für den Einsatz von OBoNT bei Kindern."
+    ],
+    "correct": 0,
+    "tip": "Eine allgemeingültige Dosis-Empfehlung kann wegen der unterschiedlichen Handhabung in Studien nicht gegeben werden.",
+    "explanation": "Ein europäisches Expertenteam riet 2009, bei Kindern nicht unter 3 Jahren OBoNT zu injizieren, und empfahl eine Dosis von 5-10 U/kg bis maximal 300U."
+  },
+  {
+    "question": "Austin et al. (2021) untersuchten in einer randomisierten, doppelblinden Studie 113 Kinder (5-17 Jahre) mit NDÜ unter 50, 100 oder 200U OBoNT (max. 6U/kg). Was war das Ergebnis bezüglich der Harninkontinenzepisoden?",
+    "options": [
+      "Bei der Reduktion der Harninkontinenzepisoden konnte keine Dosisabhängigkeit festgestellt werden, obwohl urodynamische Unterschiede zwischen 50U und 200U deutlich waren.",
+      "200U waren bei allen Endpunkten den anderen Dosierungen weit überlegen.",
+      "50U zeigten keinerlei Wirkung auf irgendeinen Parameter.",
+      "Die Studie fand keine Unterschiede zwischen OBoNT und Placebo."
+    ],
+    "correct": 0,
+    "tip": "Die Autoren schlussfolgerten trotzdem, dass OBoNT eine gut tolerierte und effektive Behandlung für Kinder mit unzureichend behandelter NDÜ sei.",
+    "explanation": "In der Studie von Austin et al. waren die urodynamischen Unterschiede (Detrusordrucksenkung, Kapazitätssteigerung) zwischen 50U und 200U deutlich, jedoch konnte bezüglich der Reduktion der Harninkontinenzepisoden keine Dosisabhängigkeit festgestellt werden."
+  },
+  {
+    "question": "Eine Cochrane-Metaanalyse von 64 placebokontrollierten Studien (2016) kam zu welchem Schluss bezüglich Imipramin bei Kindern?",
+    "options": [
+      "Imipramin reduziert das Einnässen bei Kindern, Studien speziell zur NLUTD-Behandlung liegen aber nicht vor.",
+      "Imipramin ist bei Kindern mit NLUTD durch zahlreiche RCTs gut belegt.",
+      "Imipramin zeigte in dieser Metaanalyse keinerlei Wirkung auf das Einnässen.",
+      "Die Metaanalyse untersuchte ausschließlich Erwachsene."
+    ],
+    "correct": 0,
+    "tip": "Eine für Kinder geeignete Therapie zur Verbesserung der Sphinkterfunktion existiert laut Leitlinie derzeit nicht.",
+    "explanation": "Die Cochrane-Metaanalyse von 64 placebokontrollierten Studien kam 2016 zu dem Schluss, dass Imipramin das Einnässen bei Kindern reduziert; Studien zur Behandlung der NLUTD bei Kindern mit Imipramin liegen aber nicht vor."
+  },
+  {
+    "question": "Welche urodynamische Kontrolle fordert Empfehlung 8f nach Beginn einer antimuskarinergen Therapie bei Kindern?",
+    "options": [
+      "Spätestens 3 Monate nach Therapiebeginn, im weiteren Verlauf jährlich bzw. risikoadaptiert bei klinischen Ereignissen wie rezidivierenden HWI.",
+      "Erst nach 2 Jahren, unabhängig vom klinischen Verlauf.",
+      "Eine urodynamische Kontrolle ist bei Kindern grundsätzlich nicht erforderlich.",
+      "Nur einmalig vor Therapiebeginn, danach nie wieder."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erzielte einen Konsens von 89,5%.",
+    "explanation": "Empfehlung 8f fordert eine urodynamische Kontrolle spätestens 3 Monate nach Beginn der antimuskarinergen Behandlung, im weiteren Verlauf in jährlichen Abständen bzw. risikoadaptiert bei Änderung neurologischer Befunde oder klinischen Ereignissen wie rezidivierenden HWI."
+  },
+  {
+    "question": "Was besagt Empfehlung 8m zum Vorgehen bei Versagen der antimuskarinergen Therapiemöglichkeiten bei Kindern?",
+    "options": [
+      "Zum Schutz der Nierenfunktion sollte die Indikation zur endoskopischen Injektionstherapie mit OBoNT erwogen werden (Off-Label-Use).",
+      "Es soll unmittelbar eine Blasenaugmentation durchgeführt werden, ohne weitere konservative Optionen zu erwägen.",
+      "Die Therapie soll beendet werden, da keine weiteren Optionen bestehen.",
+      "Ein Alpha-Blocker soll als nächster Schritt eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erreichte einen Konsens von 89,5% und unterstreicht den Stellenwert von BoNT-A als wertvolle Erweiterung vor der Blasenaugmentation.",
+    "explanation": "Empfehlung 8m besagt, dass bei Versagen der antimuskarinergen Therapiemöglichkeiten zum Schutz der Nierenfunktion die Indikation zur endoskopischen Injektionstherapie mit OBoNT (Off-Label-Use) erwogen werden sollte."
+  }
+]

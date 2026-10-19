@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche der folgenden Produktarten gehört laut Kapitel 3 zur Produktgruppe 15 'Inkontinenzhilfen' im Hilfsmittelverzeichnis?",
+    "options": [
+      "Externe Urinableiter, z. B. latexhaltige und latexfreie Urinal-Kondome/Rolltrichter.",
+      "Blasenkatheter zur Dauerableitung.",
+      "Urethra-Pessare.",
+      "Implantierbare künstliche Schließmuskel."
+    ],
+    "correct": 0,
+    "tip": "Katheter und Urethra-Pessare sind als invasive Hilfsmittel explizit vom Geltungsbereich der Leitlinie ausgenommen.",
+    "explanation": "Produktgruppe 15 umfasst u. a. externe Urinableiter, zu denen latexhaltige und latexfreie Urinal-Kondome/Rolltrichter gehören; invasive Hilfsmittel wie Katheter und Urethra-Pessare fallen nicht in den Geltungsbereich der Leitlinie."
+  },
+  {
+    "question": "Welcher ICD-10-Code wird in der Leitlinie beispielhaft für die Dranginkontinenz genannt?",
+    "options": [
+      "N39.42.",
+      "N39.3.",
+      "N39.41.",
+      "N39.47."
+    ],
+    "correct": 0,
+    "tip": "N39.3 steht für die Belastungsinkontinenz, N39.41 für die Überlaufinkontinenz, N39.47 für die Rezidivinkontinenz.",
+    "explanation": "Laut Kapitel 3 wird N39.42 als ICD-10-Code für die Dranginkontinenz genannt (N39.3 Belastungsinkontinenz, N39.41 Überlaufinkontinenz, N39.47 Rezidivinkontinenz)."
+  },
+  {
+    "question": "Ab welchem Alter und in welcher Höhe müssen gesetzlich Versicherte laut Kapitel 7.1 für verbrauchsbedingte Inkontinenzartikel zuzahlen?",
+    "options": [
+      "Ab dem 18. Lebensjahr 10 % des Preises, höchstens jedoch 10 Euro für den Monatsbedarf.",
+      "Ab dem 18. Lebensjahr pauschal 50 Euro pro Monat.",
+      "Ab dem 65. Lebensjahr 20 % des Preises.",
+      "Es besteht grundsätzlich keine Zuzahlungspflicht für Inkontinenzartikel."
+    ],
+    "correct": 0,
+    "tip": "Die Zuzahlung darf zudem nicht höher sein als die tatsächlichen Kosten des Hilfsmittels.",
+    "explanation": "Kapitel 7.1 nennt eine Zuzahlung von 10 % bis höchstens 10 Euro für den Monatsbedarf für gesetzlich Versicherte ab dem 18. Lebensjahr, jedoch nicht mehr als die Kosten des Hilfsmittels."
+  },
+  {
+    "question": "Wie hoch ist die jährliche Belastungsgrenze für Zuzahlungen bezogen auf das Bruttoeinkommen, und wie verändert sie sich bei schwerwiegend chronisch Erkrankten?",
+    "options": [
+      "Maximal 2 % des jährlichen Bruttoeinkommens, bei schwerwiegend chronisch Erkrankten nur 1 %.",
+      "Maximal 5 %, unabhängig vom Gesundheitszustand.",
+      "Es existiert laut Leitlinie keine Belastungsgrenze.",
+      "Maximal 10 %, bei chronisch Erkrankten 2 %."
+    ],
+    "correct": 0,
+    "tip": "Auch Privatversicherte haben grundsätzlich Anspruch auf Kostenübernahme von im Hilfsmittelkatalog gelisteten Hilfsmitteln.",
+    "explanation": "Laut Kapitel 7.1 betragen die Zuzahlungen im Kalenderjahr maximal 2 % des jährlichen Bruttoeinkommens, bei schwerwiegend chronisch Erkrankten nur 1 %."
+  },
+  {
+    "question": "Was wurde durch das Terminservice- und Versorgungsgesetz (TSVG) vom 6. Mai 2019 im Bereich der Hilfsmittelversorgung geändert?",
+    "options": [
+      "Öffentliche Ausschreibungen als Mittel zur Vertragsanbahnung in der Hilfsmittelversorgung wurden durch Änderung des § 127 SGB V abgeschafft.",
+      "Zuzahlungen wurden für alle Versicherten vollständig abgeschafft.",
+      "Festbeträge wurden erstmals für aufsaugende Inkontinenzhilfen eingeführt.",
+      "Die Vertragspflicht zwischen Krankenkassen und Leistungserbringern wurde aufgehoben."
+    ],
+    "correct": 0,
+    "tip": "Zuvor hatten öffentliche Ausschreibungen zu heftigen Preiskämpfen geführt.",
+    "explanation": "Mit der Änderung des § 127 SGB V durch das TSVG vom 6. Mai 2019 wurden öffentliche Ausschreibungen als Mittel zur Vertragsanbahnung in der Hilfsmittelversorgung abgeschafft."
+  },
+  {
+    "question": "Ihr Patient fragt, warum seine Krankenkasse ihm nur eine vergleichsweise niedrige monatliche Versorgungspauschale für aufsaugende Inkontinenzhilfen zahlt. Welche Aussage zu den Versorgungspauschalen (Kapitel 7.2) ist korrekt?",
+    "options": [
+      "Versorgungspauschalen liegen häufig im Bereich von 10 bis 32 Euro und sind zuletzt gesunken – die AOK Nordwest senkte ihre Vergütung ab Februar 2022 um 30 %.",
+      "Versorgungspauschalen sind bundesweit gesetzlich auf exakt 50 Euro festgelegt.",
+      "Versorgungspauschalen sind seit 2018 kontinuierlich gestiegen.",
+      "Versorgungspauschalen enthalten niemals Zubehör oder Serviceleistungen."
+    ],
+    "correct": 0,
+    "tip": "Niedrige Pauschalen erschweren es, Leistungserbringer für eine vollständige Monatsversorgung zu finden.",
+    "explanation": "Kapitel 7.2 beschreibt, dass die Versorgungspauschalen häufig zwischen 10 und 32 Euro liegen und zuletzt gesunken sind; die AOK Nordwest senkte ihre Vergütung z. B. ab Februar 2022 um 30 %."
+  },
+  {
+    "question": "Um wie viel Prozent sollen Versorgungspauschalen laut Empfehlung XXXXIV höchstens unter dem Durchschnitt liegen?",
+    "options": [
+      "Nicht mehr als 20 %.",
+      "Nicht mehr als 50 %.",
+      "Nicht mehr als 5 %.",
+      "Eine Obergrenze wird in der Leitlinie nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Die Versorgungspauschale umfasst neben dem eigentlichen Hilfsmittel auch medizinisch notwendige Zubehörteile und Serviceleistungen.",
+    "explanation": "Empfehlung XXXXIV fordert, dass die Versorgungspauschalen den Durchschnitt nicht um mehr als 20 % unterschreiten sollten."
+  },
+  {
+    "question": "Für welche Hilfsmittelgruppe bestehen aktuell Festbeträge, und wann wurden die Festbeträge für aufsaugende Inkontinenzhilfen aufgehoben?",
+    "options": [
+      "Aktuell bestehen Festbeträge für ableitende Inkontinenzhilfen; für aufsaugende Inkontinenzhilfen wurden sie mit Wirkung ab dem 1. Januar 2018 aufgehoben.",
+      "Festbeträge bestehen aktuell nur für aufsaugende Inkontinenzhilfen.",
+      "Festbeträge wurden für alle Produkte der Produktgruppe 15 bereits 2004 vollständig abgeschafft.",
+      "Festbeträge gibt es laut Leitlinie für Inkontinenzhilfen grundsätzlich nicht."
+    ],
+    "correct": 0,
+    "tip": "Der Festbetrag ist nach § 36 SGB V rechtlich ein Höchstbetrag.",
+    "explanation": "Kapitel 7.3 beschreibt, dass aktuell Festbeträge für ableitende Inkontinenzhilfen bestehen, während die Festbetragsfestsetzung für aufsaugende Inkontinenzhilfen mit Wirkung ab dem 1. Januar 2018 aufgehoben wurde."
+  },
+  {
+    "question": "Was soll laut Empfehlung XXXXVII dem Patienten transparent dargestellt werden, wenn er sich für ein über die Standardversorgung hinausgehendes Hilfsmittel entscheidet?",
+    "options": [
+      "Die monatlichen Mehrkosten unter Berechnung des voraussichtlichen Bedarfs, inklusive Information über kostengünstigere Alternativen, mit entsprechender Dokumentation.",
+      "Es sind laut Leitlinie keine Angaben zu Mehrkosten erforderlich, solange der Patient privat zuzahlt.",
+      "Nur die Gesamtkosten für ein Jahr, ohne Nennung von Alternativen.",
+      "Ausschließlich eine mündliche, nicht dokumentierte Information."
+    ],
+    "correct": 0,
+    "tip": "Vorausgehend soll laut Empfehlung XXXXVI über das System der Kostenerstattung grundsätzlich aufgeklärt werden.",
+    "explanation": "Empfehlung XXXXVII fordert, dass die monatlichen Mehrkosten einer über die Standardversorgung hinausgehenden Wahl transparent dargestellt, kostengünstigere Alternativen genannt und alles dokumentiert werden sollen."
+  },
+  {
+    "question": "Was soll laut Kapitel 7.4 erfolgen, wenn eine ausreichende Versorgung der Harninkontinenz aus medizinischen Gründen mit Standardmaterialien oder -mengen nicht möglich ist?",
+    "options": [
+      "Es soll per Antrag bei der Krankenkasse eine Einzelfallentscheidung zur Erweiterung oder Veränderung der Versorgung herbeigeführt werden.",
+      "Der Patient muss die gesamten Mehrkosten ohne jede Antragsmöglichkeit selbst tragen.",
+      "Die Versorgung wird automatisch ohne Antrag erweitert.",
+      "In diesem Fall ist generell ein Wechsel zu einem privaten Krankenversicherer vorgeschrieben."
+    ],
+    "correct": 0,
+    "tip": "Dies betrifft Fälle, in denen die Standardversorgung medizinisch nicht ausreicht.",
+    "explanation": "Diese Empfehlung aus Kapitel 7.4 fordert, dass bei medizinisch unzureichender Standardversorgung ein Einzelfallantrag bei der Krankenkasse gestellt werden soll, um eine Erweiterung oder Veränderung der Versorgung zu erreichen."
+  }
+]

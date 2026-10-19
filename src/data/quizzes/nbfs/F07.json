@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wann benötigt eine Niederdruckblase laut Leitlinie KEINE spezifische Therapie?",
+    "options": [
+      "Solange der intravesikale Druck niedrig, die Kapazität altersentsprechend, die Compliance gewährleistet ist und keine relevante Belastungsinkontinenz vorliegt.",
+      "Niemals – jede Niederdruckblase muss medikamentös behandelt werden.",
+      "Nur solange der Patient keinen IK durchführt.",
+      "Nur bei Kindern unter einem Jahr."
+    ],
+    "correct": 0,
+    "tip": "Die Entleerung erfolgt in diesem Fall einfach mittels intermittierendem Katheterismus.",
+    "explanation": "Solange der intravesikale Druck niedrig, die Kapazität altersentsprechend und die Compliance gewährleistet ist, bedarf die Niederdruckblase bei Fehlen einer relevanten Belastungsinkontinenz keiner spezifischen Therapie."
+  },
+  {
+    "question": "Eine 16-jährige Patientin möchte vor Ausbildungsbeginn „endlich trocken“ werden. Welche Voraussetzung muss laut Leitlinie vor jeder operativen Erhöhung des Auslasswiderstandes bei Sphinkterinkompetenz erfüllt sein?",
+    "options": [
+      "Eine Niederdrucksituation der Blase mit ausreichender Kapazität, ggf. medikamentös oder mittels Augmentation hergestellt.",
+      "Ein bereits bestehender hochgradiger vesikorenaler Reflux.",
+      "Der vollständige Verzicht auf jede Form der Blasenentleerung.",
+      "Eine bereits bestehende chronische Niereninsuffizienz."
+    ],
+    "correct": 0,
+    "tip": "Nach Erhöhung des Auslasswiderstandes besteht sonst die Gefahr einer sekundären Hochdruckblase.",
+    "explanation": "Voraussetzung für die erfolgreiche Therapie einer Harninkontinenz bei Sphinkterinkompetenz ist eine Niederdrucksituation der Blase mit ausreichender Blasenkapazität, die ggf. medikamentös oder mittels Blasenaugmentation hergestellt werden muss."
+  },
+  {
+    "question": "Warum sind nach operativer Erhöhung des Auslasswiderstandes engmaschige Kontrollen notwendig?",
+    "options": [
+      "Weil es durch die Erhöhung des infravesikalen Widerstandes zu einer sekundären Hochdruckblase kommen kann.",
+      "Weil die Operation grundsätzlich die Nierenfunktion verbessert und daher regelmäßig dokumentiert werden muss.",
+      "Nur aus forensischen Gründen, ein medizinischer Grund besteht nicht.",
+      "Weil sich die Kontinenzrate danach immer spontan verschlechtert."
+    ],
+    "correct": 0,
+    "tip": "Crédé-Handgriff und Valsalva-Manöver bleiben auch nach der Operation streng kontraindiziert.",
+    "explanation": "Die operative Erhöhung des Blasenauslasswiderstandes erfordert anschließend engmaschige Kontrollen, da es zu einer sekundären Hochdruckblase bei Erhöhung des infravesikalen Widerstandes kommen kann."
+  },
+  {
+    "question": "Welche kurzfristige Erfolgsrate haben „bulking agents“ (z. B. Dextranomer/Hyaluronsäure) bei Sphinkterinkompetenz, und welche Empfehlung gibt die Leitlinie für Kinder und Jugendliche?",
+    "options": [
+      "Kurzfristig 10–40 % Erfolg, mittelfristig nicht bewährt – für Kinder und Jugendliche nicht empfohlen.",
+      "Kurzfristig und langfristig über 90 % Erfolg – Mittel der ersten Wahl bei Kindern.",
+      "Bulking agents sind bei Kindern offiziell zugelassen und first-line empfohlen.",
+      "Bulking agents zeigen keinerlei Effekt und sind kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Immerhin haben die meisten bulking agents keinen negativen Einfluss auf spätere Operationen.",
+    "explanation": "Bulking agents haben eine kurzfristige Erfolgsrate zwischen 10 und 40 % und haben sich mittelfristig nicht bewährt; sie gelten weiterhin als experimenteller Ansatz und können für Kinder und Jugendliche derzeit nicht empfohlen werden."
+  },
+  {
+    "question": "Welche Kontinenzrate wird mit einem artifiziellen Sphinkter (z. B. AMS 800®) bei ausgewählten Patienten erzielt, und wie hoch kann die Revisionsrate bei Kindern in Langzeitserien sein?",
+    "options": [
+      "Kontinenzraten von 80–90 %, Revisionsraten bei Kindern in einzelnen Serien nahezu 100 %.",
+      "Kontinenzraten von 80–90 %, aber praktisch keine Revisionen notwendig.",
+      "Kontinenzraten unter 20 %, daher kaum noch eingesetzt.",
+      "Ein artifizieller Sphinkter wird bei Kindern generell nicht implantiert."
+    ],
+    "correct": 0,
+    "tip": "Die Indikation wird daher bei Kindern aufgrund des noch nicht abgeschlossenen Wachstums sehr zurückhaltend gestellt.",
+    "explanation": "Mittels eines artifiziellen Sphinkters können bei ausgewählten Patienten Kontinenzraten von 80–90 % erzielt werden, wobei die Revisionsraten bei Kindern und Jugendlichen in einzelnen Langzeitserien nahezu 100 % erreichen."
+  },
+  {
+    "question": "Ein artifizieller Sphinkter wurde implantiert, aber auf engmaschige postoperative Druckkontrollen wird verzichtet. Welches Risiko beschreibt die Leitlinie als Fallstrick?",
+    "options": [
+      "Eine zuvor areflexive Blase kann nach Anlage des Sphinkters zu einer überaktiven Blase werden mit Veränderungen des oberen Harntraktes.",
+      "Der artifizielle Sphinkter kann sich spontan ohne jede Folge selbst deaktivieren.",
+      "Es besteht kein Risiko, sofern die Operation technisch erfolgreich war.",
+      "Das Risiko betrifft ausschließlich den unteren, nie den oberen Harntrakt."
+    ],
+    "correct": 0,
+    "tip": "Gerade deshalb sind nach Anlage eines artifiziellen Sphinkters regelmäßige urodynamische Kontrollen essentiell.",
+    "explanation": "Nach Anlage eines artifiziellen Sphinkters kann es zu gravierenden Veränderungen des Typs der Blasenfunktionsstörung mit deutlich veränderten Druckverhältnissen kommen – eine zuvor areflexive Blase kann zur überaktiven Blase werden und zu Veränderungen des oberen Harntraktes führen."
+  },
+  {
+    "question": "Welche Kontinenz- und Reoperationsraten wurden für die Blasenhalsplastik nach Pippi Salle beschrieben?",
+    "options": [
+      "Kontinenz ca. 70 % bei Komplikationsraten von 20–30 %, Re-Operationsrate 67–79 % nach mittlerem Follow-up von 7–10 Jahren.",
+      "Kontinenz nahezu 100 % ohne jede Komplikation.",
+      "Kontinenz unter 10 %, Verfahren wurde daher nie klinisch eingesetzt.",
+      "Kontinenz ca. 70 %, aber keine Patienten benötigten je ein kontinentes Stoma."
+    ],
+    "correct": 0,
+    "tip": "Nach mehrjährigem Follow-up führen nur noch 10–33 % der Patienten den ISK transurethral durch.",
+    "explanation": "Die Technik nach Pippi Salle erzielte bei Komplikationsraten von 20–30 % Kontinenzraten von ca. 70 %; nach einem mittleren Follow-up von 7–10 Jahren wurde bei den meisten Patienten ein kontinentes kutanes Stoma notwendig, die Re-Operationsrate lag zwischen 67 und 79 %."
+  },
+  {
+    "question": "Welche Komplikationsrate und welchen Fistelanteil nennt die Leitlinie für den Blasenhalsverschluss als Ultima Ratio?",
+    "options": [
+      "Bis zu 1/3 der Patienten entwickeln Komplikationen, vesiko-urethrale/vesiko-vaginale Fisteln treten in bis zu 15 % auf.",
+      "Komplikationen kommen praktisch nicht vor.",
+      "Fisteln treten bei über 90 % der Patienten auf.",
+      "Der Blasenhalsverschluss gilt als risikofreies Erstlinienverfahren."
+    ],
+    "correct": 0,
+    "tip": "Besonders bei fehlender ISK- und Irrigations-Compliance steigt das Risiko für Blasensteine und Perforation.",
+    "explanation": "Bis zu 1/3 der Patienten entwickeln nach Blasenhalsverschluss Komplikationen, vesiko-urethrale bzw. vesiko-vaginale Fisteln treten in bis zu 15 % auf."
+  },
+  {
+    "question": "Ein 2-jähriger Junge hat einen sekundären vesikorenalen Reflux Grad IV. Bei welchem Anteil der Neugeborenen mit spinaler Dysraphie liegt überhaupt ein VUR vor, und wie wahrscheinlich ist eine Maturation bei konsequenter Drucksenkung?",
+    "options": [
+      "Bis zu 30 % der Neugeborenen haben einen VUR; bei Senkung des intravesikalen Drucks deutlich unter 40 cm H2O ist in mehr als 50 % eine Maturation zu erwarten.",
+      "Nahezu 100 % der Neugeborenen haben einen VUR, eine Maturation ist nie zu erwarten.",
+      "Weniger als 1 % der Neugeborenen haben einen VUR.",
+      "Ein VUR tritt bei spinaler Dysraphie ausschließlich primär auf."
+    ],
+    "correct": 0,
+    "tip": "Es handelt sich in der Regel um einen sekundären Reflux, der nach Drucksenkung und IK-Beginn sistieren kann.",
+    "explanation": "Bis zu 30 % der Neugeborenen mit spinaler Dysraphie haben einen vesikoureterorenalen Reflux; durch Senkung der intravesikalen Drücke auf Werte deutlich unter 40 cm H2O ist bei altersentsprechender Kapazität in mehr als 50 % eine Maturation des VUR zu erwarten."
+  },
+  {
+    "question": "Wie erfolgreich ist die endoskopische Unterspritzung des Ostiums (Refluxkorrektur) bei neurogener Blase im Vergleich zum primären VUR?",
+    "options": [
+      "Deutlich schlechter: in einer Serie zeigte sich ein Refluxrezidiv in 75 % nach durchschnittlich 4,5 Jahren, mit erhöhtem Obstruktionsrisiko.",
+      "Deutlich besser, mit nahezu 100 % Erfolgsrate.",
+      "Exakt gleichwertig zum primären VUR.",
+      "Die endoskopische Korrektur ist bei neurogenem VUR die bevorzugte Methode gegenüber offenen Verfahren."
+    ],
+    "correct": 0,
+    "tip": "Offene operative Verfahren zeigen im Vergleich deutlich höhere Erfolgsraten.",
+    "explanation": "Die Erfolgsrate der endoskopischen Refluxkorrektur ist bei Patienten mit neurogener Blase deutlich schlechter als beim primären VUR; in einer Serie zeigte sich ein Refluxrezidiv in 75 % nach einem durchschnittlichen Follow-up von 4,5 Jahren, verbunden mit einem erhöhten Obstruktionsrisiko."
+  }
+]

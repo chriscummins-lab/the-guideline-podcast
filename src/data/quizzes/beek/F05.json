@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher früher angenommene Vorteil des Beckenverschlusses ließ sich laut Leitlinie im MRT NICHT bestätigen?",
+    "options": [
+      "Ein Längengewinn der Corpora cavernosa durch den Symphysenverschluss.",
+      "Die Reduktion des lateralen Zugs auf die Bauchwand.",
+      "Die tiefere Lage der posterioren Urethra im Becken.",
+      "Die ventrale Vereinigung der Puborektalisschlinge."
+    ],
+    "correct": 0,
+    "tip": "Die anderen genannten Effekte gelten weiterhin als plausible Argumente für den Beckenverschluss.",
+    "explanation": "Früher wurden auch kosmetisch-funktionelle Gründe wie ein Längengewinn bei der Rekonstruktion der Corpora cavernosa durch den Symphysenverschluss angeführt – anatomische Schwellkörperuntersuchungen mittels MRT konnten diese These jedoch nicht bestätigen."
+  },
+  {
+    "question": "Was besagt die Leitlinie zur Rediastase der Symphyse im Verlauf, unabhängig von der initialen Beckenverschlusstechnik?",
+    "options": [
+      "Eine Rediastase tritt im Verlauf in jedem Fall auf, unabhängig von Osteotomie oder Zuggurtung.",
+      "Eine Rediastase tritt nur nach Osteotomie, niemals nach Zuggurtung auf.",
+      "Eine Rediastase ist durch eine korrekt durchgeführte Zuggurtung sicher vermeidbar.",
+      "Eine Rediastase wurde in der Literatur noch nie beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Die genaue Ätiologie der im Verlauf auftretenden Rediastase ist nach wie vor unklar.",
+    "explanation": "Die Rediastase der Symphyse tritt im Verlauf in jedem Fall auf, unabhängig davon, ob der Beckenverschluss mit Osteotomie oder mit der Zuggurtungstechnik durchgeführt wurde."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 8.17 (Empfehlungsgrad B) bezüglich der posterioren Osteotomie jenseits des 28. Lebenstags?",
+    "options": [
+      "Sie sollte nicht zum Einsatz kommen, da die Erfolgsrate mit 72,4 % signifikant schlechter ist als bei kombinierter (100 %) oder anteriorer Osteotomie (93,8 %).",
+      "Sie ist jenseits des 28. Lebenstags das einzig empfohlene Verfahren.",
+      "Sie sollte nur bei Mädchen angewendet werden.",
+      "Es gibt keinen Unterschied zwischen den Osteotomietechniken, unabhängig vom Alter."
+    ],
+    "correct": 0,
+    "tip": "Bei Neugeborenen hingegen zeigte sich kein signifikanter Unterschied zwischen den Techniken.",
+    "explanation": "Empfehlung 8.17 (Empfehlungsgrad B) empfiehlt, bei Verschluss jenseits der Neugeborenenperiode (>28. Lebenstag) keine posteriore Osteotomie durchzuführen, da deren Erfolgsrate mit 72,4 % signifikant schlechter war als bei der kombinierten (100 %) oder der anterioren innominate Osteotomie (93,8 %)."
+  },
+  {
+    "question": "Bis zu welcher maximalen Symphysenweite ist die Zuggurtungstechnik nach Schrott laut Hintergrundinformationen zu 8.19 in den ersten 10–12 Lebenswochen noch problemlos durchführbar?",
+    "options": [
+      "Bis zu 6–7 cm.",
+      "Bis zu 1 cm.",
+      "Bis zu 15 cm.",
+      "Die Zuggurtung ist nach den ersten Lebenstagen generell nicht mehr anwendbar."
+    ],
+    "correct": 0,
+    "tip": "In den ersten Lebenstagen liegt die Grenze bei einer maximalen Symphysenweite von 4 cm.",
+    "explanation": "Die Zuggurtungstechnik nach Schrott ist nicht nur in den ersten Lebenstagen bei maximal 4 cm Symphysenweite, sondern auch in den ersten 10–12 Lebenswochen bis zu einer maximalen Symphysenweite von 6–7 cm problemlos durchführbar."
+  },
+  {
+    "question": "Ein 10 Wochen alter Junge mit 6,5 cm Diastase soll mittels Zuggurtung nach Schrott verschlossen werden. Mit wie vielen PDS-Kordeln welcher Stärke wird die Adaptation typischerweise erreicht, und welches Ziel wird angestrebt?",
+    "options": [
+      "2–3 Kordeln von 1 mm Stärke, Ziel ist eine interpubische Distanz unter 1 cm.",
+      "10 Kordeln von 5 mm Stärke, Ziel ist eine interpubische Distanz von 5 cm.",
+      "Es wird kein Nahtmaterial verwendet, die Adaptation erfolgt rein manuell.",
+      "1 Kordel von 3 mm Stärke, Ziel ist der vollständige Erhalt der Ausgangsdiastase."
+    ],
+    "correct": 0,
+    "tip": "In über 180 Rekonstruktionen seit 1983 im Erlanger/Regensburger Krankengut traten nur ein Schambeinausriss und eine Infektion auf.",
+    "explanation": "Über 2–3 Zugnähte mit einer Polydioxanon(PDS)-Kordel von 1 mm Stärke, die tangential durch die horizontalen Schambeinäste gestochen werden, wird das Becken zugezogen, idealerweise bis auf eine interpubische Distanz unter 1 cm."
+  },
+  {
+    "question": "Welche Gefahr besteht laut Hintergrundinformationen zu 8.20 bei der Mummy-wrap-Immobilisation, wenn an den Beinen oder Füßen des Kindes ein venöser Zugang gelegt wird?",
+    "options": [
+      "Ein Kompartmentsyndrom, weshalb Infusionen an Beinen und Füßen verboten sind.",
+      "Eine Latexallergie durch den venösen Zugang.",
+      "Eine unmittelbare Symphysendehiszenz.",
+      "Es besteht keine besondere Gefahr."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich sollen die Beine, insbesondere die Knieinnenseiten, täglich auf Druckstellen untersucht werden.",
+    "explanation": "Aufgrund des Risikos von Kompartmentsyndromen verbieten sich Infusionen an Beinen und Füßen während der Mummy-wrap-Immobilisation; zudem sollen die redressierenden Verbände täglich gewechselt und die Knieinnenseiten auf Druckstellen inspiziert werden."
+  },
+  {
+    "question": "Welche Immobilisationstechnik erzielte in der Serie von Zaman et al. beim Primärverschluss die höchste Erfolgsrate?",
+    "options": [
+      "Die modifizierte Buck'sche Traktion mit 95 % Erfolg.",
+      "Der Spica cast Verband mit 95 % Erfolg.",
+      "Der Mummy wrap mit 95 % Erfolg bei allen Patient*innen.",
+      "Keine der Immobilisationstechniken zeigte Unterschiede in der Erfolgsrate."
+    ],
+    "correct": 0,
+    "tip": "Die Bryant's Traktion erreichte 79,3 %, der Spica cast Verband dagegen nur 49,6 %.",
+    "explanation": "In der Serie von Zaman et al. erzielte die modifizierte Buck'sche Traktion mit 95 % die höchste Erfolgsrate, gefolgt von der Bryant's Traktion (79,3 %); am wenigsten erfolgreich war der Spica cast Verband (49,6 %)."
+  },
+  {
+    "question": "Wie hoch war laut Haffar et al. der Anteil nicht erfolgreicher Blasenverschlüsse bei Patient*innen OHNE jegliche Immobilisation?",
+    "options": [
+      "74,6 % waren nicht erfolgreich.",
+      "7,1 % waren nicht erfolgreich.",
+      "Alle Verschlüsse ohne Immobilisation waren erfolgreich.",
+      "33 % waren nicht erfolgreich."
+    ],
+    "correct": 0,
+    "tip": "Mit externem Fixateur ohne zusätzliche Immobilisation lag die Misserfolgsrate bei 33 %, mit zusätzlicher Immobilisation nur bei 7,1 %.",
+    "explanation": "In der Gruppe von 67 Patient*innen ohne jegliche Immobilisation waren laut Haffar et al. 74,6 % der Blasenverschlüsse nicht erfolgreich."
+  },
+  {
+    "question": "Welche Häufigkeit urethrokutaner Fisteln und Blasendehiszenzen wird für die RSTM ohne Symphysenapproximation im Kleinkindalter berichtet?",
+    "options": [
+      "30 % urethrokutane Fisteln und 21 % Blasendehiszenzen.",
+      "Keine Fisteln oder Dehiszenzen, da die RSTM ohne Symphysenapproximation komplikationsfrei ist.",
+      "Fisteln und Dehiszenzen treten nur nach Osteotomie, nie nach RSTM auf.",
+      "Fisteln in 90 %, Dehiszenzen in 85 % der Fälle."
+    ],
+    "correct": 0,
+    "tip": "Initial mit RSTM operierte adoleszente Mädchen mit offenem Becken zeigten inspektorisch jedoch keinen Uterusprolaps.",
+    "explanation": "Bei der RSTM ohne Symphysenapproximation im Kleinkindalter traten urethrokutane Fisteln in 30 % und Blasendehiszenzen in 21 % der Fälle auf."
+  },
+  {
+    "question": "Ein Neugeborenes mit kaudal dystopem Nabel zeigt ein gespaltenes Becken, aber keine Beteiligung des Harntraktes. Um welche Ekstrophievariante handelt es sich am ehesten, und was besagt Statement 8.36 zur Prognose der Varianten insgesamt?",
+    "options": [
+      "Pseudoekstrophie; Varianten haben tendenziell eine bessere Kontinenzprognose als der Gesamtkomplex.",
+      "Klassische Blasenekstrophie; die Prognose ist identisch zum Gesamtkomplex.",
+      "Kloakenekstrophie; die Prognose ist deutlich schlechter als beim Gesamtkomplex.",
+      "Obere vesikale Fissur; eine Aussage zur Prognose wird nicht gemacht."
+    ],
+    "correct": 0,
+    "tip": "Die Pseudoekstrophie ist eine rein muskuloskelettale Anomalie ohne Beteiligung des Harntraktes, phänotypisch fällt der kaudal dystope Nabel auf.",
+    "explanation": "Der beschriebene Befund entspricht einer Pseudoekstrophie. Statement 8.36 besagt, dass Varianten des BEEK mit individuellen operativen Konzepten versorgt werden und eine tendenziell bessere Prognose im Hinblick auf die Kontinenz als der Gesamtkomplex haben."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein 32-jähriger Paraplegiker sub T4 mit ISK ist unter 3x5mg Oxybutynin zwischen den Katheterisierungen weiterhin nass, maximaler Detrusordruck 60cmH2O. Was zeigt eine Dosisfindungsstudie zu Oxybutynin bis 30mg/d?",
+    "options": [
+      "Eine Tagesdosis bis 30mg wurde bei Erwachsenen gut toleriert, die mittlere zystometrische Kapazität stieg von 274 auf 380ml.",
+      "Eine Dosissteigerung über 10mg/Tag führte zu inakzeptablen UAW bei allen Patienten.",
+      "Eine Dosissteigerung hatte keinen Effekt auf die zystometrische Kapazität.",
+      "30mg Oxybutynin pro Tag ist in Deutschland die zugelassene Standarddosis."
+    ],
+    "correct": 0,
+    "tip": "Die Inkontinenzrate pro Woche fiel ebenfalls deutlich, von 13±6 auf 6±3 Episoden nach 12 Wochen.",
+    "explanation": "Eine Tagesdosis von bis zu 30mg Oxybutynin wurde bei Erwachsenen gut toleriert; die mittlere zystometrische Blasenkapazität stieg von 274 auf 380ml, und die Inkontinenzrate pro Woche fiel von 13±6 auf 6±3 Episoden."
+  },
+  {
+    "question": "Bei Verdopplung der Trospium-Dosis von 3x15mg auf 90mg (Horstmann et al.) zeigte sich welche urodynamische Veränderung?",
+    "options": [
+      "Das Reflexievolumen stieg von 177ml auf 314ml und der maximale Detrusordruck fiel von 66 auf 51cmH2O.",
+      "Das Reflexievolumen fiel von 314ml auf 177ml.",
+      "Der maximale Detrusordruck stieg von 51 auf 66cmH2O.",
+      "Es zeigte sich keine Veränderung der urodynamischen Parameter."
+    ],
+    "correct": 0,
+    "tip": "3 Patienten beendeten die Therapie wegen persistierender Inkontinenz bzw. einer Kombination von UAW wie Schwindel und Mundtrockenheit.",
+    "explanation": "Unter Verdopplung der Trospium-Dosis auf 90mg stieg das Reflexievolumen von 177ml auf 314ml, die maximale zystometrische Blasenkapazität von 271 auf 430ml, und der maximale Detrusordruck fiel von 66 auf 51cmH2O."
+  },
+  {
+    "question": "Was zeigte sich bei der gewichtsadaptierten Titration von Trospium bis auf 135mg bei Erwachsenen?",
+    "options": [
+      "Die Dosiserhöhung wurde ohne Zunahme der UAW toleriert, die Inkontinenzepisoden nahmen aber im Vergleich zur Standarddosierung nicht signifikant ab.",
+      "Die Inkontinenzepisoden nahmen hochsignifikant ab, bei deutlich mehr UAW.",
+      "Es kam zu lebensbedrohlichen UAW, sodass die Studie abgebrochen wurde.",
+      "135mg Trospium ist die in Deutschland zugelassene Höchstdosis."
+    ],
+    "correct": 0,
+    "tip": "Die Autoren schlussfolgerten deshalb, dass eine Anpassung der Trospium-Dosierung nach Körpergewicht bei Erwachsenen nicht erforderlich sei.",
+    "explanation": "Die Tagesdosis von Trospium wurde nach Körpergewicht bis auf 135mg titriert, was ohne Zunahme der UAW toleriert wurde – die Inkontinenzepisoden nahmen aber im Vergleich zur Standarddosierung nicht signifikant ab."
+  },
+  {
+    "question": "In der kleinen randomisierten Doppelblindstudie zur Kombinationstherapie fiel die Inkontinenzrate in Gruppe A (Oxybutynin 15mg + Trospium 80mg) von 5,3 auf welchen Wert pro Tag?",
+    "options": [
+      "0,8 pro Tag.",
+      "4,5 pro Tag.",
+      "2,0 pro Tag.",
+      "5,3 pro Tag (keine Veränderung)."
+    ],
+    "correct": 0,
+    "tip": "In Gruppe B (Oxybutynin + Solifenacin) fiel die Rate von 4,5 auf 1,0 pro Tag – ein vergleichbarer Effekt.",
+    "explanation": "In Gruppe A (Oxybutynin 15mg + Trospium 80mg) fiel die Inkontinenzrate von 5,3 auf 0,8 pro Tag; in Gruppe B (Oxybutynin + Solifenacin 10mg) von 4,5 auf 1,0 pro Tag, bei vergleichbaren UAW wie Mundtrockenheit und Obstipation."
+  },
+  {
+    "question": "Seit wann ist die Oxybutynin-Lösung zur intravesikalen Instillation in Deutschland und Österreich als Fertigarzneimittel zugelassen, und für welche Indikation?",
+    "options": [
+      "Seit März 2019, bei NDÜ infolge Rückenmarksverletzung oder Meningomyelozele, bei IK und oral nicht adäquat einstellbaren Patienten (Kinder ab 6 Jahren, Erwachsene).",
+      "Seit 2011, ausschließlich für Erwachsene über 65 Jahre.",
+      "Seit 2005, nur für Patienten mit Dauerkatheter.",
+      "Eine Zulassung als Fertigarzneimittel besteht in Deutschland bis heute nicht."
+    ],
+    "correct": 0,
+    "tip": "Vor der Zulassung wurden Rezepturen verschiedener Apotheken verwendet; die Methode selbst ist seit mehr als 30 Jahren beschrieben.",
+    "explanation": "Seit März 2019 ist die Oxybutynin-Lösung in Deutschland und Österreich als Arzneimittel zugelassen, für Kinder ab 6 Jahren und Erwachsene mit NDÜ infolge Rückenmarksverletzung oder Meningomyelozele, die den IK anwenden und oral nicht adäquat einzustellen sind."
+  },
+  {
+    "question": "Welchen Unterschied fanden Schröder et al. beim Vergleich von intravesikalem (3x10ml 0,1%) versus oralem (3x5mg) Oxybutynin bezüglich der maximalen Blasenkapazität?",
+    "options": [
+      "Ein Kapazitätsgewinn von 116,5ml intravesikal gegenüber 18,1ml oral.",
+      "Ein Kapazitätsgewinn von 18,1ml intravesikal gegenüber 116,5ml oral.",
+      "Kein Unterschied zwischen beiden Applikationsformen.",
+      "Eine Kapazitätsabnahme unter intravesikaler Applikation."
+    ],
+    "correct": 0,
+    "tip": "Die intravesikale Applikation umgeht den First-Pass-Effekt in der Leber, was die geringere Konzentration des aktiven Metaboliten NDEO erklärt.",
+    "explanation": "Schröder et al. fanden eine Steigerung der maximalen Blasenkapazität nach intravesikaler Applikation (3x10ml 0,1% Oxybutynin) um 116,5ml gegenüber nur 18,1ml bei oraler Gabe (3x5mg)."
+  },
+  {
+    "question": "In der Studie von Haferkamp mit intravesikalem Oxybutynin bei Dosen von 0,3 bis 0,9mg/kg: wie viele der 32 Patienten wurden bei 0,3mg/kg kontinent, und wie viele weitere nach Eskalation?",
+    "options": [
+      "21 von 32 Patienten bei 0,3mg/kg kontinent, weitere 7 von 11 nach Dosiseskalation bis 0,9mg/kg.",
+      "Alle 32 Patienten wurden bereits bei 0,3mg/kg kontinent.",
+      "Nur 2 von 32 Patienten wurden kontinent, unabhängig von der Dosis.",
+      "Es wurde keine Kontinenz erreicht, unabhängig von der Dosierung."
+    ],
+    "correct": 0,
+    "tip": "Im Zuge der Dosiseskalation traten als UAW Obstipation und Mundtrockenheit auf, die aber nicht zum Therapieabbruch führten.",
+    "explanation": "Bei einer intravesikalen Oxybutynin-Dosis von 0,3mg/kg wurden 21 von 32 Patienten kontinent; bei Dosiseskalation bis zu 0,9mg/kg konnte bei weiteren 7 von 11 Patienten eine ausreichende Unterdrückung mit Kontinenz erreicht werden."
+  },
+  {
+    "question": "In der Studie zur Kombination von oraler und intravesikaler Oxybutynin-Therapie (25 Patienten, alle mit IK) sank der mittlere maximale Speicherdruck von 54 auf welchen Wert?",
+    "options": [
+      "26,5 cmH2O.",
+      "54 cmH2O (keine Veränderung).",
+      "10 cmH2O.",
+      "80 cmH2O."
+    ],
+    "correct": 0,
+    "tip": "Bei 3 von 5 Patienten konnte durch diese Kombination zusätzlich die autonome Dysreflexie beherrscht werden.",
+    "explanation": "Bei der Kombination aus oraler (4x5mg) und intravesikaler (3x15mg) Oxybutynin-Gabe sank der mittlere maximale Speicherdruck von 54 auf 26,5cmH2O, und 15 von 19 inkontinenten Patienten wurden kontinent."
+  },
+  {
+    "question": "Was ist bei der ersten Instillation von Oxybutynin-Lösung bei einem Patienten mit Lähmungshöhe oberhalb T6 unbedingt zu beachten?",
+    "options": [
+      "Die Manipulation kann eine schwere autonome Dysreflexie auslösen; in diesem Fall muss die Harnblase prompt entleert werden.",
+      "Eine autonome Dysreflexie ist bei Instillationstherapie grundsätzlich ausgeschlossen.",
+      "Die Instillation ist bei Lähmungshöhe oberhalb T6 generell kontraindiziert und darf nie angewendet werden.",
+      "Es sind keine besonderen Vorkehrungen notwendig, da die Applikation lokal erfolgt."
+    ],
+    "correct": 0,
+    "tip": "Dies ist einer der in der Leitlinie explizit genannten Fallstricke der Instillationstherapie.",
+    "explanation": "Die Manipulationen im Zuge der Instillationstherapie können bei Lähmungshöhe oberhalb T6 zu einer schweren autonomen Dysreflexie führen; in diesem Fall muss die Harnblase prompt entleert und die Katheterirritation beendet werden."
+  },
+  {
+    "question": "Welche Aussage zu Empfehlung 1 (orale antimuskarinerge Therapie bei NDÜ) ist korrekt?",
+    "options": [
+      "Die individuell erforderliche Dosierung kann die empfohlenen Dosierungen überschreiten (Empfehlung 1e, Konsens 100%).",
+      "Eine urodynamische Klassifikation vor Therapiebeginn ist laut Empfehlung 1a ausdrücklich nicht erforderlich.",
+      "Kombinationen von Antimuskarinika sind laut Empfehlung 1h grundsätzlich verboten.",
+      "Nicht zugelassene Antimuskarinika dürfen laut Empfehlung 1g unter keinen Umständen eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "Empfehlung 1a fordert dagegen ausdrücklich eine (video-)urodynamische Klassifikation vor dem Einsatz von Antimuskarinika.",
+    "explanation": "Empfehlung 1e besagt mit 100% Konsens, dass die individuell erforderliche Dosierung die empfohlenen Dosierungen überschreiten kann – dies bildet die Grundlage für die in diesem Kapitel beschriebene Dosiseskalation."
+  }
+]

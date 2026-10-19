@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein 35-jähriger Tetraplegiker C6 lehnt den ISK ab und entleert reflektorisch mit DSD. Petit et al. zeigten nach Injektion von 150 IU Abobotulinumtoxin in den externen Sphinkter welche Veränderung des Restharns?",
+    "options": [
+      "Abfall von 302±126ml auf 138±123ml nach 30 Tagen.",
+      "Anstieg von 138ml auf 302ml.",
+      "Keine Veränderung des Restharns.",
+      "Vollständige restharnfreie Entleerung bei allen Patienten."
+    ],
+    "correct": 0,
+    "tip": "Der Therapieerfolg hielt bei den meisten Patienten nur wenige Monate an.",
+    "explanation": "Petit et al. berichteten über einen Abfall des Restharns von 302±126ml auf 138±123ml (p<0,001) 30 Tage nach der Injektion von 150 IU Abobotulinumtoxin in den externen Sphinkter."
+  },
+  {
+    "question": "Schurch et al. zeigten bei wiederholten BoNT-Injektionen in den externen Sphinkter bei DSD welchen Unterschied zwischen Einzelinjektion und drei Injektionen innerhalb von 3 Monaten?",
+    "options": [
+      "Eine Einzelinjektion wirkte nur 2-3 Monate, drei Injektionen verlängerten die Wirkung auf 9-13 Monate.",
+      "Die Wirkdauer war bei Einzelinjektion und Mehrfachinjektion identisch.",
+      "Drei Injektionen verkürzten die Wirkdauer gegenüber einer Einzelinjektion.",
+      "Es wurde keine Wirkung bei wiederholten Injektionen beobachtet."
+    ],
+    "correct": 0,
+    "tip": "Die transurethrale Injektion schien dabei effektiver zu sein als die perineale Injektion.",
+    "explanation": "Schurch et al. fanden, dass eine einzelne Injektion die vesikourethrale Funktion nur für 2-3 Monate verbesserte, während der Therapieeffekt nach drei Injektionen innerhalb von 3 Monaten 9-13 Monate anhielt."
+  },
+  {
+    "question": "Welchen Effekt hatte orales Baclofen in der zugelassenen Höchstdosis von 75mg auf die Detrusor-Sphinkter-Dyssynergie?",
+    "options": [
+      "Praktisch keinen Effekt; erst bei Dosierungen von 140-160mg konnte bei 20% der Patienten eine Minderung des intravesikalen Drucks erreicht werden.",
+      "Eine vollständige Beseitigung der DSD bei allen Patienten.",
+      "75mg führten zu einer signifikanten Besserung bei 90% der Patienten.",
+      "Baclofen ist für die DSD in Deutschland zugelassen und wirkt zuverlässig in Standarddosierung."
+    ],
+    "correct": 0,
+    "tip": "Hohe Dosen über 80mg können zu psychotischen Zuständen führen, ein abruptes Absetzen zu Anfällen und Tachykardie.",
+    "explanation": "Orales Baclofen in der empfohlenen Höchstdosis von 75mg ist bei DSD ohne Effekt; erst bei Dosierungen von 140-160mg pro Tag konnte bei 20% der Patienten eine Minderung des intravesikalen Drucks gemessen werden (Leyson et al.)."
+  },
+  {
+    "question": "Welche Aussage zum intrathekalen Baclofen bei DSD ist korrekt?",
+    "options": [
+      "Die Indikation zur Pumpenimplantation ist die schwere, anderweitig nicht therapierbare Spastizität; der Effekt auf den unteren Harntrakt ist ein Nebeneffekt.",
+      "Intrathekales Baclofen wird primär zur Behandlung der DSD implantiert, unabhängig von der Spastik.",
+      "Ein abruptes Beenden der intrathekalen Applikation ist völlig risikofrei.",
+      "Intrathekales Baclofen hat keinen nachweisbaren Effekt auf die Blasenkapazität."
+    ],
+    "correct": 0,
+    "tip": "Nanninga et al. zeigten bei 6 von 7 Patienten einen Anstieg der Blasenkapazität von 60-120ml auf 150-400ml nach Implantation.",
+    "explanation": "Die Indikation für die Implantation einer intrathekalen Baclofenpumpe ist die schwere, anderweitig nicht therapierbare Spastizität der quergestreiften Muskulatur; Auswirkungen auf die Funktion des unteren Harntraktes sind lediglich ein Nebeneffekt. Eine abrupte Unterbrechung kann zu einem gefährlichen Reboundeffekt führen."
+  },
+  {
+    "question": "Welcher Schritt steht im Therapiealgorithmus bei DSD laut Kap. 3.3.3.2.3 NICHT zielführend an erster Stelle?",
+    "options": [
+      "Eine orale Zufuhr von Baclofen in den empfohlenen Dosierungen, da sie nicht zielführend ist.",
+      "Die antimuskarinerge Therapie mit Durchführung des ISK/IK, wenn dieser anwendbar ist.",
+      "Die intrathekale Applikation von Baclofen bei hochgradiger Spastik, die den ISK/IK verhindert.",
+      "Die Sphinkterotomie mit Akzeptanz der Reflexharninkontinenz als letzte Alternative."
+    ],
+    "correct": 0,
+    "tip": "Orales Baclofen in den empfohlenen Dosierungen ist laut Leitlinie explizit als nicht zielführend bezeichnet.",
+    "explanation": "Im sechsstufigen Therapiealgorithmus steht die antimuskarinerge Therapie mit ISK/IK an erster Stelle, gefolgt von intrathekalem Baclofen bei verhindertem ISK; orales Baclofen in den empfohlenen Dosierungen wird dagegen ausdrücklich als nicht zielführend bezeichnet."
+  },
+  {
+    "question": "Eine 52-jährige Frau mit Cauda-Syndrom und ISK verliert beim Transfer vom Rollstuhl ins Auto Urin. Welchem Stamey-Grad entspricht dieser Urinverlust am ehesten?",
+    "options": [
+      "Grad 2 – Urinverlust bei geringer Belastung wie Übersetzen vom Rollstuhl ins Auto oder Verladen des Rollstuhls.",
+      "Grad 1 – Urinverlust nur bei Husten, Lachen oder Niesen.",
+      "Grad 3 – Urinverlust ohne Beziehung zur Belastung, auch im Liegen.",
+      "Dieser Vorgang ist in der Stamey-Klassifikation nicht erfasst."
+    ],
+    "correct": 0,
+    "tip": "Grad 2 umfasst explizit das Übersetzen vom Rollstuhl ins Bett oder Auto sowie das Verladen des Rollstuhls.",
+    "explanation": "Nach der Einteilung von Stamey entspricht der Urinverlust bei geringer Belastung wie dem Übersetzen vom Rollstuhl ins Auto dem Grad 2; die Leitlinie weist aber darauf hin, dass diese Einteilung für neurogene Patienten nicht validiert ist."
+  },
+  {
+    "question": "Welche UAW werden unter Duloxetin-Therapie laut Leitlinie 4-5-mal häufiger beobachtet als unter Placebo?",
+    "options": [
+      "Negative Gefühlszustände wie Angst, Akathisie, Unruhe, Suizidalität, Aggressionen und Halluzinationen.",
+      "Ausschließlich Mundtrockenheit.",
+      "Gewichtszunahme als einzige relevante UAW.",
+      "Es wurden keine im Vergleich zu Placebo erhöhten UAW berichtet."
+    ],
+    "correct": 0,
+    "tip": "Neben diesen psychischen UAW wurde zusätzlich vor einer Unterschätzung der Nebenwirkungen bei nichtneurogener Belastungsharninkontinenz gewarnt.",
+    "explanation": "Unter Duloxetin-Therapie wurden negative Gefühlszustände wie Angst, Akathisie, Aufregung oder Unruhe, Suizidalität, Aggressionen und Halluzinationen 4- bis 5-mal häufiger als in einer Placebogruppe beobachtet."
+  },
+  {
+    "question": "Für welche Indikation ist Duloxetin bei Frauen zugelassen, und welche Einschränkung besteht für die Anwendung bei NLUTD?",
+    "options": [
+      "Zugelassen zur Therapie der mittelschweren bis schweren Belastungsharninkontinenz der erwachsenen Frau (nicht in der Schweiz); für NLUTD liegen keine Studien vor, sodass keine Empfehlung abgegeben werden kann.",
+      "Duloxetin ist in Deutschland speziell für die neurogene Belastungsharninkontinenz zugelassen.",
+      "Duloxetin ist für Männer, aber nicht für Frauen zugelassen.",
+      "Die Zulassung gilt einheitlich in Deutschland, Österreich und der Schweiz."
+    ],
+    "correct": 0,
+    "tip": "Bei Männern erfolgt der urologische Einsatz grundsätzlich als Off-Label-Use.",
+    "explanation": "Duloxetin ist u. a. zur Therapie der mittelschweren bis schweren Belastungsharninkontinenz der erwachsenen Frau zugelassen (nicht in der Schweiz); für Patienten mit NLUTD fehlen Studien, sodass die Leitlinie keine Empfehlung zur Anwendung bei neurogener Belastungsharninkontinenz abgibt."
+  },
+  {
+    "question": "Welche Aussage zu Imipramin bei neurogener Belastungsharninkontinenz trifft zu?",
+    "options": [
+      "Es existieren keine randomisierten, placebokontrollierten Studien zu seiner Wirkung bei Sphinkterinsuffizienz; die Anwendung erfolgt ausschließlich im Off-Label-Use.",
+      "Imipramin ist für die neurogene Belastungsharninkontinenz offiziell zugelassen.",
+      "Es liegen mehrere große randomisierte Studien speziell zur NLUTD vor, die die Wirksamkeit eindeutig belegen.",
+      "Imipramin darf bei Kindern ohne besondere Vorsicht eingesetzt werden."
+    ],
+    "correct": 0,
+    "tip": "In Anbetracht der beschränkten Studienlage und ernst zu nehmender kardiovaskulärer Nebenwirkungen ist Vorsicht geboten, besonders bei Kindern.",
+    "explanation": "Es existieren keine randomisierten und placebokontrollierten Studien zur Wirkung von Imipramin bei Harninkontinenz aufgrund einer Sphinkterinsuffizienz, weder für die nichtneurogenen LUTD noch für die NLUTD; die Anwendung erfolgt ausschließlich im Off-Label-Use."
+  },
+  {
+    "question": "Was besagt Empfehlung 7b zur neurogenen Belastungsharninkontinenz?",
+    "options": [
+      "Bei Versagen der konservativen Therapie sollen chirurgische Therapien angeboten werden (Konsens 94,7%).",
+      "Eine chirurgische Therapie ist bei neurogener Belastungsharninkontinenz grundsätzlich kontraindiziert.",
+      "Medikamentöse Therapieversuche sind bei jeder Form der Belastungsharninkontinenz Mittel der ersten Wahl.",
+      "Empfehlung 7b bezieht sich ausschließlich auf Kinder."
+    ],
+    "correct": 0,
+    "tip": "Ein medikamentöser Therapieversuch ist laut Empfehlung 7a nur bei leichten Formen im Einzelfall vorgesehen.",
+    "explanation": "Empfehlung 7b fordert mit einem Konsens von 94,7%, dass bei Versagen der konservativen Therapie chirurgische Therapien (z. B. TVT oder artifizieller Sphinkter) angeboten werden sollen."
+  }
+]

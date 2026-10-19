@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei Antimuskarinika sind in Deutschland ausdrücklich für die Therapie der neurogenen Detrusorüberaktivität (NDÜ) des Erwachsenen zugelassen?",
+    "options": [
+      "Oxybutynin, Propiverin und Trospium.",
+      "Solifenacin, Tolterodin und Darifenacin.",
+      "Fesoterodin, Desfesoterodin und Oxybutynin.",
+      "Trospium, Solifenacin und Mirabegron."
+    ],
+    "correct": 0,
+    "tip": "Alle anderen antimuskarinergen Wirkstoffe sind nur für die OAB bzw. die idiopathische Detrusorüberaktivität zugelassen.",
+    "explanation": "Nur Oxybutynin, Propiverin und Trospium sind in Deutschland ausdrücklich für die NDÜ des Erwachsenen zugelassen; alle weiteren Antimuskarinika werden bei NDÜ im Off-Label-Use eingesetzt."
+  },
+  {
+    "question": "Bei welchem Antimuskarinikum sind laut Leitlinie zentralnervöse unerwünschte Arzneimittelwirkungen nicht zu erwarten?",
+    "options": [
+      "Trospium.",
+      "Oxybutynin.",
+      "Tolterodin.",
+      "Propiverin."
+    ],
+    "correct": 0,
+    "tip": "Es handelt sich um das einzige quartäre Amin unter den gängigen Antimuskarinika, das die Blut-Hirn-Schranke kaum überwindet.",
+    "explanation": "Jedes Antimuskarinikum kann laut Leitlinie zentralnervöse UAW hervorrufen, mit Ausnahme von Trospium. Das höchste Risiko für kognitive Nebenwirkungen trägt dagegen unretardiertes Oxybutynin."
+  },
+  {
+    "question": "Eine 45-jährige MS-Patientin unter Oxybutynin fühlt sich „wie im Nebel“. In einer zitierten EEG-Studie an 64 Erwachsenen (Placebo, Oxybutynin, Tolterodin, Trospium) zeigte sich welcher Unterschied?",
+    "options": [
+      "Oxybutynin zeigte deutliche EEG-Effekte in mehreren Frequenzbändern, Tolterodin nur eine geringe Dämpfung der Theta-Wellen.",
+      "Trospium zeigte die stärksten EEG-Veränderungen aller Substanzen.",
+      "Es zeigten sich bei keiner Substanz messbare EEG-Unterschiede zu Placebo.",
+      "Tolterodin zeigte stärkere EEG-Effekte als Oxybutynin."
+    ],
+    "correct": 0,
+    "tip": "Obwohl Tolterodin ebenfalls ein tertiäres Amin ist wie Oxybutynin, unterschied sich sein EEG-Effekt deutlich.",
+    "explanation": "In der EEG-Studie zeigte Oxybutynin deutliche Effekte auf delta-, alpha1-, alpha2-, beta1-, beta2- und theta-Aktivität, während Tolterodin trotz ebenfalls tertiärem Amin-Charakter nur eine geringe Dämpfung der Theta-Wellen bewirkte."
+  },
+  {
+    "question": "Im Review von Madersbacher et al. (2013) zu Oxybutynin, Propiverin und Trospium bei NDÜ zeigte sich welcher Effekt auf die urodynamischen Parameter?",
+    "options": [
+      "Ein signifikanter Abfall des maximalen Detrusordrucks und ein Anstieg der maximalen zystometrischen Kapazität um jeweils 30–40%.",
+      "Keine Veränderung der urodynamischen Parameter gegenüber Placebo.",
+      "Eine Steigerung des Detrusordrucks um 30–40%.",
+      "Eine Abnahme der zystometrischen Kapazität um 30–40%."
+    ],
+    "correct": 0,
+    "tip": "Beide Effekte – Drucksenkung und Kapazitätssteigerung – bewegten sich in der gleichen Größenordnung.",
+    "explanation": "Madersbacher et al. zeigten für Oxybutynin IR, Propiverin IR/ER und Trospium IR einen signifikanten Abfall des maximalen Detrusordrucks um 30–40% und parallel einen Anstieg der maximalen zystometrischen Kapazität um 30–40%."
+  },
+  {
+    "question": "Wie verhielt sich die Rate der Mundtrockenheit im direkten Vergleich von Trospium (2x20mg) zu Oxybutynin (3x5mg) bei vergleichbarer urodynamischer Wirkung?",
+    "options": [
+      "4% unter Trospium gegenüber 23% unter Oxybutynin.",
+      "23% unter Trospium gegenüber 4% unter Oxybutynin.",
+      "Beide Substanzen zeigten identische Raten von 15%.",
+      "60% unter Trospium gegenüber 10% unter Oxybutynin."
+    ],
+    "correct": 0,
+    "tip": "Trospium als quartäres Amin schnitt in diesem direkten Vergleich deutlich günstiger ab.",
+    "explanation": "Die Rate der Mundtrockenheit stand im Vergleich von Trospium (2x20mg) zu Oxybutynin (3x5mg) im Verhältnis 4% zu 23%, bei fehlendem signifikantem Unterschied in den urodynamischen Parametern."
+  },
+  {
+    "question": "Die Metaanalyse von Madhuvrata et al. (2012) mit 16 randomisierten/quasirandomisierten Studien und 960 Patienten kam zu welchem zentralen Schluss?",
+    "options": [
+      "Keine der untersuchten antimuskarinergen Substanzen und Dosierungen zeigte eine Überlegenheit gegenüber den anderen.",
+      "Oxybutynin war allen anderen Substanzen eindeutig überlegen.",
+      "Antimuskarinika zeigten keinen Unterschied zu Placebo.",
+      "Trospium war in dieser Metaanalyse nicht untersucht worden, da es als unwirksam galt."
+    ],
+    "correct": 0,
+    "tip": "Die antimuskarinerge Therapie senkte zwar signifikant den Detrusordruck gegenüber Placebo, ein Vergleich der Substanzen untereinander ergab aber kein klares Ranking.",
+    "explanation": "Madhuvrata et al. (2012) schlossen aus ihrer Metaanalyse mit 960 Patienten, dass keine der untersuchten antimuskarinergen Substanzen oder Dosierungen eine Überlegenheit zeigte, obwohl die antimuskarinerge Therapie insgesamt gegenüber Placebo wirksamer war."
+  },
+  {
+    "question": "In der SONIC-Studie (Solifenacin bei neurogener Detrusorüberaktivität) betrug die Rate der Mundtrockenheit unter Solifenacin 10mg versus Oxybutynin 15mg wie viel?",
+    "options": [
+      "7,8% unter Solifenacin versus 17,0% unter Oxybutynin.",
+      "17,0% unter Solifenacin versus 7,8% unter Oxybutynin.",
+      "Beide Gruppen zeigten exakt 12% Mundtrockenheit.",
+      "Die SONIC-Studie untersuchte keine Mundtrockenheit."
+    ],
+    "correct": 0,
+    "tip": "Solifenacin zeigte gegenüber Placebo einen Kapazitätsgewinn, aber keinen signifikanten Vorteil gegenüber Oxybutynin bei den Inkontinenzepisoden.",
+    "explanation": "In der SONIC-Studie trat die UAW „Mundtrockenheit“ im Verhältnis Solifenacin 10mg zu Oxybutynin 15mg in 7,8% bzw. 17,0% auf."
+  },
+  {
+    "question": "Eine MS-Patientin unter Oxybutynin erhält zusätzlich Clarithromycin. Worauf muss laut Tabelle 6a/6b besonders geachtet werden?",
+    "options": [
+      "Clarithromycin ist ein Makrolid-Antibiotikum, das in der Regel eine Dosisreduktion des Antimuskarinikums erforderlich macht, da es über CYP3A4 interagiert.",
+      "Clarithromycin hat keinerlei Interaktionspotential mit Antimuskarinika.",
+      "Clarithromycin erhöht ausschließlich das Risiko einer Obstipation, nicht aber zentralnervöser UAW.",
+      "Clarithromycin darf nur mit Trospium kombiniert werden, da dieses hepatisch verstoffwechselt wird."
+    ],
+    "correct": 0,
+    "tip": "Makrolid-Antibiotika wie Erythromycin oder Clarithromycin sind potente CYP3A4-Hemmer.",
+    "explanation": "Laut den Hinweisen zu Tabelle 6a/6b ist bei gleichzeitiger Anwendung von Makrolid-Antibiotika wie Clarithromycin in der Regel eine Dosisreduktion des über CYP3A4/CYP2D6 metabolisierten Antimuskarinikums vorzunehmen."
+  },
+  {
+    "question": "Ein 30-jähriger Paraplegiker mit ISK berichtet, er sei „endlich trocken“ unter Antimuskarinika, wurde aber noch nicht urodynamisch kontrolliert. Warum ist das laut Kap. 3.2.4 besonders riskant bei suprasakraler NDÜ?",
+    "options": [
+      "Weil Patienten mit suprasakraler NDÜ und IK trotz Harnkontinenz einen Detrusordruck >40cmH2O aufweisen können, was nur urodynamisch feststellbar ist.",
+      "Weil Kontinenz bei suprasakraler NDÜ grundsätzlich unmöglich ist.",
+      "Weil eine urodynamische Kontrolle bei Querschnittlähmung generell kontraindiziert ist.",
+      "Weil Harnkontinenz bei suprasakraler NDÜ immer mit normalem Detrusordruck einhergeht."
+    ],
+    "correct": 0,
+    "tip": "Der Parameter „Harnkontinenz“ gilt in dieser Konstellation als unzuverlässig.",
+    "explanation": "Insbesondere bei Querschnittlähmung mit suprasakraler NDÜ und gleichzeitigem IK ist der Parameter „Harnkontinenz“ unzuverlässig, da diese Patienten trotz Kontinenz einen Detrusordruck von über 40 cmH2O aufweisen können – dies lässt sich nur mittels Urodynamik feststellen."
+  },
+  {
+    "question": "Welche Aussage zur Tachyphylaxie unter antimuskarinerger Therapie ist laut Leitlinie am ehesten zutreffend?",
+    "options": [
+      "Eine Überexpression von P2X2-Rezeptoren im Detrusorgewebe könnte für den Wirkungsverlust eine Rolle spielen.",
+      "Tachyphylaxie tritt bei antimuskarinerger Therapie praktisch nie auf.",
+      "Tachyphylaxie wird ausschließlich durch eine zu niedrige Dosierung verursacht.",
+      "Tachyphylaxie ist nur bei intravesikaler, nie bei oraler Applikation beschrieben."
+    ],
+    "correct": 0,
+    "tip": "Es handelt sich um einen purinergen Rezeptor, der auch in Tabelle 3 als Teil des parasympathischen Systems genannt wird.",
+    "explanation": "Für den nicht selten auftretenden Wirkungsverlust der antimuskarinergen Therapie (Tachyphylaxie) könnte laut Leitlinie eine Überexpression von P2X2-Rezeptoren im Detrusorgewebe eine Rolle spielen."
+  }
+]

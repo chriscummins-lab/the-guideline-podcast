@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Auf welchen Zielwert soll der Detrusordruck beim Management der Hochdruckblase gesenkt werden?",
+    "options": [
+      "Wesentlich unter 30–40 cm H2O, unter Vermeidung hoher Spitzendrücke.",
+      "Unter 100 cm H2O.",
+      "Der genaue Zielwert spielt keine Rolle, solange keine Inkontinenz besteht.",
+      "Auf exakt 0 cm H2O."
+    ],
+    "correct": 0,
+    "tip": "Gleichzeitig sollen Kapazität und Compliance der Blase gesteigert werden.",
+    "explanation": "Das primäre Ziel beim Management der Hochdruckblase ist die Senkung des Detrusordrucks auf wesentlich unter 30–40 cm H2O unter Vermeidung hoher Spitzendrücke und Steigerung von Kapazität und Compliance."
+  },
+  {
+    "question": "Bei einem 4-jährigen Mädchen mit DLPP 55 cm H2O unter oralem Oxybutynin berichtet die Mutter über Gesichtsrötung und Hitzeintoleranz. Welche Alternative zur Applikation könnte diese peripheren Nebenwirkungen reduzieren?",
+    "options": [
+      "Die intravesikale Gabe von Oxybutynin, die den First-pass-Effekt umgeht und weniger periphere, aber möglicherweise zentrale Nebenwirkungen zeigt.",
+      "Eine Verdopplung der oralen Dosis.",
+      "Der sofortige Wechsel auf Phenoxybenzamin.",
+      "Es gibt keine Alternative zur oralen Applikation von Oxybutynin."
+    ],
+    "correct": 0,
+    "tip": "Allerdings sollte die deutlich geringere Patientencompliance bei der aufwändigeren intravesikalen Applikation bedacht werden.",
+    "explanation": "Bei intravesikaler Gabe wird der First-pass-Effekt in der Leber größtenteils umgangen, was zu weniger peripheren, aber möglichen zentralen Nebenwirkungen führen kann; die Dosis kann hier bis auf 0,9 mg/kg KG/d gesteigert werden."
+  },
+  {
+    "question": "Bei wie viel Prozent der Patienten zeigt sich bei frühzeitigem Einsatz von Oxybutynin ein positiver Effekt auf die Detrusorüberaktivität, und ab welchem Lebensjahr ist es offiziell zugelassen?",
+    "options": [
+      "Bis zu 93 % positiver Effekt; offiziell zugelassen ab dem 6. Lebensjahr, Off-Label-Einsatz ab dem 1. Lebensjahr üblich.",
+      "Etwa 30 % positiver Effekt; zugelassen ab Geburt.",
+      "Nahezu 100 % positiver Effekt; zugelassen erst ab dem 12. Lebensjahr.",
+      "Oxybutynin zeigt bei Kindern keinen nachweisbaren Effekt."
+    ],
+    "correct": 0,
+    "tip": "Oxybutynin ist das Antimuskarinikum mit der größten Erfahrung in dieser Patientengruppe.",
+    "explanation": "Bei bis zu 93 % der Patienten zeigt sich bei frühzeitigem Einsatz von Oxybutynin ein positiver Effekt auf die Überaktivität des Detrusors; es ist bei Kindern ab dem 6. Lebensjahr zugelassen, wird aber aufgrund der langjährigen Erfahrung bereits ab dem 1. Lebensjahr off-label eingesetzt."
+  },
+  {
+    "question": "Welche orale Dosierung von Oxybutynin bei Kindern nennt die Leitlinie?",
+    "options": [
+      "0,1–0,3 mg/kg KG/d, verteilt auf drei Gaben.",
+      "1–3 mg/kg KG/d als Einmalgabe.",
+      "10 mg/kg KG/d, verteilt auf zwei Gaben.",
+      "0,01 mg/kg KG/d, einmal wöchentlich."
+    ],
+    "correct": 0,
+    "tip": "Bei intravesikaler Applikation kann die Dosis deutlich höher ausfallen, bis zu 0,9 mg/kg KG/d.",
+    "explanation": "Die orale Dosierung von Oxybutynin bei Kindern beträgt 0,1–0,3 mg/kg KG/d, verteilt auf drei Gaben."
+  },
+  {
+    "question": "Welches Antimuskarinikum ist ab dem 12. Lebensjahr zugelassen und zählt zu den quartären Aminen, die die Blut-Hirn-Schranke schlechter passieren?",
+    "options": [
+      "Trospiumchlorid.",
+      "Oxybutynin.",
+      "Propiverin.",
+      "Darifenacin."
+    ],
+    "correct": 0,
+    "tip": "Tertiäre Amine wie Oxybutynin, Tolterodin, Propiverin, Darifenacin und Solifenacin passieren die Blut-Hirn-Schranke dagegen leichter.",
+    "explanation": "Trospiumchlorid ist ab dem 12. Lebensjahr zugelassen und zählt als quartäres Amin, das die Blut-Hirn-Schranke schlechter passiert als die tertiären Amine."
+  },
+  {
+    "question": "Welche Aussage zu β3-Agonisten (z. B. Mirabegron) bei Kindern mit neurogener Blase ist laut Leitlinie korrekt?",
+    "options": [
+      "Da bislang keine Studien bei Kindern vorliegen, kann für diese Altersgruppe keine Empfehlung ausgesprochen werden.",
+      "Mirabegron ist bei Kindern mit neurogener Blase Mittel der ersten Wahl.",
+      "β3-Agonisten sind bei Kindern ausdrücklich kontraindiziert.",
+      "β3-Agonisten dürfen nicht mit Antimuskarinika kombiniert werden."
+    ],
+    "correct": 0,
+    "tip": "Prinzipiell stellen sie einen anderen pharmakologischen Ansatzpunkt dar und könnten in Kombination mit Antimuskarinika eingesetzt werden.",
+    "explanation": "Da es bis heute keine Studien zu β3-Agonisten bei Kindern gibt, kann für diese Altersgruppe keine Empfehlung ausgesprochen werden."
+  },
+  {
+    "question": "Welcher α-Blocker ist als einziger bei Kindern zugelassen, und welche relevante Nebenwirkung limitiert seinen Einsatz?",
+    "options": [
+      "Phenoxybenzamin, limitierende Nebenwirkung ist die Hypotonie, weshalb ein- und ausschleichend dosiert werden muss.",
+      "Tamsulosin, limitierende Nebenwirkung ist eine Tachykardie.",
+      "Doxazosin, limitierende Nebenwirkung ist eine Hyperkaliämie.",
+      "Alfuzosin, limitierende Nebenwirkung ist eine Hypoglykämie."
+    ],
+    "correct": 0,
+    "tip": "Doxazosin und Tamsulosin wurden zwar bei Kindern in Studien eingesetzt, sind aber nicht zugelassen und zeigten in einer Studie keine Effektivität.",
+    "explanation": "Phenoxybenzamin ist der einzige bei Kindern zugelassene α-Blocker, hat jedoch starke kreislaufrelevante Nebenwirkungen (insbesondere Hypotonie), weshalb eine ein- und ausschleichende Dosierung notwendig ist."
+  },
+  {
+    "question": "Welche Kontinenzraten und Veränderungen des maximalen Detrusordrucks wurden unter Botulinumtoxin-A-Injektion bei Kindern mit neurogener Blase berichtet?",
+    "options": [
+      "Kontinenzraten von 32–100 %, Senkung des maximalen Detrusordrucks um 32–54 %.",
+      "Kontinenzraten konstant bei 0 %, kein Effekt auf den Detrusordruck.",
+      "Kontinenzraten von 32–100 %, aber Anstieg des Detrusordrucks um 50 %.",
+      "Botulinumtoxin A ist bei Kindern formal zugelassen und zeigt immer 100 % Kontinenz."
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich wurden eine Steigerung der Blasenkapazität um 27–162 % und der Compliance um 28–176 % beschrieben.",
+    "explanation": "Bei Kindern konnten mit Botulinumtoxin A (Off-Label-Einsatz) Kontinenzraten zwischen 32–100 % und eine Reduktion des maximalen Detrusordrucks um 32–54 % erreicht werden."
+  },
+  {
+    "question": "Welche Patientengruppe profitiert laut Leitlinie deutlich WENIGER von einer Botulinumtoxin-A-Injektion?",
+    "options": [
+      "Blasen mit deutlich reduzierter Compliance und vermehrter Fibrose.",
+      "Blasen mit eindeutiger Detrusorüberaktivität.",
+      "Alle Patienten profitieren gleichermaßen unabhängig vom Blasentyp.",
+      "Nur männliche Patienten profitieren weniger."
+    ],
+    "correct": 0,
+    "tip": "Die Effektivität ist deutlich höher bei Blasen mit eindeutiger Überaktivität.",
+    "explanation": "Die Effektivität von Onabotulinum Toxin A ist deutlich höher bei Harnblasen mit eindeutiger Überaktivität, wohingegen Blasen mit deutlich reduzierter Compliance und vermehrter Fibrose deutlich weniger von der Therapie profitieren."
+  },
+  {
+    "question": "Welche übliche Dosierung und maximale Gesamtdosis von Onabotulinum Toxin A werden aktuell am häufigsten verwendet, und wie lange hält die Wirkung durchschnittlich an?",
+    "options": [
+      "10–12 U/kg KG mit maximal 200–360 U, Wirkdauer durchschnittlich 3–12 Monate.",
+      "1 U/kg KG mit maximal 10 U, Wirkdauer lebenslang.",
+      "100 U/kg KG ohne Maximaldosis, Wirkdauer wenige Tage.",
+      "Die Dosierung ist bei Kindern durch Titrationsstudien exakt standardisiert."
+    ],
+    "correct": 0,
+    "tip": "In einer Studie zeigte auch eine Dosis von nur 5 U/kg vergleichbare Ergebnisse; randomisierte Titrationsstudien bei Kindern fehlen bislang.",
+    "explanation": "Die aktuell am häufigsten verwendete Dosierung von Onabotulinum Toxin A beträgt 10–12 U/kg KG mit einer maximalen Dosierung zwischen 200 und 360 U; die Wirkung hält durchschnittlich 3–12 Monate an."
+  }
+]

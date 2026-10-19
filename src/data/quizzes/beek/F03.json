@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In welchen drei Achsen unterscheiden sich die weltweiten Konzepte zum Primärverschluss der Blasenekstrophie laut Kapitel 7.1.1?",
+    "options": [
+      "Zeitpunkt des Verschlusses, Anzahl der Rekonstruktionsschritte und Art des Beckenverschlusses.",
+      "Operationsdauer, Anästhesieverfahren und postoperative Verbandstechnik.",
+      "Geschlecht des Kindes, Körpergewicht und Herkunftsland.",
+      "Erfahrung des Zentrums, Versicherungsstatus und Klinikgröße."
+    ],
+    "correct": 0,
+    "tip": "Diese drei Achsen prägen die unterschiedlichen \"Schulen\" weltweit über Jahrzehnte.",
+    "explanation": "Die etablierten Konzepte unterscheiden sich im Zeitpunkt des Verschlusses (sofortig vs. verzögert), in der Anzahl der Rekonstruktionsschritte (einzeitig vs. mehrzeitig) und im Beckenverschluss (Zuggurtung, Osteotomie oder offenes Becken)."
+  },
+  {
+    "question": "Innerhalb welches Zeitraums soll der Primärverschluss der Blase laut Empfehlung 7.1 (Empfehlungsgrad B) spätestens erfolgen?",
+    "options": [
+      "Nicht später als im 9. Lebensmonat.",
+      "Nicht später als in den ersten 72 Lebensstunden.",
+      "Nicht später als im 24. Lebensmonat.",
+      "Ein fester Zeitpunkt wird in der Leitlinie nicht genannt."
+    ],
+    "correct": 0,
+    "tip": "Grund ist das zu erwartende schlechtere Blasenwachstum bei weiter prolongiertem Verschluss.",
+    "explanation": "Empfehlung 7.1 (Empfehlungsgrad B) besagt, dass der Primärverschluss der Blase bei Betroffenen mit BEEK nicht später als im neunten Lebensmonat erfolgen sollte, da jenseits dieses Zeitraums ein schlechteres Blasenwachstum zu erwarten ist."
+  },
+  {
+    "question": "Welche NSQIP-P-Daten werden in der Leitlinie zum Vergleich von frühem und verzögertem Blasenverschluss hinsichtlich der Transfusionsrate genannt?",
+    "options": [
+      "17,9 % Transfusionen beim frühen vs. 65,3 % beim verzögerten Verschluss, erklärt durch unterschiedliche Osteotomieraten (25,0 % vs. 48,3 %).",
+      "Die Transfusionsraten waren bei frühem und verzögertem Verschluss identisch (je 30 %).",
+      "65,3 % Transfusionen beim frühen vs. 17,9 % beim verzögerten Verschluss.",
+      "Transfusionen wurden in der NSQIP-P-Datenbank nicht erfasst."
+    ],
+    "correct": 0,
+    "tip": "Die höhere Transfusionsrate beim verzögerten Verschluss wird auf die häufigere Notwendigkeit einer Osteotomie zurückgeführt.",
+    "explanation": "Die NSQIP-P-Daten zeigen eine Transfusionsrate von 17,9 % beim frühen gegenüber 65,3 % beim verzögerten Verschluss, erklärt durch unterschiedliche Osteotomieraten von 25,0 % beim frühen vs. 48,3 % beim verzögerten Verschluss."
+  },
+  {
+    "question": "Auf welcher Station werden Betroffene mit BEEK laut den Hintergrundinformationen zu 7.2.1 nach dem Blasenekstrophieverschluss in etwa 90 % der Fälle überwacht?",
+    "options": [
+      "Auf der Kinderintensivstation.",
+      "Auf der normalen pädiatrischen Station ohne besondere Überwachung.",
+      "Ambulant mit täglicher Wiedervorstellung.",
+      "Grundsätzlich im häuslichen Umfeld der Eltern."
+    ],
+    "correct": 0,
+    "tip": "Die mehrstündige extraperitoneale Operation wird anästhesiologisch als Eingriff mittlerer Risikostufe eingeschätzt.",
+    "explanation": "Postoperativ werden nahezu alle Patient*innen zur Optimierung der Schmerztherapie und des Volumen- und Elektrolytmanagements auf einer Kinderintensivstation überwacht – in etwa 90 % der Fälle."
+  },
+  {
+    "question": "Mit welchem Empfehlungsgrad soll laut Empfehlung 7.2 den Kindern bei der Rekonstruktion des BEEK eine Periduralkatheter-Versorgung (PDK) angeboten werden?",
+    "options": [
+      "Empfehlungsgrad A (\"soll\").",
+      "Empfehlungsgrad B (\"sollte\").",
+      "Empfehlungsgrad 0 (\"kann\").",
+      "Nur als Expertenkonsens ohne Empfehlungsgrad."
+    ],
+    "correct": 0,
+    "tip": "Bueno-Jimenez et al. zeigten z. B. 100 % erfolgreiche verzögerte Verschlüsse mit PDK gegenüber einer deutlich höheren Misserfolgsrate ohne PDK bei Verschluss am ersten Lebenstag.",
+    "explanation": "Empfehlung 7.2 ist mit Empfehlungsgrad A versehen: Bei der Rekonstruktion des BEEK soll den Kindern für die intra- und postoperative Schmerztherapie eine Periduralkatheter-Versorgung angeboten werden."
+  },
+  {
+    "question": "In der Studie von Bueno-Jimenez et al. wurden Verschlüsse am ersten Lebenstag (mit Beatmung/Relaxierung, ohne PDK) mit verzögerten Verschlüssen (mit PDK) verglichen. Wie hoch war die Misserfolgsrate in der am ersten Lebenstag operierten Gruppe?",
+    "options": [
+      "15 % der Verschlüsse verliefen nicht erfolgreich.",
+      "0 %, alle Verschlüsse waren erfolgreich.",
+      "100 %, kein Verschluss war erfolgreich.",
+      "Es wurden keine Erfolgsraten berichtet."
+    ],
+    "correct": 0,
+    "tip": "Die verzögert operierten, mit PDK analgesierten Säuglinge erreichten dagegen eine Erfolgsrate von 100 %.",
+    "explanation": "Bei den am ersten Lebenstag operierten, beatmeten und muskelrelaxierten Neugeborenen verliefen zwei von 13 Verschlüssen nicht erfolgreich (15 %), während die verzögert mit PDK versorgten Säuglinge zu 100 % erfolgreich verschlossen wurden."
+  },
+  {
+    "question": "Welches Medikament und welche maximale orale Tagesdosis werden in den Hintergrundinformationen zu Empfehlung 7.3 für die perioperative Entspannung des Blasenmuskels beim Säugling konkret genannt?",
+    "options": [
+      "Orales Oxybutynin, bis zu einer Höchstdosis von 0,4 mg/kg Körpergewicht in kleinen Einzeldosen über den Tag verteilt.",
+      "Orales Oxybutynin, bis zu einer Höchstdosis von 4 mg/kg Körpergewicht als Einmaldosis.",
+      "Intravenöses Morphin als alleinige First-line-Substanz.",
+      "Es wird kein konkretes Medikament oder keine Dosierung genannt."
+    ],
+    "correct": 0,
+    "tip": "Alternativ wird perioperativ auch Butylscopolamin eingesetzt, meist als Off-label-Anwendung.",
+    "explanation": "In der klinischen Praxis hat sich orales Oxybutynin bewährt, das bis zur Höchstdosis von 0,4 mg/kg Körpergewicht in kleinen bis kleinsten Einzeldosen über den Tag verteilt verabreicht werden kann; dies erfolgt meist als Off-label-Anwendung mit entsprechender Aufklärungspflicht."
+  },
+  {
+    "question": "Welche Datenbank wird in der Leitlinie zur Orientierung bei der Dosierung von Off-label-Medikamenten bei Kindern mit BEEK empfohlen?",
+    "options": [
+      "kinderformularium.de",
+      "Die Fachinformation eines beliebigen Erwachsenenpräparates ohne weitere Anpassung.",
+      "Es gibt keine empfohlene Orientierungshilfe.",
+      "Ausschließlich die Herstellerangaben für Katzen- und Hundemedizin als Analogieschluss."
+    ],
+    "correct": 0,
+    "tip": "Die Wahl der antiinfektiven bzw. anticholinergen Substanz richtet sich zusätzlich nach hausinternen Standards.",
+    "explanation": "Die Dosierungen bei Off-label-Anwendungen sollen sich an der vorhandenen Evidenz orientieren, z. B. nach den Empfehlungen der Datenbank kinderformularium.de."
+  },
+  {
+    "question": "Ein Kollege möchte beim Primärverschluss aus Zeitgründen unsterile, aber latexfreie Standardhandschuhe verwenden und verzichtet auf eine gezielte Allergieanamnese. Was fordert Empfehlung 7.4 (Empfehlungsgrad A) tatsächlich?",
+    "options": [
+      "Untersuchung und Behandlung sollen latexfrei erfolgen; bei Atopie-Anamnese oder vorherigen allergischen Reaktionen soll eine dermatologische Allergieabklärung erfolgen.",
+      "Latexfreiheit ist nur beim allerersten operativen Eingriff relevant, danach spielt sie keine Rolle mehr.",
+      "Eine Allergieabklärung ist generell nicht sinnvoll, da BEEK-Betroffene kein erhöhtes Latexallergierisiko haben.",
+      "Latexhandschuhe sind erlaubt, solange sie ungepudert sind."
+    ],
+    "correct": 0,
+    "tip": "BEEK-Betroffene gelten laut Leitlinie als Hochrisikogruppe für eine Latexsensibilisierung.",
+    "explanation": "Empfehlung 7.4 (Empfehlungsgrad A) fordert eine grundsätzlich latexfreie Untersuchung und Behandlung sowie bei entsprechender Anamnese einer koexistenten Atopie oder vorheriger allergischer Reaktionen eine dermatologische Allergieabklärung inklusive spezifischer IgE-Antikörper und Pricktest."
+  },
+  {
+    "question": "Welcher ungefähre Anteil der BEEK-Betroffenen zeigte in der zitierten Fallserie von Ricci et al. 1999 bereits klinische Latexallergie-Symptome, und welcher weitere Anteil eine okkulte Sensibilisierung?",
+    "options": [
+      "30 % mit klinischen Symptomen, weitere 30 % mit okkulter Sensibilisierung.",
+      "100 % mit klinischen Symptomen bei allen Betroffenen.",
+      "0 % – Latexallergie spielt bei BEEK keine relevante Rolle.",
+      "90 % mit klinischen Symptomen, der Rest vollständig unauffällig."
+    ],
+    "correct": 0,
+    "tip": "Als klinisch relevante Kreuzallergene werden u. a. Banane, Esskastanie, Kiwi, Avocado und Ficus benjamina genannt.",
+    "explanation": "Zusammengenommen hatten 30 % der BEEK-Betroffenen Latexallergie-Symptome, weitere 30 % wiesen eine okkulte Latexsensibilisierung auf; Exposition spielt dabei eine größere Rolle als eine genetische Prädisposition."
+  }
+]

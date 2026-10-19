@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie gelten Harnwegsinfektionen bei neurogener Blasenfunktionsstörung definitionsgemäß?",
+    "options": [
+      "Als „kompliziert“.",
+      "Als grundsätzlich asymptomatisch.",
+      "Als grundsätzlich unkompliziert, da sie chronisch rezidivieren.",
+      "Sie werden gar nicht klassifiziert."
+    ],
+    "correct": 0,
+    "tip": "Dies hat unmittelbare Konsequenzen für die Wahl der kalkulierten Antibiotikatherapie.",
+    "explanation": "Definitionsgemäß gelten Harnwegsinfektionen bei neurogener Blasenfunktionsstörung als „kompliziert“."
+  },
+  {
+    "question": "Die Mutter eines 18 Monate alten Kleinkindes mit MMC bringt einen Beutelurin vom Kinderarzt mit „Mischflora“ mit. Welchen Fallstrick beschreibt die Leitlinie hierzu?",
+    "options": [
+      "Beutelurin ist für die mikrobiologische Kultur wegen häufiger Kontamination und falsch positiver Befunde ungeeignet und darf die Antibiose nicht leiten.",
+      "Beutelurin ist für Kultur und Resistenztestung genauso geeignet wie Katheterurin.",
+      "Beutelurin sollte grundsätzlich nur bei symptomatischen Kindern verwendet werden.",
+      "Mischflora im Beutelurin beweist bei Kindern unter IK immer eine floride Pyelonephritis."
+    ],
+    "correct": 0,
+    "tip": "Bei Patienten, die einen IK durchführen, sollte stattdessen Katheterurin gewonnen werden.",
+    "explanation": "Der Beutelurin ist aufgrund der sehr häufigen Kontaminationen und falsch positiven Befunde für die mikrobiologische Untersuchung ungeeignet und darf nicht zur Steuerung der Antibiose herangezogen werden."
+  },
+  {
+    "question": "Aus welchen drei Kriterien setzt sich die Diagnose einer Harnwegsinfektion zusammen?",
+    "options": [
+      "Klinische Symptome, Leukozyturie und Bakteriennachweis in der Urinkultur.",
+      "Fieber, Blutbild und Sonographiebefund.",
+      "Ausschließlich die Keimzahl in der Kultur.",
+      "Nitrit im Streifentest allein genügt."
+    ],
+    "correct": 0,
+    "tip": "Die klinische Symptomatik kann bei neurologischen Defiziten allerdings sehr uncharakteristisch sein.",
+    "explanation": "Die Diagnose und Bewertung einer Harnwegsinfektion wird anhand dreier Kriterien getroffen: Vorhandensein klinischer Symptome, Hinweise für eine Entzündungsreaktion (Leukozyturie) und Bakteriennachweis in der Urinkultur."
+  },
+  {
+    "question": "Welche Keimzahl gilt laut Tabelle 6 als signifikant für eine Harnwegsinfektion bei Katheterurin bzw. Blasenpunktat im Vergleich zu Mittelstrahlurin?",
+    "options": [
+      "Katheterurin/Blasenpunktat >10.000/ml, Mittelstrahlurin/„clean catch“ >100.000/ml.",
+      "Katheterurin >100.000/ml, Mittelstrahlurin >10.000/ml.",
+      "Für beide Gewinnungsarten gilt derselbe Grenzwert von 1.000/ml.",
+      "Keimzahlen spielen für die Diagnose keine Rolle, nur die Symptomatik zählt."
+    ],
+    "correct": 0,
+    "tip": "Niedrigere Keimzahlen, Mischkulturen oder wechselnde Keime in Serienproben sprechen eher für eine Kontamination.",
+    "explanation": "Laut Tabelle 6 ist die signifikante Keimzahl bei Mittelstrahlurin/„clean catch“ >100.000/ml, bei Katheterurin oder Blasenpunktat bereits >10.000/ml."
+  },
+  {
+    "question": "Welcher Laborparameter gilt laut Tabelle 7 als derzeit bester Parameter zur Erkennung einer Nierenparenchymbeteiligung (Pyelonephritis)?",
+    "options": [
+      "Procalcitonin.",
+      "Der Streifentest auf Nitrit.",
+      "Der Urin-pH-Wert.",
+      "Die Serum-Natrium-Konzentration."
+    ],
+    "correct": 0,
+    "tip": "Perfusionsausfälle in der DMSA-Szintigraphie sind zwar noch sicherer, gehören aber nicht zur Primärdiagnostik.",
+    "explanation": "Als derzeit bester Laborparameter für die Erkennung einer Nierenparenchymbeteiligung gilt das Procalcitonin."
+  },
+  {
+    "question": "Warum kann Fieber als Diagnosekriterium bei Neugeborenen und jungen Säuglingen mit Urosepsis irreführend sein?",
+    "options": [
+      "Weil bei Neugeborenen und jungen Säuglingen Fieber trotz Urosepsis fehlen kann.",
+      "Weil Neugeborene grundsätzlich kein Fieber entwickeln können.",
+      "Weil Fieber bei Neugeborenen immer über 40 °C liegt und damit uncharakteristisch ist.",
+      "Fieber ist bei dieser Altersgruppe kein anerkanntes Kriterium nach Tabelle 7."
+    ],
+    "correct": 0,
+    "tip": "Gerade deshalb müssen laborchemische und sonographische Zusatzparameter mitbeurteilt werden.",
+    "explanation": "Laut Tabelle 7 kann bei Neugeborenen und jungen Säuglingen Fieber trotz Urosepsis fehlen, weshalb die alleinige Temperaturmessung hier nicht ausreicht."
+  },
+  {
+    "question": "Mit welcher kalkulierten Antibiose und Gesamttherapiedauer sollen Neugeborene und junge Säuglinge (<3–4 Monate) mit Pyelonephritis laut Tabelle 8 behandelt werden?",
+    "options": [
+      "Aminoglykosid + Ampicillin oder Cephalosporin der Gruppe 3 + Ampicillin parenteral bis mindestens 2 Tage nach Entfieberung, dann oral nach Antibiogramm, Gesamtdauer 10(–14) Tage.",
+      "Orale Einmaldosis Fosfomycin.",
+      "Ausschließlich Nitrofurantoin oral für 3 Tage.",
+      "Eine Antibiose ist in diesem Alter nicht indiziert."
+    ],
+    "correct": 0,
+    "tip": "Die Kombination mit Ampicillin wird wegen der häufigeren Enterokokkeninfektionen im frühen Säuglingsalter empfohlen.",
+    "explanation": "Laut Tabelle 8 sollten Neugeborene und Säuglinge <3–4 Monate mit Pyelonephritis parenteral mit Aminoglykosid + Ampicillin oder Cephalosporin der Gruppe 3 + Ampicillin bis mindestens 2 Tage nach Entfieberung behandelt werden, danach oral nach Antibiogramm, bei einer Gesamttherapiedauer von 10(–14) Tagen."
+  },
+  {
+    "question": "Welches Cephalosporin der Gruppe 3 wird bei Verdacht auf Pseudomonas aeruginosa im Rahmen der komplizierten Pyelonephritis bevorzugt eingesetzt?",
+    "options": [
+      "Ceftazidim, wegen seiner Pseudomonas-Wirksamkeit.",
+      "Cefixim.",
+      "Ceftibuten.",
+      "Cefpodoximproxetil."
+    ],
+    "correct": 0,
+    "tip": "Ceftazidim kann alternativ auch mit Ampicillin kombiniert werden.",
+    "explanation": "Unter den Cephalosporinen der Gruppe 3 ist Ceftazidim bei komplizierter Pyelonephritis wegen seiner Pseudomonas-Wirksamkeit zu bevorzugen."
+  },
+  {
+    "question": "Welche Mindest-Therapiedauer gilt laut Tabelle 10 für die Zystitis, und welche Ausnahme besteht bei Fosfomycin?",
+    "options": [
+      "Mindestens 5 Tage; bei Fosfomycin ist eine Einmaldosis ausreichend.",
+      "Mindestens 14 Tage, ohne Ausnahme.",
+      "Genau 1 Tag für alle Substanzen.",
+      "Die Therapiedauer richtet sich ausschließlich nach dem CRP-Wert."
+    ],
+    "correct": 0,
+    "tip": "Fosfomycin ist zudem nur für Mädchen ab 12 Jahren und Frauen über 50 kg zugelassen.",
+    "explanation": "Die empfohlene Mindest-Therapiedauer bei Zystitis liegt bei 5 Tagen; bei Verwendung von Fosfomycin ist eine Einmaldosis ausreichend."
+  },
+  {
+    "question": "Welches Erregerspektrum ist bei einem komplizierten HWI im Rahmen einer neurogenen Blasenfunktionsstörung häufiger zu erwarten als bei unkomplizierten Infektionen?",
+    "options": [
+      "Non-E.-coli-Keime wie Proteus mirabilis, Klebsiella spp., Pseudomonas aeruginosa, Enterokokken und Staphylokokken.",
+      "Ausschließlich E. coli, andere Keime kommen praktisch nicht vor.",
+      "Nur Viren, da Bakterien bei neurogener Blase selten sind.",
+      "Ausschließlich Pilze."
+    ],
+    "correct": 0,
+    "tip": "Daher sollte vor Therapiebeginn idealerweise eine Urinkultur angelegt werden, um die Therapie später anzupassen.",
+    "explanation": "Bei einem komplizierten HWI ist häufiger mit Non-E.-coli-Keimen wie Proteus mirabilis, Klebsiella spp., Pseudomonas aeruginosa, Enterokokken und Staphylokokken zu rechnen."
+  }
+]

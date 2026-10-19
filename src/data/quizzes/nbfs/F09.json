@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Die Eltern eines 6-jährigen Jungen unter IK sind beunruhigt über eine Routine-Urinkultur „voller Keime“. Bei welchem Anteil der Kinder unter IK findet sich eine asymptomatische Bakteriurie, und wie wird sie in der Regel behandelt?",
+    "options": [
+      "20–70 % weisen eine asymptomatische Bakteriurie auf; sie bedarf in der Regel keiner antibakteriellen Therapie.",
+      "Unter 1 % der Kinder unter IK haben eine Bakteriurie, jede muss behandelt werden.",
+      "Fast 100 % der Kinder unter IK haben eine floride Pyelonephritis.",
+      "Eine asymptomatische Bakteriurie muss immer sofort antibiotisch behandelt werden, um eine Pyelonephritis zu verhindern."
+    ],
+    "correct": 0,
+    "tip": "Vor interventioneller Diagnostik oder Operationen am Harntrakt sollte jedoch eine resistenzgerechte Therapie erfolgen.",
+    "explanation": "20–70 % der Kinder unter IK bei spinaler Dysraphie weisen bei Routine-Urinkontrollen eine asymptomatische Bakteriurie auf, die in der Regel keiner antibakteriellen Therapie bedarf."
+  },
+  {
+    "question": "Vor welchen Eingriffen bzw. Untersuchungen sollte eine asymptomatische Bakteriurie laut Leitlinie dennoch resistenzgerecht vorbehandelt werden?",
+    "options": [
+      "Vor urodynamischer Diagnostik/MCU, extrakorporaler Stoßwellenlithotrypsie oder Operationen am Harntrakt.",
+      "Vor jeder einzelnen Routine-Sonographie der Nieren.",
+      "Vor jedem IK-Vorgang im häuslichen Alltag.",
+      "Eine Vorbehandlung ist in keinem Fall notwendig."
+    ],
+    "correct": 0,
+    "tip": "Außerhalb dieser Situationen bedarf die asymptomatische Bakteriurie in der Regel keiner Therapie.",
+    "explanation": "Vor interventioneller Diagnostik (z. B. Urodynamik, MCU), extrakorporaler Stoßwellenlithotrypsie oder operativen Eingriffen am Harntrakt sollte eine präinterventionelle resistenzgerechte Therapie erfolgen."
+  },
+  {
+    "question": "Welche Haltung vertritt die International Children's Continence Society (ICCS) zur obligatorischen Chemoprophylaxe bei neurogener Blasenfunktionsstörung?",
+    "options": [
+      "Die ICCS rät von einer obligatorischen Chemoprophylaxe ab.",
+      "Die ICCS empfiehlt eine obligatorische Dauerprophylaxe für alle Kinder unter IK.",
+      "Die ICCS äußert sich nicht zu diesem Thema.",
+      "Die ICCS empfiehlt Chemoprophylaxe nur bei Mädchen, nie bei Jungen."
+    ],
+    "correct": 0,
+    "tip": "Dies steht im Einklang mit Studien, die keinen Nachweis einer Wirksamkeit gegenüber pyelonephritischen Nierenschäden zeigen konnten.",
+    "explanation": "Die Experten der ICCS raten in ihren aktuellen Empfehlungen von einer obligatorischen Chemoprophylaxe bei Kindern mit spinaler Dysraphie ab."
+  },
+  {
+    "question": "Bei welcher Konstellation besteht laut Leitlinie eine klare Indikation für eine antibakterielle Prophylaxe? Ein 3-jähriges Mädchen mit Reflux Grad IV hat bereits die dritte fieberhafte Pyelonephritis in einem Jahr.",
+    "options": [
+      "Mehrfach rezidivierende Pyelonephritiden und ein hochgradiger VUR stellen eine Indikation für die antibakterielle Prophylaxe dar.",
+      "Eine Prophylaxe ist bei hochgradigem Reflux grundsätzlich kontraindiziert.",
+      "Nur bei vollständig unauffälliger Urodynamik ist eine Prophylaxe indiziert.",
+      "Eine Indikation besteht erst nach der zehnten Pyelonephritis."
+    ],
+    "correct": 0,
+    "tip": "Für diese Risikogruppe ist die Studienlage eindeutig, anders als für die generelle Prophylaxe bei allen Kindern unter IK.",
+    "explanation": "Mehrfach rezidivierende Pyelonephritiden und ein hochgradiger VUR stellen eine Indikation für die antibakterielle Prophylaxe dar; für diese Risikogruppe ist die Studienlage eindeutig."
+  },
+  {
+    "question": "Welche Dosierung von Nitrofurantoin bzw. Trimethoprim wird laut Tabelle 11 zur Infektionsprophylaxe verwendet, und welche Altersbeschränkung gilt jeweils?",
+    "options": [
+      "Nitrofurantoin 1 mg/kgKG (nicht <7. Lebenswoche), Trimethoprim 1(-2) mg/kgKG (nicht <3. Lebensmonat).",
+      "Nitrofurantoin 10 mg/kgKG ohne Altersbeschränkung, Trimethoprim ab Geburt in gleicher Dosis.",
+      "Beide Substanzen werden mit 50 mg/kgKG dosiert.",
+      "Trimethoprim ist bei jungen Säuglingen uneingeschränkt zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Cefaclor (10 mg/kgKG) kann als Alternative in den ersten Lebenswochen ohne diese Einschränkung eingesetzt werden.",
+    "explanation": "Laut Tabelle 11 wird Nitrofurantoin mit 1 mg/kgKG als einmalige Tagesdosis verwendet (nicht vor der 7. Lebenswoche), Trimethoprim mit 1(-2) mg/kgKG (nicht vor dem 3. Lebensmonat)."
+  },
+  {
+    "question": "Welcher Anteil der üblichen therapeutischen Tagesdosis wird für die Chemoprophylaxe verwendet, und zu welchem Zeitpunkt wird sie verabreicht?",
+    "options": [
+      "1/4 bis 1/5 der üblichen therapeutischen Tagesdosis, einmal täglich vor dem Schlafengehen.",
+      "Die volle therapeutische Tagesdosis, dreimal täglich.",
+      "Das Doppelte der therapeutischen Tagesdosis, einmal wöchentlich.",
+      "Es gibt keine Dosisreduktion gegenüber der Therapiedosis."
+    ],
+    "correct": 0,
+    "tip": "Bei der Substanzwahl sollte zudem das Resistenzmuster des zuletzt nachgewiesenen Keims berücksichtigt werden.",
+    "explanation": "Die Menge für die Chemoprophylaxe beträgt 1/4 bis 1/5 der üblichen therapeutischen Tagesdosis und wird in der Regel einmal täglich vor dem Schlafengehen verabreicht."
+  },
+  {
+    "question": "Welche Maßnahme senkt laut Leitlinie nachweislich die Infektionshäufigkeit durch Beseitigung einer Obstipation?",
+    "options": [
+      "Die regelmäßige retrograde Darmirrigation.",
+      "Eine streng ballaststofffreie Ernährung.",
+      "Der vollständige Verzicht auf jede Flüssigkeitszufuhr am Abend.",
+      "Eine tägliche Einmalgabe von Laxanzien ohne weitere Diagnostik."
+    ],
+    "correct": 0,
+    "tip": "Eine unbehandelte Obstipation ist ein wichtiger prädisponierender Faktor für rezidivierende HWI.",
+    "explanation": "Bereits allein mit der wirksamen Regulation der Stuhlentleerung, z. B. durch regelmäßige retrograde Darmirrigation, kommt es nachweislich zu einer Reduktion der Infektionshäufigkeit."
+  },
+  {
+    "question": "Wie hoch ist die „number needed to treat“ (NNT) für die Zirkumzision zur Verhinderung einer Pyelonephritis bei gesunden männlichen Säuglingen, und wie ist die Datenlage für neurogene Blasenfunktionsstörungen?",
+    "options": [
+      "NNT von 111 bei gesunden Säuglingen (90 % Risikoreduktion); für neurogene Blasenfunktionsstörungen ist die Datenlage unzureichend.",
+      "NNT von 2 bei gesunden Säuglingen; bei neurogener Blase ist die Zirkumzision klar kontraindiziert.",
+      "Die NNT beträgt bei gesunden Säuglingen über 10.000.",
+      "Für neurogene Blasenfunktionsstörungen liegen ausgezeichnete randomisierte Studien mit eindeutiger Empfehlung vor."
+    ],
+    "correct": 0,
+    "tip": "Zur Erleichterung des IK und zur Verbesserung der periurethralen Hygiene kann eine Zirkumzision im Einzelfall trotzdem erwogen werden.",
+    "explanation": "Die Zirkumzision reduziert bei gesunden männlichen Säuglingen das Pyelonephritisrisiko um 90 % mit einer NNT von 111; für neurogene Blasenfunktionsstörungen ist die Datenlage unzureichend, sodass die Entscheidung im Einzelfall erfolgen muss."
+  },
+  {
+    "question": "Welche Aussage zur Wirksamkeit von Cranberry-Präparaten bei Kindern mit neurogener Blasenfunktionsstörung trifft laut Leitlinie am ehesten zu?",
+    "options": [
+      "Cranberry-Saft zeigte keinen Einfluss auf die Infektionsrate, eine kleine Studie sprach jedoch für eine Wirksamkeit von Cranberry-Kapseln.",
+      "Cranberry-Saft ist bei Kindern mit neurogener Blase hochwirksam und evidenzbasiert empfohlen.",
+      "Cranberry ist bei neurogener Blase ausdrücklich kontraindiziert.",
+      "Es liegen ausschließlich positive, eindeutige RCT-Daten zu Cranberry bei Kindern mit neurogener Blase vor."
+    ],
+    "correct": 0,
+    "tip": "Insgesamt ist die Studienlage für eine eindeutige evidenzbasierte Empfehlung derzeit zu schwach, von der Behandlung wird aber auch nicht grundsätzlich abgeraten.",
+    "explanation": "Bei Kindern mit neurogenen Blasenentleerungsstörungen fand sich kein Einfluss von Cranberry-Saft auf die Infektionsrate, während eine kleine prospektive Studie für eine Wirksamkeit von Cranberry-Kapseln sprach."
+  },
+  {
+    "question": "Welche Evidenz existiert laut Leitlinie für D-Mannose und orale Vakzinierung speziell bei Kindern mit neurogener Blasenfunktionsstörung?",
+    "options": [
+      "Für D-Mannose liegen keine Kinderdaten vor (nur Pilotstudien bei Erwachsenen); für orale Vakzinierung existieren keine RCTs bei Kindern oder Erwachsenen mit neurogener Blase.",
+      "Beide Substanzen sind durch große pädiatrische RCTs bei neurogener Blase gut belegt.",
+      "D-Mannose ist bei Kindern mit neurogener Blase zugelassenes Erstlinienmedikament.",
+      "Für orale Vakzinierung liegen bei Kindern mit neurogener Blase ausgezeichnete Daten vor, für D-Mannose dagegen keine."
+    ],
+    "correct": 0,
+    "tip": "Bei Erwachsenen mit neurogener Blase existieren immerhin Pilotdaten zur Kombination von D-Mannose mit Lactobacillus acidophilus.",
+    "explanation": "Für D-Mannose fehlen Erfahrungen bei Kindern vollständig (nur eine Pilotstudie bei Erwachsenen mit neurogener Blase); für die orale Vakzinierung liegen keine Ergebnisse randomisierter, kontrollierter Studien bei Kindern oder Erwachsenen mit neurogener Blasenfunktionsstörung vor."
+  }
+]

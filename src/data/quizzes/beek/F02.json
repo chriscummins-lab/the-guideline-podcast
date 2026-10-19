@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bei einer Schwangeren in Beckenendlage besteht der Verdacht auf einen BEEK. Welche zusätzliche Untersuchung sollte laut Empfehlung 4.1 zur verbesserten Diagnostik erfolgen?",
+    "options": [
+      "Eine vaginalsonographische Untersuchung.",
+      "Ein fetales MRT als primäre Bildgebung.",
+      "Eine Amniozentese zur Karyotypisierung.",
+      "Eine CT des mütterlichen Beckens."
+    ],
+    "correct": 0,
+    "tip": "Der Goldstandard der pränatalen Diagnostik ist die Sonographie – bei Beckenendlage mit einer speziellen Zugangsvariante.",
+    "explanation": "Empfehlung 4.1 (EK) sieht bei Beckenendlage und Verdacht auf BEEK eine vaginalsonographische Untersuchung zur verbesserten Diagnostik vor, da die Ultraschalluntersuchung der Goldstandard der Diagnostik bleibt."
+  },
+  {
+    "question": "Welche der folgenden sonographischen Hinweiszeichen nach Gearhart et al. für eine Blasenekstrophie ist mit der höchsten angegebenen Häufigkeit verbunden?",
+    "options": [
+      "Eine wiederholt nicht darstellbare Harnblase bei normaler Fruchtwassermenge (71 %).",
+      "Eine abnorme Verbreiterung der Schambeinfuge (18 %).",
+      "Eine tiefe Nabelschnurinsertion (29 %).",
+      "Eine Vorwölbung im unteren Abdomen (47 %)."
+    ],
+    "correct": 0,
+    "tip": "Die übrigen drei Zeichen sind in der Leitlinie ebenfalls genannt, aber mit niedrigeren Prozentangaben.",
+    "explanation": "Nach Gearhart et al. ist die wiederholt nicht darstellbare Harnblase bei normaler Fruchtwassermenge mit 71 % das häufigste sonographische Hinweiszeichen, gefolgt von der Vorwölbung im Unterbauch (47 %), dem kleinen Penis mit ventral verlagertem Skrotum (57 %), der tiefen Nabelschnurinsertion (29 %) und der verbreiterten Schambeinfuge (18 %)."
+  },
+  {
+    "question": "Ungefähr welcher Anteil der BEEK-Fälle wird laut Leitlinie trotz Fortschritten der pränatalen Bildgebung tatsächlich pränatal erkannt?",
+    "options": [
+      "Nur etwa 10–69 %, abhängig von Studie und Phänotyp.",
+      "Praktisch 100 %, da die Blase immer darstellbar ist.",
+      "Unter 1 %, eine pränatale Diagnose ist nahezu unmöglich.",
+      "Exakt 50 % in allen zitierten Studien."
+    ],
+    "correct": 0,
+    "tip": "Isolierte Epispadien werden dabei besonders häufig übersehen.",
+    "explanation": "Trotz Fortschritten der pränatalen Bildgebung werden nur ca. 10–69 % der BEEK-Fälle pränatal detektiert; isolierte Epispadien werden dabei häufig übersehen."
+  },
+  {
+    "question": "Welchen Zusatznutzen hat laut Evidenzbasiertem Statement 4.5 ein fetales MRT bei der Diagnostik des BEEK?",
+    "options": [
+      "Es kann aktuell kein Zusatznutzen gegenüber der Sonographie nachgewiesen werden.",
+      "Es ersetzt die Sonographie vollständig als Goldstandard.",
+      "Es ist ab der 20. SSW gesetzlich vorgeschriebener Bestandteil der Routinediagnostik.",
+      "Es erlaubt als einzige Methode die sichere Unterscheidung zwischen Epispadie und Blasenekstrophie."
+    ],
+    "correct": 0,
+    "tip": "Trotzdem kann das MRT in unklaren Einzelfällen bei entsprechender Expertise zusätzliche Informationen liefern.",
+    "explanation": "Statement 4.5 besagt, dass auf Basis der Studienlage kein Zusatznutzen einer fetalen MRT-Untersuchung zur Diagnostik des BEEK nachgewiesen werden kann."
+  },
+  {
+    "question": "Worüber soll die interdisziplinäre pränatale Erstberatung laut Empfehlung 4.6 informieren?",
+    "options": [
+      "Über das peripartale und postnatale Management, operative Therapieoptionen und die zu erwartende Prognose hinsichtlich Kontinenz, Nierenfunktion, Genitalfunktion, Fertilität und Lebensqualität.",
+      "Ausschließlich über die Möglichkeit eines Schwangerschaftsabbruchs.",
+      "Nur über die unmittelbare operative Technik des Primärverschlusses.",
+      "Über die Kostenübernahme der Operation durch die Krankenkasse."
+    ],
+    "correct": 0,
+    "tip": "Die Beratung soll umfassend und interdisziplinär sein, nicht nur auf die akute Versorgung fokussiert.",
+    "explanation": "Empfehlung 4.6 fordert, dass die pränatale Erstberatung interdisziplinär über das peripartale und postnatale Management, operative Therapiemöglichkeiten und die zu erwartende Prognose in Bezug auf Kontinenz, Nierenfunktion, Genitalfunktion, Fertilität und Lebensqualität informiert."
+  },
+  {
+    "question": "Ein Geburtshelfer plant bei pränatal diagnostizierter Blasenekstrophie ohne Neuralrohrdefekt routinemäßig eine elektive Sectio \"zur Sicherheit des Kindes\". Ist das leitliniengerecht?",
+    "options": [
+      "Nein – laut Statement 4.8 besteht keine Indikation zur elektiven Kaiserschnittentbindung aus fetaler Indikation, eine Spontangeburt ist möglich.",
+      "Ja, bei jedem pränatal diagnostizierten BEEK ist die Sectio obligat.",
+      "Ja, aber nur wenn die Mutter zuvor bereits ein Kind mit BEEK geboren hat.",
+      "Nein, weil generell jede Entbindung bei BEEK in Vollnarkose erfolgen muss."
+    ],
+    "correct": 0,
+    "tip": "Entscheidend ist hingegen, dass latexfrei entbunden wird – unabhängig vom Entbindungsmodus.",
+    "explanation": "Statement 4.8 (EK) legt fest, dass bei präpartal diagnostizierten Blasenekstrophien und Epispadien ohne Neuralrohrdefekt eine Spontangeburt möglich ist und keine Indikation zur elektiven Kaiserschnittentbindung aus fetaler Indikation besteht."
+  },
+  {
+    "question": "Mit welchem Empfehlungsgrad fordert die Leitlinie (Empfehlung 4.9) eine latexfreie Entbindung bei pränatal diagnostiziertem BEEK?",
+    "options": [
+      "Empfehlungsgrad A (\"soll\").",
+      "Empfehlungsgrad B (\"sollte\").",
+      "Empfehlungsgrad 0 (\"kann\").",
+      "Es handelt sich nur um einen Expertenkonsens ohne Empfehlungsgrad."
+    ],
+    "correct": 0,
+    "tip": "Betroffene mit BEEK entwickeln eine expositionsbasierte Latexsensibilität – die Prophylaxe beginnt bereits bei der Geburt.",
+    "explanation": "Empfehlung 4.9 ist mit Empfehlungsgrad A versehen: Bei pränatal diagnostiziertem BEEK soll die Entbindung latexfrei durchgeführt werden."
+  },
+  {
+    "question": "Ein Kind mit unerwartet diagnostizierter Blasenekstrophie wird in einer peripheren Klinik geboren und ist postnatal stabil. Was ist laut den Hintergrundinformationen zu 4.8 korrekt?",
+    "options": [
+      "Das Kind muss nicht zwingend sofort in ein Perinatalzentrum Level I/II verlegt werden; Rooming-in und Stillen sollen unterstützt werden.",
+      "Das Kind muss umgehend von der Mutter getrennt und in Intensivtransport verlegt werden.",
+      "Eine Verlegung ist nur erlaubt, wenn vorher eine Nabelklemme angelegt wurde.",
+      "Eine Trennung von Mutter und Kind ist in jedem Fall zur Infektionsprophylaxe notwendig."
+    ],
+    "correct": 0,
+    "tip": "Eine Trennung von Eltern und Kind ist laut Leitlinie nur bei gravierenden medizinischen Gründen erforderlich.",
+    "explanation": "Kommt ein Kind mit postnatal nicht vorbekannter Blasenekstrophie in der Peripherie stabil zur Welt, muss es nicht zwingend und unmittelbar nach der Geburt in ein Perinatalzentrum Level I/II verlegt werden; Rooming-in und Stillen sind zu unterstützen, eine Trennung ist nur bei gravierenden medizinischen Gründen notwendig."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 6.1 bei der Abnabelung eines Neugeborenen mit Blasenekstrophie vorgegangen werden?",
+    "options": [
+      "Es sollte keine Nabelschnurklemme, sondern eine Ligatur verwendet werden, um die Blasenplatte nicht zu irritieren.",
+      "Es soll routinemäßig eine Nabelschnurklemme direkt auf der Blasenplatte angebracht werden.",
+      "Die Nabelschnur soll erst nach Verlegung in das Zentrum abgenabelt werden.",
+      "Es ist unerheblich, ob Klemme oder Ligatur verwendet wird."
+    ],
+    "correct": 0,
+    "tip": "Eine versehentlich bereits angelegte Nabelklemme wird zeitnah durch eine Ligatur ersetzt.",
+    "explanation": "Empfehlung 6.1 (EK) empfiehlt bei der Abnabelung eine Ligatur statt einer Nabelschnurklemme, um die Blasenplatte nicht zu irritieren; die Nabelschnur wird mit 2–3 cm Abstand zur Blasenplatte abgebunden."
+  },
+  {
+    "question": "Wie wird die Blasenplatte postnatal laut Kapitel 6.3 bis zur operativen Versorgung gepflegt?",
+    "options": [
+      "Mit nicht haftender Fettgaze (z. B. Vaseline/Paraffin ohne Antibiotikazusatz) plus trockener Kompresse, die bei jedem Wickeln erneuert wird; eine systemische Antibiose ist nicht erforderlich.",
+      "Durch tägliche Abstriche und prophylaktische systemische Antibiotikagabe ab Geburt.",
+      "Durch sterile Okklusivverbände mit antibiotikahaltiger Salbe, die nur einmal täglich gewechselt werden.",
+      "Die Blasenplatte braucht keine spezielle Pflege und bleibt bis zur Operation unbedeckt."
+    ],
+    "correct": 0,
+    "tip": "Abstriche direkt postpartal sind nicht zielführend, eine systemische Antibiose fördert eher negative Risiken wie Pilzbesiedelung.",
+    "explanation": "Die Blasenplatte wird mit einer nicht haftenden, nur mit Vaseline oder Paraffin benetzten Wundgaze ohne Antibiotikazusatz sowie einer trockenen Kompresse versorgt, die bei jedem Wickeln erneuert werden; eine systemische Antibiose und postpartale Abstriche sind nicht erforderlich."
+  }
+]

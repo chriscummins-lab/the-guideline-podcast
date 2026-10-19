@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Bei welcher Konstellation ist laut Leitlinie insbesondere die inkontinente Vesikostomie nach Blocksom zu diskutieren?",
+    "options": [
+      "Bei Säuglingen/Kleinkindern mit hohen Detrusordrücken und ausgeprägter Dilatation des oberen Harntraktes, wenn der IK durch die Eltern nicht zuverlässig oder durch die Urethra nicht möglich ist.",
+      "Bei jedem Jugendlichen unmittelbar vor der Pubertät als Standardverfahren.",
+      "Nur als definitive Lösung bei Erwachsenen.",
+      "Ausschließlich bei normalem oberen Harntrakt und niedrigen Drücken."
+    ],
+    "correct": 0,
+    "tip": "Die Windel-Versorgung ist im Säuglings- und Kleinkindalter unproblematisch, kann aber später schwierig werden.",
+    "explanation": "Die Vesikostomie nach Blocksom stellt insbesondere bei Säuglingen/Kindern mit hohen Detrusordrücken eine Option dar, bei denen die zuverlässige Durchführung des IK durch die Eltern nicht gesichert ist bzw. ein IK durch die Urethra schwierig oder unmöglich ist, besonders bei ausgeprägter Dilatation."
+  },
+  {
+    "question": "Welche Komplikationsrate zeigte sich für den „cystostomy button“ in einer Studie bei einer Nachbeobachtungszeit von 37 Monaten?",
+    "options": [
+      "34 %, meist Harnwegsinfektionen.",
+      "0 %.",
+      "90 %.",
+      "Die Komplikationsrate wurde nicht untersucht."
+    ],
+    "correct": 0,
+    "tip": "Dieses Verfahren wird nur in wenigen Studien als Alternative zur klassischen Vesikostomie beschrieben.",
+    "explanation": "Die Komplikationsrate des „cystostomy button“ (meist Harnwegsinfektionen) lag in einer Studie bei einer Nachbeobachtungszeit von 37 Monaten bei 34 %."
+  },
+  {
+    "question": "Welches Darmsegment sollte laut Leitlinie für die Blasenaugmentation NICHT mehr verwendet werden, und warum?",
+    "options": [
+      "Magensegmente (Gastrozystoplastik), wegen Hämaturie-Dysurie-Syndrom, Alkalose und früher sekundärer Malignome.",
+      "Dünndarmsegmente, wegen zu hoher Perforationsrate.",
+      "Dickdarmsegmente, da sie grundsätzlich kontraindiziert sind.",
+      "Alle Darmsegmente sind gleichermaßen ungeeignet."
+    ],
+    "correct": 0,
+    "tip": "Dünn- und Dickdarmsegmente werden dagegen weiterhin zur Augmentation verwendet.",
+    "explanation": "Magensegmente sollten aufgrund spezifischer Komplikationen wie Hämaturie-Dysurie-Syndrom, Alkalose und der frühzeitigen Entwicklung sekundärer Malignome nicht mehr verwendet werden."
+  },
+  {
+    "question": "Bei welcher präoperativen Blasenkapazität zeigt die Autoaugmentation (Myotomie +/- partielle Detrusorektomie) gute Ergebnisse?",
+    "options": [
+      "Bei einer präoperativen Kapazität von 75–80 % der zu erwartenden Norm, bei sehr selektionierten Patienten.",
+      "Nur bei einer Kapazität unter 20 % der Norm.",
+      "Unabhängig von der präoperativen Kapazität immer gleich gute Ergebnisse.",
+      "Nur bei bereits durchgeführter Nierentransplantation."
+    ],
+    "correct": 0,
+    "tip": "Die Methode hat den Vorteil, ohne Inkorporation von Darmsegmenten durchgeführt werden zu können.",
+    "explanation": "Bei sehr selektionierten Patienten mit einer präoperativen Blasenkapazität von 75–80 % der zu erwartenden Norm zeigt die Autoaugmentation gute Ergebnisse."
+  },
+  {
+    "question": "Eine Studie des American College of Surgeons zur Blasenaugmentation zeigte welche Komplikations- und Revisionsrate in den ersten 30 Tagen?",
+    "options": [
+      "Komplikationsrate von 30 % (23–33 %) mit operativer Revisionsrate von 13 %.",
+      "Komplikationsrate von unter 1 %.",
+      "Komplikationsrate von 90 % mit Revisionsrate von 80 %.",
+      "Es wurden keine postoperativen Komplikationen beobachtet."
+    ],
+    "correct": 0,
+    "tip": "Eine weitere amerikanische Studie fand zusätzlich Blasenperforation in 6,4 % und Blasensteine in 36 % der Fälle.",
+    "explanation": "Die Studie des American College of Surgeons zeigte eine Komplikationsrate von 30 % (23–33 %) mit einer operativen Revisionsrate von 13 % in den ersten 30 Tagen."
+  },
+  {
+    "question": "Während der Vorbereitung auf die Aufklärung eines 14-jährigen Patienten ruft die Notaufnahme an: eine 19-jährige Patientin mit Ileumaugmentation klagt über Bauchschmerzen. Welchen Fallstrick nennt die Leitlinie hierzu, und welche Diagnostik ist bei Verdacht auf Blasenperforation Mittel der Wahl?",
+    "options": [
+      "Die Symptome einer Blasenperforation können wegen der neurologischen Ausfälle larviert sein; Diagnostikum der Wahl ist das CT mit Kontrastmittelfüllung der Blase.",
+      "Bauchschmerzen nach Augmentation sind praktisch immer harmlose Obstipation und bedürfen keiner Bildgebung.",
+      "Eine Sonographie der Blase ist bei Verdacht auf Perforation ausreichend und das Diagnostikum der Wahl.",
+      "Eine Blasenperforation äußert sich immer mit klassischem akutem Abdomen wie beim Nicht-Neurogenen."
+    ],
+    "correct": 0,
+    "tip": "Aufgrund der eingeschränkten Sensitivität der unteren Körperhälfte können Symptome einer Peritonitis verschleiert sein.",
+    "explanation": "Aufgrund der neurologischen Ausfälle können Symptome einer Blasenperforation und Peritonitis larviert sein; besteht ein Verdacht, ist das CT mit Kontrastmittelfüllung der Blase das Diagnostikum der Wahl."
+  },
+  {
+    "question": "Wie hoch ist die Kontinenzrate eines kontinenten kutanen Stomas (z. B. Mitrofanoff), und wie hoch kann die Rate an Stomakomplikationen in manchen Serien sein?",
+    "options": [
+      "Über 90 % Kontinenz, aber Stomakomplikationen in einigen Serien über 50 %.",
+      "Unter 50 % Kontinenz, keine relevanten Stomakomplikationen.",
+      "100 % Kontinenz und 0 % Komplikationen.",
+      "Über 90 % Kontinenz, Stomakomplikationen betreffen nie mehr als 5 %."
+    ],
+    "correct": 0,
+    "tip": "Die Komplikationsrate ist abhängig von der Nachbeobachtungszeit.",
+    "explanation": "Bei mehr als 90 % der Patienten ist das kontinente kutane Stoma kontinent, allerdings ist die Rate der Stomakomplikationen nicht unerheblich – in einigen Serien über 50 %, abhängig von der Nachbeobachtungszeit."
+  },
+  {
+    "question": "Stellt ein ventrikuloperitonealer Shunt laut Leitlinie eine Kontraindikation für eine Harntraktrekonstruktion mit Darmsegmenten dar?",
+    "options": [
+      "Nein, Shuntinfektionen bzw. Liquor-Pseudo-Zysten sind in diesem Zusammenhang selten (<2 %) und stellen keine Kontraindikation dar.",
+      "Ja, ein VP-Shunt ist eine absolute Kontraindikation für jede Darmrekonstruktion.",
+      "Ja, das Infektionsrisiko liegt bei über 50 %.",
+      "Diese Frage wird in der Leitlinie nicht behandelt."
+    ],
+    "correct": 0,
+    "tip": "Dennoch sollten Patienten und Eltern über das Risiko informiert werden.",
+    "explanation": "Shuntinfektionen und/oder die Bildung von Liquor-Pseudo-Zysten sind im Rahmen der Rekonstruktion des unteren Harntraktes unter Verwendung von Darm selten (<2 %) und stellen keine Kontraindikation zur operativen Versorgung dar."
+  },
+  {
+    "question": "Ab welchem postoperativen Jahr wird eine endoskopische Kontrolle (Zystoskopie) nach Blasenaugmentation mit Darmsegmenten zur Malignomüberwachung diskutiert, und welche abweichende Empfehlung geben Woodhouse und Kollegen?",
+    "options": [
+      "Ab dem 10. postoperativen Jahr; Woodhouse und Kollegen empfehlen die erste Zystoskopie dagegen erst ab dem 15. postoperativen Jahr.",
+      "Ab dem 1. postoperativen Jahr; Woodhouse empfiehlt bereits ab dem 3. Jahr.",
+      "Eine endoskopische Kontrolle wird in den USA generell als kosteneffektiv angesehen und flächendeckend empfohlen.",
+      "Zystoskopische Kontrollen sind nach Augmentation generell nicht notwendig."
+    ],
+    "correct": 0,
+    "tip": "Ein früherer Beginn kann allerdings die Compliance der Patienten steigern und dem Untersucher die normalen Verhältnisse vertraut machen.",
+    "explanation": "Eine endoskopische Untersuchung ab dem 10. postoperativen Jahr wird diskutiert, hat sich in den USA jedoch nicht als kosteneffektiv erwiesen; Woodhouse und Kollegen empfehlen die erste Zystoskopie erst nach dem 15. postoperativen Jahr."
+  },
+  {
+    "question": "Bei chronischer Niereninsuffizienz ohne Transplantationsoption oder fehlender ISK-Fähigkeit: welches inkontinente Conduit ist dem anderen laut Leitlinie bezüglich der Langzeit-Komplikationsrate überlegen?",
+    "options": [
+      "Das Colon-Conduit (Komplikationsrate bis 33 %) ist dem Ileum-Conduit (Komplikationsrate bis 86 %) überlegen.",
+      "Das Ileum-Conduit ist dem Colon-Conduit klar überlegen.",
+      "Beide Verfahren zeigen identische Komplikationsraten.",
+      "Ein inkontinentes Conduit wird bei spinaler Dysraphie grundsätzlich nicht empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Das Colon-Conduit sollte daher für eine temporäre oder permanente inkontinente Harnableitung bevorzugt werden.",
+    "explanation": "Das Colon-Conduit ist bei Kindern mit einer Komplikationsrate von bis zu 33 % im Langzeitverlauf dem Ileum-Conduit (Komplikationsraten bis zu 86 %) überlegen."
+  }
+]

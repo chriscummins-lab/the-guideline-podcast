@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei therapeutischen Entwicklungen haben laut Leitlinie in den letzten 50 Jahren die Prognose von Kindern mit Meningomyelozele deutlich verbessert?",
+    "options": [
+      "Pharmakotherapie, intermittierender Einmalkatheterismus (CIC) und selektive Infektionsprophylaxe.",
+      "Dauerkatheterismus, Antibiotikaprophylaxe für alle Patienten und frühe Harnableitung.",
+      "Ausschließlich die intrauterine Chirurgie.",
+      "Crédé-Handgriff, Valsalva-Manöver und Blasentraining."
+    ],
+    "correct": 0,
+    "tip": "Die Einleitung der Leitlinie beschreibt einen Wandel der Behandlung, der zu neuen therapeutischen Strategien und einer proaktiven Haltung geführt hat.",
+    "explanation": "Die Etablierung der Pharmakotherapie, des intermittierenden Einmalkatheterismus (C.I.C.) und bei ausgewählten Indikationen der Infektionsprophylaxe haben die Prognose der Patienten deutlich verbessert."
+  },
+  {
+    "question": "Ein Neugeborenes mit lumbosakraler Meningomyelozele wird übernommen. Welche Aussage zur Meningomyelozele ist laut Leitlinie korrekt?",
+    "options": [
+      "Sie ist mit über 90 % die häufigste Form der spinalen Dysraphie und bis zu 85 % der Fälle sind mit einer Chiari-Malformation vergesellschaftet.",
+      "Sie tritt nur in weniger als 10 % aller spinalen Dysraphien auf.",
+      "Eine Chiari-Malformation kommt dabei praktisch nie vor.",
+      "Sie ist ausschließlich thorakal lokalisiert."
+    ],
+    "correct": 0,
+    "tip": "In fast der Hälfte der Fälle liegt zudem ein lumbosakrales Querschnittsniveau vor.",
+    "explanation": "Die Meningomyelozele ist mit über 90 % die häufigste Form der spinalen Dysraphie und bis zu 85 % der Fälle sind mit einer Chiari-Malformation vergesellschaftet; in fast der Hälfte liegt eine lumbosakrale Lokalisation vor."
+  },
+  {
+    "question": "Wie hoch ist das Wiederholungsrisiko für ein zweites Kind mit Spina bifida, wenn bereits ein Kind betroffen ist?",
+    "options": [
+      "2–5 %.",
+      "Nahezu 0 %.",
+      "20–30 %.",
+      "Über 50 %."
+    ],
+    "correct": 0,
+    "tip": "Ernährung, insbesondere ein Folsäuremangel, sowie genetische Faktoren spielen bei der Entstehung eine erhebliche Rolle.",
+    "explanation": "Laut Leitlinie ist das Risiko, ein zweites Kind mit Spina bifida zu bekommen, auf 2–5 % erhöht."
+  },
+  {
+    "question": "Welches Konzept erklärt laut Leitlinie die unterschiedlichen Formen der Spina bifida occulta wie intraspinale Lipome, tight filum und Duralsinus?",
+    "options": [
+      "Das Konzept der doppelten Neurulation.",
+      "Das Konzept der kaudalen Migration.",
+      "Die Theorie der primären Myelodysplasie.",
+      "Die Vier-Typen-Klassifikation der Detrusor-Sphinkter-Dysfunktion."
+    ],
+    "correct": 0,
+    "tip": "Es erleichtert auch das Verständnis der gedeckten Meningozystozele.",
+    "explanation": "Die Einführung des Begriffs der doppelten Neurulation hat das pathophysiologische Verständnis dieser Krankheitsbilder wesentlich vereinfacht."
+  },
+  {
+    "question": "Um wie viel Prozent kann eine ausreichende Folsäuregabe die Inzidenz von Neuralrohrdefekten senken, und welche Dosis wird Frauen mit Kinderwunsch empfohlen?",
+    "options": [
+      "Senkung um bis zu 70 %; empfohlen werden 0,4 mg Folsäure täglich.",
+      "Senkung um bis zu 10 %; empfohlen werden 5 mg täglich.",
+      "Folsäure hat keinen nachgewiesenen Effekt auf die Inzidenz.",
+      "Senkung um bis zu 70 %; empfohlen werden 10 mg täglich lebenslang."
+    ],
+    "correct": 0,
+    "tip": "Frauen, die bereits ein Kind mit Neuralrohrdefekt haben, sollten hingegen vorübergehend eine deutlich höhere Dosis einnehmen.",
+    "explanation": "Mehrere Studien zeigten eine Senkung der Inzidenz von Neuralrohrdefekten um bis zu 70 % durch prä- und postkonzeptionelle Folsäuregabe; für Frauen mit Kinderwunsch werden 0,4 mg/Tag empfohlen."
+  },
+  {
+    "question": "Eine Mutter hatte bereits ein Kind mit Neuralrohrdefekt und plant eine erneute Schwangerschaft. Welches Folsäure-Schema entspricht der Leitlinienempfehlung?",
+    "options": [
+      "1–4 mg täglich ab 1–3 Monaten vor der Schwangerschaft bis zur 12. SSW, danach 0,4 mg/Tag.",
+      "0,4 mg täglich nur während des ersten Trimenons.",
+      "Einmalig 10 mg vor der Konzeption, danach keine weitere Einnahme.",
+      "Keine spezielle Empfehlung, da Folsäure bei Wiederholungsrisiko wirkungslos ist."
+    ],
+    "correct": 0,
+    "tip": "Diese erhöhte Dosierung wird auch für Verwandte ersten Grades empfohlen, zudem sollte auf einen ausreichenden Vitamin-B12-Spiegel geachtet werden.",
+    "explanation": "Frauen, die bereits ein Kind mit Neuralrohrdefekt haben, sollten 1–4 mg Folsäure ab 1–3 Monaten vor der Schwangerschaft bis zur 12. SSW einnehmen und danach auf 0,4 mg/Tag wechseln."
+  },
+  {
+    "question": "Was zeigte die MOMS-Studie zum intrauterinen Verschluss der Meningomyelozele?",
+    "options": [
+      "Eine signifikant niedrigere Zahl von Chiari-Fehlbildungen und Hydrozephalus im Vergleich zum postpartalen Verschluss.",
+      "Eine signifikant höhere Rate an Chiari-Fehlbildungen.",
+      "Keinen Unterschied bezüglich jeglicher neurologischer Endpunkte.",
+      "Einen vollständigen Schutz vor jeder neurogenen Blasenfunktionsstörung."
+    ],
+    "correct": 0,
+    "tip": "Bezüglich der urologischen Situation zeigte sich in der Folgeauswertung vor allem ein Unterschied in der Trabekularisierung der Blase.",
+    "explanation": "Seit der Erfahrung der MOMS-Studien zeigt sich, dass der frühe intrauterine Verschluss der MMC zu einer signifikant niedrigeren Zahl von Chiari-Fehlbildungen und Hydrozephalus führt."
+  },
+  {
+    "question": "Nur bei welchem Anteil der Neugeborenen mit Meningomyelozele liegt post partum KEINE neurogene Störung des unteren Harntraktes vor – und warum ist das für die Beratung der Eltern eines gut gehfähigen Kindes wichtig?",
+    "options": [
+      "Nur ca. 12 %; die Lähmungshöhe bzw. gute Gehfähigkeit lässt keinen Rückschluss auf eine „harmlose“ Blasensituation zu.",
+      "Ca. 50 %; bei guter Gehfähigkeit kann die urologische Diagnostik entfallen.",
+      "Nahezu 100 %; eine neurogene Blase ist die Ausnahme.",
+      "Ca. 80 %; nur Rollstuhlfahrer entwickeln eine Blasenfunktionsstörung."
+    ],
+    "correct": 0,
+    "tip": "Die neurologischen und orthopädischen Probleme korrelieren nicht immer mit den urologischen Befunden.",
+    "explanation": "Nur ca. 12 % der Neugeborenen mit Meningomyelozele haben post partum keine neurogenen Störungen des unteren Harntraktes; Patienten mit guter Extremitätenfunktion (Geher) können trotzdem massive urologische Probleme entwickeln, da die Lähmungshöhe den Blasenstörungstyp nicht definiert."
+  },
+  {
+    "question": "Welche der vier Typen der neurogenen Detrusor-Sphinkter-Dysfunktion trägt laut Tabelle 2 das höchste Risiko für eine Verschlechterung der Nierenfunktion, und wie ist er definiert?",
+    "options": [
+      "Typ 4: Detrusorüberaktivität und Sphinkterüberaktivität (Detrusor-Sphinkter-Dyssynergie), Risiko +++.",
+      "Typ 1: Detrusor- und Sphinkterunteraktivität, Risiko +++.",
+      "Typ 2: Detrusorunteraktivität und Sphinkterüberaktivität, Risiko +++.",
+      "Alle vier Typen tragen laut Tabelle 2 das gleiche Risiko."
+    ],
+    "correct": 0,
+    "tip": "Dieser Typ entspricht der Detrusor-Sphinkter-Dyssynergie und geht mit einer Überlaufinkontinenz bzw. Reflexinkontinenz einher.",
+    "explanation": "Typ 4 (Detrusorüberaktivität und Sphinkterüberaktivität, also die Detrusor-Sphinkter-Dyssynergie) zeigt laut Tabelle 2 das höchste Risiko (+++) für eine Verschlechterung der Nierenfunktion, während Typ 1 ein Risiko von 0 aufweist."
+  },
+  {
+    "question": "Welche Aussage zu den Risikoparametern für den oberen Harntrakt ist laut Leitlinie korrekt?",
+    "options": [
+      "Ein DLPP über 40 cm H2O führt unbehandelt in bis zu 80 % zu einer Verschlechterung der Nierenfunktion, Schäden sind aber bereits ab >20 cm H2O möglich.",
+      "Ein DLPP ist erst ab 80 cm H2O klinisch relevant.",
+      "Die Blasencompliance ist bei Säuglingen und Kleinkindern anhand fester Normwerte sicher zu beurteilen.",
+      "Eine Detrusor-Sphinkter-Dyssynergie hat keinen Einfluss auf das renale Risiko."
+    ],
+    "correct": 0,
+    "tip": "Bei Säuglingen und Kleinkindern gibt es wegen der kleinen Blasenkapazität keine Normwerte für die Compliance – hier hilft nur die Beurteilung im Verlauf.",
+    "explanation": "Ein DLPP von über 40 cm H2O führt ohne Therapie in bis zu 80 % zur Verschlechterung der Nierenfunktion, wobei bereits ab einem DLPP über 20 cm H2O eine Schädigung des oberen Harntraktes möglich ist; bis zu 72 % der Patienten mit DSD verschlechtern sich ohne Therapie."
+  }
+]

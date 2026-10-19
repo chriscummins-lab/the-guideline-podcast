@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein 41-jähriger Tetraplegiker C5 ohne ausreichende Handfunktion für den ISK entleert reflektorisch mit hohem Restharn. Der Zuweiser schlägt Distigmin vor. Was sagt Empfehlung 5a dazu?",
+    "options": [
+      "Für die Therapie der neurogenen Detrusorunteraktivität soll keine parasympathomimetische Therapie eingesetzt werden.",
+      "Distigmin ist Mittel der ersten Wahl bei neurogener Detrusorunteraktivität.",
+      "Parasympathomimetika sollen immer in Kombination mit einem Alpha-Blocker gegeben werden.",
+      "Distigmin ist nur bei Tetraplegikern kontraindiziert, bei Paraplegikern aber empfohlen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erreichte einen Konsens von 94,7%.",
+    "explanation": "Empfehlung 5a besagt klar, dass für die Therapie der neurogenen Detrusorunteraktivität keine parasympathomimetische Therapie eingesetzt werden soll; Therapie der Wahl ist stattdessen der IK."
+  },
+  {
+    "question": "Barendrecht et al. analysierten randomisierte kontrollierte Studien zu Bethanechol, Carbachol und Distigmin. Zu welchem Ergebnis kamen sie bezüglich der Wirksamkeit bei unteraktiver Blase?",
+    "options": [
+      "Die Daten dokumentieren keinen oder allenfalls einen geringen Benefit.",
+      "Alle drei Substanzen zeigten eine hochsignifikante Wirksamkeit.",
+      "Nur Distigmin zeigte eine eindeutige Wirksamkeit, die anderen beiden waren unwirksam.",
+      "Die Studienlage war so eindeutig positiv, dass eine Zulassungserweiterung empfohlen wurde."
+    ],
+    "correct": 0,
+    "tip": "Dass diese Substanzen in manchen Ländern trotzdem zugelassen sind, erklärt sich daraus, dass die Zulassungen aus einer Zeit ohne RCT-Pflicht stammen.",
+    "explanation": "Barendrecht et al. analysierten 7 Studien zu Bethanechol, eine zu Carbachol und 3 zu Distigmin und kamen zu dem Schluss, dass die Daten keinen oder allenfalls einen geringen Benefit bei der Behandlung der unteraktiven Blase dokumentieren."
+  },
+  {
+    "question": "Welche potentiell lebensbedrohliche UAW wird für Bethanechol in der Leitlinie genannt?",
+    "options": [
+      "Akutes Kreislaufversagen und Herzstillstand.",
+      "Irreversible Niereninsuffizienz.",
+      "Anaphylaktischer Schock bei jeder Anwendung.",
+      "Permanente Erblindung."
+    ],
+    "correct": 0,
+    "tip": "Daneben werden auch Gesichtsröte, Schwindel, Erbrechen, Diarrhöe und Bronchospasmen als UAW genannt.",
+    "explanation": "Zu den seltenen, aber schweren kardiovaskulären Störungen unter Bethanechol gehören laut Leitlinie akutes Kreislaufversagen und Herzstillstand, die potentiell tödlich enden können."
+  },
+  {
+    "question": "Wenn der transurethrale ISK unter keinen Umständen angewandt werden kann, welche Alternativen nennt Kap. 3.3.1.3?",
+    "options": [
+      "Eine suprapubische Blasenfistel (SPBF) oder ein katheterisierbares Stoma (z. B. Mitrofanoff, Yang-Monti).",
+      "Ausschließlich der transurethrale Dauerkatheter als Standardlösung.",
+      "Eine parasympathomimetische Dauertherapie als Ersatz für jede Form der Katheterisierung.",
+      "Eine sofortige Zystektomie."
+    ],
+    "correct": 0,
+    "tip": "Der transurethrale Dauerkatheter soll außer bei Kontraindikationen zur SPBF die seltene Ausnahme bleiben.",
+    "explanation": "Sofern der ISK unter keinen Umständen angewandt werden kann, nennt die Leitlinie die Anlage einer suprapubischen Blasenfistel (SPBF) oder eines katheterisierbaren Stomas (z. B. Mitrofanoff, Yang-Monti) als Alternativen."
+  },
+  {
+    "question": "In der Studie mit 194 Patienten (106 mit QSL) zum Vergleich von Tamsulosin und Naftopidil bei Detrusor-Blasenhals-Dyssynergie zeigte sich welches Ergebnis?",
+    "options": [
+      "Eine signifikante Verbesserung des maximalen Uroflows um 4ml/s und eine Absenkung des Restharns um 20-30ml, ohne Unterschied zwischen den beiden Substanzen.",
+      "Tamsulosin war Naftopidil deutlich überlegen.",
+      "Naftopidil verschlechterte die urodynamischen Parameter signifikant.",
+      "Es zeigte sich keine Veränderung des Uroflows oder Restharns."
+    ],
+    "correct": 0,
+    "tip": "Auf die Detrusor-Sphinkter-Dyssynergie und den externen Sphinkter hatte Tamsulosin dabei kaum Einfluss.",
+    "explanation": "In der Studie mit 194 Patienten zeigte sich eine signifikante Verbesserung des maximalen Uroflows um 4ml/s und eine Absenkung des Restharns um 20-30ml, wobei zwischen der Tamsulosin- und der Naftopidil-Gruppe keine Unterschiede bestanden."
+  },
+  {
+    "question": "In der RCT mit Tamsulosin 0,8mg bei Querschnittlähmung oberhalb T6 zur Prophylaxe der autonomen Dysreflexie wurden welche Ergebnisse berichtet?",
+    "options": [
+      "42% der Tamsulosin-Gruppe wurden symptomfrei gegenüber 32% unter Placebo; Tamsulosin ist aber ausdrücklich nicht zur Therapie der akuten autonomen Dysreflexie geeignet.",
+      "Tamsulosin zeigte keinen Unterschied zu Placebo.",
+      "Tamsulosin ist laut dieser Studie das Mittel der Wahl zur Akuttherapie der autonomen Dysreflexie.",
+      "90% der Patienten unter Tamsulosin wurden vollständig symptomfrei."
+    ],
+    "correct": 0,
+    "tip": "Dies ist ein klassischer Fallstrick: Tamsulosin wirkt nur prophylaktisch, nicht als Akuttherapie der autonomen Dysreflexie.",
+    "explanation": "Unter Tamsulosin 0,8mg wurden 42% (11 von 26 Patienten) symptomfrei gegenüber 32% (6 von 19) unter Placebo; die Leitlinie betont ausdrücklich, dass Tamsulosin keine geeignete Medikation bei akuter autonomer Dysreflexie ist, sondern allenfalls zur Prophylaxe dient."
+  },
+  {
+    "question": "Eine retrospektive Studie mit 120 querschnittgelähmten Patienten zur Kombination von Trospium und Doxazosin ergab welches Ergebnis?",
+    "options": [
+      "Keine Steigerung der Blasenkapazität und keine Minderung des Restharnvolumens.",
+      "Eine deutliche Steigerung der Blasenkapazität um mehr als 50%.",
+      "Eine vollständige Beseitigung des Restharns bei allen Patienten.",
+      "Eine signifikante Verschlechterung der Nierenfunktion."
+    ],
+    "correct": 0,
+    "tip": "Eine Schwäche dieser Studie war die Bezugnahme auf urodynamische Untersuchungen mit einer höheren Füllgeschwindigkeit von 50ml/min.",
+    "explanation": "Die retrospektive Studie mit 120 querschnittgelähmten Patienten zur Kombination von Trospium und Doxazosin ergab keine Steigerung der Blasenkapazität und keine Minderung des Restharnvolumens."
+  },
+  {
+    "question": "Warum hat Phenoxybenzamin laut Leitlinie keinen nennenswerten klinischen Stellenwert mehr?",
+    "options": [
+      "Wegen hypotoner Dysregulation bei den notwendigen hohen Dosierungen und möglicherweise mutagener Wirkung.",
+      "Weil es keine Wirkung auf die quergestreiften Muskelzellen des externen Sphinkters hat.",
+      "Weil es ausschließlich bei Frauen zugelassen ist.",
+      "Weil es inzwischen vollständig vom Markt genommen wurde und nicht mehr existiert."
+    ],
+    "correct": 0,
+    "tip": "Bei hohem Auslasswiderstand und autonomer Dysreflexie kann es aber noch eine Rolle spielen, wenn selektive α1A-Blocker versagen.",
+    "explanation": "Phenoxybenzamin hat laut Leitlinie wegen der hypotonen Dysregulation bei den notwendigen sehr hohen Dosierungen und der möglicherweise mutagenen Wirkung keinen nennenswerten klinischen Stellenwert mehr."
+  },
+  {
+    "question": "Welche maximale Tagesdosis wird in Tabelle 8 für Silodosin genannt, und bei welcher Nierenfunktion ist es kontraindiziert?",
+    "options": [
+      "8mg 1x täglich; kontraindiziert bei einer GFR <30.",
+      "0,4mg 1x täglich; kontraindiziert bei jeder Niereninsuffizienz.",
+      "10mg 1x täglich; keine Kontraindikation bei Niereninsuffizienz.",
+      "8mg 3x täglich ohne Einschränkungen."
+    ],
+    "correct": 0,
+    "tip": "Silodosin wird abends unzerkaut eingenommen; bei GFR 30-50 wird mit 4mg für eine Woche eingeschlichen.",
+    "explanation": "Laut Tabelle 8 beträgt die Dosierung von Silodosin 8mg 1x täglich (unzerkaut); bei einer GFR <30 ist die Substanz kontraindiziert."
+  },
+  {
+    "question": "Welche Aussage zur Empfehlung 6c (Detrusor-Blasenhals-Dyssynergie) ist korrekt?",
+    "options": [
+      "Bei Detrusor-Blasenhals-Dyssynergie mit und ohne autonome Dysreflexie sollen alternative Therapien wie die antimuskarinerge Therapie und der IK angeboten werden (Konsens 94,7%).",
+      "Eine antimuskarinerge Therapie ist bei Detrusor-Blasenhals-Dyssynergie grundsätzlich kontraindiziert.",
+      "Der IK ist bei dieser Indikation laut Empfehlung 6c nicht vorgesehen.",
+      "Empfehlung 6c bezieht sich ausschließlich auf chirurgische Maßnahmen."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung ergänzt den Einsatz der selektiven α1-Adrenozeptor-Antagonisten aus Empfehlung 6a/6b.",
+    "explanation": "Empfehlung 6c besagt mit einem Konsens von 94,7%, dass bei Detrusor-Blasenhals-Dyssynergie mit und ohne autonome Dysreflexie alternative Therapien wie die antimuskarinerge Therapie und der IK angeboten werden sollen."
+  }
+]

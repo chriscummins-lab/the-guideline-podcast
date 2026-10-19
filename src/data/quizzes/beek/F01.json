@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein Neugeborenes zeigt eine epispade Harnröhrenrinne, eine klaffende Symphyse und eine breite, offen liegende Blasenplatte mit dorsal übergehender Harnröhrenrinne. Wo ordnet die Leitlinie diesen Befund im Spektrum des Blasenekstrophie-Epispadie Komplex (BEEK) ein?",
+    "options": [
+      "Als klassische Blasenekstrophie – das Vollbild zwischen der milderen Epispadie/Fissur und der extremen Kloakenekstrophie.",
+      "Als Kloakenekstrophie, da jede offene Blasenplatte automatisch den Enddarm miteinbezieht.",
+      "Als isolierte Epispadie, da die Harnröhrenrinne das führende Merkmal ist.",
+      "Als Normvariante ohne Krankheitswert, da eine offene Blasenplatte beim Neugeborenen physiologisch ist."
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie beschreibt ein Spektrum mit fließenden Übergängen von der mildesten bis zur extremsten Form.",
+    "explanation": "Das BEEK-Spektrum reicht von der Epispadie als mildester Form über die untere und obere Fissur bis zum Vollbild der klassischen Blasenekstrophie; die Kloakenekstrophie ist die Extremform, die zusätzlich den rudimentären Dickdarm (\"hindgut\") miteinbezieht."
+  },
+  {
+    "question": "Welche Befunde sollen laut Empfehlung 2.1 bei einem Jungen mit Verdacht auf Epispadie orientierend präoperativ erfasst werden?",
+    "options": [
+      "Meatusposition, Harnröhrenrinne, Dorsalflexion des Penis, palpatorische Symphysenweite sowie begleitende Anomalien wie vergrabener Penis oder Urethralduplikatur.",
+      "Ausschließlich die Meatusposition, alle weiteren Befunde sind für das Management ohne Belang.",
+      "Eine primäre urodynamische Untersuchung in Narkose als Basisdiagnostik direkt nach Geburt.",
+      "Eine Kernspintomographie des Beckens zur Beurteilung der Corpora cavernosa."
+    ],
+    "correct": 0,
+    "tip": "Die Empfehlung unterscheidet explizit zwischen den bei Jungen und bei Mädchen zu erfassenden Befunden.",
+    "explanation": "Empfehlung 2.1 (Konsensstärke 100 %) fordert bei Jungen die Erfassung von Meatusposition, Harnröhrenrinne, Dorsalflexion, palpatorischer Symphysenweite sowie begleitenden Genitalanomalien wie vergrabenem Penis oder Urethralduplikatur."
+  },
+  {
+    "question": "Ein 6-jähriges Mädchen wird seit Jahren wegen vermeintlich funktionellem Einnässen behandelt. Erst die genitale Inspektion zeigt divergierende Labien und eine bifide Klitoris. Welcher Anteil der Epispadie-Betroffenen weist laut Leitlinie zusätzlich einen vesikoureteralen Reflux auf?",
+    "options": [
+      "31 %, abhängig vom Phänotyp.",
+      "Nahezu 100 %, VUR ist bei Epispadie obligat.",
+      "Unter 1 %, VUR tritt bei Epispadie praktisch nie auf.",
+      "Dazu macht die Leitlinie keine Angabe."
+    ],
+    "correct": 0,
+    "tip": "Die weibliche Epispadie wird häufig verkannt, weil die kontinuierliche Inkontinenz fälschlich als funktionelle Störung gedeutet wird.",
+    "explanation": "Laut Hintergrundinformationen zu 2.1 ist bei Epispadie in 31 % der Fälle, abhängig vom Phänotyp, ein vesikoureteraler Reflux vergesellschaftet."
+  },
+  {
+    "question": "Was versteht die Leitlinie unter einer \"verborgenen\" oder \"concealed\" Epispadie?",
+    "options": [
+      "Eine Epispadie mit geschlossenem Präputium, z. B. bei vergrabenem Penis oder kompletter Phimose, die oft erst intraoperativ beim Spalten oder Lösen der Vorhaut entdeckt wird.",
+      "Eine Epispadie, die pränatal sonographisch immer sicher erkannt wird.",
+      "Eine Epispadie ausschließlich bei Mädchen mit normalem äußeren Genitale.",
+      "Eine Epispadie, die sich erst im Erwachsenenalter spontan manifestiert."
+    ],
+    "correct": 0,
+    "tip": "Ein geschlossenes Präputium kann den eigentlichen Urethraldefekt optisch verdecken.",
+    "explanation": "Epispadien kommen selten auch mit geschlossenem Präputium vor, etwa bei vergrabenem Penis oder kompletter Phimose, als sogenannte verborgene oder \"concealed\" Epispadie – meist wird sie erst intraoperativ beim Spalten oder Lösen des Präputiums entdeckt."
+  },
+  {
+    "question": "Nach welcher Klassifikation wird die Epispadie beim Mädchen in drei Ausprägungen eingeteilt?",
+    "options": [
+      "Nach Mücke & Marschall (1968), unterschieden in vestibulär/partiell-inkomplett, subsymphysär/komplett-retrosymphysär und inferiore Variante der Blasenekstrophie.",
+      "Nach der TNM-Klassifikation, analog onkologischer Stadieneinteilungen.",
+      "Nach Gearhart, basierend ausschließlich auf sonographischen Kriterien.",
+      "Es existiert keine etablierte Klassifikation für die weibliche Epispadie."
+    ],
+    "correct": 0,
+    "tip": "Die Einteilung bezieht sich auf das Ausmaß des Urethradefektes und der klinischen Harninkontinenz.",
+    "explanation": "Die Einteilung der weiblichen Epispadie erfolgt nach Mücke & Marschall (1968) in drei Ausprägungen: vestibulär/partiell-inkomplett, subsymphysär/komplett und retrosymphysär mit prolabierender Blasenschleimhaut, oder als inferiore Variante der Blasenekstrophie."
+  },
+  {
+    "question": "Welche Aussage zu Tabelle 5 (betroffene Organsysteme bei klassischer Blasenekstrophie) ist korrekt?",
+    "options": [
+      "Das vordere Becken ist um etwa 18° außenrotiert, das hintere um etwa 12°, und die Schambeinäste sind um rund 30 % verkürzt.",
+      "Das Skelettsystem ist bei der klassischen Blasenekstrophie praktisch nie betroffen.",
+      "Die Symphysendiastase beträgt bei Geburt im Mittel 10 cm.",
+      "Herzvitien treten bei BEEK nicht häufiger auf als in der Allgemeinbevölkerung."
+    ],
+    "correct": 0,
+    "tip": "Tabelle 5 beschreibt die klassische Blasenekstrophie als Mehrorgan-Fehlbildung – vom Becken bis zur Blasenwand.",
+    "explanation": "Laut Tabelle 5 zeigt das Spaltbecken eine Außenrotation des vorderen Beckens um 18° und des hinteren um 12° bei einer Verkürzung der Rami pubes um 30 %; die Symphysendiastase beträgt bei Geburt meist 4 cm, und Herzvitien treten mit 17–19 % deutlich häufiger auf als in der Allgemeinbevölkerung (1,08 %)."
+  },
+  {
+    "question": "Wie häufig ist die klassische Blasenekstrophie laut den in der Leitlinie zitierten Geburtenprävalenz-Schätzungen ungefähr?",
+    "options": [
+      "Etwa 1 zu 37.000 Geburten.",
+      "Etwa 1 zu 3.700 Geburten.",
+      "Etwa 1 zu 370.000 Geburten, also seltener als die Kloakenekstrophie.",
+      "Etwa 1 zu 3.700.000 Geburten."
+    ],
+    "correct": 0,
+    "tip": "Zum Vergleich: Die Epispadie ist mit ca. 2,4/100.000 häufiger, die Kloakenekstrophie mit ca. 1:300.000 seltener.",
+    "explanation": "Die geschätzte Geburtenprävalenz für die klassische Blasenekstrophie beträgt etwa 1 zu 37.000, für die Epispadie etwa 2,4 pro 100.000 und für die Kloakenekstrophie etwa 1 zu 300.000."
+  },
+  {
+    "question": "Eltern eines Jungen mit klassischer Blasenekstrophie haben nach ICSI ein zweites Kind geplant. Um welchen Faktor ist das Risiko für einen BEEK bei assistierter Reproduktion (IVF/ICSI) im Vergleich zur spontanen Konzeption laut Leitlinie erhöht?",
+    "options": [
+      "Um mehr als das 8-fache (Odds Ratio 8,3).",
+      "Um etwa das 1,5-fache.",
+      "Um das 400-fache, analog dem Wiederholungsrisiko für Nachkommen Betroffener.",
+      "Assistierte Reproduktion hat laut Leitlinie keinen Einfluss auf das BEEK-Risiko."
+    ],
+    "correct": 0,
+    "tip": "Nicht verwechseln mit dem 400-fach erhöhten Wiederholungsrisiko für Nachkommen bereits Betroffener – das ist ein anderer Risikofaktor.",
+    "explanation": "Zwink und Kolleg*innen identifizierten ein mehr als achtfach erhöhtes Risiko für das Auftreten des BEEK bei assistierter Reproduktion im Vergleich zur spontanen Konzeption (OR 8,3; 95 % KI 4,6–15,0)."
+  },
+  {
+    "question": "Wie hoch ist das beobachtete Wiederholungsrisiko für Nachkommen eines selbst vom BEEK betroffenen Elternteils, und wie verhält sich dies zur Allgemeinbevölkerung?",
+    "options": [
+      "1,4 %, das entspricht einer 400-fach erhöhten Wahrscheinlichkeit gegenüber der Allgemeinbevölkerung.",
+      "0,3–2,3 %, identisch mit dem Wiederholungsrisiko für Geschwister.",
+      "50 %, entsprechend einem autosomal-dominanten Erbgang.",
+      "Es besteht kein erhöhtes Risiko gegenüber der Allgemeinbevölkerung."
+    ],
+    "correct": 0,
+    "tip": "Das Wiederholungsrisiko für Geschwister liegt niedriger, nämlich bei 0,3–2,3 %.",
+    "explanation": "Das beobachtete Wiederholungsrisiko für Nachkommen selbst betroffener Personen liegt bei 1,4 % und damit 400-fach über dem Risiko der Allgemeinbevölkerung; das Risiko für Geschwister liegt bei 0,3–2,3 %."
+  },
+  {
+    "question": "Die Eltern aus dem einleitenden Fall fragen explizit nach einem \"Gentest in der nächsten Schwangerschaft\" auf die 22q11.2-Mikroduplikation. Was ist hierzu laut Empfehlung 3.3 und 3.4 korrekt?",
+    "options": [
+      "Eine postnatale Testung auf 22q11.2-Mikroduplikation kann Betroffenen oder Eltern angeboten werden (Detektionsrate 1–3 %), eine pränatale Testung soll dagegen nicht angeboten werden.",
+      "Sowohl die postnatale als auch die pränatale Testung auf 22q11.2-Mikroduplikation sollen routinemäßig angeboten werden.",
+      "Weder die postnatale noch die pränatale Testung sind jemals indiziert.",
+      "Die pränatale Testung soll angeboten werden, weil sie entscheidende beratungsrelevante Zusatzinformationen liefert."
+    ],
+    "correct": 0,
+    "tip": "Der Unterschied liegt im Zeitpunkt der Testung – postnatal \"kann\", pränatal \"soll nicht\".",
+    "explanation": "Empfehlung 3.3 (Empfehlungsgrad 0) erlaubt das Anbieten einer Testung auf 22q11.2-Mikroduplikation bei Detektionsraten von 1–3 % postnatal im Rahmen einer humangenetischen Beratung, während Empfehlung 3.4 (EK) festlegt, dass eine pränatale Testung auf diese Mikroduplikation nicht angeboten werden soll, da sie keine relevante beratungsrelevante Zusatzinformation liefert."
+  }
+]

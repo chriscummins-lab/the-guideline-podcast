@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein 61-jähriger Mann mit inkompletter Querschnittlähmung, Engwinkelglaukom, Vorhofflimmern unter Digoxin und grenzwertigem Blutdruck benötigt eine Alternative zu Antimuskarinika. Welche Substanz kommt laut Kap. 3.2.9.2 als primäre Indikation in Betracht?",
+    "options": [
+      "Mirabegron, da es ohne anticholinerge Last wirkt, allerdings mit Vorsicht bei Digoxin-Komedikation und Blutdruckkontrolle.",
+      "Oxybutynin in hoher Dosierung, da das Engwinkelglaukom keine Kontraindikation darstellt.",
+      "Ein trizyklisches Antidepressivum als Mittel der ersten Wahl bei Glaukom.",
+      "Phenoxybenzamin als risikoärmste Alternative bei Herzrhythmusstörungen."
+    ],
+    "correct": 0,
+    "tip": "Unkontrolliertes Engwinkelglaukom ist eine der klassischen Kontraindikationen gegen Antimuskarinika, die primär für den Einsatz von Mirabegron sprechen.",
+    "explanation": "Mirabegron kommt primär bei Kontraindikationen gegenüber Antimuskarinika wie unkontrolliertem Engwinkelglaukom in Betracht; es ist aber ein schwacher p-Glykoprotein-Inhibitor, was bei der Komedikation mit Digoxin (geringe therapeutische Breite) zur Steigerung des Serumspiegels führen kann, und der Blutdruck muss wegen möglicher Hypertonie kontrolliert werden."
+  },
+  {
+    "question": "Welche Kontraindikation nennt die Leitlinie ausdrücklich für den Einsatz von Mirabegron?",
+    "options": [
+      "Schwere, unbehandelte Hypertonie mit systolisch >180mmHg oder diastolisch >110mmHg.",
+      "Ein frequenzkontrolliertes Vorhofflimmern.",
+      "Eine stabile koronare Herzkrankheit.",
+      "Ein eingestellter Hypertonus."
+    ],
+    "correct": 0,
+    "tip": "Bei den drei anderen genannten Zuständen bestehen laut Leitlinie ausdrücklich keine Einschränkungen der Anwendung.",
+    "explanation": "Kontraindiziert ist Mirabegron bei schwerer, unbehandelter Hypertonie (systolisch >180mmHg, diastolisch >110mmHg); bei eingestelltem Hypertonus, stabiler KHK und frequenzkontrolliertem Vorhofflimmern bestehen dagegen keine Einschränkungen."
+  },
+  {
+    "question": "Cameron et al. berichteten über 77 Patienten mit Kombinationstherapien aus Antimuskarinikum, Antidepressivum und α-Blocker. Welchen Effekt zeigte die Dreifachkombination?",
+    "options": [
+      "Eine Senkung des intravesikalen Drucks um 67% und eine Steigerung der Compliance um nahezu den Faktor 10.",
+      "Keine messbare Veränderung gegenüber der jeweiligen Monotherapie.",
+      "Eine Drucksteigerung um 67% bei unveränderter Compliance.",
+      "Ausschließlich eine Verbesserung der Lebensqualität ohne urodynamische Effekte."
+    ],
+    "correct": 0,
+    "tip": "Trotz dieser deutlichen Verbesserung benötigten einige Patienten zusätzlich chirurgische Maßnahmen wie eine Detrusormyektomie.",
+    "explanation": "Die Dreifachkombination aus Antimuskarinikum, Antidepressivum und α-Blocker erwies sich in der Studie von Cameron et al. als am effektivsten, mit einer Senkung des intravesikalen Drucks um 67% und einer Compliancesteigerung nahe dem Faktor 10."
+  },
+  {
+    "question": "Welche UAW ist bei trizyklischen Antidepressiva wie Imipramin laut Leitlinie der häufigste Grund für einen Therapieabbruch?",
+    "options": [
+      "Tachykardie/Tachyarrhythmie, oft schon nach der ersten Einnahme.",
+      "Obstipation.",
+      "Mundtrockenheit.",
+      "Gewichtsverlust."
+    ],
+    "correct": 0,
+    "tip": "Diese kardiale Nebenwirkung kann bereits bei der ersten Einnahme des Medikaments auftreten.",
+    "explanation": "Die Tachykardie/Tachyarrhythmie ist der häufigste Grund, eine Therapie mit trizyklischen Antidepressiva (z. B. Imipramin) zu beenden – oft bereits nach der ersten Einnahme."
+  },
+  {
+    "question": "Welche Dosierung von Mirabegron wird in der Leitlinie für Erwachsene genannt, und was wird zu ihrer Herkunft angemerkt?",
+    "options": [
+      "1x täglich 50mg; die Dosierung sei eher Ergebnis eines Rechtsstreits als von Dosisfindungsstudien im Sinne einer Therapieempfehlung.",
+      "1x täglich 200mg, basierend auf umfangreichen Dosisfindungsstudien.",
+      "3x täglich 25mg, zugelassen speziell für NDÜ.",
+      "Die Dosierung richtet sich ausschließlich nach dem Körpergewicht wie bei Kindern."
+    ],
+    "correct": 0,
+    "tip": "Die Tablette darf dabei nicht zerkaut, geteilt oder zerstoßen werden.",
+    "explanation": "Die genannte Dosierung ist 1x täglich 50mg; die Leitlinie merkt ausdrücklich an, dass diese gebräuchliche Dosierung eher das Ergebnis eines Rechtsstreits als von Dosisfindungsstudien im Sinne einer Therapieempfehlung ist."
+  },
+  {
+    "question": "In einer placebokontrollierten Studie mit 66 Patienten mit NDÜ (Querschnittlähmung, Multiple Sklerose) unter Mirabegron traten Nebenwirkungen in welchem Ausmaß auf?",
+    "options": [
+      "Nur in 3,1% der Fälle.",
+      "In über 50% der Fälle.",
+      "Bei allen Patienten.",
+      "Es wurde keine Angabe zu Nebenwirkungen gemacht."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht das im Vergleich zu Antimuskarinika günstigere Nebenwirkungsprofil von Mirabegron.",
+    "explanation": "In einer placebokontrollierten Studie mit 66 Patienten mit NDÜ (QSL, MS) traten unter Mirabegron nur in 3,1% der Fälle Nebenwirkungen auf."
+  },
+  {
+    "question": "Welche Aussage zu Empfehlung 3 (Sympathomimetika bei NLUTD) trifft zu?",
+    "options": [
+      "Bei Versagen/UAW von Antimuskarinika kann Mirabegron im Off-Label-Use für die Therapie der NDÜ eingesetzt werden (Empfehlung 3a, Konsens 100%).",
+      "Mirabegron soll laut Empfehlung 3a nie mit Antimuskarinika kombiniert werden.",
+      "Bei Therapieversagen soll laut Empfehlung 3d keine weitere Therapieoption angeboten werden.",
+      "Mirabegron ist laut Empfehlung 3a in Deutschland offiziell für die NDÜ zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Empfehlung 3b erlaubt sogar ausdrücklich Kombinationen wie Antimuskarinikum + trizyklisches Antidepressivum oder + β3-Sympathomimetikum.",
+    "explanation": "Empfehlung 3a besagt mit 100% Konsens, dass bei Versagen oder UAW von Antimuskarinika das β3-Sympathomimetikum Mirabegron im Off-Label-Use für die NDÜ-Therapie eingesetzt werden kann."
+  },
+  {
+    "question": "Welche Substanzen wurden in der Metaanalyse zu Vanilloiden (Capsaicin, Resiniferatoxin) bei NLUTD infolge MS untersucht, und zu welchem Ergebnis kam diese?",
+    "options": [
+      "Eine Abnahme der Inkontinenzepisoden ohne signifikante Verbesserung der maximalen zystometrischen Kapazität, bei UAW bei über 50% der Patienten.",
+      "Eine deutliche Verbesserung sowohl der Inkontinenzepisoden als auch aller urodynamischen Parameter ohne relevante UAW.",
+      "Keine Wirkung auf irgendeinen Parameter bei vollständiger Nebenwirkungsfreiheit.",
+      "Eine Zulassung dieser Substanzen für die Therapie der NDÜ in Deutschland."
+    ],
+    "correct": 0,
+    "tip": "Zu den häufigsten UAW zählten Beckenschmerz, Hitzewallung, Verschlimmerung der Harninkontinenz, autonome Dysreflexie und HWI.",
+    "explanation": "Die Metaanalyse zu Vanilloiden bei MS zeigte eine Abnahme der Inkontinenzepisoden und der Miktionsfrequenz, aber keinen signifikanten Unterschied bei maximaler zystometrischer Kapazität und Speicherdruck; mehr als 50% der Patienten beklagten UAW, sodass diese Substanzen heute keine klinische Bedeutung mehr haben."
+  },
+  {
+    "question": "Resiniferatoxin unterscheidet sich von Capsaicin vor allem durch welche Eigenschaft?",
+    "options": [
+      "Es ist etwa 1.000-mal potenter als Capsaicin.",
+      "Es wirkt ausschließlich an myelinisierten A-Fasern.",
+      "Es ist in Deutschland als zugelassenes Fertigarzneimittel verfügbar.",
+      "Es hat ein deutlich günstigeres Nebenwirkungsprofil als Capsaicin."
+    ],
+    "correct": 0,
+    "tip": "Beide Substanzen wirken an Vanilloidrezeptoren der nichtmyelinisierten C-Fasern.",
+    "explanation": "Resiniferatoxin ist laut Leitlinie etwa 1.000-mal potenter als Capsaicin und wirkt wie dieses über eine Inaktivierung der Vanilloidrezeptoren an C-Fasern nach einer passageren Exzitationsphase."
+  },
+  {
+    "question": "Mirabegron ist als moderater bzw. schwacher Inhibitor welcher Enzyme bzw. Transportproteine einzustufen, was bei Komedikation beachtet werden muss?",
+    "options": [
+      "Moderater Inhibitor von CYP2D6, schwacher Inhibitor von CYP3A4 und des p-Glykoproteins.",
+      "Starker Induktor von CYP3A4 ohne Relevanz für andere Medikamente.",
+      "Mirabegron hat keinerlei Einfluss auf Cytochrom-P450-Enzyme.",
+      "Starker Inhibitor der Monoaminoxidase."
+    ],
+    "correct": 0,
+    "tip": "Beispiele für betroffene Komedikationen sind Metoprolol, Desipramin und Digoxin.",
+    "explanation": "Mirabegron ist ein moderater Inhibitor von CYP2D6 und ein schwacher Inhibitor von CYP3A4 sowie des p-Glykoproteins, was z. B. bei Metoprolol, Desipramin oder Digoxin zu beachten ist."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ein Kollege möchte nur eine isolierte intravesikale Druckmessung zur Bestimmung des Leak-Point-Pressure durchführen, ohne rektale Druckmessung. Was sagt die Leitlinie dazu?",
+    "options": [
+      "Die alleinige Bestimmung des LPP ohne rektale Druckmessung ist nicht sinnvoll, da autonome Detrusorkontraktionen und der Anstieg des Detrusordrucks wesentliche Parameter sind.",
+      "Dies ist der Goldstandard und wird ausdrücklich empfohlen.",
+      "Eine rektale Druckmessung ist bei Kindern generell verzichtbar.",
+      "Die isolierte Messung ist nur bei Jugendlichen zulässig."
+    ],
+    "correct": 0,
+    "tip": "Die orientierende Druckmessung kann mit geringerem Aufwand erfolgen, ersetzt aber nicht die Einordnung der abdominellen Druckverhältnisse.",
+    "explanation": "Die alleinige Bestimmung des LPP ohne rektale Druckmessung ist laut Leitlinie nicht sinnvoll, da das Auftreten autonomer Detrusorkontraktionen und der Anstieg des Detrusordrucks wesentliche Beurteilungsparameter sind."
+  },
+  {
+    "question": "Wie unterscheidet sich der Detrusor-Leak-Point-Pressure (DLPP) vom Valsalva- bzw. Cough-Leak-Point-Pressure?",
+    "options": [
+      "Der DLPP entsteht durch eine Detrusordrucksteigerung ohne relevanten Beitrag des intraabdominellen Drucks, während Valsalva- und Cough-LPP auf einem erhöhten intraabdominellen Druck beruhen.",
+      "Beide Werte sind identisch und nur unterschiedlich benannt.",
+      "Der Valsalva-LPP wird ausschließlich beim schlafenden Kind gemessen.",
+      "Der DLPP ist per Definition immer höher als der Cough-LPP."
+    ],
+    "correct": 0,
+    "tip": "Beim Husten oder Pressen trägt vor allem der intraabdominelle Druck zum Urinverlust bei, nicht die Detrusoraktivität.",
+    "explanation": "Als DLPP wird der Wert bezeichnet, bei dem es infolge einer Detrusordrucksteigerung zum Urinverlust kommt, ohne dass eine Erhöhung des intraabdominellen Drucks wesentlich beiträgt; beim Valsalva- bzw. Cough-LPP ist der Urinverlust dagegen auf den erhöhten intraabdominellen Druck zurückzuführen."
+  },
+  {
+    "question": "Bei einem Säugling zeigt sich urodynamisch bis 60 cm H2O kein Urinverlust. Welchen Fallstrick beschreibt die Leitlinie in diesem Zusammenhang?",
+    "options": [
+      "Eine erhöhte Spastizität des Beckenbodens kann trotz hoher intravesikaler Drücke Urinverlust verhindern und das tatsächliche Risiko für den oberen Harntrakt fälschlicherweise als zu niedrig erscheinen lassen.",
+      "Fehlender Urinverlust bis 60 cm H2O beweist zuverlässig eine normale Blasenfunktion.",
+      "Der Wert zeigt, dass keine weiteren Kontrollen notwendig sind.",
+      "Hohe Drücke ohne Urinverlust kommen bei neurogener Blase nie vor."
+    ],
+    "correct": 0,
+    "tip": "Bei nachlassender Beckenbodenspastizität kann der Urinverlust dann bereits bei niedrigeren Drücken auftreten.",
+    "explanation": "Bei erhöhter Spastizität des Beckenbodens kann es trotz hoher intravesikaler Drücke nicht zum Urinverlust kommen; dieser tritt dann erst bei nachlassender Spastizität unter niedrigeren Drücken auf, wodurch ein hohes Risiko für den oberen Harntrakt fälschlich als zu niedrig eingeschätzt würde."
+  },
+  {
+    "question": "Welche Katheterstärke wird für die Zystomanometrie zur Vermeidung einer Obstruktion des LPP durch den Katheter selbst empfohlen?",
+    "options": [
+      "6 Charr.",
+      "12 Charr.",
+      "18 Charr.",
+      "Die Katheterstärke hat laut Leitlinie keinen Einfluss auf den LPP."
+    ],
+    "correct": 0,
+    "tip": "Ein großlumiger Katheter kann durch eine Obstruktion den gemessenen LPP verfälschen.",
+    "explanation": "Empfehlenswert ist ein Katheter der Stärke 6 Charr., da der LPP durch eine mögliche Obstruktion durch einen großlumigen Katheter beeinflusst wird."
+  },
+  {
+    "question": "Was zeigte eine Cochrane-Analyse zur Antibiotikaprophylaxe vor urodynamischer Untersuchung?",
+    "options": [
+      "Eine signifikante Reduktion der Bakteriurie von 12 % auf 4 %, aber keinen signifikanten Unterschied bei symptomatischen HWI, Fieber oder Dysurie.",
+      "Eine signifikante Reduktion symptomatischer HWI, aber keinen Effekt auf die Bakteriurie.",
+      "Keinen Effekt auf irgendeinen Parameter.",
+      "Eine Erhöhung der Bakteriurierate durch die Prophylaxe."
+    ],
+    "correct": 0,
+    "tip": "Vor der Urodynamik sollte dennoch bei signifikanter Keimzahl eine resistenzgerechte antibiotische Therapie erwogen werden.",
+    "explanation": "Die Cochrane-Analyse zeigte, dass eine Antibiotikaprophylaxe das Risiko einer Bakteriurie signifikant von 12 % auf 4 % reduziert, sich aber kein signifikanter Unterschied in der Anzahl symptomatischer HWI, Fieber oder Dysurie zeigte."
+  },
+  {
+    "question": "Welche Temperatur und Zusammensetzung des Füllmediums sowie welche Füllungsrate werden für die Videourodynamik bei Kindern empfohlen?",
+    "options": [
+      "30–37 °C warmes Gemisch aus 0,9%iger Kochsalzlösung und Kontrastmittel im Verhältnis 2:1, Füllungsrate 5–30 ml/min entsprechend 5–10 % der erwarteten Blasenkapazität.",
+      "Raumtemperiertes reines Kontrastmittel mit einer Füllungsrate von 100 ml/min.",
+      "Körperwarmes destilliertes Wasser ohne Kontrastmittel.",
+      "Eiskaltes Kochsalz-Kontrastmittel-Gemisch zur besseren Detrusorstimulation."
+    ],
+    "correct": 0,
+    "tip": "Die Füllungsrate orientiert sich am Patientenalter und soll Artefakte durch zu schnelle Füllung vermeiden.",
+    "explanation": "Die Füllungsrate des 30–37 °C warmen Gemisches aus physiologischer Kochsalzlösung (0,9 %) und Kontrastmittel (2:1) beträgt 5–30 ml/min entsprechend dem Patientenalter (5–10 % der erwarteten Blasenkapazität)."
+  },
+  {
+    "question": "Ab welchem Alter wird das Auftreten messbarer autonomer Detrusorkontraktionen in der Videourodynamik als Detrusorüberaktivität gewertet?",
+    "options": [
+      "Bei Kindern über 5 Jahren.",
+      "Bei allen Kindern unabhängig vom Alter.",
+      "Erst nach Abschluss der Pubertät.",
+      "Nur im ersten Lebensjahr."
+    ],
+    "correct": 0,
+    "tip": "Bei jüngeren Kindern bzw. Säuglingen ist diese Einordnung schwieriger und erfordert eine differenzierte Beurteilung der Druckkurve.",
+    "explanation": "Bei Kindern über 5 Jahren wird das Auftreten messbarer autonomer Detrusorkontraktionen als Detrusorüberaktivität gewertet."
+  },
+  {
+    "question": "Welchen Zusatznutzen bringen Carbacholtest und Eiswassertest laut Leitlinie bei Kindern mit neurogener Blase bei MMC?",
+    "options": [
+      "Der Carbacholtest erbringt keine zusätzlichen Erkenntnisse, der Eiswassertest kann nur in Ausnahmefällen bei sehr tiefer Läsion einen Hinweis auf den sakralen Reflexbogen geben.",
+      "Beide Tests sind obligater Bestandteil jeder Videourodynamik.",
+      "Der Carbacholtest ersetzt die Messung des DLPP vollständig.",
+      "Beide Tests sind bei spinaler Dysraphie kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Diese Zusatztests spielen in der klinischen Routine daher nur eine untergeordnete Rolle.",
+    "explanation": "Der Carbacholtest erbringt bei Kindern mit neurogener Blasenstörung bei MMC keine zusätzlichen Erkenntnisse; der Eiswassertest kann in Ausnahmefällen (sehr tief liegende Läsion) einen Hinweis geben, ob der sakrale Reflexbogen intakt ist."
+  },
+  {
+    "question": "Welche Besonderheit gilt für die Durchführung eines Urethradruckprofils bei Kindern laut Leitlinie?",
+    "options": [
+      "Es gibt bisher keine Normwerte für Kinder, die Untersuchung kann aber bei älteren Kindern vor einer geplanten Inkontinenz-Operation zur Beurteilung der Sphinkterkompetenz sinnvoll sein.",
+      "Es existieren etablierte pädiatrische Normwerte seit den 1990er-Jahren.",
+      "Es wird routinemäßig bei jedem Säugling durchgeführt.",
+      "Es ersetzt die Zystomanometrie bei DSD vollständig."
+    ],
+    "correct": 0,
+    "tip": "Die Durchführung erfolgt analog zur Erwachsenentechnik mittels Mikrotip- oder Perfusionskatheter bei etwa halbmaximaler Blasenfüllung.",
+    "explanation": "Ein Urethradruckprofil kann bei älteren Kindern und Jugendlichen mit Harninkontinenz vor einer erwogenen operativen Intervention die Beurteilung der Sphinkterkompetenz erlauben; Normwerte für Kinder gibt es bisher nicht."
+  },
+  {
+    "question": "Welchen klinischen Stellenwert hat die Langzeiturodynamik laut Leitlinie derzeit bei Kindern mit neurogener Blase infolge spinaler Dysraphie?",
+    "options": [
+      "Trotz des Vorteils der natürlichen Blasenfüllung hat sie aufgrund bestehender technischer und apparativer Probleme derzeit keine klinische Relevanz.",
+      "Sie hat die konventionelle Videourodynamik bereits vollständig ersetzt.",
+      "Sie ist bei Säuglingen Standardverfahren der Basisdiagnostik.",
+      "Sie wird bei jedem Verdacht auf tethered cord routinemäßig eingesetzt."
+    ],
+    "correct": 0,
+    "tip": "Sie könnte vor allem bei Diskrepanz zwischen Klinik und einem unauffälligen Videourodynamik-Befund repräsentativere Ergebnisse liefern.",
+    "explanation": "Ein Vorteil der Langzeiturodynamik ist die natürliche Blasenfüllung bei relativ ungestörter Aktivität des Kindes; bei Kindern mit neurogener Blase infolge spinaler Dysraphie hat sie aufgrund weiter bestehender technischer und apparativer Probleme derzeit jedoch keine klinische Relevanz."
+  }
+]

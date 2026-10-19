@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei Bedingungen müssen nach der BSG-Definition (für Deutschland) für einen zulässigen Off-Label-Use erfüllt sein?",
+    "options": [
+      "Schwerwiegende bzw. die Lebensqualität nachhaltig beeinträchtigende Erkrankung, keine zugelassene Alternative verfügbar, begründete Aussicht auf Behandlungserfolg.",
+      "Zustimmung der Krankenkasse, Zustimmung des Patienten, Dokumentation im Arztbrief.",
+      "Seltene Erkrankung, hohe Kosten der Alternative, Verfügbarkeit von Tierversuchsdaten.",
+      "Zulassung in einem anderen EU-Land, Nennung in einer Leitlinie, Verordnung durch einen Facharzt."
+    ],
+    "correct": 0,
+    "tip": "Das Bundessozialgericht (BSG, Az: B1 KR 37/00R) hat diese Kriterien für die gesetzliche Krankenversicherung aufgestellt.",
+    "explanation": "Die Leitlinie zitiert die BSG-Definition: Off-Label-Use setzt eine schwerwiegende, die Lebensqualität auf Dauer nachhaltig beeinträchtigende Erkrankung voraus, das Fehlen einer zugelassenen Therapiealternative und die aufgrund der Datenlage begründete Aussicht auf einen Behandlungserfolg."
+  },
+  {
+    "question": "Warum verwendet die Leitlinie bewusst nicht den international gebräuchlichen Begriff „clean intermittent catheterization – CIC“, sondern spricht von IK/ISK/IFK?",
+    "options": [
+      "Weil beim CIC unsterile Gleitmittel und aufbereitete, aber nicht sterile Katheter verwendet werden, was in Deutschland nach dem Medizinproduktegesetz nicht zulässig ist.",
+      "Weil CIC ein geschützter Markenbegriff eines Herstellers ist.",
+      "Weil CIC ausschließlich für Kinder verwendet wird.",
+      "Weil die ICS-Terminologie den Begriff CIC inzwischen verboten hat."
+    ],
+    "correct": 0,
+    "tip": "Es geht um den Unterschied zwischen „sauber“ und „steril“ bei Gleitmitteln und Kathetern.",
+    "explanation": "Die Leitlinie begründet die bewusste Abgrenzung damit, dass beim in anderen Ländern üblichen CIC unsterile Gleitmittel und wiederaufbereitete, nicht sterile Katheter verwendet werden – das ist in Deutschland laut Medizinproduktegesetz (MPG) nicht möglich."
+  },
+  {
+    "question": "Ein Paraplegiker sub T8 fragt in der Sprechstunde, warum er trotz regelmäßigem ISK noch „Blasentabletten“ nehmen soll. Was ist nach Kap. 3.1 das vorrangige Therapieziel, das dies begründet?",
+    "options": [
+      "Der Schutz der Nierenfunktion durch Wiederherstellung eines Niederdruckreservoirs, nicht allein die Kontinenz.",
+      "Ausschließlich die vollständige Harnkontinenz ohne Rücksicht auf die Blasendrücke.",
+      "Die Vermeidung jeglicher Medikation, da der ISK allein ausreicht.",
+      "Die Verbesserung der Erektionsfähigkeit."
+    ],
+    "correct": 0,
+    "tip": "Kontinenz als alleiniges Ziel ist ein in der Leitlinie ausdrücklich genannter Fallstrick – der obere Harntrakt kann trotzdem unter Hochdruck stehen.",
+    "explanation": "Das vorrangige Therapieziel ist laut Kap. 3.1 der Schutz der Nierenfunktion, insbesondere bei Querschnittlähmung und Spina bifida; ein Niederdruckreservoir senkt zusätzlich die HWI-Rate und begünstigt die Kontinenz – Kontinenz allein ist kein verlässlicher Indikator für einen geschützten oberen Harntrakt."
+  },
+  {
+    "question": "Wie verteilen sich die Muskarinrezeptor-Subtypen am menschlichen Detrusor, und welcher Subtyp vermittelt die Kontraktion unmittelbar?",
+    "options": [
+      "M2 (80%) und M3 (20%), aber nur M3 vermittelt die Kontraktion direkt.",
+      "M1 (80%) und M4 (20%), beide vermitteln die Kontraktion gleichwertig.",
+      "M3 (80%) und M2 (20%), M2 vermittelt die Kontraktion direkt.",
+      "M5 (100%), ausschließlich verantwortlich für die Kontraktion."
+    ],
+    "correct": 0,
+    "tip": "Der zahlenmäßig größere Rezeptor-Subtyp am Detrusor ist nicht derjenige, der die Kontraktion direkt auslöst.",
+    "explanation": "Am menschlichen Detrusor wurden M2- (80%) und M3-Rezeptoren (20%) nachgewiesen. Nur der M3-Subtyp ist für die Blasenmuskelkontraktion unmittelbar verantwortlich; M2 verstärkt diese Wirkung vermutlich indirekt."
+  },
+  {
+    "question": "Welche Aussage zu Tabelle 3 (Nervensystem des Harntrakts) ist korrekt?",
+    "options": [
+      "Der sympathische Schutzreflex wird über den N. hypogastricus aus den Segmenten T10-L2 vermittelt und wirkt u. a. über α1A-, α1B-, α2- und β3-Rezeptoren.",
+      "Der somatische Schutzreflex wird über den N. hypogastricus aus den Segmenten S2-S4 vermittelt.",
+      "Der Parasympathikus wirkt ausschließlich über adrenerge Rezeptoren aus den Segmenten T10-L2.",
+      "Alle drei Nervensysteme entspringen aus denselben Spinalsegmenten S2-S5."
+    ],
+    "correct": 0,
+    "tip": "Der Parasympathikus entspringt S2-S5 (N. pelvicus), der Somatikus S2-S4 (N. pudendus), der Sympathikus T10-L2 (N. hypogastricus).",
+    "explanation": "Laut Tabelle 3 entspringt der Sympathikus (N. hypogastricus) aus den Segmenten T10-L2 und wirkt über adrenerge Rezeptoren (α1A, α1B, α2, β2, β3); der somatische Schutzreflex läuft dagegen über den N. pudendus aus S2-S4."
+  },
+  {
+    "question": "Welche Gewebe zeigen laut Tabelle 5a bzw. 5b den höchsten Expressionsgrad von M3- bzw. β3-Rezeptoren?",
+    "options": [
+      "M3 am höchsten in der Speicheldrüse, β3 in der Harnblase deutlich über dem Mittelwert.",
+      "M3 am höchsten im Herzgewebe, β3 in der Lunge am höchsten.",
+      "M3 und β3 beide am höchsten im Gehirn.",
+      "M3 am höchsten in der Prostata, β3 am höchsten in der Haut."
+    ],
+    "correct": 0,
+    "tip": "Diese Verteilung erklärt sowohl Wirkung als auch typische Nebenwirkungen wie Mundtrockenheit.",
+    "explanation": "Tabelle 5a zeigt den höchsten M3-Expressionsgrad in der Speicheldrüse (21,72 FPKM) und den höchsten M2-Wert im Herzen; laut Tabelle 5b liegt der Anteil der β3-Adrenozeptoren in der Harnblase (1,54) deutlich über dem Mittelwert (0,49)."
+  },
+  {
+    "question": "Welche Konsensusstärke wird in Tabelle 2 der Leitlinie als „Starker Konsensus“ definiert?",
+    "options": [
+      "Zustimmung von >95% der Teilnehmer.",
+      "Zustimmung von >75–95% der Teilnehmer.",
+      "Zustimmung von >50–75% der Teilnehmer.",
+      "Einstimmigkeit aller Mandatsträger ohne Ausnahme."
+    ],
+    "correct": 0,
+    "tip": "Es gibt vier Abstufungen, von „Kein Konsens“ bis „Starker Konsensus“.",
+    "explanation": "Nach Tabelle 2 entspricht „Starker Konsensus“ einer Zustimmung von >95% der Teilnehmer, „Konsens“ einer Zustimmung von >75–95%."
+  },
+  {
+    "question": "Wie veränderte sich die Harnwegsinfekt-Rate nach sakraler Deafferentation und Implantation eines Vorderwurzelstimulators (SDAF-SARS) laut der in Kap. 3.1 zitierten Erfahrung?",
+    "options": [
+      "Sie fiel von 6,3 HWI/Jahr präoperativ auf 1,2 HWI/Jahr postoperativ.",
+      "Sie stieg von 1,2 auf 6,3 HWI/Jahr.",
+      "Sie blieb unverändert bei rund 6 HWI/Jahr.",
+      "Es wurden keine Angaben zu HWI-Raten gemacht."
+    ],
+    "correct": 0,
+    "tip": "Die vollständige Aufhebung der NDÜ und die Wiederherstellung eines Niederdruckreservoirs steht im Zentrum dieses Effekts.",
+    "explanation": "Nach vollständiger Aufhebung einer NDÜ und Wiederherstellung einer Niederdruckreservoirfunktion fiel die HWI-Rate von 6,3 HWI/Jahr präoperativ auf 1,2 HWI/Jahr postoperativ."
+  },
+  {
+    "question": "In der retrospektiven Studie von Yildiz et al. (337 Patienten mit Querschnittlähmung unter antimuskarinerger Therapie und aseptischem IK): wie hoch war der Anteil ohne Harnwegsinfekte bzw. mit symptomloser Bakteriurie?",
+    "options": [
+      "42,1% ohne HWI, 36,4% mit symptomloser Bakteriurie.",
+      "90% ohne HWI, 5% mit symptomloser Bakteriurie.",
+      "10% ohne HWI, 80% mit symptomloser Bakteriurie.",
+      "Es wurde kein Unterschied zwischen HWI und Bakteriurie dokumentiert."
+    ],
+    "correct": 0,
+    "tip": "Zusammen ergeben die beiden Anteile knapp 80% der Studienpopulation.",
+    "explanation": "Yildiz et al. berichteten, dass von 337 Patienten mit Querschnittlähmung nach antimuskarinerger Therapie und aseptischem IK 42,1% keine Harnwegsinfekte hatten und 36,4% eine symptomlose Bakteriurie aufwiesen."
+  },
+  {
+    "question": "Welcher urodynamische Grenzwert wird in mehreren zitierten Studien (Shigemura et al., Seki et al.) als Risikofaktor für fieberhafte Harnwegsinfekte benannt?",
+    "options": [
+      "Eine Low-Compliance von <10 ml/cmH2O.",
+      "Ein Reflexievolumen von >400 ml.",
+      "Ein Miktionsvolumen von >300 ml beim ISK.",
+      "Eine Blasenkapazität von genau 500 ml."
+    ],
+    "correct": 0,
+    "tip": "Dieser Wert beschreibt eine sehr steife, schlecht dehnbare Blasenwand.",
+    "explanation": "Sowohl bei Shigemura et al. als auch bei Seki et al. (76 MMC-Kinder) wurde eine Low-Compliance von <10 ml/cmH2O neben der Detrusorüberaktivität als entscheidender Risikofaktor für fieberhafte Harnwegsinfekte identifiziert."
+  }
+]

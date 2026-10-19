@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche drei Grundprinzipien liegen laut Leitlinie der urologischen Diagnostik beim wachsenden Kind mit spinaler Dysraphie zugrunde?",
+    "options": [
+      "Der Blasenstörungstyp kann sich ändern, die meisten Änderungen passieren früh (bis zu 80 % bis zum Ende des 2. Lebensjahres), und auch initial unauffällige Kinder entwickeln zu einem Drittel Probleme.",
+      "Die Blasenstörung ist nach neurochirurgischer Versorgung immer endgültig festgelegt.",
+      "Nur Kinder mit hohem Querschnittsniveau benötigen eine urodynamische Kontrolle.",
+      "Eine einmalige Urodynamik im Erwachsenenalter ist ausreichend."
+    ],
+    "correct": 0,
+    "tip": "Mehr als ein Drittel der Änderungen des Störungsmusters ereignet sich bereits im 1. Lebensjahr.",
+    "explanation": "Der Typ der neurogenen Blasenfunktionsstörung kann sich während der gesamten Entwicklung ändern, mehr als ein Drittel der Änderungen erfolgt im 1. Lebensjahr (bis zu 80 % bis Ende des 2. Lebensjahres), und auch bei initial unauffälligen Kindern treten in den ersten 6 Lebensjahren bei einem Drittel Probleme auf, meist durch ein tethered cord."
+  },
+  {
+    "question": "Ohne Therapie wird welcher Anteil der Kinder mit Meningomyelozele kontinent?",
+    "options": [
+      "Weniger als 10 %.",
+      "Etwa 50 %.",
+      "Über 90 %.",
+      "Genau 37 %."
+    ],
+    "correct": 0,
+    "tip": "Dies unterstreicht die Bedeutung des proaktiven Managements.",
+    "explanation": "Nur ein sehr geringer Prozentsatz (<10 %) der Kinder mit Meningomyelozele wird ohne Therapie kontinent."
+  },
+  {
+    "question": "Ein 7-jähriger Rollstuhlfahrer mit ausgeprägter Skoliose hat ein „schön niedriges“ Kreatinin. Welche Falle beschreibt die Leitlinie in diesem Zusammenhang?",
+    "options": [
+      "Ein niedriges Kreatinin kann bei reduzierter Muskelmasse eine normale Nierenfunktion vortäuschen, da die Schwartz-Formel bei abweichenden Körperproportionen problematisch ist.",
+      "Kreatinin ist bei spinaler Dysraphie grundsätzlich nicht verwertbar und sollte nie bestimmt werden.",
+      "Ein niedriges Kreatinin beweist bei diesen Patienten immer eine hervorragende Nierenfunktion.",
+      "Die Skoliose hat keinen Einfluss auf die Interpretation von Laborwerten."
+    ],
+    "correct": 0,
+    "tip": "Cystatin C ist bei diesen Patienten der geeignetere Parameter, weil es nicht von der Muskelmasse abhängt.",
+    "explanation": "Die Kreatininwerte sind von der oft deutlich verminderten Muskelmasse dieser Patienten abhängig und entsprechen daher nicht immer der Altersnorm; auch die Schwartz-Formel ist nur bei altersentsprechenden Körperproportionen anwendbar, weshalb Cystatin C vorzuziehen ist."
+  },
+  {
+    "question": "Welcher Laborparameter gilt laut Leitlinie derzeit als der geeignetste Serum-Parameter zur Beurteilung der Nierenfunktion bei Spina bifida?",
+    "options": [
+      "Cystatin C, da es unabhängig von Muskelmasse und (ab dem 2. Lebensjahr) vom Alter ist.",
+      "Kreatinin nach Schwartz-Formel.",
+      "Harnstoff im Serum.",
+      "Die Kreatininclearance im Spontanurin."
+    ],
+    "correct": 0,
+    "tip": "Die Formel von Filler et al. ist für die Berechnung der Cystatin-C-GFR bis zu einem bestimmten Grenzwert validiert.",
+    "explanation": "Cystatin C wird weder durch Geschlecht, Muskelmasse noch (ab Ende des 1. Lebensjahres) durch Alter beeinflusst und ist ab dem 2. Lebensjahr altersunabhängig – es ist derzeit der geeignetste Parameter zur Nierenfunktionsbeurteilung bei Spina bifida."
+  },
+  {
+    "question": "Bis zu welchem Cystatin-C-Wert ist die Formel von Filler et al. zur Berechnung der GFR validiert?",
+    "options": [
+      "3 mg/l.",
+      "0,5 mg/l.",
+      "10 mg/l.",
+      "Es gibt keine obere Grenze."
+    ],
+    "correct": 0,
+    "tip": "Oberhalb dieses Wertes kann alternativ die endogene Kreatininclearance herangezogen werden.",
+    "explanation": "Die Formel von Filler et al. zur Bestimmung der Cystatin-C-GFR ist bis zu einem Cystatin-C-Wert von 3 mg/l validiert."
+  },
+  {
+    "question": "Laut Tabelle 3 (Untersuchungsfahrplan) soll die Basisdiagnostik mittels Zystomanometrie und MCU (bzw. Videourodynamik) wann erfolgen?",
+    "options": [
+      "Innerhalb des ersten Lebensjahres, vorzugsweise in den ersten drei Lebensmonaten.",
+      "Erst nach Einschulung.",
+      "Erst nach Abschluss der Pubertät.",
+      "Nur bei klinisch auffälligen Kindern, nie als Basisdiagnostik bei unauffälligem Verlauf."
+    ],
+    "correct": 0,
+    "tip": "Bei intrauterin verschlossenen Kindern sollte diese Diagnostik sogar schon vor der Entlassung aus der Klinik abgeschlossen sein.",
+    "explanation": "Eine Zystomanometrie und ein MCU (separat oder als Videourodynamik) sollten als Basisdiagnostik innerhalb des ersten Lebensjahres, vorzugsweise in den ersten drei Lebensmonaten, angestrebt werden."
+  },
+  {
+    "question": "In welchem Zeitraum darf die Zahl der Verlaufskontrollen bei stabiler Niederdrucksituation und guter Compliance individuell gelockert werden?",
+    "options": [
+      "Zwischen dem 6. Lebensjahr und dem Beginn der Pubertät.",
+      "Zwischen Geburt und 6. Lebensmonat.",
+      "Nur im ersten Lebensjahr.",
+      "Niemals – die Kontrollintervalle sind in jedem Lebensalter fix."
+    ],
+    "correct": 0,
+    "tip": "In dieser Phase kommt es selten zu klinisch relevanten Veränderungen des Harntraktes, die eine Therapieeskalation erfordern.",
+    "explanation": "Bei unkompliziertem klinischem Verlauf und guter Patientencompliance kann die Anzahl der Kontrollen insbesondere zwischen dem 6. Lebensjahr und Beginn der Pubertät individuell modifiziert werden."
+  },
+  {
+    "question": "Welches der folgenden Ereignisse erfordert laut Leitlinie KEINE intensivierte Verlaufsdiagnostik?",
+    "options": [
+      "Eine unveränderte, seit Jahren stabile Niederdrucksituation ohne neue Symptome.",
+      "Der Nachweis eines vesikorenalen Refluxes.",
+      "Eine beginnende Low-Compliance-Blase.",
+      "Rückenmarksveränderungen wie ein tethered cord."
+    ],
+    "correct": 0,
+    "tip": "Eine intensivierte Diagnostik ist bei erhöhtem Risiko für die Nierenfunktion sinnvoll, z. B. bei rezidivierenden HWI, Reflux oder ausgeprägter Detrusorüberaktivität.",
+    "explanation": "Eine intensivierte Verlaufsdiagnostik ist bei rezidivierenden HWI, Reflux, assoziierten Fehlbildungen, beginnender Low-Compliance-Blase, DSD, ausgeprägter Detrusorüberaktivität und Rückenmarksveränderungen sinnvoll – eine über Jahre stabile Situation erfordert dagegen keine Intensivierung."
+  },
+  {
+    "question": "Welche Aussage zur sonographischen Beurteilung der Blasenwand ist laut Leitlinie korrekt?",
+    "options": [
+      "Die Dicke der Blasenwand kann NICHT zur Abschätzung eines erhöhten intravesikalen Druckes bzw. des Risikos für den oberen Harntrakt verwendet werden.",
+      "Eine dünne Blasenwand beweist sicher einen niedrigen Detrusordruck.",
+      "Die Blasenwanddicke ersetzt die Zystomanometrie vollständig.",
+      "Die Blasenwanddicke wird nach der Formel Länge x Breite x Tiefe x 0,5 berechnet."
+    ],
+    "correct": 0,
+    "tip": "Diese Formel gilt für das Nierenvolumen, nicht für die Blasenwand.",
+    "explanation": "Die Dicke der Blasenwand kann nicht zur Vorhersage eines deutlich erhöhten intravesikalen Blasendrucks verwendet werden und dient daher nicht als Parameter zur Risikoabschätzung für den oberen Harntrakt."
+  },
+  {
+    "question": "Warum wird bei Patienten mit ausgeprägter Skoliose zusätzlich zur Sonographie häufig eine MAG3-Szintigraphie eingesetzt?",
+    "options": [
+      "Weil die sonographische Beurteilung der Nieren durch die Skoliose stark eingeschränkt sein kann und MAG3 Harntransportstörung und seitengetrennte Funktion zuverlässiger erfasst.",
+      "Weil MAG3 die Strahlenbelastung komplett vermeidet.",
+      "Weil DMSA bei Skoliose kontraindiziert ist.",
+      "Weil die Sonographie bei Skoliose grundsätzlich nicht durchführbar ist."
+    ],
+    "correct": 0,
+    "tip": "DMSA dient dagegen vor allem der Erfassung von Parenchymnarben, die beim Erwachsenen mit neurogener Blase in bis zu 46 % nachweisbar sind.",
+    "explanation": "Aufgrund der teilweise sehr ausgeprägten Skoliose ist die sonographische Beurteilung der Nieren bei einigen Patienten stark eingeschränkt, sodass die Diurese-Szintigraphie mit 99mTc-MAG3 eine relevante Harntransportstörung und die seitengetrennte Nierenfunktion zuverlässiger diagnostizieren kann."
+  }
+]

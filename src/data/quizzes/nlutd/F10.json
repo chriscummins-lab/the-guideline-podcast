@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Eine 78-jährige Patientin mit Parkinson, beginnender Demenz und einem Sturz in der Vorwoche nimmt Oxybutynin vom Hausarzt. Warum ist das laut Kap. 5.3.4 problematisch?",
+    "options": [
+      "Oxybutynin überwindet als lipophiles tertiäres Amin die Blut-Hirn-Schranke und sollte bei älteren, parkinsonkranken, dementen oder sturzgefährdeten Menschen nicht eingesetzt werden.",
+      "Oxybutynin ist bei Demenz und Parkinson das Mittel der ersten Wahl, da es die Kognition verbessert.",
+      "Oxybutynin hat keine Wechselwirkung mit dem Sturzrisiko.",
+      "Oxybutynin wird bei Parkinson-Patienten besonders empfohlen, weil es die Blut-Hirn-Schranke nicht passiert."
+    ],
+    "correct": 0,
+    "tip": "Im Vergleich von Placebo vs. Darifenacin und Oxybutynin ER nahm die Gedächtnisleistung unter Oxybutynin signifikant ab.",
+    "explanation": "Oxybutynin ist ein lipophiles tertiäres Amin, das die Blut-Hirn-Schranke überwindet, und sollte laut Leitlinie bei älteren Menschen sowie bei Patienten mit M. Parkinson, Demenz oder Sturzgefährdung nicht eingesetzt werden."
+  },
+  {
+    "question": "In welchem Bereich liegt laut urodynamischen Studien die Prävalenz einer NDÜ bei Patienten mit idiopathischem Parkinsonsyndrom?",
+    "options": [
+      "45-93%.",
+      "unter 5%.",
+      "Immer genau 50%.",
+      "NDÜ tritt beim Parkinsonsyndrom nicht auf."
+    ],
+    "correct": 0,
+    "tip": "Nykturie ist die häufigste Manifestation der vegetativen Dysfunktion beim idiopathischen Parkinsonsyndrom.",
+    "explanation": "Eine NDÜ tritt laut Leitlinie in 45-93% der urodynamischen Studien bei Patienten mit idiopathischem Parkinsonsyndrom auf; die Nykturie ist dabei die häufigste Manifestation der vegetativen Dysfunktion."
+  },
+  {
+    "question": "In der amerikanischen Kohortenstudie mit 3.434 Patienten über 65 Jahre erhöhte die zusätzliche Einnahme anticholinerg wirksamer Substanzen das Demenzrisiko um welchen Faktor?",
+    "options": [
+      "Signifikant um fast 50%.",
+      "Um weniger als 1%, also praktisch nicht nachweisbar.",
+      "Um das 10-fache.",
+      "Das Demenzrisiko sank unter Anticholinergika."
+    ],
+    "correct": 0,
+    "tip": "In ähnlichem Maße beeinflussten auch Antidepressiva und Antihistaminika das Demenzrisiko.",
+    "explanation": "In der Kohortenstudie mit 3.434 Patienten über 65 Jahre erhöhte die zusätzliche Einnahme anticholinerg wirksamer Substanzen das Demenzrisiko signifikant um fast 50%; es wird angenommen, dass ca. 10% der Demenzfälle mit anticholinerger Medikation in Verbindung stehen."
+  },
+  {
+    "question": "Welchem Wirkstoff wird im Rahmen der ACB-Scale (Tabelle 11) keine Beeinträchtigung der Kognition zugeschrieben?",
+    "options": [
+      "Trospium.",
+      "Oxybutynin (ACB-Wert 3).",
+      "Darifenacin (ACB-Wert 3).",
+      "Solifenacin (ACB-Wert 3)."
+    ],
+    "correct": 0,
+    "tip": "Trospium ist ein quartäres, hydrophiles und positiv geladenes Amin, das die Blut-Hirn-Schranke schlecht passiert.",
+    "explanation": "In Tabelle 11 wird Trospium ausdrücklich als Wirkstoff ausgewiesen, dem keine Beeinträchtigung der Kognition zugeschrieben wird, während Oxybutynin, Darifenacin und Solifenacin dort mit einem ACB-Wert von 3 (definitive anticholinerge Wirkung) geführt werden."
+  },
+  {
+    "question": "Welches Antimuskarinikum empfiehlt Empfehlung 9c als Mittel der ersten Wahl bei Patienten ab 65 Jahren, und was muss dabei berücksichtigt werden?",
+    "options": [
+      "Trospium, unter Kenntnis der Nierenfunktion.",
+      "Oxybutynin, unabhängig von Begleiterkrankungen.",
+      "Propiverin, ohne weitere Einschränkungen.",
+      "Fesoterodin als einzig zugelassene Substanz für diese Altersgruppe."
+    ],
+    "correct": 0,
+    "tip": "Diese Empfehlung erzielte einen Konsens von 94,7%.",
+    "explanation": "Empfehlung 9c besagt, dass bei älteren Patienten (ab 65 Jahren) Trospium als Antimuskarinikum der ersten Wahl unter Kenntnis der Nierenfunktion eingesetzt werden soll, da es als quartäres Amin die Blut-Hirn-Schranke schlecht passiert."
+  },
+  {
+    "question": "Ab welchem Alter wird von einigen Autoren eine Dosisreduktion von Trospium auf 20mg erwogen, und warum ist bei fortgeschrittener Niereninsuffizienz (Grad 4/5) besondere Vorsicht geboten?",
+    "options": [
+      "Ab 75 Jahren; Trospium wird renal eliminiert und soll bei Niereninsuffizienz Grad 4/5 nicht oder nur sehr vorsichtig eingesetzt werden.",
+      "Ab 50 Jahren; Trospium wird ausschließlich hepatisch eliminiert.",
+      "Eine Dosisreduktion ist bei Trospium in keinem Alter oder bei keiner Nierenfunktion notwendig.",
+      "Ab 90 Jahren; die Nierenfunktion spielt für Trospium keine Rolle."
+    ],
+    "correct": 0,
+    "tip": "Auf Grund der renalen Eliminierung treten bei Trospium keine Cytochrom-P450-Interaktionen mit hepatisch verstoffwechselten Medikamenten auf.",
+    "explanation": "Einige Autoren raten zur Dosisreduktion von Trospium auf 20mg bei Menschen älter als 75 Jahre; bei fortgeschrittener Niereninsuffizienz (Grad 4 und 5) soll Trospium nicht oder nur sehr vorsichtig eingesetzt werden, da es in den Nieren eliminiert wird."
+  },
+  {
+    "question": "Warum wird Mirabegron bei älteren Patienten als mögliche First-Line-Alternative in Betracht gezogen, obwohl es für NDÜ nicht zugelassen ist?",
+    "options": [
+      "Wegen des günstigeren Nebenwirkungsprofils ohne zusätzliche anticholinerge Last.",
+      "Weil es die Blut-Hirn-Schranke besonders gut überwindet und dadurch stärker wirkt.",
+      "Weil es als einziges Medikament bei NDÜ in Deutschland offiziell zugelassen ist.",
+      "Weil es keinerlei Wechselwirkungen mit anderen Medikamenten hat."
+    ],
+    "correct": 0,
+    "tip": "Eine Dosisreduktion auf 25mg kann bei Nieren- oder Leberinsuffizienz bzw. schlecht einstellbarer Hypertonie erwogen werden.",
+    "explanation": "Mirabegron wird bei älteren Patienten wegen des günstigeren Nebenwirkungsprofils ohne zusätzliche anticholinerge Last als First-Line-Alternative in Betracht gezogen, obwohl es für die Anwendung bei NDÜ nicht zugelassen ist."
+  },
+  {
+    "question": "Welche Prävalenz der chronischen Obstipation bei 60- bis 100-Jährigen wurde von der amerikanischen Gastroenterologischen Gesellschaft publiziert, und in welchem Zusammenhang steht sie zur OAB?",
+    "options": [
+      "Eine mediane Prävalenz von 33,5%; es besteht ein Zusammenhang zwischen chronischer Obstipation und OAB-Symptomatik, der einen Teufelskreis bilden kann.",
+      "Eine Prävalenz von unter 1%, ohne Zusammenhang zur OAB.",
+      "Eine Prävalenz von 100% bei allen über 60-Jährigen.",
+      "Obstipation tritt bei älteren Menschen laut Leitlinie seltener auf als bei jüngeren."
+    ],
+    "correct": 0,
+    "tip": "Mit zunehmender anticholinerger Last im Alter kann sich dieses Problem noch verstärken.",
+    "explanation": "Die mediane Prävalenz der chronischen Obstipation bei 60- bis 100-Jährigen wird mit 33,5% angegeben; die Therapie der OAB-Symptome führt oft in einen Teufelskreis mit der chronischen Obstipation."
+  },
+  {
+    "question": "Eine 78-jährige Patientin nimmt neben Oxybutynin zusätzlich einen Cholinesterasehemmer und Laxanzien. Welches Problem beschreibt Kap. 5.7 für solche Medikamentenkombinationen?",
+    "options": [
+      "Eine Antagonisierung cholinerg und prokinetisch wirkender Substanzen als eine der Hauptursachen für Interaktionen.",
+      "Diese Kombination ist aus pharmakologischer Sicht völlig unbedenklich.",
+      "Cholinesterasehemmer verstärken ausschließlich die Wirkung von Antimuskarinika, ohne Risiko.",
+      "Laxanzien heben jede Form von Medikamenteninteraktion automatisch auf."
+    ],
+    "correct": 0,
+    "tip": "55% der über 85-Jährigen nehmen mehr als 4 Medikamente ein; bei 6 Präparaten ist in ca. 70% mit Interaktionen zu rechnen.",
+    "explanation": "Kap. 5.7 nennt die Antagonisierung cholinerg und prokinetisch wirkender Substanzen als eine Hauptursache für Interaktionen bei Polymedikation – ein Antimuskarinikum wie Oxybutynin und ein Cholinesterasehemmer wirken sich gegenseitig entgegen, was leicht übersehen werden kann."
+  },
+  {
+    "question": "Welche Aussage zur Studienlage zu Tamsulosin und Demenzrisiko bei älteren Menschen ist korrekt?",
+    "options": [
+      "Eine amerikanische Registerstudie fand ein erhöhtes Demenzrisiko unter Tamsulosin, eine koreanische Registerstudie fand dagegen kein erhöhtes Risiko gegenüber unbehandelten Probanden – die Frage bleibt offen.",
+      "Beide zitierten Studien kamen übereinstimmend zu dem Schluss, dass Tamsulosin das Demenzrisiko sicher erhöht.",
+      "Es liegen keine Studien zu einem möglichen Zusammenhang zwischen Alpha-Blockern und Demenz vor.",
+      "Alfuzosin, Doxazosin und Terazosin zeigten in beiden Studien ein höheres Demenzrisiko als Tamsulosin."
+    ],
+    "correct": 0,
+    "tip": "Die koreanische Studie schloss Patienten mit Antimuskarinika-Einnahme und vorbestehenden kognitiven Störungen aus, um ein Bias zu vermeiden.",
+    "explanation": "Eine amerikanische Registerstudie schrieb Tamsulosin ein erhöhtes Demenzrisiko zu, während eine koreanische, retrospektive Registerstudie kein erhöhtes Risiko gegenüber unbehandelten Probanden fand – ob Tamsulosin eine Demenz auslösen kann, muss laut Leitlinie offenbleiben."
+  }
+]

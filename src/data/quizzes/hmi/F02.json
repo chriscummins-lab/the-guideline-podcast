@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie viele Inkontinenzformen werden nach der International Continence Society (ICS) unterschieden, und welche Aussage zur Überlaufinkontinenz ist laut Tabelle 3 korrekt?",
+    "options": [
+      "5 Formen; bei Überlaufinkontinenz soll keine alleinige Hilfsmittelversorgung erfolgen.",
+      "3 Formen; Überlaufinkontinenz wird wie eine Belastungsinkontinenz hilfsmittelversorgt.",
+      "5 Formen; Überlaufinkontinenz erfordert immer eine Dauerkatheterversorgung.",
+      "7 Formen; zur Überlaufinkontinenz werden in Tabelle 3 keine Aussagen getroffen."
+    ],
+    "correct": 0,
+    "tip": "Die 5 Formen sind Belastungsinkontinenz, überaktive Blase, Überlaufinkontinenz, neurogene und extraurethrale Inkontinenz.",
+    "explanation": "Nach ICS werden laut Empfehlung VI 5 Inkontinenzformen unterschieden; laut Tabelle 3 soll bei Überlaufinkontinenz keine alleinige Hilfsmittelversorgung erfolgen."
+  },
+  {
+    "question": "Eine Patientin berichtet über einen schwallartigen, meist kompletten Urinverlust bei imperativem Harndrang. Um welche Form handelt es sich laut Tabelle 3 am ehesten, und wie soll die Hilfsmittelversorgung angepasst werden?",
+    "options": [
+      "Nasse überaktive Blase; Anpassung der Versorgung an die Blasenkapazität.",
+      "Belastungsinkontinenz; Anpassung an die geplanten Aktivitäten.",
+      "Fistelinkontinenz; Anpassung an das Ausmaß eines gleichmäßigen Urinverlustes.",
+      "Neurogene Inkontinenz; ausschließlich Hilfsmittelversorgung ohne therapeutisches Gesamtkonzept."
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz dazu ist bei der Fistelinkontinenz typischerweise mit einem eher gleichmäßigen Urinverlust zu rechnen.",
+    "explanation": "Die nasse Form der überaktiven Blase führt laut Tabelle 3 zu einem schwallartigen, meist kompletten Urinverlust; die Versorgung soll an die Blasenkapazität angepasst werden."
+  },
+  {
+    "question": "Wie definierte die International Continence Society 2003 den Begriff der Harninkontinenz, und was galt zuvor?",
+    "options": [
+      "'Jeder unfreiwillige Urinverlust' – zuvor war Harninkontinenz als Urinverlust definiert, der ein soziales oder hygienisches Problem darstellt.",
+      "Harninkontinenz wurde 2003 überhaupt erstmals definiert, zuvor existierte keine Definition.",
+      "'Urinverlust von mehr als 50 ml pro 24 Stunden' – diese Definition gilt bis heute unverändert.",
+      "Die Definition hat sich seit 1988 nicht mehr verändert."
+    ],
+    "correct": 0,
+    "tip": "Eine Inkontinenz kann demnach auch nur wenige Tropfen in 24 Stunden umfassen.",
+    "explanation": "Empfehlung VII beschreibt, dass die ICS 2003 den bis dahin gültigen Inkontinenzbegriff ('Urinverlust, der ein soziales oder hygienisches Problem ausmacht') durch die Definition 'jeder unfreiwillige Urinverlust' ersetzte."
+  },
+  {
+    "question": "Welche Verfahren werden laut Empfehlung VIII zur Objektivierung des Ausmaßes eines Urinverlustes genannt?",
+    "options": [
+      "U. a. Vorlagenverbrauch, Vorlagenwiegetest, ICS-Pad-Kurztest und 24-h-Pad-Test.",
+      "Ausschließlich die Urodynamik.",
+      "Eine Zystoskopie ist laut Leitlinie obligat.",
+      "Eine MRT des Beckens ist das in der Leitlinie genannte Standardverfahren."
+    ],
+    "correct": 0,
+    "tip": "Diese Verfahren messen den Urinverlust unter definierten Bedingungen in einem definierten Zeitintervall.",
+    "explanation": "Laut Empfehlung VIII und dem zugehörigen Hintergrundtext lässt sich das Ausmaß der Harninkontinenz u. a. durch Vorlagenverbrauch, Vorlagenwiegetest, ICS-Pad-Kurztest und 24-h-Pad-Test genauer beschreiben."
+  },
+  {
+    "question": "Wie wird im ICIQ-SF-Fragebogen (Abbildung 2) die Beeinträchtigung des Lebens durch den Urinverlust erfasst?",
+    "options": [
+      "Auf einer Skala von 0 ('gar nicht') bis 10 ('stark').",
+      "Nur mit 'ja' oder 'nein'.",
+      "Auf einer Skala von 0 bis 100 Prozent.",
+      "Über die Anzahl der benötigten Vorlagen pro Tag."
+    ],
+    "correct": 0,
+    "tip": "Dies ist Frage 3 des ICIQ-SF-Fragebogens.",
+    "explanation": "Abbildung 2 zeigt, dass die Beeinträchtigung im ICIQ-SF-Fragebogen auf einer Skala von 0 ('gar nicht') bis 10 ('stark') erfasst wird."
+  },
+  {
+    "question": "Ein bettlägeriger Patient mit imperativem Harndrang wird mit einem sportlich aktiven, mobilen Patienten mit Belastungsinkontinenz verglichen. Welche Aussage zu Empfehlung X ist korrekt?",
+    "options": [
+      "Bei einem immobilen, überwiegend bettlägerigen Patienten stellt eine Dranginkontinenz ein gravierenderes Problem dar als bei einem teilmobilen Patienten, der trotz Harndrang meist rechtzeitig die Toilette erreicht.",
+      "Mobilität hat laut Leitlinie keinen Einfluss auf die Relevanz einer Inkontinenzform.",
+      "Eine Belastungsinkontinenz ist bei einem Immobilen mit Toilettenstuhl stets das größere Problem.",
+      "Nur die Inkontinenzform, nicht die Mobilität, soll für die Versorgung bekannt sein."
+    ],
+    "correct": 0,
+    "tip": "Umgekehrt kann eine Belastungsinkontinenz bei einem Immobilen mit Toilettenstuhl ein geringeres Problem darstellen als bei einem sportlich aktiven Patienten.",
+    "explanation": "Empfehlung X verdeutlicht, dass die individuellen Lebensumstände und die Mobilität bekannt sein sollen, da z. B. eine Dranginkontinenz bei einem bettlägerigen Patienten gravierender ist als bei einem mobilen Patienten mit rechtzeitigem Toilettengang."
+  },
+  {
+    "question": "Welches Assessmentverfahren wird in Empfehlung XI beispielhaft zur Erfassung von Mobilitätsdefiziten genannt, und wer sollte es idealerweise durchführen?",
+    "options": [
+      "Der 'Timed-up-and-go-Test', idealerweise im Team durch eine geschulte Pflegefachperson.",
+      "Der Barthel-Index, durchgeführt ausschließlich vom verordnenden Arzt.",
+      "Der MMSE, durchgeführt vom Patienten selbst.",
+      "Es wird kein konkretes Verfahren genannt."
+    ],
+    "correct": 0,
+    "tip": "Dieses Verfahren steht laut Leitlinie selten im Fokus des verordnenden Facharztes.",
+    "explanation": "Empfehlung XI nennt den 'Timed-up-and-go-Test' als Beispiel für ein validiertes Assessmentverfahren, das idealerweise im Team durch eine geschulte Pflegefachperson ermittelt wird."
+  },
+  {
+    "question": "Welchem Zweck dient der in Empfehlung XIII geforderte strukturierte Laufbogen?",
+    "options": [
+      "Er schließt die Informationslücke des Hilfsmittelrezepts und ermöglicht eine Rückmeldung vom Versorger zum Verordner, z. B. im Rahmen eines 'Recalls'.",
+      "Er ersetzt die ärztliche Diagnosestellung vollständig.",
+      "Er dient ausschließlich der Abrechnung gegenüber der Krankenkasse.",
+      "Er ist nur bei neurogener Inkontinenz vorgesehen."
+    ],
+    "correct": 0,
+    "tip": "Auf dem Hilfsmittelrezept selbst wird lediglich die Diagnose gefordert.",
+    "explanation": "Da auf dem Hilfsmittelrezept nur die Diagnose steht, soll laut Empfehlung XIII ein zweiteiliger strukturierter Laufbogen die Informationslücke schließen und eine Rückmeldung des Versorgers an den Verordner (z. B. beim Recall) ermöglichen."
+  },
+  {
+    "question": "Welches der folgenden Symptome gehört laut Kapitel 6 zu den ärztlichen 'red flags', nicht zur explizit genannten nichtärztlichen Liste?",
+    "options": [
+      "Neu aufgetretene Paresen oder Parästhesien.",
+      "Roter, trüber oder übelriechender Urin.",
+      "Fieber.",
+      "Hautveränderungen."
+    ],
+    "correct": 0,
+    "tip": "Die nichtärztliche Liste nennt stattdessen eigenständig formulierte 'neu aufgetretene Lähmungen oder Empfindungsstörungen'.",
+    "explanation": "'Neu aufgetretene Paresen oder Parästhesien' ist ein ärztliches red flag; die nichtärztliche Liste führt vergleichbare, aber eigenständig formulierte Warnzeichen wie roten/trüben/übelriechenden Urin, Fieber oder Hautveränderungen."
+  },
+  {
+    "question": "Bei einem Patienten mit bekanntem red-flag-Symptom wurde die ärztliche Abklärung bereits gesichert durchgeführt, die endgültige Entscheidung zur Versorgung steht aber noch aus. Was gilt laut Empfehlung XXXXI?",
+    "options": [
+      "Eine vorläufige Hilfsmittelversorgung kann trotz des red-flag-Symptoms erfolgen, bis die endgültige Abklärung bzw. Entscheidung getroffen ist.",
+      "Es darf unter keinen Umständen eine Hilfsmittelversorgung erfolgen.",
+      "Die Versorgung muss sofort als Dauerverordnung festgelegt werden.",
+      "Red flags spielen nach erfolgter Abklärung für künftige Verordnungen keine Rolle mehr."
+    ],
+    "correct": 0,
+    "tip": "Vor einer erneuten Verordnung oder einem Recall soll laut Empfehlung XXXXII geprüft werden, ob die Abklärung stattgefunden hat.",
+    "explanation": "Empfehlung XXXXI erlaubt bei gesicherter ärztlicher Abklärung eine vorläufige Hilfsmittelversorgung trotz Vorliegen eines red-flag-Symptoms, bis dieses definitiv abgeklärt bzw. endgültig entschieden ist."
+  }
+]

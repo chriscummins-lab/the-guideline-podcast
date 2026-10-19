@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Eltern eines vier Wochen alten Säuglings mit Myelomeningozele fragen, ob ein „nicht zugelassenes“ Medikament wirklich schon jetzt nötig ist. Was empfiehlt die Leitlinie bezüglich des Zeitpunkts der Diagnostik?",
+    "options": [
+      "Eine frühzeitige Untersuchung von unterem und oberem Harntrakt bis zur 12. Lebenswoche, da bis zu 90% der Kinder mit spinaler Dysraphie eine NLUTD haben.",
+      "Man sollte warten, bis erste Dilatationszeichen am oberen Harntrakt sichtbar werden.",
+      "Eine urodynamische Untersuchung ist erst ab dem Schulalter sinnvoll.",
+      "Eine medikamentöse Therapie ist im Säuglingsalter grundsätzlich kontraindiziert."
+    ],
+    "correct": 0,
+    "tip": "Die weitaus häufigste Ursache einer NLUTD im Kindesalter ist die spinale Dysraphie.",
+    "explanation": "Bei Neugeborenen mit spinaler Dysraphie wird eine frühzeitige Untersuchung des morphologischen und funktionellen Zustandes des Harntraktes bis zur 12. Lebenswoche gefordert; in bis zu 90% dieser Kinder ist mit einer NLUTD zu rechnen. Die Leitlinie warnt ausdrücklich davor, bis zum Auftreten erster Dilatationszeichen zu warten."
+  },
+  {
+    "question": "Welche Formel wird für Kinder mit Spina bifida bis zu einem Alter von 9 Jahren zur Abschätzung der altersentsprechenden Blasenkapazität empfohlen?",
+    "options": [
+      "24,5 x Alter + 62 (ml).",
+      "30 + (Alter x 30) (ml), identisch zu neurologisch unauffälligen Kindern.",
+      "100 x Alter (ml).",
+      "Es existiert keine spezifische Formel für Kinder mit Spina bifida."
+    ],
+    "correct": 0,
+    "tip": "Diese Formel unterscheidet sich von der allgemeinen Formel 30+(Alter x 30)ml vor allem in den ersten vier Lebensjahren.",
+    "explanation": "Für Kinder mit Spina bifida wird bis zu einem Alter von 9 Jahren die Formel 24,5 x Alter + 62 (ml) empfohlen, da sich die zu erreichende Blasenkapazität besonders in den ersten 4 Lebensjahren von der allgemeinen Formel unterscheidet."
+  },
+  {
+    "question": "Welcher Detrusordruck-Wert gilt laut Kap. 4.2 als anzustrebendes Ziel, und was fand sich bei Kindern mit höheren Drücken?",
+    "options": [
+      "Idealerweise unter 20cmH2O; 36% der Kinder mit Drücken über 20cmH2O hatten bereits im Alter von 3 Jahren Schäden am oberen Harntrakt.",
+      "Ein Detrusordruck von 60cmH2O gilt als unbedenklich.",
+      "Der Leak-Point-Pressure-Cutoff von 40cmH2O ist unumstritten und wird nicht in Frage gestellt.",
+      "Es gibt keine Korrelation zwischen Detrusordruck und Schäden am oberen Harntrakt."
+    ],
+    "correct": 0,
+    "tip": "Der traditionelle LPP-Cutoff von 40cmH2O wird in jüngerer Zeit infrage gestellt – ein sensitiverer Cutoff von 20cmH2O wird empfohlen.",
+    "explanation": "Im klinischen Management soll der Detrusordruck über den gesamten Tag so niedrig wie möglich gehalten werden, idealerweise unter 20cmH2O; 36% der Kinder (70 von 193) mit einem Detrusordruck über 20cmH2O hatten bereits im Alter von 3 Jahren Schäden am oberen Harntrakt."
+  },
+  {
+    "question": "In einer US-amerikanischen Querschnittsstudie mit 5.250 Spina-bifida-Patienten zwischen 5 und 83 Jahren erhielt welcher Anteil eine antimuskarinerge Therapie?",
+    "options": [
+      "Etwa 50% der Patienten, sowohl im Kindes- als auch im Erwachsenenalter.",
+      "Nur 5% der Patienten.",
+      "Praktisch 100% aller Patienten.",
+      "Diese Studie untersuchte keine Medikation."
+    ],
+    "correct": 0,
+    "tip": "Die antimuskarinerge Therapie ist damit die häufigste „Harnblasenmedikation“ im Kindesalter (53,2%).",
+    "explanation": "In der Querschnittsstudie mit 5.250 Spina-bifida-Patienten erhielten etwa 50% eine antimuskarinerge Therapie, sowohl im Kindes- als auch im Erwachsenenalter."
+  },
+  {
+    "question": "Ab welchem Alter ist Propiverin bei Kindern zugelassen, und welche Dosierung wird empfohlen?",
+    "options": [
+      "Ab dem 1. Lebensjahr, mit einer Dosis von 0,4–0,8mg/kg in 2 Einzeldosen.",
+      "Ab dem 5. Lebensjahr, mit einer fixen Dosis von 15mg/Tag für alle Gewichtsklassen.",
+      "Erst ab dem 12. Lebensjahr, wie Trospium.",
+      "Propiverin ist für Kinder in keinem Land zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Bei mangelndem Therapieerfolg wurde in einer Studie auch eine Dosierung bis 1,58mg/kg beschrieben.",
+    "explanation": "Propiverin ist in vielen Ländern nach Vollendung des 1. Lebensjahres zugelassen; die empfohlene Dosis sowohl bei idiopathischer OAB als auch bei NDÜ liegt bei 0,4–0,8mg/kg in 2 Einzeldosen."
+  },
+  {
+    "question": "Für welche Altersgruppe und Indikation besteht eine Zulassung der Solifenacin-Suspension, und welches Konzept liegt der Dosierung nach Tabelle 9 zugrunde?",
+    "options": [
+      "Zugelassen für Kinder mit NDÜ von 2–18 Jahren, mit gewichtsadaptierter Dosierung nach dem Konzept der pädiatrischen Äquivalenzdosis (PED).",
+      "Zugelassen für Kinder ab 12 Jahren ohne Gewichtsadaptation.",
+      "Solifenacin-Tabletten sind für Kinder in Deutschland zugelassen.",
+      "Die Dosierung erfolgt unabhängig vom Körpergewicht in einer Fixdosis von 10mg."
+    ],
+    "correct": 0,
+    "tip": "Die PED wurde aus Erwachsenendosen von 5mg, 7,5mg und 10mg nach steady-state-Daten extrapoliert.",
+    "explanation": "Die Solifenacin-Suspension ist für Kinder mit neurogener Detrusorüberaktivität im Alter von 2-18 Jahren zugelassen; die Dosierung nach Tabelle 9 basiert auf dem Konzept der pädiatrischen Äquivalenzdosis (PED), die aus Erwachsenendosen gewichtsadaptiert berechnet wurde."
+  },
+  {
+    "question": "In der Studie von Franco et al. (2020, 99 Kinder mit NLUTD) war die Hauptnebenwirkung von Solifenacin welche, und in welchem Anteil trat sie auf?",
+    "options": [
+      "Obstipation bei 20,9% der Kinder, ohne kognitive Einschränkungen oder klinisch relevante EKG-Veränderungen.",
+      "Schwere kardiale Arrhythmien bei 50% der Kinder.",
+      "Kognitive Einschränkungen bei nahezu allen Kindern.",
+      "Es wurden keine Nebenwirkungen beobachtet."
+    ],
+    "correct": 0,
+    "tip": "Die Dosis konnte bei unzureichender Wirkung in 2,5mg(PED)-Schritten bis auf 10mg(PED) hochtitriert werden.",
+    "explanation": "In der Studie von Franco et al. war die Hauptnebenwirkung die Obstipation (N=9, 20,9%); kognitive Einschränkungen oder klinisch relevante EKG-Veränderungen wurden bei den 99 untersuchten Kindern nicht verzeichnet."
+  },
+  {
+    "question": "Ab welchem Alter ist Oxybutynin oral in Deutschland, Österreich und der Schweiz zugelassen, und welche Dosis empfiehlt die ICCS bei NDÜ?",
+    "options": [
+      "Ab 5 Jahren; die ICCS empfiehlt eine Höchstdosis von 0,2mg/kg alle 8 Stunden (entsprechend 0,6mg/kg/Tag).",
+      "Ab der Geburt, ohne Altersbeschränkung.",
+      "Ab 12 Jahren, wie Trospium.",
+      "Oxybutynin ist in keinem der drei Länder zugelassen."
+    ],
+    "correct": 0,
+    "tip": "Diese Dosis ist fast doppelt so hoch wie die bei idiopathischer OAB empfohlene Dosierung.",
+    "explanation": "Oxybutynin oral ist erst ab einem Alter von 5 Jahren zugelassen; die ICCS empfiehlt bei NDÜ eine Höchstdosis von 0,2mg/kg alle 8 Stunden, also eine Gesamttagesdosis von 0,6mg/kg."
+  },
+  {
+    "question": "Welche häufigste Nebenwirkung wurde bei transdermaler Applikation von Oxybutynin bei Kindern mit NDÜ in einer Studie mit 41 Kindern beschrieben?",
+    "options": [
+      "Hautreaktionen in 29,2% der Fälle, ohne Berichte über zentralnervöse UAW.",
+      "Schwere zentralnervöse Halluzinationen bei allen Kindern.",
+      "Eine Verschlechterung der Blasenkapazität.",
+      "Kardiale Arrhythmien bei über der Hälfte der Kinder."
+    ],
+    "correct": 0,
+    "tip": "Die Harnblasenkapazität verbesserte sich unter transdermaler Anwendung im Mittel um 69%, ähnlich der oralen Vergleichsgruppe mit 76%.",
+    "explanation": "Bei transdermaler Applikation von Oxybutynin bei 41 Kindern mit NDÜ traten in 29,2% der Fälle Hautreaktionen auf; über zentralnervöse UAW, die mit der Therapie im Zusammenhang standen, wurde nicht berichtet."
+  },
+  {
+    "question": "Welchen Anteil an Therapieabbrechern wegen Nebenwirkungen fand eine Metaanalyse mit 297 Kindern unter intravesikaler Oxybutynin-Instillation, und welche typischen UAW traten dabei auf?",
+    "options": [
+      "22% brachen die Therapie ab; genannt wurden u. a. Halluzinationen, kognitive Beeinträchtigungen und Schläfrigkeit.",
+      "0% Abbrecher, die Therapie war vollständig nebenwirkungsfrei.",
+      "100% Abbrecher wegen schwerer kardialer Komplikationen.",
+      "Es wurde ausschließlich über lokale Hautreaktionen berichtet."
+    ],
+    "correct": 0,
+    "tip": "Kaplinsky et al. bestätigten eine ähnliche Abbruchrate von 25% in einer Studie mit 28 Kindern.",
+    "explanation": "In einer Metaanalyse mit 2 prospektiven und 6 retrospektiven Studien (297 Kinder) brachen 22% der Kinder die Instillationstherapie mit Oxybutynin wegen Nebenwirkungen wie Anfällen, Hitzewallungen, Hyperaktivität, Kopfschmerzen, Schwindel oder Obstipation ab. Ferrara et al. berichteten zusätzlich über Halluzinationen, kognitive Beeinträchtigungen und Schläfrigkeit."
+  }
+]
