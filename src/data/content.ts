@@ -13,6 +13,7 @@ import { nlutdEpisodes } from "@/data/guidelines/nlutd";
 import { hmiEpisodes } from "@/data/guidelines/hmi";
 import { beekEpisodes } from "@/data/guidelines/beek";
 import { nbfsEpisodes } from "@/data/guidelines/nbfs";
+import { hwiEpisodes } from "@/data/guidelines/hwi";
 import { andrologieGuidelines } from "@/data/guidelines/andrologie";
 
 export const CONTENT: { categories: Category[] } = {
@@ -162,7 +163,15 @@ export const CONTENT: { categories: Category[] } = {
       available: false,
       description: "Harnwegsinfekte und Entzündungen",
       guidelines: [
-        { id: "hwi", name: "Harnwegsinfektionen", badge: "S3", available: false, description: "S3-Leitlinie HWI", episodes: [] },
+        {
+          id: "hwi",
+          name: "Harnwegsinfektionen",
+          badge: "S3",
+          year: 2024,
+          available: false,
+          description: "S3-Leitlinie Epidemiologie, Diagnostik, Therapie, Prävention und Management unkomplizierter, bakterieller, ambulant erworbener Harnwegsinfektionen bei Erwachsenen",
+          episodes: hwiEpisodes,
+        },
         { id: "epididymitis", name: "Epididymitis", available: false, description: "Leitlinie Epididymitis", episodes: [] },
         { id: "prostatitis", name: "Prostatitis", available: false, description: "Leitlinie Prostatitis", episodes: [] },
       ],
