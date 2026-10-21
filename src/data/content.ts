@@ -204,7 +204,7 @@ export const CONTENT: { categories: Category[] } = {
           name: "Blasenekstrophie-Epispadie-Komplex (BEEK)",
           badge: "S3",
           year: 2024,
-          available: false,
+          available: true,
           description: "S3-Leitlinie Epidemiologie, Diagnostik, Therapie und Nachsorge des Blasenekstrophie-Epispadie-Komplex (BEEK)",
           episodes: beekEpisodes,
         },
