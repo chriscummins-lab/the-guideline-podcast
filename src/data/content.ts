@@ -160,7 +160,7 @@ export const CONTENT: { categories: Category[] } = {
       name: "Infektiologie",
       icon: "🦠",
       color: "var(--brand-green)",
-      available: false,
+      available: true,
       description: "Harnwegsinfekte und Entzündungen",
       guidelines: [
         {
@@ -168,7 +168,7 @@ export const CONTENT: { categories: Category[] } = {
           name: "Harnwegsinfektionen",
           badge: "S3",
           year: 2024,
-          available: false,
+          available: true,
           description: "S3-Leitlinie Epidemiologie, Diagnostik, Therapie, Prävention und Management unkomplizierter, bakterieller, ambulant erworbener Harnwegsinfektionen bei Erwachsenen",
           episodes: hwiEpisodes,
         },
