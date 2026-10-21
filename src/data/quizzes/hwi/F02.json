@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Mit welcher Fehlerquote ist die Sicherung der Diagnose einer Harnwegsinfektion allein aufgrund klinischer Kriterien laut Kapitel 5.1 behaftet?",
+    "options": [
+      "Bis zu einem Drittel",
+      "Weniger als 1%",
+      "Etwa 90%",
+      "Genau 50%, unabhängig vom klinischen Bild"
+    ],
+    "correct": 0,
+    "tip": "Nur die Urinkultur mit Erregerzahlbestimmung gilt als Goldstandard zur Verringerung dieser diagnostischen Ungenauigkeit.",
+    "explanation": "Laut Kapitel 5.1 ist die Sicherung der Diagnose allein aufgrund klinischer Kriterien mit einer Fehlerquote von bis zu einem Drittel behaftet; eine Urinkultur könnte diese Ungenauigkeit verringern, ist aber bei nicht selektierten Patienten weder ökonomisch sinnvoll noch alltagspraktikabel."
+  },
+  {
+    "question": "Welche drei Schlüsselfragen sollen Frauen mit Verdacht auf eine unkomplizierte Harnwegsinfektion laut Empfehlung 5.2 gestellt werden?",
+    "options": [
+      "Relevante Schmerzen beim Wasserlassen/häufige Miktionen/imperativer Harndrang? Vermutet die Patientin selbst eine HWI? Bestehen vaginale Beschwerden?",
+      "Wie hoch ist der Blutdruck? Besteht Diabetes? Wie viele Geburten liegen vor?",
+      "Wie alt ist die Patientin? Ist sie sexuell aktiv? Nimmt sie Hormone ein?",
+      "Besteht Fieber über 39°C? Liegt eine Sepsis vor? Ist eine stationäre Aufnahme nötig?"
+    ],
+    "correct": 0,
+    "tip": "Werden die ersten zwei Fragen bejaht, ist eine HWI bereits sehr wahrscheinlich – bei vaginalen Beschwerden sollen Differenzialdiagnosen bedacht werden.",
+    "explanation": "Empfehlung 5.2 nennt die drei Fragen: ob relevante Schmerzen beim Wasserlassen, häufige Miktionen und imperativer Harndrang bestehen, ob die Patientin selbst eine HWI vermutet, und ob vaginale Beschwerden vorliegen."
+  },
+  {
+    "question": "Welche Aussage zum Nitrit-Teststreifen trifft laut Leitlinie zu?",
+    "options": [
+      "Nitrit ist bei frisch untersuchtem Urin sehr spezifisch, aber wenig sensitiv, und erfasst Pseudomonaden sowie grampositive Erreger wie Enterokokken und Staphylokokken nicht",
+      "Nitrit ist hochsensitiv, aber völlig unspezifisch und daher klinisch wertlos",
+      "Nitrit wird unabhängig von der Blasenverweilzeit zuverlässig positiv",
+      "Nitrit weist ausschließlich Candida-Infektionen nach"
+    ],
+    "correct": 0,
+    "tip": "Der Test beruht auf der bakteriellen Reduktion von Nitrat zu Nitrit durch eine Nitrat-Reduktase, wofür eine Blasenverweilzeit von mehr als 4 Stunden nötig ist.",
+    "explanation": "Der Nitrit-Test ist bei frisch untersuchtem Urin insgesamt sehr spezifisch, aber wenig sensitiv. Pseudomonaden und grampositive Erreger wie Enterokokken und Staphylokokken bilden keine nachweisbare Nitrat-Reduktase und werden durch den Test nicht erfasst; zudem ist eine Blasenverweilzeit von mehr als 4 Stunden erforderlich."
+  },
+  {
+    "question": "Welche Maßnahmen zur Uringewinnung empfiehlt Statement 5.43 für Patientinnen und Patienten außerhalb der Standardgruppe?",
+    "options": [
+      "Spreizen der Labien, sorgfältige Reinigung des Meatus urethrae bzw. der Glans penis mit Wasser und Gewinnung von Mittelstrahlurin",
+      "Desinfektion des Genitalbereichs mit hochprozentigem Alkohol vor jeder Uringewinnung",
+      "Grundsätzlich nur suprapubische Punktion, niemals Mittelstrahlurin",
+      "Keine besonderen Maßnahmen, da sie die Kontaminationsrate nicht beeinflussen"
+    ],
+    "correct": 0,
+    "tip": "Diese Maßnahmen gelten zusätzlich zu den Empfehlungen für die Standardgruppe mit dem Ziel, Kontaminationen zu reduzieren.",
+    "explanation": "Statement 5.43 nennt als gängige Empfehlungen zur Reduktion von Kontaminationen das Spreizen der Labien, die sorgfältige Reinigung des Meatus urethrae der Frau bzw. der Glans penis des Mannes mit Wasser sowie die Gewinnung von Mittelstrahlurin."
+  },
+  {
+    "question": "Innerhalb welcher Zeitspanne sollen Urinproben für die kulturelle mikrobiologische Diagnostik laut Empfehlung 5.48 verarbeitet werden, bevor eine Kühlung erforderlich wird?",
+    "options": [
+      "Innerhalb von 2 bis 4 Stunden, ansonsten Kühlung bei 2° bis 8°C und Aufarbeitung am darauffolgenden Tag",
+      "Innerhalb von 30 Minuten, eine Kühlung ist nie zulässig",
+      "Innerhalb von 24 Stunden bei Raumtemperatur ohne jede Einschränkung",
+      "Innerhalb von 10 Minuten, danach ist die Probe grundsätzlich zu verwerfen"
+    ],
+    "correct": 0,
+    "tip": "Bei einer Probengewinnung am Nachmittag oder nachts ohne sofortige Verarbeitungsmöglichkeit kommt die Kühlung zum Einsatz.",
+    "explanation": "Empfehlung 5.48 fordert eine Verarbeitung der Urinprobe innerhalb von 2 bis 4 Stunden; bei fehlender Transport- oder Verarbeitungsmöglichkeit soll der Urin gekühlt bei 2° bis 8°C gelagert und am darauffolgenden Tag aufgearbeitet werden, mit dem Hinweis, dass die Lagerung die Erregerzahl verändern kann."
+  },
+  {
+    "question": "Welche Erregerzahl gilt nach Tabelle 10 (EAU-Grenzwerte) als Diagnosekriterium für eine akute unkomplizierte Zystitis bei Frauen im Mittelstrahlurin?",
+    "options": [
+      "10³ KBE/ml",
+      "10⁵ KBE/ml",
+      "10¹ KBE/ml",
+      "10⁷ KBE/ml"
+    ],
+    "correct": 0,
+    "tip": "Für die Pyelonephritis liegt der Grenzwert bei 10⁴ KBE/ml, für die asymptomatische Bakteriurie bei 10⁵ KBE/ml.",
+    "explanation": "Tabelle 10 gibt für die akute unkomplizierte Zystitis bei Frauen einen Grenzwert von 10³ KBE/ml im Mittelstrahlurin an, für die akute unkomplizierte Pyelonephritis 10⁴ KBE/ml und für die asymptomatische Bakteriurie 10⁵ KBE/ml."
+  },
+  {
+    "question": "Welche mikrobiologischen Kriterien definieren laut Tabelle 10 eine asymptomatische Bakteriurie?",
+    "options": [
+      "10⁵ KBE/ml – bei Frauen Nachweis in zwei konsekutiven Mittelstrahlurinkulturen, bei Männern in einer Mittelstrahlurinkultur, bei Katheterurin bereits 10² KBE/ml",
+      "Jede nachweisbare Bakterienzahl, unabhängig von Geschlecht und Gewinnungstechnik",
+      "Nur eine einmalige Kultur bei Frauen mit mindestens 10² KBE/ml reicht aus",
+      "Ausschließlich der Nachweis von Escherichia coli zählt als asymptomatische Bakteriurie"
+    ],
+    "correct": 0,
+    "tip": "Bei Frauen ist wegen der höheren Kontaminationsgefahr eine zweite, konsekutive Kultur erforderlich – bei Männern genügt eine.",
+    "explanation": "Für die asymptomatische Bakteriurie verlangt Tabelle 10 einen Nachweis von 10⁵ KBE/ml, bei Frauen in zwei konsekutiven Mittelstrahlurinkulturen, bei Männern in einer Mittelstrahlurinkultur; bei Gewinnung durch Katheter und einzelner Bakterienspezies genügen bereits 10² KBE/ml."
+  },
+  {
+    "question": "Ab welcher Erregerzahl soll laut Empfehlung 5.41 bei Reinkulturen typischer Uropathogener bereits eine Erregerbestimmung inklusive Resistenztestung erfolgen?",
+    "options": [
+      "Ab 10³ KBE/ml",
+      "Erst ab 10⁶ KBE/ml",
+      "Nur bei genau 10⁵ KBE/ml",
+      "Ab 10 KBE/ml, also praktisch jedem Nachweis"
+    ],
+    "correct": 0,
+    "tip": "Erregerzahlen von 10³ bis 10⁴ KBE/ml können bei entsprechender Klinik bereits klinisch relevant sein, sofern eine Reinkultur vorliegt.",
+    "explanation": "Empfehlung 5.41 besagt, dass Erregerzahlen von 10³ bis 10⁴ KBE/ml bei entsprechenden klinischen Symptomen bereits klinisch relevant sein können, sofern es sich um Reinkulturen typischer Uropathogener handelt – daher ist ab 10³ KBE/ml eine Erregerbestimmung und ggf. Resistenztestung vorzunehmen."
+  },
+  {
+    "question": "Welche Rolle spielt die Sonografie nach Empfehlung 5.50 in der Diagnostik von Harnwegsinfektionen?",
+    "options": [
+      "Sie soll als primäre bildgebende Diagnostik zur Abklärung komplizierender Faktoren eingesetzt werden",
+      "Sie ist bei jeder unkomplizierten Zystitis obligat vor Therapiebeginn durchzuführen",
+      "Sie ersetzt die Urinkultur als Goldstandard der HWI-Diagnostik",
+      "Sie wird in der Leitlinie als obsolet eingestuft und nicht mehr empfohlen"
+    ],
+    "correct": 0,
+    "tip": "Die Zystoskopie dagegen ist bei Frauen mit rezidivierenden Harnwegsinfektionen laut Empfehlung 5.51 nicht routinemäßig indiziert.",
+    "explanation": "Empfehlung 5.50 besagt, dass die Sonographie der Nieren und Harnwege zur Abklärung komplizierender Faktoren als primäre bildgebende Diagnostik erfolgen soll. Nach einem systematischen Review wurde zudem bei Zystoskopien an Frauen mit rezidivierenden HWI nur in 1 von 656 Fällen (0,15%) eine Karzinomerkrankung entdeckt, weshalb Empfehlung 5.51 keine routinemäßige Zystoskopie vorsieht."
+  },
+  {
+    "question": "Warum ist die klassische Grenze von 10⁵ KBE/ml bei einer symptomatischen Patientin mit typischer Klinik problematisch?",
+    "options": [
+      "Weil dieser Grenzwert bei Frauen mit typischen Symptomen und Entzündungszeichen nicht als absolute Grenze anzusehen ist – auch niedrigere Erregerzahlen (10³–10⁴ KBE/ml) können bei Reinkultur klinisch relevant sein",
+      "Weil 10⁵ KBE/ml bei jeder Patientin automatisch eine Kontamination bedeutet",
+      "Weil der Grenzwert ausschließlich für Männer, niemals für Frauen gilt",
+      "Weil er nur für die asymptomatische Bakteriurie, nicht aber für die Zystitis überhaupt relevant ist"
+    ],
+    "correct": 0,
+    "tip": "Der historische Kass-Grenzwert von 10⁵ KBE/ml wurde später für andere Kollektive und klinische Situationen zu niedrigeren Erregerzahlen korrigiert.",
+    "explanation": "Der Grenzwert von 10⁵ KBE/ml bei Mittelstrahlurin ist bei Frauen mit Verdacht auf Harnwegsinfektion, entsprechenden Symptomen und Entzündungszeichen nicht als absolute Grenze anzusehen; bereits 10³ bis 10⁴ KBE/ml können bei Reinkulturen typischer Uropathogene klinisch relevant sein (Empfehlung 5.41)."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche mikrobiologischen Kriterien definieren laut Tabelle 10 eine asymptomatische Bakteriurie?",
+    "options": [
+      "10⁵ KBE/ml – bei Frauen Nachweis in zwei konsekutiven Mittelstrahlurinkulturen, bei Männern in einer Kultur; bei Gewinnung durch Katheter mit einzelner Bakterienspezies bereits 10² KBE/ml",
+      "Jede nachweisbare Bakterienzahl unabhängig von Kultur und Geschlecht",
+      "Nur eine einmalige Kultur mit mindestens 10³ KBE/ml bei Frauen",
+      "Ausschließlich der alleinige Nachweis von Enterokokken, unabhängig von der Keimzahl"
+    ],
+    "correct": 0,
+    "tip": "Die höhere Anforderung bei Frauen (zwei konsekutive Kulturen) erklärt sich aus der höheren Kontaminationsgefahr der Uringewinnung.",
+    "explanation": "Tabelle 10 definiert eine asymptomatische Bakteriurie über den Nachweis von 10⁵ KBE/ml, bei Frauen in zwei konsekutiven Mittelstrahlurinkulturen, bei Männern in einer Mittelstrahlurinkultur; bei Gewinnung durch Katheter und einzelner Bakterienspezies gilt bereits 10² KBE/ml."
+  },
+  {
+    "question": "Wie unterscheidet sich die Prävalenz der asymptomatischen Bakteriurie zwischen jüngeren Männern und über 70-jährigen Menschen?",
+    "options": [
+      "Sie liegt bei jüngeren Männern unter 1%, bei über 70-Jährigen zwischen 16% und 50%",
+      "Sie ist in beiden Gruppen identisch bei etwa 5%",
+      "Sie ist bei jüngeren Männern höher als bei über 70-Jährigen",
+      "Sie liegt bei jüngeren Männern bei 100%"
+    ],
+    "correct": 0,
+    "tip": "Bei Bewohnern stationärer Pflegeeinrichtungen wurde in einer belgischen Untersuchung sogar eine Prävalenz von 40% gefunden.",
+    "explanation": "Die Häufigkeit der asymptomatischen Bakteriurie bei Männern unter 60 Jahren ohne relevante Begleiterkrankungen liegt unter 1%, während sie bei den über 70-Jährigen zwischen 16% und 50% liegt."
+  },
+  {
+    "question": "Wie soll bei der Standardgruppe (nicht schwangere Frauen in der Prämenopause) mit einer asymptomatischen Bakteriurie laut Empfehlung 4.3/5.14 umgegangen werden?",
+    "options": [
+      "Es soll kein Screening erfolgen, und eine nachgewiesene ASB soll nicht behandelt werden",
+      "Ein Screening ist bei jeder Routineuntersuchung obligat",
+      "Eine Behandlung ist erst ab einer Keimzahl von 10⁷ KBE/ml erforderlich",
+      "Nur bei Nachweis von Staphylococcus saprophyticus ist eine Behandlung vorgesehen"
+    ],
+    "correct": 0,
+    "tip": "Bei Patientinnen mit wiederkehrenden Harnwegsinfektionen scheint eine Behandlung der ASB laut Leitlinie sogar schädlich zu sein, da sie die HWI-Rate erhöhte.",
+    "explanation": "Empfehlung 5.14 besagt, dass bei nicht schwangeren Frauen ohne relevante Begleiterkrankungen kein Screening auf eine asymptomatische Bakteriurie erfolgen soll; Empfehlung 4.3 ergänzt, dass eine ASB in dieser Gruppe nicht behandelt werden soll."
+  },
+  {
+    "question": "Was gilt laut Empfehlung 5.21/5.22 für das Screening auf asymptomatische Bakteriurie in der Schwangerschaft?",
+    "options": [
+      "Ein systematisches Screening soll nicht durchgeführt werden, und die Diagnose soll nicht allein aufgrund eines Urinstreifentests erfolgen",
+      "Ein systematisches Screening mittels Urinstreifentest ist bei jeder Schwangeren obligatorisch vorgeschrieben",
+      "Eine ASB-Diagnose wird in der Schwangerschaft ausschließlich per Teststreifen gestellt",
+      "Screening ist nur bei Zwillingsschwangerschaften vorgesehen"
+    ],
+    "correct": 0,
+    "tip": "Der Streifentest hat in der Schwangerschaft nur eine Sensitivität von 14% bis 50% für den Nachweis einer asymptomatischen Bakteriurie.",
+    "explanation": "Empfehlung 5.21 besagt, dass ein systematisches Screening auf eine asymptomatische Bakteriurie in der Schwangerschaft nicht durchgeführt werden sollte, und Empfehlung 5.22 ergänzt, dass die Diagnose nicht allein aufgrund eines Urinstreifentests erfolgen sollte, da Sensitivität und Spezifität des Streifentests unzureichend sind."
+  },
+  {
+    "question": "Welche Besonderheit gilt laut Leitlinie für den Nachweis von Gruppe-B-Streptokokken im Urin während der Schwangerschaft?",
+    "options": [
+      "Er gilt als Zeichen hoher Erregerdichte im Ano-Genitalbereich und als Risikofaktor für eine Neugeborenen-Sepsis, weshalb eine präventive Antibiotikagabe empfohlen wird",
+      "Er ist klinisch völlig irrelevant und erfordert keine weitere Maßnahme",
+      "Er erfordert eine sofortige Sectio caesarea",
+      "Er gilt ausschließlich als Marker für eine bevorstehende Präeklampsie"
+    ],
+    "correct": 0,
+    "tip": "Diese Sonderregel gilt unabhängig von der sonst üblichen Zurückhaltung beim Screening und der Behandlung einer asymptomatischen Bakteriurie in der Schwangerschaft.",
+    "explanation": "Der Nachweis von Streptokokken der Gruppe B im Urin während jeder Schwangerschaft gilt als Zeichen einer hohen Erregerdichte im Ano-Genitalbereich und als Risikofaktor für eine Neugeborenen-Sepsis, weshalb in diesem Fall eine präventive Gabe eines Antibiotikums empfohlen wird."
+  },
+  {
+    "question": "Vor welcher Art von Eingriff soll laut Empfehlung 9.6 gezielt nach einer asymptomatischen Bakteriurie gesucht und diese antibiogrammgerecht behandelt werden?",
+    "options": [
+      "Vor erwartungsgemäß Schleimhaut-traumatisierenden Interventionen im Harntrakt, z. B. der transurethralen Prostataresektion (TURP)",
+      "Vor jeder flexiblen Zystoskopie, unabhängig vom Trauma-Risiko",
+      "Vor jeder ambulanten Blutentnahme",
+      "Vor jeder Sonographie der Nieren"
+    ],
+    "correct": 0,
+    "tip": "Für nicht traumatisierende Eingriffe wie die flexible Zystoskopie gibt es dagegen keine Evidenz für diesen Nutzen.",
+    "explanation": "Empfehlung 9.6 fordert, dass vor einer erwartungsgemäß Schleimhaut-traumatisierenden Intervention im Harntrakt (die Evidenz liegt vor allem für die TURP vor) nach einer asymptomatischen Bakteriurie gesucht und diese bei Nachweis antibiogrammgerecht behandelt werden soll."
+  },
+  {
+    "question": "Welche Konsequenz hat eine unnötige antibiotische Behandlung einer asymptomatischen Bakteriurie laut Hintergrundtext zu Empfehlung 5.14/11.16?",
+    "options": [
+      "Sie erhöht das Risiko unerwünschter klinischer Effekte und kann bei Patienten mit wiederkehrenden HWI sogar die Harnwegsinfektionsrate erhöhen",
+      "Sie verbessert in jedem Fall die Lebensqualität der Patientin",
+      "Sie senkt nachweislich die Gesamtresistenzrate in der Bevölkerung",
+      "Sie hat keinerlei dokumentierte Auswirkung"
+    ],
+    "correct": 0,
+    "tip": "Dies gilt unabhängig davon, ob die Behandlung zur Eradikation hygienisch relevanter Erreger (z. B. bei Screeninguntersuchungen) ohnehin unberührt bleibt.",
+    "explanation": "Die unnötige antibiotische Behandlung einer asymptomatischen Bakteriurie erhöht das Risiko unerwünschter klinischer Effekte und trägt zur Resistenzentwicklung bei; bei Patienten mit wiederkehrenden Harnwegsinfektionen scheint eine solche Behandlung sogar schädlich zu sein, da sie die Harnwegsinfektionsrate erhöhte."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 11.35 eine asymptomatische Bakteriurie bei geriatrischen Patienten behandelt werden?",
+    "options": [
+      "Sie soll nicht behandelt werden",
+      "Sie soll immer antibiotisch behandelt werden",
+      "Nur bei Männern soll eine Behandlung erfolgen",
+      "Nur bei Fieber soll eine Behandlung erfolgen"
+    ],
+    "correct": 0,
+    "tip": "Für keine der untersuchten Patientengruppen (ohne Risikofaktoren, mit Diabetes, postmenopausal, im Pflegeheim) konnte ein Vorteil einer antibiotischen Behandlung der ASB gezeigt werden.",
+    "explanation": "Empfehlung 11.35 besagt, dass bei geriatrischen Patienten eine asymptomatische Bakteriurie nicht behandelt werden soll, da kein Vorteil einer antibiotischen Therapie nachgewiesen werden konnte, während die Rate unerwünschter Arzneimittelwirkungen erhöht war."
+  },
+  {
+    "question": "Warum soll der Begriff „asymptomatische Harnwegsinfektion“ laut Empfehlung 3.4 nicht verwendet werden?",
+    "options": [
+      "Weil eine klinisch symptomatische Harnwegsinfektion von einer asymptomatischen Bakteriurie (Kolonisation statt Infektion) unterschieden werden muss",
+      "Weil der Begriff zu lang für die klinische Dokumentation ist",
+      "Weil es im Deutschen kein passendes Wort für „asymptomatisch“ gibt",
+      "Weil er ausschließlich bei Männern verwendet werden dürfte"
+    ],
+    "correct": 0,
+    "tip": "Bei der asymptomatischen Bakteriurie wird in der Regel eine Kolonisation, nicht aber eine Infektion angenommen.",
+    "explanation": "Empfehlung 3.4 fordert, den Begriff „asymptomatische Harnwegsinfektion“ nicht zu verwenden, da eine klinisch symptomatische Harnwegsinfektion begrifflich und diagnostisch-therapeutisch klar von einer asymptomatischen Bakteriurie unterschieden werden muss, bei der in der Regel eine Kolonisation statt einer Infektion vorliegt."
+  },
+  {
+    "question": "Ein internistischer Patient hat im Aufnahmelabor zufällig eine Bakteriurie ohne jegliche Symptome. Was ist laut Leitlinie das korrekte Vorgehen?",
+    "options": [
+      "Keine Behandlung, da es sich um eine asymptomatische Bakteriurie (Kolonisation) handelt, die außerhalb definierter Ausnahmen keine Therapieindikation darstellt",
+      "Sofortige empirische Antibiotikatherapie mit einem Fluorchinolon",
+      "Umgehende stationäre Aufnahme wegen vermuteter Urosepsis",
+      "Eine Zystoskopie zur weiteren Abklärung ist zwingend erforderlich"
+    ],
+    "correct": 0,
+    "tip": "Dies ist der klassische Fallstrick der zufälligen Bakteriurie im Aufnahmelabor – außerhalb der definierten Ausnahmen (z. B. vor transurethralen Eingriffen oder in bestimmten Schwangerschaftssituationen) besteht keine Behandlungsindikation.",
+    "explanation": "Eine zufällig festgestellte asymptomatische Bakteriurie ohne Symptome stellt außerhalb der in der Leitlinie definierten Ausnahmen (z. B. vor schleimhauttraumatisierenden Eingriffen) keine Indikation zur antibiotischen Therapie dar, da es sich um eine Kolonisation und nicht um eine Infektion handelt, deren Übertherapie Resistenzentwicklung und unerwünschte Wirkungen verursachen kann."
+  }
+]

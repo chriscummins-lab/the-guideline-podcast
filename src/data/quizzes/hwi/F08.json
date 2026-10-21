@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Warum sollen Harnwegsinfektionen bei jüngeren Männern ohne sonstige relevante Begleiterkrankungen laut Empfehlung 4.7 in der Regel als komplizierte Infektionen eingeschätzt werden?",
+    "options": [
+      "Weil die Prostata als parenchymatöses Organ mit betroffen sein kann",
+      "Weil Männer grundsätzlich eine schlechtere Immunabwehr als Frauen haben",
+      "Weil bei Männern nie eine Urinkultur angelegt werden kann",
+      "Weil bei Männern ausschließlich Pilzinfektionen auftreten"
+    ],
+    "correct": 0,
+    "tip": "Trotzdem finden sich bei jüngeren Männern gelegentlich auch unkomplizierte Episoden, insbesondere ohne sonstige relevante Begleiterkrankungen.",
+    "explanation": "Empfehlung 4.7 begründet die Einschätzung als komplizierte Infektion damit, dass die Prostata als parenchymatöses Organ bei Harnwegsinfektionen des Mannes mit betroffen sein kann."
+  },
+  {
+    "question": "Bei welchem Anteil der Männer mit fieberhaften Harnwegsinfektionen besteht laut Hintergrundtext zu 4.7/4.8 gleichzeitig eine Prostatabeteiligung?",
+    "options": [
+      "Über 90%",
+      "Unter 5%",
+      "Genau 50%",
+      "Es liegt praktisch nie eine Prostatabeteiligung vor"
+    ],
+    "correct": 0,
+    "tip": "Dies beruht auf einem oft hohen, aber vorübergehenden Anstieg des PSA-Wertes und einer Prostataschwellung.",
+    "explanation": "Über 90% der Männer mit fieberhaften Harnwegsinfektionen (>38°C) mit oder ohne klinische Zeichen einer akuten Pyelonephritis haben gleichzeitig eine Prostatabeteiligung."
+  },
+  {
+    "question": "Welche Antibiotika sollen laut Empfehlung 11.25 für die empirische orale Therapie der akuten unkomplizierten Zystitis bei jüngeren Männern eingesetzt werden?",
+    "options": [
+      "Pivmecillinam und Nitrofurantoin",
+      "Fosfomycin-Trometamol als Einmalgabe",
+      "Nitroxolin als Mittel der ersten Wahl",
+      "Ausschließlich Fluorchinolone"
+    ],
+    "correct": 0,
+    "tip": "Für Fosfomycin und Nitroxolin liegen bei Männern keine Daten vor, und Nitrofurantoin ist bei Prostatabeteiligung nicht geeignet.",
+    "explanation": "Empfehlung 11.25 sieht Pivmecillinam und Nitrofurantoin für die empirische orale Therapie der akuten unkomplizierten Zystitis bei jüngeren Männern vor, wobei Nitrofurantoin bei Beteiligung der Prostata nicht einzusetzen ist."
+  },
+  {
+    "question": "Unter welcher Voraussetzung können laut Empfehlung 11.26 Fluorchinolone für die empirische orale Therapie der milden bis mittelschweren Pyelonephritis bei jüngeren Männern eingesetzt werden?",
+    "options": [
+      "Wenn die lokale Escherichia-coli-Resistenzrate noch unter 10% liegt",
+      "Nur wenn der Patient bereits über 80 Jahre alt ist",
+      "Unabhängig von der lokalen Resistenzsituation, grundsätzlich immer",
+      "Nur bei begleitender Diabeteserkrankung"
+    ],
+    "correct": 0,
+    "tip": "Fluorchinolone werden hier wegen ihrer hohen Gewebegängigkeit bevorzugt, sofern die Resistenzlage dies zulässt.",
+    "explanation": "Empfehlung 11.26 sieht vor, dass Fluorchinolone in erster Linie empfohlen werden können, falls die lokale Escherichia-coli-Resistenzrate noch unter 10% liegt."
+  },
+  {
+    "question": "Welche Therapiedauer empfiehlt Empfehlung 11.27 für die akute unkomplizierte Pyelonephritis bei jüngeren Männern?",
+    "options": [
+      "2 Wochen, abhängig vom Antibiotikum und klinischen Verlauf",
+      "1 Tag als Einmalgabe",
+      "Mindestens 3 Monate",
+      "Nur 24 Stunden parenteral"
+    ],
+    "correct": 0,
+    "tip": "Ob eine Kurzzeittherapie bei Männern ebenso effektiv ist wie bei Frauen, wurde bislang in Studien nicht belegt.",
+    "explanation": "Empfehlung 11.27 sieht für die Therapiedauer der akuten unkomplizierten Pyelonephritis bei jüngeren Männern etwa 2 Wochen vor, abhängig vom eingesetzten Antibiotikum und dem klinischen Verlauf."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 4.9 eine asymptomatische Bakteriurie bei jüngeren Männern ohne sonstige relevante Begleiterkrankungen behandelt werden, und wie hoch ist ihre Prävalenz bei Männern unter 60 Jahren?",
+    "options": [
+      "Sie soll nicht antibiotisch behandelt werden; ihre Prävalenz liegt unter 1%",
+      "Sie muss immer antibiotisch behandelt werden; ihre Prävalenz liegt bei 50%",
+      "Sie wird nur bei Nachweis von E. coli behandelt; Prävalenz 20%",
+      "Sie tritt bei jüngeren Männern gar nicht auf"
+    ],
+    "correct": 0,
+    "tip": "Eine Behandlung zur Eradikation hygienisch bedeutsamer Erreger, z. B. bei Screeninguntersuchungen, ist davon nicht betroffen.",
+    "explanation": "Empfehlung 4.9 besagt, dass eine asymptomatische Bakteriurie bei jüngeren Männern ohne sonstige relevante Begleiterkrankungen nicht antibiotisch behandelt werden soll; ihre Häufigkeit liegt bei Männern unter 60 Jahren unter 1%."
+  },
+  {
+    "question": "Um das Wievielfache ist das Risiko, bei Diabetes mellitus an einer Harnwegsinfektion zu erkranken, laut Leitlinie für Frauen bzw. für Männer gegenüber Gleichaltrigen ohne Diabetes erhöht?",
+    "options": [
+      "Bei Frauen fast 25-fach, bei Männern fast 20-fach erhöht",
+      "Bei beiden Geschlechtern unverändert",
+      "Bei Männern fast 25-fach, bei Frauen nur 2-fach erhöht",
+      "Nur bei Frauen leicht erhöht, bei Männern nicht nachweisbar erhöht"
+    ],
+    "correct": 0,
+    "tip": "Dies gilt unabhängig vom Erregerspektrum, das sich bei Diabetes nicht grundsätzlich von dem bei Nicht-Diabetikern unterscheidet.",
+    "explanation": "Laut Leitlinie ist das Risiko, bei Diabetes mellitus an einer Harnwegsinfektion zu erkranken, bei Frauen fast 25-mal und bei Männern fast 20-mal größer als bei gleichaltrigen Personen ohne Diabetes mellitus."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 11.29 eine akute unkomplizierte Zystitis bei Patienten mit Diabetes mellitus und stabiler Stoffwechsellage behandelt werden?",
+    "options": [
+      "In gleicher Weise (Antibiotikaauswahl und Therapiedauer) wie bei Patienten ohne Diabetes mellitus",
+      "Grundsätzlich mit einer um 50% höheren Dosierung",
+      "Nur mit parenteralen Antibiotika",
+      "Mit einer generell doppelt so langen Therapiedauer wie bei Nicht-Diabetikern"
+    ],
+    "correct": 0,
+    "tip": "Als stabile Stoffwechsellage gilt hierbei u. a. ein HbA1c unter 7,0% ohne Neigung zu Hypo- oder Hyperglykämien und ohne diabetische Nephropathie/Neuropathie.",
+    "explanation": "Empfehlung 11.29 sieht vor, dass eine akute unkomplizierte Zystitis bei Patienten mit Diabetes mellitus und stabiler Stoffwechsellage in gleicher Weise, also mit gleicher Antibiotikaauswahl und Therapiedauer, behandelt werden sollte wie entsprechende HWI bei Patienten ohne Diabetes mellitus."
+  },
+  {
+    "question": "Ab welchem HbA1c-Wert gilt laut Hintergrundtext zu 4.11/4.12 eine instabile Stoffwechsellage als Hinweis dafür, dass eine Harnwegsinfektion als kompliziert zu werten ist?",
+    "options": [
+      "HbA1c >8,5% (entspricht 69 mmol/mol)",
+      "HbA1c >5,0%",
+      "HbA1c >95%",
+      "Der HbA1c-Wert spielt dabei keine Rolle"
+    ],
+    "correct": 0,
+    "tip": "Weitere Hinweise sind ein pathologischer BMI (>30 kg/m²) und eine manifeste diabetische Nephropathie ab Stadium II bis III.",
+    "explanation": "Der Hintergrundtext zu 4.11/4.12 nennt einen HbA1c-Wert über 8,5% (entspricht 69 mmol/mol) mit Neigung zu Hypo- und Hyperglykämien als einen der Hinweise für eine instabile Stoffwechselsituation, bei der Harnwegsinfektionen als kompliziert zu werten sind."
+  },
+  {
+    "question": "Wie verändern Gliflozine (SGLT2-Inhibitoren) laut Leitlinie das Risiko für Harnwegsinfektionen und für Genitalinfektionen?",
+    "options": [
+      "Das HWI-Risiko ist gegenüber Placebo nicht wesentlich erhöht, wohl aber das Risiko für Genitalinfektionen anderer Genese",
+      "Beide Risiken sind drastisch erhöht und rechtfertigen ein Absetzen bei jeder HWI",
+      "Beide Risiken sind vollständig unverändert",
+      "Nur das HWI-Risiko ist erhöht, das Genitalinfektionsrisiko sinkt dagegen"
+    ],
+    "correct": 0,
+    "tip": "Dennoch ist bei fieberhaften Infekten oder drohender Stoffwechseldekompensation differenziert vorzugehen – klassischer Fallstrick ist zudem die Fosfomycin-Einmalgabe beim Mann „wie bei der Frau“, für die keine Daten vorliegen.",
+    "explanation": "Laut Leitlinie ist bei Einsatz von Gliflozinen das Risiko für eine Exazerbation einer Harnwegsinfektion im Vergleich zu Placebo nicht erhöht, wohl aber das Risiko für Genitalinfektionen anderer Genese."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie wird ein geriatrischer Patient laut Kapitel 4.6 definiert?",
+    "options": [
+      "Geriatrietypische Multimorbidität mit mehr als zwei behandlungsbedürftigen Systemerkrankungen und ein höheres Lebensalter (i. d. R. ≥70 Jahre); ein Alter über 80 Jahren definiert die Gruppe auch unabhängig davon",
+      "Jeder Patient, der in einem Krankenhaus behandelt wird",
+      "Nur Patienten mit nachgewiesener Demenz",
+      "Ausschließlich Patienten mit Dauerkatheter unabhängig vom Alter"
+    ],
+    "correct": 0,
+    "tip": "Zu den möglichen Folgeschäden der Multimorbidität zählen u. a. kognitive Defizite, Sturzneigung, chronische Schmerzen, Inkontinenz, Immobilität oder Mangelernährung.",
+    "explanation": "Kapitel 4.6 definiert geriatrische Patienten über eine geriatrietypische Multimorbidität (mehr als zwei Systemerkrankungen mit Folgeschäden) und ein höheres Lebensalter (in der Regel ≥70 Jahre); ein Alter über 80 Jahren definiert diese Gruppe auch unabhängig von Systemerkrankungen und Folgeschäden."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.38 für die Diagnosestellung einer Harnwegsinfektion bei geriatrischen Patienten?",
+    "options": [
+      "Die Diagnose soll nicht allein auf der Basis eines positiven Teststreifens gestellt werden",
+      "Ein positiver Teststreifen alleine genügt immer als Diagnosekriterium",
+      "Die Diagnose darf ausschließlich klinisch, ohne jede Labordiagnostik, gestellt werden",
+      "Bei geriatrischen Patienten ist eine Urinkultur grundsätzlich verboten"
+    ],
+    "correct": 0,
+    "tip": "Hintergrund ist die hohe Prävalenz der asymptomatischen Bakteriurie in dieser Altersgruppe, die Streifentests als alleiniges Diagnosemittel unzuverlässig macht – klassischer Fallstrick: „trüber Urin im Beutel = Antibiotikum“.",
+    "explanation": "Empfehlung 5.38 besagt, dass die Diagnose einer Harnwegsinfektion bei geriatrischen Patienten nicht allein auf Basis eines positiven Teststreifens gestellt werden soll, da Streifentests aufgrund der hohen Prävalenz einer asymptomatischen Bakteriurie kein reliables alleiniges Diagnosemittel sind."
+  },
+  {
+    "question": "Welche zusätzlichen klinischen Aspekte sollen laut Empfehlung 5.39 bei geriatrischen Patienten für die Diagnose einer Harnwegsinfektion mitberücksichtigt werden?",
+    "options": [
+      "Untypische Beschwerdesymptomatik sowie Veränderungen der Vigilanz, der Flüssigkeits- und der Nahrungsaufnahme",
+      "Ausschließlich der CRP-Wert",
+      "Nur die Körpergröße des Patienten",
+      "Der familiäre Beziehungsstatus"
+    ],
+    "correct": 0,
+    "tip": "Diese unspezifischen Symptome allein sollen laut Algorithmus jedoch keine Basis für eine Antibiotikatherapie sein, wenn keine harnwegstypischen Symptome vorliegen.",
+    "explanation": "Empfehlung 5.39 fordert, dass neben harnwegstypischer Symptomatik und laborchemischen/mikrobiologischen Befunden auch klinische Aspekte wie untypische Beschwerdesymptomatik sowie Veränderungen der Vigilanz, Flüssigkeits- und Nahrungsaufnahme mitberücksichtigt werden sollen."
+  },
+  {
+    "question": "Welche Prädiktoren wurden laut Hintergrundtext zu 5.38/5.39 in einer Kohorte geriatrischer Heimbewohner (ohne Katheter) für das Vorliegen eines Harnwegsinfekts identifiziert?",
+    "options": [
+      "Algurie, Änderung im Aussehen des Urins und die Entwicklung psychiatrischer Symptome",
+      "Ausschließlich Fieber über 39°C",
+      "Eine Erhöhung des Serumkreatinins um mehr als 50%",
+      "Nur ein positiver Nitrit-Test ohne weitere Kriterien"
+    ],
+    "correct": 0,
+    "tip": "Bei alleiniger Algurie oder dem Vorliegen von ein bis zwei weiteren dieser Prädiktoren lag die Wahrscheinlichkeit für eine HWI bei 63%.",
+    "explanation": "In einer Kohorte geriatrischer Heimbewohner ohne Katheter wurden Algurie (RR 1,49), eine Änderung im Aussehen des Urins (RR 1,46) und die Entwicklung psychiatrischer Symptome (RR 1,38) als Prädiktoren für einen Harnwegsinfekt identifiziert."
+  },
+  {
+    "question": "Wie hoch ist laut Hintergrundtext zu Empfehlung 5.38 der negativ prädiktive Wert (NPV), wenn Nitrit und Leukozytenesterase im Teststreifen beide negativ sind?",
+    "options": [
+      "88%",
+      "20%",
+      "100%",
+      "Der NPV wurde in dieser Patientengruppe nicht untersucht"
+    ],
+    "correct": 0,
+    "tip": "Die Sensitivität der Kombination lag zwischen 72% und 100%, die Spezifität schwankte dagegen stark zwischen 20% und 70%.",
+    "explanation": "Sofern Nitrit und Leukozytenesterase im Teststreifen beide negativ sind, liegen mit hoher Wahrscheinlichkeit keine Harnwegsinfektion und keine Bakteriurie vor; der negativ prädiktive Wert (NPV) beträgt 88%."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 11.34 eine akute unkomplizierte Zystitis bei geriatrischen Patienten behandelt werden, wenn keine weiteren komplizierenden Aspekte vorliegen?",
+    "options": [
+      "In gleicher Weise (Antibiotikaauswahl und Therapiedauer) wie bei anderen Patientengruppen",
+      "Grundsätzlich mit einer doppelten Standarddosierung",
+      "Ausschließlich stationär und parenteral",
+      "Mit einer Mindesttherapiedauer von 4 Wochen"
+    ],
+    "correct": 0,
+    "tip": "Für die Antibiotikaauswahl bei geriatrischen Patienten lassen sich aus der Literatur nur vereinzelt abweichende Empfehlungen gegenüber anderen Altersgruppen ableiten.",
+    "explanation": "Empfehlung 11.34 besagt, dass eine akute unkomplizierte Zystitis bei geriatrischen Patienten in gleicher Weise behandelt werden kann wie HWI bei anderen Patientengruppen, sofern keine weiteren komplizierenden Aspekte hinzukommen."
+  },
+  {
+    "question": "Welche Substanzklasse ist laut PRISCUS-2.0-Liste bei geriatrischen Patienten als potenziell inadäquates Medikament (PIM) eingestuft und daher auch keine sinnvolle Alternative zur Antibiotikatherapie?",
+    "options": [
+      "Fluorchinolone als Antibiotika sowie nichtsteroidale Antirheumatika (NSAR) als symptomatische Alternative",
+      "Fosfomycin-Trometamol",
+      "Pivmecillinam",
+      "Nitrofurantoin, das in der PRISCUS-2.0-Liste als klar inadäquat gilt"
+    ],
+    "correct": 0,
+    "tip": "Die als First-Line-Präparate zur Zystitis-Behandlung empfohlenen Substanzen sind dagegen nicht in der PRISCUS-2.0-Liste als PIM gelistet.",
+    "explanation": "Fluorchinolone sind in der PRISCUS-2.0-Liste als potenziell inadäquates Medikament bei älteren Patienten aufgeführt; NSAR gelten dort ebenfalls als PIM, weshalb eine NSAR-Therapie als nicht-antibiotische Alternative bei geriatrischen Patienten nicht empfohlen wird. Nitrofurantoin wird in PRISCUS 2.0 im Gegensatz zu Version 1.0 nicht mehr klar als inadäquat, sondern als „nicht eindeutig bewertet“ eingestuft."
+  },
+  {
+    "question": "Was gilt laut Leitlinie für den Begriff der „unkomplizierten Pyelonephritis“ bei geriatrischen Patienten?",
+    "options": [
+      "Diesen Begriff gibt es bei geriatrischen Patienten nicht – eine Pyelonephritis wird bei dieser Gruppe in der Leitlinie nicht gesondert behandelt",
+      "Er wird genauso definiert wie bei prämenopausalen Frauen",
+      "Er gilt nur bei Patienten ohne Dauerkatheter",
+      "Er wird ausschließlich bei Männern verwendet"
+    ],
+    "correct": 0,
+    "tip": "Die Krankheitsentität „unkomplizierte Pyelonephritis“ findet bei geriatrischen Patienten laut Leitlinie keine Anwendung.",
+    "explanation": "Die Leitlinie stellt klar, dass die Krankheitsentität „unkomplizierte Pyelonephritis“ bei geriatrischen Patienten keine Anwendung findet; eine Pyelonephritis bei dieser Patientengruppe wird in der Leitlinie nicht gesondert behandelt."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 11.35 eine asymptomatische Bakteriurie bei geriatrischen Patienten behandelt werden?",
+    "options": [
+      "Sie soll nicht behandelt werden",
+      "Sie soll immer antibiotisch behandelt werden, unabhängig vom Erreger",
+      "Nur bei männlichen geriatrischen Patienten ist eine Behandlung vorgesehen",
+      "Sie soll ausschließlich mit Fluorchinolonen behandelt werden"
+    ],
+    "correct": 0,
+    "tip": "Auch wenn eine Studie ein „bacteriological cure“ bei sehr alten Patienten zeigen konnte, war die Rate unerwünschter Arzneimittelwirkungen so hoch, dass keine Behandlungsempfehlung formuliert werden konnte.",
+    "explanation": "Empfehlung 11.35 besagt, dass bei geriatrischen Patienten eine asymptomatische Bakteriurie nicht behandelt werden soll, da kein Vorteil einer antibiotischen Behandlung gezeigt werden konnte, während die Nebenwirkungsrate signifikant erhöht war."
+  },
+  {
+    "question": "Was gilt laut Kapitel 12.6 für eine Antibiotikaprophylaxe bei Blasendauerkatheterträgern zur Prävention rezidivierender Harnwegsinfektionen?",
+    "options": [
+      "Es liegen keine belastbaren Daten vor, die eine solche Prophylaxe unterstützen – sie ist daher nicht zu verordnen",
+      "Sie ist bei allen Dauerkatheterträgern obligatorisch",
+      "Sie wird nur bei Männern mit Dauerkatheter empfohlen",
+      "Sie soll ausschließlich mit Fluorchinolonen durchgeführt werden"
+    ],
+    "correct": 0,
+    "tip": "Für geriatrische Frauen ohne Katheter kann dagegen unter bestimmten Bedingungen eine antibiotische Langzeitprävention mit niedrig dosiertem Trimethoprim, Trimethoprim/Sulfamethoxazol oder Nitrofurantoin erwogen werden (Empfehlung 12.9).",
+    "explanation": "Kapitel 12.6 stellt fest, dass keine belastbaren Daten vorliegen, die eine Antibiotikaprophylaxe bei Blasendauerkatheterträgern unterstützen, und diese daher nicht zu verordnen ist."
+  }
+]

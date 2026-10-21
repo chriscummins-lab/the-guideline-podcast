@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welches Ziel nennt Kapitel 1.7 der S3-Leitlinie HWI ausdrücklich als Zweck der Empfehlungen?",
+    "options": [
+      "Rationaler Antibiotikaeinsatz und Vermeidung der Entwicklung von Resistenzen durch Reduktion nicht indizierter Therapien",
+      "Senkung der Krankenhausverweildauer bei Pyelonephritis um mindestens 2 Tage",
+      "Einführung einer verpflichtenden Urinkultur bei jeder Harnwegsinfektion",
+      "Ersatz der hausärztlichen Versorgung durch spezialisierte Urologie-Zentren"
+    ],
+    "correct": 0,
+    "tip": "Die Leitlinie richtet sich interdisziplinär an viele Berufsgruppen, die mit Diagnose, Therapie und Prävention von HWI befasst sind.",
+    "explanation": "Kapitel 1.7 nennt als Ziel evidenz- und konsensbasierte Empfehlungen zum rationalen Einsatz antimikrobieller Substanzen, zur Reduktion des Antibiotikagebrauchs bei fehlender Indikation und zur Vermeidung einer Resistenzentwicklung."
+  },
+  {
+    "question": "Welche der folgenden Aussagen gehört NICHT zu den in Kapitel 2 genannten wesentlichen Neuerungen der Aktualisierung 2024?",
+    "options": [
+      "Eine Einführung der Fosfomycin-Dauertherapie über 6 Monate als neues Standardregime bei jeder Zystitis",
+      "Verstärkte Zurückhaltung beim Einsatz von Fluorchinolonen und Reserveantibiotika",
+      "Ein neues Kapitel zu geriatrischen Patienten mit und ohne Katheter",
+      "Eine differenziertere Bewertung der asymptomatischen Bakteriurie in der Schwangerschaft"
+    ],
+    "correct": 0,
+    "tip": "Die Dosierungen der Erstlinien-Antibiotika zur Kurzzeittherapie der Zystitis haben sich 2024 nicht grundlegend geändert.",
+    "explanation": "Kapitel 2 nennt u. a. verstärkte Zurückhaltung bei Fluorchinolonen/Reserveantibiotika, gestärkte nicht-antibiotische Therapie, explizite Berücksichtigung von Kollateralschäden, eine differenziertere Bewertung der ASB in der Schwangerschaft, eine überarbeitete Rezidivprophylaxe und ein neues Kapitel zu geriatrischen Patienten. Eine 6-monatige Fosfomycin-Dauertherapie als neues Standardregime wird nirgends erwähnt."
+  },
+  {
+    "question": "Wie definiert Statement 3.1 eine unkomplizierte Harnwegsinfektion?",
+    "options": [
+      "Keine relevanten funktionellen oder anatomischen Anomalien, keine relevanten Nierenfunktionsstörungen und keine relevanten Begleiterkrankungen/Differenzialdiagnosen, die die HWI bzw. Komplikationen begünstigen",
+      "Eine Infektion, die ausschließlich bei Frauen in der Prämenopause auftritt",
+      "Jede HWI, die mit einem einzigen Antibiotikum innerhalb von 3 Tagen ausheilt",
+      "Eine Infektion ohne jeglichen Nachweis von Bakterien in der Urinkultur"
+    ],
+    "correct": 0,
+    "tip": "Die Definition bezieht sich auf das Fehlen komplizierender Faktoren im Harntrakt, nicht auf Alter, Geschlecht oder Therapieerfolg.",
+    "explanation": "Statement 3.1 definiert die unkomplizierte HWI über das Fehlen relevanter funktioneller/anatomischer Anomalien, relevanter Nierenfunktionsstörungen und relevanter Begleiterkrankungen bzw. Differenzialdiagnosen, die eine HWI oder gravierende Komplikationen begünstigen."
+  },
+  {
+    "question": "Ab welcher Körpertemperatur wird bei älteren Menschen (in der Regel über 70 Jahre) laut Hintergrundtext zu Statement 3.3 bereits Fieber angenommen?",
+    "options": [
+      "37,4°C",
+      "38,0°C",
+      "39,0°C",
+      "36,8°C"
+    ],
+    "correct": 0,
+    "tip": "Bei jüngeren Patienten gilt als Pyelonephritis-Kriterium Fieber >38°C – im Alter ist die Temperaturregulation jedoch oft verändert.",
+    "explanation": "Aufgrund einer häufig physiologisch veränderten Temperaturregulation ist bei älteren Menschen (in der Regel >70 Jahre) die Temperaturgrenze für die Annahme von Fieber bereits bei 37,4°C zu berücksichtigen, während bei jüngeren Patienten Statement 3.3 Fieber >38°C als Kriterium der Pyelonephritis nennt."
+  },
+  {
+    "question": "Welche Symptomkonstellation spricht laut Statement 3.3 für eine obere Harnwegsinfektion (Pyelonephritis) statt einer reinen Zystitis?",
+    "options": [
+      "Flankenschmerz, klopfschmerzhaftes Nierenlager und/oder Fieber (>38°C)",
+      "Ausschließlich eine isolierte Pollakisurie ohne weitere Beschwerden",
+      "Ein pathologischer Fluor vaginalis ohne weitere Symptome",
+      "Eine Erregerzahl von genau 10³ KBE/ml im Mittelstrahlurin"
+    ],
+    "correct": 0,
+    "tip": "Die Zystitis (Statement 3.2) beschränkt sich dagegen auf Symptome des unteren Harntrakts wie Algurie, imperativen Harndrang und Pollakisurie.",
+    "explanation": "Statement 3.3 nennt Flankenschmerz, ein klopfschmerzhaftes Nierenlager und/oder Fieber (>38°C) als Hinweise auf eine Pyelonephritis, während die Zystitis (3.2) sich auf Symptome des unteren Harntrakts beschränkt."
+  },
+  {
+    "question": "Was fordert Empfehlung 3.4 bezüglich der Terminologie zur asymptomatischen Bakteriurie?",
+    "options": [
+      "Der Begriff „asymptomatische Harnwegsinfektion“ soll nicht verwendet werden, da symptomatische HWI und asymptomatische Bakteriurie unterschieden werden müssen",
+      "Jede asymptomatische Bakteriurie soll konsequent antibiotisch behandelt werden",
+      "Der Begriff „asymptomatische Bakteriurie“ soll durch „latente Pyelonephritis“ ersetzt werden",
+      "Eine asymptomatische Bakteriurie liegt nur bei Männern vor, nie bei Frauen"
+    ],
+    "correct": 0,
+    "tip": "Es geht um die begriffliche Trennung zwischen Kolonisation und tatsächlicher Infektion.",
+    "explanation": "Empfehlung 3.4 besagt, dass eine klinisch symptomatische Harnwegsinfektion von einer asymptomatischen Bakteriurie unterschieden wird und der Begriff „asymptomatische Harnwegsinfektion“ nicht verwendet werden soll, weil er missverständlich ist und nicht zwischen Kolonisation und Infektion unterscheidet."
+  },
+  {
+    "question": "Ab welcher Episodenhäufigkeit spricht Statement 3.5 von einer rezidivierenden Harnwegsinfektion?",
+    "options": [
+      "2 symptomatische Episoden innerhalb von 6 Monaten oder 3 symptomatische Episoden innerhalb von 12 Monaten",
+      "Jede zweite HWI im Leben einer Patientin, unabhängig vom Zeitraum",
+      "Mindestens 5 Episoden innerhalb eines Monats",
+      "1 Episode pro Jahr über mindestens 3 aufeinanderfolgende Jahre"
+    ],
+    "correct": 0,
+    "tip": "Es gibt zwei alternative Zeitfenster – 6 Monate oder 12 Monate – mit unterschiedlicher Episodenzahl.",
+    "explanation": "Statement 3.5 definiert eine rezidivierende Harnwegsinfektion als Rezidivrate von 2 symptomatischen Episoden innerhalb von 6 Monaten oder 3 symptomatischen Episoden innerhalb von 12 Monaten."
+  },
+  {
+    "question": "Welche der folgenden Konstellationen zählt laut Tabelle 6 zu den Hinweisen auf komplizierende Faktoren von Harnwegsinfektionen?",
+    "options": [
+      "Ein liegender Harnblasenkatheter oder eine Harnleiterschiene als Fremdkörper im Harntrakt",
+      "Eine stabil eingestellte Schwangerschaft ohne weitere Begleiterkrankungen",
+      "Ein einmaliger Geschlechtsverkehr in den letzten 4 Wochen",
+      "Eine erstmalige Zystitis bei einer 25-jährigen gesunden Frau"
+    ],
+    "correct": 0,
+    "tip": "Tabelle 6 unterscheidet anatomische, funktionelle, immunologische Faktoren sowie intraoperative/postoperative Situationen mit Fremdkörpern.",
+    "explanation": "Tabelle 6 nennt unter anderem Fremdkörper wie Nephrostomie, Harnleiterschienen und Harnblasenkatheter als Hinweise auf komplizierende Faktoren. Eine unkomplizierte Schwangerschaft gilt dagegen nach der Leitlinien-Definition nicht automatisch als kompliziert."
+  },
+  {
+    "question": "Welche sechs Patientengruppen unterscheidet Empfehlung 4.1 hinsichtlich Diagnostik, Therapie und Prävention unkomplizierter Harnwegsinfektionen?",
+    "options": [
+      "Standardgruppe (Prämenopause), Schwangere, Postmenopause, jüngere Männer, Patienten mit Diabetes mellitus und stabiler Stoffwechsellage, geriatrische Patienten",
+      "Kinder, Jugendliche, Erwachsene, Senioren, Schwangere und Wöchnerinnen",
+      "Ambulante Patienten, stationäre Patienten, Intensivpatienten und Pflegeheimbewohner",
+      "Frauen mit Diabetes, Männer mit Diabetes, Frauen ohne Diabetes, Männer ohne Diabetes"
+    ],
+    "correct": 0,
+    "tip": "Die Gruppeneinteilung richtet sich danach, dass sich diagnostisches und therapeutisches Vorgehen zwischen diesen Gruppen unterscheiden kann.",
+    "explanation": "Empfehlung 4.1 unterscheidet sechs Gruppen: nicht schwangere Frauen in der Prämenopause ohne relevante Begleiterkrankungen (Standardgruppe), Schwangere, Frauen in der Postmenopause, jüngere Männer, Patienten mit Diabetes mellitus und stabiler Stoffwechsellage sowie geriatrische Patienten mit mehr als zwei behandlungsbedürftigen Systemerkrankungen."
+  },
+  {
+    "question": "Wie wird ein geriatrischer Patient im Sinne von Kapitel 4.6 definiert?",
+    "options": [
+      "Geriatrietypische Multimorbidität (mehr als zwei behandlungsbedürftige Systemerkrankungen) und höheres Lebensalter (i. d. R. ≥70 Jahre); ein Alter über 80 Jahren definiert die Gruppe auch unabhängig davon",
+      "Jeder Patient über 65 Jahren unabhängig von Begleiterkrankungen",
+      "Nur Patienten, die dauerhaft in einem Pflegeheim leben",
+      "Ausschließlich Patienten mit Harnblasendauerkatheter"
+    ],
+    "correct": 0,
+    "tip": "Zwei Kriterien definieren die Gruppe unabhängig voneinander: Multimorbidität mit Folgeschäden oder ein Alter über 80 Jahren.",
+    "explanation": "Als geriatrisch werden Patienten mit geriatrietypischer Multimorbidität (mehr als zwei Systemerkrankungen mit Folgeschäden) und einem höheren Lebensalter (in der Regel ≥70 Jahre) definiert; ein Alter über 80 Jahren definiert die Gruppe auch unabhängig von Systemerkrankungen und Folgeschäden. Berücksichtigt werden Patienten zuhause oder im Pflegeheim."
+  }
+]

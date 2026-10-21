@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie hoch ist die Spontanheilungsrate der akuten unkomplizierten Zystitis laut Hintergrundtext zu 9.2/9.3 nach einer Woche?",
+    "options": [
+      "Etwa 30% bis 50%",
+      "Etwa 95%",
+      "Nahezu 0%",
+      "Genau 100%"
+    ],
+    "correct": 0,
+    "tip": "Da gravierende Komplikationen bei einer auf die Blase begrenzten HWI nicht zu erwarten sind, geht es bei der Therapie primär um eine raschere Symptomlinderung.",
+    "explanation": "Nach einer Woche liegen die Spontanheilungsraten der akuten unkomplizierten Zystitis laut Hintergrundtext zu 9.2/9.3 bei etwa 30% bis 50%; die Therapie zielt daher im Wesentlichen auf eine raschere Symptomlinderung ab."
+  },
+  {
+    "question": "Was empfiehlt Empfehlung 9.4 bezüglich der nicht-antibiotischen Therapie der akuten unkomplizierten Zystitis bei nicht-geriatrischen Patienten?",
+    "options": [
+      "Eine antibiotische Therapie soll empfohlen werden, bei nicht-geriatrischen Patienten soll aber die alleinige nicht-antibiotische Therapie als Alternative mit partizipativer Entscheidungsfindung erwogen werden",
+      "Eine nicht-antibiotische Therapie ist bei jeder Patientengruppe, auch bei geriatrischen Patienten, gleichwertig zur antibiotischen Therapie",
+      "Eine nicht-antibiotische Therapie wird in der Leitlinie grundsätzlich abgelehnt",
+      "Antibiotika sollen nur noch bei Pyelonephritis, nie mehr bei Zystitis eingesetzt werden"
+    ],
+    "correct": 0,
+    "tip": "Für geriatrische Patienten gibt es laut Hintergrundtext keine Evidenz für NSAR, da diese Patienten nicht in die zugrunde liegenden Studien eingeschlossen wurden.",
+    "explanation": "Empfehlung 9.4 sieht vor, dass eine antibiotische Therapie empfohlen werden soll, bei nicht-geriatrischen Patienten aber die alleinige nicht-antibiotische Therapie (z. B. Ibuprofen, Diclofenac, Uva Ursi, BNO 1045) als Alternative mit partizipativer Entscheidungsfindung erwogen werden soll."
+  },
+  {
+    "question": "Wie hoch war laut Tabelle 18 die Antibiotikaeinsparung bei der Behandlung mit BNO 1045 im Vergleich zu einer Fosfomycin-Einmalgabe?",
+    "options": [
+      "84%",
+      "15%",
+      "37%",
+      "100%"
+    ],
+    "correct": 0,
+    "tip": "Diese Studie schloss 657 Patientinnen ein und erreichte die höchste Einsparquote unter den in Tabelle 18 aufgeführten nicht-antibiotischen Optionen.",
+    "explanation": "Tabelle 18 zeigt für BNO 1045 (3x2 Tabletten über 7 Tage) im Vergleich zu einer Fosfomycin-Einmalgabe eine Antibiotikaeinsparung von 84% bei 657 eingeschlossenen Patientinnen."
+  },
+  {
+    "question": "Was fordert Empfehlung 9.5 zur Antibiotikatherapie bei der akuten unkomplizierten Pyelonephritis?",
+    "options": [
+      "Eine wirksame Antibiotikatherapie soll so früh wie möglich zum Einsatz kommen",
+      "Eine Antibiotikatherapie darf frühestens nach 3 Tagen begonnen werden",
+      "Bei Pyelonephritis ist primär eine alleinige nicht-antibiotische Therapie zu bevorzugen",
+      "Die Therapie soll erst nach Vorliegen des Urinkultur-Ergebnisses begonnen werden"
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz zur Zystitis gibt es bei der Pyelonephritis keine Option auf primär symptomatische Behandlung.",
+    "explanation": "Empfehlung 9.5 fordert, dass bei der akuten unkomplizierten Pyelonephritis eine wirksame Antibiotikatherapie so früh wie möglich zum Einsatz kommen soll, da mögliche Nierenschädigungen durch Zeitdauer, Schwere und Häufigkeit solcher Infektionen begünstigt werden."
+  },
+  {
+    "question": "Was fordert Empfehlung 9.6 im Hinblick auf eine asymptomatische Bakteriurie vor einer erwartungsgemäß Schleimhaut-traumatisierenden Intervention im Harntrakt (z. B. TURP)?",
+    "options": [
+      "Vor einer solchen Intervention soll nach einer asymptomatischen Bakteriurie gesucht und diese bei Nachweis behandelt werden",
+      "Eine asymptomatische Bakteriurie soll vor jeder Intervention ignoriert werden",
+      "Eine Behandlung ist nur bei Fieber über 39°C indiziert",
+      "Diese Empfehlung gilt gleichermaßen für flexible Zystoskopien, für die ebenfalls starke Evidenz vorliegt"
+    ],
+    "correct": 0,
+    "tip": "Für nicht traumatisierende Eingriffe wie die flexible Urethrozystoskopie gibt es dagegen laut Hintergrundtext keine Evidenz für diesen Nutzen.",
+    "explanation": "Empfehlung 9.6 fordert, dass vor einer erwartungsgemäß Schleimhaut-traumatisierenden Intervention im Harntrakt nach einer asymptomatischen Bakteriurie gesucht und diese bei Nachweis behandelt werden soll, da sie das Infektionsrisiko erhöht. Die Evidenz dafür liegt vor allem für die transurethrale Prostataresektion vor."
+  },
+  {
+    "question": "Was fordert Empfehlung 9.9 bezüglich Fluorchinolonen und Cephalosporinen bei der akuten unkomplizierten Zystitis?",
+    "options": [
+      "Sie sollen nicht als Antibiotika der ersten Wahl eingesetzt werden",
+      "Sie sind die bevorzugten Mittel der ersten Wahl bei jeder Zystitis",
+      "Nur Cephalosporine, nicht aber Fluorchinolone, sind verboten",
+      "Fluorchinolone sind ausschließlich bei Schwangeren kontraindiziert, sonst unbedenklich"
+    ],
+    "correct": 0,
+    "tip": "Hintergrund sind unter anderem die Warnhinweise von BfArM und EMA zu möglicherweise irreversiblen Nebenwirkungen von Fluorchinolonen.",
+    "explanation": "Empfehlung 9.9 besagt, dass Fluorchinolone und Cephalosporine nicht als Antibiotika der ersten Wahl bei der akuten unkomplizierten Zystitis eingesetzt werden sollen, solange therapeutische Alternativen mit vergleichbarer Effizienz und akzeptablem Nebenwirkungsprofil bestehen."
+  },
+  {
+    "question": "Welche Substanzen werden im Hintergrundtext zu Empfehlung 9.9 als vom Gemeinsamen Bundesausschuss (G-BA) eingestufte Reserveantibiotika genannt?",
+    "options": [
+      "Ceftolozan/Tazobactam, Ceftazidim/Avibactam, Cefiderocol und Imipenem/Relebactam",
+      "Fosfomycin-Trometamol und Nitrofurantoin",
+      "Pivmecillinam und Trimethoprim",
+      "Amoxicillin und Ampicillin/Sulbactam"
+    ],
+    "correct": 0,
+    "tip": "Diese Substanzen dürfen nur bei schwerwiegenden Infektionen durch multiresistente Erreger eingesetzt werden, wenn alternative Therapiemöglichkeiten nur eingeschränkt zur Verfügung stehen.",
+    "explanation": "Als vom G-BA eingestufte Reserveantibiotika werden Ceftolozan/Tazobactam, Ceftazidim/Avibactam, Cefiderocol und Imipenem/Relebactam genannt; ihr Einsatz unterliegt einer strengen Indikationsstellung bei Infektionen durch multiresistente Bakterien."
+  },
+  {
+    "question": "Welche der folgenden Punkte gehört NICHT zu den sieben in Empfehlung 9.10 genannten Auswahlkriterien für ein Antibiotikum?",
+    "options": [
+      "Der Marktpreis des Präparats in der jeweiligen Apotheke",
+      "Individuelles Risiko des Patienten",
+      "(Kalkuliertes) Erregerspektrum und (kalkulierte) Antibiotikaempfindlichkeit",
+      "Auswirkungen auf die individuelle Resistenzsituation (Kollateralschaden) und/oder die Allgemeinheit"
+    ],
+    "correct": 0,
+    "tip": "Erst bei Gleichwertigkeit mehrerer Optionen soll laut Kapitel 10 das kostengünstigere Präparat gewählt werden – das ist aber kein eigenständiges Kriterium aus 9.10.",
+    "explanation": "Empfehlung 9.10 listet individuelles Risiko des Patienten, (kalkuliertes) Erregerspektrum und Antibiotikaempfindlichkeit, Effektivität der Substanz, unerwünschte Arzneimittelwirkungen sowie Auswirkungen auf die individuelle Resistenzsituation (Kollateralschaden) und/oder die Allgemeinheit (epidemiologische Auswirkungen) als Kriterien. Der reine Marktpreis ist kein eigenständiges Kriterium dieser Empfehlung."
+  },
+  {
+    "question": "Welche Antibiotikaklassen sind laut Hintergrundtext zu Empfehlung 9.10 am stärksten mit dem Auftreten von Clostridioides-difficile-Infektionen assoziiert?",
+    "options": [
+      "Cephalosporine der Gruppe 2 und 3 sowie Fluorchinolone",
+      "Nitrofurantoin und Fosfomycin",
+      "Pivmecillinam und Trimethoprim/Sulfamethoxazol",
+      "Ausschließlich Aminoglykoside"
+    ],
+    "correct": 0,
+    "tip": "Eine geringere Assoziation mit C.-difficile-Infektionen besteht für Nitrofurantoin, Fosfomycin, Pivmecillinam und Trimethoprim/Sulfamethoxazol.",
+    "explanation": "Laut Leitlinie gilt traditionell eine hohe Assoziation von C.-difficile-Infektionen mit Cephalosporinen der Gruppe 2 und 3 sowie Fluorchinolonen; eine Metaanalyse bestätigte das höchste Risiko für Cephalosporine der Gruppe 3 (OR 3,2) und Gruppe 2 (OR 2,23)."
+  },
+  {
+    "question": "Welche Aussage zu Tabelle 19 (Dosierung bei Niereninsuffizienz) trifft zu?",
+    "options": [
+      "Pivmecillinam benötigt keine Dosisanpassung bei Niereninsuffizienz, während Nitrofurantoin unterhalb einer GFR von 45 ml/min eingeschränkt ist",
+      "Alle in Tabelle 19 genannten Substanzen benötigen ab einer GFR unter 60 ml/min eine Dosisanpassung, ohne Ausnahme",
+      "Trimethoprim ist bei jedem Grad der Niereninsuffizienz uneingeschränkt einsetzbar",
+      "Fosfomycin-Trometamol als Einzeldosis ist bei jeder Nierenfunktion unbedenklich einsetzbar"
+    ],
+    "correct": 0,
+    "tip": "Ceftriaxon benötigt laut Tabelle 19 ebenfalls keine Dosisanpassung bei Niereninsuffizienz.",
+    "explanation": "Tabelle 19 nennt für Pivmecillinam und Ceftriaxon keine notwendige Dosisanpassung, während für Nitrofurantoin eine Einschränkung unterhalb einer GFR von 45 ml/min, für Fosfomycin-Trometamol als Einzeldosis unterhalb 30 ml/min (nicht empfohlen) und für Trimethoprim unterhalb 25 ml/min gilt."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Um wie viel Prozent steigt die glomeruläre Filtrationsrate in der Schwangerschaft laut Kapitel 4.2 ungefähr an?",
+    "options": [
+      "Um etwa 30% bis 40%",
+      "Um etwa 5%",
+      "Um etwa 90%",
+      "Sie sinkt um 20%"
+    ],
+    "correct": 0,
+    "tip": "Die dadurch bedingte Verdünnung des Urins reduziert infektionshemmende Substanzen im Urin.",
+    "explanation": "Kapitel 4.2 beschreibt, dass die Nierendurchblutung und die glomeruläre Filtrationsrate in der Schwangerschaft um etwa 30% bis 40% zunehmen, was über eine Verdünnung des Urins zu einer Reduktion infektionshemmender Substanzen führt."
+  },
+  {
+    "question": "Auf welcher Seite ist die Ureterdilatation in der Schwangerschaft laut Leitlinie ausgeprägter?",
+    "options": [
+      "Rechts stärker als links",
+      "Links stärker als rechts",
+      "Beidseits exakt gleich ausgeprägt",
+      "Nur bei Mehrlingsschwangerschaften vorhanden"
+    ],
+    "correct": 0,
+    "tip": "Diese asymmetrische Erweiterung der oberen Harnwege begünstigt eine Erregeraszension und erhöht die Pyelonephritisrate.",
+    "explanation": "Die Leitlinie beschreibt, dass sich die Harnleiter oberhalb des kleinen Beckens erweitern, wobei die Erweiterung rechts stärker ausgeprägt ist als links, was zum verzögerten Urinabfluss im Bereich der oberen Harnwege führt."
+  },
+  {
+    "question": "In welchem Schwangerschaftsabschnitt tritt eine Pyelonephritis bei Schwangeren laut Kapitel 4.2 meist auf?",
+    "options": [
+      "Meist im zweiten und dritten Trimenon",
+      "Ausschließlich im ersten Trimenon",
+      "Nur unmittelbar postpartal",
+      "Gleich häufig in allen drei Trimenons verteilt"
+    ],
+    "correct": 0,
+    "tip": "Eine Pyelonephritis tritt bei 1% bis 2% der Schwangerschaften auf, ursächlich ist vor allem die Erregeraszension durch die erweiterten Ureteren.",
+    "explanation": "Laut Kapitel 4.2 tritt eine Pyelonephritis bei 1% bis 2% der Schwangerschaften auf, meist im zweiten und dritten Trimenon, bedingt durch die Erregeraszension über die erweiterten Ureteren."
+  },
+  {
+    "question": "Um welchen Wert erhöht sich das Pyelonephritis-Risiko bei einer asymptomatischen Bakteriurie in der Schwangerschaft laut der zitierten niederländischen Kohortenstudie?",
+    "options": [
+      "Von 0,6% auf 2,4%",
+      "Von 50% auf 90%",
+      "Von 10% auf 11%",
+      "Es ändert sich nicht"
+    ],
+    "correct": 0,
+    "tip": "Bei nicht therapierten Patientinnen wurde das Frühgeburtsrisiko durch die asymptomatische Bakteriurie in dieser Studie nicht erhöht.",
+    "explanation": "Nach der zitierten niederländischen Kohortenstudie erhöhte sich die Prävalenz einer Pyelonephritis bei Vorhandensein einer asymptomatischen Bakteriurie von 0,6% auf 2,4%."
+  },
+  {
+    "question": "Welche Substanzgruppen sollen laut Empfehlung 11.17 primär zur Antibiotikatherapie bei Schwangeren ohne sonstige Begleiterkrankungen eingesetzt werden?",
+    "options": [
+      "Penicilline, Cephalosporine oder Fosfomycin-Trometamol, unter Zuhilfenahme der Datenbank Embryotox.de",
+      "Fluorchinolone als Mittel der ersten Wahl",
+      "Tetrazykline ab der 16. Schwangerschaftswoche",
+      "Ausschließlich Aminoglykoside wegen ihrer hohen Wirksamkeit"
+    ],
+    "correct": 0,
+    "tip": "Zur weiteren Unterstützung der Substanzauswahl verweist die Leitlinie explizit auf eine Online-Datenbank.",
+    "explanation": "Empfehlung 11.17 sieht vor, bei akuten unkomplizierten HWI in der Schwangerschaft primär Penicilline, Cephalosporine oder Fosfomycin-Trometamol einzusetzen, unterstützt durch die Datenbank www.Embryotox.de."
+  },
+  {
+    "question": "Warum ist Nitrofurantoin im letzten Trimenon der Schwangerschaft nur eingeschränkt einzusetzen?",
+    "options": [
+      "Wegen der Gefahr einer hämolytischen Anämie beim Neugeborenen",
+      "Wegen eines erhöhten Frühgeburtsrisikos ab der 20. Schwangerschaftswoche",
+      "Wegen Knorpelschäden beim Fötus",
+      "Wegen eines erhöhten Risikos für Zahnschmelzdefekte beim Kind"
+    ],
+    "correct": 0,
+    "tip": "Fluorchinolone werden dagegen wegen tierexperimentell beobachteter Knorpelschäden zurückhaltend eingesetzt, Tetrazykline wegen Zahnschmelz- und Knochenentwicklungsstörungen.",
+    "explanation": "Bei Anwendung von Nitrofurantoin im letzten Trimenon besteht die Gefahr einer hämolytischen Anämie beim Neugeborenen, weshalb es in diesem Zeitraum nicht mehr eingesetzt werden soll."
+  },
+  {
+    "question": "Warum soll Trimethoprim (in Cotrimoxazol) laut Hintergrundtext zu Empfehlung 11.17/11.18 im ersten Trimenon der Schwangerschaft vermieden werden?",
+    "options": [
+      "Weil es zu einem Folsäuremangel beim Föten führen kann",
+      "Weil es Knochenentwicklungsstörungen verursacht",
+      "Weil es eine hämolytische Anämie beim Neugeborenen auslösen kann",
+      "Weil es im ersten Trimenon keine ausreichende Bioverfügbarkeit erreicht"
+    ],
+    "correct": 0,
+    "tip": "Im Gegensatz dazu sind Sulfonamide (ebenfalls Bestandteil von Cotrimoxazol) wegen eines anderen Risikos erst im letzten Trimenon zu vermeiden.",
+    "explanation": "Trimethoprim kann zu einem Folsäuremangel beim Föten führen und ist deshalb im ersten Trimenon zu vermeiden, während Sulfonamide wegen des Risikos erhöhter Bilirubinwerte beim Neugeborenen im letzten Trimenon vermieden werden sollen."
+  },
+  {
+    "question": "Welche Substanzgruppe soll laut Empfehlung 11.20 zur empirischen Therapie der Pyelonephritis bei Schwangeren eingesetzt werden?",
+    "options": [
+      "Cephalosporine der Gruppe 3",
+      "Fluorchinolone als erste Wahl",
+      "Trimethoprim/Sulfamethoxazol",
+      "Tetrazykline"
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll laut Empfehlung 11.19 eine stationäre Behandlung der Pyelonephritis in der Schwangerschaft erwogen werden.",
+    "explanation": "Empfehlung 11.20 sieht vor, dass zur empirischen Therapie der Pyelonephritis bei Schwangeren Cephalosporine der Gruppe 3 eingesetzt werden sollten."
+  },
+  {
+    "question": "Wie soll laut Konsensbasierter Empfehlung (11.22) die Auswahl und Dosierung von Antibiotika bei akuter unkomplizierter Zystitis von Frauen in der Postmenopause erfolgen?",
+    "options": [
+      "Entsprechend der Behandlung von Frauen in der Prämenopause",
+      "Grundsätzlich mit doppelter Dosierung im Vergleich zur Prämenopause",
+      "Ausschließlich mit parenteralen Antibiotika",
+      "Nur mit Fluorchinolonen, da andere Substanzen in dieser Altersgruppe unwirksam seien"
+    ],
+    "correct": 0,
+    "tip": "Auch eine Kurzzeittherapie ist in der Postmenopause möglich, wenngleich nicht so gut etabliert wie in der Prämenopause.",
+    "explanation": "Die Empfehlung zu 11.22 besagt, dass Auswahl und Dosierung von Antibiotika bei akuter unkomplizierter Zystitis von Frauen in der Postmenopause der Behandlung von Frauen in der Prämenopause entsprechen sollten."
+  },
+  {
+    "question": "Wie soll laut Empfehlung 4.6 mit einer asymptomatischen Bakteriurie bei Frauen in der Postmenopause ohne sonstige relevante Begleiterkrankungen umgegangen werden, und welcher Anteil bildet sich spontan zurück?",
+    "options": [
+      "Sie soll nicht behandelt werden; in bis zu einem Drittel der Fälle verschwindet sie spontan",
+      "Sie muss immer antibiotisch eradiziert werden, unabhängig vom Erreger",
+      "Nur eine Behandlung mit Fluorchinolonen ist zulässig",
+      "Sie tritt bei Frauen in der Postmenopause praktisch nie auf"
+    ],
+    "correct": 0,
+    "tip": "Die Prävalenz der asymptomatischen Bakteriurie liegt bei über 70-Jährigen zwischen 16% und 50%.",
+    "explanation": "Empfehlung 4.6 besagt, dass bei Frauen in der Postmenopause ohne sonstige relevante Begleiterkrankungen eine asymptomatische Bakteriurie nicht behandelt werden soll; in bis zu einem Drittel der Fälle verschwindet sie bei postmenopausalen Frauen spontan."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welcher Erreger ist laut Statement 6.1 der bei weitem häufigste Erreger unkomplizierter Harnwegsinfektionen?",
+    "options": [
+      "Escherichia coli",
+      "Staphylococcus saprophyticus",
+      "Klebsiella pneumoniae",
+      "Enterococcus faecalis"
+    ],
+    "correct": 0,
+    "tip": "In der aktuellen REDARES-Studie wurde dieser Erreger in rund drei Vierteln der positiven Urinkulturen von Frauen nachgewiesen.",
+    "explanation": "Statement 6.1 nennt Escherichia coli als häufigsten Erreger unkomplizierter Harnwegsinfektionen (75,4% in der REDARES-Studie), gefolgt von deutlich selteneren Spezies wie Staphylococcus saprophyticus, Klebsiella pneumoniae und Proteus mirabilis."
+  },
+  {
+    "question": "Was besagt Statement 6.2 zur Bedeutung von Enterokokken bei unkomplizierten Harnwegsinfektionen?",
+    "options": [
+      "Enterokokken werden am häufigsten bei Mischinfektionen gefunden, ihre Pathogenität bei unkomplizierten HWI ist unsicher",
+      "Enterokokken sind der zweithäufigste monokausale Erreger nach E. coli",
+      "Enterokokken verursachen praktisch nie Mischinfektionen",
+      "Enterokokken gelten als die resistenzärmste Erregergruppe bei HWI"
+    ],
+    "correct": 0,
+    "tip": "Meist werden Enterokokken in Urinkulturen als Kontamination interpretiert, da ihre klinische Relevanz bei unkomplizierter HWI unklar ist.",
+    "explanation": "Statement 6.2 besagt, dass Enterokokken am häufigsten bei Mischinfektionen gefunden werden und ihre Pathogenität bei unkomplizierten Harnwegsinfektionen unsicher ist."
+  },
+  {
+    "question": "Was besagt die „20%-Regel“ aus Empfehlung 7.2?",
+    "options": [
+      "Substanzen mit einer Resistenzrate von über 20% sollen nicht für die empirische/kalkulierte Therapie von Harnwegsinfektionen eingesetzt werden",
+      "Mindestens 20% aller Patientinnen sollen primär mit Fluorchinolonen behandelt werden",
+      "Eine Resistenzrate über 20% erlaubt automatisch den Einsatz von Reserveantibiotika",
+      "20% der Harnwegsinfektionen sollen grundsätzlich nicht antibiotisch behandelt werden"
+    ],
+    "correct": 0,
+    "tip": "Diese Regel stammt ursprünglich aus der IDSA-Leitlinie 2011 und wurde bereits 2017 in die deutsche S3-Leitlinie übernommen.",
+    "explanation": "Empfehlung 7.2 formuliert die sogenannte „20%-Regel“: Substanzen mit einer Resistenzrate von >20% sollen nicht für die empirische/kalkulierte Therapie von Harnwegsinfektionen zum Einsatz kommen."
+  },
+  {
+    "question": "Welche Mindestempfindlichkeit wird laut Hintergrundtext zu Empfehlung 9.4 für die empirische Therapie der akuten unkomplizierten Pyelonephritis als Zielwert angegeben?",
+    "options": [
+      "Eine Empfindlichkeitsrate von über 90%",
+      "Eine Empfindlichkeitsrate von über 50%",
+      "Eine Empfindlichkeitsrate von genau 20%",
+      "Eine Empfindlichkeitsrate von über 99,9%"
+    ],
+    "correct": 0,
+    "tip": "Für die Zystitis gilt dagegen die 20%-Regel, also eine Mindestempfindlichkeit von 80%, als Entscheidungsgrenze.",
+    "explanation": "Für die empirische Therapie der akuten unkomplizierten Pyelonephritis wird eine Empfindlichkeitsrate von >90% empfohlen, während ein Antibiotikum für die Zystitis nach Expertenmeinung nicht mehr geeignet ist, wenn die Empfindlichkeitsrate unter 80% sinkt."
+  },
+  {
+    "question": "Welche Substanzen zeigen laut Tabelle 16/17 in Deutschland weiterhin niedrige Resistenzraten bei Escherichia coli und gelten daher als Mittel der ersten Wahl?",
+    "options": [
+      "Fosfomycin, Nitrofurantoin, Nitroxolin und Pivmecillinam",
+      "Amoxicillin und Ampicillin",
+      "Cotrimoxazol und Trimethoprim bei rezidivierenden Infektionen",
+      "Ausschließlich Ciprofloxacin"
+    ],
+    "correct": 0,
+    "tip": "In der REDARES-Studie lagen die Resistenzraten dieser vier Substanzen bei nicht rezidivierenden HWI jeweils unter 10%.",
+    "explanation": "Laut Tabelle 17 (REDARES-Studie) lagen die Resistenzraten für Pivmecillinam, Fosfomycin, Nitrofurantoin und Nitroxolin bei nicht rezidivierenden Harnwegsinfektionen jeweils deutlich unter 10% und zählen damit zu den Mitteln der ersten Wahl."
+  },
+  {
+    "question": "Wie hoch war die Resistenzrate von Escherichia coli gegenüber Amoxicillin laut der Studie von Kresken et al., die im Hintergrundtext zu Statement 7.1 zitiert wird?",
+    "options": [
+      "43,3%",
+      "1,1%",
+      "7,4%",
+      "27,0%"
+    ],
+    "correct": 0,
+    "tip": "Diese Resistenzrate liegt weit über der 20%-Grenze, weshalb Amoxicillin zur kalkulierten Therapie nicht mehr empfohlen wird.",
+    "explanation": "Die Resistenzrate von Escherichia coli gegenüber Amoxicillin lag in der Studie von Kresken et al. bei 43,3%, womit Amoxicillin zur kalkulierten Therapie einer Harnwegsinfektion nicht mehr zu empfehlen ist."
+  },
+  {
+    "question": "Wie verhält sich die Resistenzrate gegenüber Trimethoprim/Cotrimoxazol bei rezidivierenden Harnwegsinfektionen im Vergleich zu nicht rezidivierenden Infektionen laut Tabelle 17?",
+    "options": [
+      "Sie ist bei rezidivierenden HWI deutlich höher (z. B. Trimethoprim 21,4% statt 14,1%, Cotrimoxazol 19,3% statt 11,5%)",
+      "Sie ist bei rezidivierenden HWI identisch mit der bei nicht rezidivierenden HWI",
+      "Sie sinkt bei rezidivierenden HWI auf nahezu 0%",
+      "Rezidivierende HWI werden durch diese Substanzen überhaupt nicht erfasst"
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied ist einer der Gründe, warum Trimethoprim bei rezidivierenden Harnwegsinfektionen in Tabelle 20 ausdrücklich als ungeeignet markiert wird.",
+    "explanation": "Laut Tabelle 17 (REDARES) liegt die Resistenzrate von E. coli gegenüber Trimethoprim bei rezidivierenden HWI bei 21,4% (gegenüber 14,1% bei nicht rezidivierenden) und gegenüber Cotrimoxazol bei 19,3% (gegenüber 11,5%) – jeweils deutlich höher als bei sporadischen Infektionen."
+  },
+  {
+    "question": "Welche intrinsische Resistenz besitzt Staphylococcus saprophyticus laut Leitlinie?",
+    "options": [
+      "Eine intrinsische Resistenz gegenüber Mecillinam und gegenüber Fosfomycin",
+      "Eine intrinsische Resistenz gegenüber Nitrofurantoin",
+      "Eine intrinsische Resistenz gegenüber allen Fluorchinolonen",
+      "Keine bekannte intrinsische Resistenz gegenüber irgendeiner Substanz"
+    ],
+    "correct": 0,
+    "tip": "Diese doppelte intrinsische Resistenz unterscheidet S. saprophyticus deutlich von Proteus mirabilis.",
+    "explanation": "Die Leitlinie nennt Staphylococcus saprophyticus als intrinsisch resistent gegenüber Mecillinam und ebenfalls intrinsisch resistent gegenüber Fosfomycin. Proteus mirabilis dagegen zeigt eine intrinsische Resistenz gegenüber Nitrofurantoin."
+  },
+  {
+    "question": "Welcher Erreger zeigt laut Leitlinie eine intrinsische Resistenz gegenüber Nitrofurantoin?",
+    "options": [
+      "Proteus mirabilis",
+      "Staphylococcus saprophyticus",
+      "Escherichia coli",
+      "Klebsiella pneumoniae in allen Fällen"
+    ],
+    "correct": 0,
+    "tip": "Diese Eigenschaft ist einer der Gründe, warum die Empfindlichkeitsraten für das Gesamtspektrum niedriger liegen als isoliert für E. coli.",
+    "explanation": "Proteus mirabilis zeigt eine intrinsische Resistenz gegenüber Nitrofurantoin, weshalb die für Nitrofurantoin angegebenen klinischen Grenzwerte gemäß EUCAST nur für Escherichia coli gelten."
+  },
+  {
+    "question": "Warum überschätzen Routine-Laborstatistiken laut Leitlinie die tatsächliche Resistenzlage bei unkomplizierten Harnwegsinfektionen – der klassische Fallstrick „Cotrimoxazol hat doch früher immer funktioniert“?",
+    "options": [
+      "Weil bei unkomplizierten HWI meist keine mikrobiologische Diagnostik empfohlen wird und Urinkulturen daher überproportional bei Therapieversagen, komplizierten oder rezidivierenden Fällen angelegt werden (Selektionsbias)",
+      "Weil Laborstatistiken grundsätzlich veraltete Grenzwerte nach CLSI statt EUCAST verwenden",
+      "Weil Routinelabore ausschließlich Erreger von Männern erfassen",
+      "Weil bei unkomplizierten HWI grundsätzlich keine Resistenztestung technisch möglich ist"
+    ],
+    "correct": 0,
+    "tip": "In der SARHA-Studie des RKI lag der Resistenzanteil von E. coli gegenüber Trimethoprim bei unkomplizierten HWI mit 14,9% deutlich unter dem aus den allgemeinen ARS-Routinedaten ermittelten Wert.",
+    "explanation": "Da bei unkomplizierten Harnwegsinfektionen keine mikrobiologische Diagnostik empfohlen wird, werden Urinkulturen überproportional bei Therapieversagen oder komplizierteren/rezidivierenden Fällen angelegt, wodurch der aus Routinedaten (z. B. ARS) ermittelte Resistenzanteil die tatsächliche Resistenzlage bei unkomplizierten HWI überschätzt – wie der Vergleich zur SARHA-Studie zeigt."
+  }
+]

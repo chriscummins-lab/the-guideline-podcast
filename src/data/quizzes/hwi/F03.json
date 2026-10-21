@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Unter welchen Voraussetzungen soll laut Empfehlung 5.6 bei einer nicht schwangeren Frau in der Prämenopause eine unkomplizierte Zystitis mit hoher Wahrscheinlichkeit angenommen werden?",
+    "options": [
+      "Keine Risikofaktoren für komplizierte HWI, typische Symptome (Schmerzen beim Wasserlassen, Pollakisurie, imperativer Harndrang), keine vaginalen Beschwerden, kein Fieber und kein Flankenschmerz",
+      "Nur bei positivem Nitrit-Teststreifen unabhängig von der Anamnese",
+      "Ausschließlich nach bildgebender Diagnostik mittels Sonographie",
+      "Nur wenn bereits eine Urinkultur mit Erregernachweis vorliegt"
+    ],
+    "correct": 0,
+    "tip": "Erst wenn eines dieser klinischen Kriterien fehlt, steigt der diagnostische Aufwand.",
+    "explanation": "Empfehlung 5.6 nennt als Kriterien für die hohe Wahrscheinlichkeit einer unkomplizierten Zystitis: keine Risikofaktoren für komplizierte HWI, typische Symptome, keine vaginalen Beschwerden sowie kein Fieber und kein Flankenschmerz."
+  },
+  {
+    "question": "Was besagt Empfehlung 5.10 zur mikrobiologischen Untersuchung bei unkomplizierter, nicht rezidivierender Zystitis mit eindeutiger Klinik?",
+    "options": [
+      "Es soll keine mikrobiologische Untersuchung durchgeführt werden",
+      "Es muss immer eine Urinkultur vor Therapiebeginn erfolgen",
+      "Nur eine Urinmikroskopie, aber keine Kultur ist notwendig",
+      "Eine Blutkultur ist obligat vor jeder Therapie"
+    ],
+    "correct": 0,
+    "tip": "Bei eindeutiger klinischer Symptomatik ist mit klinischer Heilung innerhalb weniger Tage zu rechnen, sodass aus dem Kulturergebnis keine Konsequenzen mehr gezogen werden könnten.",
+    "explanation": "Empfehlung 5.10 besagt, dass bei nicht schwangeren Frauen in der Prämenopause mit unkomplizierter, nicht rezidivierender und nicht therapierefraktärer Zystitis bei eindeutiger klinischer Symptomatik keine mikrobiologische Untersuchung durchgeführt werden soll."
+  },
+  {
+    "question": "Welche Aussage zur Prädiktivität verschiedener Erreger im Mittelstrahlurin trifft laut Statement 5.11 zu?",
+    "options": [
+      "Der Nachweis von Escherichia coli spricht unabhängig von der Erregerzahl für eine HWI, während Enterokokken und Gruppe-B-Streptokokken nicht prädiktiv sind",
+      "Enterokokken sind immer hochgradig prädiktiv für eine HWI, unabhängig von der Keimzahl",
+      "Gruppe-B-Streptokokken sind der zuverlässigste Marker für eine unkomplizierte Zystitis",
+      "Nur bei einer Keimzahl über 10⁶ KBE/ml ist E. coli überhaupt relevant"
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied ist insbesondere für die Bewertung von Mischkulturen bei symptomatischen Patientinnen wichtig.",
+    "explanation": "Statement 5.11 besagt, dass bei symptomatischen Frauen der Nachweis von Escherichia coli im Mittelstrahlurin unabhängig von der Erregerzahl für eine bakterielle HWI spricht, während der Nachweis von Enterokokken und Gruppe-B-Streptokokken nicht prädiktiv ist."
+  },
+  {
+    "question": "Welche zusätzlichen Untersuchungen sollen laut Empfehlung 5.12 bei Verdacht auf eine akute unkomplizierte Pyelonephritis bei nicht schwangeren Frauen erfolgen?",
+    "options": [
+      "Körperliche Untersuchung und Urinuntersuchung aus Mittelstrahlurin einschließlich Kultur, ggf. ergänzt durch Blutbild, Kreatinin/eGFR und CRP",
+      "Ausschließlich eine CT des Abdomens ohne weitere Labordiagnostik",
+      "Nur ein Urinteststreifen, keine weiteren Maßnahmen",
+      "Eine Zystoskopie als obligate Erstmaßnahme"
+    ],
+    "correct": 0,
+    "tip": "Zusätzlich soll laut Empfehlung 5.13 eine Sonographie zum Ausschluss komplizierender Faktoren erfolgen.",
+    "explanation": "Empfehlung 5.12 fordert bei Verdacht auf akute unkomplizierte Pyelonephritis zusätzlich zur Anamnese eine körperliche Untersuchung und Urinuntersuchung einschließlich Kultur; in Abhängigkeit vom klinischen Befund können weitere Blutuntersuchungen (Blutbild, Kreatinin/eGFR, CRP) erforderlich sein."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.16 für die Diagnostik der akuten unkomplizierten Zystitis bei Schwangeren im Vergleich zu nicht schwangeren Patientinnen?",
+    "options": [
+      "Die Anamnese erfolgt wie bei nicht schwangeren Patientinnen, allerdings soll in jedem Fall eine Urinuntersuchung (Urinkultur) durchgeführt werden",
+      "Bei Schwangeren ist grundsätzlich keine Urinuntersuchung notwendig",
+      "Schwangere benötigen ausschließlich eine Urinmikroskopie, niemals eine Kultur",
+      "Eine Urinkultur ist nur bei Fieber über 39°C indiziert"
+    ],
+    "correct": 0,
+    "tip": "Dieser Unterschied zur Standardgruppe erklärt sich aus dem höheren Risiko für aszendierende Infektionen in der Schwangerschaft.",
+    "explanation": "Empfehlung 5.16 besagt, dass die Diagnostik der akuten unkomplizierten Zystitis bei Schwangeren bezüglich der Anamnese wie bei nicht schwangeren Patientinnen erfolgt, in jedem Fall aber eine Urinuntersuchung mittels Urinkultur durchgeführt werden soll."
+  },
+  {
+    "question": "Welche Symptome gelten laut Hintergrundtext zu Empfehlung 5.23/5.24 bei Frauen in der Postmenopause als stärkste Prädiktoren für eine Harnwegsinfektion?",
+    "options": [
+      "Urininkontinenz (außer Stressinkontinenz) und ein veränderter Geruch des Urins",
+      "Ausschließlich eine Pollakisurie",
+      "Nur ein positiver Nitrit-Teststreifen",
+      "Eine isolierte Makrohämaturie ohne weitere Beschwerden"
+    ],
+    "correct": 0,
+    "tip": "Verstärkter Harndrang, Algurie und Pollakisurie haben in dieser Altersgruppe laut systematischem Review eine geringere diagnostische Aussagekraft als in der Prämenopause.",
+    "explanation": "Nach einem systematischen Review sind bei Frauen in der Postmenopause eine Urininkontinenz (außer Stressinkontinenz) und ein veränderter Geruch die stärksten Prädiktoren für eine Harnwegsinfektion, während verstärkter Harndrang, Algurie und Pollakisurie eine geringere diagnostische Aussagekraft haben."
+  },
+  {
+    "question": "Welche drei Prädiktoren erhöhen laut Hintergrundtext zu 5.29 die Wahrscheinlichkeit einer Harnwegsinfektion bei jüngeren Männern, sodass bei Vorliegen aller drei in über 90% der Fälle eine HWI besteht?",
+    "options": [
+      "Algurie, Fieber und ein Alter über 60 Jahre",
+      "Pollakisurie, Hämaturie und Übergewicht",
+      "Nykturie, Obstipation und Diabetes mellitus",
+      "Fluor vaginalis, Juckreiz und Dyspareunie"
+    ],
+    "correct": 0,
+    "tip": "Die Symptome bei Männern ähneln denen bei Frauen, die Prädiktoren-Kombination erlaubt aber eine sehr hohe diagnostische Sicherheit.",
+    "explanation": "Algurie, Fieber und ein Alter über 60 Jahre sind Prädiktoren für eine Harnwegsinfektion bei jüngeren Männern; bei Vorhandensein aller drei Prädiktoren liegt in über 90% der Fälle tatsächlich eine Harnwegsinfektion vor."
+  },
+  {
+    "question": "Was soll laut Empfehlung 5.29 bei jüngeren Männern mit Verdacht auf eine Urethritis erfolgen?",
+    "options": [
+      "Eine leitliniengerechte Urethritisdiagnostik, da Schmerzen beim Wasserlassen sowohl bei Urethritis als auch bei Zystitis vorkommen können",
+      "Eine sofortige empirische Fluorchinolon-Therapie ohne weitere Diagnostik",
+      "Der Verzicht auf jede weitere Abklärung, da eine Urethritis bei Männern irrelevant ist",
+      "Eine routinemäßige Prostatabiopsie"
+    ],
+    "correct": 0,
+    "tip": "Eine Urethritis kann durch sexuell übertragbare Erreger wie Gonokokken oder Chlamydien verursacht sein.",
+    "explanation": "Empfehlung 5.29 fordert bei Verdacht auf eine Urethritis bei jüngeren Männern eine leitliniengerechte Urethritisdiagnostik, da Schmerzen beim Wasserlassen sowohl bei einer Urethritis infolge sexuell übertragbarer Infektionen als auch bei einer Zystitis vorkommen können."
+  },
+  {
+    "question": "Wie soll bei Patienten mit Diabetes mellitus und stabiler Stoffwechsellage ohne sonstige Begleiterkrankungen laut Hintergrundtext zu Kapitel 5.3 grundsätzlich diagnostisch vorgegangen werden?",
+    "options": [
+      "Die allgemeinen Diagnostikempfehlungen der jeweiligen Patientengruppe sind ausreichend, solange keine kompliziertere Situation vorliegt",
+      "Es ist bei jedem Patienten eine Computertomographie mit Kontrastmittel erforderlich",
+      "Eine Urinkultur ist bei stabiler Stoffwechsellage grundsätzlich kontraindiziert",
+      "Diabetiker benötigen immer eine zusätzliche Zystoskopie vor jeder Therapie"
+    ],
+    "correct": 0,
+    "tip": "Erst bei Hinweisen auf eine kompliziertere Situation, etwa drohende Blutzuckerentgleisung, werden zusätzliche Untersuchungen wie Blutzucker- und Nierenfunktionsbestimmung notwendig.",
+    "explanation": "Bei Patienten mit stabiler metabolischer Situation (z. B. ohne Neigung zu Hypo-/Hyperglykämien, ohne diabetische Nephropathie/Neuropathie) sind die allgemeinen Diagnostikempfehlungen der entsprechenden Patientengruppe ausreichend; nur bei einer kompliziertere Situation werden zusätzliche Untersuchungen wie Blutzucker- und Nierenfunktionsbestimmung notwendig."
+  },
+  {
+    "question": "Was fordert Empfehlung 5.38 für die Diagnosestellung einer Harnwegsinfektion bei geriatrischen Patienten?",
+    "options": [
+      "Die Diagnose einer HWI soll nicht allein auf der Basis eines positiven Teststreifens gestellt werden",
+      "Ein positiver Teststreifen allein genügt immer zur Diagnosestellung",
+      "Bei Geriatrie-Patienten ist ein Teststreifen grundsätzlich entbehrlich und darf nie verwendet werden",
+      "Die Diagnose darf ausschließlich durch eine Computertomographie gestellt werden"
+    ],
+    "correct": 0,
+    "tip": "Aufgrund der hohen Prävalenz einer asymptomatischen Bakteriurie bei geriatrischen Patienten ist ein allein auf dem Teststreifen basierender Ansatz für eine sichere Diagnose nicht geeignet – klassischer Fallstrick: verwirrte Pflegeheimbewohnerin mit positivem Stix.",
+    "explanation": "Empfehlung 5.38 besagt, dass bei geriatrischen Patienten die Diagnose einer Harnwegsinfektion nicht allein auf der Basis eines positiven Teststreifens gestellt werden soll, da Streifentests aufgrund der hohen ASB-Prävalenz weder zur Diagnosestellung noch zur Unterscheidung zwischen HWI und ASB ein reliables Mittel sind."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Welche Risikofaktoren nennt Statement 4.2 für das Auftreten einer Harnwegsinfektion bei nicht schwangenen Frauen in der Prämenopause?",
+    "options": [
+      "Zeitnaher Geschlechtsverkehr, Gebrauch von Diaphragmen und Spermiziden, frühere HWI, jugendliches Alter bei erster HWI (<15 Jahre) und HWI in der Familienanamnese",
+      "Ausschließlich ein erhöhter BMI über 35 kg/m²",
+      "Nur ein positiver Nitrit-Teststreifen in der Vorgeschichte",
+      "Ein Lebensalter über 70 Jahre"
+    ],
+    "correct": 0,
+    "tip": "Diese Faktoren stammen aus Kohorten- und Fallkontrollstudien zum Infektionsrisiko junger Frauen.",
+    "explanation": "Statement 4.2 nennt als risikoerhöhende Faktoren zeitnahen Geschlechtsverkehr, den Gebrauch von Diaphragmen und Spermiziden, Harnwegsinfektionen in der Anamnese, ein jugendliches Alter bei der ersten HWI (<15 Jahre) und Harnwegsinfektionen in der Familienanamnese."
+  },
+  {
+    "question": "Wie lautet die empfohlene Dosierung und Dauer für Fosfomycin-Trometamol bei der Kurzzeittherapie der akuten unkomplizierten Zystitis laut Tabelle 20?",
+    "options": [
+      "3000 mg als Einmalgabe an 1 Tag",
+      "500 mg 3x täglich über 7 Tage",
+      "1000 mg 2x täglich über 5 Tage",
+      "250 mg 1x täglich über 10 Tage"
+    ],
+    "correct": 0,
+    "tip": "Fosfomycin-Trometamol ist das einzige in Tabelle 20 gelistete Erstlinien-Antibiotikum, das als echte Einmalgabe verordnet wird.",
+    "explanation": "Tabelle 20 nennt für Fosfomycin-Trometamol eine Tagesdosierung von 3000 mg als Einmalgabe über 1 Tag mit einer Eradikationsrate und Empfindlichkeit von jeweils +++."
+  },
+  {
+    "question": "Welche Dosierung und Dauer gibt Tabelle 20 für Pivmecillinam bei der akuten unkomplizierten Zystitis an?",
+    "options": [
+      "400 mg 2-3x täglich über 3 Tage",
+      "200 mg 1x täglich über 10 Tage",
+      "100 mg 4x täglich über 1 Tag",
+      "800 mg 1x täglich über 5 Tage"
+    ],
+    "correct": 0,
+    "tip": "Pivmecillinam gehört neben Fosfomycin-Trometamol, Nitrofurantoin, Nitroxolin und Trimethoprim zu den in Empfehlung 11.6 genannten Mitteln der ersten Wahl bei Resistenzraten <20%.",
+    "explanation": "Tabelle 20 gibt für Pivmecillinam eine Tagesdosierung von 400 mg 2-3x täglich über 3 Tage mit einer Eradikationsrate und Empfindlichkeit von jeweils +++ an."
+  },
+  {
+    "question": "Warum soll Trimethoprim laut Tabelle 20/Empfehlung 11.6 bei rezidivierenden Harnwegsinfektionen nicht als Mittel der ersten Wahl eingesetzt werden?",
+    "options": [
+      "Weil bei rezidivierenden HWI häufig Resistenzraten über 20% bestehen",
+      "Weil Trimethoprim bei rezidivierenden HWI grundsätzlich kontraindiziert ist",
+      "Weil es bei rezidivierenden HWI keine Zulassung besitzt",
+      "Weil es nur als Einmalgabe zugelassen ist"
+    ],
+    "correct": 0,
+    "tip": "Bei sporadischen HWI ist die Resistenzrate gegenüber Trimethoprim in Deutschland dagegen meist noch im vertretbaren Bereich.",
+    "explanation": "Empfehlung 11.6 weist darauf hin, dass bei rezidivierenden Harnwegsinfektionen häufig Resistenzraten gegenüber Trimethoprim von über 20% bestehen (siehe Tabelle 20), weshalb es in dieser Situation nicht als Mittel der ersten Wahl geeignet ist."
+  },
+  {
+    "question": "Welche Antibiotika sollen laut Empfehlung 11.7 bei der Therapie der akuten unkomplizierten Zystitis NICHT als Mittel der ersten Wahl eingesetzt werden?",
+    "options": [
+      "Cefpodoxim-Proxetil und Cotrimoxazol",
+      "Fosfomycin-Trometamol und Nitrofurantoin",
+      "Pivmecillinam und Nitroxolin",
+      "Trimethoprim bei sporadischer Zystitis"
+    ],
+    "correct": 0,
+    "tip": "Beide genannten Substanzen sind in Tabelle 20 ausdrücklich als „nicht als Mittel der ersten Wahl“ gekennzeichnet.",
+    "explanation": "Empfehlung 11.7 benennt Cefpodoxim-Proxetil und Cotrimoxazol als Antibiotika, die bei der Therapie der akuten unkomplizierten Zystitis bei Frauen in der Prämenopause nicht als Mittel der ersten Wahl eingesetzt werden sollen."
+  },
+  {
+    "question": "Was soll laut Empfehlung 11.4 bei einem klinischen Rezidiv einer Zystitis bei Frauen in der Prämenopause veranlasst werden?",
+    "options": [
+      "Eine Urinuntersuchung mit Urinkultur, da häufig eine Änderung der Resistenzlage beobachtet wird",
+      "Eine sofortige Gabe eines Reserveantibiotikums ohne weitere Diagnostik",
+      "Eine Zystoskopie als nächster diagnostischer Schritt",
+      "Grundsätzlich keine weitere Maßnahme, da ein Rezidiv irrelevant ist"
+    ],
+    "correct": 0,
+    "tip": "Ein klinisches Rezidiv kann durch die gleichen oder durch andere Erreger verursacht werden.",
+    "explanation": "Empfehlung 11.4 besagt, dass bei einem klinischen Rezidiv, das durch gleiche oder andere Erreger verursacht werden kann, eine Urinuntersuchung mit Urinkultur veranlasst werden sollte, da häufig eine Änderung der Resistenzlage beobachtet wird."
+  },
+  {
+    "question": "Über welchen Zeitraum soll laut Empfehlung 11.10 die antibiotische Therapie bei milder bis mittelschwerer Pyelonephritis mit klinisch unkompliziertem Verlauf erfolgen?",
+    "options": [
+      "5 bis 10 Tage",
+      "1 Tag als Einmalgabe",
+      "Mindestens 4 Wochen",
+      "Nur so lange, bis die Körpertemperatur unter 36°C fällt"
+    ],
+    "correct": 0,
+    "tip": "Mit höher dosierten Fluorchinolonen, z. B. Levofloxacin 750 mg einmal täglich, kann die Therapie sogar auf 5 Tage verkürzt werden.",
+    "explanation": "Empfehlung 11.10 sieht bei milder oder mittelschwerer Pyelonephritis mit klinisch unkompliziertem Verlauf eine antibiotische Therapiedauer von 5 bis 10 Tagen vor."
+  },
+  {
+    "question": "Welche oralen Antibiotika werden laut Empfehlung 11.12 und Tabelle 21 für die akute unkomplizierte Pyelonephritis bei Frauen in der Prämenopause empfohlen?",
+    "options": [
+      "Cefpodoxim, Ciprofloxacin und Levofloxacin",
+      "Fosfomycin-Trometamol als Einmalgabe",
+      "Nitrofurantoin über 7 Tage",
+      "Ausschließlich Amoxicillin/Clavulansäure"
+    ],
+    "correct": 0,
+    "tip": "Diese drei oralen Substanzen gelten als Mittel der ersten Wahl bei milden bis moderaten Verlaufsformen.",
+    "explanation": "Empfehlung 11.12 nennt für die akute unkomplizierte Pyelonephritis bei Frauen in der Prämenopause eines der folgenden oralen Antibiotika: Cefpodoxim, Ciprofloxacin oder Levofloxacin (in alphabetischer Reihenfolge), wie auch in Tabelle 21 dargestellt."
+  },
+  {
+    "question": "Welche Antibiotika gelten laut Empfehlung 11.13 als Mittel der ersten Wahl für die initiale parenterale Therapie einer schweren Pyelonephritis?",
+    "options": [
+      "Cefotaxim, Ceftriaxon, Ciprofloxacin und Levofloxacin",
+      "Amikacin und Gentamicin",
+      "Meropenem und Ertapenem",
+      "Nur Temocillin als alleiniges Mittel der ersten Wahl"
+    ],
+    "correct": 0,
+    "tip": "Amikacin, Cefepim, Ceftazidim, Ertapenem, Gentamicin, Imipenem/Cilastatin, Meropenem, Piperacillin/Tazobactam und Temocillin gehören dagegen zu den Mitteln der zweiten Wahl (Empfehlung 11.14).",
+    "explanation": "Empfehlung 11.13 nennt Cefotaxim, Ceftriaxon, Ciprofloxacin und Levofloxacin als Mittel der ersten Wahl bei notwendiger parenteraler Therapie einer schweren Pyelonephritis mit ausgeprägter Beschwerdesymptomatik."
+  },
+  {
+    "question": "Warum ist die orale Einmaltherapie mit Fosfomycin-Trometamol für die akute unkomplizierte Pyelonephritis NICHT indiziert?",
+    "options": [
+      "Weil dafür keine ausreichenden Studiendaten vorliegen",
+      "Weil Fosfomycin-Trometamol bei Pyelonephritis grundsätzlich toxisch wirkt",
+      "Weil Fosfomycin-Trometamol in Deutschland für Frauen nicht zugelassen ist",
+      "Weil die Resistenzrate gegenüber Fosfomycin bei Pyelonephritis-Erregern über 50% liegt"
+    ],
+    "correct": 0,
+    "tip": "Die Einmalgabe ist speziell für die Kurzzeittherapie der unteren Harnwegsinfektion (Zystitis) konzipiert.",
+    "explanation": "Für die Therapie einer Pyelonephritis ist die orale Einmaltherapie mit Fosfomycin-Trometamol aufgrund fehlender Studiendaten nicht indiziert; die Substanz ist als Trometamolsalz ausschließlich für die Kurzzeittherapie der akuten unkomplizierten unteren Harnwegsinfektion vorgesehen."
+  }
+]

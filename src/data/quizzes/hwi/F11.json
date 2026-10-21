@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Wie unterscheidet die Leitlinie einen Rückfall von einer Neuinfektion bei rezidivierenden Harnwegsinfektionen?",
+    "options": [
+      "Ein Rückfall beruht auf Erregerpersistenz und tritt innerhalb von 14 Tagen auf; eine Neuinfektion (über 90% der Fälle) tritt nach mehr als 14 Tagen auf",
+      "Ein Rückfall tritt immer nach mehr als einem Jahr auf",
+      "Eine Neuinfektion ist per Definition niemals durch E. coli verursacht",
+      "Beide Begriffe sind klinisch und therapeutisch identisch zu behandeln"
+    ],
+    "correct": 0,
+    "tip": "Bei einem Rückfall ist eine Kultur anzulegen, ggf. mit Wechsel auf ein anderes Mittel der ersten Wahl; eine Neuinfektion wird erneut mit einer Kurzzeittherapie behandelt.",
+    "explanation": "Rückfälle beruhen auf einer Persistenz der Erreger trotz initialem Therapieerfolg und treten innerhalb von 14 Tagen auf. In über 90% der Fälle handelt es sich bei rezidivierenden Harnwegsinfektionen jedoch um Neuinfektionen, die nach mehr als 14 Tagen auftreten und aus Darm- und Vaginalflora stammen."
+  },
+  {
+    "question": "Welche Diagnostik soll laut Empfehlung 5.15 bei nicht schwangeren Frauen in der Prämenopause mit rezidivierenden Harnwegsinfektionen erfolgen?",
+    "options": [
+      "Eine Urinkultur und eine Sonographie; eine invasive Diagnostik soll nicht erfolgen",
+      "Ausschließlich eine Zystoskopie als Erstmaßnahme",
+      "Eine Computertomographie des gesamten Abdomens",
+      "Keine Diagnostik, da rezidivierende HWI per se irrelevant sind"
+    ],
+    "correct": 0,
+    "tip": "Bei atypischem Verlauf, z. B. persistierendem Nachweis von Nicht-E.-coli-Erregern oder Hämaturie, sind weitere Untersuchungen wie eine Urethrozystoskopie sinnvoll.",
+    "explanation": "Empfehlung 5.15 sieht bei rezidivierenden Harnwegsinfektionen eine Urinkultur und eine Sonographie vor, während eine invasive Diagnostik nicht erfolgen sollte, außer bei atypischem Verlauf."
+  },
+  {
+    "question": "Welche Diagnostik soll laut Empfehlung 5.33 bei jüngeren Männern mit rezidivierenden Harnwegsinfektionen erfolgen?",
+    "options": [
+      "Weitere urologische Untersuchungen, insbesondere eine Abklärung der Prostata als potenziellem Fokus der Rezidive",
+      "Ausschließlich eine erneute Urinkultur, ohne weitere urologische Maßnahmen",
+      "Eine Nierenbiopsie als Standardmaßnahme",
+      "Grundsätzlich keine weitere Diagnostik bei Männern"
+    ],
+    "correct": 0,
+    "tip": "Neben dem Ausschluss morphologischer und funktioneller Störungen des Harntrakts ist die Prostata als Fokus häufiger Rezidive besonders zu beachten.",
+    "explanation": "Empfehlung 5.33 fordert bei jüngeren Männern mit rezidivierenden Harnwegsinfektionen weitere urologische Untersuchungen, wobei neben dem Ausschluss morphologischer/funktioneller Störungen insbesondere eine Abklärung der Prostata als potenziellem Fokus häufiger Rezidive erforderlich ist."
+  },
+  {
+    "question": "Wie hoch war laut systematischem Review die Rate an in Zystoskopien entdeckten Karzinomen bei Frauen mit rezidivierenden Harnwegsinfektionen – der Fallstrick „Zystoskopie zur Sicherheit“?",
+    "options": [
+      "1 von 656 Zystoskopien (0,15%)",
+      "1 von 10 Zystoskopien (10%)",
+      "1 von 2 Zystoskopien (50%)",
+      "In keiner der untersuchten Zystoskopien wurde je ein Karzinom gefunden"
+    ],
+    "correct": 0,
+    "tip": "Dieser geringe Anteil ist der Grund, warum Empfehlung 5.15 eine invasive Diagnostik wie die Zystoskopie bei rezidivierenden HWI der Frau ohne atypische Befunde nicht vorsieht.",
+    "explanation": "Nach einem systematischen Review wurde bei Frauen mit rezidivierenden Harnwegsinfektionen in nur 1 von 656 Zystoskopien (0,15%) eine Karzinomerkrankung entdeckt – eine Zystoskopie „zur Sicherheit“ bei jeder rezidivierenden HWI ist daher nicht indiziert."
+  },
+  {
+    "question": "Welche Trinkmengenempfehlung gibt Empfehlung 12.2 für Frauen mit rezidivierenden Harnwegsinfektionen und geringer Flüssigkeitszufuhr (<1,5 Liter/Tag)?",
+    "options": [
+      "Eine zusätzliche Flüssigkeitszufuhr soll empfohlen werden, um das Rezidivrisiko zu senken",
+      "Die Flüssigkeitszufuhr soll auf unter 1 Liter pro Tag reduziert werden",
+      "Flüssigkeitszufuhr hat laut Studienlage keinen Effekt und wird nicht empfohlen",
+      "Nur stilles Mineralwasser ohne jede andere Flüssigkeit ist erlaubt"
+    ],
+    "correct": 0,
+    "tip": "Eine randomisierte Studie zeigte bei einer Erhöhung der Trinkmenge um 1,5 Liter/Tag eine signifikante Reduktion der Rezidivzahl sowie eine Verlängerung der Zeit zwischen den Episoden.",
+    "explanation": "Empfehlung 12.2 besagt, dass bei Frauen mit rezidivierenden Harnwegsinfektionen und geringer Flüssigkeitszufuhr (<1,5 Liter pro Tag) eine zusätzliche Flüssigkeitszufuhr empfohlen werden soll, um das Risiko rezidivierender HWI zu reduzieren."
+  },
+  {
+    "question": "Über welchen Zeitraum soll laut Empfehlung 12.3 das Immunprophylaktikum OM-89 vor Beginn einer antibiotischen Langzeitprävention angeboten werden?",
+    "options": [
+      "Oral über 3 Monate",
+      "Parenteral über 3 Injektionen innerhalb von 3 Tagen",
+      "Oral über nur 3 Tage",
+      "Lebenslang ohne definiertes Ende"
+    ],
+    "correct": 0,
+    "tip": "Eine Boosterung ist bei Bedarf für die ersten 10 Tage der Monate 6 bis 9 sinnvoll.",
+    "explanation": "Empfehlung 12.3 sieht vor, dass bei häufig rezidivierender Zystitis nicht-geriatrischen Frauen vor Beginn einer antibiotischen Langzeitprävention das Immunprophylaktikum OM-89 oral über 3 Monate angeboten werden sollte."
+  },
+  {
+    "question": "Welche Dosierung nennt Tabelle 22 für D-Mannose als nicht-antimikrobielle Präventionsoption bei rezidivierender Zystitis?",
+    "options": [
+      "2 g 1x täglich per os",
+      "500 mg 4x täglich intravenös",
+      "50 mg 1x wöchentlich",
+      "10 g als Einmalgabe"
+    ],
+    "correct": 0,
+    "tip": "D-Mannose steht in Tabelle 22 neben Cranberries, topischer Östrogenisierung, OM-89, MV140, GAG-Schicht-Substituenten und Methenaminhippurat.",
+    "explanation": "Tabelle 22 nennt für D-Mannose eine Dosierung von 2 g einmal täglich per os als empfohlene alternative, nicht-antimikrobielle Präventionsoption bei rezidivierender Zystitis."
+  },
+  {
+    "question": "Welche nicht-antibiotischen Maßnahmen überzeugen laut Leitlinie bei der Prävention rezidivierender Harnwegsinfektionen NICHT?",
+    "options": [
+      "Laktobazillen/Probiotika und oral zugeführte Hormone",
+      "Cranberry-Produkte bei Frauen mit rezidivierenden HWI",
+      "OM-89 als orale Immunstimulation",
+      "D-Mannose in der üblichen Dosierung"
+    ],
+    "correct": 0,
+    "tip": "Oral zugeführte Hormone gelten laut Leitlinie eher als Risikofaktor für rezidivierende HWI, nicht als protektive Maßnahme.",
+    "explanation": "Für Laktobazillen/Probiotika zeigten mehrere systematische Reviews keinen signifikanten Nutzen gegenüber Placebo, und oral zugeführte Hormone haben laut Leitlinie keinen protektiven Effekt, sondern werden eher als Risikofaktor für rezidivierende Harnwegsinfektionen angesehen."
+  },
+  {
+    "question": "Welche diagnostische Abklärung ist laut Empfehlung 5.28 bei Frauen in der Postmenopause mit rezidivierenden Harnwegsinfektionen vorgesehen?",
+    "options": [
+      "Eine Urinkultur und eine Sonographie; eine invasive Diagnostik soll nicht erfolgen",
+      "Ausschließlich eine Zystoskopie, unabhängig vom klinischen Verlauf",
+      "Eine jährliche Computertomographie des Beckens",
+      "Eine Nierenbiopsie bei jeder zweiten Episode"
+    ],
+    "correct": 0,
+    "tip": "Dies entspricht im Wesentlichen dem Vorgehen bei Frauen in der Prämenopause gemäß Empfehlung 5.15.",
+    "explanation": "Empfehlung 5.28 sieht bei Patientinnen in der Postmenopause mit rezidivierenden Harnwegsinfektionen eine Urinkultur und eine Sonographie vor, während eine weitere invasive Diagnostik nicht erforderlich ist."
+  },
+  {
+    "question": "Eine 32-jährige Patientin mit vier HWI-Episoden im letzten Jahr möchte „nicht schon wieder Antibiotika“ nehmen. Welches Vorgehen entspricht der Leitlinie, bevor über eine antibiotische Langzeitprävention gesprochen wird?",
+    "options": [
+      "Zunächst ausführliche Beratung zu Verhaltensmaßnahmen, ausreichender Flüssigkeitszufuhr und ggf. nicht-antibiotische Optionen wie OM-89, Cranberry oder D-Mannose anbieten",
+      "Sofortige kontinuierliche antibiotische Langzeitprävention ohne vorherige Beratung",
+      "Eine routinemäßige Zystoskopie „zur Sicherheit“ als ersten Schritt",
+      "Empfehlung einer sofortigen Nierentransplantation"
+    ],
+    "correct": 0,
+    "tip": "Empfehlung 12.1 fordert vor jeder medikamentösen Langzeitprävention eine ausführliche Beratung zur Vermeidung von Risikoverhalten.",
+    "explanation": "Empfehlung 12.1 sieht vor jeder medikamentösen Langzeitprävention eine ausführliche Beratung der Patientin vor; zudem stehen nicht-antimikrobielle Optionen wie ausreichende Flüssigkeitszufuhr, OM-89, Cranberry-Produkte oder D-Mannose gemäß Tabelle 22 zur Verfügung, bevor eine antibiotische Langzeitprävention (Thema der nächsten Episode) erwogen wird."
+  }
+]

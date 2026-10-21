@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Unter welchen Voraussetzungen soll laut Empfehlung 12.5 eine kontinuierliche antibiotische Langzeitprävention bei rezidivierender Zystitis angeboten werden, und über welchen Zeitraum?",
+    "options": [
+      "Nach Versagen von Verhaltensänderungen und nicht-antibiotischen Präventionsmaßnahmen sowie bei hohem Leidensdruck, über 3 bis 6 Monate",
+      "Immer als erste Maßnahme noch vor jeder Beratung, lebenslang",
+      "Nur bei Männern, niemals bei Frauen in der Prämenopause",
+      "Nur für genau 24 Stunden als Einmalgabe"
+    ],
+    "correct": 0,
+    "tip": "Eine unbefristete Dauerprophylaxe ohne Re-Evaluation entspricht nicht der Leitlinienempfehlung.",
+    "explanation": "Empfehlung 12.5 sieht vor, dass nach Versagen von Verhaltensänderungen und nicht-antibiotischen Präventionsmaßnahmen sowie bei hohem Leidensdruck der Patientin eine kontinuierliche antibiotische Langzeitprävention über 3 bis 6 Monate angeboten werden sollte."
+  },
+  {
+    "question": "Wann soll laut Empfehlung 12.6 eine postkoitale Einmalprävention als Alternative zur kontinuierlichen antibiotischen Langzeitprävention empfohlen werden?",
+    "options": [
+      "Bei rezidivierenden unkomplizierten Zystitiden im Zusammenhang mit dem Geschlechtsverkehr",
+      "Nur bei Frauen über 80 Jahren",
+      "Ausschließlich bei Schwangeren im ersten Trimenon",
+      "Nie – eine postkoitale Prävention wird in der Leitlinie explizit abgelehnt"
+    ],
+    "correct": 0,
+    "tip": "Diese Option kann die Gesamtmenge an eingenommenen Antibiotika gegenüber einer kontinuierlichen Prävention deutlich reduzieren.",
+    "explanation": "Empfehlung 12.6 sieht vor, dass bei rezidivierenden unkomplizierten Zystitiden im Zusammenhang mit dem Geschlechtsverkehr eine postkoitale Einmalprävention als Alternative zur antibiotischen Langzeitprävention empfohlen werden sollte."
+  },
+  {
+    "question": "Welche Dosierung nennt Tabelle 23 für Fosfomycin-Trometamol zur kontinuierlichen antibiotischen Langzeitprävention rezidivierender Harnwegsinfektionen?",
+    "options": [
+      "3 g alle 10 Tage",
+      "3 g täglich über 10 Tage",
+      "300 mg 3x täglich dauerhaft",
+      "3 g einmalig und danach nie wieder"
+    ],
+    "correct": 0,
+    "tip": "Diese Dosierung unterscheidet sich von der Einmalgabe bei der akuten Zystitis (3 g an nur einem Tag).",
+    "explanation": "Tabelle 23 gibt für Fosfomycin-Trometamol zur kontinuierlichen Langzeitprävention eine Dosierung von 3 g alle 10 Tage an, mit einer zu erwartenden Harnwegsinfektionsrate von 0,14 pro Patientenjahr."
+  },
+  {
+    "question": "Welche Tagesdosierung von Nitrofurantoin nennt Tabelle 23 für die kontinuierliche Langzeitprävention rezidivierender Harnwegsinfektionen?",
+    "options": [
+      "50 mg oder 100 mg 1x täglich",
+      "500 mg 4x täglich",
+      "1000 mg 1x wöchentlich",
+      "Nitrofurantoin wird zur Langzeitprävention in Tabelle 23 nicht aufgeführt"
+    ],
+    "correct": 0,
+    "tip": "Beide Dosierungen zeigen in Tabelle 23 eine zu erwartende HWI-Rate von unter 1 pro Patientenjahr und eine Empfindlichkeit von +++.",
+    "explanation": "Tabelle 23 nennt für die kontinuierliche Langzeitprävention Nitrofurantoin in einer Dosierung von 50 mg oder alternativ 100 mg jeweils 1x täglich."
+  },
+  {
+    "question": "Was gilt laut Leitlinie für den Einsatz von Fluorchinolonen zur Prävention rezidivierender Harnwegsinfektionen?",
+    "options": [
+      "Sie sind zur Prävention nicht zu verschreiben, entsprechend dem Rote-Hand-Brief von BfArM",
+      "Sie sind das Mittel der ersten Wahl zur kontinuierlichen Langzeitprävention",
+      "Sie dürfen nur bei Männern zur Prävention eingesetzt werden",
+      "Sie werden in Tabelle 23 als bevorzugte postkoitale Option gelistet"
+    ],
+    "correct": 0,
+    "tip": "Diese Einschränkung gilt zusätzlich zu der bereits bekannten Zurückhaltung bei der Akuttherapie der Zystitis.",
+    "explanation": "Die Leitlinie stellt klar, dass Fluorchinolone weder im Rahmen der Prävention rezidivierender Harnwegsinfektionen noch zur Therapie der akuten unkomplizierten Zystitis zu verschreiben sind, entsprechend dem Rote-Hand-Brief des BfArM."
+  },
+  {
+    "question": "Um wie viel Prozent kann die Rezidivrate von Harnwegsinfektionen laut Hintergrundtext zu 12.5/12.6 durch eine antibiotische Langzeitprävention, postkoitale Einmalgabe oder patienteninitiierte Selbsttherapie gesenkt werden?",
+    "options": [
+      "Um bis zu 95%",
+      "Um etwa 5%",
+      "Um höchstens 10%",
+      "Die Rezidivrate bleibt dadurch unverändert"
+    ],
+    "correct": 0,
+    "tip": "Misserfolge werden jeweils zur Hälfte durch mangelnde Adhärenz und durch Durchbruchsinfektionen mit resistenten Erregern verursacht.",
+    "explanation": "Mit einer antibiotischen Langzeitprävention über 6 Monate, postkoitaler Einmalgabe oder patienteninitiierter Selbsttherapie lässt sich die Rezidivrate von Harnwegsinfektionen laut Leitlinie um bis zu 95% senken."
+  },
+  {
+    "question": "Wie unterscheidet sich die Rezidivrate zwischen einer Selbstbehandlung und einer kontinuierlichen Langzeitprävention laut der im Hintergrundtext zu 12.7 zitierten Studie?",
+    "options": [
+      "2,2 Harnwegsinfektionen pro Jahr unter Selbstbehandlung gegenüber 0,2 unter kontinuierlicher Prävention",
+      "Beide Strategien zeigen exakt die gleiche Rezidivrate von 1,0 pro Jahr",
+      "Die Selbstbehandlung ist der kontinuierlichen Prävention stets überlegen",
+      "Unter kontinuierlicher Prävention treten mehr Rezidive auf als unter Selbstbehandlung"
+    ],
+    "correct": 0,
+    "tip": "Trotzdem soll Frauen mit guter Adhärenz laut Empfehlung 12.7 eine selbstinitiierte leitliniengerechte Antibiotikatherapie angeboten werden.",
+    "explanation": "Laut Hintergrundtext zu Empfehlung 12.7 führt eine Selbstbehandlung bei rezidivierenden Harnwegsinfektionen gegenüber der kontinuierlichen Langzeitprävention zu vermehrten Rezidiven: 2,2 Harnwegsinfektionen pro Jahr unter Selbstbehandlung gegenüber 0,2 unter kontinuierlicher Prävention."
+  },
+  {
+    "question": "Welche Dosierung nennt Empfehlung 12.8 für die vaginale Rezidivprävention mit Estriol bei Frauen in der Postmenopause vor Beginn einer antibiotischen Langzeitprävention?",
+    "options": [
+      "0,5 mg Estriol pro Tag (vaginale Anwendung)",
+      "5 mg Estriol pro Tag oral",
+      "50 mg Estriol 1x wöchentlich intravenös",
+      "Estriol wird zur Rezidivprävention nicht empfohlen"
+    ],
+    "correct": 0,
+    "tip": "Die lokale Östrogenisierung verringert die vaginale Besiedelung mit Uropathogenen und den vaginalen pH-Wert, ist Antibiotika gegenüber aber unterlegen.",
+    "explanation": "Empfehlung 12.8 sieht vor, dass bei rezidivierender unkomplizierter Zystitis der Frau in der Postmenopause vor Beginn einer antibiotischen Langzeitprävention eine vaginale Rezidivprävention mit 0,5 mg Estriol pro Tag angeboten werden sollte."
+  },
+  {
+    "question": "Wie veränderte sich laut Kapitel 12.2 die Harnwegsinfektionsrate bei Schwangeren unter postkoitaler Prävention mit Cefalexin oder makrokristallinem Nitrofurantoin?",
+    "options": [
+      "Reduktion von 6,88 auf 0,04 Episoden pro Patientenjahr",
+      "Erhöhung von 0,04 auf 6,88 Episoden pro Patientenjahr",
+      "Keine Veränderung der Rate",
+      "Eine Reduktion war nur bei Fluorchinolonen zu beobachten"
+    ],
+    "correct": 0,
+    "tip": "Gegenüber einer kontinuierlichen Langzeitprävention sank der Antibiotikaverbrauch durch die postkoitale Einmalgabe zusätzlich auf etwa 25%.",
+    "explanation": "Pfau und Sacks berichteten bei postkoitaler Prävention mit Cefalexin oder makrokristallinem Nitrofurantoin während der Schwangerschaft über eine Abnahme der Rate an Harnwegsinfektionen von 6,88 auf 0,04 Episoden pro Patientenjahr."
+  },
+  {
+    "question": "Eine Patientin erhält trotz OM-89 und Cranberry weiterhin Durchbruchsinfektionen und soll nun eine antibiotische Prävention beginnen. Welcher Umgang mit der Dauer der Prophylaxe entspricht der Leitlinie – und was ist der klassische Fallstrick?",
+    "options": [
+      "Eine zeitlich begrenzte Prävention von 3 bis 6 Monaten mit anschließender Re-Evaluation; eine unbefristete Dauerprophylaxe ohne erneute Bewertung widerspricht der Leitlinie",
+      "Eine unbefristete, lebenslange Prophylaxe ohne jemals eine erneute Bewertung vorzunehmen",
+      "Sofortiger Wechsel auf ein Fluorchinolon als Dauertherapie",
+      "Abbruch jeder weiteren Diagnostik, da die Ursache ohnehin nicht mehr geklärt werden kann"
+    ],
+    "correct": 0,
+    "tip": "Die Wirkung der antibiotischen Prävention hält laut Leitlinie nur während der Medikamenteneinnahme an – ein guter Grund für eine regelmäßige Neubewertung.",
+    "explanation": "Empfehlung 12.5 sieht eine kontinuierliche antibiotische Langzeitprävention über 3 bis 6 Monate vor. Der Fallstrick einer unbefristeten Dauerprophylaxe ohne Re-Evaluation widerspricht diesem zeitlich begrenzten Vorgehen und den damit verbundenen Risiken wie Resistenzentwicklung und Kollateralschäden bei längerer Anwendung, z. B. bei Nitrofurantoin-Langzeitgabe."
+  }
+]
