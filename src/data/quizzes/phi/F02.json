@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll die Anamnese laut Empfehlung 4 bei Verdacht auf Phimose umfassen?",
+    "question": "Welche Unterscheidung soll laut Empfehlung 5 bei der klinischen Untersuchung getroffen werden, weil sie Notwendigkeit und Art der Behandlung beeinflussen kann?",
     "options": [
-      "Nur die Frage nach dem aktuellen Alter des Kindes.",
-      "Vorerkrankungen (Harntransportstörungen, Harnwegsinfekte, Paraphimose, Balanoposthitis), klinische Symptome (Schmerzen, Ballonierung) und den Leidensdruck des Kindes.",
-      "Ausschließlich die Familienanamnese der Eltern.",
-      "Nur die Frage nach der Geburtsmethode."
+      "Primäre versus sekundäre Enge anhand des Alters bei Erstvorstellung",
+      "Langstreckig sehr enges versus narbenfrei nur distal enges Präputium",
+      "Retrahierbarkeit in Ruhe versus Retrahierbarkeit bei nächtlicher Erektion",
+      "Einseitige versus zirkuläre Verklebung von innerem Vorhautblatt und Glans"
     ],
     "correct": 1,
-    "tip": "Auch ein evtl. vorliegender Leidensdruck des Kindes aufgrund der Nichtreponierbarkeit soll erfragt werden.",
-    "explanation": "Die Anamnese soll Fragen zu Vorerkrankungen, klinischen Symptomen wie Schmerzen oder Ballonierung sowie zum Leidensdruck des Kindes umfassen (Empfehlung 4)."
+    "tip": "Überlegen Sie, welche Befundmerkmale eher für eine konservative und welche eher für eine operative Therapie sprechen.",
+    "explanation": "Empfehlung 5 (11/11): Bei der Untersuchung ist insbesondere auf Narbenbildung zu achten, und ein langstreckig sehr enges Präputium soll von einer narbenfreien, nur distal engen Vorhaut unterschieden werden; ausgeprägte weißliche Narben oder Plaques sind verdächtig auf einen Lichen sclerosus. Empfehlung 6 fordert zudem eine altersgerechte Untersuchung in kindgerechter Umgebung durch erfahrene Untersuchende."
   },
   {
-    "question": "Worauf soll bei der klinischen Untersuchung laut Empfehlung 5 besonders geachtet werden?",
+    "question": "Welcher Anamnesepunkt ist in Empfehlung 4 – anders als die übrigen – nur als „sollte“-Empfehlung formuliert?",
     "options": [
-      "Nur auf die Penislänge.",
-      "Auf Narbenbildung, die Unterscheidung eines langstreckig engen von einem nur distal engen Präputium sowie den Verdacht auf Lichen sclerosus (weißliche Narben/Plaques).",
-      "Ausschließlich auf den Hodenstand.",
-      "Eine reine Blickdiagnose ohne weitere Differenzierung genügt."
+      "Vorerkrankungen wie Harnwegsinfekte oder Paraphimose",
+      "Schmerzen bei der Miktion oder bei der Erektion",
+      "Störende oder schmerzhafte Ballonierung bei der Miktion",
+      "Leidensdruck wegen der Nichtreponierbarkeit der Vorhaut"
+    ],
+    "correct": 3,
+    "tip": "Empfehlung 4 kombiniert mehrere Verpflichtungsgrade in einem Text – achten Sie darauf, welches Modalverb wo steht.",
+    "explanation": "Empfehlung 4 (11/11): Fragen nach Vorerkrankungen (z. B. Harntransportstörungen, Harnwegsinfekte, Paraphimose, Balanoposthitis) sowie nach Schmerzen und störender oder schmerzhafter Ballonierung samt deren Beginn sollen erfolgen. Ein evtl. vorliegender Leidensdruck des Kindes wegen der Nichtreponierbarkeit sollte erfragt werden."
+  },
+  {
+    "question": "Welches Behandlungsziel formuliert Empfehlung 7 der Leitlinie?",
+    "options": [
+      "Freie Zurückstreifbarkeit vor und Beschwerdefreiheit nach Abschluss der Pubertät",
+      "Freie Zurückstreifbarkeit bis zur Einschulung, wenn möglich unter Vorhauterhalt",
+      "Beschwerdefreiheit vor und freie Zurückstreifbarkeit nach Abschluss der Pubertät",
+      "Beschwerdefreiheit und freie Zurückstreifbarkeit bereits ab dem 10. Lebensjahr"
+    ],
+    "correct": 2,
+    "tip": "Das Behandlungsziel orientiert sich an der natürlichen Entwicklung der Vorhaut im Kindes- und Jugendalter.",
+    "explanation": "Empfehlung 7 (11/11): Ziel soll die Beschwerdefreiheit vor und die freie Zurückstreifbarkeit nach Abschluss der Pubertät sein; dabei soll die zugrundeliegende Pathologie kuriert und das Präputium wenn möglich erhalten werden. Eine freie Retrahierbarkeit schon im Kindesalter zu fordern, widerspricht der physiologischen Weitung bis zum Pubertätsende."
+  },
+  {
+    "question": "Ein 6-jähriger Junge wird vorgestellt, weil sich die Vorhaut wegen Verklebungen nicht zurückstreifen lässt; bei der Miktion bläht sie sich leicht auf, ohne ihn zu stören oder zu schmerzen. Welches Vorgehen entspricht der Leitlinie?",
+    "options": [
+      "Topische Steroidsalbe über vier Wochen zur Lösung der präputialen Adhäsionen",
+      "Keine Behandlung, da weder Beschwerden noch eine störende Ballonierung bestehen",
+      "Lösung der Verklebungen in Lokalanästhesie, danach regelmäßiges Zurückstreifen",
+      "Operative Therapie, da die Ballonierung bereits eine Behandlungsindikation ist"
     ],
     "correct": 1,
-    "tip": "Diese Differenzierung beeinflusst Notwendigkeit und Art der Behandlung.",
-    "explanation": "Bei der klinischen Untersuchung ist auf Narbenbildung zu achten, ein langstreckig enges von einem distal engen Präputium zu unterscheiden und auf Zeichen eines Lichen sclerosus zu achten (Empfehlung 5)."
+    "tip": "Denken Sie an den Unterschied zwischen einem auffälligen Befund und einer Behandlungsindikation.",
+    "explanation": "Empfehlung 9 (11/11): Die alleinige Nicht-Retrahierbarkeit aufgrund präputialer Adhäsionen oder Smegmaretentionszysten ohne Beschwerden bzw. mit nicht störendem, nicht schmerzhaftem Ballonieren soll keine Behandlungsindikation darstellen. Eine Salbe ist hier ebenso wenig indiziert wie eine Operation (Statement 2), und forcierte Lösungsversuche sollen unterbleiben (Empfehlung 2)."
   },
   {
-    "question": "Wie soll die klinische Untersuchung laut Empfehlung 6 durchgeführt werden?",
+    "question": "Welches Anwendungsschema sieht Empfehlung 10 für die topische Behandlung einer Phimose mit kortikoidhaltiger Salbe vor?",
     "options": [
-      "Möglichst schnell und ohne weitere Erklärung.",
-      "Altersgerecht, in kindgerechter Umgebung, durch erfahrene Untersuchende.",
-      "Grundsätzlich nur unter Vollnarkose.",
-      "Ausschließlich durch die Eltern selbst zu Hause."
+      "1 × täglich über zwei Wochen",
+      "1–2 × täglich über zehn Tage",
+      "2–3 × täglich über sechs Wochen",
+      "1–2 × täglich über vier Wochen"
     ],
-    "correct": 1,
-    "tip": "Die Behandlung einer Phimose gilt als sensibler Bereich, der einfühlsames Vorgehen erfordert.",
-    "explanation": "Die klinische Untersuchung soll altersgerecht in einer kindgerechten Umgebung durch erfahrene Untersuchende erfolgen (Empfehlung 6)."
+    "correct": 3,
+    "tip": "Die Dauer eines Behandlungszyklus entspricht dem empfohlenen Intervall der klinischen Kontrollen während der Therapie.",
+    "explanation": "Empfehlung 10 (10/10): Die topische Behandlung soll mit einer kortikoidhaltigen Salbe 1–2 × täglich über vier Wochen erfolgen; belastbare Evidenz besteht u. a. für Betamethason, Mometason-Furoat, Fluticason-Propionat und Clobetasol-Propionat. Salben sind laut Kapitel 6.3.1 wegen der besseren Wirkstoffaufnahme einer Creme vorzuziehen."
   },
   {
-    "question": "Was ist laut Empfehlung 7 das Ziel der Phimose-Behandlung?",
+    "question": "Ein 9-jähriger Junge mit symptomatischer Phimose spricht auf den ersten Salbenzyklus nur teilweise an. Welche Begrenzung der topischen Therapie empfiehlt die Leitlinie?",
     "options": [
-      "Eine möglichst radikale Entfernung der gesamten Vorhaut bei jedem Patienten.",
-      "Beschwerdefreiheit (vor Pubertätsabschluss) und freie Zurückstreifbarkeit (nach Pubertätsabschluss), mit möglichst weitgehendem Vorhauterhalt.",
-      "Ausschließlich die Verhinderung einer Harnwegsinfektion.",
-      "Eine rein kosmetische Optimierung des Erscheinungsbildes."
+      "Höchstens sechs Wochen Gesamtdauer und ein Zyklus",
+      "Höchstens sechs Monate Gesamtdauer und zwei Zyklen",
+      "Höchstens drei Monate Gesamtdauer und zwei Zyklen",
+      "Höchstens drei Monate Gesamtdauer und drei Zyklen"
     ],
-    "correct": 1,
-    "tip": "Die zugrundeliegende Pathologie soll kuriert werden, wobei das Präputium möglichst erhalten bleiben soll.",
-    "explanation": "Ziel der Behandlung soll die Beschwerdefreiheit und die freie Zurückstreifbarkeit sein, wobei das Präputium wenn möglich erhalten werden soll (Empfehlung 7)."
+    "correct": 2,
+    "tip": "Jenseits der empfohlenen Grenzen fehlt Evidenz aus klinischen Studien, während potenzielle Nebenwirkungen zu bedenken sind.",
+    "explanation": "Empfehlung 11 (11/11): Da Evidenz für mehr als drei Monate und mehr als zwei Zyklen fehlt, sollte die Behandlung maximal drei Monate betragen und sich auf zwei Zyklen beschränken; Kontrollen sollen mindestens alle vier Wochen erfolgen. Ein zweiter Zyklus bringt laut Kapitel 6.3.1 noch in bis zu 60 % einen Therapieerfolg."
   },
   {
-    "question": "Stellt die alleinige Nicht-Retrahierbarkeit der Vorhaut durch Adhäsionen oder Smegmaretentionszysten ohne Beschwerden eine Behandlungsindikation dar?",
+    "question": "Welche Aussage zur topischen Steroidbehandlung einer Phimose trifft laut Leitlinie zu?",
     "options": [
-      "Ja, immer.",
-      "Nein, dies soll laut Empfehlung 9 keine Behandlungsindikation darstellen.",
-      "Nur bei Jungen über 10 Jahren.",
-      "Nur, wenn die Eltern es ausdrücklich wünschen."
-    ],
-    "correct": 1,
-    "tip": "Erst Beschwerden oder ein störendes/schmerzhaftes Ballonieren begründen eine Behandlungsindikation.",
-    "explanation": "Die alleinige Nicht-Retrahierbarkeit der Vorhaut durch präputiale Adhäsionen oder Smegmaretentionszysten ohne Beschwerden soll keine Behandlungsindikation darstellen (Empfehlung 9)."
-  },
-  {
-    "question": "Mit welchem Schema soll die topische Kortikoidbehandlung laut Empfehlung 10 erfolgen?",
-    "options": [
-      "Als einmalige Stoßtherapie.",
-      "1-2x täglich über vier Wochen.",
-      "Dauerhaft über mehrere Jahre ohne Unterbrechung.",
-      "Nur bei akuten Schmerzen nach Bedarf, ohne festes Schema."
-    ],
-    "correct": 1,
-    "tip": "Belastbare Evidenz liegt u.a. für Betamethason, Mometason-Furoat, Fluticason-Propionat und Clobetasol-Propionat vor.",
-    "explanation": "Die topische Behandlung soll mit einer kortikoidhaltigen Salbe 1-2x täglich über vier Wochen vorgenommen werden (Empfehlung 10)."
-  },
-  {
-    "question": "Welches Kortikoid soll laut Empfehlung 10 bei Verdacht auf Lichen sclerosus bevorzugt zum Einsatz kommen?",
-    "options": [
-      "Hydrocortison als schwächstes verfügbares Präparat.",
-      "Clobetasol-Propionat als potentestes verfügbares Agens.",
-      "Es spielt laut Leitlinie keine Rolle, welches Präparat verwendet wird.",
-      "Ausschließlich rein pflanzliche Präparate."
-    ],
-    "correct": 1,
-    "tip": "Clobetasol darf allerdings bei Kindern unter drei Jahren nicht angewendet werden.",
-    "explanation": "Besteht der Verdacht auf einen Lichen sclerosus, soll mit dem potentesten Agens Clobetasol-Propionat begonnen werden (Empfehlung 10)."
-  },
-  {
-    "question": "Wie lange sollte die Behandlungsdauer mit topischen Steroiden laut Empfehlung 11 maximal betragen, und wie oft sollen Kontrollen erfolgen?",
-    "options": [
-      "Maximal drei Monate und maximal zwei Zyklen, mit Kontrollen mindestens alle vier Wochen.",
-      "Unbegrenzt lange, ohne jede Kontrolluntersuchung.",
-      "Maximal drei Tage insgesamt.",
-      "Nur eine einmalige Kontrolle am Ende der gesamten Therapie."
+      "Sie erfolgt off-label, worauf die Sorgeberechtigten hinzuweisen sind",
+      "Mometason ist ab drei, Clobetasol erst ab sechs Jahren anwendbar",
+      "Cremes sind Salben wegen der besseren Wirkstoffaufnahme vorzuziehen",
+      "Clobetasol ist den übrigen Steroiden in Vergleichsstudien überlegen"
     ],
     "correct": 0,
-    "tip": "Für eine Behandlung jenseits dieser Dauer liegt keine klinische Evidenz vor.",
-    "explanation": "Die Behandlungsdauer sollte maximal drei Monate betragen und sich auf zwei Zyklen beschränken; klinische Kontrollen sollen während der Therapie wenigstens alle vier Wochen erfolgen (Empfehlung 11)."
+    "tip": "Denken Sie an Zulassungsstatus, galenische Zubereitung und Altersgrenzen der einzelnen Wirkstoffe.",
+    "explanation": "Laut Kapitel 6.3.1 gehört die Phimosebehandlung nicht zu den zugelassenen Anwendungen glukokortikoidhaltiger Externa; sie erfolgt off-label, und die Sorgeberechtigten müssen darauf hingewiesen werden. Clobetasol-Propionat darf nicht unter drei, Mometason nicht unter sechs Jahren angewendet werden; Salben sind Cremes vorzuziehen, und eine unterschiedliche Effektivität einzelner Steroide lässt sich aus den Studien nicht ableiten."
   },
   {
-    "question": "Ist die Phimosebehandlung mit Glukokortikoidsalben eine offiziell zugelassene Anwendung dieser Präparate?",
+    "question": "Ein 11-jähriger Junge hat eine symptomatische Phimose mit ausgeprägten weißlichen Narben am Präputium. Mit welchem Wirkstoff soll die topische Behandlung laut Empfehlung 10 begonnen werden?",
     "options": [
-      "Ja, uneingeschränkt für diese Indikation zugelassen.",
-      "Nein, die Behandlung erfolgt off-label, worüber die Sorgeberechtigten aufgeklärt werden müssen.",
-      "Nur bei Kindern unter einem Jahr offiziell zugelassen.",
-      "Die Zulassungsfrage spielt für die Behandlung keine Rolle."
+      "Betamethason",
+      "Clobetasol-Propionat",
+      "Fluticason-Propionat",
+      "Mometason-Furoat"
     ],
     "correct": 1,
-    "tip": "Dies betrifft insbesondere auch die Altersbeschränkungen einzelner Wirkstoffe wie Clobetasol oder Mometason.",
-    "explanation": "Die Behandlung einer Phimose gehört nicht zu den zugelassenen Anwendungen glukokortikoidhaltiger Externa und erfolgt daher off-label; die Sorgeberechtigten müssen hierauf hingewiesen werden."
+    "tip": "Überlegen Sie zuerst, an welche Grunderkrankung dieser Untersuchungsbefund denken lässt.",
+    "explanation": "Ausgeprägte weißliche Narben oder Plaques sind auf einen Lichen sclerosus verdächtig (Empfehlung 5). Für diesen Fall soll laut Empfehlung 10 (10/10) mit dem potentesten Agens Clobetasol-Propionat begonnen werden; Betamethason ist dagegen lediglich der in Studien am häufigsten eingesetzte Wirkstoff."
   },
   {
-    "question": "Was soll laut Empfehlung 12 vor einer erneuten topischen Behandlung bei einem Rezidiv geprüft werden?",
+    "question": "Bei einem 8-jährigen Jungen tritt Monate nach erfolgreicher Salbentherapie erneut eine symptomatische Enge auf. Was soll laut Leitlinie vor einer erneuten topischen Behandlung erfolgen?",
     "options": [
-      "Direkt eine Zirkumzision planen, ohne weitere Abklärung.",
-      "Die Adhärenz (korrekte Anwendung) der vorherigen Behandlung.",
-      "Ausschließlich das aktuelle Körpergewicht des Kindes.",
-      "Nichts – man beginnt einfach unverändert erneut."
+      "Überprüfung der Adhärenz bei der vorangegangenen Salbenanwendung",
+      "Wechsel auf das potentere Clobetasol-Propionat als zweite Stufe",
+      "Vorhautbiopsie zum histologischen Ausschluss eines Lichen sclerosus",
+      "Bestimmung des Serumkortisols zum Ausschluss einer Achsensuppression"
     ],
-    "correct": 1,
-    "tip": "Rezidive sind insgesamt selten und häufig auf eine mangelnde Adhärenz zurückzuführen.",
-    "explanation": "Bei einem Rezidiv soll vor einer erneuten topischen Behandlung die Adhärenz geprüft werden (Empfehlung 12)."
+    "correct": 0,
+    "tip": "Bedenken Sie, worauf Rezidive nach topischer Therapie in der Literatur am häufigsten zurückgeführt werden.",
+    "explanation": "Empfehlung 12 (11/11): Bei einem Rezidiv soll vor einer erneuten topischen Behandlung die Adhärenz geprüft werden, da Rezidive (0–2,4 %) häufig auf mangelnde Adhärenz zurückgehen; zudem ist zu prüfen, ob überhaupt eine Pathologie im Sinne der Leitlinie vorliegt. Eine Beeinträchtigung der Hypothalamus-Hypophysen-Nebennierenrinden-Achse unter topischer Therapie ist laut Kapitel 6.4.1 nicht belegt."
+  },
+  {
+    "question": "Welche Aussage zur Indikationsstellung für eine Salbenbehandlung trifft laut Leitlinie zu?",
+    "options": [
+      "Eine asymptomatische Enge beim präpubertären Jungen rechtfertigt einen Salbenversuch",
+      "Eine bis zum Pubertätsabschluss persistierende asymptomatische Enge bedarf keiner Therapie",
+      "Die Indikation zur Salbe unterscheidet sich in ihrer Strenge nicht von der zur Operation",
+      "Die Indikation zur Salbe ist wegen des Off-Label-Status strenger als die zur Operation"
+    ],
+    "correct": 2,
+    "tip": "Bedenken Sie, welche Folgen eine Salbentherapie ohne echte Indikation für die weitere Therapieplanung haben kann.",
+    "explanation": "Statement 2 (10/10): Die Indikation für eine Salbenbehandlung unterscheidet sich in ihrer Strenge nicht von derjenigen für eine Operation; eine Salbe allein wegen asymptomatischer Enge beim präpubertären Kind kann fälschlich in eine OP-Empfehlung münden. Eine bis zum Abschluss der Pubertät bestehende asymptomatische (primäre) Phimose begründet laut Kapitel 6.2 dagegen eine Behandlungsindikation."
   }
 ]

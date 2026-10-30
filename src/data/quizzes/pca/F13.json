@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was wird laut Kapitel 7.8.1 unter 'Supportivtherapie' verstanden?",
+    "question": "Ein Patient unter ADT plus Abirateron klagt über belastende Hitzewallungen. Welche Angaben zu Häufigkeit und Behandlung macht die Leitlinie in Tabelle 32?",
     "options": [
-      "Unterstützende Maßnahmen, die die Sicherheit und Verträglichkeit systemischer Therapien, operativer Eingriffe, Strahlentherapie und/oder Radionuklidbehandlung verbessern.",
-      "Ausschließlich die alleinige Schmerztherapie ohne weitere Maßnahmen.",
-      "Eine alternative Bezeichnung für die kurative Primärtherapie.",
-      "Ausschließlich psychologische Begleitung ohne jeden medizinischen Bezug."
+      "Bei 10–20 % der Patienten; Tamoxifen oder prophylaktische Brustbestrahlung",
+      "Bei 9–13 % der Patienten; Cyproteronacetat, Venlafaxin oder Clonidin",
+      "Bei 55–80 % der Patienten; Cyproteronacetat, Venlafaxin oder Clonidin",
+      "Bei 55–80 % der Patienten; Tamoxifen oder Aromatase-Inhibitoren"
     ],
-    "correct": 0,
-    "tip": "Supportive Maßnahmen gehören unverzichtbar zum onkologischen Behandlungskonzept und sollen Therapieabbrüche oder Dosisreduktionen möglichst vermeiden helfen.",
-    "explanation": "Kapitel 7.8.1 definiert die Supportivtherapie als unterstützende Maßnahmen, die die Sicherheit und Verträglichkeit systemischer Therapien, operativer Eingriffe, strahlentherapeutischer Behandlungen und/oder einer Radionuklidbehandlung beim Prostatakarzinom verbessern."
+    "correct": 2,
+    "tip": "Unterscheiden Sie die Nebenwirkungen der Kastration von denen der nichtsteroidalen Antiandrogene.",
+    "explanation": "Hitzewallungen sind die häufigste Nebenwirkung der Kastration (55–80 % unter hormonablativer Therapie); Tabelle 32 nennt Cyproteronacetat, Antidepressiva (Venlafaxin) und Clonidin, der Hintergrundtext in Kapitel 7.8.4 zusätzlich Östrogene und Progesteron. Die 9–13 % beziehen sich auf nichtsteroidale Antiandrogene, Tamoxifen und Brustbestrahlung auf die Gynäkomastie."
   },
   {
-    "question": "Worauf sollen Patienten laut Empfehlung 7.79 (Kapitel 7.8.2) während der onkologischen Therapie hingewiesen werden?",
+    "question": "Bei einem Patienten mit mCRPC nach mehreren Therapielinien steht die Frage einer Therapiebegrenzung im Raum. Welche Aussage entspricht Kapitel 7.9.6 der Leitlinie?",
     "options": [
-      "Auf die Notwendigkeit körperlicher Aktivität, da diese sich positiv auf Fitness, Therapieverträglichkeit und Alltagsaktivitäten auswirkt.",
-      "Auf die Notwendigkeit absoluter Bettruhe während der gesamten Therapiedauer.",
-      "Auf den Verzicht auf jede Form körperlicher Bewegung.",
-      "Auf die Notwendigkeit einer streng kalorienreduzierten Diät."
+      "Maßnahmen sollen sich an den individuellen Therapie- und Lebenszielen orientieren",
+      "Advance Care Planning sollte erst in der Terminalphase thematisiert werden",
+      "Sie sollte erst nach Ausschöpfen aller zugelassenen Systemtherapien erwogen werden",
+      "Sie betrifft systemische Therapien, nicht aber Reanimation, Beatmung oder Dialyse"
     ],
     "correct": 0,
-    "tip": "Körperliche Aktivität kann laut Hintergrundtext das Risiko für die Entstehung bestimmter Tumorentitäten um etwa 20-40% verringern.",
-    "explanation": "Empfehlung 7.79 fordert, dass Patienten auf die Notwendigkeit körperlicher Aktivität während der onkologischen Therapie hingewiesen werden sollen, da sich diese positiv auf die körperliche Fitness, die Verträglichkeit der Therapie und die Ausführung täglicher Aktivitäten auswirkt."
+    "tip": "Patienten messen der Lebensqualität oft einen höheren Stellenwert bei als der Lebensverlängerung.",
+    "explanation": "Kapitel 7.9.6 (Empfehlungen 7.117–7.119, EK): Die Erfassung von Vorstellungen und Wünschen zu Therapiezielen und Therapiebegrenzung ist wesentlicher Teil der Behandlung; alle Maßnahmen sollen sich an den individuellen Therapie- und Lebenszielen orientieren. Im Advance Care Planning werden auch Reanimation, Beatmung oder Dialyse vor dem Hintergrund von Prognose und Patientenpräferenz besprochen."
   },
   {
-    "question": "Welche Ernährungsempfehlung spricht Empfehlung 7.80 für Patienten mit Prostatakrebs aus?",
+    "question": "Unter ADT plus Abirateron/Prednisolon entwickelt ein Patient Hypertonie, Unterschenkelödeme und eine Hypokaliämie. Worauf führt die Leitlinie dieses Nebenwirkungsprofil zurück?",
     "options": [
-      "Eine ausgewogene Ernährung mit hohem Anteil pflanzlicher Lebensmittel, wobei keine ausreichende Evidenz für spezifischere Ernährungsempfehlungen besteht.",
-      "Eine streng fleischbasierte, kohlenhydratarme Diät als einzig wirksame Maßnahme.",
-      "Eine vollständig parenterale Ernährung bei allen Patienten.",
-      "Der vollständige Verzicht auf jede Nahrungsaufnahme während der Therapie."
+      "Auf einen Glukokortikoidexzess durch die begleitende Prednisolongabe",
+      "Auf eine Mineralokortikoid-Überproduktion als Effekt von Abirateron",
+      "Auf eine Hypothyreose, wie sie für Abirateron typisch beschrieben ist",
+      "Auf eine arzneimittelinduzierte Leberschädigung mit Hypalbuminämie"
     ],
-    "correct": 0,
-    "tip": "Weder für die Prävention noch für die Beeinflussung des Erkrankungsverlaufes gibt es spezifische Ernährungsempfehlungen mit ausreichender Evidenz.",
-    "explanation": "Empfehlung 7.80 empfiehlt Patienten mit Prostatakrebs eine ausgewogene Ernährung mit einem hohen Anteil pflanzlicher Lebensmittel, weist aber darauf hin, dass keine ausreichende Evidenz für spezifischere Ernährungsempfehlungen besteht."
+    "correct": 1,
+    "tip": "Abirateron hemmt die Androgensynthese an einem Enzym, das auch andere Steroidachsen der Nebenniere beeinflusst.",
+    "explanation": "Kapitel 7.8.5 nennt für Abirateron eine Mineralokortikoid-Überproduktion mit Hypokaliämie und Ödembildung sowie einen steroidinduzierten Diabetes; Hypertonie ist unter Apalutamid, Enzalutamid und Abirateron sehr häufig, unter Darolutamid offenbar seltener. Eine Hypothyreose wurde unter Apalutamid dokumentiert, arzneimittelinduzierte Leberschäden v. a. unter Darolutamid."
   },
   {
-    "question": "Was besagt Statement 7.81 zum Einsatz von Nahrungsergänzungsmitteln beim Prostatakarzinom?",
+    "question": "Unter Abirateron 1000 mg täglich steigen die Transaminasen erstmals auf das 6-Fache der oberen Normgrenze. Wie ist laut Leitlinie vorzugehen?",
     "options": [
-      "Es gibt keine ausreichende Evidenz für deren Einsatz, weder zur Prävention noch zur Beeinflussung des Erkrankungsverlaufes.",
-      "Nahrungsergänzungsmittel sind nachweislich wirksam zur Heilung des Prostatakarzinoms.",
-      "Sie werden als Standardtherapie bei jedem Patienten empfohlen.",
-      "Sie ersetzen die Androgendeprivation vollständig."
+      "Fortführen in voller Dosis; Absetzen erst ab dem 20-Fachen der Normgrenze",
+      "Beenden; nach Normalisierung Wiederbeginn mit 500 mg unter engen Kontrollen",
+      "Dauerhaft beenden, da bereits das 5-Fache der Normgrenze überschritten ist",
+      "Fortführen mit 500 mg täglich und Kontrolle der Transaminasen alle zwei Wochen"
     ],
-    "correct": 0,
-    "tip": "Dasselbe gilt laut Statement 7.82 auch für komplementäre medizinische Methoden.",
-    "explanation": "Statement 7.81 stellt fest, dass es keine ausreichende Evidenz zum Einsatz von Nahrungsergänzungsmitteln beim Prostatakarzinom gibt, weder für die Prävention noch für die Beeinflussung des Erkrankungsverlaufes."
+    "correct": 1,
+    "tip": "Die Leitlinie unterscheidet zwischen einer erstmaligen moderaten Erhöhung und einer sehr ausgeprägten oder wiederholten Leberreaktion.",
+    "explanation": "Laut Kapitel 7.8.5 soll Abirateron bei Transaminasen über dem 5-Fachen der oberen Normgrenze beendet werden; nach Rückgang auf die Ausgangswerte kann es mit 500 mg wieder aufgenommen werden (Kontrollen drei Monate alle zwei Wochen, dann monatlich). Dauerhaft beendet wird bei erneutem Auftreten unter reduzierter Dosis oder bei einem Anstieg auf das ≥20-Fache der oberen Normgrenze."
   },
   {
-    "question": "Was steht laut Statement 7.100 (Kapitel 7.9.1) im Zentrum der uro-onkologischen Versorgung in der nicht-kurativen Therapiesituation?",
+    "question": "Bei einem 76-jährigen Patienten mit mCRPC ist nach Docetaxel eine Therapie mit Cabazitaxel geplant. Welche supportive Empfehlung enthält die Leitlinie?",
     "options": [
-      "Die Verbesserung der Lebensqualität durch effektive Behandlung typischer belastender Symptome als Teil der interdisziplinären Versorgung.",
-      "Die ausschließliche Verlängerung der Überlebenszeit um jeden Preis.",
-      "Der vollständige Verzicht auf jede symptomorientierte Behandlung.",
-      "Die alleinige Fokussierung auf laborchemische PSA-Verlaufskontrollen."
+      "G-CSF kann prophylaktisch gegeben werden, um Neutropenien zu verringern",
+      "Prophylaktische Antibiotika sollen bereits ab dem ersten Zyklus erfolgen",
+      "Primäre G-CSF-Prophylaxe wird nicht empfohlen, nur Blutbildkontrollen",
+      "Ein neurologischer Ausgangsbefund ist nur bei bekannter Neuropathie nötig"
     ],
     "correct": 0,
-    "tip": "Zu dieser interdisziplinären Versorgung kann auch die palliativmedizinische Versorgung gehören.",
-    "explanation": "Statement 7.100 legt fest, dass im Zentrum der Versorgung in der nicht-kurativen Therapiesituation die Verbesserung der Lebensqualität durch effektive Behandlung typischer belastender Symptome steht, als Teil der interdisziplinären Versorgung."
+    "tip": "Bedenken Sie, welche schwere Nebenwirkung in der Zulassungsstudie dieses Taxans bei über 80 % der Patienten auftrat.",
+    "explanation": "Empfehlung 7.93 (EK): Unter Cabazitaxel kann G-CSF prophylaktisch gegeben werden, um das Risiko einer symptomatischen Neutropenie zu verringern (Neutropenie Grad 3/4 in der Zulassungsstudie 82 %); vor jeder potenziell neurotoxischen Therapie soll der neurologische Status erhoben werden (Empfehlung 7.94). Der Verzicht auf eine primäre G-CSF-Prophylaxe gilt für PARP-Inhibitoren (Kapitel 7.8.7)."
   },
   {
-    "question": "Welche körperlichen und psychischen Beschwerden sollen laut Empfehlung 7.102 regelmäßig erhoben und behandelt werden?",
+    "question": "Ein Patient beginnt eine Radioligandentherapie mit Lutetium-177-PSMA. Welche Supportivmaßnahme sollte laut Leitlinie vor Beginn erfolgen?",
     "options": [
-      "Angst, Unruhe, Depression, Dyspnoe, Schwäche und Fatigue.",
-      "Ausschließlich Übergewicht und Bluthochdruck.",
-      "Ausschließlich Zahnschmerzen.",
-      "Beschwerden sollen laut dieser Empfehlung nicht aktiv erhoben werden."
+      "Primäre G-CSF-Prophylaxe zur Vermeidung febriler Neutropenien",
+      "Pilocarpin ab dem ersten Zyklus zur Prophylaxe der Xerostomie",
+      "Antiemese mit einem 5-HT-Antagonisten, mit oder ohne Dexamethason",
+      "Antiemese mit einem NK1-Antagonisten plus Dexamethason als Standard"
     ],
-    "correct": 0,
-    "tip": "Zudem sollen reversible Ursachen dieser Beschwerden diagnostiziert und angemessen behandelt werden.",
-    "explanation": "Empfehlung 7.102 fordert, dass körperliche und psychische Beschwerden wie Angst, Unruhe, Depression, Dyspnoe, Schwäche und Fatigue regelmäßig erhoben und angemessen betreut und behandelt werden sollen."
+    "correct": 2,
+    "tip": "Überlegen Sie, welche Nebenwirkung unmittelbar an die Applikation gebunden ist und wie intensiv sie typischerweise vorgebeugt werden muss.",
+    "explanation": "Empfehlung 7.97 (EK): Vor einer PSMA-Ligandentherapie sollte eine Antiemese mit 5-HT-Antagonisten mit oder ohne Dexamethason erfolgen, üblicherweise 30–60 Minuten vor Applikation. Xerostomie wird symptomorientiert topisch behandelt, Pilocarpin nur in ausgeprägten Fällen systemisch (Empfehlung 7.98); hämatotoxische Wirkungen werden symptomorientiert behandelt (Empfehlung 7.99)."
   },
   {
-    "question": "Was fordert Empfehlung 7.103 (Empfehlungsgrad A) im Sinne einer 'Early integration of palliative care'?",
+    "question": "Ein Patient mit mCRPC nach mehreren Therapielinien ist noch in gutem Allgemeinzustand. Wann sollen laut Leitlinie die Möglichkeiten der palliativmedizinischen Versorgung mit ihm besprochen werden?",
     "options": [
-      "Die Möglichkeiten der palliativmedizinischen Versorgung sollen umfassend besprochen und frühzeitig im Krankheitsverlauf angeboten werden.",
-      "Palliativmedizinische Versorgung soll ausschließlich in der terminalen Lebensphase angeboten werden.",
-      "Eine palliativmedizinische Versorgung ist beim Prostatakarzinom generell nicht vorgesehen.",
-      "Die Besprechung palliativmedizinischer Optionen soll dem Patienten explizit vorenthalten werden."
+      "Erst wenn keine tumorspezifische Therapieoption mehr verfügbar ist",
+      "Erst bei Verschlechterung des Allgemeinzustands auf ECOG 3 oder 4",
+      "Erst in der Terminalphase, um den Patienten nicht zu verunsichern",
+      "Frühzeitig im Krankheitsverlauf, abhängig von Bedürfnis und Verlauf"
     ],
-    "correct": 0,
-    "tip": "Eine randomisierte Studie zeigte, dass frühe integrative palliative Betreuung die Lebensqualität signifikant verbessert, ohne die Überlebenszeit negativ zu beeinflussen.",
-    "explanation": "Empfehlung 7.103 fordert, dass die Möglichkeiten der palliativmedizinischen Versorgung mit dem Patienten und seinen Angehörigen umfassend besprochen werden sollen und im Sinne einer 'Early integration of palliative care' frühzeitig im Krankheitsverlauf Unterstützungsoptionen angeboten werden sollen."
+    "correct": 3,
+    "tip": "Palliativversorgung und krankheitsmodifizierende Therapie können laut S3-Leitlinie Palliativmedizin gleichzeitig indiziert sein.",
+    "explanation": "Empfehlung 7.103 (Empfehlungsgrad A): Die Möglichkeiten der palliativmedizinischen Versorgung sollen umfassend besprochen und im Sinne einer Early Integration frühzeitig Unterstützungsoptionen angeboten werden; der Zeitpunkt hängt in erster Linie vom Bedürfnis des Patienten und dem individuellen Verlauf ab (Empfehlung 7.104, EK). Palliativversorgung erst in den letzten Lebenstagen ist ein typischer Fallstrick."
   },
   {
-    "question": "Wovon hängt laut Statement 7.104 der Zeitpunkt der Ergänzung der Regelversorgung durch eine Palliativversorgung in erster Linie ab?",
+    "question": "Ein Patient mit nicht heilbarem Prostatakarzinom berichtet über ausgeprägte Fatigue. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Vom Bedürfnis des Patienten und dem individuellen Krankheitsverlauf.",
-      "Ausschließlich von starren, kalendarisch festgelegten Zeitpunkten nach Diagnosestellung.",
-      "Ausschließlich vom PSA-Wert, unabhängig von Symptomatik oder Patientenwunsch.",
-      "Ausschließlich von der Entscheidung der Krankenkasse."
+      "Behandelbare Ursachen abklären und angepasste Bewegungstherapie empfehlen",
+      "Körperliche Schonung anraten und bei Persistenz frühzeitig Modafinil verordnen",
+      "Nahrungsergänzungsmittel und eine prostataspezifische Diät empfehlen",
+      "Behandelbare Ursachen abklären und primär ein Psychostimulans verordnen"
     ],
     "correct": 0,
-    "tip": "Dies unterstreicht den individualisierten, patientenzentrierten Ansatz der Palliativmedizin.",
-    "explanation": "Statement 7.104 legt fest, dass der Zeitpunkt der Ergänzung der Regelversorgung durch eine Palliativversorgung in erster Linie vom Bedürfnis des Patienten und dem individuellen Krankheitsverlauf abhängt."
+    "tip": "Fatigue hat viele mögliche Ursachen; nicht-medikamentöse Maßnahmen haben in der Behandlung einen hohen Stellenwert.",
+    "explanation": "Empfehlungen 7.110 und 7.111 (EK): Bei Fatigue soll differenzialdiagnostisch nach behandelbaren Ursachen wie Anämie, Depression oder Medikamentennebenwirkungen gesucht und eine patientenzentrierte Bewegungs- und Trainingstherapie empfohlen werden. Stimulanzien wie Modafinil sind ausgewählten Fällen vorbehalten; für Nahrungsergänzungsmittel fehlt Evidenz (Statement 7.81)."
   },
   {
-    "question": "Wie soll laut Empfehlung 7.105 die Festlegung der medizinischen Behandlungsstrategie in der nicht-kurativen Therapiesituation erfolgen?",
+    "question": "Ein Patient mit fortgeschrittenem Prostatakarzinom entwickelt eine tumorbedingte Harnleiterobstruktion mit Harnstauung. Welche Form der Harnableitung empfiehlt die Leitlinie im Expertenkonsens vorzugsweise?",
     "options": [
-      "Interdisziplinär und multiprofessionell.",
-      "Ausschließlich durch den behandelnden Urologen allein.",
-      "Ausschließlich durch eine automatisierte Software-Empfehlung.",
-      "Ausschließlich durch den Hausarzt ohne Einbindung von Spezialisten."
+      "Retrograde Doppel-J-Einlage, da äußere Ableitungen mehr Infektionen verursachen",
+      "Transurethraler Dauerkatheter, da die Obstruktion meist infravesikal liegt",
+      "Perkutane Nephrostomie nach Aufklärung über die Belästigung der Ableitung",
+      "Harnleiterneuimplantation, um eine dauerhafte Ableitung zu vermeiden"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich soll den Patienten laut Empfehlung 7.106 Zugang zu einem interdisziplinären Behandlungsteam angeboten werden.",
-    "explanation": "Empfehlung 7.105 fordert, dass die Festlegung der medizinischen Behandlungsstrategie interdisziplinär und multiprofessionell erfolgen soll."
+    "correct": 2,
+    "tip": "Abzuwägen sind Versagerquote, Drainagequalität, Migrationsrisiko und Irritationen des unteren Harntrakts.",
+    "explanation": "Laut Kapitel 7.9.5 wird im Expertenkonsens vorzugsweise eine perkutane Drainage empfohlen – wegen der hohen Versagerquote retrograder Sondierung, Irritationen des unteren Harntrakts, nicht optimaler Drainage und Migrationsgefahr des Stents; die Belästigung durch die äußere Ableitung soll vorher verdeutlicht werden. Bei entzündlichen Komplikationen unterschieden sich innere und äußere Ableitung nicht signifikant."
   },
   {
-    "question": "Zu welchem interdisziplinären Behandlungsteam soll Patienten laut Empfehlung 7.106 Zugang angeboten werden?",
+    "question": "Ein Patient mit mCRPC im Terminalstadium hat komplexe Symptome und einen hohen Pflegebedarf und möchte zu Hause versorgt werden. Welche Versorgungsform ist laut Leitlinie hierfür vorgesehen?",
     "options": [
-      "Zu einem Team einschließlich psychosozial bzw. psychoonkologisch sowie palliativmedizinisch geschultem Fachpersonal.",
-      "Ausschließlich zu einem rein chirurgisch orientierten Team.",
-      "Ausschließlich zu einem Team aus Verwaltungsmitarbeitern.",
-      "Ein interdisziplinäres Team ist laut dieser Empfehlung nicht vorgesehen."
+      "Allgemeine ambulante Palliativversorgung (AAPV)",
+      "Palliativdienst im Krankenhaus mit stationärer Aufnahme",
+      "Ambulante Rehabilitation mit psychoonkologischer Begleitung",
+      "Spezialisierte ambulante Palliativversorgung (SAPV)"
     ],
-    "correct": 0,
-    "tip": "Dies spiegelt den ganzheitlichen Versorgungsanspruch in der nicht-kurativen Therapiesituation wider.",
-    "explanation": "Empfehlung 7.106 fordert, dass Patienten Zugang zu einem interdisziplinären Behandlungsteam angeboten werden sollte, einschließlich psychosozial bzw. psychoonkologisch sowie palliativmedizinisch geschultem Fachpersonal."
+    "correct": 3,
+    "tip": "Unterscheiden Sie die Versorgungsangebote nach Komplexität der Symptome und Intensität des Betreuungsbedarfs.",
+    "explanation": "Laut Kapitel 7.9.7 richtet sich die SAPV per ärztlicher Verordnung an Patienten im Terminalstadium und/oder mit komplexen Symptomen und hohem Pflegebedarf, mit ständiger Erreichbarkeit eines multidisziplinären Teams im häuslichen Umfeld. Die AAPV ist für Patienten mit stabilen Symptomen ohne spezialisierten Betreuungsbedarf gedacht; über Betreuungsangebote soll umfassend informiert werden (Empfehlung 7.120)."
   }
 ]

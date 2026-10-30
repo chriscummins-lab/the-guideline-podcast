@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welcher Zusatztherapie soll laut Empfehlung 7.40 (Kapitel 7.4.1, Empfehlungsgrad A) Patienten mit nicht-metastasiertem, kastrationsresistentem Prostatakarzinom (nmCRPC) und hohem Metastasierungsrisiko (PSA-Verdopplungszeit <10 Monate) zusätzlich zur Androgendeprivation angeboten werden?",
+    "question": "Ein 71-jähriger Patient unter GnRH-Agonist hat einen Testosteronspiegel von 32 ng/dl. Welcher Verlauf erfüllt laut Leitlinie die Definition eines kastrationsresistenten Prostatakarzinoms?",
     "options": [
-      "Ein Androgenrezeptor-Signalweg-Inhibitor (ARPI): Apalutamid, Darolutamid oder Enzalutamid.",
-      "Eine alleinige Chemotherapie mit Docetaxel ohne weitere Hormontherapie.",
-      "Ausschließlich eine Bestrahlung des gesamten Skeletts.",
-      "Ausschließlich Bicalutamid als Monotherapie."
+      "Zwei PSA-Anstiege im Abstand von 4 Wochen, +45 % über Nadir, PSA 3,2 ng/ml",
+      "Drei PSA-Anstiege im Abstand von 1 Woche, +55 % über Nadir, PSA 2,4 ng/ml",
+      "Drei PSA-Anstiege im Abstand von 2 Wochen, +70 % über Nadir, PSA 1,8 ng/ml",
+      "Ein PSA-Anstieg auf das Doppelte des Nadirs, PSA 4,0 ng/ml, neue Knochenschmerzen"
     ],
-    "correct": 0,
-    "tip": "Die Ergebnisse der drei zugelassenen Substanzen gelten laut Leitlinie als vergleichbar.",
-    "explanation": "Empfehlung 7.40 fordert, dass Patienten mit nmCRPC und hohem Risiko für eine Metastasierung (PSA-Verdopplungszeit <10 Monate) zusätzlich zur ADT die Therapie mit einem ARPI (Apalutamid, Darolutamid oder Enzalutamid) angeboten werden soll."
+    "correct": 1,
+    "tip": "Die Definition verlangt neben dem Kastrationsniveau eine Mindestzahl an Anstiegen, eine relative Zunahme und einen absoluten PSA-Schwellenwert.",
+    "explanation": "Nach Empfehlung 7.34 (EK, starker Konsens) liegt bei Testosteron <50 ng/dl ein CRPC vor bei drei konsekutiven PSA-Anstiegen im mindestens wöchentlichen Abstand, Anstieg um mindestens 50 % über den Nadir und PSA >2 ng/ml und/oder bei Progress in der Bildgebung. Ein PSA unter 2 ng/ml genügt trotz relativer Zunahme nicht, ein symptomatischer Progress allein ebenfalls nicht."
   },
   {
-    "question": "Welche vier ungünstigen prognostischen Faktoren werden im Hintergrundtext zu Empfehlung 7.40 genannt?",
+    "question": "Bei einem Patienten unter GnRH-Agonist wird ein mCRPC festgestellt und eine neue Systemtherapie geplant. Wie soll laut Leitlinie mit der Androgendeprivation verfahren werden?",
     "options": [
-      "Kurzes Intervall zwischen RPE und biochemischem Progress, Gleason-Score >8, Basis-PSA-Wert >2 ng/ml und PSA-Verdopplungszeit <10 Monate.",
-      "Ausschließlich das Patientenalter über 80 Jahre.",
-      "Ausschließlich die Anzahl der bisherigen Chemotherapiezyklen.",
-      "Ausschließlich der Body-Mass-Index des Patienten."
+      "Beenden, da die Erkrankung nun definitionsgemäß hormonunabhängig wächst",
+      "Absetzen, sobald ein ARPI oder Abirateron zusätzlich begonnen wird",
+      "Fortführen, da neben resistenten auch hormonsensitive Zellen persistieren",
+      "Intermittierend fortführen und über den weiteren PSA-Verlauf steuern"
     ],
-    "correct": 0,
-    "tip": "Diese Faktoren helfen, Patienten mit besonders hohem Risiko für eine rasche Progression zu identifizieren.",
-    "explanation": "Als ungünstige prognostische Faktoren werden ein kurzes Intervall zwischen radikaler Prostatektomie und biochemischem Progress, ein Gleason-Score über 8, ein Basis-PSA-Wert über 2 ng/ml und eine PSA-Verdopplungszeit unter 10 Monaten genannt."
+    "correct": 2,
+    "tip": "Denken Sie an die biologische Heterogenität des CRPC und an das Design der Zulassungsstudien neuer Substanzen.",
+    "explanation": "Empfehlung 7.39 (EK, starker Konsens): Beim CRPC soll die ADT fortgesetzt werden. Das CRPC ist biologisch heterogen, hormonsensitive Zellen können persistieren, und in den Zulassungsstudien neuer Arzneimittel wurde die ADT fortgeführt – das Absetzen bei Beginn eines ARPI ist ein typischer Fallstrick."
   },
   {
-    "question": "Auf welcher Zulassungsstudie basiert die Zulassung von Apalutamid beim nmCRPC, und welchen Effekt zeigte sie auf das metastasenfreie Überleben?",
+    "question": "Patient mit kastrationsresistentem Prostatakarzinom ohne Metastasen in der konventionellen Bildgebung, PSA-Verdopplungszeit 7 Monate, ECOG 0. Was soll laut Leitlinie zusätzlich zur ADT angeboten werden?",
     "options": [
-      "Die SPARTAN-Studie zeigte ein medianes metastasenfreies Überleben von 40,5 vs. 16,2 Monaten (HR 0,28).",
-      "Die SPARTAN-Studie zeigte keinen Unterschied im metastasenfreien Überleben.",
-      "Die ARAMIS-Studie war Grundlage der Apalutamid-Zulassung.",
-      "Apalutamid wurde ohne jede randomisierte Studie zugelassen."
+      "Abirateron in Kombination mit Prednison/Prednisolon",
+      "Docetaxel im zwei- oder dreiwöchentlichen Schema",
+      "Keine Zusatztherapie, da Verdopplungszeit >6 Monate",
+      "Ein ARPI: Apalutamid, Darolutamid oder Enzalutamid"
     ],
-    "correct": 0,
-    "tip": "Die Studie war international, multizentrisch, randomisiert und placebokontrolliert mit 1.207 Patienten.",
-    "explanation": "Die Zulassung von Apalutamid basiert auf der SPARTAN-Studie, die ein medianes metastasenfreies Überleben von 40,5 Monaten unter Apalutamid versus 16,2 Monaten unter Placebo zeigte (HR 0,28)."
+    "correct": 3,
+    "tip": "Entscheidend ist das Metastasierungsrisiko, das sich an der PSA-Kinetik ablesen lässt – und welche Substanzen für diese Situation zugelassen sind.",
+    "explanation": "Empfehlung 7.40 (Empfehlungsgrad A): Beim nmCRPC mit hohem Metastasierungsrisiko (PSA-Verdopplungszeit <10 Monate) soll zusätzlich zur ADT ein ARPI (Apalutamid, Darolutamid oder Enzalutamid) angeboten werden. Abirateron ist ein CYP17A1-Inhibitor und für das nmCRPC nicht zugelassen."
   },
   {
-    "question": "Welche systemische Zusatzmaßnahme soll laut Empfehlung 7.41 (Kapitel 7.4.2) bei der Therapie des mCRPC berücksichtigt werden?",
+    "question": "Bei einem Patienten mit neu diagnostiziertem mCRPC liegt noch keine Keimbahntestung vor. Was soll laut Leitlinie vor Einleitung der Systemtherapie erfolgen?",
     "options": [
-      "Die systemische Therapie soll bei Bedarf in Kombination mit symptomatischen und supportiven Maßnahmen durchgeführt werden.",
-      "Eine supportive Therapie ist beim mCRPC generell nicht vorgesehen.",
-      "Ausschließlich eine rein kurative Therapie ohne jede supportive Komponente.",
-      "Eine palliative Begleitung ist nur bei terminalen Patienten erlaubt."
+      "BRCA1/2-Keimbahntestung aus Blut, bevorzugt bei positiver Familienanamnese",
+      "Keimbahn- und somatische HRR-Sequenzierung, bevorzugt aus Metastasengewebe",
+      "Somatische HRR-Sequenzierung, bevorzugt aus archiviertem Primärtumorgewebe",
+      "Keimbahn- und somatische HRR-Sequenzierung erst bei Progress unter Erstlinie"
     ],
-    "correct": 0,
-    "tip": "Für Details der supportiven Therapie wird auf die AWMF S3-Leitlinie 'Supportive Therapie bei onkologischen PatientInnen' verwiesen.",
-    "explanation": "Empfehlung 7.41 fordert, dass die systemische Therapie des mCRPC bei Bedarf in Kombination mit symptomatischen und supportiven Maßnahmen durchgeführt werden soll."
+    "correct": 1,
+    "tip": "Relevant wurde die Testung durch die PARP-Inhibitoren – und die Alterationen können hereditär oder erst im Tumor erworben sein.",
+    "explanation": "Empfehlung 7.42 (Empfehlungsgrad A, LoE 1-): Ohne vorliegendes positives Keimbahnergebnis soll vor der Systemtherapie des mCRPC eine Sequenzierung (Keimbahn, somatisch) der HRR-Gene erfolgen. Empfohlen wird Gewebe aus einer Metastase; der Primärtumor ist die weniger invasive Alternative, kann aber erst später erworbene Alterationen verpassen."
   },
   {
-    "question": "Was fordert Empfehlung 7.42 (Empfehlungsgrad A) vor Einleitung einer systemischen Therapie des mCRPC, falls keine positiven Ergebnisse einer früheren Keimbahntestung vorliegen?",
+    "question": "Patient mit mCRPC ohne HRR-Defekt und ohne Vortherapie mit ARPI oder Abirateron; eine Chemotherapie ist klinisch nicht indiziert. Wie bewertet die Leitlinie eine Kombination aus PARP-Inhibitor und ARPI bzw. Abirateron?",
     "options": [
-      "Eine Sequenzierung (Keimbahn, somatisch) von Genen der homologen Rekombinationsreparatur (HRR) soll durchgeführt werden.",
-      "Eine erneute Prostatabiopsie ist in jedem Fall zwingend erforderlich.",
-      "Eine Ganzkörper-Skelettszintigraphie muss wiederholt werden.",
-      "Eine genetische Testung ist beim mCRPC nicht vorgesehen."
+      "Kann angeboten werden; ein OS-Vorteil ist in dieser Gruppe bisher nicht belegt",
+      "Soll angeboten werden; PROpel zeigte auch ohne HRR-Mutation ein längeres rPFS",
+      "Sollte angeboten werden; der OS-Vorteil entspricht dem der BRCA-Subgruppe",
+      "Nicht empfohlen; die Zulassung ist auf Patienten mit BRCA1/2-Mutation beschränkt"
     ],
     "correct": 0,
-    "tip": "Relevant ist dies vor allem wegen der Verfügbarkeit von PARP-Inhibitoren bei Nachweis von HRR-Defekten.",
-    "explanation": "Empfehlung 7.42 fordert, dass vor Einleitung einer systemischen Therapie des mCRPC die Sequenzierung von Genen der homologen Rekombinationsreparatur durchgeführt werden soll, falls keine positiven Ergebnisse einer früheren Keimbahntestung vorliegen."
+    "tip": "Unterscheiden Sie zwischen dem Effekt auf das radiologische PFS und einem belegten Nutzen für Überleben oder Lebensqualität.",
+    "explanation": "Empfehlung 7.50 (Empfehlungsgrad 0, starker Konsens): Olaparib + Abirateron bzw. Talazoparib + Enzalutamid kann angeboten werden – die Zulassung umfasst auch Patienten ohne HRR-Defekt, ein Vorteil für Gesamtüberleben oder PFS mit Symptomlinderung ist aber nicht belegt. Die rPFS-Verlängerung in PROpel begründet keine Soll-Empfehlung; der deutliche OS-Effekt betrifft nur die BRCA-Subgruppe."
   },
   {
-    "question": "Welcher Anteil der mCRPC-Patienten weist laut Hintergrundtext zu Empfehlung 7.42 genetische Aberrationen der DNS-Reparatur auf, und welcher Genanteil entfällt dabei auf BRCA1/2-Mutationen?",
+    "question": "66-jähriger Patient, im mHSPC mit ADT plus Apalutamid behandelt, jetzt PSA- und radiologischer Progress; kein HRR-Defekt, ECOG 0, für eine Chemotherapie geeignet. Welche Folgetherapie soll laut Leitlinie angeboten werden?",
     "options": [
-      "Bis zu einem Drittel der Patienten; BRCA1/2-Mutationen machen davon etwa ein Drittel aus.",
-      "Nahezu 100% aller Patienten weisen solche Aberrationen auf.",
-      "Weniger als 1% der Patienten, sodass eine Testung nicht sinnvoll ist.",
-      "Genetische Aberrationen spielen beim mCRPC keine Rolle."
+      "Enzalutamid als Wechsel innerhalb der ARPI-Klasse",
+      "Abirateron plus Prednison/Prednisolon als nächste Linie",
+      "Lutetium-177-PSMA nach qualitätsgesicherter PSMA-PET",
+      "Docetaxel im zwei- oder dreiwöchentlichen Schema"
     ],
-    "correct": 0,
-    "tip": "Zu den relevanten Genen zählen u. a. ATM, BRCA1, BRCA2, BRIP1, CDK12, CHEK2, FANCA, HDAC2 und PALB2.",
-    "explanation": "Laut Hintergrundtext zu Empfehlung 7.42 weisen bis zu einem Drittel der mCRPC-Patienten genetische Aberrationen der DNS-Reparatur auf, wobei BRCA1/2-Mutationen etwa ein Drittel dieser Aberrationen ausmachen."
+    "correct": 3,
+    "tip": "Kreuzresistenzen und die Frage, für welche Therapieform der Patient geeignet ist, bestimmen die Sequenz.",
+    "explanation": "Empfehlung 7.49 (Empfehlungsgrad A): Taxan-naiven, chemotherapiefähigen Patienten soll Docetaxel in zwei- oder dreiwöchentlichen Schemata angeboten werden. Ein Wechsel auf einen weiteren ARPI bzw. Abirateron ist wegen Kreuzresistenz wenig erfolgversprechend; Lutetium-177-PSMA ist nach ARPI nur für Patienten ohne Chemotherapieoption vorgesehen (Empfehlung 7.51, Grad 0)."
   },
   {
-    "question": "Welche Monotherapie soll laut Empfehlung 7.43 (Empfehlungsgrad A) bei Nachweis einer BRCA1/2-Mutation und Progress nach Vortherapie mit ARPI oder Abirateron angeboten werden?",
+    "question": "Welche Aussage zum Zulassungsstatus von Lutetium (177Lu) Vipivotidtetraxetan beim mCRPC entspricht der Leitlinie?",
     "options": [
-      "Eine Monotherapie mit Olaparib.",
-      "Eine Monotherapie mit Docetaxel.",
-      "Eine Monotherapie mit Bicalutamid.",
-      "Eine Monotherapie mit Flutamid."
+      "Zugelassen nach ARPI und Taxan; nach ARPI ohne Chemotherapieoption: Kann-Empfehlung ohne Zulassung",
+      "Zugelassen nach ARPI und Taxan; nach ARPI ohne Chemotherapieoption: Soll-Empfehlung ohne Zulassung",
+      "Zugelassen nach ARPI ohne Chemotherapieoption; nach ARPI und Taxan: Kann-Empfehlung ohne Zulassung",
+      "Zugelassen nach ARPI ohne Chemotherapieoption; nach ARPI und Taxan: Soll-Empfehlung ohne Zulassung"
     ],
     "correct": 0,
-    "tip": "Olaparib ist ein PARP-Inhibitor, dessen Zulassung auf der PROfound-Studie basiert.",
-    "explanation": "Empfehlung 7.43 fordert, dass bei Nachweis einer BRCA1/2-Mutation und Progress nach Vortherapie mit einem ARPI oder Abirateron eine Monotherapie mit Olaparib angeboten werden soll."
+    "tip": "VISION und PSMAfore untersuchten unterschiedliche Vorbehandlungssituationen – nur eine davon führte zur Zulassung.",
+    "explanation": "Zugelassen ist die Therapie (Basis VISION) nach ARPI und taxanbasierter Chemotherapie; hier soll sie alternativ zu Cabazitaxel angeboten werden (Empfehlung 7.52, Grad A). Nach ARPI ohne Chemotherapieoption kann sie auf Basis von PSMAfore angeboten werden (Empfehlung 7.51, Grad 0), ist dort aber nicht zugelassen; Voraussetzung ist jeweils eine qualitätsgesicherte PSMA-PET."
   },
   {
-    "question": "Welche drei Kombinationstherapien nennt Empfehlung 7.44 (Empfehlungsgrad A) bei Nachweis einer BRCA1/2-Mutation, falls eine Chemotherapie klinisch nicht indiziert ist?",
+    "question": "Welche Aussage zum Einsatz von Radium-223 beim mCRPC entspricht der Leitlinie?",
     "options": [
-      "Niraparib + Abirateron, Olaparib + Abirateron, oder Talazoparib + Enzalutamid.",
-      "Ausschließlich eine alleinige Androgendeprivation ohne weitere Substanz.",
-      "Ausschließlich Docetaxel in Kombination mit Prednison.",
-      "Ausschließlich Cabazitaxel als Monotherapie."
+      "Bei zusätzlichen Lebermetastasen kann es angeboten werden, sofern Knochenherde symptomatisch sind",
+      "Bei symptomatischen Knochenmetastasen sollte es Docetaxel als Erstlinientherapie vorgezogen werden",
+      "Wegen erhöhter Fraktur- und Todesfallraten soll es nicht mit Abirateron/Prednison kombiniert werden",
+      "Wegen reduzierter Frakturraten in PEACE III soll es mit Enzalutamid kombiniert werden"
     ],
-    "correct": 0,
-    "tip": "Diese drei Kombinationen stammen jeweils aus unterschiedlichen Zulassungsstudien mit teils unterschiedlichem Evidenzlevel.",
-    "explanation": "Empfehlung 7.44 nennt als Kombinationstherapien bei Nachweis einer BRCA1/2-Mutation Niraparib + Abirateron (mit Prednison/Prednisolon), Olaparib + Abirateron (mit Prednison/Prednisolon) oder Talazoparib + Enzalutamid."
+    "correct": 2,
+    "tip": "Denken Sie an die Zulassungseinschränkung durch die EMA von 2018 und an die Bedeutung viszeraler Metastasen.",
+    "explanation": "Empfehlung 7.55 (Empfehlungsgrad A): Radium-223 soll nicht mit Abirateron plus Prednison/Prednisolon kombiniert werden – ERA-223 wurde wegen erhöhter Todesfall- und Frakturrate (29 % vs. 11 %) vorzeitig entblindet. Nach Empfehlung 7.54 (Grad 0) kommt es nur bei symptomatischen Knochenmetastasen ohne bekannte viszerale Metastasen infrage, wenn keine andere Systemtherapie geeignet ist; PEACE III läuft noch."
   },
   {
-    "question": "Was soll laut Empfehlung 7.45 bei der Therapieentscheidung zwischen den verschiedenen PARPI-Kombinationstherapien berücksichtigt werden, da keine direkt vergleichenden Studien vorliegen?",
+    "question": "Patient mit mCRPC, symptomatischer Progress, ECOG 2 (Karnofsky 60 %). Der reduzierte Allgemeinzustand ist überwiegend tumorbedingt, therapielimitierende Komorbiditäten fehlen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Die Charakteristika der jeweiligen Zulassungsstudien.",
-      "Ausschließlich der Preis des jeweiligen Präparats.",
-      "Ausschließlich die alphabetische Reihenfolge der Substanznamen.",
-      "Eine Entscheidung ist ohnehin beliebig, da alle Optionen identisch sind."
+      "Symptombezogene Therapie; Systemtherapie erst nach Besserung auf ECOG 0–1",
+      "Symptombezogene Therapie; zusätzlich kann eine Systemtherapie angeboten werden",
+      "Symptombezogene Therapie; als Systemtherapie ist vorrangig Radium-223 geeignet",
+      "Systemtherapie wie bei ECOG 0–1; Symptomtherapie erst ab ECOG 3 erforderlich"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung trägt dem Fehlen von Head-to-Head-Vergleichsstudien zwischen den drei Kombinationen Rechnung.",
-    "explanation": "Empfehlung 7.45 fordert, dass bei der Therapieentscheidung mangels direkt vergleichender Studien insbesondere die Charakteristika der jeweiligen Zulassungsstudien berücksichtigt werden sollen."
+    "correct": 1,
+    "tip": "Entscheidend ist, worauf der schlechte Allgemeinzustand im Einzelfall zurückgeht.",
+    "explanation": "Nach Empfehlung 7.56 (EK) soll bei ECOG ≥2/Karnofsky-Index <70 eine symptombezogene Therapie angeboten werden; nach Empfehlung 7.57 (EK) kann zusätzlich eine der Optionen aus 7.39–7.55 angeboten werden, wenn der reduzierte Allgemeinzustand vor allem tumorbedingt ist und keine therapiebegrenzenden Komorbiditäten vorliegen. Radium-223 setzt laut Empfehlung 7.54 einen guten Allgemeinzustand voraus."
   },
   {
-    "question": "Welches Ergebnis zeigte die PROfound-Studie für Olaparib gegenüber Abirateron/Enzalutamid in der BRCA1/2/ATM-Kohorte (Kohorte A) hinsichtlich des progressionsfreien Überlebens?",
+    "question": "Ein Patient mit mCRPC unter Enzalutamid entwickelt neue Lebermetastasen bei geringem PSA-Anstieg; die Läsionen sind FDG-positiv und PSMA-negativ. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine signifikante Verlängerung auf 7,4 vs. 3,6 Monate (HR 0,34; p<0,001).",
-      "Keinen Unterschied im progressionsfreien Überleben zwischen beiden Armen.",
-      "Eine Verkürzung des progressionsfreien Überlebens unter Olaparib.",
-      "Die PROfound-Studie untersuchte ausschließlich das Gesamtüberleben, nicht das progressionsfreie Überleben."
+      "Histologische Abklärung; bei NEPC platinbasierte Chemotherapie mit Etoposid",
+      "Histologische Abklärung; bei NEPC Wechsel auf Abirateron plus Prednisolon",
+      "Histologische Abklärung; bei NEPC Lutetium-177-PSMA-Radioligandentherapie",
+      "Histologische Abklärung; bei NEPC Checkpoint-Inhibitor als Monotherapie"
     ],
     "correct": 0,
-    "tip": "Zusätzlich zeigte sich auch eine signifikante Verlängerung der medianen Gesamtüberlebenszeit (19,1 vs. 14,7 Monate).",
-    "explanation": "Die PROfound-Studie zeigte für Olaparib in der BRCA1/2/ATM-Kohorte eine signifikante Verlängerung des progressionsfreien Überlebens auf 7,4 vs. 3,6 Monate (HR 0,34; p<0,001) gegenüber Abirateron/Enzalutamid."
+    "tip": "Bedenken Sie das AR-unabhängige Wachstum und den häufigen Verlust der PSMA-Expression dieser Tumorform.",
+    "explanation": "Neue Lebermetastasen, ein im Verhältnis zur Tumorlast niedriger PSA-Wert oder FDG-positive, PSMA-negative Läsionen sollten eine histologische Abklärung auf ein NEPC auslösen (Empfehlung 7.58, EK). Bei Nachweis sollte – analog zum kleinzelligen Bronchialkarzinom – eine platinbasierte Chemotherapie mit Etoposid erfolgen, bevorzugt in Studien (Empfehlung 7.59, EK); die Rolle von Checkpoint-Inhibitoren ist noch unklar."
   }
 ]

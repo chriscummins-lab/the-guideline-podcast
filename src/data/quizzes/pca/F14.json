@@ -1,122 +1,122 @@
 [
   {
-    "question": "Worüber sollen Patienten laut Empfehlung 8.1 (Kapitel 8.1, Empfehlungsgrad A) nach lokaler Therapie informiert werden?",
+    "question": "Ein asymptomatischer Patient ist nach radikaler Prostatektomie rezidivfrei. In welchen Intervallen sollten die Nachsorgeuntersuchungen laut Leitlinie erfolgen?",
     "options": [
-      "Über eine fachspezifische Rehabilitation, insbesondere in Form einer Anschlussheilbehandlung (AHB).",
-      "Ausschließlich über eine rein ambulante Physiotherapie ohne jede weitere Option.",
-      "Über den vollständigen Verzicht auf jede Rehabilitationsmaßnahme.",
-      "Ausschließlich über psychologische Betreuung ohne körperliche Rehabilitation."
+      "Jahre 1–2 halbjährlich, Jahre 3–4 jährlich, ab Jahr 5 alle zwei Jahre",
+      "Jahre 1–2 vierteljährlich, Jahre 3–4 halbjährlich, ab Jahr 5 jährlich",
+      "Jahre 1–3 vierteljährlich, Jahre 4–5 halbjährlich, ab Jahr 6 jährlich",
+      "Jahre 1–2 vierteljährlich, Jahre 3–5 jährlich, ab Jahr 6 nur bei Symptomen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung stützt sich auf den gesetzlichen Anspruch auf Rehabilitationsleistungen nach SGB IX.",
-    "explanation": "Empfehlung 8.1 fordert, dass Patienten nach lokaler Therapie über eine fachspezifische Rehabilitation, insbesondere in Form einer Anschlussheilbehandlung, informiert werden sollen."
+    "correct": 1,
+    "tip": "Das Rezidivrisiko ist in den ersten Jahren nach Therapie am höchsten – die Intervalle werden danach schrittweise gestreckt.",
+    "explanation": "Empfehlung 9.1b (Empfehlungsgrad B): Bei asymptomatischen Patienten sollten die Nachsorgeuntersuchungen in den ersten zwei Jahren vierteljährlich, im 3. und 4. Jahr halbjährlich und ab dem 5. Jahr jährlich erfolgen. Die erste Nachsorgeuntersuchung soll innerhalb von zwölf Wochen nach Therapieende stattfinden (Empfehlung 9.1a, Grad A)."
   },
   {
-    "question": "Welche zentralen Funktionsstörungen stehen laut Statement 8.2a im Mittelpunkt der Rehabilitationsziele nach radikaler Prostatektomie?",
+    "question": "Ein Patient hat vor drei Wochen eine radikale Prostatektomie erhalten. Wann soll laut Leitlinie die erste Nachsorgeuntersuchung erfolgen und wann sollte ein PSA-Basiswert ermittelt werden?",
     "options": [
-      "Harninkontinenz und erektile Dysfunktion.",
-      "Ausschließlich Verdauungsstörungen.",
-      "Ausschließlich Hörstörungen.",
-      "Ausschließlich kognitive Beeinträchtigungen."
+      "Nach sechs Monaten; PSA-Basiswert nach drei bis sechs Monaten postoperativ",
+      "Innerhalb von vier Wochen; PSA-Basiswert nach zwei bis vier Wochen",
+      "Innerhalb von zwölf Wochen; PSA-Basiswert nach sechs bis zwölf Wochen",
+      "Innerhalb von sechs Monaten; PSA-Basiswert nach zwölf bis 24 Wochen"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich zielt die Rehabilitation auf die Wiederherstellung der physischen und psychischen Leistungsfähigkeit sowie die gesellschaftliche Teilhabe ab.",
-    "explanation": "Statement 8.2a benennt als zentrale Zielsetzung der Rehabilitation nach radikaler Prostatektomie die Therapie der postoperativen Funktionsstörungen, insbesondere der Harninkontinenz und erektilen Dysfunktion."
+    "correct": 2,
+    "tip": "Der Basiswert soll aussagekräftig sein und zugleich früh genug vorliegen, um z. B. aus einem fehlenden PSA-Abfall Konsequenzen zu ziehen.",
+    "explanation": "Empfehlung 9.1a (Empfehlungsgrad A): Asymptomatische Patienten sollen innerhalb von zwölf Wochen nach Therapieende eine Nachsorgeuntersuchung erhalten. Laut Hintergrundtext sollte nach lokaler Therapie innerhalb von sechs bis zwölf Wochen ein PSA-Basiswert ermittelt werden, um etwa aus einem fehlenden PSA-Abfall nach RPE therapeutische Konsequenzen zu ziehen."
   },
   {
-    "question": "Wie soll laut Empfehlung 8.3 (Empfehlungsgrad B) die Rehabilitation strukturell organisiert sein?",
+    "question": "Welche Rolle spielt die digital-rektale Untersuchung in der Nachsorge nach radikaler Prostatektomie oder Strahlentherapie laut Leitlinie?",
     "options": [
-      "Fachurologisch, bei entsprechender Komorbidität multidisziplinär und mit Hilfe multimodaler Therapiekonzepte.",
-      "Ausschließlich durch den Hausarzt ohne fachärztliche Beteiligung.",
-      "Ausschließlich rein internistisch ohne urologische Fachkompetenz.",
-      "Ausschließlich online ohne jede persönliche Betreuung."
+      "Ohne PSA-Rezidiv nicht routinemäßig; bei fehlender PSA-Sekretion sinnvoll",
+      "Bei jeder Nachsorge, da Lokalrezidive dem PSA-Anstieg meist vorausgehen",
+      "Nach Strahlentherapie routinemäßig jährlich, nach Prostatektomie verzichtbar",
+      "Routinemäßig in den ersten zwei Jahren, danach nur noch bei PSA-Anstieg"
     ],
     "correct": 0,
-    "tip": "Urologische Fachkompetenz ist erforderlich, da postinterventionelle Funktionsstörungen einer unmittelbaren fachärztlichen Behandlung bedürfen.",
-    "explanation": "Empfehlung 8.3 fordert, dass die Rehabilitation fachurologisch erfolgen sollte, bei entsprechender Komorbidität der Patienten multidisziplinär und mit Hilfe multimodaler Therapiekonzepte."
+    "tip": "Überlegen Sie, welcher Parameter ein Rezidiv früher und zuverlässiger anzeigt.",
+    "explanation": "Statement 9.3 (Expertenmeinung, starker Konsens): Bei Patienten ohne biochemisches Rezidiv ist die DRU in der Nachsorge nicht routinemäßig indiziert, da ein PSA-Anstieg ein Rezidiv weitaus früher und zuverlässiger anzeigt. Regelmäßige DRU sollten auf Patienten mit Tumoren beschränkt werden, die kein PSA sezernieren."
   },
   {
-    "question": "Was soll laut Empfehlung 8.4 (Empfehlungsgrad A) im Mittelpunkt des Kontinenztrainings bei Belastungsinkontinenz nach radikaler Prostatektomie stehen?",
+    "question": "Ein asymptomatischer Patient hat ein Jahr nach radikaler Prostatektomie ein PSA unter der Nachweisgrenze und wünscht „zur Sicherheit“ ein CT und eine Skelettszintigraphie. Was empfiehlt die Leitlinie?",
     "options": [
-      "Die Physiotherapie.",
-      "Eine erneute Operation als Erstmaßnahme.",
-      "Ausschließlich eine medikamentöse Therapie ohne physiotherapeutische Begleitung.",
-      "Der vollständige Verzicht auf jede Behandlung."
+      "Jährliche CT und Skelettszintigraphie in den ersten fünf Jahren",
+      "Bildgebung nur bei möglicher therapeutischer Konsequenz oder Symptomen",
+      "Einmalige PSMA-PET/CT als Ausgangsbefund für die weitere Nachsorge",
+      "Skelettszintigraphie alle zwei Jahre, CT nur bei einem PSA-Anstieg"
     ],
-    "correct": 0,
-    "tip": "Andere Formen der Inkontinenz sollen zusätzlich evaluiert und ggf. entsprechend behandelt werden.",
-    "explanation": "Empfehlung 8.4 fordert, dass die postoperative Harninkontinenz nach radikaler Prostatektomie mit Hilfe multimodaler Konzepte therapiert werden soll, wobei die Physiotherapie im Mittelpunkt des Kontinenztrainings bei Belastungsinkontinenz stehen soll."
+    "correct": 1,
+    "tip": "Fragen Sie sich, welche Entscheidung sich bei unauffälligem PSA aus einem Bildgebungsbefund ableiten ließe.",
+    "explanation": "Empfehlung 9.4 (Empfehlungsgrad A): Bildgebende Verfahren sollen in der Nachsorge nur eingesetzt werden, wenn therapeutische Maßnahmen möglich sind und/oder Symptome bestehen. Routinemäßige Bildgebung „zur Sicherheit“ ist ein typischer Fallstrick; die Rezidivdiagnostik erfolgt primär biochemisch über das PSA (Empfehlung 9.2, Grad A)."
   },
   {
-    "question": "Welche Substanzgruppe soll laut Empfehlung 8.5b zunächst zur Therapie der erektilen Dysfunktion nach kurativer Therapie eingesetzt werden?",
+    "question": "Ein Patient ist vier Jahre nach radikaler Prostatektomie rezidivfrei und hat einen symptomatischen, laborchemisch gesicherten Hypogonadismus. Wie bewertet die Leitlinie eine Testosteronsubstitution?",
     "options": [
-      "Ein PDE-5-Inhibitor.",
-      "Intrakavernöse Injektionen als alleinige Erstlinientherapie.",
-      "Ausschließlich chirurgische Penisimplantate.",
-      "Ausschließlich eine hochdosierte Testosterongabe."
+      "Sie ist kontraindiziert, da sie das Rezidivrisiko nachweislich erhöht",
+      "Sie soll angeboten werden, da Fallserien ihre Unbedenklichkeit belegen",
+      "Sie ist vertretbar, sofern zehn Jahre Rezidivfreiheit dokumentiert sind",
+      "Sie kann die Lebensqualität verbessern; Aufklärung und Überwachung nötig"
     ],
-    "correct": 0,
-    "tip": "Bei Ineffektivität sollten intrakavernöse Injektionen, intraurethrale Prostaglandine oder Vakuumerektionshilfesysteme unter Berücksichtigung der Patientenpräferenz erwogen werden.",
-    "explanation": "Empfehlung 8.5b fordert, dass zur Therapie der erektilen Dysfunktion zunächst ein PDE-5-Inhibitor eingesetzt werden sollte, kombiniert mit physiotherapeutischem ED-Training."
+    "correct": 3,
+    "tip": "Bedenken Sie Fallzahl und fehlende Kontrollgruppen der publizierten Fallserien sowie den Zulassungsstatus von Testosteron.",
+    "explanation": "Empfehlung 9.5: Eine Testosteronsubstitution nach kurativer Therapie bei Hypogonadismus kann die Lebensqualität verbessern (Statement); da der Einfluss auf das Rezidivrisiko unklar ist, sollte eine besondere Aufklärung und Überwachung erfolgen (Empfehlungsgrad B). Die drei kleinen Fallserien ohne Kontrollgruppe belegen keine Unbedenklichkeit, und Testosteron ist bei PCa-Patienten nicht zugelassen."
   },
   {
-    "question": "Was soll laut Empfehlung 8.6 (Empfehlungsgrad A) zur Unterstützung der Krankheitsverarbeitung geprüft werden?",
+    "question": "Ein Patient erhält wegen eines PSA-Rezidivs eine hormonablative Therapie. Welches Kontrollschema empfiehlt die Leitlinie?",
     "options": [
-      "Der Bedarf einer psychoonkologischen Betreuung.",
-      "Ausschließlich der Bedarf an zusätzlicher Chemotherapie.",
-      "Ausschließlich der Bedarf an einer erneuten Operation.",
-      "Eine psychoonkologische Betreuung ist laut Leitlinie generell nicht vorgesehen."
+      "Alle 3–6 Monate PSA, Testosteron, Hämoglobin und AP bei jedem Patienten",
+      "Alle 3–6 Monate Anamnese, körperliche Untersuchung und PSA-Bestimmung",
+      "Alle 12 Monate Anamnese, körperliche Untersuchung und PSA-Bestimmung",
+      "Alle 3–6 Monate PSA-Bestimmung plus jährliche Skelettszintigraphie"
     ],
-    "correct": 0,
-    "tip": "Hierzu wird ergänzend auf die S3-Leitlinie Psychoonkologie verwiesen.",
-    "explanation": "Empfehlung 8.6 fordert, dass der Bedarf einer psychoonkologischen Betreuung zur Unterstützung der Krankheitsverarbeitung geprüft und entsprechende Maßnahmen ggf. angeboten werden sollen."
+    "correct": 1,
+    "tip": "Die Kontrollen sollen Ansprechen und Nebenwirkungen erfassen, ohne dem Patienten Untersuchungen ohne Konsequenz zuzumuten.",
+    "explanation": "Empfehlung 9.6 (Empfehlungsgrad B): Im Rahmen drei- bis sechsmonatiger Kontrollen unter hormonablativer Therapie sollten Anamnese, körperliche Untersuchung und PSA-Bestimmung erfolgen, bei stabilem Verlauf mindestens zweimal jährlich. Zusätzliche Labordiagnostik (z. B. Hb, AP) wird individuell entschieden (Empfehlung 9.7), Testosteron bei unzureichendem PSA-Ansprechen bestimmt; über Bildgebung entscheiden Symptomatik und Konsequenz (Empfehlung 9.8)."
   },
   {
-    "question": "In welchem Zeitfenster sollen laut Empfehlung 9.1a (Kapitel 9.1) asymptomatische Patienten nach lokaler kurativ intendierter Therapie eine erste Nachsorgeuntersuchung erhalten?",
+    "question": "Ein Jahr nach radikaler Prostatektomie besteht bei einem Patienten eine Belastungsinkontinenz Grad II. Was steht laut Leitlinie im Mittelpunkt des Kontinenztrainings?",
     "options": [
-      "Innerhalb von zwölf Wochen nach Ende der Therapie.",
-      "Erst nach 5 Jahren.",
-      "Innerhalb von 24 Stunden nach der Operation.",
-      "Eine erste Nachsorgeuntersuchung ist nicht vorgesehen."
+      "Elektrostimulation über eine rektale Sonde als Basistherapie",
+      "Blasenfunktionsstabilisierende Medikation als Basistherapie",
+      "Endoskopisches Video-Biofeedback als initiale Basistherapie",
+      "Physiotherapie als Basis eines multimodalen Therapiekonzepts"
     ],
-    "correct": 0,
-    "tip": "Die weiteren Untersuchungen sollen laut Empfehlung 9.1b in den ersten zwei Jahren vierteljährlich erfolgen.",
-    "explanation": "Empfehlung 9.1a fordert, dass asymptomatische Patienten innerhalb von zwölf Wochen nach Ende der Therapie eine Nachsorgeuntersuchung erhalten sollen."
+    "correct": 3,
+    "tip": "Zusatzverfahren kommen eher bei höhergradiger oder unzureichend gebesserter Inkontinenz hinzu.",
+    "explanation": "Empfehlung 8.4 (Empfehlungsgrad A): Die postoperative Harninkontinenz soll multimodal therapiert werden; im Mittelpunkt des Kontinenztrainings bei Belastungsinkontinenz soll die Physiotherapie stehen. Elektrostimulation (perineal wirksamer als rektal) erfolgt bevorzugt bei drittgradiger Inkontinenz, Video-Biofeedback bei unzureichender Besserung, blasenstabilisierende Medikation ergänzend bei höhergradiger Inkontinenz."
   },
   {
-    "question": "In welchen Intervallen sollen laut Empfehlung 9.1b die Nachsorgeuntersuchungen bei asymptomatischen Patienten ab dem 5. Jahr wiederholt werden?",
+    "question": "Ein Patient hat nach nervschonender radikaler Prostatektomie eine erektile Dysfunktion. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "In jährlichen Intervallen.",
-      "Weiterhin vierteljährlich wie in den ersten beiden Jahren.",
-      "Nur noch alle 10 Jahre.",
-      "Nachsorgeuntersuchungen enden nach dem 5. Jahr vollständig."
+      "Zunächst Schwellkörperautoinjektion, bei Versagen PDE-5-Inhibitor",
+      "Zunächst Vakuumerektionshilfe, PDE-5-Inhibitoren erst nach 12 Monaten",
+      "Zunächst abwarten, Therapie erst nach vollständiger Kontinenz beginnen",
+      "Zunächst PDE-5-Inhibitor, bei Versagen SKAT, MUSE oder Vakuumpumpe"
     ],
-    "correct": 0,
-    "tip": "Im 3. und 4. Jahr sollen die Untersuchungen laut derselben Empfehlung halbjährlich erfolgen.",
-    "explanation": "Empfehlung 9.1b sieht vor, dass die Untersuchungen innerhalb der ersten zwei Jahre vierteljährlich, im 3. und 4. Jahr halbjährlich und vom 5. Jahr an in jährlichen Intervallen wiederholt werden sollen."
+    "correct": 3,
+    "tip": "Berücksichtigen Sie Invasivität, Patientenpräferenz und die Rolle begleitender Physiotherapie.",
+    "explanation": "Empfehlung 8.5b (Empfehlungsgrad B): Zur Therapie der erektilen Dysfunktion sollte zunächst ein PDE-5-Inhibitor eingesetzt werden; bei Ineffektivität sollten intrakavernöse Injektionen, intraurethrale Prostaglandine oder Vakuumerektionshilfen unter Berücksichtigung der Patientenpräferenz, kombiniert mit physiotherapeutischem ED-Training, erwogen werden. In der Rehabilitation bevorzugten 74 % der Patienten einen PDE-5-Inhibitor."
   },
   {
-    "question": "Was besagt Statement 9.3 zum Stellenwert der digital-rektalen Untersuchung (DRU) in der Nachsorge bei Patienten ohne biochemisches Rezidiv?",
+    "question": "Ein Patient erhält eine langfristige Hormonentzugstherapie und klagt über Fatigue und Gewichtszunahme. Was empfiehlt die Leitlinie zur Rehabilitation?",
     "options": [
-      "Die DRU ist in dieser Situation nicht routinemäßig indiziert.",
-      "Die DRU soll bei jeder Nachsorgeuntersuchung obligat durchgeführt werden.",
-      "Die DRU ersetzt die PSA-Bestimmung vollständig.",
-      "Die DRU ist zwingend häufiger durchzuführen als der PSA-Test."
+      "Rehabilitation erst nach Abschluss der Hormonentzugstherapie",
+      "Psychoonkologische Rehabilitation, Training erst nach ADT-Ende",
+      "Rehabilitative Maßnahmen mit Elementen der Bewegungstherapie",
+      "Rehabilitative Maßnahmen nur bei zusätzlicher Harninkontinenz"
     ],
-    "correct": 0,
-    "tip": "Ein Rezidiv wird durch den PSA-Anstieg weitaus früher und zuverlässiger angezeigt als durch die DRU.",
-    "explanation": "Statement 9.3 stellt fest, dass bei Patienten ohne biochemisches Rezidiv die DRU in der Nachsorge des Prostatakarzinoms nicht routinemäßig indiziert ist."
+    "correct": 2,
+    "tip": "Die Zielsetzung der Rehabilitation unter Hormonentzug umfasst ausdrücklich die Therapie der Nebenwirkungen.",
+    "explanation": "Empfehlung 8.8 (Empfehlungsgrad A, LoE 1+/1-): Patienten unter Hormonentzugstherapie sollen rehabilitative Maßnahmen mit Elementen der Bewegungstherapie empfohlen werden; Ziele sind u. a. weniger Fatigue, bessere Körperkomposition und psychische Stabilisierung (Statement 8.7). Auch in der nicht-kurativen Situation sollten rehabilitative Maßnahmen symptomorientiert empfohlen werden (Empfehlung 8.9)."
   },
   {
-    "question": "Was kann laut Empfehlung 9.5 (Kapitel 9.2) eine Testosteronsubstitution nach kurativer Therapie bei Patienten mit Zeichen von Hypogonadismus bewirken, und was ist dabei zu beachten?",
+    "question": "Welche Aussage zur Rehabilitation nach lokaler kurativ intendierter Therapie entspricht der Leitlinie?",
     "options": [
-      "Sie kann die Lebensqualität verbessern; der Einfluss auf das Rezidivrisiko ist jedoch unklar, weshalb eine besondere Aufklärung und Überwachung erfolgen sollte.",
-      "Sie ist nach Prostatakarzinom in jedem Fall absolut kontraindiziert.",
-      "Sie senkt nachweislich das Rezidivrisiko und wird daher bei jedem Patienten empfohlen.",
-      "Sie hat laut Leitlinie keinerlei Effekt auf die Lebensqualität."
+      "Patienten sollen über fachspezifische Rehabilitation, v. a. als AHB, informiert werden",
+      "Ambulante und stationäre Rehabilitation sind in randomisierten Studien gleich wirksam",
+      "Eine psychoonkologische Bedarfsprüfung sollte erst bei manifester Depression erfolgen",
+      "Die Rehabilitation sollte primär allgemeininternistisch statt fachurologisch erfolgen"
     ],
     "correct": 0,
-    "tip": "Diese Empfehlung hat Empfehlungsgrad B und beruht auf einer Kombination aus Statement (Evidenzlevel 3) und Expertenkonsens (Evidenzlevel 4).",
-    "explanation": "Empfehlung 9.5 besagt, dass eine Testosteronsubstitution nach kurativer Therapie bei Patienten mit Zeichen von Hypogonadismus die Lebensqualität verbessern kann, der Einfluss auf das Rezidivrisiko aber aufgrund der Datenlage unklar ist, weshalb eine besondere Aufklärung und Überwachung erfolgen sollte."
+    "tip": "Denken Sie an den gesetzlichen Anspruch auf Leistungen zur Teilhabe nach SGB IX.",
+    "explanation": "Empfehlung 8.1 (Empfehlungsgrad A): Patienten nach lokaler Therapie sollen über eine fachspezifische Rehabilitation, insbesondere als Anschlussheilbehandlung (AHB), informiert werden; sie sollte fachurologisch und multimodal erfolgen (Empfehlung 8.3, Grad B), der psychoonkologische Betreuungsbedarf soll geprüft werden (Empfehlung 8.6, Grad A). Die Wirksamkeit ist für die stationäre AHB belegt, ein randomisierter Vergleich mit ambulanter Rehabilitation steht aus."
   }
 ]

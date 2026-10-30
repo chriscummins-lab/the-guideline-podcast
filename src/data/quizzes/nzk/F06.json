@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wann soll laut Empfehlung 6.10 (Kapitel 6.3, Empfehlungsgrad A) eine systematische oder extendierte Lymphadenektomie NICHT erfolgen?",
+    "question": "Ein 61-jähriger Patient erhält eine radikale Nephrektomie bei einem cT2b-Nierentumor. Präoperative CT und intraoperativer Situs zeigen keine auffälligen Lymphknoten. Welches Vorgehen bezüglich der Lymphknoten empfiehlt die Leitlinie?",
     "options": [
-      "Bei unauffälliger Bildgebung und unauffälligem intraoperativen Befund.",
-      "Bei klinisch vergrößerten Lymphknoten.",
-      "Nur bei Tumoren der Kategorie T1.",
-      "Niemals, sie soll grundsätzlich immer erfolgen."
+      "Extendierte Lymphadenektomie, da ab cT2 ein Überlebensvorteil belegt ist",
+      "Systematische hiläre Lymphadenektomie, da sie für das pN-Staging gefordert ist",
+      "Verzicht auf eine systematische oder extendierte Lymphadenektomie",
+      "Extendierte Lymphadenektomie, da sie das progressionsfreie Überleben verlängert"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung stützt sich auf eine randomisierte Studie mit 772 Patienten ohne Hinweis auf Lymphknotenmetastasen.",
-    "explanation": "Empfehlung 6.10 legt mit Empfehlungsgrad A fest, dass eine systematische oder extendierte Lymphadenektomie bei unauffälliger Bildgebung und unauffälligem intraoperativen Befund nicht erfolgen soll, da kein Überlebensvorteil nachgewiesen wurde."
+    "correct": 2,
+    "tip": "Fragen Sie sich, ob ein onkologischer Nutzen der zusätzlichen Lymphknotenentfernung bei klinisch unauffälligen Lymphknoten randomisiert belegt wurde.",
+    "explanation": "Empfehlung 6.10 (Empfehlungsgrad A, starker Konsens): Bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund soll keine systematische oder extendierte Lymphadenektomie erfolgen; eine randomisierte Studie (n=772) zeigte weder für das Gesamt- noch für das progressionsfreie Überleben einen Vorteil, auch bei lokal fortgeschrittenen Tumoren nicht. Eine Lymphadenektomie kommt bei vergrößerten Lymphknoten in Betracht (Empfehlung 6.11)."
   },
   {
-    "question": "Was sieht Empfehlung 6.11 bei Patienten mit vergrößerten Lymphknoten vor?",
+    "question": "Bei einem Patienten mit Nierentumor zeigt die präoperative CT vergrößerte lokoregionäre Lymphknoten ohne Hinweis auf Fernmetastasen (cN1 M0). Welche Aussage zur Lymphadenektomie entspricht der Leitlinie?",
     "options": [
-      "Eine Lymphadenektomie kann zum lokalen Staging und zur lokalen Kontrolle erfolgen.",
-      "Eine Lymphadenektomie ist in diesem Fall absolut kontraindiziert.",
-      "Es soll immer eine systemische Therapie vor jeder Operation erfolgen.",
-      "Eine Strahlentherapie der Lymphknotenregion wird empfohlen."
+      "Sie soll erfolgen, da ein Überlebensvorteil randomisiert belegt ist",
+      "Sie sollte erst nach einer neoadjuvanten Systemtherapie erfolgen",
+      "Sie sollte unterbleiben, da cN1 als systemische Erkrankung gilt",
+      "Sie kann zum lokalen Staging und zur lokalen Kontrolle erfolgen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung ist als Expertenkonsens (EK) formuliert und bezieht sich gezielt auf auffällige Lymphknoten.",
-    "explanation": "Empfehlung 6.11 besagt, dass bei Patienten mit vergrößerten Lymphknoten zum lokalen Staging und zur lokalen Kontrolle eine Lymphadenektomie erfolgen kann."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen dem fehlenden Nutzen bei cN0 und der ungeklärten Rolle bei klinisch vergrößerten Lymphknoten.",
+    "explanation": "Empfehlung 6.11 (Expertenkonsens): Bei vergrößerten Lymphknoten kann eine Lymphadenektomie zum lokalen Staging und zur lokalen Kontrolle erfolgen; ihre Rolle bei N1 M0 ist laut Hintergrundtext nicht geklärt. Eine neoadjuvante Therapie soll in der nicht-metastasierten Situation außerhalb von Studien nicht erfolgen (Empfehlungen 9.1 und 9.3)."
   },
   {
-    "question": "Unter welcher Bedingung soll laut Empfehlung 6.12 (Kapitel 6.4, Empfehlungsgrad A) keine Adrenalektomie erfolgen?",
+    "question": "Wann besteht laut Leitlinie bei der radikalen Nephrektomie die Indikation zur simultanen ipsilateralen Adrenalektomie?",
     "options": [
-      "Bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund.",
-      "Bei Verdacht auf Tumorinfiltration der Nebenniere.",
-      "Bei makroskopisch suspektem intraoperativem Nebennierenbefund.",
-      "Grundsätzlich nie, eine Adrenalektomie soll immer erfolgen."
+      "Bei Infiltrationsverdacht in CT/MRT oder suspektem Nebennierenbefund",
+      "Bei Tumoren am oberen Nierenpol oder einer Tumorgröße über 7 cm",
+      "Bei Tumoren ab Stadium cT3 zur Verbesserung des Gesamtüberlebens",
+      "Bei Tumoren am oberen Pol zur Senkung des Lokalrezidivrisikos"
     ],
     "correct": 0,
-    "tip": "Eine Indikation zur Adrenalektomie besteht nur bei konkretem Verdacht auf Tumorinfiltration.",
-    "explanation": "Empfehlung 6.12 legt fest, dass eine Adrenalektomie bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund nicht erfolgen soll; eine Indikation besteht nur bei präoperativ oder intraoperativ geäußertem Verdacht einer Nebennierenbeteiligung."
+    "tip": "Retrospektive Vergleichsdaten zeigen keinen Überlebensvorteil der routinemäßigen Mitentfernung – was bleibt dann als Indikation übrig?",
+    "explanation": "Empfehlung 6.12 (Empfehlungsgrad A): Bei unauffälliger Bildgebung und unauffälligem intraoperativem Befund soll keine Adrenalektomie erfolgen. Laut Hintergrundtext ist sie nur bei präoperativem CT-/MRT-Verdacht auf eine Tumorinfiltration der Nebenniere oder bei intraoperativ makroskopisch suspektem Befund indiziert – Tumorlage, Größe oder Stadium allein begründen sie nicht."
   },
   {
-    "question": "Welches Resektionsziel fordert Empfehlung 6.13 (Kapitel 6.5, Empfehlungsgrad A) bei der Nierentumorentfernung?",
+    "question": "Welche Aussage zur Bedeutung eines R1-Befundes bei makroskopisch tumorfreiem Resektionsgrund nach Nierentumorresektion trifft laut Leitlinie zu?",
     "options": [
-      "Eine R0-Resektion soll erfolgen.",
-      "Eine R1-Resektion ist ausreichend und anzustreben.",
-      "Ein Sicherheitsabstand von mindestens 1 cm ist zwingend erforderlich.",
-      "Das Resektionsziel ist bei organerhaltender Chirurgie irrelevant."
+      "Erhöhtes Lokalrezidivrisiko, kein nachgewiesener Einfluss auf das tumorspezifische Überleben",
+      "Kein erhöhtes Lokalrezidivrisiko, aber signifikant verkürztes tumorspezifisches Überleben",
+      "Erhöhtes Lokalrezidivrisiko und signifikant verkürztes tumorspezifisches Überleben",
+      "Weder erhöhtes Lokalrezidivrisiko noch Einfluss auf das tumorspezifische Überleben"
     ],
     "correct": 0,
-    "tip": "Die Breite des Sicherheitsabstandes selbst ist laut Hintergrundtext ohne Relevanz, solange das Ziel erreicht wird.",
-    "explanation": "Empfehlung 6.13 fordert mit Empfehlungsgrad A, dass bei der Nierentumorentfernung eine R0-Resektion erfolgen soll."
+    "tip": "Trennen Sie lokale Tumorkontrolle und krebsspezifisches Outcome – die Leitlinie bewertet beide in getrennten Statements.",
+    "explanation": "Statement 6.15: Patienten mit R1-Befund haben ein erhöhtes Risiko für ein Lokalrezidiv. Statement 6.14: Eine signifikante Beeinflussung des tumorspezifischen Überlebens durch R1-Befunde bei makroskopisch tumorfreiem Resektionsgrund ist nicht nachgewiesen (beide LoE 3, Konsens)."
   },
   {
-    "question": "Welches Risiko ist laut Statement 6.15 mit einem R1-Befund nach Nierentumorresektion assoziiert?",
+    "question": "Nach Nierenteilresektion eines cT1a-Tumors mit intraoperativ makroskopisch tumorfreiem Resektionsbett zeigt die endgültige Histologie einen mikroskopisch positiven Schnittrand. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Ein erhöhtes Risiko für ein Lokalrezidiv.",
-      "Ein nachgewiesener signifikanter Nachteil im Gesamtüberleben.",
-      "Kein erhöhtes Risiko für irgendeinen klinischen Endpunkt.",
-      "Ein erhöhtes Risiko ausschließlich für Fernmetastasen, nie für Lokalrezidive."
+      "Zeitnahe Nachresektion des Tumorbetts zur Sicherung der R0-Situation",
+      "Systematische Überwachung unter Verzicht auf eine Nachoperation",
+      "Sekundäre radikale Nephrektomie wegen des erhöhten Lokalrezidivrisikos",
+      "Adjuvante Strahlentherapie des Tumorbetts zur Rezidivprophylaxe"
     ],
-    "correct": 0,
-    "tip": "Dies unterscheidet sich vom tumorspezifischen Überleben, bei dem laut Statement 6.14 kein signifikanter Einfluss nachgewiesen ist.",
-    "explanation": "Statement 6.15 beschreibt, dass Patienten mit einem R1-Befund ein erhöhtes Risiko für ein Lokalrezidiv haben, während Statement 6.14 für das tumorspezifische Überleben keine signifikante Beeinflussung nachweist."
+    "correct": 1,
+    "tip": "Bedenken Sie, wie selten bei einer prophylaktischen Nachoperation tatsächlich noch Tumor in der Restniere gefunden wurde.",
+    "explanation": "Empfehlung 6.16 (Empfehlungsgrad B): Bei R1-Befund in der endgültigen Histologie sollte eine systematische Überwachung und keine Nachoperation erfolgen – bei sekundärer Nephrektomie fand sich nur in 0–39 % noch Tumor in der Restniere. Eine postoperative Strahlentherapie soll nicht durchgeführt werden (Empfehlung 9.4)."
   },
   {
-    "question": "Was empfiehlt Empfehlung 6.16 (Empfehlungsgrad B) bei Nachweis eines R1-Befundes in der endgültigen histopathologischen Untersuchung?",
+    "question": "Wie lautet die Empfehlung der Leitlinie zur intraoperativen Schnellschnittuntersuchung bei einer Nierentumorresektion mit makroskopisch unauffälligem Tumorbett?",
     "options": [
-      "Eine systematische Überwachung und keine Nachoperation.",
-      "Eine sofortige Nachresektion innerhalb von 48 Stunden.",
-      "Eine radikale Nephrektomie der kontralateralen Niere.",
-      "Eine primäre Strahlentherapie des Tumorbetts."
+      "Ein Schnellschnitt soll routinemäßig erfolgen (Empfehlungsgrad A)",
+      "Ein Schnellschnitt sollte regelhaft erfolgen (Empfehlungsgrad B)",
+      "Auf einen Schnellschnitt soll verzichtet werden (Empfehlungsgrad A)",
+      "Auf einen Schnellschnitt kann verzichtet werden (Empfehlungsgrad 0)"
     ],
-    "correct": 0,
-    "tip": "Die Empfehlung berücksichtigt, dass eine erneute Operation keinen nachgewiesenen Überlebensvorteil bringt.",
-    "explanation": "Empfehlung 6.16 sieht bei Nachweis eines R1-Befundes in der endgültigen Histopathologie eine systematische Überwachung statt einer Nachoperation vor."
+    "correct": 3,
+    "tip": "Überlegen Sie, welche therapeutische Konsequenz ein mikroskopisch positiver Rand nach den Empfehlungen zum R1-Befund überhaupt hätte.",
+    "explanation": "Empfehlung 6.17 (Empfehlungsgrad 0, LoE 3, Konsens): Auf eine Schnellschnittuntersuchung kann bei makroskopisch unauffälligem Tumorbett verzichtet werden. Das passt zur Empfehlung 6.16, R1-Befunde systematisch zu überwachen statt nachzuoperieren."
   },
   {
-    "question": "Was besagt Empfehlung 9.1 (Kapitel 9.1, Expertenkonsens) zur neoadjuvanten Therapie in der nicht-metastasierten Situation?",
+    "question": "Ein 66-jähriger Patient hat einen Nierentumor cT3b mit Tumorthrombus in der V. cava, ohne Fernmetastasen. Der Operateur erwägt eine präoperative Systemtherapie, um den Thrombus zu verkleinern. Was empfiehlt die Leitlinie?",
     "options": [
-      "Vor Primärtumorresektion soll keine neoadjuvante Therapie durchgeführt werden.",
-      "Eine neoadjuvante Therapie soll bei allen Patienten mit T2-Tumoren erfolgen.",
-      "Eine neoadjuvante Therapie ist Standard bei jedem lokalisierten Nierenzellkarzinom.",
-      "Eine neoadjuvante Strahlentherapie wird generell empfohlen."
+      "Neoadjuvant Sunitinib über 8–12 Wochen, da der Thrombus regelhaft schrumpft",
+      "Neoadjuvant Pembrolizumab plus Axitinib bis zum maximalen Ansprechen",
+      "Primäre Operation, neoadjuvante Therapie allenfalls innerhalb von Studien",
+      "Neoadjuvant Pazopanib über 12 Wochen mit anschließender Re-Evaluation"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt explizit für die nicht-metastasierte Situation.",
-    "explanation": "Empfehlung 9.1 legt als starker Expertenkonsens fest, dass in der nicht-metastasierten Situation vor Primärtumorresektion keine neoadjuvante Therapie durchgeführt werden soll."
+    "correct": 2,
+    "tip": "Überlegen Sie, wie stark Primärtumor und Cava-Thrombus unter präoperativer zielgerichteter Behandlung tatsächlich an Volumen verloren.",
+    "explanation": "Empfehlungen 9.1 (EK) und 9.3 (Empfehlungsgrad A): In der nicht-metastasierten Situation soll vor der Primärtumorresektion keine neoadjuvante Therapie erfolgen; sie soll nur im Rahmen von Studien durchgeführt werden. Statement 9.2: Die Volumenreduktion von Primärtumor oder Cava-Thrombus ist klinisch nicht relevant (Größenreduktion in Phase-II-Studien nur 10–13 %); die 8–12 Wochen entsprechen lediglich der Therapiedauer dieser Studien."
   },
   {
-    "question": "In welchem Rahmen soll eine neoadjuvante Therapie laut Empfehlung 9.3 (Empfehlungsgrad A) überhaupt durchgeführt werden?",
+    "question": "Ein 57-jähriger Patient fragt nach R0-Nephrektomie eines klarzelligen Nierenzellkarzinoms pT3a, G2, N0, M0 nach einer adjuvanten Behandlung. Welche Option entspricht der Leitlinie?",
     "options": [
-      "Nur im Rahmen von klinischen Studien.",
-      "Als fester Bestandteil der Routinetherapie bei jedem resektablen Tumor.",
-      "Nur bei Patienten über 75 Jahren.",
-      "Ausschließlich bei nicht-klarzelligen Subtypen."
+      "Adjuvant Sunitinib über ein Jahr (Empfehlungsgrad B)",
+      "Adjuvant Pembrolizumab über ein Jahr (Empfehlungsgrad B)",
+      "Adjuvante Bestrahlung der Nierenloge (Empfehlungsgrad B)",
+      "Adjuvant Pazopanib über ein Jahr (Empfehlungsgrad 0)"
     ],
-    "correct": 0,
-    "tip": "Dies steht im Einklang mit dem in Kapitel 9.1 beschriebenen klinisch nicht relevanten Effekt auf die Tumorvolumenreduktion.",
-    "explanation": "Empfehlung 9.3 fordert mit Empfehlungsgrad A, dass eine neoadjuvante Therapie nur im Rahmen von Studien durchgeführt werden soll."
+    "correct": 1,
+    "tip": "Angiogenesehemmer haben wenig Angriffsfläche, solange nur einzelne Tumorzellen ohne eigene Gefäßversorgung zirkulieren.",
+    "explanation": "Ein pT3-Tumor jeden Grades (N0 M0) zählt in KEYNOTE-564 zum intermediär-hohen Risiko; nach Empfehlung 9.6 (Empfehlungsgrad B) sollte adjuvant Pembrolizumab gegeben werden, valide Gesamtüberlebensdaten liegen noch nicht vor. Eine adjuvante Therapie mit VEGFR-TKIs (9.5) und eine postoperative Strahlentherapie (9.4) sollen nicht erfolgen (jeweils Grad A); Sunitinib ist adjuvant nur durch die FDA zugelassen, der EU-Antrag wurde zurückgezogen."
   },
   {
-    "question": "Wie bewerten die Empfehlungen 9.4 und 9.5 (Kapitel 9.2, jeweils Empfehlungsgrad A) die postoperative Strahlentherapie bzw. zielgerichtete Therapie mit VEGFR-TKIs in der adjuvanten Situation?",
+    "question": "Für welchen Patienten besteht nach R0-Nephrektomie (cM0) laut Empfehlung 9.6 die Indikation zur adjuvanten Pembrolizumab-Therapie?",
     "options": [
-      "Beide sollen nicht durchgeführt werden.",
-      "Beide sollen bei allen Patienten mit pT3-Tumoren durchgeführt werden.",
-      "Die Strahlentherapie soll erfolgen, die VEGFR-TKI-Therapie nicht.",
-      "Beide werden nur bei nicht-klarzelligen Subtypen empfohlen."
+      "Klarzelliges NZK pT1b, G4, N0, M0",
+      "Papilläres NZK pT3a, G3, N0, M0",
+      "Klarzelliges NZK pT2, G4, N0, M0",
+      "Klarzelliges NZK pT2, G3, N0, M0"
     ],
-    "correct": 0,
-    "tip": "Metaanalysen zeigten für beide Verfahren in der adjuvanten Situation keinen Überlebensvorteil.",
-    "explanation": "Empfehlung 9.4 legt fest, dass eine postoperative Strahlentherapie nicht durchgeführt werden soll, und Empfehlung 9.5, dass eine zielgerichtete Therapie mit VEGFR-TKIs in der adjuvanten Situation nicht durchgeführt werden soll – beide mit Empfehlungsgrad A."
+    "correct": 2,
+    "tip": "Beachten Sie neben Stadium und Grading auch die Histologie, auf die sich die Zulassungsstudie beschränkte.",
+    "explanation": "Empfehlung 9.6 (Empfehlungsgrad B) gilt für klarzellige NZK mit intermediär-hohem oder hohem Risiko wie in KEYNOTE-564 definiert: intermediär-hoch = pT2 mit G4 oder sarkomatoider Differenzierung bzw. pT3 jeden Grades (N0 M0), hoch = pT4 oder N+ (M0). pT2 G3 und pT1b erfüllen dies nicht (pT1b G≥3 war Einschlusskriterium der ASSURE-Studie), nicht-klarzellige Tumoren sind nicht erfasst."
   },
   {
-    "question": "Für welche Patientengruppe sollte laut Empfehlung 9.6 (Empfehlungsgrad B) eine adjuvante Immuntherapie mit Pembrolizumab durchgeführt werden?",
+    "question": "Ein 63-jähriger Patient mit klarzelligem NZK wurde nephrektomiert; 8 Monate später wurden zwei Lungenmetastasen komplett reseziert. Die Erkrankung war vor der Resektion dokumentiert stabil, aktuell besteht kein Tumornachweis. Was sagt die Leitlinie zu einer anschließenden Pembrolizumab-Therapie?",
     "options": [
-      "Patienten mit klarzelligem Nierenzellkarzinom mit intermediär-hohem und hohem Risiko (wie in der Studie definiert).",
-      "Alle Patienten nach Nephrektomie unabhängig vom Risiko.",
-      "Ausschließlich Patienten mit nicht-klarzelligem Subtyp.",
-      "Nur Patienten mit bereits nachgewiesener Fernmetastasierung."
+      "Sie soll als adjuvante Standardtherapie erfolgen (Empfehlungsgrad A)",
+      "Sie sollte als konsolidierende Therapie erfolgen (Empfehlungsgrad B)",
+      "Sie sollte in der M1-Situation unterbleiben (Empfehlungsgrad B)",
+      "Sie kann als konsolidierende Therapie erfolgen (Empfehlungsgrad 0)"
     ],
-    "correct": 0,
-    "tip": "Zum Zeitpunkt der Empfehlung lagen noch keine validen Gesamtüberlebensdaten vor.",
-    "explanation": "Empfehlung 9.6 sieht vor, dass eine adjuvante Immuntherapie mit dem Checkpointinhibitor Pembrolizumab bei Patienten mit klarzelligem Nierenzellkarzinom mit intermediär-hohem und hohem Risiko, wie in der zugrunde liegenden Studie definiert, durchgeführt werden sollte, wobei noch keine validen Gesamtüberlebensdaten vorliegen."
+    "correct": 3,
+    "tip": "Erinnern Sie sich, wie die Leitlinie eine oligotop metastasierte Erkrankung definiert und welchen Krankheitsstatus sie vor der Resektion verlangt.",
+    "explanation": "Empfehlung 9.7 (modifiziert 2024, Empfehlungsgrad 0, LoE 1-): Eine konsolidierende Pembrolizumab-Therapie kann bei oligotop metastasierten Patienten (ein Organ mit bis zu 3 Metastasen) mit dokumentiert stabiler Erkrankung nach Resektion von Primärtumor und Metastasen erfolgen. Der Empfehlungsgrad B gehört zur adjuvanten Therapie im M0-Stadium (Empfehlung 9.6)."
   }
 ]

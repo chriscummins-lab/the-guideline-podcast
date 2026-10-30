@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll dem Patienten laut Empfehlung 10.1 (Kapitel 10.1, Empfehlungsgrad A) bezüglich Aufklärungs- und Beratungsgesprächen angeboten werden?",
+    "question": "Ein 63-jähriger Patient wird über Therapieoptionen bei lokal begrenztem Prostatakarzinom beraten. Was empfiehlt die Leitlinie zur Einbeziehung der Partnerin bzw. des Partners?",
     "options": [
-      "Seine Partnerin/seinen Partner an diesen Gesprächen teilhaben zu lassen.",
-      "Aufklärungsgespräche grundsätzlich ohne jede Begleitperson zu führen.",
-      "Auf jede Form der Aufklärung zu verzichten, um den Patienten nicht zu belasten.",
-      "Aufklärungsgespräche ausschließlich schriftlich per Post zu führen."
+      "Sie sollte erst nach der Therapieentscheidung erfolgen, um Einflussnahme zu vermeiden",
+      "Sie sollte sich auf Gespräche über Sexualfunktion und Inkontinenz beschränken",
+      "Dem Patienten soll angeboten werden, sie an den Aufklärungsgesprächen zu beteiligen",
+      "Sie kann angeboten werden; als offene Empfehlung ohne belastbare Studienbasis"
     ],
-    "correct": 0,
-    "tip": "Partnerinnen/Partner von PCa-Patienten haben häufig ein ebenso starkes Informationsbedürfnis wie die Patienten selbst und leiden teils stärker unter der Diagnose.",
-    "explanation": "Empfehlung 10.1 fordert, dass dem Patienten angeboten werden soll, seine Partnerin/seinen Partner an Aufklärungs- und Beratungsgesprächen teilhaben zu lassen."
+    "correct": 2,
+    "tip": "Partnerinnen und Partner haben oft ein starkes eigenes Informationsbedürfnis und leiden teils stärker unter der Diagnose als die Patienten selbst.",
+    "explanation": "Empfehlung 10.1 (Empfehlungsgrad A, Expertenmeinung): Dem Patienten soll angeboten werden, seine Partnerin/seinen Partner an Aufklärungs- und Beratungsgesprächen teilhaben zu lassen; über die Weitergabe von Informationen entscheidet letztlich der Patient. Begründung sind die Konsequenzen für die Partnerschaft und das ausgeprägte Informationsbedürfnis der Partner."
   },
   {
-    "question": "Über welche speziellen Auswirkungen soll der Patient laut Empfehlung 10.2 im ärztlichen Gespräch insbesondere informiert werden?",
+    "question": "Sie erklären einem Patienten Nutzen und Risiken einer Therapie. Wie sollten Wahrscheinlichkeiten laut Hintergrundtext der Leitlinie dargestellt werden?",
     "options": [
-      "Auswirkungen auf körperliches Erscheinungsbild, Sexualleben, Harn- und Stuhlkontrolle sowie Aspekte des männlichen Selbstverständnisses.",
-      "Ausschließlich über finanzielle Aspekte der Behandlung.",
-      "Ausschließlich über die Namen der behandelnden Pflegekräfte.",
-      "Ausschließlich über die Parkmöglichkeiten am Behandlungsort."
+      "Als relative Risikoreduktion, da sie den Therapieeffekt am klarsten zeigt",
+      "In absoluten Zahlen mit klarer Bezugsgröße, z. B. „zehn von hundert Patienten“",
+      "Als Prozentangabe ohne Bezugsgröße, um die Information knapp zu halten",
+      "Als Hazard Ratio mit Konfidenzintervall, um die Unsicherheit abzubilden"
     ],
-    "correct": 0,
-    "tip": "Diese Aufklärung soll alle in der Leitlinie beschriebenen relevanten Therapieoptionen, deren Erfolgsaussichten und mögliche Auswirkungen umfassen.",
-    "explanation": "Empfehlung 10.2 fordert, dass der Patient insbesondere über Auswirkungen auf sein körperliches Erscheinungsbild, sein Sexualleben (Impotenz), seine Harn- und Stuhlkontrolle (Inkontinenz) und Aspekte des männlichen Selbstverständnisses informiert werden soll."
+    "correct": 1,
+    "tip": "Patientenrelevante Endpunkte sollen so vermittelt werden, dass sie ohne statistische Vorkenntnisse nachvollziehbar sind.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 10.2–10.5 sollten Wahrscheinlichkeiten in absoluten Zahlen mit klar genannter Bezugsgröße dargestellt werden („zehn von hundert Patienten“ statt 10 %); auch die NNT ist patientenverständlich. Relatives Risiko und relative Risikoreduktion sind schwer nachvollziehbar und sollten vermieden werden."
   },
   {
-    "question": "Was soll laut Empfehlung 10.3 im ärztlichen Gespräch eruiert und berücksichtigt werden, und was gilt, wenn ein Patient hierfür mehrere Gespräche benötigt?",
+    "question": "Was empfiehlt die Leitlinie zum Hinweis auf Prostatakrebs-Selbsthilfegruppen?",
     "options": [
-      "Die individuellen Präferenzen, Bedürfnisse, Sorgen und Ängste des Patienten; das Angebot zu weiteren Gesprächen soll bestehen.",
-      "Ausschließlich der Versicherungsstatus des Patienten; weitere Gespräche sind kostenpflichtig zu verweigern.",
-      "Ausschließlich die familiäre Vorgeschichte; weitere Gespräche sind grundsätzlich nicht vorgesehen.",
-      "Individuelle Präferenzen spielen laut dieser Empfehlung keine Rolle."
+      "Ein Hinweis sollte erst nach Abschluss der Primärtherapie erfolgen",
+      "Ein Hinweis kann erfolgen, sofern der Patient ausdrücklich danach fragt",
+      "Der Patient soll auf die Möglichkeit des Kontakts hingewiesen werden",
+      "Ein Hinweis sollte nur bei nachgewiesener psychischer Belastung erfolgen"
     ],
-    "correct": 0,
-    "tip": "Individualisierte Aufklärung, die sich an den Präferenzen des einzelnen Patienten orientiert, verbessert die Entscheidungsfindung.",
-    "explanation": "Empfehlung 10.3 fordert, dass die individuellen Präferenzen, Bedürfnisse, Sorgen und Ängste des Patienten eruiert und berücksichtigt werden sollen, und dass bei Bedarf mehrerer Gespräche das Angebot zu weiteren Gesprächen bestehen soll."
+    "correct": 2,
+    "tip": "85 bis 90 % der Patienten halten Selbsthilfegruppen für Information und emotionale Unterstützung für wichtig.",
+    "explanation": "Empfehlung 10.8 (Empfehlungsgrad A): Der Patient soll auf die Möglichkeit hingewiesen werden, sich mit einer Selbsthilfegruppe in Verbindung zu setzen; die Adressen der Gruppen finden sich beim Bundesverband Prostatakrebs Selbsthilfe. Die Teilnahme verbessert u. a. das Wissen über Erkrankung und Therapie und erleichtert Gespräche über schwierige Themen."
   },
   {
-    "question": "Worauf soll der Patient laut Empfehlung 10.4 hingewiesen werden?",
+    "question": "Welche Aussage zur ärztlichen Aufklärung von Patienten mit Prostatakarzinom entspricht der Leitlinie?",
     "options": [
-      "Auf die evidenzbasierten Patientenleitlinien zum Prostatakarzinom.",
-      "Auf ausschließlich kommerzielle, nicht evidenzbasierte Gesundheitsportale.",
-      "Auf den vollständigen Verzicht auf jede weiterführende Information.",
-      "Auf ausschließlich fremdsprachige Fachliteratur ohne deutsche Übersetzung."
+      "Ein standardisierter Aufklärungskatalog soll die Gesprächsinhalte einheitlich festlegen",
+      "Auf Patientenleitlinien sollte erst nach der Therapieentscheidung verwiesen werden",
+      "Die Aufklärung sollte sich auf die ärztlich empfohlene Therapieoption beschränken",
+      "Benötigt ein Patient mehrere Gespräche, soll das Angebot weiterer Gespräche bestehen"
     ],
-    "correct": 0,
-    "tip": "Diese Patientenleitlinien sollen dem Patienten eine qualifizierte, aber allgemeinverständliche Zusatzinformation bieten.",
-    "explanation": "Empfehlung 10.4 fordert, dass der Patient auf die evidenzbasierten Patientenleitlinien zum Prostatakarzinom hingewiesen werden soll."
+    "correct": 3,
+    "tip": "Informationsbedürfnisse variieren stark von Patient zu Patient – und unter dem Schock der Diagnose wird oft nur ein Teil aufgenommen.",
+    "explanation": "Empfehlung 10.3 (Empfehlungsgrad A): Individuelle Präferenzen, Bedürfnisse, Sorgen und Ängste sollen eruiert werden; benötigt ein Patient mehrere Gespräche, soll das Angebot dazu bestehen. Über alle relevanten Therapieoptionen soll informiert (Empfehlung 10.2) und auf die evidenzbasierten Patientenleitlinien hingewiesen werden (Empfehlung 10.4); ein Standardaufklärungskatalog erscheint wegen großer interindividueller Unterschiede nicht sinnvoll."
   },
   {
-    "question": "Wozu soll der Patient laut Empfehlung 10.5 durch qualifizierte, allgemeinverständliche Informationen befähigt werden?",
+    "question": "Ein Patient wirkt in der Sprechstunde nach Prostatektomie bedrückt, spricht Probleme in Sexualität und Partnerschaft aber nicht von sich aus an. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Zur Therapieentscheidung.",
-      "Ausschließlich zur Selbstdiagnose ohne ärztliche Beteiligung.",
-      "Ausschließlich zur Durchführung der Operation in Eigenregie.",
-      "Information soll laut dieser Empfehlung explizit zurückgehalten werden."
+      "Aktiv nachfragen und psychosoziale bzw. psychoonkologische Unterstützung anbieten",
+      "Abwarten, bis der Patient das Thema selbst anspricht, um ihn nicht zu beschämen",
+      "Zunächst PDE-5-Inhibitoren verordnen, psychosoziale Hilfe erst bei deren Versagen",
+      "Unterstützung erst anbieten, wenn ein Screening eine Depression bestätigt hat"
     ],
     "correct": 0,
-    "tip": "Dies ist Teil des Prinzips der partizipativen Entscheidungsfindung (Shared Decision Making).",
-    "explanation": "Empfehlung 10.5 fordert, dass der Patient durch ebenso qualifizierte wie allgemeinverständliche Informationen zur Therapieentscheidung befähigt werden soll."
+    "tip": "Männer mit Prostatakarzinom neigen dazu, Beschwerden zu verschweigen oder ihr Ausmaß herunterzuspielen.",
+    "explanation": "Empfehlung 10.7 (EK): Dem Patienten sollte bei psychischen, sexuellen oder partnerschaftlichen Problemen eine psychosoziale und psychoonkologische Unterstützung angeboten werden. Da PCa-Patienten Beschwerden häufig verschweigen, kann dieser Tendenz durch aktive Nachfrage begegnet werden; Sexualität und Partnerschaft gar nicht anzusprechen ist ein typischer Fallstrick."
   },
   {
-    "question": "Welche Darstellungsform von Wahrscheinlichkeiten wird laut dem Hintergrundtext zu Empfehlung 10.2–10.5 für die Patientenaufklärung empfohlen?",
+    "question": "Welches Instrument bildet laut Leitlinie das Kernstück des ICHOM-Standard-Sets zur Ergebnismessung beim lokalisierten Prostatakarzinom?",
     "options": [
-      "Absolute Zahlen (z. B. 'zehn von hundert Patienten') statt Prozentangaben, sowie die Number Needed to Treat (NNT) statt relativer Risikoreduktion.",
-      "Ausschließlich Prozentangaben ohne jede weitere Erläuterung.",
-      "Ausschließlich die relative Risikoreduktion, da diese am verständlichsten ist.",
-      "Eine quantitative Darstellung von Wahrscheinlichkeiten wird grundsätzlich abgelehnt."
+      "EORTC-Kernfragebogen QLQ-C30 mit dem Modul PR-25",
+      "Expanded Prostate Cancer Index Composite (EPIC-26)",
+      "FACT-G-Kernbogen mit dem Prostatamodul FACT-P",
+      "UCLA Prostate Cancer Index (PCI) in der Fassung von 1995"
     ],
-    "correct": 0,
-    "tip": "Die relative Risikoreduktion gilt als schwer nachvollziehbar und sollte deshalb vermieden werden.",
-    "explanation": "Der Hintergrundtext empfiehlt die Darstellung von Wahrscheinlichkeiten in absoluten Zahlen statt Prozentangaben sowie die Verwendung der patientenverständlichen Number Needed to Treat (NNT) anstelle der schwerer nachvollziehbaren relativen Risikoreduktion."
+    "correct": 1,
+    "tip": "Gesucht ist ein Fragebogen mit fünf Domänen, der für alle Behandlungsmodalitäten des Prostatakarzinoms validiert wurde.",
+    "explanation": "Laut Kapitel 10.2 ist der EPIC-26 Kernstück der Ergebnismessung im ICHOM-Standard-Set; er erfasst Kontinenz, irritative/obstruktive Symptome, Darmfunktion, Sexualfunktion und hormonelle Symptome. DKG und Dachverband der Prostatazentren empfehlen das ICHOM-Set für zertifizierte Zentren; EORTC QLQ-C30/PR-25 und FACT-P sind alternative Instrumente, der UCLA-PCI war die Grundlage des EPIC."
   },
   {
-    "question": "Welche drei Themen waren laut den von Crawford und Mitarbeitern untersuchten Patientenpräferenzen die wichtigsten Aufklärungsinhalte für PCa-Patienten?",
+    "question": "Welcher der folgenden Inhalte ist laut Tabelle 38 NICHT Gegenstand eines Qualitätsindikators der Leitlinie?",
     "options": [
-      "Erhaltung der Lebensqualität (45%), Lebensverlängerung (29%) und Krankheitsverlangsamung (13%).",
-      "Ausschließlich die Kosten der Behandlung.",
-      "Ausschließlich die Dauer des Krankenhausaufenthalts.",
-      "Ausschließlich die Erreichbarkeit des Behandlungsteams."
+      "Zahnärztliche Untersuchung vor Bisphosphonat- oder Denosumab-Therapie",
+      "Aktive Überwachung bei lokal begrenztem Prostatakarzinom mit niedrigem Risiko",
+      "Knochenszintigraphie in der Nachsorge asymptomatischer Patienten nach RPE",
+      "BRCA1/2-Analyse bei metastasiertem CRPC nach ARPI-Therapie vor der nächsten Linie"
     ],
-    "correct": 0,
-    "tip": "Diese Rangfolge verdeutlicht, dass die Lebensqualität für die meisten Patienten den höchsten Stellenwert hat.",
-    "explanation": "Nach Untersuchungen von Crawford und Mitarbeitern waren für PCa-Patienten die Erhaltung der Lebensqualität (45%), die Lebensverlängerung (29%) und die Krankheitsverlangsamung (13%) die wichtigsten Aufklärungsinhalte."
+    "correct": 2,
+    "tip": "Qualitätsindikatoren werden überwiegend aus starken Soll-Empfehlungen abgeleitet, deren Umsetzung messbar und erwünscht ist.",
+    "explanation": "Tabelle 38 umfasst u. a. die Prävention von Kieferosteonekrosen (QI 8), die Aktive Überwachung bei niedrigem Risiko (QI 14) und die BRCA1/2-Analyse beim mCRPC nach ARPI (QI 15). Eine routinemäßige Bildgebung in der Nachsorge ist kein QI – sie widerspricht sogar Empfehlung 9.4, nach der Bildgebung nur bei therapeutischer Konsequenz oder Symptomen erfolgen soll."
   },
   {
-    "question": "Wozu dienen laut Kapitel 11 Qualitätsindikatoren (QI)?",
+    "question": "Ein Prostatakrebszentrum dokumentiert den Qualitätsindikator zu postoperativen Komplikationen nach radikaler Prostatektomie. Welche Ereignisse bilden den Zähler?",
     "options": [
-      "Der Beurteilung der Qualität von Strukturen, Prozessen bzw. Ergebnissen der Versorgung, um diese stetig zu verbessern.",
-      "Ausschließlich der Abrechnung gegenüber den Krankenkassen.",
-      "Ausschließlich der statistischen Erfassung von Patientennamen.",
-      "Qualitätsindikatoren spielen in der Leitlinie keine Rolle."
+      "Clavien-Dindo II bis IV innerhalb von 30 Tagen nach RPE",
+      "CTCAE Grad III oder IV innerhalb von 12 Monaten nach der RPE",
+      "Clavien-Dindo IV innerhalb der ersten 90 Tage nach RPE",
+      "Clavien-Dindo III oder IV innerhalb von 6 Monaten nach RPE"
     ],
-    "correct": 0,
-    "tip": "Die Ergebnisse der Versorgung werden dabei dargestellt, kritisch reflektiert und wenn nötig verbessert.",
-    "explanation": "Qualitätsindikatoren sind Messgrößen, deren Erhebung der Beurteilung der Qualität der zugrunde liegenden Strukturen, Prozesse bzw. Ergebnisse dient, mit dem Ziel der stetigen Verbesserung der Versorgung."
+    "correct": 3,
+    "tip": "Der Indikator lehnt sich an ICHOM an; für die Strahlentherapie existiert ein analoger Indikator mit anderer Klassifikation.",
+    "explanation": "QI 9 (Tabelle 38): Im Zähler stehen Patienten mit einer Komplikation Clavien-Dindo Grad III (Intervention erforderlich) oder IV (intensivmedizinische Behandlung) innerhalb der ersten 6 Monate nach RPE; Qualitätsziel ist eine möglichst niedrige Rate. CTCAE Grad III/IV innerhalb von 12 Monaten gilt für den analogen QI 10 nach definitiver Strahlentherapie."
   },
   {
-    "question": "Aus wie vielen Qualitätsindikatoren besteht laut Kapitel 11 das finale Set der aktuellen Leitlinienversion, nachdem ein neuer QI angenommen, vier gestrichen und drei modifiziert wurden?",
+    "question": "Im Zertifizierungsaudit wird der Qualitätsindikator zur Salvage-Strahlentherapie bei hohem Progressionsrisiko geprüft. Welche Konstellation soll laut Qualitätsziel möglichst häufig vorliegen?",
     "options": [
-      "10 Qualitätsindikatoren.",
-      "50 Qualitätsindikatoren.",
-      "1 Qualitätsindikator.",
-      "Es existiert kein festgelegtes QI-Set."
+      "Beginn der Salvage-Strahlentherapie bei einem PSA unter 0,5 ng/ml",
+      "Zusätzliche ADT oder Bicalutamid bei einem PSA vor SRT über 0,2 ng/ml",
+      "Zusätzliche ADT nur bei Lymphknotenbefall in der PSMA-PET vor SRT",
+      "Zusätzliche ADT oder Bicalutamid bei einem PSA vor SRT über 0,7 ng/ml"
     ],
-    "correct": 0,
-    "tip": "Vier dieser zehn Qualitätsindikatoren sind mit dem onkologischen Basisdatensatz der Krebsregister zu dokumentieren.",
-    "explanation": "Kapitel 11 beschreibt, dass das finale Set nach den Anpassungen der Arbeitsgruppe Qualitätsindikatoren aus 10 Qualitätsindikatoren besteht."
+    "correct": 3,
+    "tip": "Denken Sie an den PSA-Wert, ab dem die Leitlinie das Progressionsrisiko vor einer Salvage-Strahlentherapie als hoch einstuft.",
+    "explanation": "QI 13 (Tabelle 38, Referenz Empfehlung 7.15, EG A): Patienten mit hohem Progressionsrisiko (PSA vor SRT >0,7 ng/ml) soll zusätzlich zur Salvage-Strahlentherapie eine ADT oder Bicalutamid angeboten werden. Der Schwellenwert PSA <0,5 ng/ml gehört zu QI 7, der einen möglichst frühzeitigen SRT-Beginn abbildet."
   },
   {
-    "question": "Welche Information soll laut dem Qualitätsindikator QI 1 (Befundbericht Stanzbiopsie) auf Basis von Empfehlung 5.8 im pathologischen Befundbericht erwähnt werden?",
+    "question": "Zu welchen Themen sieht die Leitliniengruppe in Kapitel 12 beim metastasierten, kastrationsresistenten Prostatakarzinom Forschungsbedarf?",
     "options": [
-      "Eine intraduktale Tumorkomponente (IDC-P nach WHO-Definition) soll in der Diagnose erwähnt werden.",
-      "Ausschließlich das Geburtsdatum des Patienten.",
-      "Ausschließlich die Versicherungsnummer des Patienten.",
-      "Diese Information ist für QI 1 nicht relevant."
+      "Sequenztherapie und Head-to-head-Vergleiche der Therapieoptionen",
+      "Stellenwert der HIFU und Therapie der regionalen Lymphknotenprogression",
+      "Komorbiditätsklassifikationen und vergleichbare MRT-Standards",
+      "Nutzen der PET/CT bei biochemischem Rezidiv vor Salvage-Therapie"
     ],
     "correct": 0,
-    "tip": "QI 1 bezieht sich dabei u. a. auf die Empfehlungen 5.8, 5.9 und 5.11 zur Vollständigkeit des Befundberichts nach Stanzbiopsie.",
-    "explanation": "Qualitätsindikator QI 1 fordert auf Grundlage von Empfehlung 5.8, dass eine intraduktale Tumorkomponente (IDC-P) in der Diagnose des Befundberichts nach Stanzbiopsie erwähnt werden soll."
+    "tip": "Erinnern Sie sich an die Unsicherheiten, die bei der Wahl und Abfolge der Therapien im kastrationsresistenten Stadium bestehen.",
+    "explanation": "Kapitel 12 nennt für das mCRPC Forschungsbedarf zur Bildgebung für die Metastasendiagnostik, zur Sequenztherapie und zu Head-to-head-Vergleichen der Therapieoptionen. HIFU, regionale Lymphknotenprogression und PET/CT vor Salvage-Therapie gehören zum Abschnitt Rezidiv, Komorbiditätsklassifikationen und Bildgebungsstandards zum lokal begrenzten Karzinom."
   }
 ]

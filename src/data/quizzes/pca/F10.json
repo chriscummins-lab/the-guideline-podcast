@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was fordert Empfehlung 7.24 (Kapitel 7.3) bei Patienten mit metastasiertem, hormonsensitivem Prostatakarzinom hinsichtlich des Beginns der Androgendeprivation?",
+    "question": "71-jähriger Patient mit de novo ossär metastasiertem, hormonsensitivem Prostatakarzinom (high volume), ECOG 1, stabile KHK. Ein Kollege meint, beim älteren Patienten reiche eine ADT-Monotherapie. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Sie soll zeitnah nach Diagnosestellung eingeleitet werden, u. a. zur Reduktion typischer Komplikationen wie pathologischer Frakturen oder Rückenmarkskompression.",
-      "Sie soll erst nach Auftreten von Knochenschmerzen begonnen werden.",
-      "Sie ist beim mHSPC grundsätzlich nicht indiziert.",
-      "Sie soll frühestens nach 2 Jahren begonnen werden."
+      "Kombinationstherapie als Standard, das Alter allein ist kein Ausschluss",
+      "ADT-Monotherapie, da ab 70 Jahren kein Nutzen der Kombination belegt ist",
+      "ADT plus Docetaxel allein, da dies bei high volume weiterhin Standard ist",
+      "ADT erst bei Auftreten von Symptomen, um Nebenwirkungen zu vermeiden"
     ],
     "correct": 0,
-    "tip": "Die Androgendeprivation dient auch der palliativen tumorspezifischen Therapie eventueller metastasenbedingter Symptome.",
-    "explanation": "Empfehlung 7.24 fordert, dass bei Patienten mit mHSPC zeitnah nach Diagnosestellung eine Androgendeprivation eingeleitet werden soll, um das Risiko typischer Komplikationen zu reduzieren und Symptome palliativ zu behandeln."
+    "tip": "Eine Netzwerk-Metaanalyse fand einen stärkeren Effekt bei Jüngeren – stellt sich die Frage, ob Ältere deshalb gar nicht profitieren.",
+    "explanation": "Die Kombinationen nach Empfehlung 7.30 sind heute Standard of Care; laut Hintergrund profitieren Patienten unabhängig vom Alter, das chronologische Alter allein ist kein Auswahlkriterium. Seit ARASENS gilt die alleinige Chemohormontherapie nicht mehr als Standard, und die ADT soll zeitnah nach Diagnose beginnen (Empfehlung 7.24); die KHK fließt über das Nebenwirkungsprofil in die Substanzwahl ein."
   },
   {
-    "question": "Durch welche Verfahren kann laut Empfehlung 7.25 eine Androgendeprivation durchgeführt werden?",
+    "question": "Welche Dosierung entspricht Empfehlung 7.31 für die Kombination mit einer Androgendeprivation beim mHSPC?",
     "options": [
-      "Durch chirurgische Kastration, GnRH-Agonisten oder GnRH-Antagonisten.",
-      "Ausschließlich durch eine Strahlentherapie der Hoden.",
-      "Ausschließlich durch eine Chemotherapie mit Docetaxel.",
-      "Ausschließlich durch eine diätetische Maßnahme ohne Medikamente."
+      "Apalutamid 160 mg einmal täglich",
+      "Darolutamid 600 mg zweimal täglich",
+      "Enzalutamid 240 mg einmal täglich",
+      "Abirateron 1000 mg plus Prednison 10 mg/d"
     ],
-    "correct": 0,
-    "tip": "GnRH-Agonisten bzw. -Antagonisten können subkutan, intramuskulär oder (bei bestimmten Antagonisten) oral verabreicht werden.",
-    "explanation": "Empfehlung 7.25 nennt als Möglichkeiten der Androgendeprivation die chirurgische Kastration sowie GnRH-Agonisten oder GnRH-Antagonisten."
+    "correct": 1,
+    "tip": "Prüfen Sie bei jeder Substanz Einzeldosis, Einnahmefrequenz und Begleitmedikation.",
+    "explanation": "Empfehlung 7.31: Apalutamid 240 mg/Tag (a), Enzalutamid 160 mg/Tag (b), Darolutamid 600 mg zweimal täglich (c, e) sowie Abirateron 1000 mg/Tag mit Prednison oder Prednisolon 5 mg/Tag (d); Beginn jeweils innerhalb von 3 Monaten nach ADT-Start."
   },
   {
-    "question": "Was fordert Empfehlung 7.27 bezüglich einer Monotherapie mit einem nicht-steroidalen Androgenrezeptor-Antagonisten der ersten Generation (z. B. Bicalutamid, Flutamid) beim mHSPC?",
+    "question": "Innerhalb welches Zeitraums nach Beginn der Androgendeprivation soll laut Empfehlung 7.31 die Gabe von Apalutamid, Enzalutamid oder Darolutamid (ohne Docetaxel) beginnen?",
     "options": [
-      "Sie soll bei Patienten mit metastasiertem, hormonsensitivem Prostatakarzinom nicht durchgeführt werden.",
-      "Sie soll als bevorzugte Erstlinientherapie eingesetzt werden.",
-      "Sie ist gleichwertig zur Kombinationstherapie mit ARPI.",
-      "Sie wird in der Leitlinie nicht thematisiert."
+      "innerhalb von 2 Wochen",
+      "innerhalb von 4 Wochen",
+      "innerhalb von 6 Wochen",
+      "innerhalb von 3 Monaten"
     ],
-    "correct": 0,
-    "tip": "Diese Substanzen der ersten Generation gelten als unzureichend wirksam im Vergleich zu modernen Kombinationstherapien.",
-    "explanation": "Empfehlung 7.27 legt fest, dass eine Monotherapie mit einem nicht-steroidalen Androgenrezeptor-Antagonisten der ersten Generation bei Patienten mit mHSPC nicht durchgeführt werden soll."
+    "correct": 3,
+    "tip": "Die Frist orientiert sich an der ADT-Vorbehandlung, die in den Zulassungsstudien vor Randomisierung erlaubt war.",
+    "explanation": "Empfehlung 7.31 a–d: Der Kombinationspartner soll innerhalb von 3 Monaten nach Beginn der ADT starten, entsprechend den Einschlusskriterien von TITAN und ARCHES; auch die Aufklärung über die Kombinationstherapie soll spätestens innerhalb von 3 Monaten erfolgen (Empfehlung 7.29). Die 6-Wochen-Frist gilt für Abirateron bei der Triplette mit Docetaxel (7.31 f)."
   },
   {
-    "question": "Nach welchen Kriterien soll laut Empfehlung 7.28 (Empfehlungsgrad A) eine Einteilung von Patienten mit mHSPC erfolgen?",
+    "question": "Welchen Empfehlungsgrad hat die Kombination aus ADT und Darolutamid (ohne Docetaxel) beim mHSPC in gutem Allgemeinzustand (ECOG 0–1)?",
     "options": [
-      "High- und low-volume, high- und low-risk, sowie de novo und metachron metastasiert.",
-      "Ausschließlich nach dem Körpergewicht des Patienten.",
-      "Ausschließlich nach dem Geburtsjahr des Patienten.",
-      "Eine Einteilung ist laut Leitlinie nicht erforderlich."
+      "Soll-Empfehlung (Empfehlungsgrad A)",
+      "Kann-Empfehlung (Empfehlungsgrad 0)",
+      "Sollte-Empfehlung (Empfehlungsgrad B)",
+      "Keine Empfehlung mangels EU-Zulassung"
     ],
-    "correct": 0,
-    "tip": "Diese Einteilung beeinflusst maßgeblich, welche Kombinationstherapie gemäß Empfehlung 7.30 angeboten werden soll.",
-    "explanation": "Empfehlung 7.28 fordert, dass bei Patienten mit mHSPC eine Einteilung nach high- und low-volume, high- und low-risk, sowie de novo und metachron metastasiert erfolgen soll."
+    "correct": 2,
+    "tip": "Die Zulassungsstudie ARANOTE zeigte einen rPFS-Vorteil, im ausgewerteten Datenschnitt aber noch keinen signifikanten OS-Vorteil.",
+    "explanation": "Empfehlung 7.30 b (Empfehlungsgrad B, LoE 1-): ADT plus Darolutamid sollte angeboten werden. Apalutamid oder Enzalutamid (7.30 a), Abirateron beim de-novo-high-risk-mHSPC (7.30 c) und die Triplette mit Darolutamid und Docetaxel (7.30 d) haben Grad A, die Triplette mit Abirateron und Docetaxel Grad 0 (7.30 e)."
   },
   {
-    "question": "Welche Hormontherapie soll laut Empfehlung 7.30a (Empfehlungsgrad A) Patienten in gutem Allgemeinzustand (ECOG 0-1) mit mHSPC zusätzlich zur Androgendeprivation angeboten werden?",
+    "question": "Wie ist „high volume“ beim mHSPC nach den CHAARTED-Kriterien definiert, die die Leitlinie zur Einteilung heranzieht?",
     "options": [
-      "Apalutamid oder Enzalutamid.",
-      "Ausschließlich Bicalutamid als Monotherapie.",
-      "Ausschließlich eine Chemotherapie ohne jede Hormontherapie.",
-      "Ausschließlich Flutamid."
+      "≥ 3 Knochenmetastasen, unabhängig von der Lage, und/oder viszerale Metastasen",
+      "≥ 4 Knochenmetastasen, alle im Achsenskelett, und/oder Lymphknotenmetastasen",
+      "≥ 3 Knochenmetastasen plus Gleason-Score 8–10 oder viszerale Metastasen",
+      "≥ 4 Knochenmetastasen (≥ 1 außerhalb Achsenskelett/Becken) und/oder viszeral"
     ],
-    "correct": 0,
-    "tip": "Für Darolutamid gilt laut Empfehlung 7.30b dagegen der niedrigere Empfehlungsgrad B.",
-    "explanation": "Empfehlung 7.30a fordert, dass Patienten in gutem Allgemeinzustand mit mHSPC zusätzlich zur Androgendeprivation eine Hormontherapie mit Apalutamid oder Enzalutamid angeboten werden soll."
+    "correct": 3,
+    "tip": "Nicht verwechseln: Die LATITUDE-Hochrisikokriterien kombinieren Knochenläsionen mit Histologie und Viszeralbefall.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.28 umfasst high volume nach CHAARTED mindestens vier Knochenmetastasen, davon mindestens eine außerhalb von Achsenskelett bzw. Becken, und/oder viszerale Metastasen. Die Kombination aus drei Knochenläsionen, Gleason 8–10 und viszeralen Metastasen gehört zur LATITUDE-Definition von high risk (mindestens 2 von 3)."
   },
   {
-    "question": "Welche spezielle Kombinationstherapie soll laut Empfehlung 7.30c Patienten mit neu diagnostiziertem (de novo), high-risk mHSPC angeboten werden?",
+    "question": "Welcher Patient (ECOG 0–1) erfüllt die Voraussetzungen von Empfehlung 7.30 c für die Kombination aus ADT und Abirateron plus Prednison/Prednisolon?",
     "options": [
-      "Eine Hormontherapie mit Abirateron plus Prednison/Prednisolon zusätzlich zur Androgendeprivation.",
-      "Ausschließlich eine alleinige Androgendeprivation ohne weitere Substanz.",
-      "Ausschließlich eine Strahlentherapie des gesamten Skeletts.",
-      "Ausschließlich Cabazitaxel als Monotherapie."
+      "Metachron metastasiert 4 Jahre nach RPE, Gleason 9, 5 Knochenmetastasen",
+      "De novo metastasiert, Gleason 8, 3 Knochenmetastasen, keine viszeralen",
+      "De novo metastasiert, Gleason 7, 2 Knochenmetastasen, messbare Lebermetastase",
+      "De novo metastasiert, Gleason 7, 6 Knochenmetastasen, keine viszeralen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt speziell für die de-novo-metastasierte, high-risk-Situation und hat Empfehlungsgrad A.",
-    "explanation": "Empfehlung 7.30c fordert, dass Patienten mit neu diagnostiziertem, metastasiertem, high-risk mHSPC zusätzlich zur Androgendeprivation eine Hormontherapie mit Abirateron (plus Prednison/Prednisolon) angeboten werden soll."
+    "correct": 1,
+    "tip": "Die Empfehlung folgt den Einschlusskriterien von LATITUDE – sowohl zum Zeitpunkt der Metastasierung als auch zur Zahl der Risikofaktoren.",
+    "explanation": "Empfehlung 7.30 c (Empfehlungsgrad A) gilt für das neu diagnostizierte (de novo) high-risk-mHSPC; high risk nach LATITUDE heißt mindestens 2 von 3 Kriterien: Gleason 8–10, mindestens drei Knochenmetastasen, messbare viszerale Metastasen. Der metachron metastasierte Patient fällt trotz ungünstiger Kriterien nicht darunter, die beiden Gleason-7-Patienten erfüllen nur ein Kriterium."
   },
   {
-    "question": "Welche Kombination soll laut Empfehlung 7.30d Patienten angeboten werden, die für eine Docetaxel-Chemotherapie geeignet sind?",
+    "question": "Patient mit neu diagnostiziertem mHSPC und drohender Rückenmarkskompression durch Wirbelkörpermetastasen. Womit sollte die Androgendeprivation laut Leitlinie eingeleitet werden?",
     "options": [
-      "Darolutamid in Kombination mit 6 Zyklen Docetaxel, zusätzlich zur Androgendeprivation.",
-      "Ausschließlich 12 Zyklen Docetaxel ohne weitere Hormontherapie.",
-      "Ausschließlich Bicalutamid als Monotherapie.",
-      "Eine alleinige Watchful-Waiting-Strategie."
+      "GnRH-Agonist als Monotherapie, da er den Testosteronspiegel sofort senkt",
+      "GnRH-Antagonist und/oder ARPI (Apalutamid, Enzalutamid, Darolutamid)",
+      "Bicalutamid-Monotherapie bis zur Stabilisierung des neurologischen Befunds",
+      "Docetaxel vor Beginn der ADT, um rasch eine Tumorremission zu erreichen"
     ],
-    "correct": 0,
-    "tip": "Diese Kombination hat Empfehlungsgrad A und basiert auf hoher Evidenz (1+).",
-    "explanation": "Empfehlung 7.30d fordert, dass Patienten, die für eine Docetaxel-Chemotherapie geeignet sind, zusätzlich zur Androgendeprivation eine Hormontherapie mit Darolutamid in Kombination mit 6 Zyklen Docetaxel angeboten werden soll."
+    "correct": 1,
+    "tip": "Denken Sie an den initialen Testosteronanstieg und daran, welche Substanzklassen ihn vermeiden oder seine Wirkung blockieren.",
+    "explanation": "Empfehlung 7.26 (EK): Bei ausgeprägten Schmerzen oder drohenden Komplikationen wie Rückenmarkskompression sollte die ADT mit einem GnRH-Antagonisten und/oder einem ARPI eingeleitet werden, weil GnRH-Agonisten zunächst einen Testosteronanstieg (Flare) verursachen. Eine Monotherapie mit Bicalutamid oder Flutamid soll beim mHSPC nicht erfolgen (Empfehlung 7.27)."
   },
   {
-    "question": "Innerhalb welcher Frist soll laut Empfehlung 7.31a die Apalutamid-Gabe nach Beginn der Androgendeprivation starten, und in welcher Dosierung?",
+    "question": "Ein Patient unter Darolutamid, Docetaxel und ADT entwickelt nach dem dritten Zyklus eine intolerable, docetaxelbedingte Polyneuropathie. Wie ist laut Empfehlung 7.32 vorzugehen?",
     "options": [
-      "Innerhalb von 3 Monaten, in einer Dosierung von 240 mg/Tag.",
-      "Innerhalb von 3 Jahren, in einer Dosierung von 10 mg/Tag.",
-      "Erst nach vollständigem Abschluss der Androgendeprivation.",
-      "Eine zeitliche Vorgabe existiert nicht."
+      "Docetaxel beenden, Darolutamid und ADT wie vorgesehen fortführen",
+      "Gesamte Kombination beenden und auf eine ADT-Monotherapie deeskalieren",
+      "Docetaxel beenden und Darolutamid durch Abirateron/Prednison ersetzen",
+      "Kombination pausieren, bis sich die Neuropathie vollständig zurückbildet"
     ],
     "correct": 0,
-    "tip": "Für Enzalutamid gilt laut Empfehlung 7.31b eine Dosierung von 160 mg/Tag, ebenfalls innerhalb von 3 Monaten nach ADT-Beginn.",
-    "explanation": "Empfehlung 7.31a fordert, dass die Apalutamid-Gabe innerhalb von 3 Monaten nach Beginn der Androgendeprivation starten soll, in einer Dosierung von 240 mg/Tag."
+    "tip": "Die Nebenwirkung lässt sich eindeutig einem Kombinationspartner zuordnen.",
+    "explanation": "Empfehlung 7.32 (EK): Abbruchgründe sind Patientenwunsch, Progress oder intolerable Nebenwirkungen; wird ein Medikament der Kombination wegen Toxizität abgesetzt, soll die übrige Therapie wie vorgesehen weiterlaufen. Ein Wechsel auf einen anderen ARPI ist laut Hintergrund nur bei typischen Nebenwirkungen eines bestimmten ARPI sinnvoll, nicht bei Docetaxel-Toxizität."
   },
   {
-    "question": "Worüber sollen Patienten laut Empfehlung 7.29 spätestens innerhalb von 3 Monaten nach Einleitung der Androgendeprivation aufgeklärt werden?",
+    "question": "Welche Aussage zur Dreifachkombination aus ADT, Abirateron (plus Prednison/Prednisolon) und Docetaxel (PEACE-1) entspricht der Leitlinie?",
     "options": [
-      "Über eine Kombinationstherapie sowie über die zu erwartende Überlebenszeit, unerwünschte Wirkungen und den Einfluss auf die Lebensqualität.",
-      "Ausschließlich über die Kosten der Behandlung.",
-      "Ausschließlich über alternative pflanzliche Heilmethoden.",
-      "Eine Aufklärung ist bei mHSPC-Patienten nicht vorgesehen."
+      "Soll-Empfehlung für alle mHSPC-Patienten, die für Docetaxel geeignet sind",
+      "Sollte-Empfehlung beim metachron metastasierten low-volume-mHSPC",
+      "Kann-Empfehlung bei de novo high volume, in Europa nicht zugelassen",
+      "Soll-Empfehlung bei de novo high risk, EMA-Zulassung seit PEACE-1"
     ],
-    "correct": 0,
-    "tip": "Dabei soll explizit auch der nicht-kurative Charakter der Therapie thematisiert werden.",
-    "explanation": "Empfehlung 7.29 fordert, dass Patienten über eine Kombinationstherapie sowie über die zu erwartende Überlebenszeit trotz des nicht-kurativen Charakters, die unerwünschten Wirkungen und den Einfluss auf die Lebensqualität aufgeklärt werden sollen."
+    "correct": 2,
+    "tip": "Bedenken Sie Zulassungsstatus, den im Studienverlauf wechselnden Standardarm und die Subgruppe mit OS-Vorteil.",
+    "explanation": "Empfehlung 7.30 e (Empfehlungsgrad 0, LoE 2+): Bei de novo metastasiertem high-volume-mHSPC und Docetaxel-Eignung kann die Triplette mit Abirateron angeboten werden; sie ist nur in den USA, nicht in Europa zugelassen. Die Soll-Empfehlung für Docetaxel-geeignete Patienten betrifft die Triplette mit Darolutamid (7.30 d, ARASENS), dem einzigen EMA-zugelassenen Partner."
   },
   {
-    "question": "Bei welcher Konstellation sollte laut Empfehlung 7.26 die Androgendeprivation mit einem GnRH-Antagonisten und/oder einem Androgenrezeptor-Signalweg-Inhibitor (ARPI) eingeleitet werden?",
+    "question": "Nach welchen Kriterien soll das metastasierte, hormonsensitive Prostatakarzinom laut Empfehlung 7.28 eingeteilt werden?",
     "options": [
-      "Bei ausgeprägten tumor- bzw. metastasenbedingten Schmerzen oder drohenden Komplikationen wie einer Rückenmarkskompression.",
-      "Bei allen Patienten unabhängig vom Beschwerdebild.",
-      "Ausschließlich bei asymptomatischen Patienten ohne jede Beschwerde.",
-      "Nur bei Patienten unter 40 Jahren."
+      "Nach PSA-Höhe, ISUP-Grad und ECOG-Status bei Diagnose",
+      "Nach M1a, M1b und M1c gemäß der TNM-Klassifikation",
+      "High/low volume, high/low risk sowie de novo vs. metachron",
+      "Oligometastatisch vs. polymetastatisch im PSMA-PET"
     ],
-    "correct": 0,
-    "tip": "GnRH-Antagonisten vermeiden im Gegensatz zu Agonisten den initialen Testosteron-Anstieg (Flare-up), was in dieser Akutsituation von Vorteil ist.",
-    "explanation": "Empfehlung 7.26 fordert, dass bei ausgeprägten tumor- oder metastasenbedingten Schmerzen oder drohenden Komplikationen die Androgendeprivation mit einem GnRH-Antagonisten und/oder einem ARPI eingeleitet werden sollte."
+    "correct": 2,
+    "tip": "Die Einteilung folgt den Subgruppen, nach denen die großen Phase-III-Studien zum mHSPC stratifiziert und ausgewertet wurden.",
+    "explanation": "Empfehlung 7.28 (Empfehlungsgrad A, starker Konsens): Das mHSPC soll nach high- und low-volume (CHAARTED), high- und low-risk (LATITUDE) sowie de novo vs. metachron metastasiert eingeteilt werden. Davon hängen u. a. die Optionen Abirateron (de novo high risk) und Abirateron-Triplette (de novo high volume) ab."
   }
 ]

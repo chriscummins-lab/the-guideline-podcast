@@ -1,122 +1,122 @@
 [
   {
-    "question": "Besteht laut Statement 3 im Säuglingsalter aus medizinischen Gründen eine Indikation zur Beschneidung?",
+    "question": "Die Eltern eines 4 Monate alten Säuglings wünschen eine Zirkumzision, weil die Vorhaut nicht zurückstreifbar ist. Wann besteht laut Leitlinie im Säuglingsalter eine medizinische Indikation zur Beschneidung?",
     "options": [
-      "Ja, grundsätzlich bei jedem Säugling.",
-      "Nein, außer bei hochgradiger assoziierter Uropathologie.",
-      "Nur bei Jungen unter 3 Monaten.",
-      "Ja, immer innerhalb der ersten Lebenswoche."
+      "Bei fehlender Retrahierbarkeit mit zusätzlicher Ballonierung",
+      "Bei einer ersten fieberhaften Harnwegsinfektion im Säuglingsalter",
+      "Bei hochgradiger assoziierter Anomalie des harnableitenden Systems",
+      "Bei familiärer Disposition für einen Lichen sclerosus der Vorhaut"
     ],
-    "correct": 1,
-    "tip": "Die meisten im Säuglingsalter durchgeführten Beschneidungen sind daher nicht medizinisch, sondern soziokulturell/religiös motiviert.",
-    "explanation": "Im Säuglingsalter besteht aus medizinischen Gründen keine Indikation zur Beschneidung, mit Ausnahme einer hochgradig assoziierten Uropathologie (Statement 3)."
+    "correct": 2,
+    "tip": "Im Säuglingsalter ist eine enge, nicht retrahierbare Vorhaut zunächst der Normalbefund.",
+    "explanation": "Statement 3 (11/11): Im Säuglingsalter besteht aus medizinischen Gründen keine Indikation zur Beschneidung, ausgenommen bei hochgradiger assoziierter Uropathologie. Bei hinteren Harnröhrenklappen verhindern laut Kapitel 7.1 statistisch bereits zwei Zirkumzisionen eine Harnwegsinfektion, während eine einzelne HWI beim sonst gesunden Jungen keine Indikation begründet."
   },
   {
-    "question": "Welche Komplikationsmöglichkeiten soll die Aufklärung vor einer Zirkumzision laut Empfehlung 13 mindestens umfassen?",
+    "question": "Welche Komplikationsmöglichkeit zählt laut Empfehlung 13 NICHT zu den Mindestinhalten der präoperativen Aufklärung vor einer Zirkumzision?",
     "options": [
-      "Nur das Risiko einer Narbenbildung.",
-      "Nachblutung, Infektion, Sensibilitätseinschränkung, Narbenbildung, Verletzungen von Harnröhre/Schwellkörper, Meatusstenose, Rezidiv sowie spätere funktionelle/ästhetische/psychosexuelle Beeinträchtigungen.",
-      "Ausschließlich das allgemeine Narkoserisiko.",
-      "Keine spezifischen Risiken, da der Eingriff als risikofrei gilt."
-    ],
-    "correct": 1,
-    "tip": "Diese Aufklärung soll z.B. auf einem Standardaufklärungsbogen dokumentiert werden.",
-    "explanation": "Die Aufklärung soll mindestens über Nachblutung, Infektion, Sensibilitätseinschränkung, Narbenbildung, Verletzungen von Harnröhre/Schwellkörpern, Meatusstenose, Rezidiv sowie spätere funktionelle, ästhetische und psychosexuelle Beeinträchtigungen informieren (Empfehlung 13)."
-  },
-  {
-    "question": "Welches Analgesieverfahren gilt laut Empfehlung 15 bei der Zirkumzision als Mittel der ersten Wahl?",
-    "options": [
-      "Eine alleinige topische Anästhesie.",
-      "Der distale Penisnervenblock (DPNB/Peniswurzelblock) in Kombination mit einer Allgemeinanästhesie.",
-      "Eine orale Glukosegabe als einzige Maßnahme.",
-      "Es ist generell keine Schmerztherapie notwendig."
-    ],
-    "correct": 1,
-    "tip": "Der Kaudalblock gilt als mögliche Alternative mit kürzerer Wirkdauer.",
-    "explanation": "Bei der Zirkumzision soll die Allgemeinanästhesie mit einer Regionalanästhesie kombiniert werden, wobei der distale Penisnervenblock bevorzugt eingesetzt werden soll (Empfehlung 15)."
-  },
-  {
-    "question": "Welche Operationstechnik ist vorhauterhaltend und für welches Risiko bekannt?",
-    "options": [
-      "Die Guillotine-Technik, mit einem Rezidivrisiko von 50%.",
-      "Die \"Triple Incision\" (Welsch-Plastik), mit einem Phimosen-Rezidivrisiko von 11-20%.",
-      "Die Plastibell-Technik, die grundsätzlich vorhauterhaltend ist.",
-      "Es gibt laut Leitlinie keine vorhauterhaltenden Techniken."
-    ],
-    "correct": 1,
-    "tip": "Zudem sind nur etwa 80% der Patienten mit dem ästhetischen Ergebnis dieser Technik zufrieden.",
-    "explanation": "Die \"Triple Incision\" (Welsch-Plastik) ist eine vorhauterhaltende Technik mit einem Phimosen-Rezidivrisiko von 11-20%."
-  },
-  {
-    "question": "Welche Operationskontraindikation besteht laut Empfehlung 16 bei angeborenen Penisfehlbildungen wie Hypospadie oder Epispadie?",
-    "options": [
-      "Keine – eine Zirkumzision kann immer sofort erfolgen.",
-      "Vor definitiver Versorgung der zu korrigierenden Fehlbildung soll keine Zirkumzision durchgeführt werden, da das Präputialgewebe für die spätere Korrektur benötigt wird.",
-      "Diese Frage ist nur bei Mädchen relevant.",
-      "Die Zirkumzision ist die einzige Therapieoption bei Hypospadie."
-    ],
-    "correct": 1,
-    "tip": "Beim buried Penis droht bei klassischer Zirkumzision zudem der vollständige Verlust der ohnehin kurzen Penisschafthaut.",
-    "explanation": "Vor definitiver Versorgung einer zu korrigierenden Penisfehlbildung soll keine Zirkumzision durchgeführt werden, da das Präputialgewebe häufig für die operative Korrektur benötigt wird (Empfehlung 16)."
-  },
-  {
-    "question": "Welche Rate an postoperativen Komplikationen nach Zirkumzision wird selbst in erfahrener Hand beschrieben?",
-    "options": [
-      "Bis zu 5%.",
-      "0% – Zirkumzision gilt als komplikationsfrei.",
-      "Über 80%.",
-      "Genau 50%, unabhängig von der Erfahrung des Operateurs."
+      "Akuter postoperativer Harnverhalt",
+      "Verletzung von Harnröhre und Schwellkörpern",
+      "Spätere psychosexuelle Beeinträchtigungen",
+      "Einschränkung der Sensibilität"
     ],
     "correct": 0,
-    "tip": "Meist handelt es sich dabei um geringere Nachblutungen, Ödeme, postoperative Sekretion oder Wundinfektionen.",
-    "explanation": "Zirkumzisionen sind auch in erfahrener Hand postoperativ mit Komplikationen bis zu 5% behaftet."
+    "tip": "Empfehlung 13 listet Mindestinhalte auf, die etwa auf einem Standardaufklärungsbogen dokumentiert werden können.",
+    "explanation": "Empfehlung 13 (10/10) nennt als Mindestinhalte Nachblutung, Infektion, Sensibilitätseinschränkung, Narbenbildung, Verletzungen der Harnröhre und Schwellkörper, Meatusstenose, Rezidiv sowie spätere funktionelle, ästhetische und psychosexuelle Beeinträchtigungen. Ein Harnverhalt wird in Kapitel 6.4.2 nur als Folge falscher Handhabung der Plastibell-Methode erwähnt."
   },
   {
-    "question": "Warum sollte auf eine ausgedehnte Elektrokoagulation bei der Zirkumzision verzichtet werden?",
+    "question": "Welches Anästhesiekonzept empfiehlt die Leitlinie für die Zirkumzision im Kindesalter?",
     "options": [
-      "Weil sie zu teuer ist.",
-      "Wegen der Gefahr eines tiefergehenden thermischen Gewebeschadens mit konsekutiver Fistelbildung (z.B. urethrokutane Fisteln).",
-      "Weil sie die Operationszeit unnötig verlängert.",
-      "Es gibt dafür keinen medizinischen Grund."
-    ],
-    "correct": 1,
-    "tip": "Urethrokutane Fisteln entstehen dabei meist in Höhe des Sulcus coronarius.",
-    "explanation": "Auf eine ausgedehnte Elektrokoagulation sollte wegen der Gefahr eines tiefergehenden thermischen Gewebeschadens mit konsekutiver Fistelbildung verzichtet werden."
-  },
-  {
-    "question": "Welche häufigste Spätkomplikation wird nach einer im Neugeborenenalter durchgeführten Zirkumzision beschrieben, und wie häufig tritt sie auf?",
-    "options": [
-      "Glansnekrose in 50% der Fälle.",
-      "Meatusstenose, die in bis zu 20% der Fälle auftreten kann.",
-      "Eine lebenslange Impotenz in 90% der Fälle.",
-      "Es sind keine relevanten Spätkomplikationen bekannt."
-    ],
-    "correct": 1,
-    "tip": "Als Ursache werden eine Hyperkeratinisierung des ungeschützten Glansepithels sowie lokale Minderperfusion diskutiert.",
-    "explanation": "Bei einer im Neugeborenenalter durchgeführten Zirkumzision wird die spätere Ausbildung einer Meatusstenose als häufigste Komplikation angesehen, die in bis zu 20% auftreten kann."
-  },
-  {
-    "question": "Welches Risiko besteht bei einer unsachgemäß durchgeführten Klemmenresektion (z.B. Mogen-Klemme) im Neugeborenenalter?",
-    "options": [
-      "Praktisch keinerlei Risiko.",
-      "Eine zu ausgiebige Entfernung der Penisschafthaut bis hin zur Glans(teil)amputation.",
-      "Nur ein geringfügig verlängerter Krankenhausaufenthalt.",
-      "Eine erhöhte Fruchtbarkeit im Erwachsenenalter."
-    ],
-    "correct": 1,
-    "tip": "Dies unterstreicht, warum spezielle Hilfsmittel wie die Mogen-Klemme fachgerecht angewendet werden müssen.",
-    "explanation": "Unsachgemäß durchgeführte Klemmenresektionen können zu schweren Komplikationen wie einer zu ausgiebigen Entfernung der Penisschafthaut bis hin zur Glans(teil)amputation führen."
-  },
-  {
-    "question": "Wie hoch wird die Mortalität nach Zirkumzision in einer Studie angegeben, und woher stammen Berichte über Todesfälle?",
-    "options": [
-      "Die Mortalität liegt bei etwa 0,013%; Berichte stammen sowohl aus Ländern mit mangelhafter medizinischer Versorgung als auch aus Ländern mit höchstem medizinischem Standard.",
-      "Die Mortalität liegt bei 10%, ausschließlich in Entwicklungsländern.",
-      "Es gibt keinerlei dokumentierte Todesfälle nach Zirkumzision.",
-      "Die Mortalität betrifft laut Leitlinie ausschließlich Mädchen."
+      "Allgemeinanästhesie mit Peniswurzelblock, ergänzend Nicht-Opioid-Analgetika",
+      "Allgemeinanästhesie mit subkutanem Ringblock, ergänzend Opioid-Analgetika",
+      "Analgosedierung mit topischem Lidocain-Gel, ergänzend Paracetamol für 5 Tage",
+      "Allgemeinanästhesie ohne Regionalverfahren, ergänzend Opioid-Analgetika"
     ],
     "correct": 0,
-    "tip": "Verlässliche Gesamtdaten zur Mortalität existieren allerdings nicht.",
-    "explanation": "Die Mortalität nach Zirkumzision wird in einer Studie mit etwa 0,013% angegeben; Berichte über Todesfälle finden sich sowohl aus Ländern mit mangelhafter als auch mit höchstem medizinischem Standard."
+    "tip": "Keine einzelne Maßnahme eliminiert den Beschneidungsschmerz vollständig – gefragt ist ein multimodales Konzept.",
+    "explanation": "Empfehlung 15 (11/11): Die Allgemeinanästhesie soll mit einer Regionalanästhesie kombiniert werden, bevorzugt mit dem distalen Penisnervenblock (syn. Peniswurzelblock; Alternative: Kaudalblock), ergänzt durch Nicht-Opioid-Analgetika und bei Säuglingen durch nicht-pharmakologische Maßnahmen. Ringblock und topische Anästhesie sind laut Tabelle allein unzureichend, Paracetamol ist weniger effektiv und über 3 Tage hinaus potenziell hepatotoxisch."
+  },
+  {
+    "question": "Welche Aussage zum Vergleich von distalem Penisnervenblock (DPNB) und Kaudalblock trifft laut Leitlinie zu?",
+    "options": [
+      "Der Kaudalblock ist analgetisch potenter, hat aber ein ungünstigeres Sicherheitsprofil",
+      "Der DPNB wirkt etwa vier bis sechs Stunden und erfordert daher frühzeitig Opioide",
+      "Der DPNB ist als Einzelverfahren einer topischen Anästhesie nicht überlegen",
+      "Der Kaudalblock wirkt kürzer und kann eine passagere Beinschwäche verursachen"
+    ],
+    "correct": 3,
+    "tip": "Beide Blockaden werden in Empfehlung 15 genannt – überlegen Sie, warum eine davon bevorzugt eingesetzt wird.",
+    "explanation": "Laut Tabelle in Kapitel 6.3.2.3 entsprechen analgetische Potenz und Sicherheitsprofil des Kaudalblocks denen des DPNB, seine Wirkdauer ist jedoch kürzer, und eine mögliche vorübergehende Beinschwäche ist besonders bei Klein-/Schulkindern und ambulant nachteilig. Der DPNB wirkt 12–24 Stunden, ist bei Beschneidungsschmerzen am effektivsten und gilt als Verfahren der ersten Wahl."
+  },
+  {
+    "question": "Bei einem 9-jährigen Jungen mit operationsbedürftiger Phimose besteht hochgradiger Verdacht auf einen Lichen sclerosus; die Eltern wünschen ausdrücklich, dass die Vorhaut erhalten bleibt. Was gilt laut Leitlinie?",
+    "options": [
+      "Vorhauterhaltende Verfahren scheiden wegen des erheblichen Rückfallrisikos aus",
+      "Eine Triple Incision ist vertretbar, wenn eine Steroid-Nachbehandlung erfolgt",
+      "Eine sparsame Resektion ist vertretbar, wenn das innere Blatt erhalten bleibt",
+      "Eine Welsch-Plastik ist vertretbar, wenn die Eltern dies ausdrücklich wünschen"
+    ],
+    "correct": 0,
+    "tip": "Der Lichen sclerosus ist eine fortschreitende Erkrankung, die in verbliebenem Gewebe weiterlaufen kann.",
+    "explanation": "Laut Kapitel 6.3.2.4 schließt ein Lichen sclerosus bzw. der hochgradige Verdacht darauf vorhauterhaltende Verfahren wegen des erheblichen Rückfallrisikos aus, obwohl solche Techniken sonst angeboten und auf Wunsch durchgeführt werden sollten. Das Resektat soll histologisch untersucht werden (Empfehlung 14)."
+  },
+  {
+    "question": "Mit welcher Rezidivrate einer Phimose ist nach vorhauterhaltender Operation (z. B. Triple Incision) laut Leitlinie zu rechnen?",
+    "options": [
+      "0–2,4 %",
+      "3–5 %",
+      "6–10 %",
+      "11–20 %"
+    ],
+    "correct": 3,
+    "tip": "Wägen Sie den Funktionserhalt gegen das Risiko ab, das die Leitlinie als Hauptnachteil dieser Techniken nennt.",
+    "explanation": "Laut Kapitel 6.3.2.4 liegt das Hauptrisiko vorhauterhaltender Techniken im Phimosen-Rezidiv, dessen Häufigkeit mit 11–20 % angegeben wird; zudem sind nur etwa 80 % mit dem ästhetischen Ergebnis zufrieden. Die 0–2,4 % beziehen sich dagegen auf Rezidive nach topischer Steroidbehandlung."
+  },
+  {
+    "question": "Welche Komplikation gilt laut Leitlinie nach einer Zirkumzision im Neugeborenenalter als häufigste – und in welcher Häufigkeit tritt sie auf?",
+    "options": [
+      "Nachblutung, in bis zu 5 %",
+      "Urethrokutane Fistel, in bis zu 2 %",
+      "Meatusstenose, in bis zu 20 %",
+      "Wundinfektion, in bis zu 10 %"
+    ],
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen frühen Wundkomplikationen und Folgen, die sich erst später manifestieren.",
+    "explanation": "Laut Kapitel 6.4.2 gilt nach Neugeborenenzirkumzision die spätere Meatusstenose als häufigste Komplikation (bis zu 20 %), erklärt durch Hyperkeratinisierung des ungeschützten Glansepithels und Minderperfusion nach Durchtrennung der Frenulumarterie. Die bis zu 5 % beschreiben dagegen die Gesamtrate meist geringer Komplikationen wie Nachblutung, Ödem oder Wundinfektion."
+  },
+  {
+    "question": "Welche Zuordnung von Technik bzw. Maßnahme und typischem Risiko entspricht der Leitlinie?",
+    "options": [
+      "Plastibell-Methode beim älteren Kind – Glansteilamputation",
+      "Ausgedehnte Elektrokoagulation – urethrokutane Fistelbildung",
+      "Mogen-Klemme beim Neugeborenen – Harnverhalt und Sepsis",
+      "Triple Incision beim Schulkind – Verlust der Penisschafthaut"
+    ],
+    "correct": 1,
+    "tip": "Achten Sie darauf, für welche Altersgruppe und unter welchen Umständen die Leitlinie das jeweilige Risiko beschreibt.",
+    "explanation": "Laut Kapitel 6.4.2 sollte auf ausgedehnte Elektrokoagulation wegen tiefer thermischer Gewebeschäden mit konsekutiver urethrokutaner Fistelbildung (meist in Sulkushöhe) verzichtet werden. Unsachgemäße Klemmenresektionen (z. B. Mogen-Klemme beim Neugeborenen) können bis zur Glans(teil)amputation führen, während die Plastibell-Methode bei älteren Kindern wegen Heilungsverzögerungen nicht sinnvoll ist und bei falscher Handhabung Harnverhalt oder Sepsis verursachen kann."
+  },
+  {
+    "question": "Bei welchem Befund soll laut Leitlinie zunächst keine Zirkumzision durchgeführt werden?",
+    "options": [
+      "Lichen sclerosus mit beginnender Meatusbeteiligung",
+      "Distale Hypospadie vor der geplanten Korrekturoperation",
+      "Sekundäre Phimose nach rezidivierender Balanoposthitis",
+      "Hintere Harnröhrenklappe mit rezidivierenden Infekten"
+    ],
+    "correct": 1,
+    "tip": "Denken Sie daran, welches Gewebe bei rekonstruktiven Eingriffen am Penis häufig benötigt wird.",
+    "explanation": "Laut Kapitel 6.3.2.6 stellen angeborene Fehlbildungen des Penis (alle Formen der Hypospadie und Epispadie, kongenitale Penisdeviation, buried Penis) zunächst eine Kontraindikation dar, da das Präputium häufig für die Korrektur benötigt wird; nach Empfehlung 16 (10/10) soll vor definitiver Versorgung keine Zirkumzision erfolgen. Beim buried Penis droht zudem der vollständige Verlust der Penisschafthaut."
+  },
+  {
+    "question": "Welche Aussage zu Nebenwirkungen der topischen Steroidbehandlung einer Phimose trifft laut Leitlinie zu?",
+    "options": [
+      "Eine relevante Suppression der Nebennierenrindenachse ist häufig",
+      "Brennen oder Hyperämie treten in weniger als einem Prozent der Fälle auf",
+      "Opportunistische Infektionen, insbesondere mit Pilzen, sind möglich",
+      "Paraphimosen treten unter Salbentherapie in etwa jedem zehnten Fall auf"
+    ],
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen systemischen und lokalen Effekten einer topischen Steroidtherapie.",
+    "explanation": "Laut Kapitel 6.4.1 wurden schwerwiegende Nebenwirkungen nicht berichtet, insbesondere kein Hinweis auf eine Beeinträchtigung der Hypothalamus-Hypophysen-Nebennierenrinden-Achse; Brennen oder Hyperämie treten in bis zu einem Drittel auf, und opportunistische Infektionen v. a. mit Pilzen sind möglich. Paraphimosen unter konservativer Therapie sind äußerst selten – deshalb sollen Patient bzw. Sorgeberechtigte die Vorhaut nach Retraktion wieder vollständig reponieren (Empfehlung 17)."
   }
 ]

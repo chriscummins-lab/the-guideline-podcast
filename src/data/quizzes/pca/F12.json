@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie wird ein oligometastasiertes Prostatakarzinom laut Statement 7.60 (Kapitel 7.5.1) definiert?",
+    "question": "Wie definiert die Leitlinie ein oligometastasiertes Prostatakarzinom?",
     "options": [
-      "Ein Tumor mit maximal 4 in konventioneller Bildgebung nachweisbaren Knochenmetastasen ohne extraossäre viszerale Metastasen.",
-      "Jeder Tumor mit mindestens einer Fernmetastase, unabhängig von deren Anzahl oder Lokalisation.",
-      "Ein Tumor mit mehr als 10 Knochenmetastasen und zusätzlichen Lebermetastasen.",
-      "Ausschließlich ein Tumor mit Lymphknotenmetastasen, aber ohne jede Knochenmetastase."
+      "Bis zu 4 Knochenmetastasen in der PSMA-PET/CT, keine viszeralen Metastasen",
+      "Bis zu 5 Knochen- oder Lymphknotenmetastasen in konventioneller Bildgebung",
+      "Bis zu 3 Knochenmetastasen in konventioneller Bildgebung, keine viszeralen Metastasen",
+      "Bis zu 4 Knochenmetastasen in konventioneller Bildgebung, keine viszeralen Metastasen"
     ],
-    "correct": 0,
-    "tip": "Diese Grenze von bis zu 4 Knochenmetastasen wurde aus pragmatischen Gründen in Anlehnung an die Auswertung von Burdett et al. festgelegt.",
-    "explanation": "Statement 7.60 definiert das oligometastasierte Prostatakarzinom als Tumor mit maximal 4 in konventioneller Bildgebung nachweisbaren Knochenmetastasen ohne extraossäre viszerale Metastasen."
+    "correct": 3,
+    "tip": "Die Grenze wurde pragmatisch in Anlehnung an eine Metaanalyse gezogen und bezieht sich auf die Bildgebung, mit der die Studien durchgeführt wurden.",
+    "explanation": "Statement 7.60 (LoE 1-, Konsens): Oligometastasiert bedeutet maximal 4 in konventioneller Bildgebung (Skelettszintigraphie und CT oder MRT) nachweisbare Knochenmetastasen ohne extraossäre viszerale Metastasen. Bis zu 3 Knochenmetastasen war die Effektivitätsgrenze in CHAARTED und STAMPEDE; PSMA-PET-basierte Klassifikationen sind nicht direkt vergleichbar."
   },
   {
-    "question": "Welche Organe werden im Kontext von Statement 7.60 als 'extraossäre viszerale Metastasen' verstanden?",
+    "question": "Ein 68-jähriger Patient hat ein neu diagnostiziertes mHSPC mit drei Knochenmetastasen (low volume nach CHAARTED, konventionelles Staging); ADT plus ARPI ist geplant. Welche Aussage zur perkutanen Strahlentherapie der Prostata entspricht der Leitlinie?",
     "options": [
-      "Hämatogene Metastasen in Leber, Lunge, Hirn und anderen Organen.",
-      "Ausschließlich lymphogene Fernmetastasen in pelvinen Lymphknoten.",
-      "Ausschließlich Hautmetastasen.",
-      "Ausschließlich Metastasen im Bereich der Prostataloge selbst."
+      "Sie kann zusätzlich zur Systemtherapie angeboten werden",
+      "Sie soll zusätzlich zur Systemtherapie angeboten werden",
+      "Sie kann anstelle des ARPI zusätzlich zur ADT erfolgen",
+      "Sie wird nicht empfohlen, da Daten mit ARPI fehlen"
     ],
     "correct": 0,
-    "tip": "Lymphogene Fernmetastasen zählen explizit nicht dazu, da sie eine bessere Prognose aufweisen.",
-    "explanation": "Im Kontext von Statement 7.60 werden unter extraossären viszeralen Metastasen hämatogene Metastasen in Leber, Lunge, Hirn und anderen Organen verstanden, nicht jedoch lymphogene Fernmetastasen."
+    "tip": "Bedenken Sie, in welcher Ära der Systemtherapie der Überlebensvorteil gezeigt wurde und was das für die Empfehlungsstärke bedeutet.",
+    "explanation": "Empfehlung 7.61 (Empfehlungsgrad 0, LoE 1-): Bei neu diagnostiziertem, oligometastasiertem PCa (low volume nach CHAARTED, konventionelles Staging) kann zusätzlich zur Systemtherapie (ADT/ARPI simultan, Docetaxel sequenziell) eine perkutane RT der Prostata angeboten werden. Der Überlebensvorteil in STAMPEDE wurde ohne ARPI erzielt, PEACE-1 zeigte mit Abirateron einen rPFS-Vorteil – daher eine Kann-Empfehlung, aber kein Ersatz der Systemtherapie."
   },
   {
-    "question": "Was kann laut Empfehlung 7.61 Patienten mit neu diagnostiziertem, oligometastasiertem Prostatakarzinom ('low volume' nach CHAARTED-Kriterien) zusätzlich zur systemischen Therapie angeboten werden?",
+    "question": "Wie sollte die perkutane Strahlentherapie der Prostata beim neu diagnostizierten, metastasierten Prostatakarzinom laut Leitlinie fraktioniert und dosiert werden?",
     "options": [
-      "Eine perkutane Strahlentherapie der Prostata.",
-      "Eine sofortige bilaterale Orchiektomie als alleinige Maßnahme.",
-      "Eine fokale Therapie der Prostata als Ersatz für die systemische Therapie.",
-      "Eine alleinige Watchful-Waiting-Strategie ohne jede weitere Therapie."
+      "Hypofraktioniert; eine Äquivalenzdosis von 74 Gy EQD2 nicht überschreiten",
+      "Normofraktioniert; eine Äquivalenzdosis von 74 Gy EQD2 nicht überschreiten",
+      "Hypofraktioniert; eine Äquivalenzdosis von mindestens 78 Gy EQD2 erreichen",
+      "Normofraktioniert; eine Äquivalenzdosis von mindestens 78 Gy EQD2 erreichen"
     ],
     "correct": 0,
-    "tip": "In der STAMPEDE-Studie zeigte sich für diese Subgruppe mit 'low metastatic burden' ein signifikanter Überlebensvorteil durch diese zusätzliche Bestrahlung.",
-    "explanation": "Empfehlung 7.61 sieht vor, dass Patienten mit neu diagnostiziertem, oligometastasiertem Prostatakarzinom (low volume nach CHAARTED) zusätzlich zur systemischen Therapie eine perkutane Strahlentherapie der Prostata angeboten werden kann."
+    "tip": "Im metastasierten Setting geht es um lokale Kontrolle bei vertretbarer Belastung, nicht um eine kurative Dosiseskalation.",
+    "explanation": "Empfehlung 7.63 (Empfehlungsgrad B, starker Konsens): Die EBRT sollte hypofraktioniert erfolgen, die Äquivalenzdosis 74 Gy in 2-Gy-Standardfraktionierung nicht überschreiten. In PEACE-1 wurde zwar mit 74 Gy in 37 Fraktionen normofraktioniert bestrahlt, die Leitlinie bevorzugt aber die Hypofraktionierung."
   },
   {
-    "question": "Welche maximale Äquivalenzdosis soll laut Empfehlung 7.63 bei der externen, hypofraktionierten Strahlentherapie der Prostata im oligometastasierten Setting nicht überschritten werden?",
+    "question": "Neu diagnostiziertes, hormonnaives mHSPC mit hoher Metastasenlast (high volume), lokal cT4, ISUP 5. Welche Aussage zur zusätzlichen Strahlentherapie der Prostata trifft laut Leitlinie zu?",
     "options": [
-      "74 Gy in 2 Gy-Standardfraktionierung.",
-      "20 Gy in 2 Gy-Standardfraktionierung.",
-      "150 Gy in 2 Gy-Standardfraktionierung.",
-      "Es existiert keine Obergrenze für die Äquivalenzdosis."
+      "Sie ist nicht indiziert, da die Empfehlung auf low volume beschränkt ist",
+      "Sie kann wegen des hohen lokalen Progressionsrisikos angeboten werden",
+      "Sie soll angeboten werden, da sie auch bei high volume das Überleben verlängert",
+      "Sie ist erst bei Eintreten urogenitaler Komplikationen zu erwägen"
     ],
-    "correct": 0,
-    "tip": "Diese Bestrahlung soll laut Empfehlung 7.63 hypofraktioniert verabreicht werden.",
-    "explanation": "Empfehlung 7.63 fordert, dass die externe Strahlentherapie hypofraktioniert verabreicht werden sollte und eine Äquivalenzdosis von 74 Gy in 2 Gy-Standardfraktionierung nicht überschreiten sollte."
+    "correct": 1,
+    "tip": "Neben der Fernmetastasierung bedrohen auch Komplikationen durch den Primärtumor die Lebensqualität – unabhängig von der Metastasenlast.",
+    "explanation": "Empfehlung 7.62 (Empfehlungsgrad 0, neu 2025): Bei neu diagnostiziertem, hormonnaivem mPCa mit hohem lokalem Progressionsrisiko (z. B. cT3/4, ISUP 4–5) kann zusätzlich zur Systemtherapie eine RT der Prostata angeboten werden. Begründung ist die Reduktion schwerer urogenitaler Komplikationen in PEACE-1 und STAMPEDE auch bei high volume; ein Überlebensvorteil zeigte sich nur bei low volume."
   },
   {
-    "question": "Was besagt die verknüpfte Empfehlung 7.64 zur radikalen Prostatektomie beim oligometastasierten Prostatakarzinom?",
+    "question": "Ein Patient mit oligometastasiertem Prostatakarzinom wünscht eine radikale Prostatektomie. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Sie ist als Therapieoption nicht hinreichend durch Evidenz belegt.",
-      "Sie ist durch zahlreiche prospektive randomisierte Studien eindeutig als Standardtherapie belegt.",
-      "Sie ist beim oligometastasierten Prostatakarzinom explizit kontraindiziert.",
-      "Sie ersetzt in jedem Fall die systemische Therapie vollständig."
+      "Sie soll als der Strahlentherapie gleichwertige Lokaltherapie angeboten werden",
+      "Sie kann bei bis zu 4 Knochenmetastasen ohne Tumorkonferenz angeboten werden",
+      "Sie kann nach interdisziplinärer Tumorkonferenz multimodal eingebettet erfolgen",
+      "Sie sollte als alleinige Lokaltherapie ohne zusätzliche Systemtherapie erfolgen"
     ],
-    "correct": 0,
-    "tip": "Trotzdem kann sie laut Empfehlung 7.65 nach Diskussion in einer interdisziplinären Tumorkonferenz im Rahmen einer multimodalen Therapie angeboten werden.",
-    "explanation": "Empfehlung 7.64 stellt fest, dass die radikale Prostatektomie als Therapieoption beim oligometastasierten Prostatakarzinom nicht hinreichend durch Evidenz belegt ist."
+    "correct": 2,
+    "tip": "Bedenken Sie die Evidenzlage zur Operation im Vergleich zur Strahlentherapie in dieser Situation.",
+    "explanation": "Empfehlung 7.64 (EK): Die RPE beim oligometastasierten PCa ist nicht hinreichend durch Evidenz belegt; nach Empfehlung 7.65 (Empfehlungsgrad 0, LoE 2++) kann sie nach Diskussion in einer interdisziplinären Tumorkonferenz im Rahmen einer multimodalen Therapie angeboten werden. Ob sie hinsichtlich der Mortalitätsreduktion der Strahlentherapie gleichwertig ist, lässt sich mangels randomisierter Studien nicht abschätzen."
   },
   {
-    "question": "Wofür kann laut Empfehlung 7.67 die metastasengerichtete lokal ablative Therapie beim oligometastasierten Prostatakarzinom eingesetzt werden?",
+    "question": "Ein Patient mit metachron oligometastasiertem, hormonsensitivem Prostatakarzinom fragt nach einer metastasengerichteten, lokal ablativen Therapie. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Zur Verzögerung einer Androgendeprivation und/oder Tumorprogression.",
-      "Als vollständiger Ersatz jeder systemischen Therapie mit kurativer Absicht.",
-      "Ausschließlich zur Schmerzlinderung bei bereits bestehenden pathologischen Frakturen.",
-      "Sie ist beim oligometastasierten Prostatakarzinom ausdrücklich nicht einsetzbar."
+      "Sie verlängert nachweislich das Gesamtüberleben; Bestrahlung bevorzugt normofraktioniert",
+      "Sie kann eine ADT bzw. Tumorprogression verzögern; Bestrahlung bevorzugt als SBRT",
+      "Sie verlängert nachweislich das Gesamtüberleben; Bestrahlung bevorzugt als SBRT",
+      "Sie kann eine ADT bzw. Tumorprogression verzögern; Bestrahlung bevorzugt normofraktioniert"
     ],
-    "correct": 0,
-    "tip": "Laut Empfehlung 7.68 sollte die externe Strahlentherapie dabei vorzugsweise als stereotaktische Bestrahlung (SBRT) erfolgen.",
-    "explanation": "Empfehlung 7.67 sieht vor, dass die metastasengerichtete lokal ablative Therapie beim oligometastasierten Prostatakarzinom zur Verzögerung einer Androgendeprivation und/oder Tumorprogression eingesetzt werden kann."
+    "correct": 1,
+    "tip": "Unterscheiden Sie zwischen belegten Surrogatendpunkten und Überlebensendpunkten – und überlegen Sie, was ablativ strahlentherapeutisch bedeutet.",
+    "explanation": "Empfehlungen 7.66–7.68: Die metastasengerichtete Therapie ist hinsichtlich onkologischer Endpunkte nicht hinreichend belegt (EK), kann aber zur Verzögerung einer ADT und/oder Tumorprogression eingesetzt werden (Empfehlungsgrad 0); eine EBRT sollte hypofraktioniert, vorzugsweise als SBRT erfolgen (Empfehlungsgrad B). Eine intensivierte Systemtherapie ersetzt sie nach derzeitigem Stand nicht dauerhaft."
   },
   {
-    "question": "Welche drei Therapieoptionen sollen laut Empfehlung 7.69 (Kapitel 7.6) Patienten mit ossären Metastasen zusätzlich angeboten werden?",
+    "question": "Im Nachtdienst stellt sich ein Patient mit mCRPC und neuen Rückenschmerzen vor. Das MRT zeigt eine Metastase in BWK 9 mit beginnender Einengung des Spinalkanals, noch ohne neurologisches Defizit. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Medikamentöse Schmerztherapie, lokale Bestrahlung und ggf. operative Intervention.",
-      "Ausschließlich eine Chemotherapie ohne jede weitere Maßnahme.",
-      "Ausschließlich eine psychologische Betreuung ohne medizinische Intervention.",
-      "Ausschließlich eine Ernährungsumstellung."
+      "Radionuklidtherapie mit Samarium-153 sowie Analgesie nach dem WHO-Stufenschema",
+      "Analgesie nach WHO-Stufenschema; Bestrahlung erst bei neurologischem Defizit",
+      "Lokale perkutane Bestrahlung, ggf. nach operativer Intervention, mit Analgesie",
+      "Wechsel der Systemtherapie und Kontroll-MRT nach drei Monaten unter Analgesie"
     ],
-    "correct": 0,
-    "tip": "Die Therapie symptomatischer ossärer Metastasen ist dabei Bestandteil des onkologischen Gesamtkonzeptes.",
-    "explanation": "Empfehlung 7.69 fordert, dass Patienten mit ossären Metastasen zusätzlich eine oder mehrere der folgenden Optionen angeboten werden sollen: medikamentöse Schmerztherapie, lokale Bestrahlung oder operative Intervention."
+    "correct": 2,
+    "tip": "Wegweisend für den Behandlungserfolg bei Spinalkanalkompression sind die frühe Diagnose und die Strahlensensibilität des Tumors.",
+    "explanation": "Empfehlung 7.70 (Empfehlungsgrad A, LoE 1++): Die lokale perkutane Bestrahlung soll u. a. bei drohender spinaler Kompression (ggf. nach operativer Intervention), persistierenden lokalisierten Knochenschmerzen, nach operativer Stabilisierung und bei erhöhtem Frakturrisiko eingesetzt werden; Schmerztherapie und Operation ergänzen sie (Empfehlung 7.69). Radionuklide sind zur Schmerztherapie bei multiplen Knochenmetastasen vorgesehen (Empfehlung 7.71, Grad 0)."
   },
   {
-    "question": "In welchen Situationen soll laut Empfehlung 7.70 (Empfehlungsgrad A) eine lokale perkutane Bestrahlung bei Knochenmetastasen eingesetzt werden?",
+    "question": "Ein Patient mit mCRPC ist unter laufender Systemtherapie klinisch stabil. In welchem Rhythmus sollte laut Leitlinie eine konventionelle Bildgebung (CT Thorax/Abdomen/Becken und Knochenszintigraphie) erfolgen?",
     "options": [
-      "Bei persistierenden lokalisierten Knochenschmerzen, drohender spinaler Kompression, nach operativer Stabilisierung oder bei erhöhtem Frakturrisiko.",
-      "Ausschließlich bei vollständig asymptomatischen Patienten ohne jede Beschwerde.",
-      "Nur bei Patienten unter 50 Jahren.",
-      "Nur wenn bereits eine Chemotherapie abgeschlossen wurde."
+      "Alle 6–12 Monate, zusätzlich bei Verdacht auf klinischen oder PSA-Progress",
+      "Alle 12–24 Monate, zusätzlich bei Verdacht auf klinischen oder PSA-Progress",
+      "Ohne feste Intervalle, nur bei Verdacht auf klinischen oder PSA-Progress",
+      "Alle 3–6 Monate, zusätzlich bei Verdacht auf klinischen oder PSA-Progress"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung basiert auf Evidenzlevel 1++ und wurde mit starkem Konsens verabschiedet.",
-    "explanation": "Empfehlung 7.70 fordert den Einsatz der lokalen perkutanen Bestrahlung bei persistierenden lokalisierten Knochenschmerzen, drohender spinaler Kompression, nach operativer Stabilisierung oder bei erhöhtem Frakturrisiko."
+    "correct": 3,
+    "tip": "Im kastrationsresistenten Stadium ist mit einer rascheren Progressionsdynamik zu rechnen als im hormonsensitiven Stadium.",
+    "explanation": "Empfehlung 7.77 (EK, Konsens): Beim mCRPC sollte alle 3–6 Monate eine konventionelle Bildgebung (CT Abdomen/Thorax/Becken und Knochenszintigraphie) erfolgen, unabhängig davon bei Verdacht auf klinischen oder PSA-Progress. Das Intervall von 6–12 Monaten gilt für das stabile mHSPC (Empfehlung 7.76); alternativ kann eine PSMA-PET/CT eingesetzt werden (Empfehlung 7.78, Grad 0)."
   },
   {
-    "question": "Was fordert Empfehlung 7.73 zur Prävention von Komplikationen bei Knochenmetastasen im kastrationsresistenten Stadium?",
+    "question": "Neu diagnostiziertes, hormonnaives Prostatakarzinom mit multiplen Knochenmetastasen, keine Osteoporose; die ADT wird begonnen. Was empfiehlt die Leitlinie zur Prävention skelettaler Komplikationen?",
     "options": [
-      "Der monoklonale Antikörper Denosumab oder das Bisphosphonat Zoledronsäure soll unter Aufklärung von Nutzen und Schaden angeboten werden.",
-      "Bisphosphonate sollen in diesem Stadium grundsätzlich nicht eingesetzt werden.",
-      "Eine medikamentöse Prävention ist im kastrationsresistenten Stadium nicht vorgesehen.",
-      "Ausschließlich eine Chemotherapie ist zur Prävention von Knochenkomplikationen geeignet."
+      "Zoledronsäure soll ab Therapiebeginn zusätzlich zur ADT angeboten werden",
+      "Denosumab sollte wegen besserer Studienlage vor Zoledronsäure gewählt werden",
+      "Zoledronsäure sollte bei mehr als 4 Knochenmetastasen ergänzt werden",
+      "Bisphosphonate sollten in diesem Krankheitsstadium nicht eingesetzt werden"
     ],
-    "correct": 0,
-    "tip": "Im Gegensatz dazu sollten Bisphosphonate laut Empfehlung 7.72 im hormon-naiven Stadium nicht eingesetzt werden.",
-    "explanation": "Empfehlung 7.73 fordert, dass zur Prävention von Komplikationen bei Knochenmetastasen im kastrationsresistenten Stadium Denosumab oder Zoledronsäure unter Aufklärung von Nutzen und Schaden angeboten werden soll."
+    "correct": 3,
+    "tip": "Fragen Sie sich, in welchem Krankheitsstadium Studien einen Vorteil hinsichtlich skelettaler Ereignisse gezeigt haben.",
+    "explanation": "Empfehlung 7.72 (Empfehlungsgrad B, starker Konsens): Im hormonnaiven Stadium sollten Bisphosphonate zur Prävention von Komplikationen bei Knochenmetastasen nicht eingesetzt werden; die Wirkung von Denosumab ist hier nicht beurteilbar (Statement). Denosumab oder Zoledronsäure soll erst im kastrationsresistenten Stadium angeboten werden (Empfehlung 7.73, Grad A); eine indizierte Osteoporose-Therapie bleibt davon unberührt."
   },
   {
-    "question": "Was soll laut Empfehlung 7.74 zur Prävention von Kieferosteonekrosen vor Gabe von Bisphosphonaten oder Denosumab erfolgen?",
+    "question": "Bei einem Patienten mit mCRPC und Knochenmetastasen soll Denosumab zur Prävention skelettaler Ereignisse begonnen werden. Was soll laut Leitlinie vorher erfolgen?",
     "options": [
-      "Eine zahnärztliche Untersuchung mit ggf. erforderlicher Sanierung sowie eine Unterweisung zu überdurchschnittlicher Mundhygiene.",
-      "Eine vollständige Extraktion aller Zähne vor Therapiebeginn.",
-      "Keine besonderen Maßnahmen sind erforderlich.",
-      "Eine Röntgenaufnahme des gesamten Skeletts."
+      "Knochendichtemessung; Beginn erst bei einem T-Score unter −2,5",
+      "Kreatinin-Clearance; Beginn erst bei Werten über 60 ml/min",
+      "Zahnärztliche Untersuchung, ggf. Sanierung, und Mundhygieneschulung",
+      "Pausieren von Calcium und Vitamin D wegen des Hyperkalzämierisikos"
     ],
-    "correct": 0,
-    "tip": "Diese Maßnahmen sollen das Risiko einer Kieferosteonekrose als mögliche Nebenwirkung dieser Substanzen reduzieren.",
-    "explanation": "Empfehlung 7.74 fordert vor der Gabe von Bisphosphonaten oder Denosumab eine zahnärztliche Untersuchung mit ggf. erforderlicher Sanierung sowie eine Unterweisung des Patienten zu überdurchschnittlicher Mundhygiene."
+    "correct": 2,
+    "tip": "Antiresorptive Substanzen haben Nebenwirkungen, denen man vor Therapiebeginn gezielt vorbeugen kann.",
+    "explanation": "Empfehlung 7.74 (Empfehlungsgrad A, LoE 3): Zur Prävention von Kieferosteonekrosen soll vor Bisphosphonaten oder Denosumab eine zahnärztliche Untersuchung mit ggf. Sanierung sowie eine Motivation zu überdurchschnittlicher Mundhygiene erfolgen. Zusätzlich werden täglich mindestens 500 mg Calcium und 400 I.E. Vitamin D empfohlen; Denosumab ist auch bei eingeschränkter Nierenfunktion einsetzbar (Hypokalzämierisiko beachten)."
   }
 ]

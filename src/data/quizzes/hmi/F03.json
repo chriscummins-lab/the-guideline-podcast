@@ -1,122 +1,122 @@
 [
   {
-    "question": "Unter welcher Bedingung soll laut Empfehlung XVIII bei hochbetagten oder kognitiv eingeschränkten Betroffenen eine 4-Augen-Beratung angeboten werden?",
+    "question": "Ein 74-jähriger Mann kommt mit seiner Tochter zur Erstberatung, sie beantwortet alle Fragen für ihn. Was soll laut Empfehlung XVII initial erfragt werden?",
     "options": [
-      "Wenn der Betroffene mit der Anwesenheit einer Begleitperson einverstanden ist.",
-      "Nur wenn die Begleitperson das ausdrücklich verlangt, unabhängig vom Betroffenen.",
-      "Grundsätzlich immer, unabhängig vom Einverständnis des Betroffenen.",
-      "Nur bei Vorliegen einer gesetzlichen Betreuung."
+      "Bereitschaft der Tochter, Folgegespräche allein zu führen",
+      "Bereitschaft der Tochter, die Zuzahlungen zu übernehmen",
+      "Wunsch des Patienten nach einer Beratung zu Hause",
+      "Status der Tochter und ihre Beziehung zum Patienten"
     ],
-    "correct": 0,
-    "tip": "Der Status der Begleitperson soll laut Empfehlung XVII initial erfragt werden.",
-    "explanation": "Empfehlung XVIII sieht vor, dass besonders bei hochbetagten oder kognitiv eingeschränkten Betroffenen eine Begleitperson anwesend sein kann und eine 4-Augen-Beratung angeboten werden soll, wenn der Betroffene damit einverstanden ist."
+    "correct": 3,
+    "tip": "Teilnehmende können Angehörige, Vertrauenspersonen, Betreuer oder gesetzliche Betreuer sein.",
+    "explanation": "Empfehlung XVII (starke Empfehlung): Der Status einer eventuellen Begleitperson und ihre Beziehung zum Betroffenen sollen initial erfragt werden. Eine Beratung im häuslichen Umfeld ist nach Empfehlung XXV möglich, aber nicht der erste Klärungsschritt."
   },
   {
-    "question": "Ein 74-jähriger Patient kommt mit seiner Tochter, die während des Gesprächs alle Fragen für ihn beantwortet. Was soll der Berater laut Empfehlung XVII zuerst erfragen?",
+    "question": "Besonders bei hochbetagten oder kognitiv eingeschränkten Betroffenen ist eine Begleitperson wünschenswert. Was sieht Empfehlung XVIII zur 4-Augen-Beratung vor?",
     "options": [
-      "Den Status der Begleitperson und ihre Beziehung zum Betroffenen.",
-      "Direkt die Versicherungsnummer der Tochter.",
-      "Ob die Tochter bereit ist, die Zuzahlung zu übernehmen.",
-      "Nichts, die Beziehung der Begleitperson ist für die Beratung irrelevant."
+      "Sie soll angeboten werden, sobald eine Begleitperson anwesend ist",
+      "Sie kann angeboten werden, wenn die Begleitperson dies ausdrücklich wünscht",
+      "Sie sollte angeboten werden, wenn der Betroffene einverstanden ist",
+      "Sie sollte angeboten werden, wenn die Begleitperson zustimmt"
     ],
-    "correct": 0,
-    "tip": "Dies soll initial, also zu Beginn des Beratungsgesprächs, erfolgen.",
-    "explanation": "Empfehlung XVII fordert, dass der Status einer eventuellen Begleitperson und ihre Beziehung zum Betroffenen initial erfragt werden soll."
+    "correct": 2,
+    "tip": "Achten Sie auf das Modalverb und darauf, wessen Zustimmung maßgeblich ist.",
+    "explanation": "Empfehlung XVIII (Empfehlung, „sollte“): Eine 4-Augen-Beratung sollte angeboten werden, wenn der Betroffene damit einverstanden ist. Maßgeblich ist sein Einverständnis, nicht der Wunsch oder die Zustimmung der Begleitperson."
   },
   {
-    "question": "Welche Themen gehören laut Kapitel 4.2 zu den 'allgemeinen Informationen' eines strukturierten Erstgesprächs?",
+    "question": "Nach der Initialberatung musste die getestete Versorgung angepasst werden. Was gilt laut Empfehlung XXI für die Rückmeldung des Beratungsergebnisses an den Verordner?",
     "options": [
-      "U. a. medizinische und kontinenzbezogene Anamnese, psychosoziale Situation, Mobilität, aktuelle Pflege und Versorgung, Ziele und Versicherungssituation.",
-      "Ausschließlich die Diagnose nach ICD-10-Code.",
-      "Nur die vom Patienten gewünschte Produktmarke.",
-      "Nur finanzielle Fragen, keine medizinischen Inhalte."
+      "Sie erfolgt erst beim nächsten Recall nach Versorgungsbeginn",
+      "Sie entfällt, wenn der Patient mit dem Produkt zufrieden ist",
+      "Sie erfolgt über die Krankenkasse zusammen mit der Abrechnung",
+      "Sie soll erfolgen, bevor eine Dauerverordnung initiiert wird"
     ],
-    "correct": 0,
-    "tip": "Die 'hilfsmittelbezogene Beratung' umfasst demgegenüber z. B. Demonstration und praktische Anleitung der Produkte.",
-    "explanation": "Laut Kapitel 4.2 gehören zu den allgemeinen Informationen eines Erstgesprächs u. a. medizinische und kontinenzbezogene Anamnese, psychosoziale Situation, Mobilität, aktuelle Pflege und Versorgung, Ziele/Erwartungen sowie die Versicherungssituation."
+    "correct": 3,
+    "tip": "Der Laufzettel ist für die Kommunikation in beide Richtungen gedacht – vom Verordner zum Versorger und zurück.",
+    "explanation": "Empfehlung XXI (starke Empfehlung): Das Ergebnis der Beratung soll dem Verordner per Laufzettel zur Kenntnis gebracht werden, besonders wenn eine Anpassung bzw. Nachberatung nötig war, bevor eine Dauerverordnung initiiert wird. Empfehlung XX verlangt zudem, Reevaluation und Nachberatung anzubieten und zu dokumentieren."
   },
   {
-    "question": "Wann soll laut Empfehlung XXI das Ergebnis der Beratung dem Verordner zur Kenntnis gebracht werden?",
+    "question": "Welche Aussage zu Beratungsort, Hilfsmitteltestung und Beratungsdauer (Kapitel 4.3–4.5) trifft NICHT zu?",
     "options": [
-      "Besonders dann, wenn eine Anpassung bzw. Nachberatung notwendig war, bevor eine Dauerverordnung initiiert wird.",
-      "Nur auf ausdrückliche Anfrage des Verordners.",
-      "Erst nach Abschluss aller Folgeberatungen, frühestens nach einem Jahr.",
-      "Eine Rückmeldung an den Verordner ist laut Leitlinie nicht vorgesehen."
+      "Eine Hilfsmittelberatung kann auch im häuslichen Umfeld erfolgen",
+      "Die Erstberatung sollte einem standardisierten Zeitrahmen folgen",
+      "Der Beratungsraum soll Sicht- und Schallschutz gewährleisten",
+      "Bei praktischer Anleitung soll der Raum hygienisch geeignet sein"
     ],
-    "correct": 0,
-    "tip": "Diese Rückmeldung erfolgt idealerweise über den Laufbogen.",
-    "explanation": "Empfehlung XXI fordert, dass das Ergebnis der Beratung dem Verordner mitgeteilt werden soll, besonders wenn eine Anpassung oder Nachberatung notwendig war, bevor eine Dauerverordnung initiiert wird."
+    "correct": 1,
+    "tip": "Kapitel 4 richtet die Beratung konsequent an Ressourcen, Bedürfnissen und Erwartungen der ratsuchenden Person aus.",
+    "explanation": "Nach Kapitel 4.5 ist eine zeitliche Begrenzung nicht sinnvoll; die Dauer sollte besonders bei der Erstberatung an die Bedürfnisse des Betroffenen angelehnt ausreichend bemessen werden (Empfehlung XXX). Beratung zu Hause (XXV), ein separater Raum mit Sicht- und Schallschutz (XXIII) und hygienisch geeignete Räume bei praktischer Anleitung (XXVIII) entsprechen der Leitlinie."
   },
   {
-    "question": "Welche räumlichen Anforderungen stellen die Empfehlungen XXIII und XXIV an eine Hilfsmittelberatung?",
+    "question": "Unter welcher Voraussetzung können moderne Telekommunikationsmethoden laut Empfehlung XXVII in der Kontinenzberatung eingesetzt werden?",
     "options": [
-      "Ein separater Raum ohne Publikumsverkehr mit ausreichenden Sitzgelegenheiten, Sicht- und Schallschutz sowie ausreichender Größe.",
-      "Die Beratung soll grundsätzlich am Empfangsschalter erfolgen.",
-      "Ein separater Raum ist nicht erforderlich, Telefonberatung ist gleichwertig.",
-      "Es sind laut Leitlinie keine Vorgaben zur Diskretion vorgesehen."
+      "Ergänzend, wenn eine Face-to-face-Beratung nicht möglich ist",
+      "Als Ersatz der Erstberatung bei leichter Harninkontinenz",
+      "Als Standardweg der Folgeberatungen nach der Bemusterung",
+      "Für Angehörige, wenn der Betroffene selbst nicht teilnehmen möchte"
     ],
     "correct": 0,
-    "tip": "Genau diese Anforderungen fehlten laut dem Stiftung-Warentest-Test von 2017 häufig.",
-    "explanation": "Empfehlung XXIII fordert einen separaten Raum ohne Publikumsverkehr mit ausreichenden Sitzgelegenheiten und Sicht-/Schallschutz, Empfehlung XXIV zusätzlich eine ausreichende Raumgröße."
+    "tip": "Die persönliche Beratung in geschützter Situation bleibt der Maßstab der Leitlinie.",
+    "explanation": "Empfehlung XXVII (Empfehlung): Telekommunikation kann ergänzend – auch mit Angehörigen oder Betreuungspersonen – eingesetzt werden, wenn dies gewünscht wird, der Betroffene dazu in der Lage ist und eine persönliche Beratung face-to-face nicht durchgeführt werden kann. Einen Ersatz des individuellen Gesprächs sieht die Leitlinie weder hier noch für Gruppenberatungen (XXVI) vor."
   },
   {
-    "question": "Welche Rolle sollen Gruppen- oder offene Beratungen laut Empfehlung XXVI einnehmen?",
+    "question": "Eine Beraterin eines Homecare-Unternehmens berät zu Produkten, die ihr Arbeitgeber vertreibt. Was fordert Empfehlung XXXII?",
     "options": [
-      "Sie können ergänzend zur allgemeinen Informationsvermittlung eingesetzt werden, sollen aber ein individuelles Beratungsgespräch in geschützter Situation nicht ersetzen.",
-      "Sie sollen das individuelle Beratungsgespräch vollständig ersetzen.",
-      "Sie sind laut Leitlinie grundsätzlich untersagt.",
-      "Sie sind nur bei neurogener Inkontinenz zulässig."
+      "Firmenbeziehungen auf Nachfrage des Patienten offenlegen",
+      "Firmenbeziehungen zu Beginn des Beratungsprozesses benennen",
+      "Firmenbeziehungen per Laufbogen dem Verordner mitteilen",
+      "Firmenbeziehungen nach Abschluss der Bemusterung offenlegen"
     ],
-    "correct": 0,
-    "tip": "Auch moderne Telekommunikationsmethoden können laut Empfehlung XXVII ergänzend eingesetzt werden, wenn eine persönliche Beratung face-to-face nicht möglich ist.",
-    "explanation": "Empfehlung XXVI erlaubt Gruppen- oder offene Beratungen ergänzend zur Informationsvermittlung, betont aber, dass sie ein individuelles, geschütztes Beratungsgespräch nicht ersetzen sollen."
+    "correct": 1,
+    "tip": "Hilfsmittelberatung findet auch als Serviceleistung von Herstellern und Händlern statt – mit teilweise finanziellen Interessen.",
+    "explanation": "Empfehlung XXXII (starke Empfehlung): Zu Beginn des Beratungsprozesses sollen die Beziehungen des Beratenden zu einer Firma und/oder Organisation benannt werden; berufliche und finanzielle Interessen sollen vorab oder während der Beratung transparent besprochen werden (XXXIII). Eine Offenlegung erst auf Nachfrage oder nach der Bemusterung genügt dem nicht."
   },
   {
-    "question": "Was sollen Beratende laut den Empfehlungen XXXII und XXXIII zu Beginn bzw. im Verlauf des Beratungsprozesses offenlegen?",
+    "question": "Wie sollte eine Bemusterung laut Empfehlung XXXVII im Regelfall erfolgen?",
     "options": [
-      "Ihre Beziehungen zu einer Firma und/oder Organisation sowie berufliche und finanzielle Interessen mit Bezug zur Beratungsleistung.",
-      "Ihr privates Gehalt.",
-      "Ausschließlich ihre fachliche Qualifikation, Interessenkonflikte müssen nicht benannt werden.",
-      "Nichts, Transparenzpflichten bestehen laut Leitlinie nicht."
+      "Mind. 2 erstattungsfähige und 2 zuzahlungspflichtige Produkte für je 2–3 Tage",
+      "Mind. 2 erstattungsfähige und 2 zuzahlungspflichtige Produkte für je 7 Tage",
+      "Mind. 1 erstattungsfähiges und 1 zuzahlungspflichtiges Produkt für je 2–3 Tage",
+      "Mind. 3 erstattungsfähige und 1 zuzahlungspflichtiges Produkt für je 1 Tag"
     ],
     "correct": 0,
-    "tip": "Bei nicht zufriedenstellenden Beratungssituationen soll laut Empfehlung XXXV sogar ein Beraterwechsel angeboten werden.",
-    "explanation": "Empfehlung XXXII fordert die Offenlegung der Beziehungen zu Firma/Organisation zu Beginn, Empfehlung XXXIII die transparente Besprechung beruflicher und finanzieller Interessen des Beratenden."
+    "tip": "Die Menge soll eine Erprobung im Alltag erlauben, ohne einen Vorrat anzulegen.",
+    "explanation": "Empfehlung XXXVII (Empfehlung, „sollte“): Im Regelfall werden gleichzeitig mindestens 2 erstattungsfähige und 2 zuzahlungspflichtige Hilfsmittelalternativen in einer Menge ausgehändigt, die einem Tagesbedarf für jeweils 2–3 Tage entspricht. So kann der Patient Kassenprodukte und Aufzahlungsprodukte unmittelbar vergleichen."
   },
   {
-    "question": "Wie soll eine Bemusterung laut Empfehlung XXXVII im Regelfall erfolgen?",
+    "question": "Welche Aussage zur Bemusterung (Kapitel 5) entspricht der Leitlinie?",
     "options": [
-      "Durch gleichzeitiges Aushändigen von mindestens 2 erstattungsfähigen und 2 zuzahlungspflichtigen Hilfsmittelalternativen in einer Menge für jeweils 2–3 Tage Tagesbedarf.",
-      "Durch Aushändigen einer einzigen Musterpackung zum Ausprobieren, ohne weitere Alternativen.",
-      "Durch alleinige Demonstration der Produkte, ohne Aushändigung von Mustern.",
-      "Durch Aushändigung von Produkten für einen vollen Monatsbedarf."
+      "Bei einem Produktwechsel ist keine erneute Bemusterung nötig",
+      "Der Berater füllt den Bewertungsbogen nach der Testphase aus",
+      "Nach der ersten Testphase soll regelhaft eine zweite folgen",
+      "Der Patient (ggf. Betreuungsperson) füllt den Bewertungsbogen aus"
     ],
-    "correct": 0,
-    "tip": "Eine Bemusterung ist laut Leitlinie auch bei jedem Produktwechsel erneut notwendig.",
-    "explanation": "Empfehlung XXXVII sieht vor, dass im Regelfall mindestens 2 erstattungsfähige und 2 zuzahlungspflichtige Alternativen in einer Menge für 2–3 Tage Tagesbedarf gleichzeitig ausgehändigt werden sollen."
+    "correct": 3,
+    "tip": "Eine Bemusterung gilt als sinnvoll und am Ende kostensparend, weil sie Fehlversorgung vermeidet.",
+    "explanation": "Nach Empfehlung XXXVIII (starke Empfehlung) füllt der Patient, ggf. seine Betreuungsperson, zur validen Bewertung einen Bewertungsbogen (Laufzettel Patiententeil) aus. Eine Bemusterung ist auch bei einem Produktwechsel notwendig; eine weitere Testung kann nach Empfehlung XXXIX auf Anfrage erfolgen (Empfehlung offen)."
   },
   {
-    "question": "Wer soll laut Empfehlung XXXVIII den Bewertungsbogen (Laufzettel Patiententeil) zur Bemusterung ausfüllen?",
+    "question": "Ein Hausarzt ohne urologischen oder gynäkologischen Facharztstandard möchte Inkontinenzhilfsmittel verordnen. Was gilt laut Kapitel 8.1?",
     "options": [
-      "Der Patient bzw. ggf. seine Betreuungsperson.",
-      "Ausschließlich der verordnende Arzt.",
-      "Ausschließlich die beratende Pflegefachperson.",
-      "Der Hersteller des Hilfsmittels."
+      "Die Verordnung bleibt Urologen und Gynäkologen vorbehalten",
+      "Die Verordnung setzt eine zertifizierte ärztliche Kontinenzfortbildung voraus",
+      "Er darf verordnen, benötigt aber Grundkenntnisse zur Harninkontinenz",
+      "Er darf erst nach fachärztlicher Erstverordnung verordnen"
     ],
-    "correct": 0,
-    "tip": "Dies dient der validen und nachvollziehbaren Bewertung der getesteten Produkte.",
-    "explanation": "Empfehlung XXXVIII fordert, dass der Patient (ggf. seine Betreuungsperson) zur validen und nachvollziehbaren Bewertung einen Bewertungsbogen ausfüllen soll."
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen formaler Verordnungsbefugnis und fachlichen Voraussetzungen.",
+    "explanation": "Kapitel 8.1: Die Hilfsmittelverschreibung ist jedem approbierten Arzt möglich; ohne Facharztstandard in Urologie oder Gynäkologie sind Grundkenntnisse in Diagnostik und Therapie der Harninkontinenz und Erfahrung in der Hilfsmittelverordnung notwendig, u. a. zu Anatomie, Pathophysiologie, Terminologie, Therapieformen und Red flags. Geriatrisches Know-how gilt laut Statement als wünschenswert."
   },
   {
-    "question": "Welche Qualifikation wird in Kapitel 8.2 als besonders geeignet für die Durchführung einer Hilfsmittelberatung genannt?",
+    "question": "Welche Aussage zur Qualifikation der Hilfsmittelberatenden (Kapitel 8.2) trifft zu?",
     "options": [
-      "Eine Ausbildung zum Urotherapeuten/zur Urotherapeutin oder eine Fachweiterbildung zum Pflegeexperten Stoma, Kontinenz und Wunde.",
-      "Ein abgeschlossenes Pharmaziestudium ist zwingend erforderlich.",
-      "Eine Facharztausbildung in der Urologie ist für jede Beratungsperson Voraussetzung.",
-      "Es gibt eine gesetzlich verbindlich definierte Pflichtqualifikation für die Hilfsmittelberatung."
+      "Die Qualifikation für Hilfsmittelberatung ist bereits gesetzlich definiert",
+      "Die Qualifikation sollte besonders bei Telefonberatung offengelegt werden",
+      "Ohne Urotherapie-Ausbildung sollte keine Hilfsmittelberatung erfolgen",
+      "Eine Basisqualifikation soll durch ein Kassenzertifikat belegt sein"
     ],
-    "correct": 0,
-    "tip": "Die Qualifikation für die Hilfsmittelberatung ist laut Leitlinie bislang nicht einheitlich definiert.",
-    "explanation": "Kapitel 8.2 nennt die Ausbildung zum Urotherapeuten/zur Urotherapeutin oder die Fachweiterbildung zum Pflegeexperten Stoma, Kontinenz und Wunde als besonders geeignete Qualifikationen; eine Basisqualifikation soll zudem transparent dargestellt werden, insbesondere bei telefonischer oder internetbasierter Beratung."
+    "correct": 1,
+    "tip": "Als besonders geeignet nennt die Leitlinie Urotherapeuten und Pflegeexperten Stoma, Kontinenz und Wunde.",
+    "explanation": "Empfehlung L (Empfehlung): Die Qualifikation der Beratungsperson sollte transparent dargestellt werden, insbesondere bei telefonischer oder internetbasierter Beratung. Die Qualifikation ist bisher nicht definiert; ohne spezifische Ausbildung werden Basiswissen und Fortbildung gefordert, und eine Basisqualifikation sollte vorhanden sein (Empfehlung XXXXIX) – ein Zertifikat verlangt die Leitlinie nicht."
   }
 ]

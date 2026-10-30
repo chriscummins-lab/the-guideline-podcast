@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wodurch ist laut Statement 7.2 (Kapitel 7.1) nach radikaler Prostatektomie ein biochemisches Rezidiv definiert?",
+    "question": "Wie definiert die Leitlinie ein biochemisches Rezidiv nach radikaler Prostatektomie bzw. nach alleiniger Strahlentherapie (jeweils in mindestens zwei Messungen bestätigt)?",
     "options": [
-      "Ein in mindestens zwei Messungen bestätigter PSA-Wert über 0,2 ng/ml.",
-      "Jeder messbare PSA-Wert über der Nachweisgrenze, unabhängig von Wiederholungsmessungen.",
-      "Ein PSA-Wert über 10 ng/ml bei einmaliger Messung.",
-      "Ein PSA-Anstieg um das 10-fache des Ausgangswertes."
+      "Nach RPE über 0,4 ng/ml; nach RT drei konsekutive PSA-Anstiege",
+      "Nach RPE über 0,2 ng/ml; nach RT drei konsekutive PSA-Anstiege",
+      "Nach RPE über 0,4 ng/ml; nach RT Anstieg über Nadir plus 2 ng/ml",
+      "Nach RPE über 0,2 ng/ml; nach RT Anstieg über Nadir plus 2 ng/ml"
     ],
-    "correct": 0,
-    "tip": "Die Messungen sollen im Abstand von mindestens zwei Wochen erfolgen; auch zwei ansteigende Werte unter 0,2 ng/ml können bereits ein Rezidiv bedeuten.",
-    "explanation": "Statement 7.2 definiert das biochemische Rezidiv nach radikaler Prostatektomie als einen in mindestens zwei Messungen bestätigten PSA-Wert über 0,2 ng/ml."
+    "correct": 3,
+    "tip": "Nach Bestrahlung wurde die frühere ASTRO-Definition wegen schlechter Prädiktion und Bounce-Anfälligkeit ersetzt.",
+    "explanation": "Statement 7.2: Nach RPE kennzeichnet ein in mindestens zwei Messungen bestätigter PSA-Wert über 0,2 ng/ml ein biochemisches Rezidiv. Statement 7.3: Nach alleiniger Strahlentherapie gilt ein bestätigter Anstieg um mehr als 2 ng/ml über den Nadir (Phoenix-Definition); die früheren drei konsekutiven Anstiege (alte ASTRO-Definition) waren u. a. anfällig für den PSA-Bounce."
   },
   {
-    "question": "Wie ist laut Statement 7.3 ein biochemisches Rezidiv nach alleiniger Strahlentherapie definiert (sog. 'Phoenix-Definition')?",
+    "question": "In welcher Situation sollte laut Leitlinie eine bioptische Sicherung eines biochemischen Rezidivs angestrebt werden?",
     "options": [
-      "Ein bestätigter PSA-Anstieg von mehr als 2 ng/ml über den postinterventionellen PSA-Nadir.",
-      "Jeder PSA-Wert über 0,2 ng/ml, analog zur Definition nach Prostatektomie.",
-      "Drei konsekutive PSA-Anstiege nach der alten ASTRO-Definition.",
-      "Ein PSA-Abfall unter den Nadir-Wert."
+      "Nach RPE vor Salvage-RT mittels Biopsie der vesikourethralen Anastomose",
+      "Nach RPE bei negativem PSMA-PET vor Beginn einer Salvage-Strahlentherapie",
+      "Nach RT bereits beim ersten PSA-Anstieg, um einen PSA-Bounce auszuschließen",
+      "Nach RT, sofern eine lokale Rezidivtherapie als Option infrage kommt"
     ],
-    "correct": 0,
-    "tip": "Diese Nadir-plus-2-Definition zeigte sich sensitiver und spezifischer als die frühere ASTRO-Definition mit drei konsekutiven Anstiegen.",
-    "explanation": "Statement 7.3 definiert das biochemische Rezidiv nach alleiniger Strahlentherapie als einen in mindestens zwei Messungen bestätigten PSA-Anstieg von mehr als 2 ng/ml über den postinterventionellen PSA-Nadir."
+    "correct": 3,
+    "tip": "Fragen Sie sich, nach welcher Primärtherapie eine Biopsie technisch aussagekräftig ist und welche Konsequenz sie hätte.",
+    "explanation": "Empfehlung 7.5 (Empfehlungsgrad B): Nach Strahlentherapie sollte bei Option einer lokalen Rezidivtherapie eine bioptische Sicherung angestrebt werden, und zwar erst nach Ausschluss eines PSA-Bounce, also bei gesichertem Rezidiv. Nach RPE ist eine Biopsie nicht erforderlich (Statement 7.4); die Anastomosenbiopsie gilt als ungenau."
   },
   {
-    "question": "Was besagt Statement 7.4 zur bioptischen Sicherung eines biochemischen Rezidivs nach radikaler Prostatektomie?",
+    "question": "Welche Aussage zur Bildgebung bei biochemischem Rezidiv nach primär kurativer Therapie entspricht Empfehlung 7.6?",
     "options": [
-      "Sie ist nicht erforderlich.",
-      "Sie ist in jedem Fall obligat vor jeder weiteren Therapieentscheidung.",
-      "Sie muss an mindestens drei unterschiedlichen Lokalisationen erfolgen.",
-      "Sie ersetzt die PSA-Bestimmung vollständig."
+      "PSMA-PET-Hybridbildgebung, sofern sich eine therapeutische Konsequenz ergibt",
+      "Knochenszintigraphie plus CT von Abdomen und Becken als Basisstaging",
+      "Zunächst keine Bildgebung, PSMA-PET erst ab einem PSA von 1,0 ng/ml",
+      "Cholin-PET/CT, da es bei niedrigem PSA sensitiver als PSMA-PET ist"
     ],
     "correct": 0,
-    "tip": "Eine Biopsie der vesico-urethralen Anastomose gilt als ungenaue Methode zum Nachweis eines Lokalrezidivs.",
-    "explanation": "Statement 7.4 legt fest, dass eine bioptische Sicherung eines biochemischen Rezidivs nach radikaler Prostatektomie nicht erforderlich ist."
+    "tip": "Bildgebung beim Rezidiv folgt dem Prinzip: nur untersuchen, wenn das Ergebnis die Therapie ändern kann.",
+    "explanation": "Empfehlung 7.6 (Empfehlungsgrad A): Bei biochemischem Rezidiv soll primär eine PSMA-PET-Hybridbildgebung erfolgen, falls sich daraus eine therapeutische Konsequenz ergibt; sie gilt wegen ihrer Sensitivität als Standard. Eine Knochenszintigraphie sollte bei asymptomatischen Patienten mit PSA < 10 ng/ml nicht durchgeführt werden (Empfehlung 7.8, Grad B)."
   },
   {
-    "question": "Wann soll laut Empfehlung 7.6 (Empfehlungsgrad A) primär eine PSMA-PET Hybrid-Bildgebung zur Beurteilung der Tumorausbreitung bei biochemischem Rezidiv erfolgen?",
+    "question": "Patient 3 Jahre nach RPE (pT3a pN0, ISUP 3): PSA bestätigt ansteigend auf 0,24 ng/ml, das PSMA-PET zeigt keinen Befund. Er wünscht eine kurative Behandlung. Wie sollte laut Leitlinie vorgegangen werden?",
     "options": [
-      "Falls sich aus dem Befund eine therapeutische Konsequenz ergibt.",
-      "Grundsätzlich nie, da die PSMA-PET bei Rezidiven keine Rolle spielt.",
-      "Nur bei PSA-Werten unter 0,05 ng/ml.",
-      "Ausschließlich bei Patienten, die eine Chemotherapie ablehnen."
+      "Frühe Salvage-RT der Prostataloge ohne Abwarten einer positiven Bildgebung",
+      "PSA-Kontrollen und erneutes PSMA-PET, sobald das PSA über 0,5 ng/ml liegt",
+      "Enzalutamid-Monotherapie, da in der Bildgebung kein Lokalrezidiv sichtbar ist",
+      "Sofortige ADT, da ein negatives PET auf systemische Mikrometastasen hinweist"
     ],
     "correct": 0,
-    "tip": "Die PSMA-PET-Positivitätsrate korreliert stark mit der Höhe des PSA-Werts, von 33% bei PSA<0,2 bis 95% bei PSA≥2,0 ng/ml.",
-    "explanation": "Empfehlung 7.6 fordert, dass bei biochemischem Rezidiv primär eine PSMA-PET Hybrid-Bildgebung erfolgen soll, falls sich aus dem Befund eine therapeutische Konsequenz ergibt."
+    "tip": "Bedenken Sie, wie sich das kurative Potenzial der Salvage-Bestrahlung mit steigendem PSA-Wert verändert.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.6 soll bei negativem PSMA-PET und Indikation zur kurativen Salvagetherapie diese unverzüglich erfolgen, statt auf ein positives PET zu warten. Die SRT soll möglichst früh bei PSA < 0,5 ng/ml beginnen (Empfehlung 7.18a, Grad A); bei pN0 und frühem Beginn sollte der Lymphabfluss nicht mitbestrahlt werden (7.18b). Eine ADT ist beim PSA-Rezidiv keine Standardtherapie (Statement 7.10)."
   },
   {
-    "question": "Welche drei Faktoren sollen laut Empfehlung 7.7 zur Differenzierung zwischen lokalem und systemischem Rezidiv herangezogen werden?",
+    "question": "Wie hoch ist laut Tabelle 19 der Leitlinie (nach EAU) die Positivitätsrate der 68Ga-PSMA-PET bei einem PSA-Wert von 0,2–0,49 ng/ml?",
     "options": [
-      "PSA-Verdopplungszeit, Latenzzeit zur primären kurativ intendierten Therapie und Gleason-Score.",
-      "Ausschließlich das Körpergewicht des Patienten.",
-      "Ausschließlich die Dauer der ursprünglichen Operation.",
-      "Ausschließlich die Blutgruppe des Patienten."
+      "33 %",
+      "45 %",
+      "59 %",
+      "75 %"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt insbesondere bei Patienten, für die eine lokale Rezidivtherapieoption in Frage kommt.",
-    "explanation": "Empfehlung 7.7 nennt die PSA-Verdopplungszeit, die Latenzzeit zur primären kurativ intendierten Therapie und den Gleason-Score als Faktoren zur Differenzierung zwischen lokalem und systemischem Rezidiv."
+    "correct": 1,
+    "tip": "Die Positivitätsrate steigt stufenweise mit dem PSA-Wert und erreicht erst ab 2 ng/ml nahezu alle Patienten.",
+    "explanation": "Tabelle 19 (Kapitel 7.1): PSA < 0,2 ng/ml 33 %, 0,2–0,49 ng/ml 45 %, 0,5–0,99 ng/ml 59 %, 1,0–1,99 ng/ml 75 % und ab 2,0 ng/ml 95 % PET-Positivität. Gerade im Bereich der frühen Salvage-RT ist das PET also häufig negativ – ein Grund, die Therapie nicht vom PET-Befund abhängig zu machen."
   },
   {
-    "question": "Was besagt Statement 7.9 (Kapitel 7.2.1) für Patienten mit PSA-Rezidiv und günstigen prognostischen Kriterien (PSA-Verdopplungszeit >12 Monate, Gleason-Score <8)?",
+    "question": "Welche Konstellation entspricht laut Tabelle 20 (EAU-Risikoeinteilung) einem biochemischen Rezidiv mit hohem Risiko?",
     "options": [
-      "Das abwartende Verhalten ist eine Option.",
-      "Eine sofortige Chemotherapie ist in jedem Fall zwingend.",
-      "Eine beidseitige Orchiektomie muss unmittelbar erfolgen.",
-      "Eine Androgendeprivation ist als einzige zugelassene Option vorgesehen."
+      "Nach RPE: PSA-Verdopplungszeit 8 Monate, pathologisch ISUP 2",
+      "Nach RPE: PSA-Verdopplungszeit 20 Monate, pathologisch ISUP 3",
+      "Nach RT: Rezidiv 30 Monate nach Therapie, Biopsie ISUP 3",
+      "Nach RT: Rezidiv 24 Monate nach Therapie, Biopsie ISUP 2"
     ],
     "correct": 0,
-    "tip": "Dies beruht u. a. auf Daten, nach denen die metastasenfreie Überlebensrate nach 15 Jahren bei günstigem Kollektiv bei 82% liegt.",
-    "explanation": "Statement 7.9 stellt fest, dass bei Patienten mit PSA-Rezidiv und günstigen prognostischen Kriterien (PSA-Verdopplungszeit über 12 Monate, Gleason-Score unter 8) das abwartende Verhalten eine Option ist."
+    "tip": "Für das hohe Risiko genügt ein einziges ungünstiges Kriterium – nach Operation und nach Bestrahlung gelten aber unterschiedliche Zeitkriterien.",
+    "explanation": "Tabelle 20: Nach RPE liegt ein Hochrisiko-BCR bei einer PSA-Verdopplungszeit ≤ 1 Jahr oder pathologisch ISUP 4–5 vor; nach Strahlentherapie bei einer Zeit bis zum Rezidiv ≤ 18 Monate oder Biopsie ISUP 4–5. Niedriges Risiko erfordert jeweils beide günstigen Kriterien (PSA-DT > 1 Jahr bzw. Intervall > 18 Monate UND ISUP < 4)."
   },
   {
-    "question": "Welche neue Therapieoption soll laut Empfehlung 7.11 (basierend auf der EMBARK-Studie) Patienten mit high-risk biochemischem Rezidiv angeboten werden?",
+    "question": "Patient nach RPE ohne bisherige Strahlentherapie, biochemisches Hochrisiko-Rezidiv entsprechend den EMBARK-Kriterien, keine Metastasen. Was ist laut Empfehlungen 7.11–7.13 vor einer systemischen Therapie zu tun?",
     "options": [
-      "Enzalutamid als Monotherapie oder in Kombination mit einer Androgendeprivationstherapie.",
-      "Ausschließlich eine Chemotherapie mit Cabazitaxel.",
-      "Ausschließlich eine sofortige Zystektomie.",
-      "Eine alleinige Beobachtung ohne jede medikamentöse Therapie."
+      "Sofortiger Beginn von Enzalutamid plus ADT (Empfehlungsgrad A)",
+      "Vorab Diskussion einer potenziell kurativen Salvage-Strahlentherapie",
+      "Enzalutamid kombiniert mit ADT, da die Monotherapie dem MFS nicht nützte",
+      "ADT-Monotherapie als etablierte Standardtherapie des PSA-Rezidivs"
     ],
-    "correct": 0,
-    "tip": "Vor Therapieeinleitung sollen die Patienten laut Empfehlung 7.12 über Vor- und Nachteile der Mono- bzw. Kombinationstherapie aufgeklärt werden.",
-    "explanation": "Empfehlung 7.11 fordert, dass Patienten mit high-risk biochemischem Rezidiv nach der EMBARK-Studie Enzalutamid als Monotherapie oder in Kombination mit einer Androgendeprivationstherapie angeboten werden sollte."
+    "correct": 1,
+    "tip": "EMBARK führte zur Zulassung bei Patienten, die für eine bestimmte lokale Therapie nicht geeignet sind.",
+    "explanation": "Empfehlung 7.13 (Grad A): Mit Patienten ohne vorherige Strahlentherapie soll zuvor eine potenziell kurative Strahlentherapie diskutiert werden. Danach sollte Enzalutamid als Monotherapie oder mit ADT angeboten werden (Empfehlung 7.11, Grad B), nach Aufklärung über Vor- und Nachteile (7.12); in EMBARK verbesserten beide Arme das MFS (HR 0,42 bzw. 0,63). Die Hormontherapie allein ist beim PSA-Rezidiv keine Standardtherapie (Statement 7.10)."
   },
   {
-    "question": "Mit welcher Mindestdosis soll laut Empfehlung 7.14 die perkutane Salvage-Strahlentherapie (SRT) nach radikaler Prostatektomie bei PSA-Anstieg aus dem Nullbereich erfolgen?",
+    "question": "Welche Gesamtdosis empfiehlt die Leitlinie für die perkutane Salvage-Strahlentherapie nach radikaler Prostatektomie bei PSA-Anstieg aus dem Nullbereich (pN0/Nx)?",
     "options": [
-      "Mindestens 66 Gy.",
-      "Mindestens 20 Gy.",
-      "Mindestens 150 Gy.",
-      "Eine Mindestdosis ist nicht festgelegt."
+      "mindestens 60 Gy",
+      "mindestens 64 Gy",
+      "mindestens 66 Gy",
+      "mindestens 70 Gy"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt für Patienten in der Kategorie pN0/NX.",
-    "explanation": "Empfehlung 7.14 fordert, dass die perkutane Salvage-Strahlentherapie mit mindestens 66 Gy als Therapieoption nach radikaler Prostatektomie bei PSA-Anstieg aus dem Nullbereich angeboten werden soll."
+    "correct": 2,
+    "tip": "Die Mindestdosis orientiert sich an retrospektiven Serien und den Dosierungen der RTOG- und GETUG-Studien.",
+    "explanation": "Empfehlung 7.14 (Empfehlungsgrad A, LoE 2++): Die SRT mit mindestens 66 Gy soll bei PSA-Anstieg aus dem Nullbereich (pN0/Nx) angeboten werden. 60 Gy war die Dosis der frühen Adjuvanz-Studien, 64,8 Gy die etwas niedriger spezifizierte Dosis von RTOG 96-02; 64 vs. 70 Gy wird derzeit in einer Phase-III-Studie geprüft."
   },
   {
-    "question": "Was fordert Empfehlung 7.16 bei Patienten mit ungünstigen prognostischen Kriterien (PSA-Verdopplungszeit <12 Monate, Gleason 8-10) zusätzlich zur perkutanen Salvage-Strahlentherapie?",
+    "question": "Nach RPE (pT3b pN0, ISUP 3) steigt das PSA aus dem Nullbereich an und liegt vor der geplanten Salvage-Strahlentherapie bei 0,9 ng/ml. Was soll laut Leitlinie angeboten werden?",
     "options": [
-      "Eine Kombination mit einer Androgendeprivationstherapie (ADT).",
-      "Den vollständigen Verzicht auf jede weitere Therapie.",
-      "Eine erneute radikale Prostatektomie.",
-      "Eine alleinige Beobachtung ohne Bestrahlung."
+      "SRT allein, da eine ADT erst ab einem PSA über 1,0 ng/ml angezeigt ist",
+      "SRT plus Enzalutamid-Monotherapie analog der EMBARK-Studie",
+      "SRT plus ADT oder Bicalutamid, da das PSA über 0,7 ng/ml liegt",
+      "SRT allein, da eine ADT nur bei Verdopplungszeit unter 3 Monaten nützt"
     ],
-    "correct": 0,
-    "tip": "Die Dauer dieser ADT kann sich laut Empfehlung 7.17 am Progressionsrisiko orientieren (6 bzw. 24 Monate).",
-    "explanation": "Empfehlung 7.16 fordert, dass die perkutane Salvage-Strahlentherapie in Kombination mit einer Androgendeprivationstherapie bei Patienten mit ungünstigen prognostischen Kriterien angeboten werden soll."
+    "correct": 2,
+    "tip": "Denken Sie an die präspezifizierte Subgruppenanalyse von RTOG 96-02 nach dem PSA-Wert vor Bestrahlung.",
+    "explanation": "Empfehlung 7.15 (Empfehlungsgrad A, LoE 1-): Bei hohem Progressionsrisiko (PSA vor SRT > 0,7 ng/ml) soll zusätzlich eine ADT oder Bicalutamid angeboten werden; in RTOG 96-02 profitierten v. a. diese Patienten, unter 0,6 ng/ml fand sich kein Überlebensvorteil. Die ADT-Dauer kann sich am Risiko orientieren: 24 Monate bei hohem, 6 Monate bei erhöhtem Progressionsrisiko (Empfehlung 7.17, Grad 0)."
   },
   {
-    "question": "Bei welchem PSA-Wert soll laut Empfehlung 7.18a die Salvage-Strahlentherapie möglichst frühzeitig beginnen?",
+    "question": "70-jähriger Patient, 6 Jahre nach primärer perkutaner Strahlentherapie, gesichertes PSA-Rezidiv; die Bildgebung spricht für ein isoliertes Lokalrezidiv ohne Metastasen. Welche Aussage zur lokalen Salvage-Therapie entspricht der Leitlinie?",
     "options": [
-      "Bei einem PSA-Wert vor SRT unter 0,5 ng/ml.",
-      "Erst bei einem PSA-Wert über 20 ng/ml.",
-      "Erst nach Nachweis von Fernmetastasen.",
-      "Ein PSA-Grenzwert spielt für den Zeitpunkt keine Rolle."
+      "Salvage-RPE ohne Biopsie, da das PSMA-PET den Befund ausreichend sichert",
+      "Kryotherapie als empfohlenes Standardverfahren der Salvage-Situation",
+      "Salvage-RPE mit funktionellen Ergebnissen vergleichbar der Primäroperation",
+      "Salvage-RPE nach bioptischer Sicherung, durch erfahrene Operateure"
     ],
-    "correct": 0,
-    "tip": "Bei initialem Stadium pN0 und frühzeitigem Bestrahlungsbeginn sollen laut Empfehlung 7.18b die Lymphabflusswege nicht mitbestrahlt werden.",
-    "explanation": "Empfehlung 7.18a fordert, dass die Salvage-Strahlentherapie möglichst frühzeitig beginnen soll, bei einem PSA-Wert vor SRT unter 0,5 ng/ml."
+    "correct": 3,
+    "tip": "Vorbestrahltes Gewebe verändert sowohl die histologische Beurteilung als auch die operativen Bedingungen.",
+    "explanation": "Statement 7.20: Die Salvageprostatektomie ist eine Option, wenn das Rezidiv mit hoher Wahrscheinlichkeit nicht metastasenbedingt ist; Potenz und Kontinenz sind deutlich schlechter als nach Primäroperation. Vorher sollte eine bioptische Sicherung angestrebt werden (Empfehlung 7.21, Grad B), operieren sollen nur erfahrene Operateure (Statement 7.22); die Kryotherapie wird in der Leitlinie nicht empfohlen."
   }
 ]

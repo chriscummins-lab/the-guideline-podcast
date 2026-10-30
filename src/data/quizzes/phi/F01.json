@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie definiert Empfehlung 1 die Pathologie einer Phimose?",
+    "question": "Wodurch soll laut Empfehlung 1 die Pathologie einer Phimose definiert werden?",
     "options": [
-      "Allein durch das Vorliegen einer Enge der Vorhaut.",
-      "Nicht über das Vorliegen einer Enge per se, sondern nur durch aktuelle oder zeitnah zu erwartende Beschwerden mit Krankheitswert.",
-      "Durch das Lebensalter des Kindes.",
-      "Durch den alleinigen Wunsch der Eltern."
+      "Durch eine fehlende Retrahierbarkeit der Vorhaut nach dem 3. Lebensjahr",
+      "Durch eine Enge, die die atraumatische Retraktion über die Glans verhindert",
+      "Durch aktuelle oder zeitnah zu erwartende Beschwerden mit Krankheitswert",
+      "Durch eine Vorhautenge, die über das Grundschulalter hinaus fortbesteht"
     ],
-    "correct": 1,
-    "tip": "Die physiologische Präputialenge im Kleinkindesalter ist kein pathologischer Zustand.",
-    "explanation": "Die Pathologie soll nicht über das Vorliegen einer Enge per se definiert werden, sondern nur durch aktuelles oder zeitnah zu erwartendes Auftreten von Beschwerden und/oder sekundären Störungen mit Krankheitswert (Empfehlung 1)."
+    "correct": 2,
+    "tip": "Bedenken Sie, dass eine nicht zurückstreifbare Vorhaut im Kindesalter zunächst ein physiologischer Zustand ist.",
+    "explanation": "Laut Empfehlung 1 (9/10) soll die Pathologie nicht über die Enge per se, sondern nur über aktuelle oder zeitnah zu erwartende Beschwerden und/oder sekundäre Störungen mit Krankheitswert definiert werden. Die fehlende atraumatische Retraktion über die Glans beschreibt dagegen nur die Phimose an sich, die im Säuglings- und Kleinkindesalter physiologisch ist (Kapitel 2)."
   },
   {
-    "question": "Wie viele Jungen können im Alter von 10 Jahren die Vorhaut wenigstens weitgehend zurückstreifen?",
+    "question": "Etwa welcher Anteil der 10-jährigen Jungen kann laut Leitlinie das Präputium wenigstens weitgehend zurückstreifen?",
     "options": [
-      "Etwa ein Zehntel.",
-      "Etwa zwei Drittel.",
-      "Praktisch alle Jungen.",
-      "Keiner."
+      "Etwa ein Viertel",
+      "Etwa ein Drittel",
+      "Etwa die Hälfte",
+      "Etwa zwei Drittel"
     ],
-    "correct": 1,
-    "tip": "Selbst mit 13 Jahren besteht bei etwa 8% der Jungen noch eine entwicklungsbedingte Vorhautenge.",
-    "explanation": "Mit 7 Jahren kann etwa die Hälfte, mit 10 Jahren etwa zwei Drittel der Jungen das Präputium wenigstens weitgehend zurückstreifen."
+    "correct": 3,
+    "tip": "Die Weitung der Vorhaut ist ein langsamer Reifungsprozess, der sich bis zum Abschluss der Pubertät erstreckt.",
+    "explanation": "Nach Kapitel 3 kann mit sieben Jahren etwa die Hälfte, mit zehn Jahren etwa zwei Drittel der Jungen die Vorhaut weitgehend zurückstreifen; ein Drittel hat in diesem Alter also noch eine entwicklungsbedingte Enge oder Synechie. Selbst mit 13 Jahren ist bei 8 % noch mit einer entwicklungsbedingten Vorhautenge zu rechnen."
   },
   {
-    "question": "Was sind Smegma-Retentionszysten, und warum werden sie häufig fehlinterpretiert?",
+    "question": "Bei einem beschwerdefreien 3-jährigen Jungen schimmern zwischen Glans und innerem Vorhautblatt weißlich-gelbliche Einschlüsse durch die Haut. Wie ordnet die Leitlinie diesen Befund ein?",
     "options": [
-      "Bösartige Tumoren der Vorhaut, die sofort behandelt werden müssen.",
-      "Ein vorübergehendes, harmloses Entwicklungsphänomen aus Talgdrüsensekret und Zelldebris, das häufig fälschlich als pathologische Phimose bzw. OP-Indikation gedeutet wird.",
-      "Ein sicheres Zeichen einer akuten bakteriellen Infektion.",
-      "Ein sicheres Zeichen für das Vorliegen eines Lichen sclerosus."
+      "Als Frühzeichen eines Lichen sclerosus mit beginnender Plaquebildung",
+      "Als vorübergehende Smegma-Retention im Rahmen der Vorhautablösung",
+      "Als entzündlichen Sekretverhalt im Rahmen einer Balanoposthitis",
+      "Als narbige Einschlüsse nach vorangegangenen Retraktionsversuchen"
     ],
     "correct": 1,
-    "tip": "Sie entstehen im Rahmen der physiologischen Ablösung der Vorhaut von der Glans.",
-    "explanation": "Smegma-Retentionszysten sind ein vorübergehendes, medizinisch harmloses Entwicklungsphänomen, das häufig als pathologische Phimose bzw. Zirkumzisionsindikation fehlgedeutet wird."
+    "tip": "Denken Sie daran, welche Vorgänge sich in diesem Alter zwischen Glans und innerem Vorhautblatt abspielen.",
+    "explanation": "Laut Kapitel 3 entstehen bei der Ablösung der Vorhaut von der Glans häufig Epithel-Talg-Retentionen (Smegma-Retentionszysten) – ein vorübergehendes, medizinisch harmloses Entwicklungsphänomen, das ebenso wie Vorhautverklebungen oft fälschlich als Zirkumzisionsindikation gedeutet wird. Weißliche Narben oder Plaques sprechen dagegen für einen Lichen sclerosus."
   },
   {
-    "question": "Was ist bezüglich forcierter Retraktionsversuche der Vorhaut laut Empfehlung 2 festgelegt?",
+    "question": "Welche Zuordnung von Rezeptortyp und Funktion in der Vorhaut entspricht der Leitlinie?",
     "options": [
-      "Sie werden als Standardtherapie bei jeder Vorhautenge empfohlen.",
-      "Sie sollen unterlassen werden, da sie zu einer narbigen (sekundären) Phimose führen können.",
-      "Sie sollten täglich mehrfach durch die Eltern durchgeführt werden.",
-      "Sie sind nur bei Säuglingen ausdrücklich erlaubt."
+      "Merkel-Körperchen – langsame Druckveränderungen",
+      "Meißner-Tastkörperchen – Vibrationsempfinden",
+      "Vater-Pacini-Körperchen – Schmerzempfinden",
+      "Freie Nervenendigungen – schnelle Druckveränderungen"
     ],
-    "correct": 1,
-    "tip": "Eine sekundäre Phimose entsteht gerade häufig als Folge solcher Verletzungen mit Narbenbildung.",
-    "explanation": "Forcierte Retraktionsversuche sollen unterlassen werden (Empfehlung 2), da sie zu einem narbigen Schnürring und damit einer sekundären Phimose führen können."
+    "correct": 0,
+    "tip": "Die Mechanorezeptoren der Vorhaut unterscheiden sich darin, welche Reizqualität sie bevorzugt erfassen.",
+    "explanation": "Nach Kapitel 3 reagieren Merkel-Körperchen vor allem auf langsame, Meißner-Tastkörperchen auf schnelle Druckveränderungen; Vater-Pacini-Körperchen vermitteln das Vibrations-, freie Nervenendigungen (Nozizeptoren) das Schmerzempfinden. Die Eichel ist im Vergleich zur Vorhaut relativ arm an Tastkörperchen."
   },
   {
-    "question": "Was ist Lichen sclerosus, und in welchem Lebensalter liegt sein Häufigkeitsgipfel bei Jungen?",
+    "question": "Welche Aussage zu Anatomie und Funktion der Vorhaut trifft laut Leitlinie zu?",
     "options": [
-      "Eine harmlose Hautveränderung ohne jeden Krankheitswert, mit Häufigkeitsgipfel im Erwachsenenalter.",
-      "Eine chronisch progrediente, sehr wahrscheinlich autoimmune entzündliche Erkrankung mit Häufigkeitsgipfel um das 7. Lebensjahr.",
-      "Eine rein genetische Erkrankung ohne entzündliche Komponente.",
-      "Eine Erkrankung, die ausschließlich bei erwachsenen Männern vorkommt."
+      "Die Eichel ist im Vergleich zur Vorhaut besonders reich an Tastkörperchen",
+      "Das Ridged Band liegt im äußeren Vorhautblatt nahe dem distalen Vorhautrand",
+      "Die somatosensible Innervation erfolgt überwiegend über den N. genitofemoralis",
+      "Ein mukosaler Gefäßplexus erklärt die eher hohe Nachblutungsrate nach Zirkumzision"
     ],
-    "correct": 1,
-    "tip": "Bei Jungen unter 5 Jahren ist die Erkrankung selten.",
-    "explanation": "Der Lichen sclerosus ist eine chronisch progrediente, lymphozytär vermittelte, sehr wahrscheinlich autoimmune Erkrankung mit einem Häufigkeitsgipfel bei Jungen um das 7. Lebensjahr."
+    "correct": 3,
+    "tip": "Die Vorhaut vereint sensorische, immunologische und vaskuläre Besonderheiten, die teils auch operativ relevant sind.",
+    "explanation": "Kapitel 3 beschreibt einen ausgeprägten Gefäßplexus in der Mucosa, der die vergleichsweise hohe Nachblutungsrate nach Zirkumzisionen erklärt. Das nervenreiche Ridged Band liegt dagegen im inneren Vorhautblatt als Fortsetzung des Frenulums, die Eichel ist relativ arm an Tastkörperchen, und die somatosensible Innervation erfolgt über den dorsalen Penisnerv sowie anteilig über perineale Nerven."
   },
   {
-    "question": "Welcher Anteil der sekundären Phimosen wird auf einen Lichen sclerosus zurückgeführt?",
+    "question": "Was kennzeichnet laut Leitlinie eine sekundäre Phimose?",
     "options": [
-      "Unter 1%.",
-      "Bis zu 80%.",
-      "Genau 50%, nicht mehr und nicht weniger.",
-      "Lichen sclerosus spielt bei der sekundären Phimose keine Rolle."
+      "Fortbestehen der kongenitalen Präputialenge über die Pubertät hinaus",
+      "Kurzes Frenulum, das nach vollständiger Präputialweitung bestehen bleibt",
+      "Narbige Fixierung der Enge, häufig nach Entzündung oder Retraktionstrauma",
+      "Persistierende Verklebung von innerem Vorhautblatt und Glans bis ins Schulalter"
     ],
-    "correct": 1,
-    "tip": "Ätiologisch muss bei jeder sekundären Phimose daher an einen Lichen sclerosus gedacht werden.",
-    "explanation": "Der Lichen sclerosus wird in bis zu 80% für die Ausbildung einer sekundären Phimose verantwortlich gemacht."
+    "correct": 2,
+    "tip": "Primäre und sekundäre Phimose unterscheiden sich vor allem in ihrer Ätiologie und im Gewebebefund.",
+    "explanation": "Nach Kapitel 4.2 ist die sekundäre Phimose eine narbige Fixierung der Präputialenge, häufig nach lokalen Entzündungen oder traumatischen Retraktionsversuchen; ätiologisch ist an einen Lichen sclerosus zu denken (bis zu 80 %). Das Fortbestehen der kongenitalen Enge definiert dagegen die primäre Phimose, das verbleibende kurze Frenulum das Frenulum breve."
   },
   {
-    "question": "Was ist die Therapie der ersten Wahl bei nachgewiesenem Lichen sclerosus?",
+    "question": "Welche Empfehlung leitet die Leitlinie aus der Entstehung sekundärer Phimosen ab?",
     "options": [
-      "Eine sofortige vollständige Zirkumzision ohne vorherigen Therapieversuch.",
-      "Ein hochpotentes Kortikosteroid über drei Monate; bei fehlender kompletter Remission wird eine vollständige Zirkumzision empfohlen.",
-      "Eine rein abwartende Haltung ohne jegliche Therapie.",
-      "Eine systemische Antibiotikatherapie."
+      "Eltern sollen ab dem Kleinkindalter zum regelmäßigen Zurückstreifen angeleitet werden",
+      "Präputiale Verklebungen sollen vor der Einschulung schonend manuell gelöst werden",
+      "Nach einer Balanoposthitis soll eine prophylaktische Steroidsalbe angewendet werden",
+      "Forcierte Retraktionsversuche an der kindlichen Vorhaut sollen unterlassen werden"
     ],
-    "correct": 1,
-    "tip": "Eine Remission wird so in bis zu 75%, eine Heilung in bis zu 50% der Fälle erreicht.",
-    "explanation": "Ein Lichen sclerosus soll behandelt werden (Empfehlung 3); die Behandlung mit einem hochpotenten Kortikosteroid über drei Monate gilt als Therapie der ersten Wahl, bei Versagen wird eine vollständige Zirkumzision empfohlen."
+    "correct": 3,
+    "tip": "Überlegen Sie, wodurch der narbige Schnürring einer erworbenen Vorhautenge häufig ausgelöst wird.",
+    "explanation": "Empfehlung 2 (9/9): Forcierte Retraktionsversuche sollen unterlassen werden, da traumatische Retraktionen neben Entzündungen eine typische Ursache des narbigen Schnürrings sind. Auch eine gewaltsame Lösung physiologischer Verklebungen schädigt laut Kapitel 3 Glans und inneres Vorhautblatt."
   },
   {
-    "question": "Mit welcher Erfolgsrate führt eine vollständige Zirkumzision bei Lichen sclerosus zur Ausheilung?",
+    "question": "In welchem Alter liegt laut Leitlinie der Häufigkeitsgipfel des Lichen sclerosus bei Jungen?",
     "options": [
-      "Unter 10% der Fälle.",
-      "In 90-100% der Fälle.",
-      "Praktisch nie.",
-      "Nur bei erwachsenen Männern."
+      "Bei etwa 5 Jahren",
+      "Bei etwa 7 Jahren",
+      "Bei etwa 10 Jahren",
+      "Bei etwa 13 Jahren"
     ],
     "correct": 1,
-    "tip": "Nach der Zirkumzision wird üblicherweise eine etwa 4-wöchige lokale Steroid-Nachbehandlung empfohlen.",
-    "explanation": "Es ist davon auszugehen, dass in 90-100% der Fälle ein durch vollständige Beschneidung behandelter Lichen sclerosus beim Jungen zur vollständigen Ausheilung führt."
+    "tip": "Die Erkrankung tritt bevorzugt im Kindesalter auf, ist bei sehr jungen Kindern aber selten.",
+    "explanation": "Laut Kapitel 4.2.2.1 liegt der Häufigkeitsgipfel bei Jungen bei 7 Jahren; unter 5 Jahren ist der LS selten, danach kann er in jedem Alter auftreten. Die Inzidenz im Kindesalter wird auf 0,3–1 % geschätzt, bei Jungen und Mädchen vermutlich ähnlich häufig."
   },
   {
-    "question": "Welche Patientengruppe neigt nach Zirkumzision bei Lichen sclerosus besonders zu einem Rezidiv?",
+    "question": "Welcher Verlauf ist laut Leitlinie typisch für einen unbehandelten Lichen sclerosus bei Jungen?",
     "options": [
-      "Untergewichtige Jungen.",
-      "Insbesondere adipöse Jungen.",
-      "Nur Jungen über 15 Jahre.",
-      "Es gibt keine bekannten Risikofaktoren für ein Rezidiv."
+      "Übergreifen auf die Glans mit porzellanartigem Abblassen und Plaquebildung",
+      "Frühe Beteiligung der Urethra mit langstreckiger Harnröhrenstriktur",
+      "Ausgeprägter Juckreiz und Schmerzen bereits in der entzündlichen Frühphase",
+      "Spontane Rückbildung der weißlichen Vernarbung bis zum Ende der Pubertät"
     ],
-    "correct": 1,
-    "tip": "Eine langfristige Nachsorge ist bei diesen Patienten daher besonders ratsam.",
-    "explanation": "Insbesondere adipöse Jungen neigen nach Zirkumzision bei Lichen sclerosus zu einem Rezidiv."
+    "correct": 0,
+    "tip": "Der Lichen sclerosus ist eine chronische Erkrankung, deren Symptomatik sich bei Jungen und Mädchen unterscheidet.",
+    "explanation": "Laut Kapitel 4.2.2.1.2 führt der LS binnen Wochen bis Monaten zu weißlich-derben Vernarbungen und greift unbehandelt auf die Glans über (porzellanartiges Abblassen, Plaques), später droht eine Meatusstenose. Ein Urethrabefall ist bei Knaben sehr selten, und anders als bei Mädchen verursacht der LS bei Jungen zunächst kaum Beschwerden."
   },
   {
-    "question": "Welche Funktionen werden der Vorhaut anatomisch und physiologisch zugeschrieben?",
+    "question": "Welche Aussage zur Therapie des Lichen sclerosus bei Jungen trifft laut Leitlinie zu?",
     "options": [
-      "Keine, sie gilt als rein rudimentäres Gewebe ohne Funktion.",
-      "Schutz- und Sensibilitätsfunktionen durch spezifische Innervation (u.a. das nervenreiche \"Ridged Band\"), eine gute Durchblutung sowie eine immunologische Rolle.",
-      "Ausschließlich eine kosmetische Funktion.",
-      "Eine rein hormonelle Funktion."
+      "Ein hochpotentes Kortikosteroid über drei Monate gilt als Therapie der ersten Wahl",
+      "Ein hochpotentes Kortikosteroid führt in bis zu 90 % der Fälle zur Ausheilung",
+      "Bei unvollständiger Remission ist eine Triple Incision das Verfahren der Wahl",
+      "Bei klinisch eindeutigem Befund ist eine Histologie des Resektats verzichtbar"
     ],
-    "correct": 1,
-    "tip": "Die Eichel selbst ist im Vergleich zur Vorhaut relativ arm an Tastkörperchen.",
-    "explanation": "Das Präputium ist Bestandteil des Körpers mit spezifischer Anatomie und Innervation, die spezielle Schutz- und Sensibilitätsfunktionen widerspiegeln (Statement 1)."
+    "correct": 0,
+    "tip": "Denken Sie an die realistischen Erfolgsraten der Salbe und daran, wie der LS auf vorhauterhaltende Eingriffe reagiert.",
+    "explanation": "Nach Kapitel 4.2.2.1.4 gilt ein hochpotentes Kortikosteroid über drei Monate als Therapie der ersten Wahl (Remission bis 75 %, Heilung bis 50 %); ohne komplette Remission wird eine vollständige Zirkumzision empfohlen, die in 90–100 % zur Ausheilung führt. Vorhauterhaltende Verfahren scheiden bei LS wegen des Rückfallrisikos aus, und die histologische Aufarbeitung ist immer erforderlich."
   }
 ]

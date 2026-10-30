@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was fordert die Konsensbasierte Empfehlung in Kapitel 8.1 beim Auftreten von Metastasen eines Nierenzellkarzinoms?",
+    "question": "Ein 58-jähriger Patient (ECOG 0) hat ein klarzelliges NZK mit synchronen Lungenmetastasen; der Primärtumor ist gut resektabel. Was empfiehlt die Leitlinie zur Entfernung des Primärtumors?",
     "options": [
-      "Das weitere Procedere sollte interdisziplinär diskutiert werden.",
-      "Es soll ausschließlich der behandelnde Urologe allein entscheiden.",
-      "Jede Metastasierung erfordert sofort eine Systemtherapie ohne weitere Diskussion.",
-      "Eine interdisziplinäre Diskussion ist nur bei synchroner Metastasierung vorgesehen."
+      "Operative Entfernung kann erwogen werden (Empfehlungsgrad 0)",
+      "Operative Entfernung soll erfolgen (Empfehlungsgrad A)",
+      "Verzicht zugunsten alleiniger Systemtherapie (Empfehlungsgrad B)",
+      "Operative Entfernung sollte erfolgen (Empfehlungsgrad B)"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung bildet die Grundlage für alle weiteren, spezifischeren Empfehlungen dieses Kapitels.",
-    "explanation": "Kapitel 8.1 fordert, dass beim Auftreten von Metastasen das weitere Procedere interdisziplinär diskutiert werden sollte."
+    "correct": 3,
+    "tip": "Die stärkste Evidenz stammt aus der Zytokinära; für die Ära der zielgerichteten Therapie liegen überwiegend retrospektive Daten vor.",
+    "explanation": "Empfehlung 8.2 (Empfehlungsgrad B; LoE 1++ für Zytokin-, 3 für Target-basierte Studien): Bei synchron metastasierten Patienten mit ECOG 0–1 sollte der Primärtumor operativ entfernt werden. Grundlage sind v. a. SWOG 8949 und EORTC 30947 (Metaanalyse: medianes Überleben 13,6 vs. 7,8 Monate unter IFN-α), wobei der Performance Status prognostisch entscheidend war."
   },
   {
-    "question": "Was empfiehlt Empfehlung 8.2 (Empfehlungsgrad B) bei synchron metastasierten Patienten mit gutem Performance Status (ECOG 0-1)?",
+    "question": "Ein 64-jähriger Patient entwickelt 4 Jahre nach Nephrektomie eine solitäre, vollständig resektable Lungenmetastase. Welche Position vertritt das Sondervotum von DEGRO und BVDST zu Empfehlung 8.3?",
     "options": [
-      "Der Primärtumor sollte operativ entfernt werden.",
-      "Eine Operation ist in dieser Situation grundsätzlich kontraindiziert.",
-      "Es soll ausschließlich eine Systemtherapie ohne jede Operation erfolgen.",
-      "Eine Operation kommt nur bei ECOG 2-4 in Betracht."
+      "Stereotaxie/Radiochirurgie als gleichwertige kurative Alternative zur OP",
+      "Stereotaxie/Radiochirurgie als palliative Option bei Inoperabilität",
+      "Operation als überlegene Option, da höhere Evidenz für die Chirurgie vorliegt",
+      "Stereotaxie/Radiochirurgie erst nach Versagen einer Systemtherapie"
     ],
     "correct": 0,
-    "tip": "Diese Empfehlung basiert unter anderem auf zwei randomisierten Studien aus der Zytokin-Ära.",
-    "explanation": "Empfehlung 8.2 sieht mit Empfehlungsgrad B vor, dass bei synchron metastasierten Patienten mit gutem Performance Status (ECOG 0-1) der Primärtumor operativ entfernt werden sollte."
+    "tip": "Das Sondervotum bezieht sich auf den zweiten Teilsatz der Empfehlung, der die Operation hervorhebt.",
+    "explanation": "Empfehlung 8.3 (Empfehlungsgrad B): Bei metachroner Metastasierung sollten solitäre Befunde lokal therapiert und bei kurativer Intention und kompletter Resektabilität unabhängig vom Organsystem eine Operation erwogen werden. DEGRO und BVDST sehen im Sondervotum die kurativ intendierte Stereotaxie/Radiochirurgie als gleichwertige Alternative, da das Evidenzniveau für Chirurgie und kurativ intendierte Strahlentherapie identisch ist."
   },
   {
-    "question": "Welches mediane Gesamtüberleben zeigte die SWOG8949-Studie von Flanigan et al. (Kapitel 8.1) für Nephrektomie plus IFN-alpha im Vergleich zu alleiniger IFN-alpha-Therapie?",
+    "question": "Ein 71-jähriger Patient mit metachroner Oligometastasierung der Lunge ist wegen schwerer COPD nicht operabel. Was empfiehlt die Leitlinie?",
     "options": [
-      "11,1 vs. 8,1 Monate zugunsten der Kombination aus Nephrektomie und IFN-alpha.",
-      "Kein Unterschied zwischen beiden Behandlungsarmen.",
-      "8,1 vs. 11,1 Monate zugunsten der alleinigen IFN-alpha-Therapie.",
-      "25,4 vs. 11 Monate zugunsten der Kombination."
+      "Systemtherapie allein, da lokale Verfahren hier nicht vorgesehen sind",
+      "Inkomplette Resektion zur Tumormassenreduktion mit adjuvanter Radiatio",
+      "Hochdosierte Radiotherapie oder Stereotaxie nach individueller Abwägung",
+      "Konventionell fraktionierte palliative Bestrahlung mit 10 × 3 Gy"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich war das Vorhandensein alleiniger Lungenmetastasen und ein guter Performance Status (ECOG 0) prognostisch günstig.",
-    "explanation": "In der Studie von Flanigan et al. (SWOG8949) war das mediane Gesamtüberleben im Arm Nephrektomie + IFN-alpha mit 11,1 Monaten signifikant länger als im Arm mit alleiniger IFN-alpha-Gabe (8,1 Monate)."
+    "correct": 2,
+    "tip": "Die günstigen Prognosefaktoren der Metastasektomie rechtfertigen auch andere lokale Verfahren mit hoher lokaler Kontrolle.",
+    "explanation": "Empfehlung 8.5 (EK): Bei Oligometastasierung in einem Organsystem und nicht komplett resektablen Metastasen oder Inoperabilität sollte eine hochdosierte externe Radiotherapie oder eine Radiochirurgie/stereotaktische Radiotherapie erfolgen; Morbidität und ein eventueller Überlebensvorteil sollen individuell besprochen werden. Die Körperstereotaxie erreicht laut Hintergrund lokale Kontrollraten um 90 % bei geringer Toxizität."
   },
   {
-    "question": "Wie veränderte sich das geschätzte mediane Überleben in der EORTC30947-Studie von Mickisch et al. (Kapitel 8.1) durch die Kombination aus Nephrektomie und IFN-alpha gegenüber alleiniger IFN-alpha-Gabe?",
+    "question": "Für welche Konstellation bezeichnet die Leitlinie den Stellenwert einer lokalen Metastasentherapie als unklar?",
     "options": [
-      "Verbesserung von 7 auf 17 Monate.",
-      "Verschlechterung von 17 auf 7 Monate.",
-      "Keine Veränderung, beide Arme zeigten 11 Monate.",
-      "Verbesserung von 3 auf 5 Monate."
+      "Synchrone oder metachrone Metastasen in mehreren Organsystemen",
+      "Mehrere metachrone Metastasen innerhalb eines einzigen Organsystems",
+      "Solitäre metachrone Metastase bei kompletter Resektabilität",
+      "Oligometastasen eines Organsystems bei Inoperabilität"
     ],
     "correct": 0,
-    "tip": "Die objektive Ansprechrate unterschied sich dabei nicht signifikant zwischen den beiden Studienarmen.",
-    "explanation": "In der Studie von Mickisch et al. (EORTC30947) verbesserte sich das geschätzte mediane Überleben für den Nephrektomie + IFN-alpha-Arm von 7 auf 17 Monate (p=0,03)."
+    "tip": "Die Leitlinie unterscheidet nach Zeitpunkt, Zahl der Metastasen und Zahl der betroffenen Organsysteme.",
+    "explanation": "Statement 8.7 (LoE 3): Der Stellenwert der lokalen Therapie bei synchroner oder metachroner Metastasierung in mehreren Organsystemen ist unklar. Treten dagegen metachron mehrere Metastasen in einem Organsystem auf, sollte eine lokale Behandlung geprüft werden (Empfehlung 8.6, Grad B); solitäre metachrone Befunde sollten lokal therapiert werden (8.3)."
   },
   {
-    "question": "Welches Ergebnis zeigte die Meta-Analyse beider randomisierter Studien (Flanigan und Mickisch) zum medianen Gesamtüberleben bei zytoreduktiver Nephrektomie plus IFN-alpha?",
+    "question": "Welches operative Vorgehen empfiehlt die Leitlinie für resektable Lungenmetastasen eines Nierenzellkarzinoms?",
     "options": [
-      "13,6 Monate vs. 7,8 Monate (HR 0,69) zugunsten der Kombination.",
-      "Kein signifikanter Unterschied zwischen beiden Behandlungsarmen.",
-      "7,8 Monate vs. 13,6 Monate zugunsten der alleinigen IFN-alpha-Therapie.",
-      "20 Monate vs. 20 Monate, exakt identisch in beiden Armen."
+      "Thorakoskopische Keilresektion als Standard, ohne Lymphknotendissektion",
+      "Lobektomie als Standardeingriff mit systematischer Lymphknotendissektion",
+      "Offene Resektion mit Lungenpalpation und systematischer Lymphknotendissektion",
+      "Offene Resektion mit Palpation, Lymphknotensampling bei auffälligem PET-CT"
     ],
-    "correct": 0,
-    "tip": "In dieser gepoolten Analyse war zusätzlich der Performance Status, nicht aber die Metastasenlokalisation, prognostisch signifikant.",
-    "explanation": "Die Meta-Analyse beider Studien ergab ein medianes Gesamtüberleben von 13,6 Monaten vs. 7,8 Monaten (HR 0,69; 95%-CI 0,55-0,87; p=0,002) zugunsten der Kombination aus Nephrektomie und IFN-alpha."
+    "correct": 2,
+    "tip": "Denken Sie an die Sensitivität der präoperativen Bildgebung und an die Prognosefaktoren nach Lungenmetastasektomie.",
+    "explanation": "Empfehlungen 8.8 und 8.9 (jeweils Grad B): Resektable Lungenmetastasen sollten wegen häufiger lymphogener Metastasierung mit systematischer Lymphknotendissektion und offen mit Lungenpalpation reseziert werden – die Palpation fand bei 22 % zusätzliche, im Spiral-CT nicht sichtbare Herde. Die Resektion erfolgt parenchymsparend (5–10 mm Sicherheitsabstand), eine Lobektomie ist als Standardeingriff ungeeignet; die VATS kann bei kleinen, singulären, günstig gelegenen Herden oder diagnostisch erfolgen (8.10, Grad 0)."
   },
   {
-    "question": "Was empfehlen die Empfehlungen 8.3/8.4 (Kapitel 8.2, Empfehlungsgrad B) bei metachroner Metastasierung mit solitären Befunden?",
+    "question": "Initial nicht resektable Lungenmetastasen zeigen unter zielgerichteter Systemtherapie eine deutliche Remission. Was sagt die Leitlinie zu einer sekundären Resektion?",
     "options": [
-      "Solitäre Befunde sollten lokal therapiert werden; bei kurativer Intention und kompletter Resektabilität sollte unabhängig vom Organsystem eine Operation erwogen werden.",
-      "Solitäre Befunde sollen grundsätzlich nur beobachtet werden.",
-      "Eine lokale Therapie ist bei metachroner Metastasierung generell kontraindiziert.",
-      "Es soll ausschließlich eine Systemtherapie ohne lokale Komponente erfolgen."
+      "Sie soll ab einer partiellen Remission erfolgen (Empfehlungsgrad A)",
+      "Sie sollte unterbleiben, solange die Systemtherapie wirkt (Empfehlungsgrad B)",
+      "Sie kann auch als R1-Resektion zur Tumorlastreduktion erfolgen (Expertenkonsens)",
+      "Sie kann erfolgen, wenn eine R0-Resektion zu erwarten ist (Expertenkonsens)"
     ],
-    "correct": 0,
-    "tip": "Zu Hirnmetastasen gibt es eine eigene, gesonderte Empfehlung.",
-    "explanation": "Empfehlungen 8.3 und 8.4 sehen vor, dass bei metachroner Metastasierung solitäre Befunde lokal therapiert werden sollten, wobei bei kurativer Intention und kompletter Resektabilität unabhängig vom Organsystem eine Operation erwogen werden sollte."
+    "correct": 3,
+    "tip": "Achten Sie auf die Empfehlungsstärke und auf die Bedingung, an die die Empfehlung geknüpft ist.",
+    "explanation": "Empfehlung 8.11 (EK): Eine sekundäre Resektion von Lungenmetastasen nach zielgerichteter Systemtherapie kann erfolgen, wenn dann eine R0-Resektion zu erwarten ist. Laut Hintergrund liegt das 5-Jahres-Gesamtüberleben nach R0-Resektion bei 41–45 %, nach R1/R2-Resektion bei 0–22 %."
   },
   {
-    "question": "Welche Therapieoption nennt Empfehlung 8.5 bei Oligometastasierung in einem Organsystem mit nicht komplett resektablen Metastasen oder Inoperabilität des Patienten?",
+    "question": "Ein 59-jähriger Patient mit NZK (KPS 90 %) hat zwei Hirnmetastasen von je unter 3 cm; extrakraniell besteht keine progrediente Tumoraktivität. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine hochdosierte externe Radiotherapie oder eine Radiochirurgie/stereotaktische Radiotherapie.",
-      "Ausschließlich eine palliative Chemotherapie.",
-      "Eine systemische Zytokintherapie ohne jede Lokaltherapie.",
-      "Eine Watch-and-Wait-Strategie ohne jede weitere Diagnostik."
+      "Ganzhirnbestrahlung mit 10 × 3 Gy als alleinige Lokaltherapie",
+      "Radiochirurgie mit anschließender konsolidierender Ganzhirnbestrahlung",
+      "Radiochirurgie bzw. Stereotaxie ohne anschließende Ganzhirnbestrahlung",
+      "Resektion beider Herde mit anschließender Ganzhirnbestrahlung"
     ],
-    "correct": 0,
-    "tip": "Hierbei soll mit dem Patienten die Morbidität der Radiotherapie und ein eventueller Überlebensvorteil individuell abgewogen werden.",
-    "explanation": "Empfehlung 8.5 sieht bei Oligometastasierung in einem Organsystem mit nicht komplett resektablen Metastasen oder Inoperabilität eine hochdosierte externe Radiotherapie oder eine Radiochirurgie/stereotaktische Radiotherapie vor."
+    "correct": 2,
+    "tip": "Wägen Sie lokale Kontrolle und neue Hirnmetastasen gegen Gesamtüberleben und Neurokognition ab.",
+    "explanation": "Empfehlung 8.13 (Empfehlungsgrad A): Bei limitierter Hirnmetastasierung und günstigem Risikoprofil (keine progressive extrakranielle Tumoraktivität) soll eine Radiochirurgie/stereotaktische Radiotherapie ohne anschließende Ganzhirnbestrahlung erfolgen; die WBRT sollte erst als Salvage-Therapie bei multiplen Hirnmetastasen eingesetzt werden. Eine zusätzliche WBRT verbessert zwar die lokale Kontrolle, verlängert aber nicht das Überleben und verschlechtert die Neurokognition."
   },
   {
-    "question": "Wie bewertet Statement 8.7 den Stellenwert der lokalen Therapie bei synchroner oder metachroner Metastasierung in MEHREREN Organsystemen?",
+    "question": "Ein Patient unter TKI-Therapie mit ausgedehnter extrazerebraler Metastasierung soll wegen einer neuen Hirnmetastase radiochirurgisch behandelt werden. Welche Aussage trifft laut Leitlinie zu?",
     "options": [
-      "Der Stellenwert ist unklar.",
-      "Lokale Therapie ist in diesem Fall klar etablierter Standard.",
-      "Lokale Therapie ist in diesem Fall ausdrücklich kontraindiziert.",
-      "Es liegen hierzu randomisierte Phase-III-Daten mit klarem Ergebnis vor."
+      "Der TKI muss mindestens zwei Wochen vor der Radiochirurgie pausiert werden",
+      "Der TKI kann bei hohem extrazerebralem Tumordruck weitergeführt werden",
+      "Der TKI erhöht unter Radiochirurgie die Rate höhergradiger Blutungen deutlich",
+      "Der TKI wirkt synergistisch und soll deshalb simultan gegeben werden"
     ],
-    "correct": 0,
-    "tip": "Im Gegensatz dazu gibt es für die Oligometastasierung in nur einem Organsystem konkretere Empfehlungen.",
-    "explanation": "Statement 8.7 stellt fest, dass der Stellenwert der lokalen Therapie bei synchroner oder metachroner Metastasierung in mehreren Organsystemen unklar ist."
+    "correct": 1,
+    "tip": "Überlegen Sie, was im Vordergrund steht: die zerebrale oder die extrazerebrale Tumorlast.",
+    "explanation": "Laut Kapitel 8.3.3 gibt es keine eindeutigen Hinweise auf synergistische Effekte einer simultanen TKI- und Strahlentherapie, aber auch keine gesteigerte Toxizität. Bei hohem Druck durch extrazerebrale Metastasierung kann der TKI daher ohne Unterbrechung weitergeführt werden; steht die Hirnmetastasierung im Vordergrund, kann die Systemtherapie für die lokale Bestrahlung pausiert werden."
   },
   {
-    "question": "Welches 5-Jahres-Überleben beschrieben Kavolius et al. (Kapitel 8.2) nach kompletter Metastasenresektion im Vergleich zu inkompletter Resektion bzw. nicht-operativen Maßnahmen?",
+    "question": "Bei einem Patienten wurde eine solitäre metachrone Femurmetastase eines NZK operativ entfernt. Welche Maßnahme sollte laut Leitlinie folgen?",
     "options": [
-      "44 % (komplett) vs. 14 % (inkomplett) vs. 11 % (nicht-operativ).",
-      "90 % (komplett) vs. 85 % (inkomplett) vs. 80 % (nicht-operativ).",
-      "Kein Unterschied zwischen den drei Gruppen.",
-      "11 % (komplett) vs. 44 % (inkomplett) vs. 14 % (nicht-operativ)."
+      "Keine weitere Lokaltherapie, wenn eine marginale Resektion gelang",
+      "Postoperative Bestrahlung wegen möglicher Tumorzellkontamination",
+      "Adjuvante Bisphosphonattherapie anstelle einer Bestrahlung",
+      "Abwartende Verlaufskontrolle und Bestrahlung erst bei Lokalrezidiv"
     ],
-    "correct": 0,
-    "tip": "Prognostisch signifikant waren zudem ein krankheitsfreies Intervall über 12 Monate, eine solitäre Metastase und ein Alter unter 60 Jahren.",
-    "explanation": "Kavolius et al. berichteten ein 5-Jahres-Überleben von 44 % nach kompletter Metastasenresektion, 14 % nach inkompletter Resektion und 11 % nach rein nicht-operativen Maßnahmen."
+    "correct": 1,
+    "tip": "Bedenken Sie, wie oft am Knochen tatsächlich weit im Gesunden reseziert werden kann.",
+    "explanation": "Laut Kapitel 8.3.2 sollte nach operativer Entfernung von Knochenmetastasen wegen möglicher Kontamination des Operationsgebietes und häufig inkompletter Resektion eine postoperative Radiotherapie folgen. Eine weite Resektion verbessert die Prognose erheblich (5-Jahres-Überleben nach kompletter Resektion einer solitären Knochenmetastase 35 %) und vermeidet Lokalrezidive mit Versagen der Osteosynthese."
   },
   {
-    "question": "Welchen Anteil an kompletten Resektionen und welches 5-Jahres-Überleben beschrieben Kierney et al. (Kapitel 8.2) bei 41 Patienten mit metachroner Metastasierung?",
+    "question": "Welche Aussage zur Resektion von Lebermetastasen des Nierenzellkarzinoms trifft laut Hintergrundtext der Leitlinie zu?",
     "options": [
-      "88 % komplette Resektionen, 5-Jahres-Überleben von 31 %.",
-      "20 % komplette Resektionen, 5-Jahres-Überleben von 5 %.",
-      "100 % komplette Resektionen, 5-Jahres-Überleben von 90 %.",
-      "50 % komplette Resektionen, 5-Jahres-Überleben von 60 %."
+      "Synchrone Lebermetastasen profitieren am stärksten von der Resektion",
+      "Der Resektionsstatus (R0 vs. R1) war prognostisch ohne Bedeutung",
+      "Lebermetastasen treten meist isoliert auf und sind oft resektabel",
+      "Metachrones Auftreten und R0-Resektion waren prognostisch günstig"
     ],
-    "correct": 0,
-    "tip": "Über die Hälfte der komplett resezierten Patienten hatte dabei nur eine einzige solitäre Metastase.",
-    "explanation": "Kierney et al. berichteten bei 41 Patienten mit metachroner Metastasierung eine komplette Resektion in 88 % der Fälle (36/41) mit einem 1-, 3- und 5-Jahres-Überleben von 77 %, 59 % und 31 %."
+    "correct": 3,
+    "tip": "Vergleichen Sie die Ergebnisse von Thelen et al., der niederländischen Serie und Staehler et al.",
+    "explanation": "Laut Kapitel 8.3.4 waren in einer niederländischen Serie (n=33) metachrones Auftreten und R0-Resektion prognostisch günstig; bei Thelen et al. waren freie Resektionsränder der einzige signifikante Prognosefaktor. Lebermetastasen kommen selten isoliert vor, und in der Serie von Staehler et al. profitierten Patienten mit synchroner Metastasierung nicht von der Resektion."
   }
 ]

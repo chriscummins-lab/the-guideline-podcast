@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Kriterien definieren laut der NCCN-Risikoeinteilung (Kapitel 4.3) das niedrige Risiko eines Prostatakarzinoms?",
+    "question": "Welche Zuordnung entspricht der in Kapitel 4.3 beschriebenen UICC-basierten Stadieneinteilung?",
     "options": [
-      "cT1-cT2a, ISUP-Grad 1 und PSA <10 ng/mL (bei Nichterfüllung der Kriterien für sehr niedriges Risiko).",
-      "cT3-cT4, ISUP-Grad 4-5 und PSA >40 ng/mL.",
-      "Ausschließlich ein PSA-Wert unter 1 ng/mL, unabhängig von T-Kategorie und Grading.",
-      "Mindestens 50% positive Biopsiezylinder, unabhängig vom ISUP-Grad."
+      "cT2c cN0 cM0 – lokal fortgeschrittenes Prostatakarzinom",
+      "cT3a cN0 cM1a – lokal fortgeschrittenes Prostatakarzinom",
+      "cT4 cN0 cM0 – regional metastasiertes Prostatakarzinom",
+      "cT2a cN1 cM0 – regional metastasiertes Prostatakarzinom"
     ],
-    "correct": 0,
-    "tip": "Für ein 'sehr niedriges Risiko' müssen zusätzliche, strengere Kriterien wie <3 positive Zylinder und PSA-Dichte <0,15 ng/mL/g erfüllt sein.",
-    "explanation": "Die NCCN-Risikoeinteilung definiert das niedrige Risiko durch cT1-cT2a, ISUP-Grad 1 und PSA unter 10 ng/mL, sofern nicht bereits die strengeren Kriterien eines sehr niedrigen Risikos erfüllt sind."
+    "correct": 3,
+    "tip": "Prüfen Sie zuerst den N- und M-Status, erst danach die T-Kategorie.",
+    "explanation": "Laut Kapitel 4.3 sind T1–2 N0 M0 lokal begrenzt, T3–4 N0 M0 lokal fortgeschritten und N1 und/oder M1 regional bzw. fern metastasiert. cT2c N0 M0 ist damit lokal begrenzt, cT4 N0 M0 lokal fortgeschritten."
   },
   {
-    "question": "Welche Kriterien kennzeichnen laut Kapitel 4.3 das hohe Risiko (im Gegensatz zum sehr hohen Risiko) nach NCCN-Klassifikation?",
+    "question": "Ein Patient hat ein cT2c-Prostatakarzinom mit ISUP-Grad 2 und PSA 8 ng/ml. Wie wird er nach den in Kapitel 4.3 dargestellten Klassifikationen eingestuft?",
     "options": [
-      "Erfüllung von 1 Hochrisikofaktor (cT3-cT4 oder ISUP-Grad 4/5 oder PSA >20 ng/mL), aber nicht die Kriterien für sehr hohes Risiko.",
-      "Erfüllung von mindestens 3 Hochrisikofaktoren gleichzeitig.",
-      "Ausschließlich ein PSA-Wert über 100 ng/mL.",
-      "Ausschließlich das Vorliegen von Fernmetastasen."
+      "D'Amico: intermediär – NCCN: intermediär – EAU: Hochrisiko",
+      "D'Amico: Hochrisiko – NCCN: intermediär – EAU: Hochrisiko",
+      "D'Amico: Hochrisiko – NCCN: Hochrisiko – EAU: intermediär",
+      "D'Amico: intermediär – NCCN: Hochrisiko – EAU: Hochrisiko"
     ],
-    "correct": 0,
-    "tip": "Für das sehr hohe Risiko müssen dagegen mindestens zwei dieser Kriterien gleichzeitig erfüllt sein.",
-    "explanation": "Die Kategorie 'Hoch' ist laut Kapitel 4.3 erfüllt, wenn ein Hochrisikofaktor (cT3-cT4, ISUP-Grad 4 oder 5, oder PSA über 20 ng/mL) vorliegt, aber nicht die strengeren Kriterien für ein sehr hohes Risiko."
+    "correct": 1,
+    "tip": "An der Bewertung eines beidseitigen Tastbefunds scheiden sich die Klassifikationen.",
+    "explanation": "Laut Kapitel 4.3 (Tabellen 9–11) wird cT2c bei D'Amico und EAU als Hochrisiko, nach NCCN dagegen als intermediäres Risiko eingestuft; mit ISUP 2 liegen hier zwei intermediäre Risikofaktoren vor (ungünstig intermediär)."
   },
   {
-    "question": "Welche Kriterien definieren laut Kapitel 4.3 das sehr hohe Risiko nach NCCN-Klassifikation?",
+    "question": "Ein Patient mit nicht palpablem ISUP-3-Tumor (cT1c) und PSA 16 ng/ml zeigt in der MRT eine kleinvolumige Samenblaseninfiltration (cT3b). Welche Konsequenz leitet die Leitlinie aus diesem Beispiel ab?",
     "options": [
-      "Erfüllung von mindestens zwei der Kriterien cT3-cT4, ISUP-Grad 4 oder 5, PSA >40 ng/mL.",
-      "Ein einzelner erfüllter Risikofaktor reicht bereits für die Einstufung als sehr hohes Risiko aus.",
-      "Ausschließlich das Alter des Patienten über 80 Jahre.",
-      "Es gibt keine Kategorie 'sehr hohes Risiko' in der NCCN-Klassifikation."
+      "Einteilung nach D'Amico beibehalten und ADT über 4–6 Monate festlegen",
+      "MRT-Befund als cT3b werten und ADT über 24–36 Monate festlegen",
+      "Risikofaktoren im Tumorboard individuell gewichten, Klassifikationsbasis angeben",
+      "Einteilung nach CPG verbindlich als Therapiegrundlage übernehmen"
     ],
-    "correct": 0,
-    "tip": "Diese Kombination mehrerer schwerer Risikofaktoren unterscheidet das sehr hohe vom hohen Risiko.",
-    "explanation": "Die Kategorie 'Sehr hoch' erfordert laut Kapitel 4.3 die Erfüllung von mindestens zwei der Kriterien cT3-cT4, ISUP-Grad 4 oder 5 und PSA über 40 ng/mL."
+    "correct": 2,
+    "tip": "Es ist ungeklärt, ob eine im MRT gesehene, kleinvolumige Samenblaseninfiltration die deutlich aggressivere Therapie erfordert.",
+    "explanation": "Laut Kapitel 4.3 ist unbekannt, ob die MRT-bedingte Stadienmigration (NCCN high risk bzw. EAU lokal fortgeschritten) eine 24–36-monatige statt der 4–6-monatigen ADT erfordert; daher sollen die Risikofaktoren im interdisziplinären Tumorboard individuell gewichtet werden. Die Basis der Klassifikation und die Art der Stagingbildgebung sind anzugeben."
   },
   {
-    "question": "Wie wird das intermediäre Risiko laut Kapitel 4.3 (Hintergrund zu Empfehlung 4.40-4.44) in der aktuellen Leitlinienversion differenziert?",
+    "question": "Welche Konstellation erfüllt die NCCN-Kriterien für ein sehr hohes Risiko (very high risk) laut Tabelle 10?",
     "options": [
-      "Es wird nuanciert in ein günstiges und ein ungünstiges intermediäres Risiko unterteilt, da diese Subgruppen unterschiedlich mit dem Metastasierungsrisiko korrelieren.",
-      "Das intermediäre Risiko wurde komplett aus der Klassifikation gestrichen.",
-      "Das intermediäre Risiko wird nun mit dem niedrigen Risiko zusammengefasst.",
-      "Es gibt keine weitere Unterteilung, alle intermediären Fälle werden identisch behandelt."
+      "cT3a, ISUP-Grad 4, PSA 12 ng/ml",
+      "cT2c, ISUP-Grad 5, PSA 18 ng/ml",
+      "cT3b, ISUP-Grad 3, PSA 35 ng/ml",
+      "cT1c, ISUP-Grad 4, PSA 24 ng/ml"
     ],
     "correct": 0,
-    "tip": "Diese differenziertere Betrachtung hat direkten Einfluss auf die Indikation zu weiterführenden Staging-Untersuchungen.",
-    "explanation": "Kapitel 4.3 beschreibt, dass das Stadium des intermediären Risikos nicht mehr zusammengefasst, sondern in ein günstiges und ungünstiges intermediäres Risiko nuanciert betrachtet wird, da diese Gruppen unterschiedlich mit dem Metastasierungsrisiko korrelieren."
+    "tip": "Zählen Sie die Hochrisikofaktoren je Patient und prüfen Sie die PSA-Schwelle genau.",
+    "explanation": "Nach Tabelle 10 (NCCN) liegt ein sehr hohes Risiko bei mindestens zwei der Kriterien cT3–cT4, ISUP-Grad 4–5 und PSA > 40 ng/ml vor. Die übrigen Konstellationen erfüllen jeweils einen Hochrisikofaktor; PSA > 20 ng/ml zählt für hohes, nicht für sehr hohes Risiko."
   },
   {
-    "question": "Welche beiden Untersuchungen sollen laut Empfehlung 4.39 (Empfehlungsgrad A) zur Bestimmung der klinischen T-Kategorie herangezogen werden?",
+    "question": "Worauf soll sich die Bestimmung der klinischen T-Kategorie laut Empfehlung 4.39 stützen?",
     "options": [
-      "Der digital-rektale Untersuchungsbefund und die Magnetresonanztomographie.",
-      "Ausschließlich die Knochenszintigraphie.",
-      "Ausschließlich die PSMA-PET/CT.",
-      "Ausschließlich der PSA-Wert ohne weitere Untersuchungen."
+      "Auf den DRU-Befund und die MRT der Prostata",
+      "Auf die MRT der Prostata und die PSMA-PET/CT",
+      "Auf den DRU-Befund und den transrektalen Ultraschall",
+      "Auf die PSMA-PET/CT und den transrektalen Ultraschall"
     ],
     "correct": 0,
-    "tip": "Die Sensitivität des bildgebenden Stagings ist dabei begrenzt, insbesondere für den Nachweis extrakapsulären Wachstums.",
-    "explanation": "Empfehlung 4.39 fordert, dass zur Bestimmung der klinischen T-Kategorie der digital-rektale Untersuchungsbefund und die Magnetresonanztomographie herangezogen werden sollen."
+    "tip": "Auch die beste Bildgebung sagt extrakapsuläres Wachstum und Samenblaseninfiltration nur unvollkommen voraus.",
+    "explanation": "Empfehlung 4.39 (A): Zur Bestimmung der klinischen T-Kategorie sollen DRU-Befund und MRT herangezogen werden. Die Sensitivität für extrakapsuläres Wachstum ist begrenzt (MRT 61 %, PET/CT 52 %), ebenso für die Samenblaseninfiltration (MRT 60 %, PSMA-PET 62 %)."
   },
   {
-    "question": "Was fordert Empfehlung 4.40 bei Patienten mit Tumorkategorie cT1 und Low-risk-Parametern bezüglich weiterer Staginguntersuchungen?",
+    "question": "Für welchen Patienten soll laut Leitlinie vor der Therapieentscheidung ein bildgebendes Staging erfolgen?",
     "options": [
-      "Nach MRT vor Biopsie sollen keine weiteren bildgebenden Staginguntersuchungen (Skelettszintigraphie, CT, PET/CT) erfolgen.",
-      "Es sollen alle verfügbaren Staginguntersuchungen routinemäßig durchgeführt werden.",
-      "Eine PSMA-PET/CT ist bei dieser Gruppe obligat.",
-      "Eine Knochenszintigraphie ist bei jedem Patienten mit cT1 zwingend vorgeschrieben."
+      "cT1c, ISUP-Grad 1, PSA 6 ng/ml, MRT vor Biopsie erfolgt",
+      "cT1c, ISUP-Grad 2, PSA 7 ng/ml, 3 von 12 Stanzen positiv",
+      "cT2a, ISUP-Grad 1, PSA 8 ng/ml, PSA-Dichte 0,10 ng/ml/ml",
+      "cT1c, ISUP-Grad 3, PSA 8 ng/ml, 4 von 12 Stanzen positiv"
     ],
-    "correct": 0,
-    "tip": "Diese Zurückhaltung beruht auf dem sehr geringen Metastasierungsrisiko dieser Patientengruppe.",
-    "explanation": "Empfehlung 4.40 legt fest, dass Patienten mit Tumorkategorie cT1 und Low-risk-Parametern nach MRT vor Biopsie keine bildgebenden Staginguntersuchungen wie Skelettszintigraphie, CT oder PET/CT erhalten sollen."
+    "correct": 3,
+    "tip": "Die NCCN teilt das intermediäre Risiko anhand von ISUP-Grad und Anteil positiver Stanzen weiter auf.",
+    "explanation": "Nach Empfehlung 4.43 (A) sollen Patienten mit ungünstigem intermediärem oder hohem/sehr hohem Risiko vor der Therapieentscheidung ein Staging erhalten – ISUP 3 macht das Profil ungünstig intermediär. Bei cT1 mit Niedrigrisiko-Parametern soll kein Staging erfolgen (Empfehlung 4.40), bei günstig intermediärem Risiko sollte darauf verzichtet werden (Empfehlung 4.41)."
   },
   {
-    "question": "Was besagt Statement 4.42 zum Vergleich der PSMA-PET-Bildgebung mit der Kombination aus CT und Knochenszintigraphie beim Nachweis von Metastasen?",
+    "question": "Bei welchen Risikofaktoren für eine Fernmetastasierung soll die PSMA-PET/CT laut Empfehlung 4.44 zur Ausbreitungsdiagnostik eingesetzt werden?",
     "options": [
-      "Die PSMA-PET-Bildgebung hat eine höhere Genauigkeit für den Nachweis von Metastasen als die Kombination aus CT und Knochenszintigraphie.",
-      "Die PSMA-PET-Bildgebung ist der Kombination aus CT und Knochenszintigraphie deutlich unterlegen.",
-      "Beide Verfahren zeigen exakt identische Genauigkeit ohne jeden Unterschied.",
-      "Die PSMA-PET-Bildgebung wird in der Leitlinie nicht erwähnt."
+      "ISUP ≥ 2 oder cT2c oder PSA ≥ 10 ng/ml",
+      "ISUP ≥ 3 oder cT3/cT4 oder PSA ≥ 20 ng/ml",
+      "ISUP ≥ 4 oder cT3/cT4 oder PSA ≥ 20 ng/ml",
+      "ISUP ≥ 4 oder cT3/cT4 oder PSA > 40 ng/ml"
     ],
-    "correct": 0,
-    "tip": "Die PSMA-PET gilt seit der proPSMA-Studie als Referenzstandard für das Ganzkörperstaging.",
-    "explanation": "Statement 4.42 stellt fest, dass die PSMA-PET-Bildgebung eine höhere Genauigkeit für den Nachweis von Prostatakarzinom-Metastasen hat als die Kombination aus Computertomographie und Knochenszintigraphie."
+    "correct": 1,
+    "tip": "Die Schwelle ist so gewählt, dass bereits ein Teil der Patienten mit intermediärem Risiko erfasst wird.",
+    "explanation": "Empfehlung 4.44 (A): PSMA-PET/CT bei ISUP GG ≥ 3 oder cT3/cT4 oder PSA ≥ 20 ng/ml. PSA > 40 ng/ml ist dagegen ein NCCN-Kriterium für sehr hohes Risiko (Tabelle 10)."
   },
   {
-    "question": "Für welche Patientengruppe soll laut Empfehlung 4.43 (Empfehlungsgrad A) vor der Entscheidung über eine therapeutische Maßnahme ein Staging erfolgen?",
+    "question": "Welche Besonderheit beschreibt die Leitlinie für den PSMA-Tracer 18F-PSMA-1007?",
     "options": [
-      "Patienten mit unfavorable intermediate risk oder high risk/very high risk Prostatakarzinom.",
-      "Ausschließlich Patienten mit sehr niedrigem Risiko.",
-      "Alle Patienten unabhängig vom Risikoprofil.",
-      "Nur Patienten über 90 Jahre."
+      "Überwiegend renale Ausscheidung mit eingeschränkter Beurteilung pelviner Lymphknoten",
+      "Geringere Genauigkeit als 68Ga-PSMA-11, daher ungeeignet für das Primärstaging",
+      "Fehlende Knochenaufnahme mit gehäuft falsch-negativen Skelettbefunden",
+      "Überwiegend hepatische Ausscheidung mit unspezifischem Knochenuptake"
     ],
-    "correct": 0,
-    "tip": "Bei Patienten mit favorable intermediate risk wird dagegen laut Empfehlung 4.41 von einer Ganzkörper-Staging-Bildgebung abgesehen.",
-    "explanation": "Empfehlung 4.43 fordert, dass Patienten mit unfavorable intermediate risk oder high risk/very high risk Prostatakarzinom vor der Entscheidung über eine therapeutische Maßnahme ein Staging erhalten sollen."
+    "correct": 3,
+    "tip": "Denken Sie an typische Fallstricke für wenig erfahrene Befunder und an die PROMISE-v2-Kriterien.",
+    "explanation": "Laut Hintergrundtext zu Kapitel 4.3 sind die PSMA-Tracer bei qualitätsgesicherter Anwendung insgesamt vergleichbar; für das überwiegend hepatisch ausgeschiedene 18F-PSMA-1007 wird jedoch zunehmend unspezifischer Knochenuptake beschrieben, der zu falsch-positiven Befunden führen kann. Für die standardisierte Befundung werden die PROMISE-Version-2-Kriterien empfohlen."
   },
   {
-    "question": "Bei welchen Risikofaktoren für eine Fernmetastasierung soll laut Empfehlung 4.44 (Empfehlungsgrad A) eine PSMA-PET/CT zur Ausbreitungsdiagnostik eingesetzt werden?",
+    "question": "Wie hoch war in der proPSMA-Studie die Präzision der Metastasendetektion (primärer Endpunkt) mit PSMA-PET/CT gegenüber CT plus Knochenszintigraphie?",
     "options": [
-      "ISUP-Grad ≥3 oder T-Kategorie cT3/cT4 oder PSA ≥20 ng/mL.",
-      "Ausschließlich bei einem PSA-Wert unter 1 ng/mL.",
-      "Ausschließlich bei Patienten ohne jeden Risikofaktor.",
-      "Nur bei bereits gesicherten Fernmetastasen, nie zur Erstdiagnostik."
+      "85 % vs. 38 %",
+      "92 % vs. 65 %",
+      "94 % vs. 75 %",
+      "98 % vs. 91 %"
     ],
-    "correct": 0,
-    "tip": "Diese Risikofaktoren markieren ein erhöhtes Risiko für das Vorliegen von Fernmetastasen bei Erstdiagnose.",
-    "explanation": "Empfehlung 4.44 fordert den Einsatz der PSMA-PET/CT zur Ausbreitungsdiagnostik bei Prostatakarzinom mit Risikofaktoren für eine Fernmetastasierung, definiert als ISUP-Grad 3 oder höher, T-Kategorie cT3/cT4 oder ein PSA-Wert ab 20 ng/mL."
+    "correct": 2,
+    "tip": "Alle vier Zahlenpaare stammen aus derselben Studie – gesucht ist weder Sensitivität noch Spezifität noch AUC.",
+    "explanation": "Statement 4.42: PSMA-PET hat eine höhere Genauigkeit für den Metastasennachweis als CT plus Knochenszintigraphie. In proPSMA (Tabelle 14) lag die Präzision bei 94 % vs. 75 %; 85 % vs. 38 % betrifft die Sensitivität, 98 % vs. 91 % die Spezifität, 92 % vs. 65 % die AUC."
   },
   {
-    "question": "Was zeigte die randomisierte proPSMA-Studie von Hofman et al. 2020 (Kapitel 4.3), die als Grundlage für den Stellenwert der PSMA-PET im Ganzkörperstaging dient?",
+    "question": "Was gilt laut Leitlinie für den Einsatz von Nomogrammen bei nachgewiesenem Prostatakarzinom?",
     "options": [
-      "Sie untersuchte 302 Patienten und etablierte die PSMA-PET als Referenzstandard für das Ganzkörperstaging.",
-      "Sie zeigte, dass die PSMA-PET der konventionellen Bildgebung in jeder Hinsicht unterlegen ist.",
-      "Sie wurde an nur 5 Patienten durchgeführt und lieferte daher keine verwertbaren Ergebnisse.",
-      "Sie untersuchte ausschließlich die MRT ohne jeden Bezug zur PSMA-PET."
+      "Sie können genutzt werden; dann sollen extern validierte Nomogramme dienen.",
+      "Sie sollen genutzt werden; intern validierte Nomogramme sind dafür ausreichend.",
+      "Sie sollten genutzt werden; sie ersetzen bei niedrigem Risiko die MRT-Bildgebung.",
+      "Sie können genutzt werden; sie ersetzen bei hohem Risiko das bildgebende Staging."
     ],
     "correct": 0,
-    "tip": "Diese Studie (ANZCTR12617000005358) bildet zusammen mit mehreren systematischen Übersichtsarbeiten die Evidenzgrundlage der aktuellen Staging-Empfehlungen.",
-    "explanation": "Die randomisierte kontrollierte proPSMA-Studie von Hofman et al. 2020 untersuchte 302 Patienten und trug wesentlich dazu bei, dass die PSMA-PET-Bildgebung seitdem als Referenzstandard für das Ganzkörperstaging gilt."
+    "tip": "Beispiele aus dem Hintergrundtext sind STAR-CAP und das Briganti-Nomogramm von 2019.",
+    "explanation": "Empfehlung 4.45 (0): Nomogramme können zur Einschätzung der lokalen Ausbreitung und Prognose herangezogen werden; nach Empfehlung 4.46 (EK) sollen dann extern validierte Nomogramme benutzt werden. Ein Ersatz für MRT oder Staging ist nicht vorgesehen."
   }
 ]

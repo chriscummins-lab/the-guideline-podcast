@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll laut Empfehlung 14.1 (Kapitel 14.1) allen Patienten nach lokaler Therapie eines Nierenzellkarzinoms angeboten werden?",
+    "question": "Ein 57-jähriger Patient wird nach laparoskopischer Nierenteilresektion (pT1a G2, R0) komplikationslos entlassen. Was empfiehlt die Leitlinie zur Rehabilitation?",
     "options": [
-      "Eine fachspezifische Rehabilitation in Form einer Anschlussheilbehandlung (AHB)/Anschlussrehabilitation (AR).",
-      "Ausschließlich eine ambulante Wiedervorstellung nach 5 Jahren.",
-      "Eine Rehabilitation nur bei Patienten mit systemischer Erkrankung.",
-      "Eine Rehabilitation ist bei diesem Tumor generell nicht vorgesehen."
+      "Rehabilitation erst bei fortbestehenden Beschwerden nach mehr als einem Jahr",
+      "Angebot einer fachspezifischen Anschlussheilbehandlung bzw. Anschlussrehabilitation",
+      "Anschlussheilbehandlung bleibt der offenen radikalen Nephrektomie vorbehalten",
+      "Ambulante Physiotherapie anstelle einer Rehabilitation nach minimalinvasivem Eingriff"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt unabhängig davon, ob zusätzlich eine systemische Erkrankung vorliegt.",
-    "explanation": "Empfehlung 14.1 fordert, dass allen Patienten nach lokaler Therapie eines Nierenzellkarzinoms eine fachspezifische Rehabilitation in Form einer AHB/AR angeboten werden soll."
+    "correct": 1,
+    "tip": "Ziel der Rehabilitation ist die rasche soziale und berufliche Reintegration – überlegen Sie, für wen das gilt.",
+    "explanation": "Empfehlung 14.1 (EK, soll): Allen Patienten soll nach lokaler Therapie eines NZK eine fachspezifische Rehabilitation als AHB/AR angeboten werden; auch nach Teilresektion oder minimal-invasiven Verfahren kann Rehabilitationsbedarf entstehen. Bei fortbestehenden Beschwerden sollen Patienten über weitere Maßnahmen aufgeklärt werden (Empfehlung 14.2); ein Wiederholungsantrag muss innerhalb eines Jahres nach der Akuttherapie gestellt werden."
   },
   {
-    "question": "Was soll Patienten mit Nierenzellkarzinom laut Empfehlung 14.5 im Zuge einer Rehabilitationsmaßnahme zusätzlich angeboten werden?",
+    "question": "Welche Aussage zur Rehabilitation von Patienten mit Nierenzellkarzinom entspricht der Leitlinie?",
     "options": [
-      "Eine psychoonkologische Betreuung zur Unterstützung der Krankheitsverarbeitung sowie eine sozialmedizinische Beratung.",
-      "Ausschließlich eine erneute Operation zur Sicherheit.",
-      "Eine zweite Bildgebung ohne klinischen Anlass.",
-      "Eine Reduktion der bisherigen Medikation ohne weitere Begründung."
+      "Ergotherapie soll allen Rehabilitanden unabhängig von Funktionseinschränkungen angeboten werden",
+      "Psychoonkologische Betreuung ist Aufgabe der Akutklinik und nicht Bestandteil der Rehabilitation",
+      "Auch Patienten mit systemischer Erkrankung können von einer fachspezifischen Rehabilitation profitieren",
+      "Die Rehabilitation sollte unabhängig von Komorbiditäten einem einheitlichen Standardprogramm folgen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung ergänzt die allgemeine Rehabilitationsempfehlung um einen psychosozialen Aspekt.",
-    "explanation": "Empfehlung 14.5 sieht vor, dass Patienten mit Nierenzellkarzinom im Rahmen einer Rehabilitationsmaßnahme eine psychoonkologische Betreuung sowie eine sozialmedizinische Beratung angeboten werden soll."
+    "correct": 2,
+    "tip": "Achten Sie darauf, an welche Bedingungen die Leitlinie einzelne Rehabilitationsbausteine knüpft.",
+    "explanation": "Statement 14.3 (EK): Auch Patienten mit systemischer Erkrankung können von der fachspezifischen Rehabilitation profitieren. Psychoonkologische Betreuung und sozialmedizinische Beratung (Empfehlung 14.5) sowie Physiotherapie und bei Funktionseinschränkungen Ergotherapie (Empfehlung 14.6) sollen angeboten werden; die Rehabilitation sollte entsprechend der Komorbidität multidisziplinär und multimodal erfolgen (Statement 14.4)."
   },
   {
-    "question": "Wie häufig tritt laut Kapitel 14.1 eine Schädigung des Plexus brachialis bei roboterassistierten Nierentumoroperationen auf, und wie oft bilden sich solche lagerungsbedingten Paresen innerhalb eines Monats zurück?",
+    "question": "Bei einem 71-jährigen Patienten wurde ein bioptisch gesichertes NZK cT1a G2 cN0 cM0 kryoabladiert. Welcher Risikogruppe ordnet ihn Tabelle 53 für die Nachsorge zu?",
     "options": [
-      "6 % Häufigkeit der Plexus-brachialis-Schädigung; Rückbildung bei 59 % innerhalb eines Monats.",
-      "50 % Häufigkeit; Rückbildung bei 100 % innerhalb einer Woche.",
-      "Unter 0,1 % Häufigkeit; keine Rückbildung jemals beschrieben.",
-      "6 % Häufigkeit; bei 0 % Rückbildung, die Paresen sind grundsätzlich dauerhaft."
+      "Niedriges Risiko, da Stadium und Grading einem Low-risk-Tumor entsprechen",
+      "Hohes Risiko, da nach einer Ablation kein pathologisches Staging vorliegt",
+      "Niedriges Risiko mit einmaliger zusätzlicher Schnittbildgebung nach 3 Monaten",
+      "Mittleres Risiko, da ein ansonsten Low-risk-Karzinom ablativ behandelt wurde"
     ],
-    "correct": 0,
-    "tip": "Nach 1 bis 6 Monaten sind solche Paresen bei 77 % der Patienten beseitigt, bei 23 % persistieren sie über ein halbes Jahr hinaus.",
-    "explanation": "Kapitel 14.1 beschreibt eine Plexus-brachialis-Schädigung bei 6 % der roboterassistierten Nierentumoroperationen, wobei sich lagerungsbedingte Paresen bei 59 % der Patienten innerhalb eines Monats zurückbilden."
+    "correct": 3,
+    "tip": "Statement 14.8 nennt neben TNM-Kategorie und Grading zwei weitere Faktoren für die Risikozuordnung.",
+    "explanation": "Laut Tabelle 53 und Statement 14.8 bestimmen auch Therapieart und R-Status die Risikogruppe: Eine ablative Therapie bzw. R1-Situation eines ansonsten Low-risk-Karzinoms gilt als mittleres Risiko. Nach ablativen Verfahren ist eine intensivierte Nachsorge zu empfehlen; den Abladierten wie einen Niedrigrisiko-Patienten nachzusorgen ist ein Fallstrick."
   },
   {
-    "question": "Wie soll laut Empfehlung 14.7 (Kapitel 14.2) die Nachsorge nach Primärtumortherapie im nicht fernmetastasierten Stadium erfolgen?",
+    "question": "Welche Untersuchungskombination gehört laut Empfehlung 14.9 zu den Instrumenten der risikoadaptierten Nachsorge?",
     "options": [
-      "Risikoadaptiert.",
-      "Für alle Patienten identisch, unabhängig vom Risikoprofil.",
-      "Ausschließlich bei klinischen Symptomen, nie planmäßig.",
-      "Nur einmalig nach Abschluss der Primärtherapie, ohne weitere Kontrollen."
+      "Sonographie und CT des Thorax unter Einbeziehung des Knochenfensters",
+      "Röntgen-Thorax in zwei Ebenen und ergänzende Knochenszintigraphie",
+      "PET/CT und kraniale MRT bei beschwerdefreien Hochrisikopatienten",
+      "Röntgen-Thorax und Sonographie im jährlichen Wechsel mit einem PET/CT"
     ],
     "correct": 0,
-    "tip": "Die Risikogruppeneinteilung basiert u. a. auf pT-/pN-Kategorie, Grading, Therapieart und R-Status.",
-    "explanation": "Empfehlung 14.7 fordert, dass die Nachsorge nach Primärtumortherapie im nicht fernmetastasierten Stadium risikoadaptiert erfolgen soll."
+    "tip": "Unterscheiden Sie Untersuchungen mit Routinestellenwert von solchen, die erst bei Symptomen oder Verdacht sinnvoll werden.",
+    "explanation": "Empfehlung 14.9 (EK): Zur risikoadaptierten Nachsorge sollten klinische Untersuchung, Laborparameter, CT/MRT von Abdomen und Becken, CT Thorax mit Knochenfenster und Sonographie angeboten werden. PET/CT, Schädel-CT/-MRT, konventionelles Röntgen-Thorax und Knochenszintigraphie haben laut Statement 14.10 in der Routine-Nachsorge asymptomatischer Patienten keinen Stellenwert, auch nicht bei Hochrisikopatienten."
   },
   {
-    "question": "Welche Kategorie entspricht laut Tabelle 53 (Kapitel 14.2) der Risikogruppe 'Low risk' in der Nachsorge nach Lokaloperation eines Nierenzellkarzinoms?",
+    "question": "Welche Laborparameter bilden laut Leitlinie die Basis der Tumornachsorge nach Lokaltherapie eines NZK?",
     "options": [
-      "pT1a/b cN0 cM0 G1-2.",
-      "pT3-4 und/oder pN+.",
-      "pT2 cN0 cM0 G3.",
-      "Jede R1-Resektion unabhängig vom Grading."
+      "Blutbild, Kreatinin, CRP bzw. BSG, vor Kontrastmittel-CT zusätzlich TSH",
+      "Blutbild, Kreatinin, LDH und Calcium, vor Kontrastmittel-CT zusätzlich Cystatin C",
+      "Kreatinin, CRP und ein NZK-spezifischer Tumormarker, vor Kontrastmittel-CT TSH",
+      "Blutbild, Leberwerte, Calcium und alkalische Phosphatase, vor MRT zusätzlich TSH"
     ],
     "correct": 0,
-    "tip": "Höhergradige Tumoren oder ein höheres T-Stadium führen zur Einstufung als 'intermediate' oder 'high risk'.",
-    "explanation": "Tabelle 53 definiert die Risikogruppe 'Low risk' als pT1a/b cN0 cM0 G1-2, während 'High risk' u. a. pT2 cN0 cM0 G3 sowie pT3-4 und/oder pN+ umfasst."
+    "tip": "Für das NZK gibt es keinen spezifischen Tumormarker – die Laborbasis dient anderen Zwecken.",
+    "explanation": "Laut Hintergrund zu Kapitel 14.2 bilden Blutbild, Kreatinin, CRP bzw. BSG und vor einer CT mit Kontrastmittel TSH die Laborbasis der Nachsorge; sie dienen der Beurteilung der Nierenfunktion und der Vorbereitung der Schnittbildgebung. Spezifische Tumormarker gibt es für das NZK nicht, ein Anstieg unspezifischer Entzündungsparameter kann aber auf eine Metastasierung hinweisen."
   },
   {
-    "question": "Welche Untersuchungen sollten laut Empfehlung 14.9 zur risikoadaptierten Nachsorge nach Lokaltherapie des nicht fernmetastasierten Nierenzellkarzinoms angeboten werden?",
+    "question": "Über welchen Zeitraum reichen die Nachsorgepläne der Tabellen 54 bis 56 für die drei Risikogruppen?",
     "options": [
-      "Klinische Untersuchung, Laborparameter, CT/MRT Abdomen/Becken und CT Thorax (inkl. Knochenfenster), sowie Sonographie.",
-      "Ausschließlich eine jährliche Skelettszintigraphie.",
-      "Ausschließlich eine PET/CT alle 3 Monate.",
-      "Ausschließlich ein konventionelles Röntgen-Thorax ohne weitere Bildgebung."
+      "Niedriges Risiko 36 Monate, mittleres und hohes Risiko je 60 Monate",
+      "Niedriges Risiko 60 Monate, mittleres 84 und hohes Risiko 120 Monate",
+      "Niedriges, mittleres und hohes Risiko einheitlich jeweils 60 Monate",
+      "Niedriges Risiko 60 Monate, mittleres und hohes Risiko je 108 Monate"
     ],
-    "correct": 0,
-    "tip": "Die konkrete Kombination und Frequenz dieser Untersuchungen richtet sich nach der zugeordneten Risikogruppe.",
-    "explanation": "Empfehlung 14.9 nennt klinische Untersuchung, Bestimmung von Laborparametern, CT/MRT des Abdomens/Beckens und CT des Thorax unter Einbeziehung des Knochenfensters sowie Sonographie als Bausteine der risikoadaptierten Nachsorge."
+    "correct": 3,
+    "tip": "Vergleichen Sie die jeweils letzte Spalte der drei Nachsorgetabellen miteinander.",
+    "explanation": "Laut Tabelle 54 reicht der Nachsorgeplan bei niedrigem Risiko bis 60 Monate, bei mittlerem und hohem Risiko (Tabellen 55 und 56) bis 108 Monate. Klinische Untersuchung und Laborkontrolle sind in allen drei Plänen zu jedem Termin vorgesehen."
   },
   {
-    "question": "Welchen Stellenwert haben laut Statement 14.10 PET/CT, Schädel-CT/MRT, konventioneller Röntgen-Thorax und Knochenszintigraphie in der Routine-Nachsorge asymptomatischer Patienten?",
+    "question": "Nach Nierenteilresektion eines zentral gelegenen, komplexen Tumors mit ausgedehnter Defektversorgung: Welche Basisuntersuchung hat sich laut Leitlinie bewährt?",
     "options": [
-      "Sie haben keinen Stellenwert in der Routine-Nachsorge asymptomatischer Patienten.",
-      "Sie sind fester Bestandteil jeder Nachsorgeuntersuchung, auch bei Low-risk-Patienten.",
-      "Sie sind nur bei Low-risk-Patienten indiziert, nicht aber bei High-risk-Patienten.",
-      "Sie ersetzen die CT/MRT des Abdomens vollständig."
+      "Sonographie nach 4–6 Wochen als Referenzbefund",
+      "PET/CT nach 8–12 Wochen als Referenzbefund",
+      "CT oder MRT nach 8–12 Wochen als Referenzbefund",
+      "CT oder MRT nach 4–6 Wochen als Referenzbefund"
     ],
-    "correct": 0,
-    "tip": "Diese Verfahren kommen erst beim Nachweis einer Metastasierung oder bei klinischem Verdacht gezielt zum Einsatz.",
-    "explanation": "Statement 14.10 stellt klar, dass PET/CT, Schädel-CT/MRT, konventioneller Röntgen-Thorax und Knochenszintigraphie in der Routine-Nachsorge asymptomatischer Patienten keinen Stellenwert haben."
+    "correct": 2,
+    "tip": "Narbige Veränderungen nach ausgedehnter Rekonstruktion können später einen Rezidivtumor vortäuschen.",
+    "explanation": "Laut Hintergrund zu Kapitel 14.2 hat sich nach Teilresektion komplexer Tumoren eine CT oder MRT 8–12 Wochen postoperativ als Basisuntersuchung und Referenz für spätere Befunde bewährt; die Indikation stellt der Operateur, im Nachsorgeschema ist sie als (x) gekennzeichnet. Ein PET/CT hat in der Routine-Nachsorge keinen Stellenwert (Statement 14.10)."
   },
   {
-    "question": "Mit welcher Häufigkeit treten Lokalrezidive nach Nierenteilresektion laut Kapitel 14.2 auf?",
+    "question": "Welche Empfehlung zur psychoonkologischen Versorgung von Patienten mit NZK entspricht der Leitlinie?",
     "options": [
-      "In weniger als 5 % der Fälle.",
-      "In mehr als 50 % der Fälle.",
-      "Bei praktisch allen Patienten (nahezu 100 %).",
-      "Lokalrezidive nach Nierenteilresektion sind nicht beschrieben."
+      "Das psychosoziale Befinden soll einmalig zum Zeitpunkt der Diagnose erfasst werden",
+      "Psychosoziale Beratung sollte Patienten mit gesicherter psychiatrischer Diagnose vorbehalten sein",
+      "Das psychosoziale Befinden sollte während des gesamten Verlaufs regelmäßig erfasst werden",
+      "Psychosoziale Angebote sollten sich auf die Phase der Primärtherapie beschränken"
     ],
-    "correct": 0,
-    "tip": "Die frühzeitige Diagnose eines Lokalrezidivs ermöglicht in vielen Fällen ein erneutes nierenerhaltendes Vorgehen.",
-    "explanation": "Kapitel 14.2 beschreibt, dass Lokalrezidive nach Nierenteilresektionen in weniger als 5 % der Fälle auftreten."
+    "correct": 2,
+    "tip": "Etwa ein Fünftel bis ein Drittel der Krebspatienten entwickelt therapiebedürftige psychische Belastungen.",
+    "explanation": "Empfehlung 15.3 (EK): Während des gesamten Krankheitsverlaufs sollte das psychosoziale Befinden regelmäßig erfasst werden, bevorzugt mit validierten Screeninginstrumenten; 20–35 % der Patienten entwickeln therapiebedürftige Belastungen. Niederschwellige psychosoziale Angebote sollten allen Betroffenen und Zugehörigen in jeder Phase, auch langfristig, zur Verfügung stehen (Empfehlung 15.2)."
   },
   {
-    "question": "Mit welcher Häufigkeit treten laut Hintergrundtext zu Empfehlung 15.3 (Kapitel 15) über die gesamte Krankheitsdauer therapiebedürftige psychische Belastungssituationen und Störungen bei onkologischen Patienten auf?",
+    "question": "Welche Aussage zu den Qualitätsindikatoren der Leitlinie (Kapitel 16) trifft zu?",
     "options": [
-      "20-35 %, insbesondere Anpassungs- und depressive Störungen.",
-      "Unter 1 %.",
-      "Bei praktisch 100 % aller Patienten.",
-      "Nur bei Patienten mit metastasierter Erkrankung, nie im kurativen Setting."
+      "QI 6 zielt auf einen möglichst hohen Anteil an Nephrektomien bei pT1-Tumoren",
+      "Für die 30-Tage-Mortalität nach Intervention gilt ein Qualitätsziel von < 5 %",
+      "Das Zwei-Jahres-Überleben beim metastasierten NZK soll mindestens 80 % erreichen",
+      "Die Indikatoren wurden aus den Sollte-Empfehlungen (Grad B) der Leitlinie abgeleitet"
     ],
-    "correct": 0,
-    "tip": "Ein höheres Risiko besteht insbesondere bei starken Alltagsbeeinträchtigungen und fortgeschrittenem Krankheitsstadium.",
-    "explanation": "Laut Hintergrundtext zu Empfehlung 15.3 treten mit einer Häufigkeit von 20-35 % über die gesamte Krankheitsdauer therapiebedürftige psychische Belastungssituationen und Störungen auf, gehäuft Anpassungs- und depressive Störungen."
+    "correct": 1,
+    "tip": "Überlegen Sie, aus welcher Empfehlungskategorie sich Qualitätsindikatoren methodisch ableiten.",
+    "explanation": "Laut Kapitel 16 basieren die 9 Qualitätsindikatoren auf den starken Soll-Empfehlungen (Grad A) und einer QI-Recherche; für die 30-Tage-Mortalität nach Nieren(teil)resektion oder Ablation gilt das Ziel < 5 %. QI 6 fordert möglichst selten eine Nephrektomie bei pT1, für das Zwei-Jahres-Überleben beim metastasierten NZK gilt ≥ 50 %."
   },
   {
-    "question": "Auf welcher Grundlage wurden laut Kapitel 16 die Qualitätsindikatoren dieser Leitlinie entwickelt, und wie viele wurden final angenommen?",
+    "question": "Nach radikaler Nephrektomie zeigt die Histologie ein NZK pT3a pN0 G2 R0. Welcher Risikogruppe ist der Patient laut Tabelle 53 zuzuordnen?",
     "options": [
-      "Auf Basis aller starken ('soll', Empfehlungsgrad A) Empfehlungen sowie nationaler/internationaler QI-Recherche; final 9 Indikatoren.",
-      "Auf Basis ausschließlich der Expertenmeinung einzelner Autoren; final 50 Indikatoren.",
-      "Auf Basis ausschließlich wirtschaftlicher Kennzahlen der Kliniken; final 3 Indikatoren.",
-      "Es wurden keine Qualitätsindikatoren für diese Leitlinie entwickelt."
+      "Hohes Risiko, da pT3–4 ohne Bezug auf das Grading zugeordnet wird",
+      "Mittleres Risiko, da ein G2-Tumor ohne Lymphknotenbefall vorliegt",
+      "Niedriges Risiko, da eine vollständige R0-Resektion erreicht wurde",
+      "Mittleres Risiko, da radikal statt organerhaltend operiert wurde"
     ],
     "correct": 0,
-    "tip": "Eine eigene Arbeitsgruppe Qualitätsindikatoren begleitete diesen methodischen Prozess.",
-    "explanation": "Kapitel 16 beschreibt, dass als Grundlage für die Qualitätsindikatoren alle starken ('soll', Empfehlungsgrad A) Empfehlungen der Leitlinie sowie die Ergebnisse der nationalen/internationalen QI-Recherche dienten; final wurden 9 Indikatoren angenommen."
+    "tip": "Gehen Sie Tabelle 53 von der höchsten Risikogruppe aus abwärts durch.",
+    "explanation": "Tabelle 53: Das hohe Risiko umfasst pT2 c/pN0 cM0 G3 sowie pT3–4 und/oder pN+, hier ohne Bezug auf das Grading; die Nachsorge erfolgt nach Tabelle 56. Mittleres Risiko gilt u. a. für pT1a/b G3 und pT2 G1–2."
   }
 ]

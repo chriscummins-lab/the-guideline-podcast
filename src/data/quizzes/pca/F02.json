@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wann soll laut den verknüpften Empfehlungen 4.12/4.13 (Kapitel 4.2, Empfehlungsgrad A) eine MRT der Prostata im Rahmen der Primärdiagnostik erfolgen?",
+    "question": "Ein 64-Jähriger hat einen kontrolliert erhöhten PSA-Wert von 5,2 ng/ml; ein Karzinomnachweis hätte therapeutische Konsequenzen. Welches Vorgehen entspricht den Empfehlungen 4.12 und 4.13?",
     "options": [
-      "Ab einer bestätigten Erhöhung des PSA-Werts über 3 ng/ml und vor einer Biopsie, sofern handlungsrelevante Konsequenzen resultieren.",
-      "Erst nach mindestens zwei negativen Biopsien.",
-      "Grundsätzlich nie, da MRT in der Primärdiagnostik keinen Stellenwert hat.",
-      "Nur bei Männern unter 30 Jahren."
+      "Risikobesprechung inklusive DRU und PSA-Dichte, danach MRT vor einer Biopsie",
+      "Systematische Biopsie mit 10–12 Zylindern, MRT erst bei negativem Ergebnis",
+      "Risikobesprechung inklusive DRU, danach PSMA-PET/CT zur Biopsieplanung",
+      "Biomarkertest wie 4Kscore als obligater Schritt, danach MRT vor einer Biopsie"
     ],
     "correct": 0,
-    "tip": "Zusätzlich soll vor der MRT das individuelle Risiko unter Berücksichtigung von Alter, Anamnese und familiärer Belastung besprochen werden.",
-    "explanation": "Empfehlung 4.12 fordert, dass eine MRT der Prostata im Rahmen der Primärdiagnostik ab einer bestätigten PSA-Erhöhung über 3 ng/ml und vor einer Biopsie erfolgen soll, sofern sich daraus handlungsrelevante Konsequenzen ergeben."
+    "tip": "Überlegen Sie, welche Faktoren vor der Bildgebung gemeinsam mit dem Patienten eingeordnet werden sollen.",
+    "explanation": "Nach Empfehlung 4.13 (A) soll vor der MRT das individuelle Risiko u. a. unter Einbezug von DRU und ultraschallgestützter PSA-Dichte besprochen werden; nach Empfehlung 4.12 (A) folgt bei bestätigtem PSA > 3 ng/ml die MRT vor der Biopsie. Für Biomarker und PSMA-PET in der Primärdiagnostik spricht die Leitlinie keine Empfehlung aus."
   },
   {
-    "question": "Welche Qualitätsanforderung stellt Empfehlung 4.15 an die Durchführung und Befundung der Prostata-MRT?",
+    "question": "Welche Aussage zur zusätzlichen systematischen Biopsie bei MRT-gezielter Biopsie trifft zu (Re-Biopsie nach tumorfreier, systematisch ergänzter Erstbiopsie)?",
     "options": [
-      "Sie soll entsprechend aktueller Qualitätsstandards durch einen für die Prostata-MRT zertifizierten Radiologen (Q2-Zertifikat der Deutschen Röntgengesellschaft) erfolgen.",
-      "Jeder Radiologe darf die Prostata-MRT ohne zusätzliche Qualifikation befunden.",
-      "Die MRT darf nur von Urologen selbst befundet werden.",
-      "Eine Zertifizierung ist für die Prostata-MRT nicht vorgesehen."
+      "Erstbiopsie: kann entfallen – Re-Biopsie: soll ergänzt werden",
+      "Erstbiopsie: soll erfolgen – Re-Biopsie: soll erneut erfolgen",
+      "Erstbiopsie: sollte entfallen – Re-Biopsie: sollte ergänzt werden",
+      "Erstbiopsie: sollte erfolgen – Re-Biopsie: kann entfallen"
     ],
-    "correct": 0,
-    "tip": "Diese Zertifizierungsanforderung soll eine konsistente Bildqualität und Befundungsqualität sicherstellen.",
-    "explanation": "Empfehlung 4.15 fordert, dass die Durchführung einer MRT entsprechend den aktuellen Qualitätsstandards und die Befundung durch einen für die MRT der Prostata zertifizierten Radiologen (Q2-Zertifikat der Deutschen Röntgengesellschaft) erfolgen soll."
+    "correct": 3,
+    "tip": "Vergleichen Sie die Mehrdetektion durch die systematische Biopsie bei Biopsie-naiven und bei bereits vorbiopsierten Männern.",
+    "explanation": "Empfehlung 4.20 (B): Bei der Erstbiopsie sollte zusätzlich zur gezielten eine systematische Biopsie erfolgen (Mehrdetektion ca. 4–5 %). Empfehlung 4.21 (0): Bei der Re-Biopsie kann darauf verzichtet werden, wenn die systematische Biopsie initial durchgeführt wurde."
   },
   {
-    "question": "Wie sollen laut Empfehlung 4.17 (Empfehlungsgrad A) in der MRT beschriebene Karzinom-suspekte Herde mit PI-RADS 4 und 5 biopsiert werden?",
+    "question": "Bei welcher Konstellation nach MRT der Prostata soll laut Leitlinie eine Biopsie erfolgen?",
     "options": [
-      "Gezielt durch Entnahme von 2-3 Zylindern pro Herd.",
-      "Es soll bei PI-RADS 4/5 grundsätzlich keine Biopsie erfolgen.",
-      "Mit mindestens 20 Zylindern pro Herd.",
-      "Ausschließlich durch eine offene chirurgische Biopsie."
+      "PI-RADS 2, PSA 6,0 ng/ml, PSA-Dichte 0,12 ng/ml/ml",
+      "PI-RADS 3, niedriges individuelles Risiko, PSA-Dichte 0,07 ng/ml/ml",
+      "PI-RADS 1, PSA 4,5 ng/ml, Bruder mit Prostatakarzinom",
+      "PI-RADS 4, PSA 4,5 ng/ml, PSA-Dichte 0,09 ng/ml/ml"
     ],
-    "correct": 0,
-    "tip": "Diese gezielte Biopsie ergänzt bei der Erstbiopsie in der Regel die systematische Biopsie.",
-    "explanation": "Empfehlung 4.17 fordert, dass MRT-suspekte Herde mit PI-RADS 4 und 5 durch gezielte Entnahme von 2-3 Zylindern pro Herd biopsiert werden sollen."
+    "correct": 3,
+    "tip": "Der PI-RADS-Score steuert die Biopsieindikation – das individuelle Risiko entscheidet in einem Graubereich mit.",
+    "explanation": "Karzinomsuspekte PI-RADS-4/5-Herde sollen gezielt biopsiert werden (Empfehlung 4.17, A), unabhängig von einer niedrigen PSA-Dichte. Bei PI-RADS 1–2 soll keine Biopsie erfolgen (Empfehlung 4.23, EK), PI-RADS 3 soll bei niedrigem individuellem Risiko nicht biopsiert werden (Empfehlung 4.18, A)."
   },
   {
-    "question": "Was besagt Empfehlung 4.18 (Empfehlungsgrad A) zu PI-RADS-3-Befunden bei niedrigem individuellem Risiko?",
+    "question": "Welche beiden Parameter nennt die Leitlinie als stärkste diagnostische Prädiktoren für ein klinisch signifikantes Prostatakarzinom?",
     "options": [
-      "Sie sollen nicht biopsiert werden.",
-      "Sie sollen immer mit mindestens 5 Zylindern biopsiert werden.",
-      "Sie erfordern grundsätzlich eine sofortige radikale Prostatektomie.",
-      "Sie werden gleich behandelt wie PI-RADS 5."
+      "PSA-Dichte und PI-RADS-Score der MRT",
+      "PSA-Anstiegsgeschwindigkeit und PI-RADS-Score",
+      "PSA-Anstiegsgeschwindigkeit und DRU-Befund",
+      "DRU-Befund und PSA-Dichte im TRUS"
     ],
     "correct": 0,
-    "tip": "Diese Zurückhaltung gilt spezifisch bei niedrigem individuellem Risiko, nicht generell für alle PI-RADS-3-Befunde.",
-    "explanation": "Empfehlung 4.18 legt fest, dass PI-RADS-3-Befunde in der MRT der Prostata bei niedrigem individuellem Risiko nicht biopsiert werden sollen."
+    "tip": "Überlegen Sie, welche Parameter die Leitlinie für die Biopsieentscheidung nach der MRT miteinander kombiniert.",
+    "explanation": "Laut Hintergrundtext zu Kapitel 4.2 sind PSA-Dichte und PI-RADS-Score die stärksten Prädiktoren; die PSA-Dichte ist dabei nur in Drüsen bis 75 ml signifikant assoziiert. Die PSA-Anstiegsgeschwindigkeit war nach negativer Biopsie in der ERSPC nicht prädiktiv."
   },
   {
-    "question": "Was fordert Empfehlung 4.23 bei PI-RADS 1 und 2 Befunden in der Prostata-MRT?",
+    "question": "Welches ultraschallbasierte Verfahren soll laut Empfehlung 4.26 nicht in der Primärdiagnostik des Prostatakarzinoms eingesetzt werden?",
     "options": [
-      "Es soll keine Biopsie durchgeführt werden.",
-      "Es soll immer eine Biopsie mit mindestens 12 Zylindern erfolgen.",
-      "Es soll eine sofortige Zystektomie erfolgen.",
-      "PI-RADS 1/2 Befunde werden in der Leitlinie nicht behandelt."
+      "Hochfrequenz-(Mikro-)Ultraschall als ergänzende Bildgebung",
+      "KI-basierte Ultraschall-Bildanalyse bei TRUS-gestützter Biopsie",
+      "Ultraschall-Elastographie zur gezielten Biopsieentnahme",
+      "Transrektaler Ultraschall zur Volumetrie und PSA-Dichte"
     ],
-    "correct": 0,
-    "tip": "PI-RADS 1 und 2 gelten als unauffällige bzw. sehr wahrscheinlich gutartige Befunde.",
-    "explanation": "Empfehlung 4.23 legt fest, dass bei PI-RADS 1 und 2 Befunden keine Biopsie durchgeführt werden soll."
+    "correct": 2,
+    "tip": "Unterscheiden Sie Kann-Empfehlungen für ergänzende Verfahren von einer negativen Soll-Empfehlung.",
+    "explanation": "Empfehlung 4.26 (A): Kontrastmittelverstärkter Ultraschall, Elastographie und Histoscanning sollen nicht zur Primärdiagnostik eingesetzt werden. TRUS bzw. Hochfrequenz-Ultraschall (Empfehlung 4.24) und KI-basierte Ultraschall-Bildanalyse (Empfehlung 4.25) sind Kann-Optionen."
   },
   {
-    "question": "Über welche Verfahren sollte laut Empfehlung 4.19 (Empfehlungsgrad B) die gezielte Biopsie erfolgen?",
+    "question": "Ein 59-Jähriger hatte vor einem Jahr eine tumorfreie systematische Biopsie ohne vorherige MRT; der PSA-Wert ist seither weiter gestiegen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Software-basierte MRT/Ultraschall-Fusionsbiopsie oder MRT-gestützte 'in-bore'-Biopsie.",
-      "Ausschließlich durch rein digital-rektal gesteuerte Biopsie ohne Bildgebung.",
-      "Ausschließlich durch CT-gesteuerte Biopsie.",
-      "Ausschließlich durch eine Biopsie ohne jede bildgebende Unterstützung."
+      "Erneute systematische Biopsie mit 10–12 Zylindern ohne Bildgebung",
+      "Keine weitere Diagnostik, da eine Biopsie bereits tumorfrei war",
+      "MRT der Prostata nach geltenden Qualitätsstandards vor weiterem Vorgehen",
+      "PSMA-PET/CT zur Lokalisation eines möglichen Tumorherdes"
     ],
-    "correct": 0,
-    "tip": "Die 'in-bore'-Biopsie bezeichnet eine gezielte Biopsie direkt im MRT.",
-    "explanation": "Empfehlung 4.19 sieht vor, dass die gezielte Biopsie über eine Software-basierte MRT/Ultraschall-Fusionsbiopsie oder als MRT-gestützte 'in-bore'-Biopsie erfolgen sollte."
+    "correct": 2,
+    "tip": "Unterscheiden Sie einen fortbestehenden Karzinomverdacht von stabilen Parametern nach bereits negativer Re-Biopsie.",
+    "explanation": "Empfehlung 4.28 (A): Nach negativer systematischer Biopsie ohne vorherige MRT soll bei fortbestehendem Verdacht eine qualitätsgesicherte MRT erfolgen. Der Verzicht auf weitere invasive Maßnahmen gilt nach negativer Re-Biopsie bei gleichbleibenden Parametern wie PSA und PSA-Dichte (Empfehlung 4.29)."
   },
   {
-    "question": "Was fordert Empfehlung 4.20 (Empfehlungsgrad B) zusätzlich zur MRT-gezielten Biopsie im Rahmen der Erstbiopsie?",
+    "question": "Welche Aussage zur Infektionsprophylaxe bei der Prostatastanzbiopsie entspricht der Leitlinie?",
     "options": [
-      "Eine systematische Biopsie sollte zusätzlich erfolgen.",
-      "Eine systematische Biopsie ist bei der Erstbiopsie ausdrücklich nicht vorgesehen.",
-      "Nur die gezielte Biopsie ohne jede weitere Ergänzung ist zulässig.",
-      "Statt einer Biopsie soll primär eine Prostatektomie erfolgen."
+      "Transrektal kann die Antibiotikaprophylaxe entfallen, wenn Povidon-Jod angewendet wird.",
+      "Ein Rektalabstrich soll unabhängig vom Risikoprofil vor transrektaler Biopsie erfolgen.",
+      "Transperineal soll eine Antibiotikaprophylaxe wie beim transrektalen Zugang erfolgen.",
+      "Transperineal kann bei fehlender Infektion auf eine Antibiotikaprophylaxe verzichtet werden."
     ],
-    "correct": 0,
-    "tip": "Bei der Re-Biopsie nach tumorfreier Erstbiopsie kann auf diese Ergänzung dagegen laut Empfehlung 4.21 verzichtet werden.",
-    "explanation": "Empfehlung 4.20 fordert, dass zusätzlich zur MRT-gezielten Biopsie im Rahmen der Erstbiopsie eine systematische Biopsie erfolgen sollte."
+    "correct": 3,
+    "tip": "Entscheidend ist, ob die Nadel die Rektumschleimhaut passiert.",
+    "explanation": "Transrektal soll eine Antibiotikaprophylaxe erfolgen (Empfehlung 4.32, A), Povidon-Jod kann ergänzend angewendet werden (Empfehlung 4.34), ein Rektalabstrich sollte bei Risikopatienten erfolgen (Empfehlung 4.33, B). Transperineal kann auf die Prophylaxe verzichtet werden (Empfehlung 4.35, 0; u. a. NORAPP-Studie)."
   },
   {
-    "question": "Welche bildgebenden Ultraschallverfahren sollen laut Empfehlung 4.26 (Empfehlungsgrad A) nicht zur Primärdiagnostik des Prostatakarzinoms eingesetzt werden?",
+    "question": "Welche Anforderung an die Befundung der Prostata-MRT formuliert die Leitlinie?",
     "options": [
-      "Kontrastmittel-verstärkter Ultraschall, Ultraschall-Elastographie und Histoscanning.",
-      "Die konventionelle MRT der Prostata.",
-      "Die transrektale Stanzbiopsie.",
-      "Alle bildgebenden Verfahren sind zur Primärdiagnostik zugelassen, ohne Einschränkung."
+      "Befundung durch einen Q2-zertifizierten Radiologen, Qualitätsangabe nach PI-QUAL",
+      "Befundung durch einen Q1-zertifizierten Radiologen, Qualitätsangabe nach PRIMUS",
+      "Befundung durch einen Q2-zertifizierten Radiologen, Qualitätsangabe nach PRIMUS",
+      "Befundung durch einen Q1-zertifizierten Radiologen, Qualitätsangabe nach PI-QUAL"
     ],
     "correct": 0,
-    "tip": "Die transrektale Ultraschalluntersuchung selbst kann dagegen laut Empfehlung 4.24 als ergänzende Diagnostik genutzt werden.",
-    "explanation": "Empfehlung 4.26 legt fest, dass Kontrastmittel-verstärkter Ultraschall, Ultraschall-Elastographie und Histoscanning nicht zur Primärdiagnostik eingesetzt werden sollen."
+    "tip": "Eines der beiden Bewertungssysteme stammt aus der MRT, das andere aus dem Hochfrequenz-Ultraschall.",
+    "explanation": "Empfehlung 4.15 (EK): Befundung durch einen für die Prostata-MRT zertifizierten Radiologen (Q2-Zertifikat der Deutschen Röntgengesellschaft, das ein Q1-Zertifikat voraussetzt); laut Hintergrundtext enthält der Befund eine Qualitätsangabe nach PI-QUAL. PRIMUS ist das Graduierungssystem des Hochfrequenz-Ultraschalls."
   },
   {
-    "question": "Wie viele Gewebezylinder sollen laut Empfehlung 4.31 (Empfehlungsgrad A) bei einer systematischen Stanzbiopsie aller Sextanten der Prostata insgesamt entnommen werden?",
+    "question": "Welchem Patienten soll laut den Empfehlungen 4.37 und 4.38 eine humangenetische Sprechstunde mit Keimbahntestung angeboten werden?",
     "options": [
-      "Zehn bis zwölf Gewebezylinder.",
-      "Ein einzelner Gewebezylinder.",
-      "Mindestens 50 Gewebezylinder.",
-      "Genau zwei Gewebezylinder, unabhängig vom Befund."
+      "67-Jähriger mit lokal begrenztem ISUP-2-Karzinom und unauffälliger Familienanamnese",
+      "67-Jähriger mit ossär metastasiertem Karzinom und unauffälliger Familienanamnese",
+      "52-Jähriger ohne Karzinom, dessen Vater mit 74 Jahren an einem Prostatakarzinom erkrankte",
+      "72-Jähriger mit ISUP-1-Karzinom unter Aktiver Überwachung ohne familiäre Belastung"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt, wenn eine systematische Biopsie im Rahmen einer gezielten Biopsie erfolgt oder wenn keine MRT durchgeführt werden kann.",
-    "explanation": "Empfehlung 4.31 fordert, dass bei einer systematischen Stanzbiopsie alle Sextanten der Prostata mit insgesamt zehn bis zwölf Gewebezylindern abgedeckt werden sollen."
+    "correct": 1,
+    "tip": "Die Empfehlungen knüpfen an das Erkrankungsstadium bzw. an Hinweise auf ein familiäres Tumorrisikosyndrom an.",
+    "explanation": "Empfehlung 4.37 (EK): Männern mit metastasiertem Prostatakarzinom soll eine humangenetische Sprechstunde und Keimbahntestung angeboten werden; nach Empfehlung 4.38 gilt dies auch bei Hinweis auf ein familiäres Tumorrisikosyndrom (z. B. erblicher Brust-/Eierstockkrebs, Lynch-Syndrom). Für gesunde Männer mit erkranktem Vater gilt die PSA-Früherkennung ab 45 Jahren."
   },
   {
-    "question": "Was fordert Empfehlung 4.32 (Empfehlungsgrad A) für die transrektale Stanzbiopsie, und wie verhält sich dies laut Empfehlung 4.35 bei der transperinealen Biopsie?",
+    "question": "Wie viele Gewebezylinder sollen laut Empfehlung 4.17 aus einem karzinomsuspekten PI-RADS-4- oder -5-Herd gezielt entnommen werden?",
     "options": [
-      "Die transrektale Stanzbiopsie soll unter Antibiotikaprophylaxe erfolgen; bei der transperinealen Biopsie kann darauf verzichtet werden.",
-      "Weder bei transrektaler noch bei transperinealer Biopsie ist eine Antibiotikaprophylaxe vorgesehen.",
-      "Eine Antibiotikaprophylaxe ist nur bei der transperinealen Biopsie zwingend, nicht bei der transrektalen.",
-      "Antibiotikaprophylaxe wird in der Leitlinie für Prostatabiopsien nicht thematisiert."
+      "1 Zylinder pro Herd",
+      "2–3 Zylinder pro Herd",
+      "4–6 Zylinder pro Herd",
+      "10–12 Zylinder pro Herd"
     ],
-    "correct": 0,
-    "tip": "Dieser Unterschied ergibt sich aus dem geringeren Infektionsrisiko des transperinealen Zugangswegs im Vergleich zum transrektalen.",
-    "explanation": "Empfehlung 4.32 fordert für die transrektale Stanzbiopsie eine Antibiotikaprophylaxe (Empfehlungsgrad A), während laut Empfehlung 4.35 bei der transperinealen Stanzbiopsie auf eine Antibiotikaprophylaxe verzichtet werden kann."
+    "correct": 1,
+    "tip": "Mit jedem weiteren Zylinder steigt die Detektion, der Tumornachweis gelingt aber ganz überwiegend in den ersten Entnahmen.",
+    "explanation": "Empfehlung 4.17 (A): PI-RADS-4/5-Herde sollen mit 2–3 Zylindern pro Herd gezielt biopsiert werden. 10–12 Zylinder beziehen sich auf die systematische Biopsie aller Sextanten (Empfehlung 4.31)."
   }
 ]

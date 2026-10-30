@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll laut Empfehlung 19 bei der Indikationsstellung zur Zirkumzision hinsichtlich der Einbeziehung des Patienten beachtet werden?",
+    "question": "Wie sollen Patienten laut Empfehlung 19 in die Entscheidung über eine Phimosebehandlung einbezogen werden?",
     "options": [
-      "Der Patient soll in keiner Weise einbezogen werden.",
-      "Patienten sollen nach umfassender Information partizipativ und entwicklungsphasengerecht in den Entscheidungsprozess einbezogen werden.",
-      "Nur die Eltern entscheiden, unabhängig vom Alter des Kindes.",
-      "Die Entscheidung liegt ausschließlich beim Operateur."
+      "Ab dem vollendeten 14. Lebensjahr mit Vetorecht gegenüber den Sorgeberechtigten",
+      "Nach umfassender Information partizipativ und ihrer Entwicklungsphase entsprechend",
+      "Erst ab voller Einsichtsfähigkeit, bis dahin entscheiden die Sorgeberechtigten",
+      "Über einen standardisierten Präferenzfragebogen vor der geplanten Operation"
     ],
     "correct": 1,
-    "tip": "So soll die Entscheidung auch später für den Patienten noch nachvollziehbar sein.",
-    "explanation": "Patienten sollen nach umfassender Information in partizipativer Form und ihren Entwicklungsphasen entsprechend in den Entscheidungsprozess einbezogen werden (Empfehlung 19)."
+    "tip": "Denken Sie daran, dass psychische Folgen eines Eingriffs auch aus dem Erleben von Kontrollverlust entstehen können.",
+    "explanation": "Empfehlung 19 (9/10): Die Indikation soll leitliniengerecht gestellt und die Patienten sollen nach umfassender Information partizipativ und ihren Entwicklungsphasen entsprechend in den Entscheidungsprozess einbezogen werden, damit die Entscheidung auch später nachvollziehbar bleibt. Rechtlich ist laut Kapitel 6.3.2.1 die Einwilligung der Sorgeberechtigten, bei Einsichtsfähigkeit auch des Jugendlichen nötig; ein Vetorecht ab festem Alter nennt die Leitlinie nicht."
   },
   {
-    "question": "Welches Screeninginstrument kann laut Leitlinie einen Hinweis auf kindliche Verhaltensauffälligkeiten nach einer Behandlung geben?",
+    "question": "Ein 7-jähriger Junge zeigt nach einer Zirkumzision zunehmende Ängste und Verhaltensauffälligkeiten. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Der IPSS-Fragebogen.",
-      "Der SDQ-Fragebogen (Strengths and Difficulties Questionnaire).",
-      "Der HAS-BLED-Score.",
-      "Es existiert kein entsprechendes Screeninginstrument."
+      "Verlaufskontrolle durch den Operateur, Reevaluation nach zwölf Monaten",
+      "Elterngespräch in der Kinderurologie, CBCL-Fragebogen als Diagnostik",
+      "Abklärung durch Kinder- und Jugendpsychiatrie, ggf. SDQ als Screening",
+      "Abklärung durch die Kinderchirurgie, SDQ als definitive Diagnostik"
     ],
-    "correct": 1,
-    "tip": "Der SDQ ist ein gut evaluiertes Screeninginstrument für Kinder und Jugendliche im Alter von 4 bis 17 Jahren.",
-    "explanation": "Einen Hinweis auf kindliche Auffälligkeiten oder psychische Beeinträchtigungen kann z.B. der SDQ-Fragebogen geben."
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen einem kurzen Screeninginstrument und einer fachspezifischen Diagnostik.",
+    "explanation": "Laut Kapitel 6.4.3.1 ist bei Verdacht auf Verhaltensauffälligkeiten oder psychische Beeinträchtigungen eine Abklärung durch Kinder- und Jugendlichenpsychiatrie, -psychotherapie oder Psychosomatische Medizin zu empfehlen. Hinweise kann der SDQ (Strengths and Difficulties Questionnaire) geben – ein kurzes, gut evaluiertes Screeninginstrument für 4- bis 17-Jährige, keine definitive Diagnostik."
   },
   {
-    "question": "Wie bewertet Statement 7 insgesamt die Qualität der Evidenz zu psychischen Beeinträchtigungen nach Zirkumzision?",
+    "question": "Wie bewertet die Leitlinie in Statement 7 die Hinweise auf psychische Beeinträchtigungen nach Zirkumzision?",
     "options": [
-      "Als sehr robust und auf großen randomisierten Studien beruhend.",
-      "Als überwiegend auf Einzelfallberichten und Studien mit niedrigem Evidenzgrad beruhend, weshalb über potenzielle psychische Komplikationen aufgeklärt werden sollte.",
-      "Als vollständig widerlegt und irrelevant für die klinische Praxis.",
-      "Als nicht existent, da hierzu keinerlei Studien vorliegen."
+      "Durch randomisierte Studien gut belegt, daher soll vorab eine Testung erfolgen",
+      "Nicht belegt, daher ist eine Aufklärung über psychische Folgen entbehrlich",
+      "Auf rituelle Beschneidungen beschränkt, bei medizinischer Indikation irrelevant",
+      "Überwiegend niedriger Evidenzgrad, dennoch sollte über sie aufgeklärt werden"
     ],
-    "correct": 1,
-    "tip": "Daraus ergibt sich auch die Notwendigkeit weitergehender Forschungsarbeit mit höherer Aussagekraft.",
-    "explanation": "Die Hinweise auf psychische Beeinträchtigungen basieren überwiegend auf Einzelfallberichten und Studien mit niedrigem Evidenzgrad; dennoch sollte über potenzielle psychische Komplikationen aufgeklärt werden (Statement 7)."
+    "correct": 3,
+    "tip": "Bedenken Sie, auf welchen Studientypen die Literatur zu psychischen Folgen überwiegend beruht.",
+    "explanation": "Statement 7 (11/11): Es gibt Hinweise auf kurzfristige und bis ins Erwachsenenalter reichende psychische Beeinträchtigungen, die jedoch zumeist auf Einzelfallberichten und Studien mit niedrigem Evidenzgrad beruhen; dennoch sollte über potenzielle psychische Komplikationen aufgeklärt werden. Die Daten stammen überwiegend aus nicht medizinisch indizierten Eingriffen und sind laut Kapitel 6.4.3.2 daher nur eingeschränkt auf leitliniengerechte Zirkumzisionen übertragbar."
   },
   {
-    "question": "Was ist laut Statement 8 bezüglich sexueller Funktion und Erleben nach Zirkumzision im Kindesalter festzuhalten?",
+    "question": "Welche Schlussfolgerung zieht die Leitlinie in Statement 8 zu den Auswirkungen einer Zirkumzision im Kindesalter auf die Sexualität?",
     "options": [
-      "Es ist eindeutig und wissenschaftlich gesichert bewiesen, dass keinerlei Beeinträchtigung auftritt.",
-      "Allgemeine Aussagen sind anhand der aktuellen Literatur nicht möglich, es finden sich aber Hinweise, dass Beeinträchtigungen sexueller Funktionen mögliche Konsequenzen sein können.",
-      "Es ist bewiesen, dass sich die sexuelle Funktion durch Zirkumzision immer verbessert.",
-      "Dieses Thema wurde in der Leitlinie nicht untersucht."
+      "Die Datenlage belegt eine verlängerte Ejakulationslatenz als gesicherten Effekt",
+      "Die Datenlage belegt einen klinisch relevanten Sensitivitätsverlust der Glans",
+      "Die Datenlage schließt relevante sexuelle Beeinträchtigungen weitgehend aus",
+      "Die Datenlage erlaubt keine allgemeinen Aussagen, Beeinträchtigungen sind möglich"
     ],
-    "correct": 1,
-    "tip": "Empirische Studien in diesem Bereich sind methodisch schwierig und liefern oft widersprüchliche Ergebnisse.",
-    "explanation": "Allgemeine Aussagen zu Risiken und Komplikationen bezüglich sexueller Funktionen sind nicht möglich; es finden sich aber Hinweise, dass Beeinträchtigungen mögliche Konsequenzen der Beschneidung sein können (Statement 8)."
+    "correct": 3,
+    "tip": "Bedenken Sie Studiendesigns, Selbstauskünfte und Confounder wie die religiös-kulturelle Einstellung zur Beschneidung.",
+    "explanation": "Statement 8 (10/10): Anhand der aktuellen Literatur sind keine allgemeinen Aussagen zu Risiken für sexuelle Funktion und Erleben möglich, es finden sich jedoch Hinweise, dass Beeinträchtigungen mögliche Folgen sein können. Zur Ejakulationslatenz lässt sich laut Kapitel 6.4.4.2 keine endgültige Schlussfolgerung ziehen, und auch die Befunde zur epidermalen Sensitivität sind uneindeutig."
   },
   {
-    "question": "Ist eine Zirkumzision laut Empfehlung 20 bei Jungen mit klinisch relevanter angeborener Anomalie des harnableitenden Systems (z.B. hochgradiger VUR, hintere Harnröhrenklappen) sinnvoll?",
+    "question": "Wie erklärt die Leitlinie die in einer Untersuchung gefundene geringere Empfindlichkeit der Eichel bei beschnittenen Männern?",
     "options": [
-      "Nein, in dieser Situation niemals indiziert.",
-      "Ja, eine bestehende Vorhautenge sollte unabhängig vom Alter medikamentös oder chirurgisch behandelt werden.",
-      "Diese Frage ist nur bei Mädchen relevant.",
-      "Nur nach dem 18. Lebensjahr sinnvoll."
+      "Durch Keratinisierung der zuvor hochsensiblen Glansschleimhaut",
+      "Durch Teildurchtrennung der dorsalen Penisnerven bei der Resektion",
+      "Durch Minderperfusion der Glans nach Ligatur der Frenulumarterie",
+      "Durch narbige Fibrose im Sulcus coronarius mit Rezeptorverlust"
     ],
-    "correct": 1,
-    "tip": "Hier überwiegt das Risiko rezidivierender Harnwegsinfekte den sonst zurückhaltenden Ansatz.",
-    "explanation": "Bei Jungen mit klinisch relevanter angeborener Anomalie des harnableitenden Systems mit HWI-Risiko sollte eine bestehende Vorhautenge unabhängig vom Alter behandelt werden (Empfehlung 20)."
+    "correct": 0,
+    "tip": "Die Erklärung knüpft an Veränderungen an, die nach Neugeborenenbeschneidung auch für die Meatusstenose diskutiert werden.",
+    "explanation": "Laut Kapitel 6.4.4.3 war die Eichel Beschnittener in der Untersuchung von Sorrells et al. weniger empfindlich, erklärbar durch die Umwandlung der bei vorhandener Vorhaut hochsensiblen Glansschleimhaut in ein keratinisiertes Epithel; manche Autoren sehen darin eine Ursache verlängerter Ejakulationslatenz. Die Minderperfusion nach Durchtrennung der Frenulumarterie wird dagegen zur Erklärung der Meatusstenose herangezogen."
   },
   {
-    "question": "Wie viele Zirkumzisionen müssten laut einer zitierten Studie durchgeführt werden, um bei gesunden Jungen ohne Uropathologie einen Harnwegsinfekt zu verhindern?",
+    "question": "Wie viele Zirkumzisionen müssten laut älteren Studien bei gesunden Jungen durchgeführt werden, um eine Harnwegsinfektion zu verhindern?",
     "options": [
-      "Eine einzige.",
-      "111 Zirkumzisionen.",
-      "Die Zirkumzision wirkt immer, unabhängig von der Anzahl.",
-      "Diese Frage wurde nie untersucht."
+      "Etwa 2",
+      "Etwa 4",
+      "Etwa 111",
+      "Etwa 1.000"
     ],
-    "correct": 1,
-    "tip": "Eine neuere Cochrane-Analyse fand zudem keine validen randomisierten Studien, die diesen Effekt belegen.",
-    "explanation": "Älteren Studien zufolge müssten 111 Zirkumzisionen durchgeführt werden, um bei gesunden Jungen einen Harnwegsinfekt zu verhindern."
+    "correct": 2,
+    "tip": "Rund 1 % der gesunden Jungen entwickelt in der Kindheit überhaupt eine Harnwegsinfektion.",
+    "explanation": "Laut Kapitel 7.1 entwickelt ca. 1 % der gesunden Jungen eine HWI; in älteren Studien sank die Rate durch Zirkumzision auf 0,1 %, wofür aber 111 Zirkumzisionen pro verhinderter HWI nötig wären, und eine Cochrane-Analyse fand keine validen randomisierten Belege. Die Werte 4 bzw. 2 gelten für Jungen mit VUR ab Grad III bzw. mit hinteren Harnröhrenklappen."
   },
   {
-    "question": "Was besagt Empfehlung 21 zum Argument der Prävention sexuell übertragbarer Erkrankungen durch Zirkumzision?",
+    "question": "Ein 5 Monate alter Junge mit hinteren Harnröhrenklappen weist eine Vorhautenge auf. Was empfiehlt die Leitlinie?",
     "options": [
-      "Dieses Argument soll aktiv in die Entscheidung zur Phimosebehandlung einbezogen werden.",
-      "Das unzutreffende Argument der STI-Prävention soll NICHT in die Entscheidung zur Behandlung einer Phimose einbezogen werden.",
-      "Zirkumzision gilt als die wirksamste STI-Präventionsmaßnahme überhaupt.",
-      "STI-Prävention ist die Hauptindikation zur Zirkumzision im Kindesalter."
+      "Behandlung der Enge unabhängig vom Alter, medikamentös oder operativ",
+      "Behandlung der Enge erst nach dem ersten Lebensjahr, dann operativ",
+      "Behandlung der Enge erst nach einer zweiten fieberhaften Harnwegsinfektion",
+      "Behandlung der Enge operativ, da topische Steroide hier unwirksam sind"
     ],
-    "correct": 1,
-    "tip": "Eine dänische Kohortenstudie fand bei beschnittenen Männern sogar eine höhere Rate an sexuell übertragbaren Erkrankungen.",
-    "explanation": "Das unzutreffende Argument der Prävention von sexuell übertragbaren Erkrankungen soll nicht in die Entscheidung zur Behandlung einer Phimose einbezogen werden (Empfehlung 21)."
+    "correct": 0,
+    "tip": "Überlegen Sie, wie stark sich das HWI-Risiko und damit die Nutzen-Risiko-Abwägung bei dieser Fehlbildung verschiebt.",
+    "explanation": "Empfehlung 20 (11/11): Bei Jungen mit klinisch relevanter angeborener Anomalie des harnableitenden Systems (z. B. hochgradiger VUR, hintere Harnröhrenklappen) sollte eine bestehende Vorhautenge unabhängig vom Alter medikamentös oder chirurgisch behandelt werden. Eine Corticoidbehandlung ist laut Kapitel 7.1 pathophysiologisch vermutlich ähnlich wirksam wie die Beschneidung."
   },
   {
-    "question": "Wie viele Zirkumzisionen wären laut Leitlinie nötig, um ein einziges Peniskarzinom zu verhindern – und was folgt daraus für die Praxis?",
+    "question": "Ein Vater begründet den Wunsch nach Zirkumzision seines 12-jährigen Sohnes mit Phimose mit dem Schutz vor sexuell übertragbaren Infektionen. Wie ist dieses Argument laut Leitlinie zu bewerten?",
     "options": [
-      "Nur 10, weshalb die Routine-Zirkumzision explizit empfohlen wird.",
-      "Bis zu 322.000, weshalb das Peniskarzinom-Präventionsargument laut Empfehlung 22 nicht zur Entscheidungsfindung herangezogen werden soll.",
-      "Eine einzige Zirkumzision reicht dafür immer aus.",
-      "Diese Zahl wurde in der Leitlinie nie berechnet."
+      "Es ist für HIV belegt und kann bei der Indikation ergänzend berücksichtigt werden",
+      "Es ist für HPV belegt und macht nach erfolgter Zirkumzision eine Impfung entbehrlich",
+      "Es ist bei bestehender Phimose relevant und stützt dann die Indikation zur Operation",
+      "Es ist unzutreffend und soll nicht in die Behandlungsentscheidung einbezogen werden"
     ],
-    "correct": 1,
-    "tip": "Das Komplikationsrisiko der Routine-Zirkumzision übersteigt den Nutzen dieser Maßnahme bei weitem.",
-    "explanation": "Aufgrund der Seltenheit der Erkrankung bedürfte es bis zu 322.000 Zirkumzisionen, um ein Peniskarzinom zu verhindern; dieses Argument soll daher laut Empfehlung 22 nicht zur Entscheidungsfindung herangezogen werden."
+    "correct": 3,
+    "tip": "Bedenken Sie, ob es für die Prävention dieser Erkrankungen weniger invasive und besser belegte Alternativen gibt.",
+    "explanation": "Empfehlung 21 (11/11): Das unzutreffende Argument der STI-Prävention soll nicht in die Entscheidung zur Behandlung einer Phimose einbezogen werden. Laut Kapitel 7.2 waren in einer dänischen Kohortenstudie in der Kindheit beschnittene Männer nicht seltener, sondern sogar häufiger von HIV und anderen STI betroffen, und die HPV-Prävention erfolgt durch Impfung."
   },
   {
-    "question": "Welche Impfung wird vom Robert Koch-Institut zur Reduktion HPV-assoziierter Malignome empfohlen, als Alternative zum Präventionsargument der Zirkumzision?",
+    "question": "Welche Aussage zum Peniskarzinom als Argument für eine Zirkumzision im Kindesalter trifft laut Leitlinie zu?",
     "options": [
-      "Die Masern-Impfung.",
-      "Die HPV-Impfung für Kinder und Jugendliche im Alter von 9-14 Jahren.",
-      "Die Grippeimpfung.",
-      "Es gibt keine entsprechende Impfempfehlung."
+      "Ein Lichen sclerosus senkt durch die frühe Sklerosierung das Karzinomrisiko",
+      "Phimose ist ein Risikofaktor, eine Routinezirkumzision aber unverhältnismäßig",
+      "Eine Routinezirkumzision ist wegen der niedrigen NNT als Prävention gerechtfertigt",
+      "Phimose ist kein Risikofaktor, da das Peniskarzinom überwiegend HPV-bedingt ist"
     ],
     "correct": 1,
-    "tip": "Die HPV-Impfung reduziert das Risiko HPV-assoziierter Malignome deutlich wirksamer als eine Zirkumzision.",
-    "explanation": "Das Robert Koch-Institut empfiehlt Kindern und Jugendlichen im Alter von 9-14 Jahren eine Impfung gegen humane Papillomviren (HPV)."
+    "tip": "Denken Sie an die Inzidenz des Peniskarzinoms und an die Anforderungen, die die Leitlinie an präventive Maßnahmen stellt.",
+    "explanation": "Laut Kapitel 7.3 zählen eine fortbestehende Phimose und ein Lichen sclerosus zu den Risikofaktoren des Peniskarzinoms (Inzidenz 0,9 : 100.000), doch wären bis zu 322.000 Zirkumzisionen nötig, um ein Karzinom zu verhindern – das Komplikationsrisiko übersteigt den Nutzen bei Weitem. Nach Empfehlung 22 (11/11) soll dieses Argument nicht zur Entscheidungsfindung herangezogen werden; das RKI empfiehlt stattdessen die HPV-Impfung im Alter von 9–14 Jahren."
   },
   {
-    "question": "Welche Studienergebnisse berichten Frisch et al. zu sexuellen Funktionsstörungen bei Partnerinnen beschnittener Männer?",
+    "question": "Welche zusätzliche Anforderung stellt die Leitlinie an präventive Maßnahmen speziell bei Kindern?",
     "options": [
-      "Partnerinnen beschnittener Männer berichteten seltener über sexuelle Beeinträchtigungen.",
-      "Partnerinnen beschnittener Männer berichteten häufiger über sexuelle Beeinträchtigungen wie Orgasmusschwierigkeiten und unerfüllte Befriedigung.",
-      "Es wurden keinerlei Unterschiede zwischen den Gruppen festgestellt.",
-      "Diese Frage wurde in der Studie nicht untersucht."
+      "Nachweis der Wirksamkeit in mindestens zwei randomisierten kontrollierten Studien",
+      "Nachweis der Notwendigkeit vor dem Alter eigener Entscheidungsfähigkeit",
+      "Zustimmung beider Sorgeberechtigter und einer Ethikkommission",
+      "Nachweis einer Komplikationsrate von unter einem Prozent"
     ],
     "correct": 1,
-    "tip": "Als möglicher Grund wird die fehlende Gleitfunktion der Vorhaut diskutiert.",
-    "explanation": "Frisch et al. berichteten über häufigere sexuelle Beeinträchtigungen bei Partnerinnen beschnittener Männer, wie Orgasmusschwierigkeiten und unerfüllte sexuelle Bedürfnisse."
+    "tip": "Präventive Maßnahmen betreffen prinzipiell gesunde Menschen – bei Kindern kommt ein zusätzlicher ethischer Aspekt hinzu.",
+    "explanation": "Laut Kapitel 7 müssen präventive Maßnahmen schwere Erkrankungen sicher verhindern, einen positiven Nutzen-Nebenwirkungs-Saldo aufweisen und sind nur sinnvoll, wenn es keine weniger invasive Methode gibt. Bei Kindern ist zudem der Nachweis erforderlich, dass sie bereits in einem Alter notwendig sind, in dem der Patient noch nicht selbst über die Notwendigkeit befinden kann."
   }
 ]

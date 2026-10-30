@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welchen Anteil an allen Nierentumoren machen laut Kapitel 11.1 die tatsächlich erblichen monogenetischen Formen aus, obwohl familiäre Häufungen insgesamt bei 1-14 % beschrieben werden?",
+    "question": "Welcher Patient erfüllt laut Statement 11.1 bereits ein Kriterium, das auf einen erblichen Nierentumor hinweisen kann?",
     "options": [
-      "Höchstens 5-8 %",
-      "Etwa 30-40 %",
-      "Mehr als 50 %",
-      "Praktisch 100 %, jede familiäre Häufung ist monogenetisch bedingt"
-    ],
-    "correct": 0,
-    "tip": "Nicht jede familiäre Häufung ist genetisch bedingt – auch geteilte Umweltfaktoren können eine Rolle spielen.",
-    "explanation": "Kapitel 11.1 beschreibt, dass die Angaben zum familiären Auftreten von Nierentumoren zwischen 1 und 14 % schwanken, wobei die tatsächlich erblichen monogenetischen Formen höchstens einen Anteil von 5-8 % ausmachen."
-  },
-  {
-    "question": "Um wie viele Jahre lag laut einer systematischen US-Analyse (Kapitel 11.1) der Median des Erstdiagnosealters bei erblichen Nierenzellkarzinomen früher als bei sporadischen Formen?",
-    "options": [
-      "Etwa 5 Jahre",
-      "Etwa 10 Jahre",
-      "Etwa 27 Jahre",
-      "Etwa 50 Jahre"
+      "52-Jähriger mit unifokalem klarzelligem NZK, dessen Cousin an einem Nierentumor erkrankte",
+      "58-Jähriger mit unifokalem papillärem NZK und langjährigem, starkem Nikotinkonsum",
+      "44-Jähriger mit unifokalem klarzelligem NZK ohne auffällige Familienanamnese",
+      "63-Jähriger mit unifokalem klarzelligem NZK, dessen Ehefrau einen Nierentumor hatte"
     ],
     "correct": 2,
-    "tip": "Die daraus abgeleitete optimale Altersschwelle zur Identifikation erblicher Formen liegt bei 46 Jahren.",
-    "explanation": "Kapitel 11.1 beschreibt, dass der Median des Erstdiagnosealters bei erblichen Nierenzellkarzinomen 27 Jahre früher lag als bei sporadischen Formen."
+    "tip": "Gehen Sie die fünf Kriterien einzeln durch und achten Sie auf exakte Altersgrenzen und Verwandtschaftsgrade.",
+    "explanation": "Statement 11.1 nennt u. a. ein Erkrankungsalter vor dem 47. Lebensjahr, betroffene Verwandte ersten oder zweiten Grades sowie bilaterale oder multifokale Tumoren; das Alter von 44 Jahren genügt daher. Cousins zählen nicht zu den Verwandten zweiten Grades, Ehepartner teilen allenfalls nicht-erbliche Expositionen; laut Empfehlung 11.2 soll diese Risikoevaluation bei jeder Nierentumordiagnose erfolgen."
   },
   {
-    "question": "Welches Lebenszeitrisiko für renale Malignome und welche Begleitmanifestationen sind laut Tabelle 52 für das Von-Hippel-Lindau-Syndrom (VHL-Gen) charakteristisch?",
+    "question": "Eine 34-Jährige hat bilaterale Nierentumoren; anamnestisch wurde ein retinales Hämangioblastom behandelt. Welche Kombination aus betroffenem Gen und typischer Nierenhistologie ist zu erwarten?",
     "options": [
-      "30-70 % Lebenszeitrisiko; zusätzlich ZNS-Hämangioblastome, Phäochromozytom und neuroendokrine Pankreastumoren.",
-      "< 1 % Lebenszeitrisiko; keine extrarenalen Manifestationen.",
-      "100 % Lebenszeitrisiko; ausschließlich kutane Angiofibrome.",
-      "15-20 % Lebenszeitrisiko; ausschließlich Leiomyome der Haut."
+      "MET-Gen; multiple papilläre NZK, meist WHO-Grad 1–2",
+      "FH-Gen; papilläre High-grade-NZK mit prominenten Nukleolen",
+      "BHD-Gen; hybride onkozytär-chromophobe Tumoren mit Onkozytose",
+      "VHL-Gen; klarzellige NZK, oft zystisch mit niedrigem Kerngrad"
     ],
-    "correct": 0,
-    "tip": "Die renale Histologie bei diesem Syndrom ist typischerweise das klarzellige Nierenzellkarzinom.",
-    "explanation": "Laut Tabelle 52 ist das Von-Hippel-Lindau-Syndrom mit einem Lebenszeitrisiko von 30-70 % für renale Malignome (meist klarzelliges NZK) assoziiert, begleitet von ZNS-Hämangioblastomen, Phäochromozytom, neuroendokrinen Pankreastumoren und weiteren Manifestationen."
+    "correct": 3,
+    "tip": "Verknüpfen Sie die extrarenale Manifestation mit dem passenden Syndrom aus Tabelle 52.",
+    "explanation": "Retinale bzw. zerebelläre Hämangioblastome sind laut Tabelle 52 typisch für das Von-Hippel-Lindau-Syndrom (Lebenszeitrisiko für renale Malignome 30–70 %); laut Kapitel 11.2.2 treten multiple oder bilaterale, oft zystische klarzellige NZK mit niedrigem Kerngrad (WHO-Grad 1–2) auf. Multiple papilläre G1/2-Tumoren sprechen dagegen für das hereditäre papilläre NZK (MET)."
   },
   {
-    "question": "Welches Gen und welche renale Histologie sind laut Tabelle 52 für das hereditäre papilläre Nierenzellkarzinom-Syndrom charakteristisch?",
+    "question": "Welche Zuordnung von Tumorsyndrom und extrarenaler Manifestation entspricht Tabelle 52?",
     "options": [
-      "MET-Gen; papilläres NZK, meist WHO-Grad 1/2, Lebenszeitrisiko ca. 50 %.",
-      "VHL-Gen; klarzelliges NZK, Lebenszeitrisiko ca. 50 %.",
-      "FH-Gen; papilläres NZK, WHO-Grad 3/4.",
-      "BHD-Gen; hybrid-onkozytischer Tumor."
+      "Birt-Hogg-Dubé-Syndrom – Lungenzysten mit Pneumothoraxrisiko",
+      "Von-Hippel-Lindau-Syndrom – Fibrofollikulome und Hautkeratosen",
+      "Tuberöse Sklerose – Paragangliome und gastrointestinale Stromatumoren",
+      "BAP1-Tumorsyndrom – Kiefertumoren und Nebenschilddrüsenadenome"
     ],
     "correct": 0,
-    "tip": "Dieses Syndrom ist namensgebend durch seinen spezifischen histologischen Subtyp.",
-    "explanation": "Laut Tabelle 52 ist das hereditäre papilläre Nierenzellkarzinom-Syndrom mit dem MET-Gen assoziiert, zeigt meist ein papilläres NZK vom WHO-Grad 1/2 und hat ein Lebenszeitrisiko von etwa 50 % für renale Malignome."
+    "tip": "Ordnen Sie jedem Syndrom das Organsystem zu, das neben der Niere klinisch im Vordergrund steht.",
+    "explanation": "Laut Tabelle 52 finden sich beim Birt-Hogg-Dubé-Syndrom gutartige Hauttumoren (Fibrofollikulome), Lungenzysten und als Komplikation ein Pneumothorax. Paragangliome und GIST gehören zum SDH-assoziierten Paragangliom-Phäochromozytom-Syndrom, Kiefertumoren und Nebenschilddrüsenadenome zum HPT-JT-Syndrom."
   },
   {
-    "question": "Welche klinischen Symptome sind laut Tabelle 52 charakteristisch für das Birt-Hogg-Dubé-Syndrom (BHD-Gen)?",
+    "question": "Bei einem 38-jährigen Patienten mit NZK besteht der Verdacht auf eine erbliche Ursache; eine Therapieentscheidung ist nicht dringlich. Wie soll laut Leitlinie vorgegangen werden?",
     "options": [
-      "Gutartige Hauttumoren (Fibrofollikulome), Lungenzysten mit Pneumothorax-Risiko; renale Histologie häufig hybrid-onkozytischer Tumor.",
-      "Leiomyome der Haut und des Uterus; renale Histologie papilläres NZK WHO-Grad 3-4.",
-      "Paragangliome und Phäochromozytome; renale Histologie SDH-defizientes NZK.",
-      "Hamartome der Mamma und Schilddrüsenkarzinom."
+      "Keimbahnanalyse ohne Vorgespräch, genetische Beratung erst bei auffälligem Befund",
+      "Genetische Beratung nach GenDG, Analyse nach Aufklärung und dokumentierter Zustimmung",
+      "Chromosomenanalyse als erster Schritt, genetische Beratung nach deren Ergebnis",
+      "Erweiterte Panelanalyse inklusive CHEK2 und ATM, Beratung bei der Befundmitteilung"
     ],
-    "correct": 0,
-    "tip": "Das Pneumothorax-Risiko entsteht durch die charakteristischen Lungenzysten.",
-    "explanation": "Laut Tabelle 52 ist das Birt-Hogg-Dubé-Syndrom durch gutartige Hauttumoren (u. a. Fibrofollikulome) und Lungenzysten mit Pneumothorax-Risiko gekennzeichnet, mit einem Lebenszeitrisiko von 25-30 % und häufig hybrid-onkozytischem Tumor als renaler Histologie."
+    "correct": 1,
+    "tip": "Unterscheiden Sie zwischen einer akuten Therapiesituation und einer planbaren Abklärung.",
+    "explanation": "Empfehlung 11.4 (EK, soll): Bei Verdacht auf eine erbliche Ursache soll gemäß Gendiagnostikgesetz eine genetische Beratung angeboten werden und ggf. nach Aufklärung und dokumentierter Zustimmung eine Analyse der relevanten Gene erfolgen. Nur in einer akuten Therapiesituation kann primär eine somatische Untersuchung am Tumor ohne vorherige Beratung erfolgen; CHEK2 und ATM sollen nur in wissenschaftlichen Studien analysiert werden."
   },
   {
-    "question": "Welches Lebenszeitrisiko für Nierenzellkarzinome und welche Besonderheit zeigt die Tuberöse Sklerose (TSC1/TSC2) laut Tabelle 52?",
+    "question": "Ein high-grade NZK ohne klarzellige Morphologie zeigt prominente eosinophile Nukleolen mit hellem Halo. Welche Zusatzuntersuchung ist laut Leitlinie diagnostisch wegweisend?",
     "options": [
-      "Nur 1-4 % NZK-Risiko, während gutartige Angiomyolipome bei bis zu 70 % der Betroffenen auftreten.",
-      "100 % NZK-Risiko bei allen Betroffenen.",
-      "30-70 % NZK-Risiko, identisch zum VHL-Syndrom.",
-      "Kein erhöhtes Risiko für irgendeinen Nierentumor."
+      "SDHB-Immunhistochemie mit Nachweis eines Expressionsverlusts",
+      "TFE3-/TFEB-Immunhistochemie zum Nachweis einer Translokation",
+      "FH-Immunhistochemie mit Verlust der zytoplasmatischen Expression",
+      "CK7-Färbung mit starker, homogener zytoplasmatischer Positivität"
     ],
-    "correct": 0,
-    "tip": "Das klinisch führende Nierenproblem bei diesem Syndrom ist meist nicht maligne.",
-    "explanation": "Laut Tabelle 52 liegt das NZK-Lebenszeitrisiko bei Tuberöser Sklerose nur bei 1-4 %, während gutartige Angiomyolipome bei bis zu 70 % der Betroffenen auftreten."
+    "correct": 2,
+    "tip": "Das beschriebene Kernmerkmal allein ist weder ausreichend sensitiv noch spezifisch – gesucht ist ein Proteinverlust.",
+    "explanation": "Laut Hintergrund zu Empfehlung 11.5 sind prominente eosinophile Nukleolen mit Halo typisch für HLRCC-assoziierte NZK; diagnostisch wegweisend ist der vollständige Verlust der FH-Expression (ergänzt durch die 2SC-Färbung), und bei allen high-grade Karzinomen ohne klarzellige Morphologie sollte ein HLRCC per FH-Färbung ausgeschlossen werden. Der SDHB-Verlust kennzeichnet dagegen das SDH-defiziente NZK."
   },
   {
-    "question": "Welche Kriterien nennt Statement 11.1 (Kapitel 11.1, neu 2024), die auf einen erblichen Nierentumor hinweisen können?",
+    "question": "Welche Empfehlungen gibt die Leitlinie zur Dauer der Nachsorge und zur Modalität der renalen Bildgebung bei erblichen Nierentumoren?",
     "options": [
-      "U. a. Erkrankungsalter vor dem 47. Lebensjahr, Verwandte 1./2. Grades mit Nierentumor, bilaterale/multifokale Tumoren und pathognomonische Histologie.",
-      "Ausschließlich das Geschlecht des Patienten.",
-      "Ausschließlich das Vorliegen eines erhöhten Blutdrucks.",
-      "Ausschließlich die Tumorgröße bei Erstdiagnose."
+      "Nachsorge zeitlich unbegrenzt; renale Bildgebung mittels MRT",
+      "Nachsorge über 9 Jahre; renale Bildgebung mittels Kontrastmittel-CT",
+      "Nachsorge über 5 Jahre; renale Bildgebung mittels Sonographie und CT",
+      "Nachsorge zeitlich unbegrenzt; renale Bildgebung mittels Sonographie"
     ],
     "correct": 0,
-    "tip": "Diese Kriterien orientieren sich an Alter, Familienanamnese, Tumorverteilung und Histologie.",
-    "explanation": "Statement 11.1 nennt als Hinweise auf einen erblichen Nierentumor u. a. ein Erkrankungsalter vor dem 47. Lebensjahr, Verwandte ersten oder zweiten Grades mit Nierentumor, bilaterale oder multifokale Nierentumoren sowie Nierentumoren mit pathognomonischer Histologie."
+    "tip": "Überlegen Sie, über wie viele Jahrzehnte diese Patienten bildgebend kontrolliert werden und was daraus folgt.",
+    "explanation": "Empfehlung 11.10 (EK): Bei erblichen Nierentumoren soll die Nachsorge zeitlich unbegrenzt fortgeführt werden, da das monogen vererbte Risiko lebenslang besteht; Empfehlung 11.11 (EK): Zur renalen Bildgebung sollen MRT-Untersuchungen erfolgen. Die MRT vermeidet Strahlenbelastung und ist gegenüber dem Ultraschall untersucherunabhängig und longitudinal besser vergleichbar."
   },
   {
-    "question": "Was fordert die Konsensbasierte Empfehlung in Kapitel 11.1 (neu 2024) bei Diagnose eines Nierentumors?",
+    "question": "Ein 41-jähriger Patient mit gesichertem VHL-Syndrom hat einen neuen soliden Nierentumor von 2,4 cm. Was empfiehlt die Leitlinie?",
     "options": [
-      "Das Risiko für einen erblichen Hintergrund soll anhand definierter Kriterien evaluiert werden, bevorzugt mit einem standardisierten Evaluationsbogen.",
-      "Eine genetische Testung ist bei jedem Patienten obligat, unabhängig von Risikokriterien.",
-      "Eine Evaluation des erblichen Risikos ist nur bei Patienten unter 18 Jahren vorgesehen.",
-      "Eine Risikoevaluation ist bei Nierentumoren grundsätzlich nicht vorgesehen."
+      "Zeitnahe Nierenteilresektion, da VHL-Tumoren früh metastasieren",
+      "Radikale Nephrektomie, da bilaterale Folgetumoren zu erwarten sind",
+      "Systemtherapie mit Belzutifan als in der EU zugelassener Standard",
+      "Prüfung eines abwartenden Vorgehens mit regelmäßigen Kontrollen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung baut direkt auf den in Statement 11.1 genannten Kriterien auf.",
-    "explanation": "Die Empfehlung fordert, dass bei Diagnose eines Nierentumors das Risiko für einen erblichen Hintergrund anhand der genannten Kriterien evaluiert werden soll, wofür ein standardisierter Evaluationsbogen verwendet werden sollte."
+    "correct": 3,
+    "tip": "Bedenken Sie, wie oft diese Patienten im Laufe des Lebens an den Nieren behandelt werden müssen.",
+    "explanation": "Empfehlung 11.13 (Grad A, LoE 1+ bis 3): Bei erblichen Nierentumoren < 3 cm soll ein abwartendes Vorgehen geprüft werden, da Metastasen beim VHL meist erst ab > 3 cm auftreten und wiederholte Eingriffe drohen. Belzutifan ist bislang nur von der FDA zugelassen und in Deutschland lediglich als individueller Heilversuch möglich."
   },
   {
-    "question": "Was empfiehlt Empfehlung 11.3 bei begründetem klinischen Verdacht auf ein hereditäres Tumorsyndrom?",
+    "question": "Bei einer 36-Jährigen mit bekanntem HLRCC (FH-defizient) wird ein 1,8 cm großer Nierentumor entdeckt. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine Beratung in einem spezialisierten Zentrum sollte angeboten werden.",
-      "Eine sofortige bilaterale Nephrektomie ist indiziert.",
-      "Eine genetische Testung ist in diesem Fall kontraindiziert.",
-      "Es ist keine weitere Maßnahme notwendig, da sich die Diagnose nicht auf die Therapie auswirkt."
+      "Abwartendes Vorgehen, da die Tumorgröße unter 3 cm liegt",
+      "Resektion mit weitem Sicherheitsabstand trotz geringer Größe",
+      "Fokale Therapie mittels RFA oder Kryotherapie als Alternative",
+      "Enukleation unter Organerhalt analog zum Vorgehen beim VHL"
     ],
-    "correct": 0,
-    "tip": "Die Betreuung erblicher Nierentumor-Familien ist laut Hintergrundtext eine komplexe multidisziplinäre Aufgabe.",
-    "explanation": "Empfehlung 11.3 sieht vor, dass Betroffenen bei begründetem klinischen Verdacht auf ein hereditäres Tumorsyndrom eine Beratung in einem spezialisierten Zentrum angeboten werden sollte."
+    "correct": 1,
+    "tip": "Die Biologie des Syndroms entscheidet, ob die Tumorgröße ein verlässlicher Risikomarker ist.",
+    "explanation": "Empfehlung 11.16 (Grad B, LoE 3): Bei HLRCC, SDH-NZK und Translokations-NZK sollte unabhängig von der Tumorgröße eine Resektion mit weitem Sicherheitsabstand erfolgen, da diese Tumoren auch unter 3 cm aggressiv wachsen und ein hohes Metastasierungspotenzial haben. Die 3-cm-Grenze für Abwarten oder fokale Therapie gilt etwa für VHL, hereditäres papilläres NZK und Birt-Hogg-Dubé."
   },
   {
-    "question": "Welche zusätzlichen Gene wurden laut einer 2022 veröffentlichten Studie des UK 100.000 Genom Projekts (Kapitel 11.1) als statistisch signifikant in der Keimbahn betroffen identifiziert, definieren aber bisher kein eigenständiges Nierentumor-Syndrom?",
+    "question": "Ein 31-jähriger Patient mit tuberösem Sklerose-Komplex hat ein asymptomatisches, wachsendes Angiomyolipom von 4,5 cm ohne Aneurysma. Welches Vorgehen soll primär erfolgen?",
     "options": [
-      "CHEK2 und ATM.",
-      "VHL und MET.",
-      "BHD und FH.",
-      "TSC1 und TSC2."
+      "Selektive Embolisation, da die 4-cm-Grenze überschritten ist",
+      "Nierenteilresektion, da wachsende Angiomyolipome entarten",
+      "Konservative Therapie mit einem mTOR-Inhibitor wie Everolimus",
+      "Fokale Therapie mittels Kryoablation als nierenschonende Option"
     ],
-    "correct": 0,
-    "tip": "Eine Analyse dieser Gene wird deshalb bislang nur im Rahmen wissenschaftlicher Studien empfohlen.",
-    "explanation": "Die 2022 veröffentlichte Studie des UK 100.000 Genom Projekts zeigte an 1336 Nierenzellkarzinomen CHEK2 und ATM als statistisch signifikant betroffene Keimbahngene, die jedoch bisher kein eigenständiges Syndrom definieren und ohne sichere klinische Konsequenz sind."
+    "correct": 2,
+    "tip": "Beim TSK steht wegen des hohen Niereninsuffizienzrisikos der Erhalt von Nierenparenchym im Vordergrund.",
+    "explanation": "Empfehlung 11.18 (EK): Angiomyolipome > 3 cm mit Wachstumstendenz sollen beim TSK primär konservativ mit einem mTOR-Inhibitor behandelt werden; Everolimus ist laut Statement 11.20 die einzige zugelassene gezielte Therapie erblicher Nierentumoren. Eine selektive Embolisation sollte erst bei mTOR-Versagen und > 4 cm und/oder Aneurysmata > 5 mm bzw. bei akuter Blutung erfolgen."
+  },
+  {
+    "question": "Die 31-jährige Schwester einer Patientin mit gesichertem VHL-Syndrom möchte keine prädiktive Gentestung. Was soll ihr laut Leitlinie angeboten werden?",
+    "options": [
+      "Rückkehr in die hausärztliche Routine, da ein Risiko erst nach Testung belegbar ist",
+      "Klinische Beratung in einem Zentrum mit Erfahrung in der Behandlung der Erkrankung",
+      "Sonographie der Nieren alle 5 Jahre in der hausärztlichen Praxis als Minimalprogramm",
+      "Erneutes Testangebot erst beim Auftreten eigener Symptome oder Nierentumoren"
+    ],
+    "correct": 1,
+    "tip": "Das Recht auf Nichtwissen schließt eine fachkundige Begleitung nicht aus.",
+    "explanation": "Empfehlung 11.24 (EK): Auch Angehörigen, die eine prädiktive Testung ablehnen, soll eine klinische Beratung in einem erfahrenen Zentrum (z. B. Zentrum für seltene Erkrankungen) angeboten werden, da primär von einem erhöhten Risiko auszugehen ist. Zuvor soll allen Angehörigen eine genetische Beratung bei einem erfahrenen Humangenetiker angeboten werden (Empfehlung 11.21)."
   }
 ]

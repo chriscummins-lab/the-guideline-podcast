@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welchen Anteil an allen Nierenzellkarzinomen machen die nicht-klarzelligen Nierenzellkarzinome (nccRCC) laut Kapitel 10 aus?",
+    "question": "Ein 61-jähriger Patient hat ein metastasiertes papilläres Nierenzellkarzinom; eine Studienteilnahme ist nicht möglich. Welche Erstlinientherapie soll laut Leitlinie erfolgen?",
     "options": [
-      "Etwa 1-2 %",
-      "Etwa 20-25 %",
-      "Etwa 50 %",
-      "Etwa 75 %"
+      "Sunitinib-Monotherapie, da Checkpointinhibitoren bei papillärer Histologie unwirksam sind",
+      "IO/IO- oder IO/TKI-Kombination analog zum Vorgehen beim klarzelligen Nierenzellkarzinom",
+      "Temsirolimus-Monotherapie, da es in der ARCC-Subgruppe Interferon-alpha überlegen war",
+      "MET-Inhibitor-Monotherapie, da papilläre Tumoren überwiegend MET-getrieben sind"
     ],
     "correct": 1,
-    "tip": "Das klarzellige RCC bleibt mit etwa 75 % der vorherrschende Subtyp.",
-    "explanation": "Kapitel 10 beschreibt, dass die nicht-klarzelligen Nierenzellkarzinome einen Anteil von 20-25 % ausmachen, während das klarzellige RCC mit etwa 75 % der vorherrschende Subtyp ist."
+    "tip": "Überlegen Sie, wie die Leitlinie mit der dünnen Datenlage für seltene Subtypen pragmatisch umgeht.",
+    "explanation": "Empfehlung 10.6 (Grad A, LoE 1+): Nicht-klarzellige NZK sollen außerhalb von Studien mit einer IO/IO- oder IO/TKI-Kombination analog zum ccRCC behandelt werden; die Zulassungen unterscheiden nicht nach histologischem Subtyp. Sunitinib ist nur im Falle einer Monotherapie der bevorzugte TKI (Empfehlung 10.7)."
   },
   {
-    "question": "Nach welchem System soll die histopathologische Klassifikation der nicht-klarzelligen Nierenzellkarzinome laut Empfehlung in Kapitel 10.1 erfolgen?",
+    "question": "Für einen Patienten mit metastasiertem nicht-klarzelligem NZK kommt lediglich eine Monotherapie infrage. Welche Empfehlung gibt die Leitlinie?",
     "options": [
-      "Nach der jeweils aktuellen WHO-Klassifikation.",
-      "Nach dem R.E.N.A.L.-Score.",
-      "Nach der TNM-Klassifikation von 1997.",
-      "Es existiert kein einheitliches Klassifikationssystem für nccRCC."
+      "TKI, präferenziell Sunitinib, sollten eingesetzt werden (Empfehlungsgrad B)",
+      "mTOR-Inhibitoren, präferenziell Everolimus, sollen eingesetzt werden (Empfehlungsgrad A)",
+      "TKI, präferenziell Pazopanib, sollen eingesetzt werden (Empfehlungsgrad A)",
+      "PD-1-Inhibitoren, präferenziell Pembrolizumab, sollten eingesetzt werden (Empfehlungsgrad B)"
     ],
     "correct": 0,
-    "tip": "Bei Bedarf werden hierfür zusätzlich immunhistochemische und molekularpathologische Untersuchungen empfohlen.",
-    "explanation": "Die Empfehlung in Kapitel 10.1 legt fest, dass die histopathologische Klassifikation der nicht-klarzelligen Nierenzellkarzinome nach der jeweils aktuellen WHO-Klassifikation vorgenommen werden soll."
+    "tip": "Achten Sie auf Wirkstoffklasse, Präferenz und Empfehlungsgrad – die Datenbasis besteht aus wenigen kleinen randomisierten Studien.",
+    "explanation": "Empfehlung 10.7 (Grad B, LoE 1+): Im Falle einer Monotherapie sollten TKI, präferenziell Sunitinib, eingesetzt werden; in der ASPEN-Studie verbesserte Sunitinib das PFS gegenüber Everolimus (8,3 vs. 5,6 Monate). mTOR-Inhibitoren nennt die Leitlinie nur beim chromophoben NZK als Alternative (Empfehlung 10.8)."
   },
   {
-    "question": "Welcher Subtyp ist nach dem klarzelligen RCC laut der WHO-Klassifikationstabelle in Kapitel 10.1 der zweithäufigste, mit einer Häufigkeit von 10-15 %?",
+    "question": "Bei einem Patienten mit metastasiertem chromophobem NZK ohne sarkomatoide Anteile ist eine Monotherapie geplant. Welche Substanzklasse nennt die Leitlinie speziell für diesen Subtyp als Alternative?",
     "options": [
-      "Ductus-Bellini-Karzinom",
-      "Papilläres RCC",
-      "Medulläres RCC",
-      "Tubulozystisches RCC"
+      "mTOR-Inhibitoren wie Everolimus oder Temsirolimus",
+      "MET-Inhibitoren wie Savolitinib oder Crizotinib",
+      "Zytokine wie Interferon-alpha oder Interleukin-2",
+      "Antimetabolite wie Gemcitabin oder Capecitabin"
+    ],
+    "correct": 0,
+    "tip": "Erinnern Sie sich an die kleinen randomisierten Vergleichsstudien beim nccRCC, in denen Sunitinib der Vergleichsarm war.",
+    "explanation": "Empfehlung 10.8 (EK): mTOR-Inhibitoren können beim chromophoben NZK als Alternative eingesetzt werden. MET-Inhibitoren wie Savolitinib und Crizotinib wurden beim papillären NZK untersucht (Pal et al. 2021), und eine alleinige Zytokintherapie soll nicht erfolgen (Empfehlung 10.5)."
+  },
+  {
+    "question": "Wie bewertet die Leitlinie eine alleinige Zytokin-basierte Therapie beim metastasierten nicht-klarzelligen NZK?",
+    "options": [
+      "Sie kann bei günstigem Risikoprofil erwogen werden (Empfehlungsgrad 0)",
+      "Sie sollte erst nach TKI-Versagen eingesetzt werden (Empfehlungsgrad B)",
+      "Sie kann beim papillären Subtyp angeboten werden (Expertenkonsens)",
+      "Sie soll nicht durchgeführt werden (Empfehlungsgrad A, LoE 1-)"
+    ],
+    "correct": 3,
+    "tip": "Denken Sie an die ARCC-Subgruppe, in der Interferon gegen einen mTOR-Inhibitor antrat.",
+    "explanation": "Empfehlung 10.5 (Grad A, LoE 1-): Beim metastasierten nccRCC soll keine alleinige Zytokin-basierte Therapie durchgeführt werden. In der ARCC-Subgruppenanalyse war Temsirolimus Interferon-alpha mit einem medianen OS von 10,7 vs. 4,3 Monaten klar überlegen."
+  },
+  {
+    "question": "Eine 66-jährige Patientin hat ein metastasiertes chromophobes NZK mit sarkomatoider Komponente. Welche Systemtherapie soll laut Leitlinie erfolgen?",
+    "options": [
+      "mTOR-Inhibitor, da er beim chromophoben Subtyp als Alternative gilt",
+      "IO-basierte Kombination (IO/IO oder IO/TKI) wie beim klarzelligen NZK",
+      "Gemcitabin plus Sunitinib, da der sarkomatoide Anteil führend ist",
+      "Sunitinib-Monotherapie als präferenzieller TKI beim nccRCC"
     ],
     "correct": 1,
-    "tip": "Dieser Subtyp zeigt molekulare Charakteristika wie MYC- und teilweise MET-Veränderungen.",
-    "explanation": "Laut der WHO-Klassifikationstabelle in Kapitel 10.1 ist das papilläre RCC mit einer Häufigkeit von 10-15 % der zweithäufigste Subtyp nach dem klarzelligen RCC (75 %)."
+    "tip": "Überlegen Sie, welche Komponente die Therapiewahl stärker prägt – der Grundsubtyp oder die Dedifferenzierung.",
+    "explanation": "Empfehlung 10.10 (EK, soll): Metastasierte NZK mit sarkomatoidem Anteil sollen analog zum ccRCC mit einer IO/IO- oder IO/TKI-Kombination behandelt werden, unabhängig vom Grundsubtyp. Sarkomatoide Tumoren zeigen eine höhere PD-L1-Expression; unter Ipilimumab/Nivolumab lag die ORR bei 60,8 % vs. 23,1 % unter Sunitinib."
   },
   {
-    "question": "Wie soll laut Empfehlung 10.3 (Kapitel 10.2) das diagnostische und operative Vorgehen sowie die Nachsorge bei nicht-klarzelligen Nierenzellkarzinomen erfolgen?",
+    "question": "Welche Aussage zur sarkomatoiden Differenzierung von Nierenzellkarzinomen trifft laut Leitlinie zu?",
     "options": [
-      "Analog zu den klarzelligen Nierenzellkarzinomen.",
-      "Grundsätzlich abweichend mit eigenständigen Protokollen für jede Entität.",
-      "Ausschließlich im Rahmen klinischer Studien, nie in der Routineversorgung.",
-      "Ohne jede Bildgebung, da keine etablierten Verfahren existieren."
+      "Sie gilt in der WHO-Klassifikation als eigene Entität mit etwa 10–15 % Anteil",
+      "Sie tritt vorwiegend beim chromophoben Subtyp auf und verbessert die Prognose",
+      "Sie spricht laut Metaanalysen besser auf VEGF-TKI als auf Checkpointinhibitoren an",
+      "Sie kommt bei allen histologischen Subtypen vor und betrifft etwa 1–5 % der NZK"
     ],
-    "correct": 0,
-    "tip": "Dies gilt, obwohl für die medikamentöse Systemtherapie teils andere Empfehlungen bestehen.",
-    "explanation": "Empfehlung 10.3 legt fest, dass das diagnostische und operative Vorgehen sowie die Nachsorge bei nicht-klarzelligen Nierenzellkarzinomen analog zu den klarzelligen Nierenzellkarzinomen erfolgen soll."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen einer eigenständigen Tumorentität und einem prognostisch ungünstigen Wachstumsmuster.",
+    "explanation": "Laut Hintergrund zu Empfehlung 10.10 wird die sarkomatoide Differenzierung in der WHO-Klassifikation nicht als eigene Entität geführt, kann bei allen Subtypen auftreten, findet sich bei etwa 1–5 % aller NZK und geht mit aggressiverem Verlauf einher. Die 10–15 % beziehen sich auf den Anteil des papillären NZK (Tabelle 48)."
   },
   {
-    "question": "Was besagt Statement 10.4 zu entitätsbezogenen Therapiestandards bei nicht-klarzelligen Nierenzellkarzinomen?",
+    "question": "Wie sind die beiden Empfehlungen zur histopathologischen Klassifikation nicht-klarzelliger NZK formuliert?",
     "options": [
-      "Für die nicht-klarzelligen Nierenzellkarzinome gibt es keine entitätsbezogenen Standards.",
-      "Für jeden nccRCC-Subtyp existiert ein eigener, international etablierter Therapiestandard.",
-      "Es existiert ein einziger verbindlicher Therapiestandard für alle nccRCC-Subtypen gemeinsam.",
-      "Entitätsbezogene Standards sind gesetzlich vorgeschrieben und vollständig etabliert."
+      "WHO-Klassifikation sollte erfolgen; IHC/Molekularpathologie kann bei Bedarf ergänzt werden",
+      "WHO-Klassifikation kann erfolgen; IHC/Molekularpathologie soll routinemäßig ergänzt werden",
+      "WHO-Klassifikation soll erfolgen; IHC/Molekularpathologie sollte bei Bedarf ergänzt werden",
+      "WHO-Klassifikation soll erfolgen; IHC/Molekularpathologie soll routinemäßig ergänzt werden"
     ],
-    "correct": 0,
-    "tip": "Dies liegt unter anderem daran, dass die meisten Therapiestudien überwiegend klarzellige Nierenzellkarzinome eingeschlossen haben.",
-    "explanation": "Statement 10.4 stellt fest, dass für die nicht-klarzelligen Nierenzellkarzinome keine entitätsbezogenen Standards existieren."
+    "correct": 2,
+    "tip": "Denken Sie an schwierige Differentialdiagnosen wie Urothelkarzinom des Nierenbeckens oder Onkozytom.",
+    "explanation": "Empfehlung 10.1 (EK): Die Klassifikation soll nach der jeweils aktuellen WHO-Klassifikation erfolgen; Empfehlung 10.2 (EK): Wenn notwendig, sollten immunhistochemische und ggf. molekularpathologische Untersuchungen ergänzt werden, etwa zur Abgrenzung des papillären NZK vom Urothelkarzinom (Panel u. a. PAX8, GATA3, TFE3)."
   },
   {
-    "question": "Was besagt Empfehlung 10.5 (Empfehlungsgrad A) zur alleinigen Zytokin-basierten Therapie bei metastasierten nicht-klarzelligen Nierenzellkarzinomen?",
+    "question": "Nach Teilresektion wird ein papilläres NZK pT1b cN0 cM0 diagnostiziert. Wie soll die Nachsorge laut Leitlinie gestaltet werden?",
     "options": [
-      "Sie soll nicht durchgeführt werden.",
-      "Sie soll als bevorzugte Erstlinientherapie eingesetzt werden.",
-      "Sie ist der TKI-Monotherapie in jedem Fall überlegen.",
-      "Sie wird nur beim chromophoben Subtyp empfohlen."
+      "Nach einem eigenen papillär-spezifischen Schema mit verkürzten Intervallen",
+      "Mit zusätzlichem jährlichem PET/CT, da nccRCC früher metastasieren",
+      "Analog zum klarzelligen NZK, da entitätsbezogene Standards fehlen",
+      "Mit Verzicht auf Schnittbildgebung, da papilläre NZK selten metastasieren"
     ],
-    "correct": 0,
-    "tip": "Dies entspricht der analogen Empfehlung beim klarzelligen Nierenzellkarzinom.",
-    "explanation": "Empfehlung 10.5 legt mit Empfehlungsgrad A fest, dass bei metastasierten nicht-klarzelligen Nierenzellkarzinomen keine alleinige Zytokin-basierte Therapie durchgeführt werden soll."
+    "correct": 2,
+    "tip": "Bedenken Sie, wie dünn die subtypspezifische Evidenz für Diagnostik, Operation und Verlaufskontrolle insgesamt ist.",
+    "explanation": "Empfehlung 10.3 (EK, soll): Diagnostisches und operatives Vorgehen sowie die Nachsorge sollen beim nccRCC analog zum ccRCC erfolgen; Statement 10.4 hält fest, dass es keine entitätsbezogenen Standards gibt. Ein PET/CT hat in der Routine-Nachsorge keinen Stellenwert (Kapitel 14)."
   },
   {
-    "question": "Wie sollen nicht-klarzellige Nierenzellkarzinome laut Empfehlung 10.6 (Empfehlungsgrad A) außerhalb von Studien behandelt werden?",
+    "question": "Welche Häufigkeitsverteilung der Subtypen des Nierenzellkarzinoms nennt die Leitlinie in Kapitel 10.1 und Tabelle 48?",
     "options": [
-      "Mit einer IO/IO- oder IO/TKI-Kombination analog zu den klarzelligen Nierenzellkarzinomen.",
-      "Ausschließlich mit klassischer Chemotherapie.",
-      "Grundsätzlich ohne jede medikamentöse Therapie.",
-      "Ausschließlich mit Zytokin-Monotherapie."
+      "Klarzellig etwa 75 %, chromophob 10–15 %, papillär etwa 5 %",
+      "Klarzellig etwa 60 %, papillär 20–25 %, chromophob etwa 10 %",
+      "Klarzellig etwa 85 %, papillär etwa 5 %, Ductus Bellini etwa 5 %",
+      "Klarzellig etwa 75 %, papillär 10–15 %, chromophob etwa 5 %"
     ],
-    "correct": 0,
-    "tip": "Die Datenlage für diese neueren Substanzen bei nccRCC ist allerdings laut Hintergrundtext noch begrenzt.",
-    "explanation": "Empfehlung 10.6 fordert, dass nicht-klarzellige Nierenzellkarzinome außerhalb von Studien mit einer IO/IO- oder IO/TKI-Kombination analog zu den klarzelligen Nierenzellkarzinomen behandelt werden sollen."
+    "correct": 3,
+    "tip": "Ordnen Sie zuerst den Anteil aller nicht-klarzelligen Tumoren ein und verteilen Sie ihn dann auf die Subtypen.",
+    "explanation": "Laut Kapitel 10.1 und Tabelle 48 macht das ccRCC etwa 75 % aus, die nccRCC zusammen 20–25 %; darunter ist das papilläre RCC mit 10–15 % am häufigsten, das chromophobe RCC liegt bei etwa 5 %. Die 20–25 % beschreiben die gesamte nicht-klarzellige Gruppe, nicht den papillären Subtyp."
   },
   {
-    "question": "Welche Substanz sollte laut Empfehlung 10.7 (Empfehlungsgrad B) im Falle einer Monotherapie bei metastasiertem nicht-klarzelligem Nierenzellkarzinom präferenziell eingesetzt werden?",
+    "question": "Welche Aussage zur Datenlage der Systemtherapie beim metastasierten nicht-klarzelligen NZK trifft laut Leitlinie zu?",
     "options": [
-      "Sunitinib (als bevorzugter TKI).",
-      "Ausschließlich Interferon-alpha.",
-      "Ausschließlich Ipilimumab.",
-      "Ausschließlich klassische Chemotherapeutika."
+      "Gegenüber dem ccRCC sind Ansprechen auf VEGF-/mTOR-Therapie und medianes OS eher schlechter",
+      "Für Cabozantinib und Checkpointinhibitoren liegen beim nccRCC umfangreiche Phase-III-Daten vor",
+      "Mehrere große Phase-III-Studien belegen einen OS-Vorteil von mTOR-Inhibitoren gegenüber TKI",
+      "Die EMA-Zulassungen der IO-Kombinationen sind bislang auf das klarzellige NZK beschränkt"
     ],
     "correct": 0,
-    "tip": "Es handelt sich allgemein um einen Tyrosinkinaseinhibitor (TKI).",
-    "explanation": "Empfehlung 10.7 sieht vor, dass im Falle einer Monotherapie bei metastasiertem nicht-klarzelligem Nierenzellkarzinom TKI-Inhibitoren, präferenziell Sunitinib, eingesetzt werden sollten."
-  },
-  {
-    "question": "Für welchen spezifischen nccRCC-Subtyp können laut Empfehlung 10.8 mTOR-Inhibitoren als Alternative eingesetzt werden?",
-    "options": [
-      "Das chromophobe Nierenzellkarzinom.",
-      "Das Ductus-Bellini-Karzinom.",
-      "Das medulläre Nierenzellkarzinom.",
-      "Ausschließlich das klarzellige Nierenzellkarzinom."
-    ],
-    "correct": 0,
-    "tip": "Diese Empfehlung ist als Expertenkonsens formuliert und bezieht sich auf einen spezifischen histologischen Subtyp.",
-    "explanation": "Empfehlung 10.8 besagt, dass mTOR-Inhibitoren beim chromophoben Nierenzellkarzinom als Alternative eingesetzt werden können."
-  },
-  {
-    "question": "Welches Ergebnis zeigte die Subgruppenanalyse der ARCC-Studie (Temsirolimus vs. Interferon-alpha) bei nicht-klarzelligen, überwiegend papillären Nierenzellkarzinomen hinsichtlich des Gesamtüberlebens?",
-    "options": [
-      "10,7 Monate (Temsirolimus) vs. 4,3 Monate (IFN-alpha), HR 0,49 zugunsten Temsirolimus.",
-      "Kein Unterschied zwischen beiden Behandlungsarmen.",
-      "4,3 Monate (Temsirolimus) vs. 10,7 Monate (IFN-alpha) zugunsten IFN-alpha.",
-      "25 Monate in beiden Armen, exakt identisch."
-    ],
-    "correct": 0,
-    "tip": "Auch das progressionsfreie Überleben war unter Temsirolimus mit 7 vs. 1,8 Monaten deutlich verlängert.",
-    "explanation": "In der Subgruppenanalyse der ARCC-Studie war das Gesamtüberleben bei nicht-klarzelligen (überwiegend papillären) Nierenzellkarzinomen unter Temsirolimus mit 10,7 Monaten gegenüber 4,3 Monaten unter Interferon-alpha signifikant überlegen (HR 0,49)."
+    "tip": "Bedenken Sie, welche Patienten in die großen Zulassungsstudien des Nierenzellkarzinoms überwiegend eingeschlossen wurden.",
+    "explanation": "Laut Hintergrund zu Kapitel 10.2 zeigen nccRCC im Vergleich zum ccRCC ein eher schlechteres Ansprechen auf VEGF- oder mTOR-gerichtete Therapien und ein kürzeres medianes OS; die Daten stammen aus Kohortenstudien und wenigen kleinen RCT. Die EMA-Zulassungen unterscheiden bisher nicht nach Tumorentität."
   }
 ]

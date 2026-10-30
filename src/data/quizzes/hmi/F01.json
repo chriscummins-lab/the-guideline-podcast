@@ -1,122 +1,122 @@
 [
   {
-    "question": "Im Juli 2017 veröffentlichte die Stiftung Warentest einen Test zur Beratungsqualität bei Hilfsmittelversorgung. Wie setzte sich die getestete Stichprobe von 20 Anbietern zusammen?",
+    "question": "Die Leitlinie begründet das Versorgungsdefizit mit einem Test der Stiftung Warentest aus dem Jahr 2017. Welche Anbieter wurden dort stichprobenhaft getestet?",
     "options": [
-      "10 Homecare-Unternehmen, 5 Sanitätshäuser und 5 Apotheken, besucht von 7 geschulten Testern.",
-      "10 Apotheken, 5 Sanitätshäuser und 5 Homecare-Unternehmen.",
-      "20 Sanitätshäuser, ohne Homecare-Unternehmen oder Apotheken.",
-      "7 Homecare-Unternehmen, 7 Sanitätshäuser und 6 Apotheken."
+      "10 Homecare-Unternehmen, 5 Sanitätshäuser, 5 Apotheken",
+      "5 Homecare-Unternehmen, 10 Sanitätshäuser, 5 Apotheken",
+      "5 Homecare-Unternehmen, 5 Sanitätshäuser, 10 Apotheken",
+      "7 Homecare-Unternehmen, 7 Sanitätshäuser, 6 Apotheken"
     ],
     "correct": 0,
-    "tip": "Insgesamt wurden 7 Testfälle mit typischen Symptomen von Fachgutachtern vorbereitet.",
-    "explanation": "Laut Kapitel 1.1 wurden 10 Homecare-Unternehmen als Vertragspartner der Krankenkassen, 5 Sanitätshäuser und 5 Apotheken stichprobenhaft ausgewählt und von 7 geschulten Testern besucht."
+    "tip": "Das Fazit der Tester lautete „kein Verlass auf Profis“ – geprüft wurde die Erstberatung bei drei Anbietertypen.",
+    "explanation": "Laut Kapitel 1.1 wurden 10 Homecare-Unternehmen (Vertragspartner der gesetzlichen Krankenkassen), 5 Sanitätshäuser und 5 Apotheken von 7 geschulten Testern anhand von 7 Testfällen besucht. Die Zahl 7 betrifft also Tester und Testfälle, nicht die Anbieter."
   },
   {
-    "question": "Wie fiel das Gesamturteil der Stiftung Warentest für Homecare-Unternehmen im Vergleich zu Sanitätshäusern und Apotheken aus?",
+    "question": "Welche Hilfsmittel nimmt die Leitlinie laut Kapitel 1.3 ausdrücklich aus ihrem Geltungsbereich aus?",
     "options": [
-      "Homecare-Unternehmen: 'Befriedigend' bis 'Mangelhaft'; Sanitätshäuser und Apotheken: 'Ausreichend' bis 'Mangelhaft'.",
-      "Alle Anbietergruppen erhielten durchgängig die Note 'Gut'.",
-      "Homecare-Unternehmen: 'Sehr gut' bis 'Gut'; Sanitätshäuser und Apotheken: 'Befriedigend'.",
-      "Es wurde kein Gesamturteil vergeben, nur Einzelbewertungen."
+      "Kondomurinale und Futterale",
+      "Inkontinenztampons und Vorlagen",
+      "Katheter und Urethra-Pessare",
+      "Toilettenstuhl und Bettflasche"
     ],
-    "correct": 0,
-    "tip": "Das Fazit der Stiftung Warentest lautete sinngemäß: 'kein Verlass auf Profis'.",
-    "explanation": "Kapitel 1.1 beschreibt, dass das Gesamturteil bei Homecare-Unternehmen von 'Befriedigend' bis 'Mangelhaft' und bei Sanitätshäusern/Apotheken von 'Ausreichend' bis 'Mangelhaft' reichte."
+    "correct": 2,
+    "tip": "Entscheidend ist, ob der Patient das Hilfsmittel selbst anwendet oder ob Indikation und Erstberatung beim (Fach-)Arzt liegen.",
+    "explanation": "Kapitel 1.3: Die Leitlinie umfasst aufsaugende und sammelnde, körpernahe und körperferne Hilfsmittel, die der Patient selbst benutzt; invasive Hilfsmittel wie Katheter und Urethra-Pessare sind ausdrücklich ausgenommen, weil Indikation und Erstberatung in der Regel ärztlich erfolgen. Kondomurinal, Futterale, Inkontinenztampons, Toilettenstuhl und Bettflasche stehen dagegen in Tabelle 1."
   },
   {
-    "question": "Welche Hilfsmittel sind laut Geltungsbereich der Leitlinie (Kapitel 1.3) ausdrücklich von der Betrachtung ausgenommen?",
+    "question": "Nach welchen beiden Achsen ordnet Tabelle 1 die Hilfsmittel, die Gegenstand der Hilfsmittelberatung sind?",
     "options": [
-      "Invasive Hilfsmittel wie Katheter und Urethra-Pessare.",
-      "Alle aufsaugenden Vorlagen.",
-      "Kondomurinale.",
-      "Toilettenstühle und Toilettensitzerhöhungen."
+      "Aufsaugend/sammelnd/funktionell-anatomisch sowie Einweg/wiederverwendbar",
+      "Aufsaugend/ableitend/invasiv-urethral sowie körpernah/körperfern",
+      "Aufsaugend/ableitend/invasiv-urethral sowie Einweg/wiederverwendbar",
+      "Aufsaugend/sammelnd/funktionell-anatomisch sowie körpernah/körperfern"
     ],
-    "correct": 0,
-    "tip": "Deren Indikationsstellung und Erstberatung erfolgt in aller Regel durch einen (Fach-)Arzt oder in Absprache mit diesem.",
-    "explanation": "Laut Kapitel 1.3 ist die Versorgung mit invasiven Hilfsmitteln (Katheter, Urethra-Pessare etc.) ausdrücklich aus dem Geltungsbereich der Leitlinie ausgenommen; diese umfasst nur Hilfsmittel, die der Patient selbst benutzt."
+    "correct": 3,
+    "tip": "Tabelle 1 kombiniert das Wirkprinzip eines Hilfsmittels mit dem Ort seiner Anwendung.",
+    "explanation": "Tabelle 1 unterscheidet aufsaugende, sammelnde und funktionell-anatomische sowie körpernahe (z. B. Vorlagen, Kondomurinal, Inkontinenztampons) und körperferne Hilfsmittel (z. B. Betteinlagen, Bettflasche, Toilettenstuhl). Die Unterscheidung Einweg/wiederverwendbar stammt aus der Produktgruppe 15 (Kapitel 3), „ableitend“ aus dem Kapitel zu Festbeträgen; invasive Hilfsmittel sind ausgeschlossen."
   },
   {
-    "question": "Nach welchen zwei Dimensionen werden die Hilfsmittel in Tabelle 1 systematisiert?",
+    "question": "Eine 79-jährige Patientin mit Belastungsinkontinenz lehnt nach ausführlicher Aufklärung alle kurativen Therapieoptionen ab und wünscht Vorlagen. Ist eine palliative Hilfsmittelversorgung laut Empfehlung I leitlinienkonform?",
     "options": [
-      "Nach der Art der Funktionsweise (aufsaugend / sammelnd / funktionell-anatomisch) und danach, ob sie körpernah oder körperfern eingesetzt werden.",
-      "Nach Kosten (günstig / teuer) und Erstattungsfähigkeit (ja / nein).",
-      "Ausschließlich nach Hersteller und Produktname.",
-      "Ausschließlich nach der zugrunde liegenden Inkontinenzform."
+      "Nein, zuvor muss ein kurativer Therapieversuch frustran verlaufen sein",
+      "Nein, dafür muss ein besonderes Risiko der kurativen Therapie vorliegen",
+      "Ja, sofern zusätzlich kein Rehabilitationspotential mehr besteht",
+      "Ja, da die kurativen Therapieansätze von ihr nicht gewünscht werden"
     ],
-    "correct": 0,
-    "tip": "Betteinlagen, Bettflasche, Toilettenstuhl und Toilettensitzerhöhung sind Beispiele für körperferne Hilfsmittel.",
-    "explanation": "Tabelle 1 ordnet die Hilfsmittel nach ihrer Funktionsweise (aufsaugend, sammelnd, funktionell-anatomisch) sowie danach, ob sie körpernah (z. B. Vorlagen, Kondomurinal) oder körperfern (z. B. Betteinlagen, Bettflasche, Toilettenstuhl) eingesetzt werden."
+    "correct": 3,
+    "tip": "Empfehlung I verknüpft drei Bedingungen – prüfen Sie, ob sie kumulativ oder alternativ gelten.",
+    "explanation": "Nach Empfehlung I (Statement, Empfehlung offen, starker Konsens) ist eine palliative Versorgung leitlinienkonform, wenn kurative Ansätze frustran verliefen, nicht gewünscht werden oder mit besonderen Risiken verbunden sind – jede dieser Bedingungen genügt. Das Rehabilitationspotential ist Maßstab für den Hinweis auf kurative Optionen (Empfehlung IV), keine Voraussetzung der palliativen Versorgung."
   },
   {
-    "question": "Ein 91-jähriger Patient mit fortgeschrittener Demenz hat bereits mehrere frustrane Therapieversuche seiner Dranginkontinenz hinter sich; eine Fortführung medikamentöser Therapie erscheint zudem riskant. Welche Aussage zu Empfehlung I ist korrekt?",
+    "question": "Mit welchem Empfehlungsgrad fordert die Leitlinie, die Indikation für eine Hilfsmittelversorgung anstelle kurativer Therapieformen zu dokumentieren (Empfehlung II)?",
     "options": [
-      "Eine palliative Versorgung der Harninkontinenz ist leitlinienkonform möglich, wenn kurative Therapieansätze frustran verliefen, nicht gewünscht werden oder mit besonderen Risiken verbunden sind.",
-      "Eine palliative Versorgung ist in der Leitlinie grundsätzlich nicht vorgesehen.",
-      "Vor jeder Hilfsmittelversorgung muss zwingend eine Botulinumtoxin-Therapie versucht werden.",
-      "Eine palliative Versorgung ist nur bei jüngeren Patienten ohne Komorbiditäten zulässig."
+      "Soll-Empfehlung (starke Empfehlung)",
+      "Kann-Empfehlung (Empfehlung offen)",
+      "Sollte-Empfehlung (Empfehlung)",
+      "Statement (Empfehlung offen)"
     ],
-    "correct": 0,
-    "tip": "Die Empfehlung verweist zusätzlich auf die AWMF-Leitlinie Harninkontinenz bei geriatrischen Patienten (Registernummer 84-001).",
-    "explanation": "Empfehlung I besagt, dass eine palliative Versorgung einer Harninkontinenz leitlinienkonform ist, wenn alle kurativen Therapieansätze frustran verliefen, nicht gewünscht werden oder mit besonderen Risiken für den Betroffenen verbunden sind."
+    "correct": 2,
+    "tip": "Achten Sie auf das Modalverb im Empfehlungstext: soll, sollte oder kann.",
+    "explanation": "Empfehlung II lautet: Die Indikation für die Hilfsmittelversorgung anstelle kurativer Therapieformen sollte dokumentiert werden (Empfehlung, starker Konsens 20/20). Eine starke Soll-Empfehlung ist dagegen der Hinweis auf kurative Optionen (Empfehlung IV); die Empfehlungen I und III sind Statements mit offener Empfehlung."
   },
   {
-    "question": "Was fordert die starke Empfehlung IV?",
+    "question": "Eine 52-jährige Läuferin ohne Komorbiditäten mit Belastungsinkontinenz möchte „einfach nur Einlagen“. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Alle betroffenen Patienten sollen in Abhängigkeit von ihrem Rehabilitationspotential und der zu erwartenden Prognose auf kurative Behandlungsoptionen hingewiesen werden.",
-      "Kurative Therapieoptionen sollen nur bei Patienten unter 60 Jahren erwähnt werden.",
-      "Eine Hilfsmittelversorgung soll grundsätzlich jeder kurativen Therapie vorgezogen werden.",
-      "Kurative Optionen müssen nicht angesprochen werden, wenn der Patient primär eine Hilfsmittelversorgung wünscht."
+      "Auf kurative Optionen hinweisen, Einlagen begleitend verordnen",
+      "Einlagen verordnen, kurative Optionen erst auf Nachfrage nennen",
+      "Einlagen erst nach abgeschlossenem Beckenbodentraining verordnen",
+      "Einlagen ablehnen, da bei ihr die kurative Therapie Vorrang hat"
     ],
     "correct": 0,
-    "tip": "Gerade bei jüngeren Patienten ohne Komorbiditäten sollten kurative Optionen Erwähnung finden.",
-    "explanation": "Empfehlung IV (starke Empfehlung) fordert, dass alle betroffenen Patienten je nach Rehabilitationspotential und Prognose auf kurative Behandlungsoptionen hingewiesen werden sollen."
+    "tip": "Bedenken Sie Rehabilitationspotential und Prognose dieser Patientin – und das Verhältnis von Versorgung und Therapie.",
+    "explanation": "Nach Empfehlung IV (starke Empfehlung) sollen alle Betroffenen abhängig von Rehabilitationspotential und Prognose auf kurative Optionen hingewiesen werden, gerade jüngere Patienten ohne Komorbiditäten. Empfehlung III hält Hilfsmittel begleitend zur kurativen Therapie für sinnvoll, sodass weder Abwarten bis zum Therapieende noch eine Ablehnung der Einlagen leitlinienkonform ist."
   },
   {
-    "question": "Bei einem Patienten mit Engwinkelglaukom soll eine medikamentöse Therapie der überaktiven Blase erwogen werden. Welche Substanzklasse ist laut Tabelle 2 in dieser Konstellation besonders riskant, und warum?",
+    "question": "Bei einer 86-jährigen Pflegeheimbewohnerin mit Dranginkontinenz und Delir in der Anamnese warnt Tabelle 2 vor Anticholinergika: Verschlechterung der Kognition und bei chronischer Gabe Entwicklung einer Demenz. Für welche Substanzgruppe ist das Demenzrisiko ausdrücklich angegeben?",
     "options": [
-      "Anticholinergika, da sie den Augeninnendruck erhöhen können.",
-      "Mirabegron, da es den Augeninnendruck senkt.",
-      "Desmopressin, da es eine Mydriasis auslöst.",
-      "Botulinumtoxin, da es zu einer Linsentrübung führt."
+      "Anticholinergika mit tertiärer Aminstruktur",
+      "Anticholinergika mit quartärer Aminstruktur",
+      "Anticholinergika mit M3-Rezeptorselektivität",
+      "Anticholinergika in transdermaler Applikation"
     ],
     "correct": 0,
-    "tip": "Dieselbe Substanzklasse ist laut Tabelle 2 auch bei Obstipation und tachykardem Vorhofflimmern riskant.",
-    "explanation": "Tabelle 2 nennt Anticholinergika bei Engwinkelglaukom als Risikokonstellation, da sie zu einer Erhöhung des Augeninnendrucks führen können."
+    "tip": "Ob ein Anticholinergikum zentral wirkt, hängt wesentlich davon ab, wie leicht es die Blut-Hirn-Schranke passiert.",
+    "explanation": "Tabelle 2 nennt bei kognitivem Defizit, beginnender Demenz, Delirgefährdung bzw. Delir in der Anamnese eine Verschlechterung der Kognition und bei chronischer Gabe die Entwicklung einer Demenz – ausdrücklich bei tertiären Aminen. Zusätzlich warnt sie vor anticholinergen Summeneffekten der Komedikation (ACB-Score)."
   },
   {
-    "question": "Bei welcher Risikokonstellation ist laut Tabelle 2 der Einsatz von Mirabegron besonders kritisch zu prüfen?",
+    "question": "Bei einem 84-jährigen Patienten mit latenter Herzinsuffizienz wird ein ADH-Analogon (Desmopressin) erwogen. Welche Folge nennt Tabelle 2 für diese Risikokonstellation?",
     "options": [
-      "Schlecht eingestellte Hypertonie, wegen möglicher Summeneffekte (s. ACB-Score).",
-      "Latente Herzinsuffizienz.",
-      "Obstipation.",
-      "Lokaler Östrogenmangel."
+      "Verschlimmerung einer Restharnbildung bis zur Harnverhaltung",
+      "Serotonin-Syndrom mit Tachykardie und Agitiertheit",
+      "Hypotone Hyperhydratation mit Hyponatriämie und Lungenödem",
+      "Erhöhung des Augeninnendrucks bei engem Kammerwinkel"
     ],
-    "correct": 0,
-    "tip": "Mirabegron ist ein β3-Mimetikum, dessen Wirkmechanismus den Blutdruck beeinflussen kann.",
-    "explanation": "Tabelle 2 führt die schlecht eingestellte Hypertonie als Risikokonstellation für den Einsatz von Mirabegron auf, mit möglichen Summeneffekten."
+    "correct": 2,
+    "tip": "Denken Sie an den Wirkmechanismus des antidiuretischen Hormons und an die kardiale Reserve.",
+    "explanation": "Tabelle 2 nennt für ADH-Analoga (DDAVP) bei latenter Herzinsuffizienz hypotone Hyperhydratation, Wasserretention, Hyponatriämie, Delir und Lungenödem. Die Harnverhaltung gehört zu Botulinumtoxin bei Restharnbildung, das Serotonin-Syndrom zu Duloxetin plus Serotonin-Reuptake-Hemmern oder CYP-Inhibitoren."
   },
   {
-    "question": "Welche gefährliche Komplikation droht laut Tabelle 2, wenn Duloxetin zusätzlich zu einem Serotonin-Wiederaufnahmehemmer (z. B. Fluoxetin) oder einem CYP-Inhibitor (z. B. Ciprofloxacin) gegeben wird?",
+    "question": "Welche Zuordnung von Risikokonstellation und geplanter Intervention führt Tabelle 2 als besondere Risikokonstellation einer kurativen Therapie auf?",
     "options": [
-      "Ein Serotonin-Syndrom mit Tachykardie, Agitiertheit, Fieber, Tremor, Rigor, Myoklonus, Hyperreflexie und Ataxie bis hin zum Koma.",
-      "Eine folgenlose, rasche Heilung der Harninkontinenz.",
-      "Eine isolierte Hyperkaliämie ohne weitere Symptome.",
-      "Eine akute Niereninsuffizienz ohne begleitende Symptomatik."
+      "Engwinkelglaukom – ß3-Mimetikum Mirabegron",
+      "Lokaler Östrogenmangel – suburethrales Band",
+      "Obstipation – intravesikales Botulinumtoxin",
+      "Immobilität – Duloxetin bei Belastungsinkontinenz"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich droht laut Tabelle 2 eine Verschlimmerung der Restharnbildung bis zur Überlaufinkontinenz.",
-    "explanation": "Laut Tabelle 2 kann die Kombination von Duloxetin mit Serotonin-Reuptake-Hemmern oder CYP-Inhibitoren ein Serotonin-Syndrom mit Tachykardie, Agitiertheit, Fieber, Tremor, Rigor, Myoklonus, Hyperreflexie und Ataxie bis hin zum Koma auslösen."
+    "correct": 1,
+    "tip": "Tabelle 2 betrifft nicht nur Medikamente, sondern auch operative und physikalische Verfahren.",
+    "explanation": "Tabelle 2 nennt den lokalen Östrogenmangel als Risikokonstellation vor suburethraler Bandchirurgie (höhere Komplikationsrate) und Elektrostimulation (erschwertes Einführen der Vaginalelektrode). Mirabegron ist dort der schlecht eingestellten Hypertonie, Botulinumtoxin der Restharnbildung, Duloxetin der Komedikation mit Serotonin-Reuptake-Hemmern oder CYP-Inhibitoren und die Immobilität der Beckenbodenphysiotherapie zugeordnet."
   },
   {
-    "question": "Welche Vorinformationen sollen laut der starken Empfehlung V vor einer sinnvollen Hilfsmittelberatung vorliegen?",
+    "question": "Nach Empfehlung V sollen für eine angemessene Hilfsmittelberatung wichtige medizinische Vorinformationen vorliegen. Welche Substanzgruppen nennt die Leitlinie beispielhaft als relevante Medikation?",
     "options": [
-      "U. a. Medikamentenplan (z. B. Diuretika, SGLT-2-Hemmer), relevante Operationen und Vorbehandlungen, Allergien, Mobilitäts- und kognitive Defizite sowie das soziale Umfeld.",
-      "Ausschließlich das aktuelle Körpergewicht und die Blutgruppe.",
-      "Nur die Diagnose nach ICD-10-Code.",
-      "Vorinformationen sind laut Leitlinie für eine Beratung nicht erforderlich."
+      "Protonenpumpenhemmer und Statine",
+      "Diuretika und SGLT-2-Hemmer",
+      "Antikoagulanzien und Thrombozytenhemmer",
+      "Bisphosphonate und Vitamin-D-Präparate"
     ],
-    "correct": 0,
-    "tip": "Auch die Vorlieben des Patienten und die bisherige Versorgung gehören laut Hintergrundtext dazu.",
-    "explanation": "Empfehlung V (starke Empfehlung) fordert, dass für eine angemessene Hilfsmittelberatung u. a. der Medikamentenplan (z. B. Diuretika, SGLT-2-Hemmer), relevante Operationen und Vorbehandlungen, Allergien, Mobilitäts- und kognitive Defizite sowie das soziale Umfeld bekannt sein sollen."
+    "correct": 1,
+    "tip": "Die Leitlinie betont die Einnahme relevanter Medikamente im zeitlichen Verlauf.",
+    "explanation": "Empfehlung V (starke Empfehlung): Zu den Vorinformationen zählen u. a. Medikamentenplan, relevante Operationen und Vorbehandlungen; beispielhaft genannt werden Diuretika, SGLT-2-Hemmer und inkontinenzassoziierte Medikation, außerdem Allergien, Mobilität, Kognition, soziales Umfeld, Vorlieben und bisherige Versorgung. Die Blutverdünnung erwähnt Kapitel 1.2 nur im Zusammenhang mit der Makrohämaturie."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was ist laut Kapitel 'Wesentliche Neuerungen' der Version 5.0 eine zentrale strukturelle Änderung gegenüber der Vorversion?",
+    "question": "Bei einem 58-jährigen Raucher fällt sonographisch ein 4-cm-Nierentumor auf. Welche Bildgebung soll laut Empfehlung 4.1 zum lokalen Staging und zur Resektionsplanung erfolgen?",
     "options": [
-      "Es wurde ein komplett neues Kapitel 11 zu erblichen Nierentumoren eingefügt.",
-      "Das gesamte Kapitel zur Systemtherapie wurde ersatzlos gestrichen.",
-      "Die Leitlinie wurde von S3- auf S2k-Niveau herabgestuft.",
-      "Die Kapitel zur Bildgebung und zur Biopsie wurden zusammengelegt."
-    ],
-    "correct": 0,
-    "tip": "Themen zu erblichen Tumoren, die vorher verstreut waren, wurden gebündelt.",
-    "explanation": "Die Neuerungen der Version 5.0 nennen explizit ein neu geschaffenes Kapitel 11 zu erblichen Tumoren; entsprechende Passagen wurden aus den Kapiteln Epidemiologie und Nicht-Klarzellige NZK entfernt und dorthin verwiesen."
-  },
-  {
-    "question": "Welche inhaltliche Ergänzung wurde laut den Neuerungen im Hintergrundtext zur Erstlinien-Systemtherapie vorgenommen?",
-    "options": [
-      "Eine Aussage zur Lebensqualität bei Kombinationstherapien wurde ergänzt.",
-      "Eine neue Empfehlung zur alleinigen Chemotherapie beim NZK wurde aufgenommen.",
-      "Die Immuntherapie wurde vollständig aus der Erstlinie entfernt.",
-      "Ein neues Kapitel zur pädiatrischen Systemtherapie wurde eingefügt."
-    ],
-    "correct": 0,
-    "tip": "Es handelt sich nicht um eine neue Empfehlung, sondern um eine Ergänzung im Hintergrundtext.",
-    "explanation": "Laut den Neuerungen wurde dem Hintergrundtext zur Erstlinien-Kombinationstherapie eine Aussage zur Lebensqualität hinzugefügt."
-  },
-  {
-    "question": "Bis zu welchem Zeitpunkt ist die S3-Leitlinie Nierenzellkarzinom (Version 5.0) laut Kapitel 2.1.3 gültig?",
-    "options": [
-      "Juni 2026",
-      "Juni 2029",
-      "Dezember 2030",
-      "Unbegrenzt, da keine Aktualisierung vorgesehen ist"
+      "Einphasige CT in venöser Phase von Leberkuppe bis Symphyse, ohne Nativserie",
+      "CT nativ und venös von Leberkuppe bis Symphyse plus früharterielle Phase",
+      "MRT nativ und dynamisch mit Diffusion als primäres Standardverfahren",
+      "CT nativ und früharteriell, venöse Phase nur bei Verdacht auf Cavazapfen"
     ],
     "correct": 1,
-    "tip": "Die Gültigkeitsdauer ist an einen festen Kalendermonat gekoppelt.",
-    "explanation": "Kapitel 2.1.3 legt fest, dass die Leitlinie bis zur nächsten Aktualisierung gültig ist, wobei die Gültigkeitsdauer im Juni 2029 endet."
+    "tip": "Die OP-Planung braucht Gefäßanatomie, multifokale Herde, venöse Tumorausdehnung und Lymphknoten – jede Kontrastmittelphase beantwortet einen Teil davon.",
+    "explanation": "Empfehlung 4.1 (Grad A, LoE 1+): CT nativ von Leberkuppe bis Symphyse sowie mit früharterieller (Nieren bis Beckeneingang) und venöser Phase von Leberkuppe bis Symphyse nach einheitlichen Standards. Die MRT ist nach Empfehlung 4.2 für den Verdacht auf Venen- oder Cavabeteiligung vorgesehen; ein einphasiges Notaufnahme-CT genügt nicht als Planungsgrundlage."
   },
   {
-    "question": "Welche Ausdrucksweise entspricht laut Tabelle 5 (Schema der Empfehlungsgraduierung) dem Empfehlungsgrad A?",
+    "question": "Ein Patient mit Nierentumor hat in der CT Verdacht auf einen Tumorzapfen in der V. cava inferior. Was empfiehlt die Leitlinie zur MRT?",
     "options": [
-      "kann / kann verzichtet werden",
-      "sollte / sollte nicht",
-      "soll / soll nicht",
-      "wird diskutiert, bleibt aber offen"
-    ],
-    "correct": 2,
-    "tip": "Grad A ist die stärkste der drei definierten Empfehlungsstufen.",
-    "explanation": "Laut Tabelle 5 steht Empfehlungsgrad A für eine starke Empfehlung mit der Ausdrucksweise 'soll/soll nicht'; Grad B steht für 'sollte/sollte nicht' und Grad 0 für 'kann'."
-  },
-  {
-    "question": "Ab welcher prozentualen Zustimmung der Stimmberechtigten spricht die Leitlinie laut Tabelle 6 von 'starkem Konsens'?",
-    "options": [
-      "> 50-75%",
-      "> 75-95%",
-      "> 95%",
-      "Es gibt keine prozentuale Schwelle, nur eine qualitative Einschätzung"
-    ],
-    "correct": 2,
-    "tip": "Starker Konsens ist die höchste der vier Konsensstärke-Kategorien in Tabelle 6.",
-    "explanation": "Tabelle 6 definiert 'starken Konsens' als Zustimmung von mehr als 95% der Stimmberechtigten, 'Konsens' als 75-95% und 'mehrheitliche Zustimmung' als 50-75%."
-  },
-  {
-    "question": "Welchen Anteil an den vom RKI unter ICD-10 C64 erfassten bösartigen Nierenerkrankungen machen Nierenzellkarzinome laut Kapitel 3.1.1 aus?",
-    "options": [
-      "Etwa 50%",
-      "Etwa 70%",
-      "Über 90%",
-      "Unter 30%"
-    ],
-    "correct": 2,
-    "tip": "Der ICD-10-Code C64 schließt auch urotheliale Karzinome des Nierenbeckens aus.",
-    "explanation": "Laut Kapitel 3.1.1 erfasst das RKI unter ICD-10 C64 alle bösartigen Nierenerkrankungen außer urothelialen Karzinomen des Nierenbeckens; über 90% dieser Karzinome sind Nierenzellkarzinome."
-  },
-  {
-    "question": "Um wie viel Prozent ist das Erkrankungsrisiko für ein Nierenzellkarzinom bei Rauchern/Ex-Rauchern gegenüber Nie-Rauchern laut Kapitel 3.2.1 bei Männern erhöht?",
-    "options": [
-      "Etwa 10%",
-      "Etwa 22%",
-      "Etwa 54%",
-      "Etwa 90%"
-    ],
-    "correct": 2,
-    "tip": "Bei Frauen liegt die vergleichbare Risikoerhöhung deutlich niedriger.",
-    "explanation": "Kapitel 3.2.1 nennt eine geschätzte Risikoerhöhung von 54% bei Männern und 22% bei Frauen für Raucher/Ex-Raucher gegenüber Nie-Rauchern, mit einer klaren Dosis-Wirkungsbeziehung."
-  },
-  {
-    "question": "Welche Risikoerhöhung pro Zunahme des BMI um 5 kg/m² wird laut Kapitel 3.2.1 für Frauen beschrieben?",
-    "options": [
-      "Etwa 10%",
-      "Etwa 24%",
-      "Etwa 34%",
-      "Keine signifikante Risikoerhöhung"
-    ],
-    "correct": 2,
-    "tip": "Bei Männern liegt die entsprechende Risikoerhöhung etwas niedriger.",
-    "explanation": "Laut der zitierten Metaanalyse in Kapitel 3.2.1 beträgt die Risikoerhöhung pro 5 kg/m² BMI-Zunahme ca. 24% bei Männern und 34% bei Frauen."
-  },
-  {
-    "question": "Welche Voraussetzung muss laut Kapitel 3.2.5 für die Anerkennung eines Nierenzellkarzinoms als Berufskrankheit (BK Nr. 1302) nach sehr hoher Trichlorethen-Exposition NICHT erfüllt sein?",
-    "options": [
-      "Mindestens dreijährige Exposition mit pränarkotischen Symptomen.",
-      "Eine Latenzzeit von mindestens zehn Jahren zwischen Exposition und Tumorauftreten.",
-      "Diagnose eines primären Nierenzellkarzinoms beim Beschäftigten.",
-      "Ein Lebensalter des Beschäftigten von unter 40 Jahren bei Diagnosestellung."
+      "MRT soll nach einheitlichen Standards erfolgen (Grad A)",
+      "MRT kann ergänzend erfolgen, falls die CT unklar bleibt (Grad 0)",
+      "MRT ist der Mehrzeilen-CT nicht überlegen, CT genügt (Grad B)",
+      "MRT sollte nach einheitlichen Standards erfolgen (Grad B)"
     ],
     "correct": 3,
-    "tip": "Die Leitlinie nennt drei konkrete Voraussetzungen; ein Höchstalter gehört nicht dazu.",
-    "explanation": "Kapitel 3.2.5 nennt als Voraussetzungen eine mindestens dreijährige Exposition mit pränarkotischen Symptomen, eine Latenzzeit von mindestens zehn Jahren und die Diagnose eines primären Nierenzellkarzinoms – ein Höchstalter wird nicht gefordert."
+    "tip": "Achten Sie auf die Abstufung: Das Mehrphasen-CT für alle Patienten ist stärker empfohlen als die Zusatzuntersuchung bei Gefäßbeteiligung.",
+    "explanation": "Empfehlung 4.2 (Grad B, LoE 1+, starker Konsens): Bei Verdacht auf Venen- oder Cavabeteiligung sollte eine MRT nach einheitlichen Standards erfolgen. Der Empfehlungsgrad A („soll“) gehört zum Mehrphasen-CT nach Empfehlung 4.1."
   },
   {
-    "question": "Welche Empfehlung trifft die Leitlinie laut Kapitel 4.1.1 zur präoperativen CT-Diagnostik des primären Nierenzellkarzinoms?",
+    "question": "Warum ist die MRT laut Hintergrundtext bei ausgedehntem Cavazapfen der CT überlegen?",
     "options": [
-      "Eine alleinige native CT ohne Kontrastmittelphasen ist ausreichend (Empfehlungsgrad A).",
-      "Eine CT nativ sowie mit früharterieller und venöser Phase von Leberkuppe bis Symphyse soll nach einheitlichen Standards erfolgen (Empfehlungsgrad A).",
-      "Eine MRT soll grundsätzlich der CT vorgezogen werden (Empfehlungsgrad A).",
-      "Eine Sonographie ist für das lokale Staging ausreichend (Empfehlungsgrad B)."
+      "Sie grenzt den kranialen Thrombusrand auch ohne Kontrastmittelzustrom ab",
+      "Sie beurteilt die Infiltration des perirenalen Fettgewebes deutlich sicherer",
+      "Sie erlaubt im Gegensatz zur CT eine verlässliche Aussage zum Grading",
+      "Sie erreicht für den Cavazapfen eine doppelt so hohe Spezifität wie die CT"
+    ],
+    "correct": 0,
+    "tip": "Fragen Sie sich, welche Information der Operateur für die Planung einer Cavathrombektomie am dringendsten braucht.",
+    "explanation": "Laut Hintergrund zu Empfehlung 4.2 grenzt die MRT den kranialen Rand des Tumorthrombus auch ohne Kontrastmittelzustrom ab; eine hochaufgelöste axiale T2-Sequenz von der Vorhofebene bis zum Nierenunterrand eignet sich dafür besonders. Die Spezifität war mit 0,83 (MRT) vs. 0,8 (CT) nahezu gleich, und Aussagen zum Grading bleiben eingeschränkt."
+  },
+  {
+    "question": "Welche Kombination modifizierbarer Risikofaktoren erhöht laut Statement 3.1 das Risiko, an einem Nierenzellkarzinom zu erkranken?",
+    "options": [
+      "Rauchen, Übergewicht und erhöhter Blutdruck",
+      "Rauchen, Passivrauchen und erhöhter Blutdruck",
+      "Übergewicht, erhöhter Blutdruck und geringer Obstkonsum",
+      "Rauchen, Übergewicht und Einnahme von Diuretika"
+    ],
+    "correct": 0,
+    "tip": "Gesucht sind die Faktoren mit gesicherter Evidenz (LoE 2++), nicht jene mit widersprüchlicher oder noch unzureichender Datenlage.",
+    "explanation": "Statement 3.1 (LoE 2++, starker Konsens) nennt Rauchen, Übergewicht und erhöhten Blutdruck. Passivrauchen gilt laut Kapitel 3.2.1 als noch nicht ausreichend gesichert, Obst- und Gemüsekonsum als widersprüchlich, und das Risiko hängt eher am erhöhten Blutdruck als an Antihypertensiva oder Diuretika."
+  },
+  {
+    "question": "Laut einer in der Leitlinie zitierten Metaanalyse prospektiver Kohortenstudien steigt das NZK-Risiko bei Frauen pro BMI-Zunahme um 5 kg/m² um etwa …",
+    "options": [
+      "16 %",
+      "22 %",
+      "24 %",
+      "34 %"
+    ],
+    "correct": 3,
+    "tip": "Die Leitlinie nennt für Adipositas getrennte Werte nach Geschlecht – anders als beim Rauchen ist der relative Effekt hier bei Frauen ausgeprägter.",
+    "explanation": "Kapitel 3.2.2: Pro 5 kg/m² BMI steigt das Risiko um ca. 24 % bei Männern und 34 % bei Frauen. Die 22 % beziehen sich auf die Risikoerhöhung durch Rauchen bei Frauen (Männer 54 %), ein RR von 1,16 auf Ex-Raucher."
+  },
+  {
+    "question": "Was sagt die Leitlinie zum Verhältnis von Bluthochdruck und antihypertensiver Medikation beim Risiko für ein Nierenzellkarzinom?",
+    "options": [
+      "Diuretika steigern das Risiko unabhängig vom gemessenen Blutdruckniveau",
+      "Antihypertensiva senken das Risiko auch ohne adäquate Blutdruckeinstellung",
+      "Teils war der erhöhte Blutdruck selbst, nicht die Medikation, risikoassoziiert",
+      "Die Effekte von Hypertonie und Medikation lassen sich klar voneinander trennen"
+    ],
+    "correct": 2,
+    "tip": "Denken Sie an das Confounding-Problem: Wer Antihypertensiva einnimmt, hat in aller Regel auch eine Hypertonie.",
+    "explanation": "Kapitel 3.2.3: Der Einfluss des Bluthochdrucks ist schwer von dem der Medikation abzugrenzen; mehrere Kohortenstudien zeigten aber teilweise, dass der erhöhte Blutdruck und nicht Antihypertensiva oder Diuretika mit dem höheren Risiko einhergeht. Folgerichtig kann laut Statement 3.2 (LoE 2+) eine adäquate Blutdruckeinstellung das Risiko senken."
+  },
+  {
+    "question": "Ein 64-Jähriger mit Nierenzellkarzinom hat über Jahre Metallteile mit Trichlorethen entfettet. Welche Voraussetzungen für die Anerkennung als Berufskrankheit (BK 1302) nennt die Leitlinie?",
+    "options": [
+      "Exposition ≥ 10 Jahre, auch ohne pränarkotische Symptome; Latenz ≥ 3 Jahre",
+      "Exposition ≥ 3 Jahre, auch ohne pränarkotische Symptome; Latenz ≥ 5 Jahre",
+      "Exposition ≥ 3 Jahre mit pränarkotischen Symptomen; Latenz ≥ 10 Jahre",
+      "Exposition ≥ 1 Jahr mit pränarkotischen Symptomen; Latenz ≥ 20 Jahre"
+    ],
+    "correct": 2,
+    "tip": "Gefordert ist eine „sehr hohe“ Exposition – überlegen Sie, woran sich diese retrospektiv klinisch festmachen lässt, und wie lang Karzinogene bis zur Tumormanifestation brauchen.",
+    "explanation": "Kapitel 3.2.5 (Statement 3.3, EK): Der Ärztliche Sachverständigenbeirat empfiehlt die Anerkennung nach BK Nr. 1302 bei mindestens dreijähriger Einwirkung mit pränarkotischen Symptomen (Rausch, Benommenheit, Schwindel, Kopfschmerzen), einer Latenz von mindestens zehn Jahren ab Erstexposition und einem primären Nierenzellkarzinom."
+  },
+  {
+    "question": "Welche inhaltliche Ergänzung erhielt in Version 5.0 der Hintergrundtext zur Kombinationstherapie in der Erstlinie des metastasierten NZK?",
+    "options": [
+      "Eine Aussage zur Lebensqualität",
+      "Eine Aussage zur Kosteneffektivität",
+      "Eine Aussage zur Therapiedauer nach Remission",
+      "Eine Aussage zu Langzeit-Überlebensdaten"
+    ],
+    "correct": 0,
+    "tip": "Die übrigen Änderungen im Systemtherapiekapitel waren rein redaktionell – gesucht ist die einzige inhaltliche Ergänzung dort.",
+    "explanation": "Laut „Wesentliche Neuerungen“ (Punkt 4) wurde im Kapitel Systemtherapie zur Erstlinien-Kombinationstherapie im Hintergrundtext eine Aussage zur Lebensqualität ergänzt; ansonsten gab es dort nur redaktionelle Korrekturen. Die detaillierte Übersicht steht in Kapitel 17.1."
+  },
+  {
+    "question": "Was geschah in Version 5.0 mit der früheren Empfehlung 3.4, Patienten mit klinischem Verdacht auf ein hereditäres NZK auf die Möglichkeit einer genetischen Beratung hinzuweisen?",
+    "options": [
+      "Sie wurde auf Empfehlungsgrad A aufgewertet und bleibt in Kapitel 3",
+      "Sie wurde unverändert ins Kapitel zu nicht-klarzelligen NZK verschoben",
+      "Sie wurde gelöscht; erbliche Tumoren behandelt nun ein eigenes Kapitel",
+      "Sie wurde geprüft und ohne Änderung in Kapitel 3 beibehalten"
+    ],
+    "correct": 2,
+    "tip": "Überlegen Sie, welche strukturelle Neuerung Version 5.0 prägt und was das für ältere Einzelempfehlungen in anderen Kapiteln bedeutet.",
+    "explanation": "Laut Tabelle 58 (Kapitel 17.1) wurde Empfehlung 3.4 2024 gelöscht; gemäß den wesentlichen Neuerungen wurden Passagen zu erblichen Tumoren aus den Kapiteln 3 und 10 mit Verweis auf das neue Kapitel 11 entfernt."
+  },
+  {
+    "question": "Statement 3.2 zur Blutdruckeinstellung wurde mit „Konsens“ verabschiedet. Welcher Zustimmung der Stimmberechtigten entspricht diese Kategorie?",
+    "options": [
+      "> 50–75 %",
+      "> 75–95 %",
+      "> 90 %",
+      "> 95 %"
     ],
     "correct": 1,
-    "tip": "Die MRT wird in dieser Leitlinie gezielt bei Verdacht auf Venen- oder Cavabeteiligung empfohlen, nicht als CT-Ersatz im Standardstaging.",
-    "explanation": "Empfehlung 4.1 (Kapitel 4.1.1, Empfehlungsgrad A) fordert eine CT nativ sowie mit früharterieller und venöser Phase von Leberkuppe bis Symphyse nach einheitlichen Standards; die MRT ist laut Empfehlung 4.2 (Grad B) Patienten mit Verdacht auf Venen- oder Cavabeteiligung vorbehalten."
+    "tip": "Die Leitlinie unterscheidet vier Stufen der Konsensstärke; der „starke Konsens“ liegt eine Stufe darüber.",
+    "explanation": "Tabelle 6 (Kapitel 2.2.2): Starker Konsens > 95 %, Konsens > 75–95 %, mehrheitliche Zustimmung > 50–75 %, keine mehrheitliche Zustimmung < 50 % der Stimmberechtigten."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie entsteht eine Paraphimose pathophysiologisch?",
+    "question": "Welcher Mechanismus führt laut Leitlinie bei einer Paraphimose zur zunehmenden Schwellung des Präputiums?",
     "options": [
-      "Durch eine bakterielle Infektion der Eichel.",
-      "Durch Zurückziehen der verengten Vorhaut ohne anschließende Reposition, was zu Minderdurchblutung, Lymphabflussstörung und Ödem des distalen Vorhautblattes führt.",
-      "Durch eine allergische Reaktion auf Latex.",
-      "Durch übermäßige Flüssigkeitszufuhr."
+      "Arterielle Thrombose der Frenulumarterie mit ischämischem Ödem der Glans",
+      "Narbige Schrumpfung des inneren Vorhautblattes durch einen Lichen sclerosus",
+      "Bakterielle Balanoposthitis mit reaktiver Schwellung von Glans und Präputium",
+      "Minderdurchblutung des distalen Vorhautblattes mit gestörtem Lymphabstrom"
     ],
-    "correct": 1,
-    "tip": "Die zunehmende Schwellung macht die problemlose Reposition schließlich unmöglich.",
-    "explanation": "Die Paraphimose entsteht nach Zurückziehen der verengten Vorhaut ohne Reposition, wodurch eine Minderdurchblutung mit Lymphabflussbehinderung und Ödembildung des distalen Vorhautblattes resultiert."
+    "correct": 3,
+    "tip": "Entscheidend ist die mechanische Situation, die nach dem Zurückstreifen einer verengten Vorhaut entsteht.",
+    "explanation": "Laut Kapitel 8.1 entsteht die Paraphimose, wenn die verengte Vorhaut zurückgezogen und nicht reponiert wird: Es resultiert eine Minderdurchblutung des distalen Vorhautblattes mit Behinderung des Lymphabstroms und Ödembildung, die eine Reposition schließlich unmöglich macht. Eine Entzündung ist eine mögliche Folge längerer Dauer, nicht die Ursache."
   },
   {
-    "question": "Welchen Stellenwert hat die Paraphimose laut Empfehlung 23?",
+    "question": "Welche Folge ist laut Leitlinie bei länger bestehender, unbehandelter Paraphimose möglich?",
     "options": [
-      "Sie ist ein harmloser Befund ohne jeden Behandlungsbedarf.",
-      "Sie soll als kinder- und jugendurologischer Notfall bewertet und unmittelbar behandelt werden.",
-      "Sie kann über mehrere Wochen beobachtet werden, bevor eine Entscheidung fällt.",
-      "Sie betrifft ausschließlich erwachsene Männer."
+      "Urethrokutane Fistel in Höhe des Sulcus coronarius",
+      "Entzündung und Ulzeration bis hin zur Glansnekrose",
+      "Sekundärer Lichen sclerosus mit Plaquebildung der Glans",
+      "Meatusstenose durch Hyperkeratinisierung des Glansepithels"
     ],
     "correct": 1,
-    "tip": "Eine verzögerte Behandlung erhöht das Risiko für Entzündung, Ulzeration und Nekrose.",
-    "explanation": "Die Paraphimose soll als kinder- und jugendurologischer Notfall bewertet und unmittelbar behandelt werden (Empfehlung 23)."
+    "tip": "Der Zeitfaktor erklärt, warum die Leitlinie dieses Krankheitsbild als besonders dringlich einstuft.",
+    "explanation": "Laut Kapitel 8.1 sind bei längerer Dauer einer Paraphimose Entzündung und Ulzeration bis hin zur Glansnekrose möglich. Urethrokutane Fisteln und die Meatusstenose durch Hyperkeratinisierung beschreibt die Leitlinie dagegen als Komplikationen nach Zirkumzision (Kapitel 6.4.2)."
   },
   {
-    "question": "Welche Folgen kann eine unbehandelte, länger bestehende Paraphimose haben?",
+    "question": "Wie soll eine Paraphimose laut Empfehlung 23 eingestuft und behandelt werden?",
     "options": [
-      "Keine, sie heilt immer spontan und folgenlos ab.",
-      "Entzündung und Ulzeration bis hin zur Glansnekrose.",
-      "Ausschließlich kosmetische Veränderungen ohne funktionelle Relevanz.",
-      "Eine Verbesserung der Durchblutung der Glans."
+      "Als dringlicher Befund mit Behandlung innerhalb der nächsten 24 Stunden",
+      "Als kinder- und jugendurologischer Notfall mit unmittelbarer Behandlung",
+      "Als Indikation zur elektiven Zirkumzision im beschwerdefreien Intervall",
+      "Als Notfall erst bei Ulzeration oder livider Verfärbung der Glans"
     ],
     "correct": 1,
-    "tip": "Dies unterstreicht den Notfallcharakter der Erkrankung.",
-    "explanation": "Bei längerer Dauer einer unbehandelten Paraphimose sind Entzündung, Ulzeration bis hin zur Glansnekrose möglich."
+    "tip": "Bedenken Sie, wie rasch sich das Ödem selbst verstärkt und die Reposition zunehmend erschwert.",
+    "explanation": "Empfehlung 23 (11/11): Die Paraphimose soll als kinder- und jugendurologischer Notfall bewertet und unmittelbar behandelt werden, da das zunehmende Ödem die Reposition erschwert und bei längerer Dauer Ulzeration bis zur Glansnekrose droht. Ein Aufschub um bis zu 24 Stunden oder das Abwarten sichtbarer Ulzerationen widerspricht dieser Einstufung."
   },
   {
-    "question": "Wie erfolgt die Reposition einer Paraphimose in den meisten Fällen?",
+    "question": "Ein 9-jähriger Junge stellt sich nachts mit einer seit zwei Stunden bestehenden Paraphimose vor. Wie lässt sich die Reposition laut Leitlinie in vielen Fällen durchführen?",
     "options": [
-      "Immer nur in Vollnarkose im Operationssaal.",
-      "Nach adäquater Lokalanästhesie durch Auspressen des Ödems mittels Fingerdruck und vorsichtigem Zurückschieben der Glans, alternativ mit einer kochsalzgetränkten Kompresse.",
-      "Ausschließlich durch sofortige operative Zirkumzision.",
-      "Durch alleinige orale Schmerzmittelgabe, ohne jede manuelle Maßnahme."
+      "Nach Lokalanästhesie ohne Narkose durch Auspressen des Ödems mit Fingerdruck",
+      "In Vollnarkose nach Anlage eines Kaudalblocks und Inzision des Schnürrings",
+      "Nach dorsaler Inzision des Schnürrings in Lokalanästhesie mit Hautnaht",
+      "In Analgosedierung durch kräftigen Zug an der Vorhaut über die Glans"
     ],
-    "correct": 1,
-    "tip": "Gelegentlich wird die Reposition aber nur unter regionaler Anästhesie oder Vollnarkose toleriert.",
-    "explanation": "Die Reposition kann in vielen Fällen nach adäquater Lokalanästhesie durch Auspressen des Ödems mittels Fingerdruck und vorsichtigem Zurückschieben der Glans erfolgen, alternativ mit einer kochsalzgetränkten Kompresse."
+    "correct": 0,
+    "tip": "Überlegen Sie, wie sich das eigentliche Repositionshindernis mit möglichst geringem Aufwand verkleinern lässt.",
+    "explanation": "Laut Kapitel 8.3 kann die Reposition in vielen Fällen nach adäquater Applikation eines Lokalanästhetikums ohne Narkose erfolgen: Auspressen des Ödems mittels umschließendem Fingerdruck und vorsichtiges Zurückschieben der Glans durch den engen Vorhautring. Nur gelegentlich wird die Reposition erst in regionaler Anästhesie (Peniswurzelblock) oder Vollnarkose toleriert."
   },
   {
-    "question": "Wann ist bei einer Paraphimose eine dorsale Inzision der Vorhaut erforderlich?",
+    "question": "Welche schmerzarme Alternative zur rein manuellen Reposition einer Paraphimose nennt die Leitlinie?",
     "options": [
-      "Routinemäßig bei jeder Paraphimose als erste Maßnahme.",
-      "Nur in länger bestehenden und seltenen Fällen, wenn die manuelle Reposition nicht gelingt.",
-      "Niemals, eine dorsale Inzision ist bei Paraphimose grundsätzlich kontraindiziert.",
-      "Nur bei Mädchen."
+      "Glukosegetränkte Kompresse über 30–60 Minuten vor dem ersten Repositionsversuch",
+      "Kochsalzgetränkte Kompresse über 5–10 Minuten nach manuellem Auspressen des Ödems",
+      "Eiskühlung über 20 Minuten mit anschließender elastischer Kompressionsbinde",
+      "Punktion des Ödems mit feiner Kanüle nach topischer Oberflächenanästhesie"
     ],
     "correct": 1,
-    "tip": "In den meisten Fällen gelingt die Reposition bereits durch manuelle Maßnahmen.",
-    "explanation": "Nur in länger bestehenden und seltenen Fällen ist die dorsale Inzision des Präputiums erforderlich."
+    "tip": "Denken Sie an eine einfache Hilfsmaßnahme, die in jeder Notaufnahme sofort verfügbar ist.",
+    "explanation": "Laut Kapitel 8.3 kann alternativ eine schmerzarme Reposition mittels einer mit physiologischer Kochsalzlösung getränkten Kompresse nach manuellem Auspressen des Ödems über 5 bis 10 Minuten erzielt werden. Glukoseauflagen, Eiskühlung oder eine Ödempunktion werden in der Leitlinie nicht genannt."
   },
   {
-    "question": "Was kann bei wiederholtem Versagen einer lokalen Steroidbehandlung infolge starker Vernarbung nach Paraphimose indiziert sein?",
+    "question": "Wann ist bei einer Paraphimose laut Leitlinie eine dorsale Inzision des Präputiums erforderlich?",
     "options": [
-      "Eine lebenslange Dauertherapie mit Steroiden.",
-      "Eine spätere Zirkumzision.",
-      "Keinerlei weitere Therapie ist in diesem Fall möglich.",
-      "Eine Organtransplantation."
+      "In seltenen Fällen mit bereits länger bestehender Paraphimose",
+      "Bei jeder Paraphimose mit einer Bestandsdauer über zwei Stunden",
+      "Sobald die Reposition in Lokalanästhesie nicht toleriert wird",
+      "Sobald bei Erstvorstellung ein ausgeprägtes Ödem sichtbar ist"
     ],
-    "correct": 1,
-    "tip": "Dies stellt eine der wenigen Situationen dar, in denen die Phimosebehandlung sekundär aus einer Paraphimose-Episode resultiert.",
-    "explanation": "Versagt eine lokale Steroidbehandlung infolge starker Vernarbung, ist ggf. eine spätere Zirkumzision indiziert."
+    "correct": 0,
+    "tip": "Die Leitlinie beschreibt ein gestuftes Vorgehen, an dessen Ende die invasiven Maßnahmen stehen.",
+    "explanation": "Laut Kapitel 8.3 ist die dorsale Inzision nur in länger bestehenden und seltenen Fällen erforderlich. Wird die Reposition in Lokalanästhesie nicht toleriert, ist zunächst eine Reposition in regionaler Anästhesie (Peniswurzelblock) oder Vollnarkose vorgesehen; ein Ödem gehört zum Krankheitsbild und ist für sich keine Inzisionsindikation."
   },
   {
-    "question": "Was besagt Statement 9 zur Dokumentationspflicht bei der Zirkumzision?",
+    "question": "Wann ist nach erfolgreicher Reposition einer Paraphimose laut Leitlinie gegebenenfalls eine spätere Zirkumzision indiziert?",
     "options": [
-      "Eine Dokumentation ist freiwillig und für die Abrechnung nicht erforderlich.",
-      "Da die Zirkumzision zu den dermato-chirurgischen Eingriffen zählt, setzt ihre Abrechnung die obligate histologische Untersuchung des Resektats und/oder eine Bilddokumentation des prä- und postoperativen Befundes voraus.",
-      "Nur eine mündliche Dokumentation gegenüber den Eltern ist nötig.",
-      "Die Dokumentationspflicht betrifft ausschließlich erwachsene Patienten."
+      "Routinemäßig nach jeder Paraphimose zur Prophylaxe eines Rezidivs",
+      "Wenn die Reposition nur in Vollnarkose oder Peniswurzelblock gelang",
+      "Wenn eine lokale Steroidbehandlung wegen starker Vernarbung versagt",
+      "Wenn innerhalb von sechs Monaten ein zweites Ereignis auftritt"
     ],
-    "correct": 1,
-    "tip": "Dies gilt unabhängig von der gewählten Operationstechnik.",
-    "explanation": "Da die Zirkumzision zu den dermato-chirurgischen Eingriffen zählt, setzt ihre Abrechnung derzeit die obligate histologische Untersuchung und/oder eine Bilddokumentation voraus (Statement 9)."
+    "correct": 2,
+    "tip": "Bedenken Sie, dass auch nach einer Paraphimose die allgemeinen Indikationsregeln für Salbe und Operation gelten.",
+    "explanation": "Laut Kapitel 8.3 ist ggf. eine spätere Zirkumzision indiziert, wenn im weiteren Verlauf eine lokale Steroidbehandlung infolge starker Vernarbung versagt. Die zur Reposition nötige Anästhesieform begründet für sich keine Operationsindikation, und eine Routinezirkumzision nach Paraphimose sieht die Leitlinie nicht vor."
   },
   {
-    "question": "Welchen Forschungsbedarf sieht die Leitliniengruppe laut Statement 10 für die Zukunft?",
+    "question": "Welche Voraussetzung für die Abrechnung einer Zirkumzision nennt die Leitlinie in Statement 9?",
     "options": [
-      "Es besteht kein weiterer Forschungsbedarf, da alle Fragen bereits geklärt sind.",
-      "Forschungsbedarf zu möglichen Risiken, Komplikationen und Spätfolgen von Vorhautengen-Behandlungen im körperlichen, psychischen und sexuellen Bereich, um bessere Aufklärung zu ermöglichen.",
-      "Ausschließlich Forschung zu neuen Operationstechniken ist nötig.",
-      "Forschungsbedarf besteht nur im Bereich der Kostenerstattung."
+      "Schriftliche Einwilligung beider Sorgeberechtigter und des Kindes ab 14 Jahren",
+      "Dokumentation einer erfolglosen Salbentherapie über mindestens vier Wochen",
+      "Histologie des Resektats und/oder prä- und postoperative Bilddokumentation",
+      "Präoperative Fotodokumentation und Zweitmeinung eines Kinderchirurgen"
     ],
-    "correct": 1,
-    "tip": "Ziel ist eine objektivere Informations- und Aufklärungsgrundlage für Patienten, Eltern und Ärzte.",
-    "explanation": "Die Leitliniengruppe sieht Forschungsbedarf hinsichtlich möglicher Risiken, Komplikationen und Spätfolgen im körperlichen, psychischen und sexuellen Bereich (Statement 10)."
+    "correct": 2,
+    "tip": "Die Zirkumzision wird abrechnungstechnisch einer bestimmten Gruppe von Eingriffen an der Haut zugeordnet.",
+    "explanation": "Statement 9 (10/10): Da die Zirkumzision zu den dermato-chirurgischen Eingriffen zählt, setzt ihre Abrechnung derzeit die obligate histologische Untersuchung des Resektats und/oder eine Bilddokumentation des prä- und postoperativen Befundes voraus. Unabhängig davon soll das Resektat laut Empfehlung 14 histologisch untersucht werden."
   },
   {
-    "question": "In welchem Spannungsfeld bewegt sich laut dem Ausblick der Leitlinie die gesellschaftliche Diskussion um Beschneidung, trotz der rein medizinischen Ausrichtung der Leitlinie?",
+    "question": "Welche Beobachtung hält die Leitliniengruppe im Ausblick (Kapitel 10) fest?",
     "options": [
-      "Es gibt laut Leitlinie keinerlei gesellschaftliche Diskussion zu diesem Thema.",
-      "Im Spannungsfeld von traditionellen Normen und individueller Selbstbestimmung sowie der Bedeutung genitaler Autonomie.",
-      "Ausschließlich im Bereich der Krankenkassenerstattung.",
-      "Das Thema gilt als politisch vollkommen unumstritten."
+      "Zu psychischen und sexuellen Folgen existieren zahlreiche belastbare Studien",
+      "Die Beschneidungsdebatte betrifft im Wesentlichen religiöse und rituelle Kontexte",
+      "Die medizinische Indikationsstellung ist von Fragen der Identität weitgehend unabhängig",
+      "Genitale Autonomie und Selbstbestimmungsrecht gewinnen gesellschaftlich an Bedeutung"
     ],
-    "correct": 1,
-    "tip": "Der Aspekt der genitalen Autonomie und des Selbstbestimmungsrechts gewinnt gesellschaftlich zunehmend an Bedeutung.",
-    "explanation": "Die Diskussion um Beschneidung bewegt sich im Spannungsfeld von traditionellen Normen und individueller Selbstbestimmung, verknüpft mit der Bedeutung genitaler Autonomie."
+    "correct": 3,
+    "tip": "Die Leitlinie verortet das Thema im Spannungsfeld zwischen traditionellen Normen und individueller Identität.",
+    "explanation": "Laut Kapitel 10 gewinnt der Aspekt genitaler Autonomie und des Selbstbestimmungsrechts politisch wie gesellschaftlich immer mehr an Bedeutung; das Thema ist auch außerhalb religiöser oder ritueller Kontexte eng mit der persönlichen Identität verknüpft. Zugleich stellt die Leitliniengruppe fest, dass gerade zu den emotional besetzten Folgen nur wenig belastbare empirische Studien vorliegen."
   },
   {
-    "question": "Welches Organ bzw. welche Struktur ist bei der Paraphimose am stärksten von der Minderdurchblutung betroffen und kann im Extremfall nekrotisch werden?",
+    "question": "Welchen Forschungsbedarf formuliert die Leitliniengruppe in Statement 10?",
     "options": [
-      "Die Harnblase.",
-      "Die Glans penis (Eichel) bzw. das distale Vorhautblatt.",
-      "Die Prostata.",
-      "Die Nieren."
+      "Randomisierte Vergleiche topischer Steroide unterschiedlicher Potenz",
+      "Prospektive Studien zur optimalen Anästhesieform bei Neugeborenenzirkumzision",
+      "Körperliche, psychische und sexuelle Risiken, Komplikationen und Spätfolgen",
+      "Kosteneffektivität ambulanter gegenüber stationärer Zirkumzisionen im Kindesalter"
     ],
-    "correct": 1,
-    "tip": "Die venös-lymphatische Stauung betrifft primär das distal des Schnürrings liegende Gewebe.",
-    "explanation": "Bei der Paraphimose kommt es durch den einschnürenden Vorhautring zu Minderdurchblutung und Ödem des distalen Vorhautblattes, im Extremfall mit Ulzeration bis zur Glansnekrose."
+    "correct": 2,
+    "tip": "Statement 10 zielt darauf, Patienten, Eltern und Behandelnde vor einem Eingriff besser objektiv informieren zu können.",
+    "explanation": "Statement 10 (10/10): Die Leitliniengruppe sieht Forschungsbedarf zu möglichen Risiken, Komplikationen und Spätfolgen von Behandlungen der Vorhautenge im Kindes- und Jugendalter im körperlichen, psychischen und sexuellen Bereich, damit Patienten, Eltern und ärztlich Handelnde vor einem Eingriff deutlich besser objektiv informiert werden können. Hintergrund sind Berichte über Beeinträchtigungen Betroffener bei gleichzeitig wenig belastbarer empirischer Datenlage."
   }
 ]

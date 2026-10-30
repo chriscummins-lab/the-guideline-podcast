@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt das Evidenzbasierte Statement 6.1 (Kapitel 6.1) zur Aktiven Überwachung (Active Surveillance)?",
+    "question": "Ein 62-jähriger, gesunder Mann hat ein ISUP-1-Karzinom (cT1c, PSA 6 ng/ml) und möchte den Tumor „einfach raushaben“. Welche Strategie soll ihm laut Empfehlung 6.6 empfohlen werden?",
     "options": [
-      "Sie erfordert eine besonders intensive ärztliche Beratung und Begleitung.",
-      "Sie benötigt keine ärztliche Begleitung, da sie vollständig vom Patienten eigenständig durchgeführt wird.",
-      "Sie ist nur bei Patienten unter 40 Jahren zulässig.",
-      "Sie ersetzt jede Form der Nachsorge vollständig."
+      "Aktive Überwachung oder Prostatektomie gleichrangig nach Präferenz",
+      "Radikale Prostatektomie mit pelviner Lymphadenektomie",
+      "Aktive Überwachung mit strukturierten Verlaufskontrollen",
+      "Watchful Waiting mit PSA-Kontrollen in 6-monatigen Abständen"
     ],
-    "correct": 0,
-    "tip": "Dieses Statement wurde mit starkem Konsens als Expertenmeinung verabschiedet.",
-    "explanation": "Statement 6.1 besagt, dass die Aktive Überwachung eine besonders intensive ärztliche Beratung und Begleitung erfordert."
+    "correct": 2,
+    "tip": "Für das niedrige Risikoprofil hat sich die Empfehlung in Version 8 gegenüber früheren Versionen deutlich verändert.",
+    "explanation": "Empfehlung 6.6 (EK): Patienten mit lokal begrenztem Karzinom des niedrigen Risikoprofils (ISUP 1, D'Amico low risk) sollen aktiv überwacht werden; eine lokale Therapie wird initial nicht mehr gleichrangig empfohlen. Lehnt der Patient nach Aufklärung ab, sind RPE, perkutane Strahlentherapie oder LDR-Brachytherapie Optionen – eine Lymphadenektomie soll bei niedrigem Risiko nicht erfolgen (Kapitel 6.2.2)."
   },
   {
-    "question": "Welche drei Faktoren sind laut Statement 6.2 bei der Entscheidung über nichtkurativ intendierte palliative Strategien (Watchful Waiting, Androgendeprivation u.a.) ausschlaggebend?",
+    "question": "In welchen Abständen soll der PSA-Wert laut Empfehlung 6.7 in den ersten 2 Jahren der Aktiven Überwachung bestimmt werden?",
     "options": [
-      "Patientenpräferenz, eingeschränkte Lebenserwartung durch Alter/Komorbiditäten, und Erkrankung mit hohem Progressionsrisiko.",
-      "Ausschließlich das Geschlecht des Patienten.",
-      "Ausschließlich die Versicherungsart des Patienten.",
-      "Ausschließlich die geografische Entfernung zur nächsten Klinik."
+      "ISUP 1 alle 3 Monate, ISUP 2 alle 6 Monate",
+      "ISUP 1 alle 12 Monate, ISUP 2 alle 6 Monate",
+      "ISUP 1 und ISUP 2 jeweils alle 3 Monate",
+      "ISUP 1 alle 6 Monate, ISUP 2 alle 3 Monate"
     ],
-    "correct": 0,
-    "tip": "Diese Faktoren sind vom behandelnden Arzt gemeinsam mit dem Patienten zu berücksichtigen.",
-    "explanation": "Statement 6.2 nennt als ausschlaggebende Faktoren die Patientenpräferenz, eine eingeschränkte Lebenserwartung durch Alter oder Komorbiditäten sowie eine Erkrankung mit hohem Progressionsrisiko."
+    "correct": 3,
+    "tip": "Längere Intervalle in der günstigeren Gruppe werden mit der Anfälligkeit des PSA-Werts für äußere Einflüsse begründet.",
+    "explanation": "Empfehlung 6.7 (EK): In den ersten 2 Jahren der Aktiven Überwachung soll der PSA-Wert bei ISUP 1 alle 6 Monate und bei ISUP 2 alle 3 Monate bestimmt werden. Die 3-monatliche Messung für alle Patienten entspricht dem PRIAS-Protokoll."
   },
   {
-    "question": "Welche Patientengruppe soll laut Empfehlung 6.6 (Empfehlungsgrad EK, Kapitel 6.2.1) aktiv überwacht werden?",
+    "question": "Ein Patient beginnt die Aktive Überwachung nach initialer MRT mit gezielter und systematischer Biopsie. Wann soll laut Empfehlung 6.8 die erste Re-Biopsie erfolgen?",
     "options": [
-      "Patienten mit lokal begrenztem Prostatakarzinom des niedrigen Risikoprofils (ISUP Gruppe 1 und low risk nach D'Amico-Kriterien).",
-      "Alle Patienten unabhängig vom Risikoprofil, einschließlich metastasierter Fälle.",
-      "Ausschließlich Patienten mit ISUP Gruppe 5.",
-      "Patienten mit lokal fortgeschrittenem Tumorstadium cT3/cN+."
+      "Nach 6 Monaten als systematische Biopsie ohne erneute MRT",
+      "Nach 12–18 Monaten mit erneuter MRT, gezielt und systematisch",
+      "Nach 24 Monaten mit erneuter MRT, gezielt bei PI-RADS 4–5",
+      "Nach 36 Monaten im Rahmen der regulären 3-Jahres-Biopsie"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung priorisiert die Aktive Überwachung, da das Risiko einer Übertherapie in dieser Risikogruppe am höchsten ist.",
-    "explanation": "Empfehlung 6.6 legt fest, dass Patienten mit einem lokal begrenzten Prostatakarzinom des niedrigen Risikoprofils (ISUP Gruppe 1, low risk nach D'Amico) aktiv überwacht werden sollen."
+    "correct": 1,
+    "tip": "Die MRT-gestützte Biopsie führt seltener zu Fehlklassifikationen – das erlaubt ein längeres Intervall als ohne initiale MRT.",
+    "explanation": "Empfehlung 6.8 (EK): Bei initialer MRT soll nach 12–18 Monaten eine erneute MRT mit gezielter und systematischer Biopsie erfolgen. Ohne initiale MRT soll diese innerhalb von 6 Monaten nachgeholt werden; weitere Biopsien folgen spätestens alle 3 Jahre innerhalb der ersten 10 Jahre (Empfehlung 6.10)."
   },
   {
-    "question": "In welchen Intervallen soll laut Empfehlung 6.7 der Tumor innerhalb der ersten 2 Jahre der Aktiven Überwachung mittels PSA-Bestimmung kontrolliert werden?",
+    "question": "Ein Patient unter Aktiver Überwachung wurde initial nur systematisch biopsiert (ISUP 1). Die innerhalb von 6 Monaten nachgeholte MRT zeigt keine Target-Läsion. Wie ist laut Empfehlung 6.8 vorzugehen?",
     "options": [
-      "Alle 6 Monate bei ISUP Gruppe 1 und alle 3 Monate bei ISUP Gruppe 2.",
-      "Alle 3 Monate bei ISUP Gruppe 1 und alle 6 Monate bei ISUP Gruppe 2.",
-      "Jährlich unabhängig von der ISUP-Gruppe.",
-      "Wöchentlich unabhängig von der ISUP-Gruppe."
+      "Systematische konfirmatorische Biopsie mit 10–12 Zylindern",
+      "Wechsel zu Watchful Waiting mit Verzicht auf weitere Kontrollen",
+      "Bestätigung des unauffälligen Befunds durch PSMA-PET/CT",
+      "Keine konfirmatorische Biopsie, Fortführung der Überwachung"
     ],
-    "correct": 0,
-    "tip": "ISUP Gruppe 2 als ungünstigere Prognosegruppe wird entsprechend engmaschiger kontrolliert.",
-    "explanation": "Empfehlung 6.7 sieht vor, dass der Tumor innerhalb der ersten 2 Jahre der Aktiven Überwachung bei ISUP Gruppe 1 alle 6 Monate und bei ISUP Gruppe 2 alle 3 Monate per PSA-Bestimmung kontrolliert werden soll."
+    "correct": 3,
+    "tip": "Überlegen Sie, welche Rolle die nachgeholte MRT für die Indikation zur konfirmatorischen Biopsie spielt.",
+    "explanation": "Empfehlung 6.8 (EK): Ohne initiale MRT soll diese innerhalb von 6 Monaten erfolgen; bei einer Target-Läsion PI-RADS ≥ 3 soll gezielt biopsiert werden, liegt keine Target-Läsion vor, soll keine konfirmatorische Biopsie durchgeführt werden (Abbildung 6). Watchful Waiting ist Patienten mit limitierter Lebenserwartung vorbehalten."
   },
   {
-    "question": "Was sieht Empfehlung 6.8 für die erste Re-Biopsie bei Patienten ohne initiale MRT der Prostata vor, falls keine Target-Läsion vorliegt?",
+    "question": "Unter Aktiver Überwachung (ISUP 1) steigt der PSA-Wert eines 64-Jährigen mit einer Verdopplungszeit von 2,5 Jahren; die letzte MRT liegt 14 Monate zurück. Was sollte laut Empfehlung 6.11 erfolgen?",
     "options": [
-      "Die MRT soll innerhalb von 6 Monaten erfolgen; liegt keine Target-Läsion vor, soll keine konfirmatorische Biopsie durchgeführt werden.",
-      "Es soll unabhängig vom MRT-Befund immer eine Biopsie mit mindestens 20 Zylindern erfolgen.",
-      "Die Aktive Überwachung muss sofort beendet werden.",
-      "Es ist generell keine MRT bei Patienten ohne initiale MRT vorgesehen."
+      "Beendigung der Aktiven Überwachung und radikale Prostatektomie",
+      "Erneute MRT mit gezielter und systematischer Re-Biopsie",
+      "Fortführung ohne Zusatzdiagnostik bis zur 3-Jahres-Biopsie",
+      "PSMA-PET/CT zum Ausschluss einer frühen Metastasierung"
     ],
-    "correct": 0,
-    "tip": "Bei Nachweis einer Target-Läsion PI-RADS 3 soll dagegen eine gezielte Biopsie erfolgen.",
-    "explanation": "Empfehlung 6.8 legt fest, dass bei Patienten ohne initiale MRT diese innerhalb von 6 Monaten erfolgen soll; liegt dabei keine Target-Läsion vor, soll keine konfirmatorische Biopsie durchgeführt werden."
+    "correct": 1,
+    "tip": "Ein PSA-Anstieg kann viele Ursachen haben – als alleiniger Therapietrigger gilt er heute nicht mehr als adäquat.",
+    "explanation": "Empfehlung 6.11 (EK): Bei signifikantem PSA-Anstieg (Verdopplungszeit < 3 Jahre) sollte eine erneute MRT mit gezielter und systematischer Re-Biopsie erfolgen; eine alleinige PSA-Progression sollte nicht zum Abbruch der Aktiven Überwachung führen. Über die Fortführung entscheidet der histologische Befund."
   },
   {
-    "question": "In welchem maximalen Intervall sollen laut Empfehlung 6.10 weitere gezielte und systematische Biopsien innerhalb der ersten 10 Jahre Aktiver Überwachung spätestens erfolgen?",
+    "question": "Welcher Befund ist laut Empfehlung 6.11 ein Kriterium, die Aktive Überwachung zu beenden?",
     "options": [
-      "Spätestens alle 3 Jahre.",
-      "Spätestens alle 10 Jahre.",
-      "Spätestens alle 6 Monate, unabhängig vom Verlauf.",
-      "Biopsien sind nach der ersten Re-Biopsie nicht mehr vorgesehen."
+      "Upgrading zu ISUP 2 mit cribriformem Wachstumsanteil",
+      "Größenzunahme der bekannten MRT-Läsion ohne Upgrading",
+      "Upgrading zu ISUP 2 ohne ungünstige Zusatzkriterien",
+      "PSA-Anstieg um 25 % zwischen zwei Kontrollmessungen"
     ],
     "correct": 0,
-    "tip": "Die konkrete Häufigkeit richtet sich nach MRT-Bildgebung und PSA-Werten im Verlauf, mit dieser Obergrenze.",
-    "explanation": "Empfehlung 6.10 fordert, dass weitere Biopsien abhängig vom Verlauf durchgeführt werden sollen, spätestens jedoch alle 3 Jahre innerhalb der ersten 10 Jahre Aktiver Überwachung."
+    "tip": "Das Kriterium ergibt sich aus der Re-Biopsie, nicht aus Labor oder Bildgebung allein.",
+    "explanation": "Empfehlung 6.11 (EK): Die Aktive Überwachung soll bei Upgrading zu ISUP 2 mit ungünstigem Risikoprofil (cribriformes oder intraduktales Wachstum, signifikante Zunahme von Gleason-Muster 4), bei Upgrading zu ISUP ≥ 3 oder bei cT3 und/oder cN+ beendet werden. Eine alleinige Progression von PSA-Wert oder MRT-Läsion sollte nicht zum Abbruch führen."
   },
   {
-    "question": "Bei welchen Befunden soll die Aktive Überwachung laut Empfehlung 6.11 beendet werden?",
+    "question": "Was gilt laut Empfehlung 6.4 für die Aufklärung von Patienten, für die eine kurative Therapie infrage kommt?",
     "options": [
-      "Bei Upgrading zu ISUP Gruppe 2 mit ungünstigem Risikoprofil, Upgrading zu ≥ISUP Gruppe 3, oder lokal fortgeschrittenem Tumorstadium (cT3 und/oder cN+).",
-      "Bereits bei jeder geringen PSA-Schwankung ohne weitere Kriterien.",
-      "Nur bei einem PSA-Wert über 100 ng/ml.",
-      "Die Aktive Überwachung wird laut Leitlinie niemals beendet."
+      "Aufklärung durch Urologen und Strahlentherapeuten soll regelhaft erfolgen",
+      "Aufklärung durch Urologen und Onkologen sollte angeboten werden",
+      "Aufklärung durch Urologen genügt; Strahlentherapie kann ergänzt werden",
+      "Aufklärung durch Urologen und Strahlentherapeuten sollte angeboten werden"
     ],
-    "correct": 0,
-    "tip": "Eine alleinige PSA- oder MRT-Progression ohne diese Kriterien soll dagegen nicht automatisch zum Abbruch führen.",
-    "explanation": "Empfehlung 6.11 legt fest, dass die Aktive Überwachung bei Upgrading zu ISUP Gruppe 2 mit ungünstigem Risikoprofil, Upgrading zu ISUP Gruppe 3 oder höher, oder bei lokal fortgeschrittenem Tumorstadium beendet werden soll."
+    "correct": 3,
+    "tip": "Die Wahl der lokalen Therapie hängt häufig von den Präferenzen des aufklärenden Arztes ab.",
+    "explanation": "Empfehlung 6.4 (B): Patienten mit kurativer Therapieoption sollte angeboten werden, sich sowohl von einem Urologen als auch von einem Strahlentherapeuten über RPE und Strahlentherapie aufklären zu lassen. Der abgeschwächte Empfehlungsgrad trägt der organisatorischen Machbarkeit Rechnung; die Doppelaufklärung gilt ausdrücklich als wünschenswert."
   },
   {
-    "question": "Wie wird 'Watchful Waiting' laut dem neuen Statement 6.90 (Kapitel 6.8, neu 2025) definiert?",
+    "question": "Welche Aussage zu den Nebenwirkungsprofilen lokaler Therapien entspricht dem Hintergrundtext in Kapitel 6.1?",
     "options": [
-      "Als Strategie zur Vermeidung einer Therapie bei nicht symptomatischen Patienten mit mutmaßlich limitierter Lebenserwartung.",
-      "Als intensivste Form der kurativen Therapie mit engmaschigsten Kontrollen.",
-      "Als Synonym für die Aktive Überwachung ohne jeden Unterschied.",
-      "Als eine ausschließlich chirurgische Behandlungsstrategie."
+      "Erektile Dysfunktion tritt nach perkutaner Bestrahlung häufiger auf als nach RPE.",
+      "Harninkontinenz tritt nach perkutaner Bestrahlung häufiger auf als nach RPE.",
+      "Intestinale Symptome treten nach Bestrahlung häufiger auf als nach RPE.",
+      "Zweitmalignome treten nach RPE häufiger auf als nach perkutaner Bestrahlung."
     ],
-    "correct": 0,
-    "tip": "Watchful Waiting unterscheidet sich von der Aktiven Überwachung dadurch, dass keine kurative Therapieabsicht mehr besteht.",
-    "explanation": "Statement 6.90 definiert Watchful Waiting als eine Strategie zur Vermeidung einer Therapie bei nicht symptomatischen Patienten mit Prostatakarzinom und mutmaßlich limitierter Lebenserwartung, z. B. aufgrund hohen Lebensalters und/oder größerer Komorbidität."
+    "correct": 2,
+    "tip": "Ordnen Sie jedem Organsystem das Verfahren zu, das die benachbarten Strukturen am stärksten belastet.",
+    "explanation": "Laut Hintergrundtext zu Empfehlung 6.4 treten intestinale Symptome (z. B. erhöhte Stuhlfrequenz, rektale Blutung) häufiger nach perkutaner Bestrahlung oder Brachytherapie auf, erektile Dysfunktion und Harninkontinenz dagegen häufiger nach RPE. Zweitmalignome sind eine für radiotherapeutische Verfahren spezifische Nebenwirkung."
   },
   {
-    "question": "Was fordert Empfehlung 6.91 bezüglich krebsspezifischer Kontrolluntersuchungen während einer Watchful-Waiting-Strategie?",
+    "question": "Ein 86-Jähriger mit Herzinsuffizienz und beginnender Demenz hat ein asymptomatisches, zufällig entdecktes Prostatakarzinom. Welches Vorgehen entspricht den Empfehlungen zu Watchful Waiting?",
     "options": [
-      "Es sollen keine anlassfreien Kontrolluntersuchungen wie PSA-Bestimmungen oder Bildgebung durchgeführt werden.",
-      "PSA-Bestimmungen sollen monatlich durchgeführt werden.",
-      "Eine jährliche Ganzkörper-PSMA-PET/CT ist obligat.",
-      "Kontrolluntersuchungen sollen häufiger erfolgen als unter Aktiver Überwachung."
+      "Watchful Waiting mit PSA-Kontrollen alle 6 Monate zur Früherkennung einer Progression",
+      "Watchful Waiting ohne anlassfreie PSA-Kontrollen; Therapie bei symptomatischer Progression",
+      "Aktive Überwachung mit MRT nach 12–18 Monaten, da kein Hochrisikotumor vorliegt",
+      "Primäre Androgendeprivation, um eine spätere symptomatische Progression zu verhindern"
     ],
-    "correct": 0,
-    "tip": "Solche Untersuchungen könnten die Angst des Patienten unnötig steigern und eine nicht notwendige Therapie auslösen.",
-    "explanation": "Empfehlung 6.91 fordert, dass während einer Watchful-Waiting-Strategie keine anlassfreien krebsspezifischen Kontrolluntersuchungen wie PSA-Bestimmungen oder Bildgebung durchgeführt werden sollen."
+    "correct": 1,
+    "tip": "Bedenken Sie, welche Rolle Kontrolluntersuchungen für die Angst des Patienten und als Therapietrigger spielen.",
+    "explanation": "Nach Empfehlung 6.92 (EK) sollte Watchful Waiting bei einer Lebenserwartung unter 10 Jahren gewählt werden (Abschätzung über Alter, Komorbidität, Gebrechlichkeit, mentalen Status). Anlassfreie PSA-Kontrollen oder Bildgebung sollen unterbleiben (Empfehlung 6.91), bei symptomatischer Progression soll palliativ behandelt werden (Empfehlung 6.93); eine unnötige ADT kann eine Demenz verschlechtern."
   },
   {
-    "question": "Welche Konsequenz sieht Empfehlung 6.93 vor, wenn es während des Watchful Waiting zu einer symptomatischen Progression kommt?",
+    "question": "Welche Instrumente zur Berücksichtigung der Komorbidität nennt Empfehlung 6.5, und mit welchem Empfehlungsgrad?",
     "options": [
-      "Es soll eine palliative Therapie erfolgen.",
-      "Es soll sofort eine radikale Prostatektomie erfolgen.",
-      "Der Patient soll ohne jede Behandlung weiterbeobachtet werden.",
-      "Es soll eine kurativ intendierte Strahlentherapie mit voller Dosis erfolgen."
+      "Charlson-Score und ASA-Klassifikation; Empfehlungsgrad 0 (kann)",
+      "Charlson-Score und ASA-Klassifikation; Empfehlungsgrad A (soll)",
+      "CISR-G-Skala und Clinical Frailty Scale; Empfehlungsgrad 0 (kann)",
+      "CISR-G-Skala und Clinical Frailty Scale; Empfehlungsgrad A (soll)"
     ],
     "correct": 0,
-    "tip": "Je nach Schwere der Symptome kommt dabei insbesondere eine Androgendeprivation in Betracht.",
-    "explanation": "Empfehlung 6.93 legt fest, dass bei symptomatischer Progression während des Watchful Waiting eine palliative Therapie erfolgen soll."
+    "tip": "Die Leitlinie hat sich an der EAU orientiert, die dieselben Instrumente als Entscheidungshilfe vor einer Prostatabiopsie nennt.",
+    "explanation": "Empfehlung 6.5 (Empfehlungsgrad 0): Komorbiditätsklassifikationen können zur Entscheidungsfindung berücksichtigt werden, hierzu können Charlson-Score und ASA-Klassifikation eingesetzt werden. CISR-G-Skala und Clinical Frailty Scale nennt Kapitel 6.8 zur Abschätzung der Gebrechlichkeit beim Watchful Waiting."
   }
 ]

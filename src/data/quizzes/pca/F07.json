@@ -1,122 +1,122 @@
 [
   {
-    "question": "In welcher Technik soll laut Empfehlung 6.19 (Empfehlungsgrad A, Kapitel 6.3.3) die perkutane Strahlentherapie des Prostatakarzinoms durchgeführt werden?",
+    "question": "Welche Gesamtdosis soll laut Leitlinie bei perkutaner Strahlentherapie (IMRT + IGRT) in Standardfraktionierung für Patienten aller Risikogruppen appliziert werden?",
     "options": [
-      "In IMRT-Technik unter Einsatz bildgeführter Techniken (IGRT).",
-      "Ausschließlich in klassischer 3D-konformaler Technik ohne Bildführung.",
-      "Ausschließlich als Protonentherapie.",
-      "Grundsätzlich ohne jede technische Vorgabe."
+      "74 bis ca. 80 Gy",
+      "70 bis ca. 74 Gy",
+      "66 bis ca. 70 Gy",
+      "60 bis ca. 66 Gy"
     ],
     "correct": 0,
-    "tip": "Diese Technik hat die frühere 3-dimensional-geplante Bestrahlung in der klinischen Routine weitgehend abgelöst.",
-    "explanation": "Empfehlung 6.19 fordert, dass die perkutane Strahlentherapie in IMRT-Technik unter Einsatz bildgeführter Techniken (IGRT) durchgeführt werden soll."
+    "tip": "Grundlage sind sechs randomisierte Studien zur Dosiseskalation mit Vorteil im biochemisch progressionsfreien Überleben.",
+    "explanation": "Empfehlung 6.20 (Empfehlungsgrad A, starker Konsens): Bei Standardfraktionierung soll mit mindestens 74,0 Gy bis ca. 80 Gy in IMRT + IGRT bestrahlt werden. Eine weitere Eskalation über 80 Gy auf die gesamte Prostata verbessert die Tumorkontrolle laut Hintergrundtext nicht; 60 Gy entspricht einem moderat hypofraktionierten Schema (20 × 3 Gy)."
   },
   {
-    "question": "Welche Gesamtdosis soll laut Empfehlung 6.20 (Empfehlungsgrad A) bei Patienten aller Risikogruppen bei Standardfraktionierung (IMRT + IGRT) angewendet werden?",
+    "question": "68-jähriger Patient mit ungünstig intermediärem Risiko entscheidet sich für eine perkutane Strahlentherapie (IMRT + IGRT). Welche begleitende Hormontherapie empfiehlt die Leitlinie?",
     "options": [
-      "Mindestens 74,0 Gy bis ca. 80 Gy.",
-      "Maximal 20 Gy.",
-      "Mindestens 150 Gy.",
-      "Eine Dosisangabe ist bei der Standardfraktionierung nicht erforderlich."
+      "Keine ADT, da sie beim intermediären Risiko das Überleben nicht verbessert",
+      "ADT über 9 Monate, da RTOG 9910 einen Vorteil gegenüber 4 Monaten zeigte",
+      "ADT über 12 Monate, davon 8 Monate neoadjuvant vor der Bestrahlung",
+      "ADT über 4 bis 6 Monate, Beginn bereits vor der Bestrahlung möglich"
     ],
-    "correct": 0,
-    "tip": "Diese Dosiseskalation beruht auf 6 randomisierten Phase-III-Studien, die einen signifikanten Vorteil für das progressionsfreie Überleben zeigten.",
-    "explanation": "Empfehlung 6.20 fordert, dass Patienten aller Risikogruppen bei Standardfraktionierung mit einer Dosis von mindestens 74,0 Gy bis ca. 80 Gy (IMRT + IGRT) bestrahlt werden sollen."
+    "correct": 3,
+    "tip": "Erinnern Sie sich, ob eine Verlängerung der Hormontherapie über vier Monate hinaus in RTOG 9910 noch etwas gebracht hat.",
+    "explanation": "Empfehlung 6.22 (Empfehlungsgrad B, LoE 1+): Beim intermediären Risiko sollte zusätzlich zur EBRT eine ADT von 4 bis 6 Monaten erfolgen, die vor der Bestrahlung beginnen kann; Gleason Score und Komorbidität sind zu berücksichtigen (Empfehlung 6.23). RTOG 94-08 zeigte einen Überlebensvorteil der Kurzzeit-ADT, RTOG 9910 keinen Zusatznutzen von 9 gegenüber 4 Monaten; 12 Monate ADT stammen aus dem ASCENDE-RT-Protokoll."
   },
   {
-    "question": "Was fordert Empfehlung 6.22 (Empfehlungsgrad B) zusätzlich zur perkutanen Strahlentherapie bei Patienten mit intermediärem Risikoprofil?",
+    "question": "Welches Fraktionierungsschema entspricht einer moderaten Hypofraktionierung im Sinne von Empfehlung 6.24?",
     "options": [
-      "Eine begleitende hormonablative Therapie von 4 bis 6 Monaten, die auch vor der Strahlentherapie beginnen kann.",
-      "Eine lebenslange Androgendeprivation ohne zeitliche Begrenzung.",
-      "Grundsätzlich keine zusätzliche Therapie.",
-      "Eine zusätzliche radikale Prostatektomie im Anschluss."
+      "20 × 3,0 Gy bis 60 Gy",
+      "7 × 6,1 Gy bis 42,7 Gy",
+      "39 × 2,0 Gy bis 78 Gy",
+      "5 × 7,25 Gy bis 36,25 Gy"
     ],
     "correct": 0,
-    "tip": "Bei der Entscheidung für oder gegen diese Zusatztherapie sollen laut Empfehlung 6.23 Faktoren wie Gleason Score und Komorbidität berücksichtigt werden.",
-    "explanation": "Empfehlung 6.22 fordert, dass Patienten mit intermediärem Risikoprofil zusätzlich zur perkutanen Strahlentherapie eine begleitende hormonablative Therapie von 4 bis 6 Monaten erhalten sollten, die vor der Strahlentherapie beginnen kann."
+    "tip": "Unterscheiden Sie Normofraktionierung, moderate und extreme Hypofraktionierung anhand der Einzeldosis.",
+    "explanation": "Empfehlung 6.24 (Empfehlungsgrad A) nennt als moderate Hypofraktionierung z. B. 3 Gy bis 60 Gy oder 2,5 Gy bis 70 Gy (Einzeldosis 2,4–3,4 Gy, 20–30 Sitzungen). 7 × 6,1 Gy (HYPO-RT) und 5 × 7,25 Gy (PACE) sind extreme Hypofraktionierungen (Empfehlung 6.26), 39 × 2 Gy ist Normofraktionierung."
   },
   {
-    "question": "Welche beiden Fraktionierungsschemata sollen laut den verknüpften Empfehlungen 6.24/6.25 Patienten mit intermediärem Risikoprofil angeboten werden?",
+    "question": "Ein Patient mit intermediärem Risiko interessiert sich für eine extreme Hypofraktionierung analog der PACE-B-Studie. Worüber soll er laut Empfehlung 6.27 vor der Entscheidung aufgeklärt werden?",
     "options": [
-      "Eine Standardfraktionierung (74-80 Gy) oder eine moderate Hypofraktionierung (z. B. 3 Gy/60 Gy), jeweils ergänzt durch eine 4-6-monatige Androgendeprivation.",
-      "Ausschließlich eine extreme Hypofraktionierung ohne jede Hormontherapie.",
-      "Ausschließlich eine einmalige Bestrahlung mit sehr hoher Einzeldosis.",
-      "Eine Bestrahlung ist bei intermediärem Risiko grundsätzlich nicht indiziert."
+      "Erhöhte gastrointestinale Spättoxizität gegenüber der Standardfraktionierung",
+      "Schlechtere biochemische Kontrolle gegenüber der Standardfraktionierung",
+      "Erhöhte urogenitale Toxizität gegenüber der Standardfraktionierung",
+      "Erhöhtes Zweitmalignomrisiko gegenüber der Standardfraktionierung"
     ],
-    "correct": 0,
-    "tip": "Diese Kombination mit einer Androgendeprivationstherapie von 4-6 Monaten ist in Empfehlung 6.25 festgelegt.",
-    "explanation": "Die verknüpften Empfehlungen 6.24 und 6.25 sehen vor, dass Patienten mit intermediärem Risikoprofil eine Standardfraktionierung (74-80 Gy) oder eine moderate Hypofraktionierung angeboten werden soll, zusätzlich ergänzt durch eine Androgendeprivationstherapie von 4-6 Monaten Dauer."
+    "correct": 2,
+    "tip": "Bei der onkologischen Wirksamkeit war PACE-B als Nichtunterlegenheitsstudie erfolgreich – der Nachteil liegt woanders.",
+    "explanation": "Empfehlung 6.27 (EK): Vor einer extremen Hypofraktionierung (Empfehlung 6.26, Grad 0) sollen Patienten über das Risiko einer erhöhten urogenitalen Toxizität aufgeklärt werden; in PACE-B lag die kumulative GU-Toxizität Grad ≥ 2 bei 26,0 % vs. 18,3 %, die GI-Toxizität unterschied sich nicht. Die biochemische/klinische Kontrolle war nicht unterlegen; Patienten mit Obstruktion und LUTS sollen nicht extrem hypofraktioniert werden."
   },
   {
-    "question": "Worüber sollen Patienten laut Empfehlung 6.27 vor einer Entscheidung für eine extreme Hypofraktionierung aufgeklärt werden?",
+    "question": "Wie bewertet die Leitlinie die Protonentherapie beim lokal begrenzten Prostatakarzinom des intermediären Risikoprofils?",
     "options": [
-      "Über das Risiko einer erhöhten urogenitalen Toxizität im Vergleich zur Standardfraktionierung.",
-      "Darüber, dass diese Methode mit Sicherheit nebenwirkungsfrei ist.",
-      "Darüber, dass diese Methode ausschließlich bei Niedrigrisiko-Patienten zugelassen ist.",
-      "Über eine erforderliche stationäre Behandlung von mindestens 4 Wochen."
+      "Hinweis auf geringere GI-Spättoxizität, daher bei Rektumvorbelastung bevorzugt",
+      "Hinweis auf Überlebensvorteil aus Registerdaten, daher gleichwertig empfohlen",
+      "Hinweis auf bessere biochemische Kontrolle, daher als Boost empfohlen",
+      "Kein Hinweis auf patientenrelevanten Vorteil gegenüber IMRT + IGRT"
     ],
-    "correct": 0,
-    "tip": "Die extreme Hypofraktionierung erfolgt analog der HYPO-RT- oder der PACE-B-Studie mit sehr hohen Einzeldosen.",
-    "explanation": "Empfehlung 6.27 fordert, dass Patienten vor einer Entscheidung für eine extreme Hypofraktionierung über das Risiko einer erhöhten urogenitalen Toxizität gegenüber der Standardfraktionierung aufgeklärt werden sollen."
+    "correct": 3,
+    "tip": "Bedenken Sie, wie belastbar retrospektive Registerdaten und widersprüchliche Metaanalysen für eine Empfehlung sind.",
+    "explanation": "Statement 6.29 (LoE 2+, starker Konsens): Beim intermediären Risiko besteht kein Hinweis auf einen patientenrelevanten Vorteil der Protonen- gegenüber der Photonentherapie (IMRT + IGRT); dasselbe gilt beim hohen Risiko (Statement 6.38). Der Überlebensvorteil aus der NCDB-Analyse ließ sich in einer Metaanalyse nicht reproduzieren; COMPPARE und PARTIQoL stehen noch aus."
   },
   {
-    "question": "Was besagt Statement 6.29 zum Vergleich von Protonentherapie und Photonentherapie (IMRT + IGRT) bei intermediärem Risikoprofil?",
+    "question": "70-jähriger Patient mit lokal begrenztem Prostatakarzinom des hohen Risikoprofils (ISUP 4, PSA 24 ng/ml, cT2c) erhält eine perkutane Strahlentherapie. Welche Aussage zur begleitenden ADT entspricht der Leitlinie?",
     "options": [
-      "Es besteht kein Hinweis auf einen patientenrelevanten Vorteil der Protonentherapie gegenüber der Photonentherapie.",
-      "Die Protonentherapie ist der Photonentherapie eindeutig überlegen.",
-      "Die Photonentherapie gilt mittlerweile als obsolet.",
-      "Beide Verfahren sind beim Prostatakarzinom nicht zugelassen."
+      "24 bis 36 Monate, feste Dauer ohne Anpassung an die Komorbidität",
+      "18 Monate, entsprechend dem Langzeitarm der RADAR-Studie",
+      "24 bis 36 Monate, Dauer individuell nach Komorbidität und Verträglichkeit",
+      "4 bis 6 Monate, bei Dosiseskalation auf 80 Gy verzichtbar"
     ],
-    "correct": 0,
-    "tip": "Dieses Statement basiert auf Evidenzlevel 2+ und wurde mit starkem Konsens verabschiedet.",
-    "explanation": "Statement 6.29 stellt fest, dass bei Patienten mit intermediärem Risikoprofil kein Hinweis auf einen patientenrelevanten Vorteil der Protonentherapie im Vergleich zur Photonentherapie (IMRT + IGRT) besteht."
+    "correct": 2,
+    "tip": "Die Leitlinie kombiniert hier eine evidenzbasierte Zeitspanne mit einer konsensbasierten Ergänzung.",
+    "explanation": "Empfehlungen 6.31 und 6.32 (Empfehlungsgrad A): Beim hohen Risiko soll die ADT 24 bis 36 Monate dauern und kann bis zu 6 Monate vor der Bestrahlung beginnen; laut Empfehlung 6.33 (EK) wird die Dauer individuell nach Komorbidität und Verträglichkeit festgelegt. 18 Monate ADT war der Langzeitarm von TROG 03.04 RADAR, 4 bis 6 Monate gelten für das intermediäre Risiko."
   },
   {
-    "question": "Wem soll laut Empfehlung 6.39 (Empfehlungsgrad A, Kapitel 6.3.4.1) eine LDR-Brachytherapie angeboten werden?",
+    "question": "Ein Patient mit lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils (nach NCCN) wünscht eine Brachytherapie. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Patienten mit lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils nach NCCN.",
-      "Ausschließlich Patienten mit sehr hohem Risiko nach NCCN.",
-      "Ausschließlich Patienten mit metastasiertem Prostatakarzinom.",
-      "Patienten mit lokal fortgeschrittenem Prostatakarzinom cT4."
+      "LDR-Boost kombiniert mit perkutaner Strahlentherapie (IMRT + IGRT)",
+      "HDR-Monotherapie als Einzeitbehandlung mit 1 × 19 Gy",
+      "LDR-Brachytherapie mit zusätzlicher Bestrahlung des Lymphabflusses",
+      "LDR-Monotherapie ohne zusätzliche perkutane Strahlentherapie"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung stützt sich u. a. auf die randomisierte Phase-3-Studie NRG-Oncology-RTOG-0232.",
-    "explanation": "Empfehlung 6.39 fordert, dass Patienten mit lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils (nach NCCN) eine LDR-Brachytherapie angeboten werden soll."
+    "correct": 3,
+    "tip": "Denken Sie an RTOG 0232: Brachte die Kombination mit externer Bestrahlung in dieser Gruppe einen Vorteil?",
+    "explanation": "Empfehlungen 6.39 und 6.40 (Empfehlungsgrad A, LoE 1-): Beim günstigen intermediären Risiko soll eine LDR-Brachytherapie als Monotherapie ohne perkutane Strahlentherapie angeboten werden; RTOG 0232 zeigte keinen Vorteil der Kombination. Der LDR-Boost mit EBRT gehört zum ungünstigen intermediären Risiko (Empfehlung 6.41), die HDR-Einzeitbehandlung mit 19 Gy soll wegen schlechterer biochemischer Kontrolle nicht eingesetzt werden."
   },
   {
-    "question": "Als welche Therapieform soll die LDR-Brachytherapie laut Empfehlung 6.40 beim günstigen intermediären Risikoprofil durchgeführt werden?",
+    "question": "Welches Ergebnis zeigte die ASCENDE-RT-Studie für den LDR-Brachytherapie-Boost im Vergleich zum perkutanen Boost?",
     "options": [
-      "Als Monotherapie, ohne zusätzliche perkutane Strahlentherapie.",
-      "Immer in Kombination mit einer perkutanen Strahlentherapie.",
-      "Immer in Kombination mit einer radikalen Prostatektomie.",
-      "Nur als Boost nach vorheriger Androgendeprivation von 2 Jahren."
+      "Besseres Gesamtüberleben bei vergleichbarer urogenitaler Spättoxizität",
+      "Bessere biochemische Kontrolle ohne Überlebensvorteil, mehr GU-Spättoxizität",
+      "Weniger Fernmetastasen bei geringerer urogenitaler Spättoxizität",
+      "Vergleichbare biochemische Kontrolle bei geringerer GI-Spättoxizität"
     ],
-    "correct": 0,
-    "tip": "Dies unterscheidet die Situation beim günstigen intermediären Risiko von der beim ungünstigen intermediären Risiko (Empfehlung 6.41).",
-    "explanation": "Empfehlung 6.40 legt fest, dass die LDR-Brachytherapie bei lokal begrenztem Prostatakarzinom des günstigen intermediären Risikoprofils als Monotherapie, ohne perkutane Strahlentherapie, durchgeführt werden soll."
+    "correct": 1,
+    "tip": "Fragen Sie sich, warum die Leitlinie bei den Boost-Empfehlungen eine eigene Aufklärungsempfehlung zur Spättoxizität ergänzt.",
+    "explanation": "In ASCENDE-RT (Hintergrund zu Empfehlung 6.41–6.43 und 6.50–6.52) verbesserte der LDR-Boost das biochemische PFS nach 10 Jahren (85 % vs. 70 %), nicht aber Fernmetastasierung, krebsspezifisches oder Gesamtüberleben; späte GU-Toxizität Grad ≥ 3 trat bei 18 % vs. 5 % auf. Deshalb sollen Patienten vor einem Boost über die mögliche Erhöhung der Spättoxizität ≥ Grad 3 aufgeklärt werden (Empfehlungen 6.42, 6.51)."
   },
   {
-    "question": "Was wird Patienten mit lokal begrenztem Prostatakarzinom des ungünstigen intermediären Risikoprofils laut Empfehlung 6.41 angeboten?",
+    "question": "72-jähriger Patient mit lokal begrenztem Prostatakarzinom des hohen Risikoprofils wünscht eine Brachytherapie, weil sie ihm schonender erscheint. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Ein LDR-Brachytherapie-Boost in Verbindung mit einer perkutanen Strahlentherapie (IMRT + IGRT).",
-      "Ausschließlich eine LDR-Brachytherapie als alleinige Monotherapie.",
-      "Ausschließlich Watchful Waiting ohne jede aktive Therapie.",
-      "Eine fokale Therapie als einzige Option."
+      "HDR-Boost plus perkutane Strahlentherapie und ADT über 24 bis 36 Monate",
+      "LDR-Monotherapie (Seeds) mit begleitender ADT über 24 bis 36 Monate",
+      "Fraktionierte HDR-Monotherapie mit 2 × 13,5 Gy und ADT über 4 bis 6 Monate",
+      "LDR-Boost plus perkutane Strahlentherapie und ADT über 4 bis 6 Monate"
     ],
     "correct": 0,
-    "tip": "Patienten sollen laut Empfehlung 6.42 zusätzlich über die mögliche signifikante Erhöhung der Spättoxizität aufgeklärt werden.",
-    "explanation": "Empfehlung 6.41 sieht vor, dass Patienten mit ungünstigem intermediärem Risikoprofil ein LDR-Brachytherapie-Boost in Verbindung mit einer perkutanen Strahlentherapie (IMRT + IGRT) angeboten werden sollte."
+    "tip": "Zwei Dinge sind zu prüfen: die Rolle der Brachytherapie im Gesamtkonzept und die ADT-Dauer dieser Risikogruppe.",
+    "explanation": "Beim hohen Risiko sollte eine HDR-Brachytherapie kombiniert mit EBRT angeboten werden (Empfehlung 6.47, Grad B), mit ADT über 24–36 Monate analog der perkutanen Strahlentherapie (Empfehlung 6.49, Grad B); ein LDR-Boost ist eine Kann-Option (Empfehlung 6.50), ebenfalls mit 24–36 Monaten ADT. LDR- oder HDR-Monotherapie sollen beim hohen Risiko nicht erfolgen (Empfehlung 6.53, Grad A)."
   },
   {
-    "question": "Welche Dauer soll laut Empfehlung 6.43 die Androgendeprivationstherapie bei Einsatz der Brachytherapie analog zur perkutanen Strahlentherapie haben?",
+    "question": "Welchen Empfehlungsgrad hat die integrierte Dosiserhöhung auf die dominante intraprostatische MRT-Läsion (analog FLAME) beim hohen Risikoprofil, und wie begründet die Leitlinie ihn?",
     "options": [
-      "4 bis 6 Monate.",
-      "Lebenslang ohne zeitliche Begrenzung.",
-      "Nur 1 Woche.",
-      "Mindestens 5 Jahre."
+      "Soll-Empfehlung, da FLAME einen Gesamtüberlebensvorteil zeigte",
+      "Kann-Empfehlung wegen eines Trends zu mehr späten Grad-≥3-Toxizitäten",
+      "Sollte-Empfehlung, da das metastasenfreie Überleben verbessert wurde",
+      "Kann-Empfehlung, da die biochemische Kontrolle nicht verbessert wurde"
     ],
-    "correct": 0,
-    "tip": "Diese Dauer entspricht der auch bei der perkutanen Strahlentherapie empfohlenen Dauer der Androgendeprivation.",
-    "explanation": "Empfehlung 6.43 fordert, dass die Androgendeprivationstherapie bei Einsatz der Brachytherapie analog zu den Empfehlungen der perkutanen Strahlentherapie mit 4 bis 6 Monaten Dauer eingesetzt werden soll."
+    "correct": 1,
+    "tip": "Die Wirksamkeitsdaten von FLAME sind positiv – der Vorbehalt der Leitliniengruppe betrifft einen anderen Aspekt.",
+    "explanation": "Empfehlung 6.36 (Empfehlungsgrad 0, LoE 1-): Die fokale Dosiseskalation kann erfolgen, zusätzlich soll eine ADT über 24–36 Monate gegeben werden (Empfehlung 6.37). FLAME verbesserte zwar biochemisch progressionsfreies (HR 0,45) und metastasenfreies Überleben, wegen des Trends zu mehr späten Grad-≥3-Toxizitäten wurde die Empfehlung laut Hintergrund aber auf „kann“ limitiert."
   }
 ]

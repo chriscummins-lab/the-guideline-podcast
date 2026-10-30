@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Statement 7.23 (Kapitel 7.8) zur Systemtherapie bei terminaler Niereninsuffizienz?",
+    "question": "Ein 68-jähriger hämodialysepflichtiger Patient mit metastasiertem klarzelligem NZK stellt sich zur Planung einer Systemtherapie vor. Welche Aussage trifft laut Leitlinie zu?",
     "options": [
-      "Eine terminale Niereninsuffizienz und/oder Hämodialyse ist keine Kontraindikation gegen eine Systemtherapie mit TKI, Checkpoint- oder mTOR-Inhibitoren.",
-      "Eine Hämodialyse schließt jede Systemtherapie grundsätzlich aus.",
-      "Nur Checkpointinhibitoren dürfen bei Hämodialyse eingesetzt werden.",
-      "Bei Hämodialyse ist ausschließlich eine Dosisreduktion auf 10 % der Standarddosis zulässig."
+      "TKI, Checkpoint- und mTOR-Inhibitoren sind nicht kontraindiziert",
+      "Checkpointinhibitoren sind möglich, TKI dagegen kontraindiziert",
+      "TKI sind möglich, Checkpointinhibitoren dagegen kontraindiziert",
+      "mTOR-Inhibitoren sind möglich, TKI und Checkpointinhibitoren nicht"
     ],
     "correct": 0,
-    "tip": "Erste Berichte zur Sicherheit stammen bereits aus dem Jahr 2008 zu Sorafenib bei chronischer Hämodialyse.",
-    "explanation": "Statement 7.23 stellt klar, dass eine terminale Niereninsuffizienz und/oder Hämodialyse keine Kontraindikation gegen eine Systemtherapie mit TKI, Checkpoint- oder mTOR-Inhibitoren darstellt."
+    "tip": "Bedenken Sie, dass viele Patienten mit metastasiertem NZK nach Nephrektomie ohnehin eine eingeschränkte Nierenfunktion haben.",
+    "explanation": "Statement 7.23 (Expertenkonsens, starker Konsens): Eine terminale Niereninsuffizienz und/oder Hämodialyse ist keine Kontraindikation gegen eine Systemtherapie mit TKI, Checkpoint- oder mTOR-Inhibitoren. Fallserien – beginnend mit Sorafenib unter Hämodialyse – zeigten eine vergleichbare Sicherheit und Wirksamkeit; auffällig war vor allem eine Hypertonieentwicklung."
   },
   {
-    "question": "Wann soll laut Empfehlung 7.25 (Kapitel 7.9) die systemische Behandlung des metastasierten Nierenzellkarzinoms zeitnah beginnen?",
+    "question": "Bei welchem Patienten mit metastasiertem NZK kann der Beginn der Systemtherapie laut Leitlinie bis zum nachgewiesenen Progress aufgeschoben werden?",
     "options": [
-      "Bei tumorbedingter Symptomatik oder schlechter Prognose.",
-      "Nur wenn der Patient explizit danach fragt.",
-      "Erst nach Ablauf eines Jahres Beobachtungszeit.",
-      "Nur bei Patienten mit günstigem IMDC-Risiko."
+      "Asymptomatisch bei günstiger IMDC-Prognose ohne lokale Therapieoption",
+      "Asymptomatisch bei ungünstiger IMDC-Prognose ohne lokale Therapieoption",
+      "Tumorbedingte Knochenschmerzen bei intermediärer IMDC-Prognose",
+      "Symptomatische Hämaturie bei günstiger IMDC-Prognose und ECOG 0"
     ],
     "correct": 0,
-    "tip": "Diese Empfehlung gilt unabhängig von einem nachgewiesenen Progress, wenn Symptome oder eine ungünstige Prognose vorliegen.",
-    "explanation": "Empfehlung 7.25 fordert, dass bei tumorbedingter Symptomatik oder schlechter Prognose die Behandlung zeitnah beginnen soll."
+    "tip": "Kombinieren Sie die Empfehlungen zum zeitnahen Behandlungsbeginn und zur Verlaufskontrolle vor Therapiebeginn.",
+    "explanation": "Empfehlung 7.26 (EK): Bei asymptomatischen Patienten mit günstiger oder intermediärer Prognose kann die zielgerichtete Therapie erst bei nachgewiesenem Progress und fehlender lokaler Therapieoption eingeleitet werden. Bei tumorbedingter Symptomatik oder schlechter Prognose soll die Behandlung dagegen zeitnah beginnen (Empfehlung 7.25, EK) – ein Progressnachweis ist dann nicht erforderlich."
   },
   {
-    "question": "Unter welcher Bedingung kann laut Empfehlung 7.26 bei asymptomatischen Patienten mit günstiger oder intermediärer Prognose die zielgerichtete Therapie erst später eingeleitet werden?",
+    "question": "Ein 63-jähriger Patient erhält Ipilimumab plus Nivolumab. In der ersten Kontroll-CT sind die Lungenmetastasen um 15 % größer; er ist beschwerdearm, ECOG 0, die Therapie wird gut vertragen. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Erst bei nachgewiesenem Progress und fehlender lokaler Therapieoption.",
-      "Erst nach Erreichen eines bestimmten Lebensalters.",
-      "Nur wenn eine Hämodialyse vorliegt.",
-      "Grundsätzlich nie, die Therapie muss sofort beginnen."
+      "Sofortiger Wechsel auf eine TKI-basierte Zweitlinie mit Sunitinib",
+      "Therapiepause und erneute Schnittbildgebung nach drei Monaten",
+      "Ergänzung von Cabozantinib zur laufenden Immunkombination",
+      "Fortführung der Therapie und Bestätigung durch Verlaufskontrolle"
     ],
-    "correct": 0,
-    "tip": "Dies betrifft gezielt Patienten ohne Symptome und mit nicht-ungünstiger Prognose.",
-    "explanation": "Empfehlung 7.26 sieht vor, dass bei asymptomatischen Patienten mit günstiger oder intermediärer Prognose die zielgerichtete Therapie erst bei nachgewiesenem Progress und fehlender lokaler Therapieoption eingeleitet werden kann."
+    "correct": 3,
+    "tip": "Berücksichtigen Sie Allgemeinzustand, Symptomlast und Verträglichkeit sowie den Zeitpunkt der Bildgebung im Therapieverlauf.",
+    "explanation": "Empfehlungen 7.27 und 7.28 (EK): Ein Therapiewechsel sollte erst nach dokumentiertem, gesichertem Progress erfolgen; unter Checkpointinhibitoren ist eine transiente Größenzunahme in der ersten Behandlungsphase möglich. Bei geringen Symptomen, ECOG 0–1 und guter Verträglichkeit sollte eine Progression unter Checkpointinhibitoren mittels Verlaufskontrolle bestätigt werden."
   },
   {
-    "question": "Was ist bei der Entscheidung zum Therapiewechsel laut Empfehlung 7.27 bezüglich Checkpointinhibitoren besonders zu beachten?",
+    "question": "Welche Kontrollbildgebung empfiehlt die Leitlinie unter einer laufenden Systemtherapie des metastasierten NZK?",
     "options": [
-      "Dass es in der ersten Behandlungsphase zu einer transienten Größenzunahme des Tumors kommen kann (Pseudoprogression).",
-      "Dass Checkpointinhibitoren niemals zu einer Größenzunahme führen können.",
-      "Dass ein Wechsel bereits nach der ersten Bildgebung erfolgen muss.",
-      "Dass Checkpointinhibitoren grundsätzlich nicht gewechselt werden dürfen."
+      "Schnittbildgebung alle 4–6 Wochen, vorzugsweise MRT",
+      "Schnittbildgebung alle 6–12 Wochen, vorzugsweise CT",
+      "Schnittbildgebung alle 12–16 Wochen, vorzugsweise CT",
+      "Schnittbildgebung alle 3–6 Monate, vorzugsweise PET-CT"
     ],
-    "correct": 0,
-    "tip": "Ein Therapiewechsel soll erst nach dokumentiertem gesichertem Progress erfolgen – gerade deshalb ist diese Beobachtung wichtig.",
-    "explanation": "Empfehlung 7.27 weist darauf hin, dass bei Checkpointinhibitoren in der ersten Behandlungsphase eine transiente Größenzunahme auftreten kann, was bei der Entscheidung über einen Therapiewechsel zu berücksichtigen ist."
+    "correct": 1,
+    "tip": "Die Empfehlung leitet sich aus den Untersuchungsintervallen der Erstlinien-Zulassungsstudien ab.",
+    "explanation": "Empfehlung 7.29 (EK, Konsens): Unter laufender Systemtherapie sollte eine Schnittbildgebung, vorzugsweise mittels CT, alle 6 bis 12 Wochen erfolgen. Prospektive Daten zum optimalen Zeitpunkt fehlen; die Erstlinienstudien verwendeten Intervalle von 4–12 Wochen."
   },
   {
-    "question": "In welchem Intervall sollte laut Empfehlung 7.29 (Kapitel 7.9.1) eine Schnittbildgebung unter laufender Systemtherapie erfolgen?",
+    "question": "Ein Patient mit seit 18 Monaten stabiler Erkrankung unter Sunitinib wünscht wegen Nebenwirkungen eine Therapiepause. Wie sollte laut Leitlinie vorgegangen werden?",
     "options": [
-      "Alle 6 bis 12 Wochen, vorzugsweise mittels CT.",
-      "Nur einmal jährlich.",
-      "Täglich während der ersten Woche.",
-      "Nur bei Auftreten von Symptomen, nie planmäßig."
+      "Pause ablehnen, da ein Überlebensnachteil randomisiert belegt ist",
+      "Pause ermöglichen, Kontrollen erst bei neuen Symptomen",
+      "Aufklärung über Konsequenzen und engmaschige Überwachung",
+      "Pause bei stabiler Erkrankung nicht vorsehen, stattdessen Dosisreduktion"
     ],
-    "correct": 0,
-    "tip": "Die in den Zulassungsstudien verwendeten Intervalle lagen zwischen 4 und 12 Wochen.",
-    "explanation": "Empfehlung 7.29 sieht vor, dass unter einer laufenden Systemtherapie eine Schnittbildgebung, vorzugsweise mittels CT, alle 6 bis 12 Wochen durchgeführt werden sollte."
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen der Evidenzlage (Statement 7.30) und dem daraus abgeleiteten praktischen Vorgehen (Statement 7.31).",
+    "explanation": "Statement 7.30 (LoE 2+): Der Einfluss einer Therapiepause auf die Prognose kann derzeit nicht beurteilt werden. Statement 7.31 (EK): Wünscht der Patient eine Therapiepause, soll er über die Konsequenzen und die Notwendigkeit einer engmaschigen Überwachung aufgeklärt werden; unter Re-Exposition mit VEGF/R-Inhibitoren zeigte sich in retrospektiven Serien meist ein erneutes Ansprechen, für Checkpointinhibitoren fehlen solche Daten."
   },
   {
-    "question": "Was fordert die Empfehlung in Kapitel 13.1.3 (Empfehlungsgrad A) zur Reduzierung des Fatigue-Syndroms bei Krebspatienten?",
+    "question": "Eine Patientin unter Pembrolizumab plus Axitinib klagt über ausgeprägte Fatigue. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Ein sich an der individuellen Belastungsfähigkeit orientierendes Ausdauertraining im Rahmen der Bewegungstherapie.",
-      "Vollständige körperliche Schonung bis zum Ende der Systemtherapie.",
-      "Ausschließlich medikamentöse Therapie mit Stimulanzien.",
-      "Eine Reduktion der Flüssigkeitszufuhr."
+      "Axitinib dauerhaft absetzen und körperliche Schonung empfehlen",
+      "Prednisolon 1 mg/kg KG beginnen und strikte Bettruhe empfehlen",
+      "Methylphenidat einsetzen und körperliches Training pausieren",
+      "TSH kontrollieren und belastungsadaptiertes Ausdauertraining empfehlen"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung stützt sich auf die S3-Leitlinie Psychoonkologie und gilt sowohl während der Primärtherapie als auch für 'cancer survivors'.",
-    "explanation": "Kapitel 13.1.3 fordert mit Empfehlungsgrad A ein sich an der individuellen Belastungsfähigkeit orientierendes Ausdauertraining im Rahmen der Bewegungstherapie zur Reduzierung des Fatigue-Syndroms."
+    "correct": 3,
+    "tip": "Suchen Sie nach einer behandelbaren Mitursache und nach einer nicht-medikamentösen Maßnahme mit hoher Evidenz.",
+    "explanation": "Empfehlung 13.4 (Empfehlungsgrad A, LoE 1++): Zur Reduzierung des Fatigue-Syndroms soll ein an der individuellen Belastungsfähigkeit orientiertes Ausdauertraining im Rahmen der Bewegungstherapie erfolgen. Laut Kapitel 13.1.5 sollte eine ausgeprägte Fatigue unter Checkpointinhibitor- plus Targettherapie zudem Anlass geben, eine koexistierende Hypothyreose zu überprüfen."
   },
   {
-    "question": "Wie häufig tritt laut Kapitel 13.1.4 ein arterieller Hypertonus unter Therapie mit aVEGF-Substanzen oder mTOR-Inhibitoren auf, und wie wird er klinisch eingeordnet?",
+    "question": "Unter Sunitinib steigt bei einem Patienten das TSH auf 14 mU/l; er berichtet über Müdigkeit, Kälteintoleranz und Gewichtszunahme. Was empfiehlt die Leitlinie?",
     "options": [
-      "Bei 17-40 % der Patienten, möglicherweise assoziiert mit besserem progressionsfreiem Überleben.",
-      "Bei unter 1 % der Patienten, ohne jede klinische Relevanz.",
-      "Bei fast 100 % der Patienten, stets mit schlechterer Prognose assoziiert.",
-      "Nur bei Patienten mit vorbestehender Niereninsuffizienz."
+      "Substitution mit L-Thyroxin in üblicher Dosierung",
+      "Abbruch von Sunitinib und Wechsel auf einen anderen TKI",
+      "Prednisolon 1 mg/kg KG wegen Immunthyreoiditis",
+      "Kontrolle ohne Therapie bis zu einem TSH über 20 mU/l"
     ],
     "correct": 0,
-    "tip": "Interessanterweise wird das Auftreten dieser Nebenwirkung teils als positives prognostisches Zeichen diskutiert.",
-    "explanation": "Kapitel 13.1.4 beschreibt, dass ein arterieller Hypertonus bei 17-40 % der Patienten unter aVEGF- oder mTOR-Inhibitor-Therapie auftritt und möglicherweise mit einem besseren progressionsfreien Überleben assoziiert ist."
+    "tip": "Eine unbehandelte Hypothyreose kann andere Nebenwirkungen wie Kardiomyopathie, Anämie oder Fatigue verstärken.",
+    "explanation": "Laut Kapitel 13.1.4 ist die primäre medikamentenassoziierte Hypothyreose unter TKI bedeutsam; bei TSH > 10 mU/l und hinweisenden Symptomen sollte L-Thyroxin in üblichen Dosierungen substituiert werden. Empfohlen wird die TSH-Kontrolle an Tag 1 der ersten 4 Zyklen und danach alle 2–3 Zyklen."
   },
   {
-    "question": "Ab welchem Wert des Gesamt-Bilirubins wird Pazopanib laut Kapitel 13.1.4 bei schwerer Leberfunktionsstörung nicht empfohlen?",
+    "question": "Welche Aussage zum arteriellen Hypertonus unter zielgerichteter Therapie des metastasierten NZK trifft laut Leitlinie zu?",
     "options": [
-      "Mehr als das Dreifache des oberen Grenzwertes, unabhängig von den Transaminasen.",
-      "Jeder messbare Bilirubin-Anstieg über den Normwert.",
-      "Nur bei gleichzeitig erhöhten Transaminasen über das Zehnfache.",
-      "Es gibt keine Bilirubin-bezogene Einschränkung für Pazopanib."
+      "Er erfordert meist den Abbruch des TKI zugunsten eines mTOR-Inhibitors",
+      "Er ist möglicherweise mit einem längeren progressionsfreien Überleben assoziiert",
+      "Er tritt unter mTOR-Inhibitoren und aVEGF-Substanzen praktisch nicht auf",
+      "Er sollte vorzugsweise mit Spezialpräparaten statt Standardmedikation behandelt werden"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich werden bei Pazopanib engmaschige Leberwertkontrollen in den Wochen 3, 5, 7 und 9 empfohlen.",
-    "explanation": "Kapitel 13.1.4 beschreibt, dass Pazopanib bei Patienten mit schwerer Leberfunktionsstörung (Gesamt-Bilirubin mehr als dreifach über dem oberen Grenzwert) unabhängig von den Transaminasen nicht empfohlen wird."
+    "correct": 1,
+    "tip": "Überlegen Sie, wie häufig der Hypertonus unter den verschiedenen Substanzklassen auftritt und wie er behandelt wird.",
+    "explanation": "Laut Kapitel 13.1.4 gehört der arterielle Hypertonus zu den häufigsten Nebenwirkungen der TKI-Therapie und tritt auch unter aVEGF-Substanzen oder mTOR-Inhibitoren auf (17–40 %); seine Entwicklung ist möglicherweise mit einem besseren progressionsfreien Überleben assoziiert. Empfohlen werden Aufklärung, regelmäßige Blutdruckkontrollen und gängige Antihypertensiva bzw. die Intensivierung bestehender Medikation."
   },
   {
-    "question": "Ab welchem TSH-Wert sollte laut Kapitel 13.1.4/13.1.5 bei entsprechenden Symptomen eine Hormonsubstitution mit L-Thyroxin erfolgen?",
+    "question": "Sechs Wochen nach Beginn einer Nivolumab-Therapie entwickelt ein Patient eine schwere Diarrhö; infektiöse Ursachen sind ausgeschlossen. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Bei Serum-TSH > 10 mU/l und Symptomen, die auf eine Hypothyreose hindeuten.",
-      "Bei jedem messbaren TSH-Anstieg über den Normwert, auch ohne Symptome.",
-      "Erst wenn eine manifeste Myxödemkoma vorliegt.",
-      "TSH-Werte werden bei TKI-Therapie generell nicht kontrolliert."
+      "Loperamid und unveränderte Fortführung von Nivolumab",
+      "Pausieren von Nivolumab und Methylprednisolon 1–2 mg/kg/Tag",
+      "Dosisreduktion von Nivolumab um 50 % und zusätzlich Loperamid",
+      "Pausieren von Nivolumab und Infliximab als Primärtherapie"
     ],
-    "correct": 0,
-    "tip": "Empfohlen wird eine Kontrolle des Serum-TSH am Tag 1 der ersten 4 Zyklen und anschließend alle 2-3 Zyklen.",
-    "explanation": "Kapitel 13.1.4/13.1.5 beschreibt, dass bei TSH-Spiegeln über 10 mU/l und auf Hypothyreose hindeutenden Symptomen eine Hormonsubstitution mit L-Thyroxin in üblichen Dosierungen erfolgen sollte."
+    "correct": 1,
+    "tip": "Bei Checkpointinhibitoren wird anders vorgegangen als bei TKI, deren Toxizität über die Dosis gesteuert wird.",
+    "explanation": "Laut Kapitel 13.1.5 reicht bei immunvermittelter Kolitis mit Diarrhö Grad 1–2 meist Loperamid; bei schwerer Diarrhö werden 1–2 mg/kg Methylprednisolon pro Tag oder ein nicht resorbierbares Steroid (z. B. Budesonid) eingesetzt, Infliximab erst bei glukokortikoidrefraktärem Verlauf. Checkpointinhibitoren werden nicht dosisreduziert, sondern pausiert."
   },
   {
-    "question": "Wie häufig treten laut Kapitel 13.1.4 Blutbildveränderungen unter TKI-Therapie insgesamt auf, und wie häufig erreichen sie Grad 3/4 mit Notwendigkeit einer Therapiepause?",
+    "question": "Ein Patient unter Pembrolizumab plus Axitinib entwickelt eine Diarrhö Grad 2 ohne infektiöse Ursache. Welches erste Vorgehen ist laut Leitlinie ratsam?",
     "options": [
-      "Bis zu zwei Drittel der Patienten insgesamt betroffen, aber nur etwa 10 % mit Grad 3/4-Veränderungen.",
-      "Nahezu alle Patienten entwickeln Grad 3/4-Veränderungen.",
-      "Blutbildveränderungen treten unter TKI praktisch nie auf.",
-      "Nur 1 % der Patienten zeigen überhaupt Blutbildveränderungen."
+      "Beide Substanzen pausieren und vorsorglich Steroide einleiten",
+      "Pembrolizumab pausieren, Axitinib unverändert fortführen",
+      "Zunächst Axitinib pausieren, Pembrolizumab vorerst weiterführen",
+      "Pembrolizumab dosisreduzieren, Axitinib unverändert fortführen"
     ],
-    "correct": 0,
-    "tip": "Die Veränderungen sind typischerweise reversibel und selten dosislimitierend.",
-    "explanation": "Kapitel 13.1.4 beschreibt, dass Blutbildveränderungen unter TKI-Therapie bei bis zu zwei Dritteln der Patienten auftreten, jedoch nur bei etwa 10 % Grad 3 oder 4 erreichen und dann eine Therapiepause notwendig machen können."
+    "correct": 2,
+    "tip": "Überlegen Sie, wie sich die Ursache einer Nebenwirkung bei zwei Substanzen mit unterschiedlicher Pharmakokinetik am schnellsten klären lässt.",
+    "explanation": "Laut Kapitel 13.1.5 ist es bei Grad-1/2-Nebenwirkungen unter einer Kombination mit Axitinib wegen dessen sehr kurzer Halbwertszeit ratsam, zunächst Axitinib zu pausieren und den Checkpointinhibitor weiterzuführen – eine Axitinib-bedingte Nebenwirkung bildet sich nach wenigen Tagen zurück. Bei Grad 3–4 sollten beide Substanzen pausiert und vorsorglich Steroide eingeleitet werden; Cabozantinib und Lenvatinib haben deutlich längere Halbwertszeiten."
   }
 ]
