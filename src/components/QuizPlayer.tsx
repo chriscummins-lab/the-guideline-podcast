@@ -7,9 +7,9 @@ const LETTERS = ["A", "B", "C", "D", "E"];
 
 export default function QuizPlayer({ questions }: { questions: QuizQuestion[] }) {
   const [current, setCurrent] = useState(0);
-  const [score, setScore] = useState(0);
-  const [selected, setSelected] = useState<number | null>(null);
+  const [answers, setAnswers] = useState<(number | null)[]>(() => Array(questions.length).fill(null));
   const [tipOpen, setTipOpen] = useState(false);
+  const [finished, setFinished] = useState(false);
 
   if (!questions || questions.length === 0) {
     return (
@@ -19,7 +19,19 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
     );
   }
 
-  if (current >= questions.length) {
+  const score = answers.reduce<number>(
+    (sum, a, i) => (a !== null && a === questions[i].correct ? sum + 1 : sum),
+    0
+  );
+
+  function restart() {
+    setCurrent(0);
+    setAnswers(Array(questions.length).fill(null));
+    setTipOpen(false);
+    setFinished(false);
+  }
+
+  if (finished) {
     const pct = Math.round((score / questions.length) * 100);
     let msg = "Weiter üben!";
     let sub = "Hör dir die Episode nochmal an und versuche es erneut.";
@@ -39,37 +51,50 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
           <div className="quiz-result-sub">
             {score} von {questions.length} Fragen richtig · {sub}
           </div>
-          <button
-            className="quiz-restart-btn"
-            onClick={() => {
-              setCurrent(0);
-              setScore(0);
-              setSelected(null);
-              setTipOpen(false);
-            }}
-          >
-            Quiz wiederholen
-          </button>
+          <div className="quiz-result-actions">
+            <button
+              className="quiz-back-btn"
+              onClick={() => {
+                setCurrent(questions.length - 1);
+                setFinished(false);
+              }}
+            >
+              ← Zurück zu den Fragen
+            </button>
+            <button className="quiz-restart-btn" onClick={restart}>
+              Quiz wiederholen
+            </button>
+          </div>
         </div>
       </div>
     );
   }
 
   const q = questions[current];
+  const selected = answers[current];
   const answered = selected !== null;
   const progress = Math.round((current / questions.length) * 100);
   const hasTip = Boolean(q.tip && q.tip.trim().length > 0);
 
   function answer(idx: number) {
     if (answered) return;
-    setSelected(idx);
-    if (idx === q.correct) setScore((s) => s + 1);
+    setAnswers((a) => a.map((v, i) => (i === current ? idx : v)));
   }
 
-  function next() {
-    setCurrent((c) => c + 1);
-    setSelected(null);
+  function goBack() {
+    if (current === 0) return;
+    setCurrent((c) => c - 1);
     setTipOpen(false);
+  }
+
+  function goNext() {
+    if (!answered) return;
+    if (current + 1 < questions.length) {
+      setCurrent((c) => c + 1);
+      setTipOpen(false);
+    } else {
+      setFinished(true);
+    }
   }
 
   return (
@@ -110,11 +135,14 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
         </div>
       )}
 
-      {answered && (
-        <button className="quiz-next-btn" onClick={next}>
+      <div className="quiz-nav">
+        <button className="quiz-back-btn" onClick={goBack} disabled={current === 0}>
+          ← Zurück
+        </button>
+        <button className="quiz-next-btn" onClick={goNext} disabled={!answered}>
           {current + 1 < questions.length ? "Nächste Frage →" : "Ergebnis anzeigen →"}
         </button>
-      )}
+      </div>
     </div>
   );
 }
