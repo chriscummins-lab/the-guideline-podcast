@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie hoch ist laut Hintergrundinformationen zu 12.14–12.15 das Risiko eines Uterus-/Vaginalprolapses bei Frauen mit BEEK vor einer Schwangerschaft im Vergleich zu während bzw. nach der Schwangerschaft?",
+    "question": "Wie häufig entwickeln Frauen mit BEEK einen Genitalprolaps vor bzw. während oder nach einer Schwangerschaft?",
     "options": [
-      "Vor der Schwangerschaft ca. 13 %, während bzw. danach ca. 50 %.",
-      "Vor der Schwangerschaft ca. 50 %, während bzw. danach ca. 13 %.",
-      "Das Risiko ist vor und nach einer Schwangerschaft identisch bei 90 %.",
-      "Ein Prolaps tritt bei BEEK ausschließlich bei Nulliparae auf."
+      "Vor der Schwangerschaft ca. 13 %, währenddessen oder danach ca. 50 %",
+      "Vor der Schwangerschaft ca. 2 %, währenddessen oder danach ca. 5 %",
+      "Vor der Schwangerschaft ca. 30 %, währenddessen oder danach ca. 90 %",
+      "Vor der Schwangerschaft ca. 50 %, währenddessen oder danach ca. 13 %"
     ],
     "correct": 0,
-    "tip": "Das Ausmaß der Symphysendiastase ist ein wesentlicher Risikofaktor, unabhängig davon, ob eine Osteotomie durchgeführt wurde.",
-    "explanation": "Vor einer Schwangerschaft entwickeln ca. 13 % (10–52 %) der Frauen mit BEEK einen Prolaps, während oder danach dagegen ca. 50 % (20–100 %)."
+    "tip": "Ursache ist der anteriore Beckenbodendefekt – Schwangerschaft und Geburt verstärken das Risiko.",
+    "explanation": "Hintergrund zu 12.14/12.15: vor einer Schwangerschaft ca. 13 % (10–52 %), während oder danach ca. 50 % (20–100 %). In einer Fallserie entwickelten fünf von acht Frauen einen Prolaps während bzw. nach der Schwangerschaft."
   },
   {
-    "question": "Ist eine Schwangerschaft bei Frauen mit BEEK laut Statement 12.18 grundsätzlich möglich, und was gilt laut Empfehlung 12.19 für jede Schwangerschaft bei BEEK?",
+    "question": "Wovon hängt das Auftreten eines Uterusprolaps beim BEEK laut Statement 12.14 ab?",
     "options": [
-      "Schwangerschaften sind sowohl nach primärer Rekonstruktion als auch nach primärer oder sekundärer Harnableitung möglich; jede Schwangerschaft soll als Risikoschwangerschaft gewertet werden.",
-      "Eine Schwangerschaft ist beim BEEK grundsätzlich kontraindiziert.",
-      "Nur nach primärer Rekonstruktion ist eine Schwangerschaft möglich, nach Harnableitung nie.",
-      "Eine Schwangerschaft gilt beim BEEK nur dann als Risikoschwangerschaft, wenn bereits ein Prolaps vorlag."
+      "Ausschließlich davon, ob beim Primärverschluss eine Osteotomie durchgeführt wurde oder nicht",
+      "Von der Symphysendiastase, unabhängig davon, ob mit oder ohne Osteotomie adaptiert wurde",
+      "Von der Wahl der Harnableitung, nicht von der Symphysendiastase",
+      "Vom Zeitpunkt der Introitusplastik, nicht von der Beckenanatomie"
     ],
-    "correct": 0,
-    "tip": "Der BEEK und die daraus resultierenden Operationen stellen per se keine Kontraindikation für eine Schwangerschaft dar.",
-    "explanation": "Statement 12.18 besagt, dass Schwangerschaften sowohl bei primärer Rekonstruktion als auch nach primärer oder sekundärer Harnableitung möglich sind. Empfehlung 12.19 (Empfehlungsgrad A) fordert, jede Schwangerschaft bei BEEK als Risikoschwangerschaft zu werten."
+    "correct": 1,
+    "tip": "Die operative Therapie ist technisch sehr anspruchsvoll und sollte laut 12.15 spezialisierten Zentren vorbehalten bleiben.",
+    "explanation": "Statement 12.14 (Evidenzlevel 3): Uterusprolaps abhängig von der Symphysendiastase, unabhängig von Symphysenadaptation mit oder ohne Osteotomie; Risiko durch Schwangerschaft und Geburt verstärkt."
   },
   {
-    "question": "Eine 28-jährige Patientin mit rekonstruierter Blasenekstrophie in der 10. Schwangerschaftswoche plant die Entbindung per Pfannenstielschnitt ohne urologische Bereitschaft. Was fordert die Leitlinie (Empfehlung 12.21 und Hintergrundinformationen zu 12.23) hierzu tatsächlich?",
+    "question": "Welche Aussage zu Schwangerschaften bei Frauen mit BEEK trifft zu?",
     "options": [
-      "Eine urologisch erfahrene Ärztin/ein Arzt soll bei der Sectio anwesend oder in Bereitschaft sein; der Zugang zum Uterus erfolgt heute als mediane Laparotomie statt Pfannenstielschnitt.",
-      "Ein Pfannenstielschnitt ist bei BEEK der Goldstandard und wird ausdrücklich empfohlen.",
-      "Eine urologische Bereitschaft ist nur bei Sectio aus fetaler Indikation nötig.",
-      "Die Art des Zugangswegs spielt bei BEEK keine Rolle."
+      "Sie sind nach Rekonstruktion wie nach Harnableitung möglich und gelten stets als Risikoschwangerschaft.",
+      "Sie gelten als normale Schwangerschaften, sofern keine Prolapsanamnese besteht.",
+      "Sie sind nach Harnableitung kontraindiziert, nach Rekonstruktion dagegen unproblematisch und risikoarm.",
+      "Sie sind nur nach In-vitro-Fertilisation möglich, da Spontankonzeption ausbleibt."
     ],
     "correct": 0,
-    "tip": "Hintergrund ist, dass enterale Komplikationen meist direkt beim Zugang zum Uterus durch Adhäsionen auftreten.",
-    "explanation": "Empfehlung 12.21 (Empfehlungsgrad A) fordert bei Frauen mit Rekonstruktion der unteren Harnwege eine urologisch erfahrene Ärztin/einen Arzt anwesend oder in Bereitschaft bei der Sectio; laut Hintergrundinformationen zu 12.23 wird der Zugang heute als mediane Laparotomie (kein Pfannenstielschnitt) mit anschließend hoher Uterusinzision durchgeführt."
+    "tip": "Der BEEK und die Operationen stellen per se keine Kontraindikation dar – dennoch ist besondere Überwachung nötig.",
+    "explanation": "Statement 12.18: Schwangerschaften sind nach Rekonstruktion und nach primärer oder sekundärer Harnableitung möglich. Empfehlung 12.19 (A): jede Schwangerschaft als Risikoschwangerschaft werten. 12.20 (B): Entbindung in erfahrener Klinik."
   },
   {
-    "question": "Welcher Anteil der Frauen nutzt laut Leitlinie etwa Reproduktionsmedizin, und wie hoch war die Frühgeburtenrate in einem aktuellen systematischen Übersichtsartikel?",
+    "question": "Welcher Zugang wird für die Sectio bei Frauen mit rekonstruiertem unteren Harntrakt beschrieben?",
     "options": [
-      "Etwa ein Drittel nutzt Reproduktionsmedizin; Frühgeburten in 16 % der Fälle.",
-      "Etwa 90 % nutzen Reproduktionsmedizin; Frühgeburten in 80 % der Fälle.",
-      "Reproduktionsmedizin wird bei BEEK nie benötigt.",
-      "Die Frühgeburtenrate liegt bei 0 %, da alle Geburten per Sectio erfolgen."
+      "Paramedianer Schnitt mit Inzision am Uterusfundus",
+      "Mediane Laparotomie mit hoher Uterusinzision",
+      "Pfannenstielschnitt mit tiefer querer Uterusinzision",
+      "Laparoskopisch assistierte Sectio über den Nabel"
     ],
-    "correct": 0,
-    "tip": "Insgesamt deutet die verzögerte Konzeption bei einem relevanten Anteil der Frauen auf eine gewisse Fertilitätseinschränkung hin.",
-    "explanation": "Etwa ein Drittel der Frauen mit BEEK nutzt Reproduktionsmedizin; in einem aktuellen systematischen Übersichtsartikel hatten 16 % der Betroffenen mit Blasenekstrophie Frühgeburten."
+    "correct": 1,
+    "tip": "Die meisten Komplikationen treten durch Adhäsionen beim Zugang zum Uterus auf.",
+    "explanation": "Hintergrund zu 12.18–12.23: mediane Laparotomie (kein Pfannenstielschnitt) mit hoher Uterusinzision. 12.21 (A): urologisch erfahrene Ärzte anwesend oder in Bereitschaft; 12.23 (B): Sectio zur Schonung des Beckenbodens empfehlen."
   },
   {
-    "question": "Ein 19-Jähriger mit kurzem Penis wünscht sich \"gleich eine Phalloplastik\". Was fordert Empfehlung 8.31 (Empfehlungsgrad B) als ersten Schritt?",
+    "question": "Wie viele Frauen mit BEEK nahmen laut Studien Hilfe der Reproduktionsmedizin in Anspruch?",
     "options": [
-      "Zunächst soll die funktionelle und kosmetische Situation des eigenen Penis verbessert werden; erst danach soll über die komplexe Phalloplastik gesprochen werden, und die psychologische Situation soll evaluiert werden.",
-      "Die Phalloplastik soll immer als erste Maßnahme im Jugendalter erfolgen.",
-      "Eine Phalloplastik ist bei BEEK grundsätzlich kontraindiziert.",
-      "Die Entscheidung liegt ausschließlich beim Patienten, ohne weitere ärztliche Abwägung."
+      "Etwa die Hälfte (50 %)",
+      "Etwa 5 %",
+      "Etwa drei Viertel (75 %)",
+      "Etwa ein Drittel (26–33 %)"
     ],
-    "correct": 0,
-    "tip": "Fainberg et al. zeigten, dass konventionelle operative Maßnahmen die Penislänge um 50–150 % des präoperativen Wertes steigern können.",
-    "explanation": "Empfehlung 8.31 (Empfehlungsgrad B) fordert, dass bei erwachsenen Betroffenen zunächst eine Verbesserung der funktionellen und kosmetischen Situation des Penis als erste Maßnahme erfolgen sollte; erst danach soll über die komplexe Phalloplastik gesprochen werden, und die psychologische Situation soll evaluiert werden."
+    "correct": 3,
+    "tip": "Bei verzögerter Konzeption fanden sich Begleitpathologien wie Endometriose, PCOS oder Tubenobstruktion.",
+    "explanation": "Hintergrund zu 12.18–12.23: ca. 26–33 % nutzten die Reproduktionsmedizin; nur vier von 19 Frauen wurden innerhalb eines Jahres schwanger. Frühzeitige gynäkologische Mitbetreuung ist sinnvoll."
   },
   {
-    "question": "Welcher Lappentyp wurde laut der systematischen Übersichtsarbeit zur Phalloplastik beim BEEK am häufigsten verwendet, und wie hoch war die Gesamtkomplikationsrate der Phalloplastik?",
+    "question": "Ab wann soll männlichen Betroffenen laut Empfehlung 12.30 eine andrologische Nachsorge angeboten werden?",
     "options": [
-      "Der freie Radialis-Lappen (89 %), bei einer Gesamtkomplikationsrate von 15 %.",
-      "Der Latissimus-dorsi-Lappen (89 %), bei einer Komplikationsrate von 90 %.",
-      "Ein gestielter Oberschenkellappen in 100 % der Fälle, komplikationsfrei.",
-      "Es wurde in keiner Studie ein spezifischer Lappentyp genannt."
+      "Ab der Geburt",
+      "Ab dem 30. Lebensjahr",
+      "Ab der Pubertät",
+      "Erst bei konkretem Kinderwunsch"
     ],
-    "correct": 0,
-    "tip": "Die Urethroplastik-Komplikationen lagen mit 54 % deutlich höher als die Gesamtkomplikationsrate der Phalloplastik selbst.",
-    "explanation": "Bei 89 % der Patienten wurde ein freier Lappen aus Unterarmgewebe (radial free forearm flap) verwendet; die Gesamtkomplikationsrate der Phalloplastik lag bei 15 %, hauptsächlich Entzündungen und thrombotische Ereignisse."
+    "correct": 2,
+    "tip": "Die Nachsorge umfasst Genitaluntersuchung, Sexualfunktion und im Verlauf die Fertilität.",
+    "explanation": "Empfehlung 12.30 (A): ab der Pubertät andrologische Nachsorge mit Untersuchung des äußeren Genitales, Evaluation der sexuellen Funktionen und im Verlauf der Fertilität. 12.32 (A): sexuelle Aufklärung und psychologisches Angebot."
   },
   {
-    "question": "Kann laut Statement 8.33 bei Männern mit BEEK, deren Miktion nicht über die Urethra erfolgt, auf eine Urethroplastik im Rahmen der Phalloplastik verzichtet werden?",
+    "question": "Warum werden die Kosten einer Kryokonservierung von Ejakulatspermien bei BEEK meist nicht übernommen?",
     "options": [
-      "Ja, aufgrund der hohen Komplikationsrate kann darauf verzichtet werden, sofern der Ablauf der Samenflüssigkeit gewährleistet bleibt.",
-      "Nein, eine Urethroplastik ist in jedem Fall obligat.",
-      "Nein, ohne Urethroplastik ist eine Phalloplastik grundsätzlich nicht möglich.",
-      "Die Frage wird in der Leitlinie nicht behandelt."
+      "Der BEEK wird sozialrechtlich als kosmetische Fehlbildung eingestuft.",
+      "Die Spermienqualität ist bei BEEK in der Regel normal, daher fehlt die Indikation.",
+      "Die Kryo-Richtlinie sieht die Übernahme bisher nur vor keimzellschädigender Therapie vor.",
+      "Eine Kryokonservierung ist erst nach dem 25. Lebensjahr zulässig."
     ],
-    "correct": 0,
-    "tip": "Die Komplikationsrate der Urethroplastik lag in der Übersichtsarbeit bei 54 % (Fisteln und Stenosen).",
-    "explanation": "Statement 8.33 besagt, dass bei Männern mit BEEK, deren Miktion nicht über die Urethra erfolgt, aufgrund der hohen Komplikationsrate auf eine Urethroplastik im Rahmen der Phalloplastik verzichtet werden kann, wobei der Ablauf der Samenflüssigkeit gewährleistet sein soll."
+    "correct": 2,
+    "tip": "Die Leitlinie empfiehlt, das Thema trotzdem möglichst früh anzusprechen – wegen der möglichen Verschlechterung der Ejakulatqualität.",
+    "explanation": "Empfehlung 12.31 (B): Kryokonservierung möglichst frühzeitig ab der Pubertät ansprechen. Die Kosten werden i. d. R. nicht übernommen, da die Kryo-Richtlinie nur Fälle vor keimzellschädigender Therapie vorsieht."
   },
   {
-    "question": "In welchem Bereich liegt laut Leitlinie der Anteil der Männer mit BEEK mit nachweisbarer Normozoospermie, und wie hoch ist der Anteil mit Azoospermie?",
+    "question": "Was zeigen die kleinen Studien zur Spermienkonzentration bei BEEK-Betroffenen?",
     "options": [
-      "Normozoospermie nur bei 7,1–35 %, Azoospermie bei 13–75 %.",
-      "Normozoospermie bei 90–100 %, Azoospermie praktisch nie.",
-      "Beide Werte liegen konstant bei 50 %.",
-      "Diese Parameter wurden bei BEEK nie untersucht."
+      "Normozoospermie bei 13–75 %, Azoospermie bei nur 7,1–35 %",
+      "Normozoospermie bei etwa 50 %, Azoospermie bei unter 1 %",
+      "Normozoospermie bei über 90 %, Azoospermie praktisch nie",
+      "Normozoospermie bei nur 7,1–35 %, Azoospermie bei 13–75 %"
     ],
-    "correct": 0,
-    "tip": "Zudem zeigten in einer Studie 36 % der Männer rezidivierende Epididymoorchitiden, die die Ejakulatqualität zusätzlich verschlechtern können.",
-    "explanation": "Wenige Studien mit kleinen Fallzahlen zeigen, dass eine Normozoospermie lediglich bei 7,1–35 % der Betroffenen nachweisbar ist, während eine Azoospermie bei 13–75 % der Betroffenen gefunden wird."
+    "correct": 3,
+    "tip": "In der Mehrzahl der Fälle zeigt sich eine Oligozoospermie.",
+    "explanation": "Hintergrund zu 12.27–12.33: meist Oligozoospermie, Normozoospermie nur bei 7,1–35 %, Azoospermie bei 13–75 %; rezidivierende Epididymoorchitiden (36 %) können mitursächlich sein."
   },
   {
-    "question": "Warum ist die korrekte Lage des Colliculus seminalis in der posterioren Urethra laut Leitlinie für die Ejakulation entscheidend?",
+    "question": "Welche anatomische Voraussetzung gilt nach mehreren Autoren als essenziell für eine antegrade Ejakulation?",
     "options": [
-      "Eine Positionierung des Colliculus innerhalb der Blase führt zwangsläufig zu einer Ejakulationsstörung; die korrekte Lage ist essentiell für eine antegrade Ejakulation.",
-      "Der Colliculus hat keinen Einfluss auf die Ejakulation.",
-      "Der Colliculus bestimmt ausschließlich die Erektionsfähigkeit, nicht die Ejakulation.",
-      "Eine Fehllage des Colliculus kann durch Medikamente vollständig kompensiert werden."
+      "Eine vollständige und dauerhafte Adaptation der Symphyse ohne Rediastase",
+      "Eine bilaterale Ureterneuimplantation",
+      "Der Erhalt der ventralen Vorhaut",
+      "Die korrekte Lage des Colliculus in der posterioren Urethra"
     ],
-    "correct": 0,
-    "tip": "Ejakulation erfolgt bei BEEK häufig tröpfelnd – die Harnröhre soll zur Gewinnung des gesamten Ejakulats manuell ausgestrichen werden.",
-    "explanation": "Die korrekte Positionierung des Colliculus in der posterioren Urethra ist essentiell für eine antegrade Ejakulation; eine Positionierung des Colliculus innerhalb der Blase führt zwangsläufig zu einer Ejakulationsstörung."
+    "correct": 3,
+    "tip": "Liegt die entscheidende Struktur innerhalb der Blase, kommt es zwangsläufig zur Ejakulationsstörung.",
+    "explanation": "Hintergrund zu 12.27–12.33: Eine korrekte Positionierung des Colliculus in der posterioren Urethra ist essenziell für die antegrade Ejakulation; die Ejakulation erfolgt häufig tröpfelnd, die Harnröhre ist zur Gewinnung auszustreichen."
   },
   {
-    "question": "Ab wann soll laut Empfehlung 12.30 (Empfehlungsgrad A) bei männlichen Betroffenen mit BEEK eine andrologische Nachsorge angeboten werden, und welches Thema soll laut Empfehlung 12.31 möglichst frühzeitig angesprochen werden?",
+    "question": "Ein 19-Jähriger mit BEEK wünscht wegen seines kurzen Penis eine Phalloplastik. Was empfiehlt 8.31 als ersten Schritt?",
     "options": [
-      "Ab der Pubertät; die Möglichkeit einer Kryokonservierung von Ejakulatspermien zur langfristigen Fertilitätsprotektion.",
-      "Erst nach dem 40. Lebensjahr; eine Kryokonservierung wird nicht empfohlen.",
-      "Ab der Geburt; die Kryokonservierung soll erst nach abgeschlossener Familienplanung erfolgen.",
-      "Eine andrologische Nachsorge ist bei BEEK nicht vorgesehen."
+      "Implantation einer Penisprothese ohne Phalloplastik als erste Maßnahme",
+      "Zuerst Funktion und Kosmetik des eigenen Penis verbessern und die psychologische Situation evaluieren",
+      "Keine Maßnahme, da die Phalloplastik beim BEEK kontraindiziert ist",
+      "Phalloplastik als Erstmaßnahme, sobald der Penis unter manuellem Zug kürzer als sechs Zentimeter ist"
     ],
-    "correct": 0,
-    "tip": "Die Kosten der Kryokonservierung werden meist nicht von den Krankenkassen übernommen, da dies gemäß den Kryo-Richtlinien bisher nur vor keimzellschädigender Therapie vorgesehen ist.",
-    "explanation": "Empfehlung 12.30 (Empfehlungsgrad A) fordert eine andrologische Nachsorge ab der Pubertät; Empfehlung 12.31 (Empfehlungsgrad B) empfiehlt, die Möglichkeit einer Kryokonservierung von Ejakulatspermien zur langfristigen Fertilitätsprotektion möglichst frühzeitig ab der Pubertät anzusprechen."
+    "correct": 1,
+    "tip": "Ein Patient ließ seinen Neophallus wieder entfernen, nachdem sein eigener Penis durch Narbenkorrekturen länger geworden war.",
+    "explanation": "Empfehlung 8.31 (B): zuerst funktionelle und kosmetische Verbesserung des Penis, erst danach über die komplexe Phalloplastik sprechen; psychologische Situation evaluieren. 8.32 (0): Phalloplastik als Option nach kritischer Aufklärung, keine klaren Indikationskriterien."
   }
 ]

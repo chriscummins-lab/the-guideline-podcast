@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Fachbereiche umfasst die lebenslange interdisziplinäre Nachsorge laut Empfehlung 10.1 mindestens?",
+    "question": "Welche Aspekte soll die lebenslange Nachsorge laut Empfehlung 10.1 mindestens umfassen?",
     "options": [
-      "Urologisch, gynäkologisch, nephrologisch, psychologisch und sozial.",
-      "Ausschließlich urologisch, alle weiteren Aspekte sind fakultativ.",
-      "Nur orthopädisch und dermatologisch.",
-      "Nur onkologisch, da das Tumorrisiko im Vordergrund steht."
+      "Urologische und orthopädische Aspekte bis zum Wachstumsabschluss",
+      "Urologische, gynäkologische, nephrologische, psychologische und soziale Aspekte",
+      "Pädiatrische Aspekte bis 18 Jahre, danach Nachsorge nur bei Beschwerden",
+      "Urologische, nephrologische und kardiologische Aspekte bis 30 Jahre"
     ],
-    "correct": 0,
-    "tip": "Die Selbsthilfegruppe hat dafür einen Nachsorgepass analog zum U-Heft entwickelt.",
-    "explanation": "Empfehlung 10.1 (EK) fordert, dass Betroffenen mit BEEK eine lebenslange interdisziplinäre Betreuung/Nachsorge angeboten werden soll, die mindestens die urologischen, gynäkologischen, nephrologischen, psychologischen und sozialen Aspekte umfasst."
+    "correct": 1,
+    "tip": "Die Empfehlung betont die Dauer und die Interdisziplinarität der Betreuung.",
+    "explanation": "Empfehlung 10.1 (EK): lebenslange interdisziplinäre Betreuung, mindestens urologisch, gynäkologisch, nephrologisch, psychologisch und sozial; Untersuchungszeitpunkte nach Abbildungen 2–4 und Nachsorgepass."
   },
   {
-    "question": "Ein 24-Jähriger mit Ureterosigmoidostomie aus der Kindheit erscheint nach sieben Jahren Nachsorgelücke und möchte \"nur ein Rezept\". Welches sozialmedizinische Thema soll laut Empfehlung 10.2 bei jeder Vorstellung mitbedacht werden?",
+    "question": "Welche Aussage zur Anerkennung eines Grades der Behinderung (GdB) trifft laut Leitlinie zu?",
     "options": [
-      "Der Hinweis auf das Schwerbehindertenrecht und entsprechende Unterstützungsangebote, inklusive Dokumentation.",
-      "Ausschließlich die Verschreibung von Antibiotika bei Bedarf.",
-      "Sozialmedizinische Aspekte sind beim BEEK ohne Relevanz.",
-      "Eine Meldung an das Gesundheitsamt ist obligat."
+      "Sie ist nicht in der Versorgungsmedizin-Verordnung gelistet; die Entscheidungen variieren stark.",
+      "Für die Blasenekstrophie gilt bundesweit einheitlich ein GdB von 50.",
+      "Der GdB wird mit der Geburtsmeldung automatisch von Amts wegen festgestellt und gilt lebenslang.",
+      "Ein GdB kann erst nach Vollendung des 18. Lebensjahres beantragt werden."
     ],
     "correct": 0,
-    "tip": "Blasenekstrophie ist nicht in der Versorgungsmedizin-Verordnung aufgeführt – die GdB-Entscheidungen reichen daher von Ablehnung bis 100.",
-    "explanation": "Empfehlung 10.2 (EK) fordert, dass Behandelnde auf das Schwerbehindertenrecht und entsprechende Unterstützungsangebote hinweisen und dies entsprechend dokumentieren sollen."
+    "tip": "Laut Leitlinie scheint die Beantragung im jüngeren Alter erfolgversprechender zu sein.",
+    "explanation": "Hintergrund zu 10.2: Die Blasenekstrophie ist nicht in der Versorgungsmedizin-Verordnung enthalten; Entscheidungen reichen von Ablehnung bis GdB 100 mit Merkzeichen; Widerspruch ist möglich. Empfehlung 10.2: auf Schwerbehindertenrecht hinweisen und dokumentieren."
   },
   {
-    "question": "Welcher Faktor wurde laut der systematischen Übersichtsarbeit zur HRQOL am häufigsten mit einer Verschlechterung der gesundheitsbezogenen Lebensqualität bei BEEK-Betroffenen in Verbindung gebracht?",
+    "question": "Welcher Faktor war in einer systematischen Übersicht am häufigsten mit einer verschlechterten gesundheitsbezogenen Lebensqualität verbunden?",
     "options": [
-      "Harninkontinenz, genannt in zwölf Studien.",
-      "Die Körpergröße der Betroffenen.",
-      "Die Blutgruppe der Betroffenen.",
-      "Der Geburtsort."
+      "Eine eingeschränkte Nierenfunktion",
+      "Das Aussehen des Genitales",
+      "Harninkontinenz",
+      "Die Anzahl der Voroperationen"
     ],
-    "correct": 0,
-    "tip": "Empfehlung 10.3 (Empfehlungsgrad B) fordert deshalb eine psychologische Unterstützung von Geburt an.",
-    "explanation": "Harninkontinenz war in der systematischen Übersichtsarbeit zur HRQOL der häufigste Faktor, der mit einer Verschlechterung der gesundheitsbezogenen Lebensqualität verbunden war (zwölf Studien)."
+    "correct": 2,
+    "tip": "Dieser Faktor wurde in zwölf Studien mit einer schlechteren HRQOL in Verbindung gebracht.",
+    "explanation": "Hintergrund zu 10.3: Harninkontinenz war der häufigste Faktor (zwölf Studien). Empfehlung 10.3 (B): psychologische Unterstützung und multidisziplinäre Betreuung von Geburt an."
   },
   {
-    "question": "Bis zu welchem Alter soll laut Empfehlung 12.3 (Empfehlungsgrad A) die Nierenfunktion bei Betroffenen mit BEEK jährlich bestimmt werden?",
+    "question": "Wie soll die Transition in die Erwachsenenmedizin laut Leitlinie idealerweise gestaltet werden?",
     "options": [
-      "Bis zur dritten Lebensdekade; bei Stabilität kann das Intervall prolongiert werden.",
-      "Nur bis zum fünften Lebensjahr.",
-      "Nur einmalig direkt postpartal.",
-      "Lebenslang mit monatlicher Kontrolle ohne Ausnahme."
+      "Ohne formale Übergabe, da Kinderchirurgen Erwachsene weiterbetreuen",
+      "Mit mindestens zehn gemeinsamen Terminen über einen Zeitraum von fünf Jahren nach dem 16. Geburtstag",
+      "Mit einer einmaligen Übergabe per Arztbrief zum 16. Geburtstag",
+      "Mit drei bis vier gemeinsamen oder Backup-Vorstellungen bis zur gesicherten Weiterbetreuung"
     ],
-    "correct": 0,
-    "tip": "Auch die sonographischen Kontrollen der Nieren und ableitenden Harnwege sollen laut Empfehlung 12.7 bis zur dritten Lebensdekade jährlich erfolgen.",
-    "explanation": "Empfehlung 12.3 (Empfehlungsgrad A) fordert, dass die Nierenfunktion bei Betroffenen mit BEEK jährlich bis zur dritten Lebensdekade bestimmt werden soll; bei stabilen Verhältnissen kann das Untersuchungsintervall prolongiert werden."
+    "correct": 3,
+    "tip": "Kinderchirurgen müssen Betroffene zum 16., spätestens zum 21. Geburtstag weiterleiten.",
+    "explanation": "Kapitel 12 (Transition): drei bis vier gemeinsame oder Backup-Vorstellungen anstreben, dazu Schulungen zu Krankheits-, Körper- und Therapielehre; Kinderchirurgie bis zum 16., spätestens 21. Geburtstag."
   },
   {
-    "question": "Welche Risikofaktoren werden laut Statement 12.6 neben dem weiblichen Geschlecht für rezidivierende Pyelonephritiden nach dem Primärverschluss genannt?",
+    "question": "In welchem Intervall soll die Nierenfunktion laut Empfehlung 12.3 bestimmt werden?",
     "options": [
-      "Eine infravesikale Obstruktion und ein dilatierender Reflux.",
-      "Ausschließlich das Körpergewicht bei Geburt.",
-      "Ausschließlich die Anwesenheit einer Herzfehlbildung.",
-      "Es werden keine weiteren Risikofaktoren genannt."
+      "Halbjährlich bis zur Einschulung, danach nur noch bei neu aufgetretenen Beschwerden oder Infekten",
+      "Einmalig nach dem Primärverschluss und vor jeder weiteren Operation",
+      "Alle fünf Jahre lebenslang, unabhängig vom Verlauf",
+      "Jährlich bis zur dritten Lebensdekade, bei stabilen Verhältnissen danach verlängert"
     ],
-    "correct": 0,
-    "tip": "Pyelonephritiden mit Narbenbildung sind ein häufiges Problem (22–50 %) nach Verschluss der Blasenplatte.",
-    "explanation": "Statement 12.6 besagt, dass neben dem weiblichen Geschlecht eine infravesikale Obstruktion und ein dilatierender Reflux nach dem Primärverschluss Risikofaktoren für Pyelonephritiden darstellen."
+    "correct": 3,
+    "tip": "Die Empfehlung hat den Empfehlungsgrad A und erlaubt eine Anpassung bei stabilem Verlauf.",
+    "explanation": "Empfehlung 12.3 (A): Nierenfunktion jährlich bis zur dritten Lebensdekade; bei stabilen Verhältnissen kann das Intervall prolongiert werden. 12.4: bei eingeschränkter GFR (Kinder-)Nephrologie."
   },
   {
-    "question": "Was besagt Statement 12.37 zum Risiko für angeborene Hüftdysplasie und Hüftarthrose bei Betroffenen mit BEEK?",
+    "question": "Welche Risikofaktoren für Pyelonephritiden nach dem Primärverschluss nennt Statement 12.6?",
     "options": [
-      "Es besteht kein höheres Risiko für eine angeborene Hüftdysplasie, und das Risiko für eine Hüftarthrose scheint nicht erhöht zu sein.",
-      "Das Risiko für Hüftdysplasie ist bei BEEK um das Zehnfache erhöht.",
-      "Jede Person mit BEEK entwickelt im Erwachsenenalter eine Coxarthrose.",
-      "Ein postpartales Hüftultraschallscreening ist bei BEEK nicht sinnvoll."
+      "Hohes Geburtsgewicht, Osteotomie und frühe Ureterneuimplantation",
+      "Mehrzeitiges Vorgehen, Periduralkatheter und späte Epispadiekorrektur",
+      "Weibliches Geschlecht, infravesikale Obstruktion und dilatierender Reflux",
+      "Zuggurtung, Mummy wrap und anticholinerge Therapie"
     ],
-    "correct": 0,
-    "tip": "Trotzdem erfolgt postpartum in der Regel ein Ultraschallscreening der Hüften, da BEEK-Kinder meist mit offener Symphyse geboren werden.",
-    "explanation": "Statement 12.37 (EK) besagt, dass Betroffene mit BEEK kein höheres Risiko für eine angeborene Hüftdysplasie haben und das Risiko für eine Hüftarthrose nicht erhöht zu sein scheint."
+    "correct": 2,
+    "tip": "Pyelonephritiden sind ein Risiko für den Verlust der Nierenfunktion – 12.5 verlangt sofortige Diagnostik und Therapie.",
+    "explanation": "Statement 12.6 (Evidenzlevel 3): Neben dem weiblichen Geschlecht stellen eine infravesikale Obstruktion und ein dilatierender Reflux nach dem Primärverschluss Risikofaktoren für Pyelonephritiden dar."
   },
   {
-    "question": "Worüber sollen Eltern und Betroffene laut Empfehlung 12.38 informiert werden?",
+    "question": "Wann sollte nach einer Blasenaugmentation mit Darmsegmenten eine jährliche Endoskopie empfohlen werden (Empfehlung 12.41)?",
     "options": [
-      "Über das erhöhte Risiko für einen Blasentumor.",
-      "Ausschließlich über das Risiko eines Prostatakarzinoms.",
-      "Darüber, dass ein Blasentumorrisiko beim BEEK ausgeschlossen ist.",
-      "Über ein erhöhtes Risiko für Schilddrüsenkarzinome."
+      "Ab dem ersten postoperativen Jahr",
+      "Ab 10–15 Jahren nach der Augmentation",
+      "Nur bei schmerzloser Makrohämaturie",
+      "Ab dem 50. Lebensjahr"
     ],
-    "correct": 0,
-    "tip": "Empfehlung 12.39 ergänzt die Aufklärungspflicht über das Tumorrisiko am Übergang vom Darm zum Urothel bei Harnableitung mit Darmsegmenten.",
-    "explanation": "Empfehlung 12.38 (EK) fordert, dass Eltern und Betroffene mit BEEK über das erhöhte Risiko für einen Blasentumor informiert werden sollen."
+    "correct": 1,
+    "tip": "Ziel ist der Ausschluss eines sekundären Blasentumors.",
+    "explanation": "Empfehlung 12.41 (EK): jährliche Endoskopie der Blase 10–15 Jahre nach der Augmentation. 12.40: bei schmerzloser Makrohämaturie oder zunehmender Dilatation zusätzlich zeitnahe Tumorabklärung im Zentrum."
   },
   {
-    "question": "Ab wie vielen Jahren nach Blasenaugmentation mittels Darmsegmenten soll laut Empfehlung 12.41 eine jährliche endoskopische Kontrolle zum Ausschluss eines sekundären Blasentumors empfohlen werden?",
+    "question": "Was soll bei kontinenter analer Harnableitung laut Empfehlung 12.42 erfolgen?",
     "options": [
-      "10–15 Jahre nach der Augmentation.",
-      "Bereits ab dem ersten postoperativen Jahr.",
-      "Erst ab dem 50. Lebensjahr, unabhängig vom OP-Zeitpunkt.",
-      "Eine endoskopische Kontrolle wird nach Augmentation nicht empfohlen."
+      "Jährliche endoskopische Kontrolle der Ureterimplantationsstelle ab dem 10. postoperativen Jahr",
+      "Jährliche Sonographie der Nieren ab dem ersten postoperativen Jahr als alleinige Kontrolle",
+      "Endoskopische Kontrolle alle fünf Jahre ab dem 20. postoperativen Jahr",
+      "Koloskopie nur bei positivem Stuhltest im Rahmen der allgemeinen Vorsorge"
     ],
     "correct": 0,
-    "tip": "Bei kontinenter analer Harnableitung gilt eine andere Zeitmarke: ab dem zehnten postoperativen Jahr jährliche Kontrolle der Ureterimplantationsstelle (Empfehlung 12.42).",
-    "explanation": "Empfehlung 12.41 (EK) empfiehlt nach Blasenaugmentation mittels Darmsegmenten eine jährliche Endoskopie der Blase 10–15 Jahre nach der Augmentation zum Ausschluss eines sekundären Blasentumors."
+    "tip": "Das Tumorrisiko liegt am Übergang vom Darm zum Urothel.",
+    "explanation": "Empfehlung 12.42 (EK): ab dem zehnten postoperativen Jahr jährliche endoskopische Verlaufskontrolle der Ureterimplantationsstelle. 12.39: über das erhöhte Tumorrisiko informieren."
   },
   {
-    "question": "Bis zu welchem Alter soll laut Hintergrundinformationen zur Transition die Betreuung durch die Kinderchirurgie/Kinderurologie spätestens erfolgen, bevor eine Übergabe in die Erwachsenenmedizin erfolgt?",
+    "question": "Wie soll bei Revision einer Ureterimplantation in ein Darmsegment mit dem Ureterstumpf verfahren werden (Empfehlung 12.43)?",
     "options": [
-      "Bis zum 16., spätestens bis zum 21. Geburtstag, mit drei bis vier gemeinsamen Vorstellungen.",
-      "Grundsätzlich lebenslang ohne jemalige Transition.",
-      "Bis zum 10. Geburtstag.",
-      "Die Transition soll abrupt ohne Übergangsphase erfolgen."
+      "Er soll vollständig entfernt werden.",
+      "Er soll ligiert und mit Fibrinkleber verschlossen werden.",
+      "Er soll als Refluxschutz in den Darm reimplantiert werden.",
+      "Er soll belassen und endoskopisch überwacht werden."
     ],
     "correct": 0,
-    "tip": "Die Schulungen in dieser Phase betreffen u. a. Körper, Sexualität, Fertilität und Terminorganisation.",
-    "explanation": "Die Betreuung durch die Kinderchirurgie soll bis zum 16., spätestens bis zum 21. Geburtstag erfolgen; dabei sind drei bis vier gemeinsame Vorstellungen mit der Erwachsenenmedizin anzustreben."
+    "tip": "Der Stumpf liegt genau in der Zone mit erhöhtem Tumorrisiko.",
+    "explanation": "Empfehlung 12.43 (EK): Bei Ureterreimplantation oder Umwandlung der Harnableitung soll der Ureterstumpf vollständig entfernt werden."
   },
   {
-    "question": "Welche Konsequenz hat eine operative Revision (Ureterreimplantation oder Umwandlung der Harnableitung) bei Implantation der Ureteren in ein Darmsegment laut Empfehlung 12.43?",
+    "question": "In einer deutschen Studie zeigten über 50 % der männlichen Betroffenen sonographische Hoden- oder Nebenhodenauffälligkeiten. Was empfiehlt die Leitlinie daraus?",
     "options": [
-      "Der Ureterstumpf soll vollständig entfernt werden.",
-      "Der Ureterstumpf soll grundsätzlich belassen werden, um Blutungen zu vermeiden.",
-      "Eine Revision ist bei dieser Konstellation grundsätzlich kontraindiziert.",
-      "Es ist egal, ob der Ureterstumpf entfernt wird oder nicht."
+      "Keine Maßnahme, da kein erhöhtes Tumorrisiko belegt ist",
+      "Jährliche Tumormarkerbestimmungen ab dem 30. Lebensjahr",
+      "Eine regelmäßige Selbstuntersuchung der Hoden ab der Pubertät",
+      "Eine prophylaktische Hodenbiopsie im Alter von 18 Jahren"
     ],
-    "correct": 0,
-    "tip": "Hintergrund ist das erhöhte Risiko für Tumoren am Übergang von Darm zu Urothel bzw. im Darmsegment.",
-    "explanation": "Empfehlung 12.43 (EK) fordert, dass bei einer operativen Revision mit Implantation der Ureteren in ein Darmsegment der Ureterstumpf vollständig entfernt werden soll."
+    "correct": 2,
+    "tip": "In der Studie fanden sich u. a. eine Keimzellneoplasie in situ und zwei benigne Hodentumoren.",
+    "explanation": "Empfehlung 12.34 (EK): regelmäßige Selbstuntersuchung insbesondere bei jungen Männern; Hintergrund: 23 % intratestikuläre Auffälligkeiten, 9 % Mikrolithiasis. Zur Inzidenz maligner Hodentumoren fehlen Daten."
   }
 ]

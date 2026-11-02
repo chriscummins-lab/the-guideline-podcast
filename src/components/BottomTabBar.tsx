@@ -7,6 +7,7 @@ const TABS = [
   { href: "/", label: "Home", icon: "ti-home", exact: true },
   { href: "/themen", label: "Themen", icon: "ti-list", exact: false },
   { href: "/gemerkt", label: "Gemerkt", icon: "ti-bookmark", exact: false },
+  { href: "/trainer", label: "Trainer", icon: "ti-target-arrow", exact: false },
   { href: "/suche", label: "Suche", icon: "ti-search", exact: false },
 ] as const;
 

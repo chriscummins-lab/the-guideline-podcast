@@ -702,6 +702,17 @@ button {
   font-weight: 800;
 }
 
+.quiz-done-badge {
+  color: var(--brand-green-deep);
+  font-weight: 800;
+}
+
+.episode-bookmark-icon {
+  margin-left: 6px;
+  font-size: 13px;
+  color: var(--brand-green-deep);
+}
+
 /* ============================================================
    KI-HINWEIS (Episodenseite)
    ============================================================ */
@@ -926,6 +937,23 @@ button {
 
 .player-actions-row button i {
   font-size: 17px;
+}
+
+@font-face {
+  font-family: "tabler-icons-filled";
+  src: url("https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.42.0/dist/fonts/tabler-icons-filled.woff2?v3.42.0")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.ti.ti-bookmark-filled {
+  font-family: "tabler-icons-filled" !important;
+}
+
+.ti-bookmark-filled::before {
+  content: "\fa88";
 }
 
 .player-actions-row button:hover {
@@ -1281,19 +1309,24 @@ audio {
   margin-top: 22px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 12px;
+}
+
+.quiz-next-btn,
+.quiz-back-btn {
+  border-radius: 99px;
+  padding: 12px 28px;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.2;
+  cursor: pointer;
 }
 
 .quiz-next-btn {
   background: var(--brand-green);
   color: #fff;
-  border: none;
-  border-radius: 99px;
-  padding: 12px 28px;
-  font-size: 14px;
-  font-weight: 800;
-  cursor: pointer;
+  border: 1.5px solid var(--brand-green);
   transition: background var(--transition);
 }
 
@@ -1304,6 +1337,7 @@ audio {
 .quiz-next-btn:disabled {
   background: var(--surface-sunken);
   color: var(--ink-light);
+  border-color: var(--border);
   cursor: not-allowed;
 }
 
@@ -1311,12 +1345,11 @@ audio {
   background: var(--surface-sunken);
   color: var(--ink);
   border: 1.5px solid var(--border);
-  border-radius: 99px;
-  padding: 11px 24px;
-  font-size: 14px;
-  font-weight: 700;
-  cursor: pointer;
   transition: all var(--transition);
+}
+
+.quiz-nav .quiz-back-btn {
+  margin-right: auto;
 }
 
 .quiz-back-btn:hover:not(:disabled) {

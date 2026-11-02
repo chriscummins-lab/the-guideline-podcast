@@ -2,10 +2,20 @@
 
 import { useState } from "react";
 import type { QuizQuestion } from "@/data/types";
+import { setQuizCompleted } from "@/lib/quizProgress";
+import { markAnswered, questionKey } from "@/lib/quizAnswers";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 
-export default function QuizPlayer({ questions }: { questions: QuizQuestion[] }) {
+export default function QuizPlayer({
+  questions,
+  storageKey,
+  questionKeys,
+}: {
+  questions: QuizQuestion[];
+  storageKey?: string;
+  questionKeys?: string[];
+}) {
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState<(number | null)[]>(() => Array(questions.length).fill(null));
   const [tipOpen, setTipOpen] = useState(false);
@@ -79,6 +89,8 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
   function answer(idx: number) {
     if (answered) return;
     setAnswers((a) => a.map((v, i) => (i === current ? idx : v)));
+    const key = questionKeys?.[current] ?? (storageKey ? questionKey(storageKey, current) : undefined);
+    if (key) markAnswered(key, idx === q.correct);
   }
 
   function goBack() {
@@ -88,12 +100,12 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
   }
 
   function goNext() {
-    if (!answered) return;
     if (current + 1 < questions.length) {
       setCurrent((c) => c + 1);
       setTipOpen(false);
     } else {
       setFinished(true);
+      if (storageKey && !questionKeys) setQuizCompleted(storageKey, true);
     }
   }
 
@@ -136,11 +148,13 @@ export default function QuizPlayer({ questions }: { questions: QuizQuestion[] })
       )}
 
       <div className="quiz-nav">
-        <button className="quiz-back-btn" onClick={goBack} disabled={current === 0}>
-          ← Zurück
-        </button>
-        <button className="quiz-next-btn" onClick={goNext} disabled={!answered}>
-          {current + 1 < questions.length ? "Nächste Frage →" : "Ergebnis anzeigen →"}
+        {current > 0 && (
+          <button className="quiz-back-btn" onClick={goBack}>
+            ← Zurück
+          </button>
+        )}
+        <button className="quiz-next-btn" onClick={goNext}>
+          {current + 1 < questions.length ? "→ Nächste Frage" : "→ Ergebnis anzeigen"}
         </button>
       </div>
     </div>

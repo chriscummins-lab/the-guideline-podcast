@@ -1,122 +1,122 @@
 [
   {
-    "question": "Eine Übersichtsarbeit fand, dass nur 68 % der Studien zwischen 2000 und 2011 überhaupt eine klare Kontinenzdefinition verwendeten. Was fordert Empfehlung 11.1 deshalb?",
+    "question": "Wie viele Studien zur Kontinenz beim BEEK (2000–2011) gaben laut einer systematischen Übersicht eine klare Kontinenzdefinition an?",
     "options": [
-      "Beim Berichten des Therapieziels Urinkontinenz soll vorab eine eindeutige methodische Kontinenzdefinition festgelegt werden.",
-      "Kontinenz soll grundsätzlich nur anhand des subjektiven Elterneindrucks beurteilt werden.",
-      "Eine Kontinenzdefinition ist entbehrlich, solange die Operation technisch korrekt durchgeführt wurde.",
-      "Nur die ICCS darf künftig Kontinenzdefinitionen veröffentlichen."
+      "12 %",
+      "68 %",
+      "98 %",
+      "40 %"
     ],
-    "correct": 0,
-    "tip": "Empfehlung 11.2 ergänzt, dass standardisierte Fragebögen wie die ICCS-Klassifikation Anwendung finden sollten.",
-    "explanation": "Empfehlung 11.1 (EK) fordert, dass beim Berichten des Therapieziels Urinkontinenz sowohl im therapeutischen als auch im wissenschaftlichen Setting vorab eine eindeutige methodische Kontinenzdefinition festgelegt werden soll."
+    "correct": 1,
+    "tip": "Die Leitlinie leitet daraus Empfehlung 11.1 ab: Die Definition soll vorab festgelegt werden.",
+    "explanation": "Hintergrund zu 11.1–11.4: Nur 68 % der Studien hatten eine klare Kontinenzdefinition, meist Trockenzeiten im Stundenbereich. Empfehlung 11.1 (EK): eindeutige methodische Definition vorab festlegen."
   },
   {
-    "question": "In einer Kohorte von 16 Erwachsenen mit BEEK, die sich selbst als kontinent bezeichneten: Wie viele erfüllten auch objektive Kontinenzkriterien?",
+    "question": "Welche Klassifikation bietet sich laut Empfehlung 11.2 für die Urinkontinenzevaluation an?",
     "options": [
-      "Nur 10 von 16 (62,5 %).",
-      "Alle 16 von 16 (100 %).",
-      "Keiner der 16 (0 %).",
-      "Diese Diskrepanz wird in der Leitlinie nicht thematisiert."
+      "Der IIEF-Score",
+      "Die Klassifikation nach Mücke & Marschall",
+      "Die Clavien-Dindo-Klassifikation",
+      "Die ICCS-Klassifikation"
     ],
-    "correct": 0,
-    "tip": "Das zeigt die Diskrepanz zwischen Selbst- und Fremdeinschätzung der Kontinenz beim BEEK.",
-    "explanation": "Eine Gruppe von 16 erwachsenen Individuen mit BEEK bezeichnete sich selbst als kontinent, objektive Kriterien stuften jedoch nur zehn in diese Kategorie ein (62,5 %)."
+    "correct": 3,
+    "tip": "Gemeint ist eine international verbreitete Klassifikation aus der Kinderurologie.",
+    "explanation": "Empfehlung 11.2 (EK): standardisierte Fragebögen, aufgrund der Verbreitung bietet sich die Klassifikation der International Children's Continence Society (ICCS) an."
   },
   {
-    "question": "Ab welchem Alter sind nicht-invasive urodynamische Methoden wie das Miktionsprotokoll laut Kapitel 11.2 sinnvoll einsetzbar?",
+    "question": "Ab welchem Alter kann nach der Rekonstruktion Physiotherapie zur Unterstützung der Kontinenzentwicklung angeboten werden?",
     "options": [
-      "Ab einem Alter von etwa 5 Jahren.",
-      "Ab der Geburt.",
-      "Erst ab dem 18. Lebensjahr.",
-      "Erst nach erfolgter Blasenhalsplastik."
+      "Ab einem Jahr",
+      "Ab 18 Jahren",
+      "Ab fünf Jahren",
+      "Ab zehn Jahren"
     ],
-    "correct": 0,
-    "tip": "Ist die Blase sonographisch stets leer, genügt alternativ eine Zystoskopie mit Kapazitätsmessung in Narkose.",
-    "explanation": "Nicht-invasive urodynamische Methoden wie das Führen eines Miktionsprotokolls sind – abhängig von der kindlichen Entwicklung – erst ab dem Alter von fünf Jahren zielführend."
+    "correct": 2,
+    "tip": "Ab diesem Alter ist laut ICD und DSM auch die Feststellung der Harnkontinenz möglich.",
+    "explanation": "Empfehlung 11.4 (EK): Physiotherapie ab einem Alter von fünf Jahren. Auch Urotherapie wird nicht vor dem fünften Lebensjahr indiziert."
   },
   {
-    "question": "Was fordert Empfehlung 11.3 vor Anlage eines katheterisierbaren Stomas beim BEEK?",
+    "question": "Bei welcher Blasenkapazität soll eine Blasenhalsplastik bzw. ein Blasenhalsverschluss nur zusammen mit Augmentation und Stoma erfolgen (Empfehlung 11.8)?",
     "options": [
-      "Urotherapeutische Instruktionen und Peerberatung sollten vorab durchgeführt werden.",
-      "Eine primäre Blasenaugmentation ist obligat vor jedem Stoma.",
-      "Eine Stomaanlage ist beim BEEK grundsätzlich kontraindiziert.",
-      "Es ist keine spezielle Vorbereitung notwendig."
+      "Bei einer Kapazität unter 250 ml",
+      "Bei einer Kapazität unter 150 ml",
+      "Bei einer Kapazität unter 30 ml",
+      "Bei einer Kapazität unter 85 ml"
     ],
-    "correct": 0,
-    "tip": "Die urotherapeutische Schulung zum kontinenten Urostoma ist in kinderurologischen Zentren obligat.",
-    "explanation": "Empfehlung 11.3 (EK) empfiehlt, dass urotherapeutische Instruktionen und Peerberatung vor der Anlage eines katheterisierbaren Stomas beim BEEK durchgeführt werden sollten."
+    "correct": 3,
+    "tip": "Bei grenzwertiger Kapazität um 100 ml kann eine Augmentation erforderlich sein, darunter ist sie obligater Bestandteil.",
+    "explanation": "Empfehlung 11.8 (A): Kapazität < 85 ml → Blasenhalsplastik/-verschluss nur mit Augmentation und Stoma. 11.6: Rezidivplastik bei initial > 85 ml möglich; 11.7: Augmentation bei verminderter Dehnbarkeit und grenzwertiger Kapazität (100 ml)."
   },
   {
-    "question": "Eine 17-Jährige mit 80 ml Blasenkapazität nach zwei Blasenhalsplastiken wünscht sich \"einfach noch eine Plastik\". Was fordert Empfehlung 11.8 (Empfehlungsgrad A) bei einer Blasenkapazität unter 85 ml?",
+    "question": "Wie häufig fanden sich nach Blasenhalsverschluss im Langzeitverlauf (IIEF erfasst) erektile bzw. ejakulatorische Dysfunktionen?",
     "options": [
-      "Eine Blasenhalsplastik/-verschluss soll nur in Kombination mit Augmentation und Stomaanlage erfolgen.",
-      "Eine erneute isolierte Blasenhalsplastik ist bei jeder Kapazität die Methode der Wahl.",
-      "Unter 85 ml Kapazität ist jede Kontinenzoperation kontraindiziert.",
-      "Die Kapazität spielt für die Wahl des Verfahrens keine Rolle."
+      "Erektil 44,4 %, ejakulatorisch 22,2 %",
+      "Erektil 80 %, ejakulatorisch 90 %",
+      "Erektil 22,2 %, ejakulatorisch 44,4 %",
+      "Erektil 5 %, ejakulatorisch 10 %"
     ],
-    "correct": 0,
-    "tip": "Eine isolierte Blasenhalsplastik bei kleiner Kapazität gefährdet den oberen Harntrakt – genau das ist der im Episodenkonzept beschriebene Fallstrick.",
-    "explanation": "Empfehlung 11.8 (Empfehlungsgrad A) besagt, dass bei einer Blasenkapazität unter 85 ml eine Blasenhalsplastik/-verschluss zum Schutz des oberen Harntrakts nur in Kombination mit einer Augmentation und Stomaanlage erfolgen soll."
+    "correct": 2,
+    "tip": "Empfehlung 11.9 verpflichtet zur Aufklärung über genau diese Folgen vor dem Eingriff.",
+    "explanation": "Hintergrund zu 11.6–11.9: zwei von neun Männern (22,2 %) mit milder bis mäßiger erektiler und 44,4 % mit ejakulatorischer Dysfunktion. Empfehlung 11.9 (EK): vorher aufklären."
   },
   {
-    "question": "Wie hoch ist laut Langzeitdaten die Wahrscheinlichkeit, bis zum Alter von 18 Jahren eine Blasenaugmentation benötigt zu haben?",
+    "question": "Wie hoch ist laut Langzeitdaten die Wahrscheinlichkeit einer Blasenaugmentation bis zum 18. Lebensjahr?",
     "options": [
-      "70,1 % mit 18 Jahren, nach 14,9 % mit fünf und 50,7 % mit zehn Jahren.",
-      "Konstant 15 % unabhängig vom Alter.",
-      "0 %, eine Augmentation wird beim BEEK praktisch nie benötigt.",
-      "100 % bereits mit fünf Jahren."
+      "14,9 %",
+      "70,1 %",
+      "50,7 %",
+      "88,5 %"
     ],
-    "correct": 0,
-    "tip": "Bis zum Alter von 18 Jahren hatten bereits 88,5 % der Betroffenen eine Blasenhalsprozedur bekommen.",
-    "explanation": "Langzeitdaten zeigen, dass die Wahrscheinlichkeit einer Augmentation mit dem Lebensalter deutlich zunimmt: 14,9 % im Alter von fünf Jahren, 50,7 % mit zehn Jahren und 70,1 % mit 18 Jahren."
+    "correct": 1,
+    "tip": "Die Wahrscheinlichkeit steigt mit dem Alter deutlich – drei der Zahlen gehören zur selben Zeitreihe.",
+    "explanation": "Hintergrund zu 11.4: Augmentationswahrscheinlichkeit 14,9 % mit 5, 50,7 % mit 10 und 70,1 % mit 18 Jahren; bis 18 Jahre hatten 88,5 % eine Blasenhalsprozedur."
   },
   {
-    "question": "Vor welchem Eingriff sollen Betroffene laut Empfehlung 11.9 über erektile und ejakulatorische Dysfunktion aufgeklärt werden, und mit welchen Häufigkeiten wurden diese in einer zitierten Langzeitstudie berichtet?",
+    "question": "Welche inkontinente Harnableitung ist bei Kindern nach fehlgeschlagener Rekonstruktion zu bevorzugen?",
     "options": [
-      "Vor dem Blasenhalsverschluss; erektile Dysfunktion in 22,2 %, ejakulatorische Dysfunktion in 44,4 %.",
-      "Vor der primären Harnableitung; erektile Dysfunktion in 90 %.",
-      "Vor der Introitusplastik; ejakulatorische Dysfunktion in 100 %.",
-      "Eine Aufklärungspflicht besteht hierzu nicht."
+      "Der Sigma-Rektum-Pouch, weil er bei Kindern keine Langzeitrisiken birgt",
+      "Die Ureterokutaneostomie, weil kein Darmsegment ausgeschaltet werden muss",
+      "Das Ileum-Konduit, wegen kürzerer Operationszeit und einfacher Stomaversorgung",
+      "Das Kolon-Konduit, wegen geringerer Komplikationsrate und späterer Konversionsoption"
     ],
-    "correct": 0,
-    "tip": "In einer retrospektiven Analyse gaben insgesamt nur 43 % der Männer nach Blasenhalsverschluss normale Erektionen und Ejakulationen an.",
-    "explanation": "Empfehlung 11.9 (EK) fordert, dass vor dem Blasenhalsverschluss über Konsequenzen und mögliche Komplikationen wie insbesondere ejakulatorische und erektile Dysfunktion aufgeklärt werden soll; in einer Langzeitstudie hatten zwei von neun erwachsenen Patienten eine erektile Dysfunktion (22,2 %) und eine ejakulatorische Dysfunktion (44,4 %)."
+    "correct": 3,
+    "tip": "Empfehlung 11.10 verlangt, nach nicht erfolgreicher Rekonstruktion eine Harnableitung zu diskutieren – die Wahl hängt u. a. von der Nierenfunktion ab.",
+    "explanation": "Hintergrund zu 11.10: Kolon-Konduit mit späterer Konversionsoption wegen geringerer Komplikationsrate bei Kindern vor Ileum-Konduit; Ureterokutaneostomien nur ausnahmsweise; Sigma-Rektum-Pouch nur nach ausführlicher Aufklärung über Langzeitkomplikationen."
   },
   {
-    "question": "Welche Kontinenzrate wurde nach Blasenhalsverschluss im Vergleich zur Blasenhalsplastik in einer vergleichenden Kohortenstudie erreicht?",
+    "question": "Was soll vor der Rekonstruktion bei Adoleszenten oder Erwachsenen mit bislang offener Blasenplatte erfolgen (Empfehlung 8.27)?",
     "options": [
-      "95,6 % nach Blasenhalsverschluss vs. 77,5 % nach Blasenhalsplastik.",
-      "77,5 % nach Blasenhalsverschluss vs. 95,6 % nach Blasenhalsplastik.",
-      "Beide Verfahren erreichten identische Kontinenzraten von 85 %.",
-      "Der Blasenhalsverschluss erreichte nur 10 % Kontinenz."
+      "Primärverschluss ohne weitere Diagnostik analog zum Neugeborenen",
+      "Abklärung des oberen Harntrakts und stichprobenartige Blasenbiopsie",
+      "Zystektomie ohne vorherige Biopsie wegen des Karzinomrisikos",
+      "Urinzytologie als alleinige Malignomdiagnostik vor dem Verschluss"
     ],
-    "correct": 0,
-    "tip": "Dem höheren Kontinenzgewinn stehen allerdings die Abhängigkeit von einem katheterisierbaren Stoma und ein erhöhtes Risiko für sexuelle Funktionsstörungen gegenüber.",
-    "explanation": "In einer vergleichenden Kohortenstudie konnte durch den Blasenhalsverschluss eine signifikant höhere Kontinenzrate erreicht werden als durch die Blasenhalsplastik (95,6 % vs. 77,5 %)."
+    "correct": 1,
+    "tip": "Fallberichte beschreiben Adeno-, Siegelringzell- und Plattenepithelkarzinome der offenen Blasenplatte.",
+    "explanation": "Empfehlung 8.27 (A): oberer Harntrakt abklären und stichprobenartige Blasenbiopsie (Vollwandbiopsie) zum Ausschluss maligner oder prämaligner Veränderungen."
   },
   {
-    "question": "Was fordert Empfehlung 8.27 (Empfehlungsgrad A) vor der Rekonstruktion adoleszenter und erwachsener Betroffener mit bis dahin offener Blasenplatte?",
+    "question": "Was empfiehlt 8.29 für die Rekonstruktion bei erwachsenen Betroffenen mit Kontinenzwunsch?",
     "options": [
-      "Eine vorherige Abklärung des oberen Harntraktes und eine stichprobenartige Blasenbiopsie.",
-      "Einen sofortigen Verschluss ohne weitere Diagnostik, um Zeit zu sparen.",
-      "Eine primäre Zystektomie bei jedem Erwachsenen, unabhängig vom histologischen Befund.",
-      "Eine alleinige Urinzytologie ist ausreichend."
+      "Kontinenz-, Speicher- und Entleerungsproblem möglichst in einem Eingriff zu lösen",
+      "Zuerst nur die Kontinenz herzustellen und das Speicherproblem erst bei Stauung zu lösen",
+      "Nur die Entleerung zu sichern, da Kontinenz im Erwachsenenalter nachrangig ist",
+      "Die drei Probleme in getrennten Eingriffen im Abstand von sechs Monaten anzugehen"
     ],
     "correct": 0,
-    "tip": "Fallberichte zeigen u. a. muzinöse Adenokarzinome, Siegelringzell-Adenokarzinome und Plattenepithelkarzinome der offenen Blasenplatte im Erwachsenenalter.",
-    "explanation": "Empfehlung 8.27 (Empfehlungsgrad A) fordert, dass die Rekonstruktion adoleszenter und erwachsener Betroffener mit bis dato offener Blasenplatte nach vorheriger Abklärung des oberen Harntraktes und nach Durchführen einer stichprobenartigen Blasenbiopsie geplant werden soll, um eine maligne bzw. prämaligne Veränderung auszuschließen."
+    "tip": "Baird et al. erreichten bei Jugendlichen mit kontinenter katheterisierbarer Rekonstruktion komplette Harn- und Stuhlkontinenz.",
+    "explanation": "Empfehlung 8.29 (B): Kontinenz-, Blasenspeicher- und Entleerungsproblem möglichst in einem Eingriff beheben. Vorher Abklärung von oberem Harntrakt, Urodynamik, Zystoskopie und psychosozialer Situation (8.28, A)."
   },
   {
-    "question": "Bei welchem ungefähren Anteil der Betroffenen mit Blasenekstrophie kann laut Statement 12.8 aktuell langfristig eine willentliche Miktion via Urethra erreicht werden, und wie verhält sich dies bei der reinen Epispadie?",
+    "question": "16 erwachsene Betroffene bezeichneten sich selbst als kontinent. Wie viele erfüllten objektive Kontinenzkriterien?",
     "options": [
-      "Maximal ein Viertel bis ein Fünftel bei Blasenekstrophie, bei reiner Epispadie deutlich höher (ca. 50 %).",
-      "Nahezu 100 % bei Blasenekstrophie, bei Epispadie nur 20 %.",
-      "Bei beiden Formen identisch bei etwa 50 %.",
-      "Eine willentliche Miktion via Urethra wird bei BEEK nie erreicht."
+      "10 von 16",
+      "4 von 16",
+      "13 von 16",
+      "16 von 16"
     ],
     "correct": 0,
-    "tip": "Diese Zahl unterstreicht, wie häufig weitere kontinenzschaffende Eingriffe im Verlauf notwendig werden.",
-    "explanation": "Statement 12.8 besagt, dass mittels der primären rekonstruktiven Verfahren aktuell bei maximal einem Viertel bis einem Fünftel der Betroffenen mit Blasenekstrophie langfristig eine willentliche Miktion via Urethra erreicht werden kann; bei der reinen Epispadie ist die Rate mit ca. 50 % deutlich höher."
+    "tip": "Die Leitlinie nutzt das Beispiel, um den Unterschied zwischen Selbst- und Fremdeinschätzung zu zeigen.",
+    "explanation": "Hintergrund zu 11.1–11.4: Von 16 Erwachsenen, die sich als kontinent bezeichneten, erfüllten nur 10 (62,5 %) objektive Kriterien; manche bezeichnen sich auch nach inkontinenter Harnableitung als kontinent."
   }
 ]

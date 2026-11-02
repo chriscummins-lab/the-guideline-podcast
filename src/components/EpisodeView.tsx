@@ -280,8 +280,8 @@ export default function EpisodeView({
                         onClick={toggleBookmark}
                         aria-label={bookmarked ? "Nicht mehr merken" : "Merken"}
                       >
-                        <i className="ti ti-bookmark" aria-hidden="true" />
-                        <span>Merken</span>
+                        <i className={`ti ${bookmarked ? "ti-bookmark-filled" : "ti-bookmark"}`} aria-hidden="true" />
+                        <span>{bookmarked ? "Gemerkt" : "Merken"}</span>
                       </button>
                     </div>
                   </>
@@ -330,7 +330,7 @@ export default function EpisodeView({
                 panelRefs.current[2] = el;
               }}
             >
-              <QuizPlayer questions={episode.quiz} />
+              <QuizPlayer questions={episode.quiz} storageKey={storageKey} />
             </div>
           </div>
         </div>

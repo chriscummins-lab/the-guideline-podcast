@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import type { Episode } from "@/data/types";
 import { episodeKey, isListened, onListenedChange } from "@/lib/listened";
+import { isQuizCompleted, onQuizCompletedChange } from "@/lib/quizProgress";
+import { isBookmarked, onBookmarksChange } from "@/lib/bookmarks";
 import { usePlayer } from "./PlayerProvider";
 import EpisodeProgressBar from "./EpisodeProgressBar";
 
@@ -17,6 +19,8 @@ export default function GuidelineEpisodeList({
   episodes: Episode[];
 }) {
   const [listenedKeys, setListenedKeys] = useState<Set<string>>(new Set());
+  const [quizDoneKeys, setQuizDoneKeys] = useState<Set<string>>(new Set());
+  const [bookmarkedKeys, setBookmarkedKeys] = useState<Set<string>>(new Set());
   const player = usePlayer();
 
   useEffect(() => {
@@ -31,6 +35,36 @@ export default function GuidelineEpisodeList({
     };
     refresh();
     return onListenedChange(refresh);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [categoryId, guidelineId, episodes.length]);
+
+  useEffect(() => {
+    const refresh = () => {
+      setQuizDoneKeys(
+        new Set(
+          episodes
+            .map((ep) => episodeKey(categoryId, guidelineId, ep.id))
+            .filter((k) => isQuizCompleted(k))
+        )
+      );
+    };
+    refresh();
+    return onQuizCompletedChange(refresh);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [categoryId, guidelineId, episodes.length]);
+
+  useEffect(() => {
+    const refresh = () => {
+      setBookmarkedKeys(
+        new Set(
+          episodes
+            .map((ep) => episodeKey(categoryId, guidelineId, ep.id))
+            .filter((k) => isBookmarked(k))
+        )
+      );
+    };
+    refresh();
+    return onBookmarksChange(refresh);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [categoryId, guidelineId, episodes.length]);
 
@@ -60,6 +94,8 @@ export default function GuidelineEpisodeList({
           lastGroup = ep.group ?? lastGroup;
 
           const listened = listenedKeys.has(storageKey);
+          const quizDone = quizDoneKeys.has(storageKey);
+          const bookmarked = bookmarkedKeys.has(storageKey);
           const isCurrent = player.track?.storageKey === storageKey;
           const unavailable = !ep.audioUrl;
 
@@ -86,12 +122,29 @@ export default function GuidelineEpisodeList({
               >
                 <div className="episode-num">{ep.num}</div>
                 <div className="episode-info">
-                  <div className="episode-name">{ep.name}</div>
+                  <div className="episode-name">
+                    {ep.name}
+                    {bookmarked && (
+                      <i
+                        className="ti ti-bookmark-filled episode-bookmark-icon"
+                        title="Gemerkt"
+                        aria-label="Gemerkt"
+                      />
+                    )}
+                  </div>
                   <div className="episode-meta">
                     {ep.duration && <span>{ep.duration}</span>}
                     {unavailable && <span>Podcast folgt</span>}
                     {ep.quiz.length > 0 && (
-                      <span>{isCurrent ? "läuft · " : ""}{ep.quiz.length} Quizfragen</span>
+                      <span>
+                        {isCurrent ? "läuft · " : ""}
+                        {ep.quiz.length} Quizfragen
+                        {quizDone && (
+                          <span className="quiz-done-badge" title="Quiz abgeschlossen">
+                            {" "}✓
+                          </span>
+                        )}
+                      </span>
                     )}
                   </div>
                 </div>

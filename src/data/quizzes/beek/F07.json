@@ -1,122 +1,122 @@
 [
   {
-    "question": "In welchem Häufigkeitsbereich treten laut Empfehlung 9.1 (Empfehlungsgrad B) Komplikationen bei Erst- und Folgeoperationen des BEEK auf?",
+    "question": "Worüber sollen Eltern laut Empfehlung 9.1 bezüglich Komplikationen aufgeklärt werden?",
     "options": [
-      "30–60 %, und sie sind in Zentren mit geringerer Erfahrung häufiger.",
-      "1–5 %, unabhängig von der Erfahrung des Zentrums.",
-      "Über 95 %, Komplikationen sind praktisch unvermeidbar.",
-      "Komplikationen treten nur bei Mädchen signifikant häufiger auf."
+      "Komplikationen treten fast nur bei Folgeoperationen auf, kaum beim Erstverschluss.",
+      "Komplikationen sind häufig (30–60 %) und in weniger erfahrenen Zentren häufiger.",
+      "Komplikationen sind selten (5–10 %) und vom Zentrum unabhängig.",
+      "Komplikationen betreffen fast alle Kinder (70–90 %), unabhängig vom Zentrum."
     ],
-    "correct": 0,
-    "tip": "85 % der US-Kliniken führen im Jahr höchstens zwei Verschlüsse durch – der Median liegt bei einem Verschluss pro Jahr.",
-    "explanation": "Empfehlung 9.1 (Empfehlungsgrad B) fordert, Eltern darüber aufzuklären, dass Komplikationen bei Erst- und Folgeoperationen häufig (30–60 %) auftreten und in Zentren mit geringerer Erfahrung häufiger sind."
+    "correct": 1,
+    "tip": "Fallzahlen werden als Surrogatparameter für Erfahrung verwendet.",
+    "explanation": "Empfehlung 9.1 (B, Evidenzlevel 3): Komplikationen bei Erst- und Folgeoperationen sind häufig (30–60 %) und treten in Zentren mit geringerer Erfahrung häufiger auf."
   },
   {
-    "question": "Wie unterscheiden sich laut den Hintergrundinformationen zu 9.1 die erfolgreichen Verschlussraten zwischen etablierten Zentren und externen Häusern?",
+    "question": "Wie häufig waren Blasenverschlüsse in etablierten Zentren im Vergleich zu externen Häusern erfolgreich?",
     "options": [
-      "96,3 % Erfolg in Zentren vs. 62,1 % in externen Häusern.",
-      "62,1 % Erfolg in Zentren vs. 96,3 % in externen Häusern.",
-      "Beide Gruppen erreichen identische Erfolgsraten von etwa 80 %.",
-      "In externen Häusern werden grundsätzlich keine Primärverschlüsse durchgeführt."
+      "99 % im Zentrum gegenüber 30 % in externen Häusern",
+      "80 % im Zentrum gegenüber 75 % in externen Häusern",
+      "96,3 % im Zentrum gegenüber 62,1 % in externen Häusern",
+      "62,1 % im Zentrum gegenüber 96,3 % in externen Häusern"
     ],
-    "correct": 0,
-    "tip": "Interessanterweise treten in etablierten Zentren teils mehr Clavien-Dindo-I/II-Komplikationen auf als in externen Häusern – dennoch ist der Gesamterfolg deutlich höher.",
-    "explanation": "In etablierten Zentren sind 96,3 % der Verschlüsse erfolgreich, in externen Häusern dagegen nur 62,1 %, obwohl dort teils mehr Clavien-Dindo-I/II-Komplikationen auftreten als in Zentren."
+    "correct": 2,
+    "tip": "Paradox: In den Zentren wurden sogar mehr Clavien-Dindo-I/II-Komplikationen dokumentiert.",
+    "explanation": "Hintergrund zu 9.1: In Zentren traten zwar mehr Clavien-Dindo-I/II-Komplikationen auf (36,2 % vs. 12,7 %), aber 96,3 % der Verschlüsse waren erfolgreich gegenüber 62,1 % in externen Häusern."
   },
   {
-    "question": "Nach welchem Zeitraum sollte laut Empfehlung 9.4 frühestens eine erneute Rekonstruktion nach kompletter Blasendehiszenz durchgeführt werden?",
+    "question": "Wann sollte nach einer kompletten Blasendehiszenz eine erneute Rekonstruktion erfolgen (Empfehlung 9.4)?",
     "options": [
-      "Frühestens nach drei Monaten, wobei die Indikation zur Osteotomie geprüft werden sollte.",
-      "Frühestens nach drei Tagen.",
-      "Frühestens nach drei Jahren.",
-      "Ein zeitlicher Mindestabstand wird nicht empfohlen."
+      "Sofort in derselben Narkose, um die Blasenplatte vor Fibrosierung zu bewahren",
+      "Frühestens nach zwei Wochen, wenn die Wunde infektfrei ist",
+      "Frühestens nach drei Monaten, mit Prüfung der Indikation zur Osteotomie",
+      "Frühestens nach zwölf Monaten, ohne Osteotomie"
     ],
-    "correct": 0,
-    "tip": "Eine große Institutskohorte zeigt, dass nach Re-Verschluss mit Osteotomie eine Chance auf Kontinenz von 77,1 % besteht.",
-    "explanation": "Empfehlung 9.4 (EK) empfiehlt, nach kompletter Blasendehiszenz eine erneute Rekonstruktion frühestens nach drei Monaten durchzuführen und dabei die Indikation zur Osteotomie zu prüfen."
+    "correct": 2,
+    "tip": "Ein Blasenprolaps oder eine erneute Dehiszenz verschlechtert die Blasenprognose – die Eltern sollen darüber aufgeklärt werden.",
+    "explanation": "Empfehlung 9.4 (EK): erneute Rekonstruktion nach frühestens drei Monaten, Indikation zur Osteotomie prüfen. 9.2: Aufklärung über die schlechtere Blasenentwicklungsprognose; 9.3: Defekt genau beschreiben."
   },
   {
-    "question": "Wie hoch war die Kontinenzchance nach Re-Verschluss mit Osteotomie, wenn ausschließlich eine Blasenhalsplastik durchgeführt wurde, im Vergleich zur Kombination aus Augmentation, Stoma und Blasenhalsverschluss?",
+    "question": "Wie wird Kontinenz nach einem Re-Verschluss mit Osteotomie in der großen Institutskohorte meist erreicht?",
     "options": [
-      "Nur 24 % allein durch Blasenhalsplastik, aber 60,4 % durch Augmentation, Stoma und Blasenhalsverschluss.",
-      "77,1 % allein durch Blasenhalsplastik, 24 % durch die Kombinationstherapie.",
-      "Beide Vorgehen erreichten identische Kontinenzraten von 50 %.",
-      "Eine isolierte Blasenhalsplastik erreicht nach Re-Verschluss immer 100 % Kontinenz."
+      "Mehrheitlich durch wiederholte endoskopische Unterspritzung des Blasenhalses",
+      "Mehrheitlich spontan ohne weitere operative Eingriffe",
+      "Mehrheitlich durch eine Blasenhalsplastik allein",
+      "Mehrheitlich mit Augmentation, kontinentem Stoma und Blasenhalsverschluss"
     ],
-    "correct": 0,
-    "tip": "Insgesamt bestand nach Re-Verschluss mit Osteotomie eine Gesamtchance von 77,1 % auf Kontinenz – meist jedoch nicht durch die Blasenhalsplastik allein.",
-    "explanation": "Nach Re-Verschluss mit Osteotomie wurde eine Kontinenz in nur 24 % der Fälle allein durch eine Blasenhalsplastik erreicht, in 60,4 % jedoch durch die Kombination aus Augmentation, Stoma und Blasenhalsverschluss."
+    "correct": 3,
+    "tip": "Die Chance auf Kontinenz insgesamt liegt bei 77,1 % – entscheidend ist der Weg dorthin.",
+    "explanation": "Hintergrund zu 9.2–9.4: Kontinenzchance 77,1 %, aber nur 24 % durch Blasenhalsplastik allein, 15,5 % mit Blasenhalsplastik, Augmentation und Stoma, 60,4 % mit Augmentation, Stoma und Blasenhalsverschluss."
   },
   {
-    "question": "Innerhalb welches Zeitraums verschließen sich urethrale Fisteln bei freiem Abfluss laut Leitlinie meist spontan, und in welchem Anteil der Fälle gelingt dies?",
+    "question": "Was gilt für urethrale Fisteln nach der Rekonstruktion?",
     "options": [
-      "Innerhalb von drei Monaten in ca. 80 % der Fälle.",
-      "Innerhalb von drei Tagen in 100 % der Fälle.",
-      "Innerhalb von drei Jahren in 10 % der Fälle.",
-      "Ein spontaner Verschluss wird nie beobachtet."
+      "Bei freiem Abfluss verschließen sich etwa 80 % innerhalb von drei Monaten spontan.",
+      "Sie verschließen sich praktisch nie spontan und sollen sofort revidiert werden.",
+      "Ein Spontanverschluss gelingt nur bei etwa 20 % und frühestens nach einem Jahr.",
+      "Ein Spontanverschluss gelingt nur unter einem dauerhaft blockierten Katheter."
     ],
     "correct": 0,
-    "tip": "Voraussetzung für den Spontanverschluss ist ein freier infravesikaler Abfluss.",
-    "explanation": "Urethrale Fisteln können sich bei freiem Abfluss im Zeitraum von drei Monaten in ca. 80 % der Fälle spontan verschließen."
+    "tip": "Die Grundbedingung für den Spontanverschluss betrifft den infravesikalen Abfluss.",
+    "explanation": "Hintergrund zu 9.5: Urethrale Fisteln können sich innerhalb von drei Monaten spontan verschließen (80 %), wenn der Abfluss unbeeinträchtigt ist; sonst lokaler Verschluss mit ortsständigem Gewebe."
   },
   {
-    "question": "Ein Säugling zeigt zwei Wochen nach Katheterentfernung Fieber und abgeschwächte Miktion. Welches ist laut Empfehlung 9.5 (Empfehlungsgrad A) die korrekte erste diagnostische Maßnahme, bevor rein antibiotisch behandelt wird?",
+    "question": "Ein Säugling hat zwei Wochen nach Katheterentfernung Fieber und miktioniert nur schwach. Was empfiehlt Empfehlung 9.5?",
     "options": [
-      "Eine zystoskopische Abklärung obstruktiver urethraler Komplikationen.",
-      "Eine sofortige erneute Blasenhalsplastik ohne weitere Diagnostik.",
-      "Eine ausschließlich serologische Abklärung ohne Bildgebung oder Endoskopie.",
-      "Eine primäre Harnableitung ohne vorherige Zystoskopie."
+      "Zystoskopische Abklärung einer obstruktiven urethralen Komplikation",
+      "Abwarten, da sich die Miktion nach dem Verschluss meist selbst einspielt",
+      "Antibiotische Dauerprophylaxe ohne weitere Diagnostik",
+      "Steigerung der Anticholinergika-Dosis und Kontrolle in drei Monaten"
     ],
     "correct": 0,
-    "tip": "Harnwegsinfektionen treten bei obstruktiven Komplikationen in bis zu 44 % der Fälle auf – ein rein antibiotisches Vorgehen würde die zugrunde liegende Obstruktion übersehen.",
-    "explanation": "Empfehlung 9.5 (Empfehlungsgrad A) fordert, dass obstruktive urethrale Komplikationen zystoskopisch abgeklärt und konsequent therapiert werden sollen, da sie ein erhebliches Risiko für Blasen- und Nierenfunktion darstellen; Warnzeichen sind u. a. Harnwegsinfektionen (44 %), Epididymitis/Prostatitis (31 %) und Harntransportstörungen (29 %)."
+    "tip": "Stenosen sind selten, aber für Blase und oberen Harntrakt besonders folgenreich.",
+    "explanation": "Empfehlung 9.5 (A): Obstruktive urethrale Komplikationen sollen zystoskopisch abgeklärt und konsequent therapiert werden. Harnverhalte nach Katheterentfernung kommen in 9,1 % vor; meist innerhalb von 60 Tagen."
   },
   {
-    "question": "Mit welchem Anteil tritt laut Leitlinie nach dem Erstverschluss und Entfernen des Katheters ein Harnverhalt auf, der zystoskopisch weiter abgeklärt werden muss?",
+    "question": "Welche Folge der penilen Ischämie nach CPRE war in der analysierten Serie (26 Patienten) am häufigsten?",
     "options": [
-      "9,1 %.",
-      "91 %.",
-      "0,9 %.",
-      "Harnverhalt nach Katheterentfernung wird in der Leitlinie nicht erwähnt."
+      "Verlust beider Corpora",
+      "Unilateraler Schwellkörperverlust",
+      "Isolierte Meatusstenose",
+      "Vollständige Erholung ohne bleibenden Defekt"
     ],
-    "correct": 0,
-    "tip": "Diese Komplikationen treten meist innerhalb von 60 Tagen nach Erstverschluss auf.",
-    "explanation": "Nach dem Erstverschluss und dem Entfernen des Katheters sind in 9,1 % der Fälle Harnverhalte beschrieben, die zystoskopisch weiter abgeklärt werden müssen; meist treten diese Komplikationen innerhalb von 60 Tagen auf."
+    "correct": 1,
+    "tip": "81 % der Betroffenen waren in der Neonatalperiode operiert worden.",
+    "explanation": "Hintergrund zu 9.7: In 77 % resultierte ein unilateraler Schwellkörperverlust, 23 % zeigten einen Glansverlust bzw. Verlust beider Corpora. Empfehlung 9.7 (B): Penisrekonstruktion zu einem späteren Zeitpunkt."
   },
   {
-    "question": "Ein Kollege möchte bei einer lividen Glans am ersten postoperativen Tag abwarten, ob sich die Durchblutung von selbst normalisiert. Welche Akutmaßnahme nennt die Leitlinie bei Verdacht auf eine vaskuläre Komplikation durch die Symphysennaht?",
+    "question": "Welche Akutmaßnahme wird bei intra- oder postoperativer peniler Ischämie meist durchgeführt?",
     "options": [
-      "Eine Lockerung der Symphysennaht.",
-      "Eine sofortige Amputation der Glans.",
-      "Eine systemische Antikoagulation als alleinige Maßnahme.",
-      "Ein Zuwarten von mindestens 72 Stunden ohne weitere Maßnahme."
+      "Eine Lockerung der Symphysennaht",
+      "Eine sofortige Testosterongabe i. m.",
+      "Eine sofortige Revision mit Urethralplastik",
+      "Ein komprimierender Penisverband"
     ],
     "correct": 0,
-    "tip": "Ursächlich werden u. a. direkte Gefäßverletzungen und der Druck der Symphysennaht auf die Pudendusgefäße angenommen.",
-    "explanation": "Tritt eine vaskuläre Komplikation intra- oder postoperativ auf, wird meist eine Lockerung der Symphysennaht als Akutmaßnahme durchgeführt."
+    "tip": "Als Ursachen werden u. a. Druck auf die Pudendusgefäße und venöse Kongestion angenommen.",
+    "explanation": "Hintergrund zu 9.7: Bei vaskulärer Komplikation wird meist die Symphysennaht gelockert; ob dadurch eine Besserung erzielt wird, bleibt unklar. Testosteron wird nur präoperativ eine protektive Wirkung zugeschrieben."
   },
   {
-    "question": "Welcher Anteil der Patienten zeigte in der analysierten Serie von 26 Betroffenen mit penis-ischämischen Komplikationen nach CPRE einen unilateralen Schwellkörperverlust bzw. einen Glansverlust/Verlust beider Corpora?",
+    "question": "Wie häufig waren orthopädische Komplikationen nach Beckenosteotomie in der großen pädiatrischen Institutskohorte (286 Patienten)?",
     "options": [
-      "77 % unilateraler Schwellkörperverlust, 23 % Glans- bzw. beidseitiger Corpora-Verlust.",
-      "23 % unilateraler Schwellkörperverlust, 77 % Glans- bzw. beidseitiger Corpora-Verlust.",
-      "Keiner der 26 Patienten entwickelte einen Schwellkörperverlust.",
-      "100 % entwickelten einen bilateralen Verlust der Corpora."
+      "In 50 %",
+      "In 33 %",
+      "In 16,2 %",
+      "In 1,7 %"
     ],
-    "correct": 0,
-    "tip": "81 % der 26 Patienten waren in der Neonatalperiode operiert worden, 54 % hatten zusätzlich eine Osteotomie erhalten.",
-    "explanation": "Die analysierte Serie von 26 Patienten mit penis-ischämischen Komplikationen nach CPRE zeigte in 77 % einen unilateralen Schwellkörperverlust und in 23 % einen Glansverlust bzw. Verlust beider Corpora."
+    "correct": 3,
+    "tip": "Im Erwachsenenalter liegen die Komplikationsraten der Osteotomie deutlich höher.",
+    "explanation": "Hintergrund zu 9.8/9.9: Nur 1,7 % (5/286) hatten orthopädische Komplikationen. Bei erwachsenen Frauen traten dagegen in 50 % Nervenläsionen auf; 9.9 (EK): Aufklärung über die deutlich erhöhten Risiken."
   },
   {
-    "question": "Wie häufig traten laut Leitlinie orthopädische Komplikationen nach Beckenosteotomie im Kindesalter im Vergleich zum Erwachsenenalter auf (Beispiel der sechs Frauen mit Uterusprolaps)?",
+    "question": "Wie sollen Bauchwandhernien bei erwachsenen Betroffenen abgeklärt und behandelt werden (Empfehlung 9.10)?",
     "options": [
-      "Im Kindesalter selten (1,7 %), im Erwachsenenalter deutlich häufiger (bei den sechs Frauen 50 % Nervenläsionen und 50 % Materialentfernung).",
-      "Im Kindesalter häufig (50 %), im Erwachsenenalter selten (1,7 %).",
-      "Orthopädische Komplikationen traten ausschließlich im Kindesalter auf.",
-      "Es bestand kein Unterschied zwischen Kindes- und Erwachsenenalter."
+      "Ohne Bildgebung, durch sofortige Osteotomie zum Bauchwandverschluss",
+      "Durch Abwarten, da Inkarzerationen im Erwachsenenalter nicht vorkommen",
+      "Mit Schnittbildgebung und interdisziplinärer Therapieplanung",
+      "Mit Sonographie und konservativer Versorgung mit Bauchbandage"
     ],
-    "correct": 0,
-    "tip": "Empfehlung 9.9 fordert daher eine Aufklärung über die deutlich erhöhten Risiken der Beckenosteotomie im Erwachsenenalter.",
-    "explanation": "In einer großen Institutskohorte hatten nur 1,7 % der Patient*innen im Kindesalter orthopädische Komplikationen nach Beckenosteotomie, während bei sechs erwachsenen Frauen mit Uterusprolaps in 50 % vorübergehende Nervenläsionen und in 50 % eine notwendige Materialentfernung auftraten."
+    "correct": 2,
+    "tip": "Fremdmaterial und Erfahrung in der Hernienchirurgie gelten als hilfreich, die Rolle der Osteotomie ist offen.",
+    "explanation": "Empfehlung 9.10 (EK): Schnittbildgebung und interdisziplinäre Therapie. Osteotomie-Komplikationen sollen gegen den sicheren Abdominalwandverschluss abgewogen werden (vgl. 8.30)."
   }
 ]

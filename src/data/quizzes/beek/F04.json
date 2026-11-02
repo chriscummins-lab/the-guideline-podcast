@@ -1,122 +1,122 @@
 [
   {
-    "question": "Die Eltern haben im Internet gelesen, ihr Kind könne durch \"eine einzige Operation\" trocken werden. Was besagt Statement 8.1 der Leitlinie zu den drei Grundverfahren MSRE, CPRE und RSTM?",
+    "question": "Worin unterscheiden sich MSRE, CPRE und RSTM laut Kapitel 8.1 im Kern?",
     "options": [
-      "Kein Konzept ist generell überlegen – die Entscheidung soll individuell getroffen werden.",
-      "CPRE ist allen anderen Verfahren in Bezug auf Kontinenz nachweislich überlegen.",
-      "RSTM ist aufgrund der geringsten Komplikationsrate das einzig empfohlene Verfahren.",
-      "MSRE ist obsolet und wird nicht mehr angewendet."
+      "In der Art der Immobilisation",
+      "Im Zeitpunkt der Antirefluxplastik",
+      "Im Konzept der Blasenhalsrekonstruktion",
+      "In der Wahl der Osteotomietechnik"
     ],
-    "correct": 0,
-    "tip": "Die drei Verfahren unterscheiden sich vor allem im Konzept der Blasenhalsrekonstruktion.",
-    "explanation": "Statement 8.1 besagt, dass die aktuelle Datenlage es nicht erlaubt, einem der aufgeführten Konzepte generell den Vorzug zu geben – die Entscheidung soll individuell getroffen werden. MSRE, CPRE und RSTM unterscheiden sich vor allem im Konzept der Blasenhalsrekonstruktion."
+    "correct": 2,
+    "tip": "MSRE setzt eine operative Blasenhalsumformung voraus, CPRE und RSTM versuchen Kontinenz über die Weichteilmobilisation.",
+    "explanation": "Kapitel 8.1: Der Unterschied der drei Verfahren liegt im Konzept der Blasenhalsrekonstruktion. Statement 8.1: Keines der Konzepte ist generell überlegen; individuelle Entscheidung."
   },
   {
-    "question": "Worin unterscheiden sich MSRE (Modern Staged Repair), CPRE (Complete Primary Repair) und RSTM (Radical Soft Tissue Mobilization) laut Leitlinie vor allem?",
+    "question": "Wann erfolgt im Modern Staged Repair (MSRE) die Blasenhalsplastik?",
     "options": [
-      "Im Konzept der Blasenhalsrekonstruktion.",
-      "In der verwendeten Nahtmaterialstärke.",
-      "Ausschließlich im Geburtsgewicht der behandelten Kinder.",
-      "In der Anästhesieform (Allgemein- vs. Regionalanästhesie)."
+      "Erst nach Abschluss der Pubertät und des Wachstums",
+      "Wenn das Kind bereit ist, ab dem fünften Lebensjahr",
+      "Zusammen mit dem Blasenverschluss in den ersten 72 Stunden",
+      "Zusammen mit der Epispadiekorrektur im 6.–12. Lebensmonat"
     ],
-    "correct": 0,
-    "tip": "Während MSRE eine operative Blasenhalsumformung voraussetzt, versuchen CPRE und RSTM Kontinenz primär durch Weichteilmobilisation zu erreichen.",
-    "explanation": "Der Unterschied zwischen den drei Verfahren liegt im Konzept der Blasenhalsrekonstruktion: Die Modifikationen des MSRE setzen eine operative Blasenhalsumformung voraus, während CPRE und RSTM versuchen, Kontinenz durch Mobilisation der Weichteilstrukturen ohne operative Manipulation am Blasenhals zu erzielen."
+    "correct": 1,
+    "tip": "Das mehrzeitige Konzept verteilt Blasenverschluss, Penisrekonstruktion und Kontinenzeingriff auf verschiedene Lebensphasen.",
+    "explanation": "MSRE: Blasenverschluss in den ersten 24–72 Lebensstunden, Epispadiekorrektur bei Jungen im 6.–12. Lebensmonat, Blasenhalsplastik, wenn das Kind bereit ist, ab dem fünften Lebensjahr."
   },
   {
-    "question": "Wie verhält sich laut Statement 8.2 die Transfusionsrate bei durchgeführter Osteotomie im Vergleich zum Verschluss ohne Osteotomie?",
+    "question": "Wie viele Jungen mit Blasenekstrophie entwickelten bei Husmann et al. innerhalb von 10 Jahren eine Leistenhernie?",
     "options": [
-      "Die Osteotomie ist mit einer höheren Transfusionsrate verbunden.",
-      "Die Osteotomie senkt die Transfusionsrate signifikant.",
-      "Es besteht kein Zusammenhang zwischen Osteotomie und Transfusionsbedarf.",
-      "Die Transfusionsrate ist unabhängig vom Verschlusszeitpunkt immer identisch."
+      "86 % (Kontrollgruppe ohne Blasenekstrophie: 40 %)",
+      "12 % (Kontrollgruppe ohne Blasenekstrophie: 4 %)",
+      "31 % (Kontrollgruppe ohne Blasenekstrophie: 15 %)",
+      "56 % (Kontrollgruppe ohne Blasenekstrophie: 4 %)"
     ],
-    "correct": 0,
-    "tip": "In einer zitierten Kohorte lag die Transfusionsrate bei 34 % ohne Osteotomie gegenüber 91 % mit verzögertem Verschluss.",
-    "explanation": "Evidenzbasiertes Statement 8.2 besagt, dass die Osteotomie bei Betroffenen mit BEEK mit einer höheren Transfusionsrate verbunden ist; in einer großen Kohorte lag diese bei 34 % vs. 91 %, abhängig von Osteotomie und Verschlusszeitpunkt."
+    "correct": 3,
+    "tip": "Vor dem Verschluss sind Hernien nur bei etwa einem Viertel klinisch auffällig – der steigende intraabdominelle Druck macht sie danach sichtbar.",
+    "explanation": "Hintergrund zu 8.4/8.5: 56 % vs. 4 % in 10 Jahren. Empfehlung 8.4 (B): beim Jungen beide Leisten inspizieren und offene Processus vaginales beim Primärverschluss verschließen; 8.5 (B): bei Notfallherniotomie die Gegenseite inspizieren."
   },
   {
-    "question": "Was fordert Empfehlung 8.4 (Empfehlungsgrad B) in Bezug auf die Leisten beim männlichen Primärverschluss?",
+    "question": "Wann soll die Blasenfunktion nach Primärverschluss urodynamisch abgeklärt werden (Empfehlung 8.6)?",
     "options": [
-      "Beide Leisten sollten inspiziert und offene Processus vaginales verschlossen werden.",
-      "Eine Leisteninspektion ist nur bei bereits klinisch tastbarer Hernie sinnvoll.",
-      "Eine Leistenexploration ist beim Primärverschluss grundsätzlich kontraindiziert.",
-      "Nur die rechte Leiste muss routinemäßig inspiziert werden."
+      "Bei Komplikationen am oberen Harntrakt und vor Folgeeingriffen",
+      "Nur bei persistierender Inkontinenz nach dem zehnten Lebensjahr",
+      "Routinemäßig vor der Entlassung nach dem Primärverschluss",
+      "Erst nach Erreichen des 18. Lebensjahres im Rahmen der Transition"
     ],
     "correct": 0,
-    "tip": "56 % der Jungen mit Blasenekstrophie entwickeln sonst innerhalb von 10 Jahren eine Hernie, gegenüber nur 4 % in der Kontrollgruppe.",
-    "explanation": "Empfehlung 8.4 (Empfehlungsgrad B) empfiehlt, im Rahmen des Primärverschlusses bei Jungen beide Leisten zu inspizieren und offene Processus vaginales zu verschließen, da sonst 56 % der Jungen mit Blasenekstrophie innerhalb von 10 Jahren eine Hernie entwickeln (vs. 4 % in der Kontrollgruppe)."
+    "tip": "Auch eine kontinente Blase kann wegen hoher Füllungs- und Miktionsdrücke eine Risikokonstellation für die Nieren sein.",
+    "explanation": "Empfehlung 8.6 (A, Evidenzlevel 3): Die Blasenfunktion kann nach Primärverschluss verändert sein und soll bei Komplikationen am oberen Harntrakt bzw. vor Folgeeingriffen urodynamisch abgeklärt werden."
   },
   {
-    "question": "Welcher Anteil der Patient*innen benötigte in der von Ellison et al. zitierten CPRE-Serie weitere Leisteneingriffe, wenn initial KEINE Herniotomie durchgeführt wurde, im Vergleich zu Patient*innen mit initialer Herniotomie?",
+    "question": "Wie viele Patienten waren in der Übersichtsarbeit von Pathak et al. (236 Patienten nach CPRE) ohne weitere Maßnahmen kontinent?",
     "options": [
-      "40 % ohne initiale Herniotomie vs. 11 % mit initialer Herniotomie.",
-      "11 % ohne initiale Herniotomie vs. 40 % mit initialer Herniotomie.",
-      "Beide Gruppen hatten identische Folgeeingriffsraten von 25 %.",
-      "0 % in beiden Gruppen, da Hernien beim BEEK extrem selten sind."
+      "118 Patienten",
+      "11 Patienten",
+      "34 Patienten",
+      "190 Patienten"
     ],
-    "correct": 0,
-    "tip": "Dies unterstützt die Empfehlung, Leistenhernien bereits beim Primärverschluss zu adressieren.",
-    "explanation": "Ohne initiale Herniotomie benötigten in der Folge 40 % der Patient*innen weitere Leisteneingriffe, während dies bei initialer Herniotomie nur bei 11 % notwendig war."
+    "correct": 1,
+    "tip": "Eine der anderen Zahlen beschreibt die Patienten mit willentlicher Miktion – unabhängig von weiteren Eingriffen.",
+    "explanation": "Hintergrund zu 8.8: Willentliche Miktion war bei 34 Personen möglich, davon viele nach Blasenhalsplastik oder Unterspritzung; nur 11 waren ohne weitere Maßnahmen kontinent. Empfehlung 8.8 (A): Familien über diese Unsicherheit aufklären."
   },
   {
-    "question": "Wann soll laut Empfehlung 8.6 (Empfehlungsgrad A) nach Primärverschluss eine urodynamische Abklärung der Blasenfunktion erfolgen?",
+    "question": "In einer Institutskohorte nach mehrzeitigem Vorgehen (MSRE): Bei wie vielen Patienten wurde nach dem Erstverschluss ein vesikoureteraler Reflux diagnostiziert?",
     "options": [
-      "Bei Komplikationen am oberen Harntrakt sowie vor Folgeeingriffen.",
-      "Routinemäßig bei jedem Kind unmittelbar nach dem Erstverschluss, unabhängig vom klinischen Verlauf.",
-      "Niemals, da urodynamische Untersuchungen beim BEEK generell keinen diagnostischen Mehrwert bieten.",
-      "Nur einmalig im Erwachsenenalter."
+      "Bei 31 %",
+      "Bei 11 %",
+      "Bei 15,6 %",
+      "Bei 75,4 %"
     ],
-    "correct": 0,
-    "tip": "Ein Leak Point Pressure über 30 cmH2O gilt dabei als Risikofaktor.",
-    "explanation": "Empfehlung 8.6 (Empfehlungsgrad A) fordert, dass die Blasenfunktion bei Komplikationen am oberen Harntrakt bzw. vor Folgeeingriffen urodynamisch abgeklärt werden soll, da sich nach Primärverschluss die Blasenfunktion verändern kann."
+    "correct": 3,
+    "tip": "Ein Wert betrifft nur die dilatierenden Refluxe, ein anderer die Patienten, die eine offene Antirefluxplastik benötigten.",
+    "explanation": "Hintergrund zu 8.10: VUR bei 150 von 199 (75,4 %), dilatierend in 15,58 %; 11 % benötigten eine offene Antirefluxplastik. Empfehlung 8.10 (A): Antirefluxplastik bei klinischer Symptomatik und nachgewiesenem VUR."
   },
   {
-    "question": "Was besagt Empfehlung 8.8 (Empfehlungsgrad A) zur alleinigen CPRE in Bezug auf das Erreichen von Kontinenz?",
+    "question": "Welche Faktoren benennt Statement 8.11 als wichtige Prognoseparameter für einen erfolgreichen Erstverschluss?",
     "options": [
-      "Die Familien sollen aufgeklärt werden, dass unklar ist, bei welchem Anteil durch eine einzeitige Operation allein langfristig Kontinenz erreicht werden kann.",
-      "Die CPRE garantiert bei korrekter Technik in über 90 % der Fälle eine primäre Kontinenz.",
-      "Nach CPRE ist eine Kontinenzoperation in der Folge grundsätzlich nicht mehr erforderlich.",
-      "Die CPRE wird aufgrund mangelnder Wirksamkeit nicht mehr angewendet."
+      "Verschluss in den ersten 72 Stunden und Osteotomie",
+      "Art der Immobilisation und Antibiotikaprophylaxe",
+      "Geschlecht des Kindes und Geburtsgewicht",
+      "Operative Erfahrung und mehrzeitiges Vorgehen"
     ],
-    "correct": 0,
-    "tip": "In einer Übersichtsarbeit mit 236 Patient*innen waren letztlich nur elf ohne weitere Maßnahmen kontinent.",
-    "explanation": "Empfehlung 8.8 (Empfehlungsgrad A) fordert, Familien darüber aufzuklären, dass unklar ist, bei welchem Anteil der Betroffenen durch einzeitige Operationen wie die CPRE allein langfristig Kontinenz erzielt werden kann; in einer Übersichtsarbeit mit 236 Patient*innen waren nur elf ohne weitere Maßnahmen kontinent."
+    "correct": 3,
+    "tip": "Viele Faktoren wurden in der größten Institutsdatenbank geprüft – in der multivariaten Analyse blieben nur wenige übrig.",
+    "explanation": "Statement 8.11 (Evidenzlevel 3): operative Erfahrung und mehrzeitiges Vorgehen. Fellowship-trainierte Urologen verschlossen Sekundärverschlüsse doppelt so häufig erfolgreich (84 % vs. 37 %)."
   },
   {
-    "question": "Wie hoch war laut Leitlinie der vesikoureterale Reflux (VUR) nach Primärverschluss, und wie unterschied sich die Rate fieberhafter Harnwegsinfektionen mit vs. ohne frühe Ureterneuimplantation?",
+    "question": "Welche Aussage zum Vergleich einzeitiger und mehrzeitiger Rekonstruktion in der CURE-Net-Studie trifft zu?",
     "options": [
-      "VUR in 75,4 % der Fälle; fieberhafte HWI in 7 % mit vs. 48 % ohne frühe Ureterneuimplantation.",
-      "VUR in 7,5 % der Fälle; fieberhafte HWI in 75 % mit vs. 4,8 % ohne frühe Ureterneuimplantation.",
-      "VUR tritt nach Primärverschluss praktisch nie auf.",
-      "Die Rate fieberhafter HWI war unabhängig von der Ureterneuimplantation immer gleich hoch."
+      "Einzeitig gab es mehr Frühkomplikationen, langfristig gleich viele kontinenzschaffende Folgeeingriffe.",
+      "Es fanden sich weder bei Früh- noch bei Spätkomplikationen relevante Unterschiede.",
+      "Einzeitig gab es weniger Frühkomplikationen und langfristig weniger Folgeeingriffe.",
+      "Mehrzeitig gab es mehr Frühkomplikationen, aber langfristig weniger kontinenzschaffende Folgeeingriffe."
     ],
     "correct": 0,
-    "tip": "Dies untermauert Empfehlung 8.10, nach Primärverschluss bei klinischer Symptomatik und nachgewiesenem VUR eine Antirefluxplastik durchzuführen.",
-    "explanation": "VUR tritt nach Primärverschluss in 75,4 % der Fälle auf. Die Rate fieberhafter Harnwegsinfektionen lag mit früher Ureterneuimplantation bei 7 %, ohne frühe Ureterneuimplantation dagegen bei 48 %."
+    "tip": "Unterscheide zwischen der frühen postoperativen Phase und dem Langzeitverlauf.",
+    "explanation": "Statement 8.13: einzeitig mit neonataler Blasenhalsplastik mehr Frühkomplikationen (Harntraktdilatation 45 % vs. 18 %, HWI 66 % vs. 43 %). Statement 8.14: keine Unterschiede in der Zahl kontinenzschaffender Folgeeingriffe."
   },
   {
-    "question": "Welcher Unterschied in der Erfolgsrate des Sekundärverschlusses zeigt sich laut den Statements 8.11 ff. zwischen spezialisierten und anderen Operateur*innen?",
+    "question": "Was sagt die Leitlinie zum Zeitpunkt der Penisrekonstruktion bei Blasenekstrophie?",
     "options": [
-      "84 % Erfolg bei spezialisierten Operateur*innen vs. 37 % bei anderen.",
-      "37 % Erfolg bei spezialisierten Operateur*innen vs. 84 % bei anderen.",
-      "Die Erfolgsrate ist unabhängig von der operativen Erfahrung konstant bei 60 %.",
-      "Spezialisierung hat laut Leitlinie keinen Einfluss auf den Erfolg des Sekundärverschlusses."
+      "Sie soll immer simultan mit dem neonatalen Blasenverschluss erfolgen, um zusätzliche Narben zu vermeiden.",
+      "Eine Rekonstruktion jenseits des Neugeborenenalters kann ischämische Komplikationen reduzieren.",
+      "Der Zeitpunkt hat nach aktueller Datenlage keinen Einfluss auf vaskuläre Komplikationen.",
+      "Sie soll grundsätzlich erst nach Abschluss der Pubertät durchgeführt werden."
     ],
-    "correct": 0,
-    "tip": "Statement 8.11 nennt operative Erfahrung und mehrzeitiges Vorgehen als wichtige Prognoseparameter für einen erfolgreichen Erstverschluss.",
-    "explanation": "Der Sekundärverschluss gelingt bei spezialisierten Operateur*innen in 84 % der Fälle, bei anderen Operateur*innen hingegen nur in 37 % – operative Erfahrung ist ein wichtiger Prognoseparameter."
+    "correct": 1,
+    "tip": "Chua et al. verglichen die CPRE mit einem Vorgehen ohne gleichzeitige Penisrekonstruktion.",
+    "explanation": "Empfehlung 8.9 (0): Eine zeitversetzte Penisrekonstruktion jenseits des Neugeborenenalters kann ischämische Komplikationen reduzieren. Empfehlung 9.7 (B): Die Penisrekonstruktion sollte zu einem späteren Zeitpunkt erfolgen."
   },
   {
-    "question": "Wann wurde in Deutschland laut CURE-Net-Daten letztmalig ein Neugeborenes primär mittels Harnableitung (Zystektomie) versorgt, und welche Option besteht laut Empfehlung 8.16 bei Mädchen nach Zystektomie?",
+    "question": "Welche Langzeitrisiken der Ureterosigmoidostomie nennt die Leitlinie?",
     "options": [
-      "Seit 2009 kein Neugeborenes mehr; der Uterus kann aufgrund des Uterusprolaps-Risikos antefixiert werden.",
-      "Primäre Harnableitungen werden in Deutschland weiterhin bei der Mehrheit der Neugeborenen durchgeführt.",
-      "Seit 2009 ist die primäre Harnableitung sogar die Standardtherapie bei allen Mädchen.",
-      "Eine Antefixierung des Uterus ist bei Mädchen nach Zystektomie kontraindiziert."
+      "Kein erhöhtes Karzinomrisiko, aber Inkontinenz in bis zu 2,4 %",
+      "Karzinome in 0,7 % und Inkontinenz des Urin-Stuhl-Gemischs in unter 1 %",
+      "Karzinome in 7,3 % und Inkontinenz des Urin-Stuhl-Gemischs in bis zu 35 %",
+      "Karzinome in 35 % und Inkontinenz des Urin-Stuhl-Gemischs in bis zu 7,3 %"
     ],
-    "correct": 0,
-    "tip": "Die primäre Harnableitung gehört zu den ablativen Verfahren und wird heute nur noch sehr selten angewendet.",
-    "explanation": "Aus den CURE-Net-Daten ist ersichtlich, dass seit 2009 in Deutschland kein Neugeborenes primär mittels Harnableitung versorgt wurde. Empfehlung 8.16 (EK) sieht vor, dass bei Mädchen nach Zystektomie der Uterus aufgrund des Risikos eines Uterusprolapses antefixiert werden kann."
+    "correct": 2,
+    "tip": "Wegen dieser Risiken stellt die Leitlinie bei geeigneten Patienten eine spätere Konversion in Aussicht.",
+    "explanation": "Hintergrund zu 8.16: Karzinome 7,3 %, Neoplasien 2,4 %, gelegentliche Inkontinenz des Urin-Stuhl-Gemischs bis 35 %. Seit 2009 wurde in Deutschland kein Neugeborenes primär harnabgeleitet."
   }
 ]
