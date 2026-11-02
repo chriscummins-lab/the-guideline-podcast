@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCategory } from "@/data/content";
+import { parseDurationMinutes, formatTotalMinutes } from "@/lib/duration";
 
 export default async function CategoryPage({
   params,
@@ -22,6 +23,12 @@ export default async function CategoryPage({
 
       <div className="big-grid">
         {category.guidelines.map((gl) => {
+          const totalMinutes = gl.episodes.reduce(
+            (sum, ep) => sum + parseDurationMinutes(ep.duration),
+            0
+          );
+          const durationLabel = formatTotalMinutes(totalMinutes);
+
           const content = (
             <>
               {(gl.badge || gl.year) && (
@@ -35,7 +42,7 @@ export default async function CategoryPage({
               <div className="big-btn-name">{gl.name}</div>
               <div className="big-btn-desc">{gl.description}</div>
               <div className="big-btn-status">
-                {gl.available ? `${gl.episodes.length} Episoden` : "Kommt bald"}
+                {gl.available ? durationLabel || `${gl.episodes.length} Episoden` : "Kommt bald"}
               </div>
             </>
           );

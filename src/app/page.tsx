@@ -49,20 +49,6 @@ function useContinueListening() {
   return { item, ratio };
 }
 
-function parseDurationMinutes(duration?: string): number {
-  if (!duration) return 0;
-  const match = duration.match(/\d+/);
-  return match ? parseInt(match[0], 10) : 0;
-}
-
-function formatTotalMinutes(totalMin: number): string {
-  if (totalMin <= 0) return "";
-  if (totalMin < 60) return `ca. ${totalMin} min`;
-  const h = Math.floor(totalMin / 60);
-  const m = totalMin % 60;
-  return m > 0 ? `ca. ${h} Std ${m} min` : `ca. ${h} Std`;
-}
-
 function useCategoryStats(categoryId: string, episodeKeys: string[]) {
   const [listenedCount, setListenedCount] = useState(0);
 
@@ -82,11 +68,8 @@ function CategoryCard({ cat }: { cat: (typeof CONTENT.categories)[number] }) {
   const catEpisodes = flattenEpisodes().filter((fe) => fe.categoryId === cat.id);
   const keys = catEpisodes.map((fe) => fe.storageKey);
   const listenedCount = useCategoryStats(cat.id, keys);
-  const totalMinutes = catEpisodes.reduce(
-    (sum, fe) => sum + parseDurationMinutes(fe.episode.duration),
-    0
-  );
-  const totalLabel = formatTotalMinutes(totalMinutes);
+  const guidelineCount = cat.guidelines.length;
+  const guidelineLabel = `${guidelineCount} Unterthema${guidelineCount === 1 ? "" : "en"}`;
 
   const inner = (
     <>
@@ -97,8 +80,8 @@ function CategoryCard({ cat }: { cat: (typeof CONTENT.categories)[number] }) {
       <div className="cat-card-progress">
         {cat.available
           ? keys.length > 0
-            ? `${listenedCount}/${keys.length} gehört${totalLabel ? ` · ${totalLabel}` : ""}`
-            : "Verfügbar"
+            ? `${listenedCount}/${keys.length} gehört · ${guidelineLabel}`
+            : guidelineLabel
           : "Kommt bald"}
       </div>
     </>
