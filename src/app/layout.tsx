@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Nunito_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import AppShell from "@/components/AppShell";
@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   title: "GeSRU Guideline Podcast — Urologie Fortbildung",
   description:
     "Leitlinien als Podcast, Schaubild und Quiz für ÄrztInnen in Weiterbildung im Fach Urologie.",
+};
+
+export const viewport: Viewport = {
+  themeColor: "#06bc5c",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
