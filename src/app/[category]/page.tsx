@@ -42,7 +42,9 @@ export default async function CategoryPage({
               <div className="big-btn-name">{gl.name}</div>
               <div className="big-btn-desc">{gl.description}</div>
               <div className="big-btn-status">
-                {gl.available ? durationLabel || `${gl.episodes.length} Episoden` : "Kommt bald"}
+                {gl.available
+                  ? `${gl.episodes.length} Episoden${durationLabel ? ` · ${durationLabel}` : ""}`
+                  : "Kommt bald"}
               </div>
             </>
           );
