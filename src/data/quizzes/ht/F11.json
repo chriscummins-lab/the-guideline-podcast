@@ -1,122 +1,122 @@
 [
   {
-    "question": "Bei welchen Seminom-Patienten kann laut Empfehlung 8.75 eine FDG-PET/CT nach abgeschlossener Therapie eingesetzt werden?",
+    "question": "Ein 34-jähriger Patient hat nach Chemotherapie eines metastasierten Seminoms bei normalisierten Serumtumormarkern einen retroperitonealen Residualtumor von 4,5 cm. Wann soll die FDG-PET/CT laut Leitlinie erfolgen?",
     "options": [
-      "Bei allen Patienten mit jeglichem Residualtumor, unabhängig von der Größe.",
-      "Bei Patienten mit normalen oder normalisierten Serumtumormarkern und Residualtumoren > 3 cm.",
-      "Nur bei Patienten mit persistierend erhöhtem Beta-hCG.",
-      "Nie, da FDG-PET/CT beim Seminom generell kontraindiziert ist."
+      "Frühestens 2, besser 4 Wochen nach Ende des letzten Zyklus",
+      "Frühestens 3, besser 4 Wochen nach Ende des letzten Zyklus",
+      "Frühestens 4, besser 6 Wochen nach Ende des letzten Zyklus",
+      "Frühestens 6, besser 8 Wochen nach Ende des letzten Zyklus"
+    ],
+    "correct": 3,
+    "tip": "Posttherapeutische Entzündungsreaktionen erzeugen falsch-positive Befunde – der Abstand zur Chemotherapie bestimmt den positiven Vorhersagewert.",
+    "explanation": "Empfehlung 8.77 (EK, starker Konsens): FDG-PET/CT frühestens 6, besser 8 Wochen nach dem letzten Zyklus; mit diesem Mindestabstand stieg der positiv prädiktive Wert in einer Studie von 25% auf 69%. Die 3–4 Wochen beschreiben dagegen den üblichen OP-Zeitpunkt der Residualtumorresektion beim Nichtseminom."
+  },
+  {
+    "question": "Ein 28-jähriger Patient mit nichtseminomatösem Keimzelltumor hat nach Erstlinien-Chemotherapie normalisierte Serumtumormarker; im CT verbleibt ein retroperitoneales Residuum von 1,8 cm. Welches Vorgehen empfiehlt die Leitlinie?",
+    "options": [
+      "FDG-PET/CT und Resektion bei positiver Stoffwechselaktivität",
+      "Bildgebende Verlaufskontrolle, Resektion erst ab einer Größe von 3 cm",
+      "Zwei weitere Zyklen PEI mit anschließendem erneutem Restaging",
+      "Retroperitoneale Residualtumorresektion an einem Expertenzentrum"
+    ],
+    "correct": 3,
+    "tip": "Teratomanteile nehmen kaum FDG auf – beim Nichtseminom entscheidet die Größe des Residuums, nicht der Stoffwechsel.",
+    "explanation": "Nach Empfehlung 8.81 (Empfehlungsgrad A) sollen nach Markernormalisierung Residuen > 1 cm in Retroperitoneum und Lunge reseziert werden, und zwar an Expertenzentren (8.83, A); eine FDG-PET/CT sollte beim Nichtseminom nicht erfolgen (8.80, B). Die 3-cm-Grenze gilt für den PET-Einsatz beim Seminom."
+  },
+  {
+    "question": "Ein Seminom-Patient mit 5 cm großem Residualtumor zeigt 8 Wochen nach Chemotherapie eine positive FDG-PET/CT; das Residuum ist größenkonstant, Beta-hCG normal. Was empfiehlt die Leitlinie?",
+    "options": [
+      "Salvage-Chemotherapie auf Basis des positiven PET-Befundes",
+      "Primäre Residualtumorresektion an einem Expertenzentrum",
+      "Intensivierte Nachsorge mit Schnittbildgebung und Markerkontrollen",
+      "Routinenachsorge, da der positiv prädiktive Wert gering ist"
+    ],
+    "correct": 2,
+    "tip": "Der negative Vorhersagewert der PET beim Seminom ist hoch, der positive deutlich niedriger – ein Befund allein begründet noch keine Therapie.",
+    "explanation": "Empfehlung 8.78 (EK): Bei positiver Stoffwechselaktivität ohne Größenzunahme sollte eine intensivierte Nachsorge mit Schnittbildgebung und Serumtumormarkern erfolgen. Eine Salvage-Chemotherapie ist erst bei persistierendem/steigendem Beta-hCG oder eindeutiger Größenzunahme indiziert, eine Residualtumorresektion sollte beim Seminom nicht erfolgen (8.79, B)."
+  },
+  {
+    "question": "Ein 26-jähriger Patient mit Nichtseminom hat nach drei Zyklen PEB ein retroperitoneales Residuum von 3 cm; das AFP ist niedriggradig erhöht, aber stabil (Plateau), Beta-hCG ist normal. Welches Vorgehen entspricht der Leitlinie?",
+    "options": [
+      "Sofortige Salvage-Chemotherapie wegen der persistierenden AFP-Erhöhung",
+      "Abwarten der vollständigen Markernormalisierung vor einer Intervention",
+      "FDG-PET/CT zur Klärung der Vitalität vor jeder weiteren Entscheidung",
+      "Retroperitoneale Tumorresektion trotz des erhöhten AFP-Plateaus"
+    ],
+    "correct": 3,
+    "tip": "Ein stabil leicht erhöhtes AFP spricht eher für residuelles Teratom als für chemosensiblen vitalen Tumor.",
+    "explanation": "Laut Kapitel 8.8.3.1 erfolgt bei niedriggradig erhöhten, aber stabilen Markern eine retroperitoneale Tumorresektion – insbesondere bei isolierter AFP-Erhöhung als Ausdruck eines Teratoms. Eine sofortige Salvage-Chemotherapie ist nur bei dokumentiertem Markeranstieg unter oder in den ersten vier Wochen nach Chemotherapie indiziert."
+  },
+  {
+    "question": "Welcher zeitliche Ablauf vor einer Residualtumorresektion nach Erstlinien-Chemotherapie eines Nichtseminoms entspricht der Leitlinie?",
+    "options": [
+      "OP meist 3–4 Wochen nach Chemotherapie; Bildgebung höchstens 4 Wochen alt",
+      "OP frühestens 6–8 Wochen nach Chemotherapie; Bildgebung höchstens 4 Wochen alt",
+      "OP meist 3–4 Wochen nach Chemotherapie; Bildgebung höchstens 12 Wochen alt",
+      "OP frühestens 8–12 Wochen nach Chemotherapie; Bildgebung höchstens 8 Wochen alt"
+    ],
+    "correct": 0,
+    "tip": "Die Operation erfolgt zeitnah nach dem letzten Zyklus, und die präoperative Bildgebung muss den aktuellen Befund abbilden.",
+    "explanation": "Kapitel 8.8.4: Die Residualtumorresektion ist meist innerhalb von drei bis vier Wochen nach Chemotherapie (nach Tag 21 des letzten Zyklus) möglich, die Bildgebung sollte nicht älter als vier Wochen sein, und direkt präoperativ werden die Marker erneut kontrolliert. Die 6–8 Wochen gelten für die FDG-PET/CT beim Seminom."
+  },
+  {
+    "question": "Welche Aussage zur adjuvanten Chemotherapie nach Residualtumorresektion mit Nachweis vitalen Tumors entspricht der Leitlinie?",
+    "options": [
+      "Bei R0-Resektion und < 10% vitalem Tumor sollte keine adjuvante Therapie erfolgen",
+      "Bei R0-Resektion und < 10% vitalem Tumor sollten 2 Zyklen PEI adjuvant folgen",
+      "Bei R0-Resektion und Teratomanteilen sollten 2 Zyklen PEB adjuvant folgen",
+      "Bei inkompletter Resektion ist ein Überlebensvorteil durch 2 Zyklen PEI belegt"
+    ],
+    "correct": 0,
+    "tip": "Drei Faktoren definieren das Rezidivrisiko nach RTR: Resektionsstatus, Anteil vitalen Tumors und IGCCCG-Prognosegruppe.",
+    "explanation": "Empfehlung 8.88 (EK): Nach R0-Resektion mit < 10% vitalem Tumor ist das Rezidivrisiko gering, eine adjuvante Chemotherapie sollte nicht erfolgen. Erst bei inkompletter Resektion, ≥ 10% vitalem Tumor und intermediärer/ungünstiger Prognose kann eine adjuvante Chemotherapie (2 Zyklen cisplatinbasiert) erwogen werden – ein Überlebensvorteil ist dafür nicht gezeigt."
+  },
+  {
+    "question": "Ein Patient mit Nichtseminom hat nach Chemotherapie beidseitige pulmonale Residuen > 1 cm; die Resektion der linken Lunge ergibt nur Nekrose. Was empfiehlt die Leitlinie für die rechte Lunge?",
+    "options": [
+      "Verzicht auf die Resektion, da die Histologie zu 95% übereinstimmt",
+      "Resektion auch rechts, da in bis zu 20% diskordante Befunde vorliegen",
+      "Resektion rechts nur bei FDG-PET-positivem Befund der Residuen",
+      "Thorakoskopische Biopsie und Resektion nur bei Teratomnachweis"
     ],
     "correct": 1,
-    "tip": "Bei kleineren Residuen ist der negative prädiktive Wert der PET weniger relevant, da ohnehin keine Resektion erfolgt.",
-    "explanation": "Empfehlung 8.75 (geprüft 2026) sieht den Einsatz der FDG-PET/CT bei Seminom-Patienten mit normalen/normalisierten Tumormarkern und Residualtumoren > 3 cm vor."
+    "tip": "Die Histologie einer Seite erlaubt keinen sicheren Rückschluss auf die Gegenseite.",
+    "explanation": "Empfehlung 8.82: Da in bis zu 20% diskordante Befunde zwischen beiden Lungen vorliegen, sollte die pulmonale Residualtumorresektion beidseits erfolgen – parenchymsparend und mit digitaler Palpation. Die 95% Übereinstimmung bei Nekrose (Besse et al.) wird im Hintergrundtext diskutiert, rechtfertigt laut Empfehlung aber keinen Verzicht."
   },
   {
-    "question": "Welchen negativ prädiktiven Wert hat die FDG-PET/CT bei Seminom-Residualtumoren > 3 cm laut Leitlinientext, und welchen positiv prädiktiven Wert?",
+    "question": "Wie bewertet die Leitlinie die laparoskopische oder robotisch assistierte Residualtumorresektion nach Chemotherapie?",
     "options": [
-      "Negativ prädiktiver Wert 94–96% (hoch), positiv prädiktiver Wert nur 23% (gering).",
-      "Beide Werte liegen bei exakt 50%.",
-      "Negativ prädiktiver Wert 23%, positiv prädiktiver Wert 94–96% (umgekehrt).",
-      "Beide Werte liegen bei nahezu 100%."
-    ],
-    "correct": 0,
-    "tip": "Ein positiver PET-Befund alleine rechtfertigt daher keine sofortige Salvage-Chemotherapie oder Operation.",
-    "explanation": "Die FDG-PET/CT hat bei Seminom-Residualtumoren > 3 cm einen hohen negativ prädiktiven Wert von 94–96%, jedoch nur einen geringen positiv prädiktiven Wert von 23% in einer retrospektiven Untersuchung."
-  },
-  {
-    "question": "Wann soll laut Empfehlung 8.77 die FDG-PET/CT zur Beurteilung von Serumtumormarker-negativen Residualtumoren beim Seminom frühestens durchgeführt werden?",
-    "options": [
-      "Unmittelbar am letzten Tag der Chemotherapie.",
-      "Frühestens 6, besser 8 Wochen nach Ende des letzten Chemotherapiezyklus.",
-      "Frühestens nach 12 Monaten.",
-      "Der Zeitpunkt spielt keine Rolle für die Ergebnisqualität."
+      "Soll bei Residuen < 5 cm als Standardverfahren eingesetzt werden (Grad A)",
+      "Kann in ausgewählten Fällen bei günstigen Faktoren erfolgen (Grad 0)",
+      "Sollte mangels Daten nur innerhalb klinischer Studien erfolgen (Grad B)",
+      "Sollte nach Salvage-Chemotherapie bevorzugt eingesetzt werden (Grad B)"
     ],
     "correct": 1,
-    "tip": "Zu früh durchgeführte PET-Untersuchungen liefern häufiger falsch-positive Befunde durch posttherapeutische Entzündungsreaktionen.",
-    "explanation": "Empfehlung 8.77 (modifiziert 2026) legt den frühesten Zeitpunkt der FDG-PET/CT bei 6, besser 8 Wochen nach Ende des letzten Chemotherapiezyklus fest, da ein längerer Abstand den positiv prädiktiven Wert deutlich erhöht (von 25% auf 69% in einer Studie)."
+    "tip": "Geringerem Blutverlust und schnellerer Erholung stehen Grenzen bei Gefäßinfiltration und Mehrorganresektion gegenüber.",
+    "explanation": "Empfehlung 8.86 (Empfehlungsgrad 0, neu 2026): Minimal-invasive Verfahren können in ausgewählten Fällen eingesetzt werden – Voraussetzung sind limitierte Tumorausdehnung, fehlender Hinweis auf vaskuläre Invasion und technische Resezierbarkeit. Die Indikation sollte im interdisziplinären Tumorboard gestellt werden (8.87, B); bei ausgedehnten Befunden bleibt die offene Chirurgie zentral."
   },
   {
-    "question": "Soll laut Empfehlung 8.79 nach Abschluss der Primärtherapie eines metastasierten Seminoms eine Residualtumorresektion erfolgen?",
+    "question": "Welche Aussage zur operativen Strategie der retroperitonealen Residualtumorresektion beim Nichtseminom entspricht der Leitlinie?",
     "options": [
-      "Ja, immer bei Residuen über 1 cm, analog zum Nichtseminom.",
-      "Nein, eine Residualtumorresektion sollte nicht durchgeführt werden – stattdessen Verlaufskontrolle.",
-      "Nur bei Residuen unter 1 cm.",
-      "Ja, aber nur bei Patienten unter 30 Jahren."
+      "Bei kleinen Residuen genügt die alleinige Resektion des Tumorknotens",
+      "Die Feldgrenzen richten sich nach der Stoffwechselaktivität im PET/CT",
+      "Die Feldgrenzen richten sich nach der Lokalisation des Ausgangstumors",
+      "Nach Chemotherapie wird auf eine nervschonende Präparation verzichtet"
+    ],
+    "correct": 2,
+    "tip": "Ziel ist die Entfernung aller Residuen; Teratom und vitales Karzinom rezidivieren, wenn Gewebe zurückbleibt.",
+    "explanation": "Empfehlung 8.84 (A/B): Die Feldgrenzen sollen anhand der Lokalisation des Ausgangstumors festgelegt werden, die Operation sollte vorzugsweise nervschonend erfolgen. Die alleinige Tumorentfernung (Lumpektomie) soll nicht durchgeführt werden (8.85, A)."
+  },
+  {
+    "question": "Nach Salvage-Hochdosischemotherapie eines retroperitonealen Nichtseminom-Rezidivs sind die Marker normalisiert; es verbleibt ein Residuum von 0,8 cm. Was empfiehlt die Leitlinie?",
+    "options": [
+      "Verlaufskontrolle, da die Resektionsgrenze von 1 cm unterschritten ist",
+      "Retroperitoneale Residualtumorresektion auch bei einer Größe < 1 cm",
+      "FDG-PET/CT und Entscheidung über eine Resektion nach dem Befund",
+      "Bildgebende Kontrolle in drei Monaten, Resektion bei Größenzunahme"
     ],
     "correct": 1,
-    "tip": "Grund hierfür sind die hohen Komplikationsraten durch desmoplastische, entzündlich-infiltrative Reaktionen bei dieser Tumorentität.",
-    "explanation": "Empfehlung 8.79 (Grad B, geprüft 2026) besagt, dass eine Residualtumorresektion nach Primärtherapie eines metastasierten Seminoms nicht durchgeführt werden sollte, unabhängig von der Größe des Residuums."
-  },
-  {
-    "question": "Warum ist laut Empfehlung 8.80 die FDG-PET/CT bei Residualtumoren nach primärer Chemotherapie eines nichtseminomatösen KZT nicht sinnvoll?",
-    "options": [
-      "Weil die Aussagekraft deutlich eingeschränkt ist, u. a. wegen mangelnder Traceraufnahme teratomatöser Anteile (PPV/NPV nur ca. 59%/51%).",
-      "Weil sie bei Nichtseminomen teurer ist als beim Seminom.",
-      "Weil sie beim Nichtseminom eine Sensitivität und Spezifität von jeweils 100% aufweist und damit überflüssig ist.",
-      "Weil Nichtseminome grundsätzlich keine Residualtumoren bilden."
-    ],
-    "correct": 0,
-    "tip": "Teratomanteile im Residualtumor nehmen den Tracer kaum auf, was die diagnostische Aussagekraft deutlich einschränkt.",
-    "explanation": "Empfehlung 8.80 (Grad B) rät von der FDG-PET/CT bei Residualtumoren eines nichtseminomatösen KZT ab, da die Aussagekraft durch mangelnde Traceraufnahme teratomatöser Anteile eingeschränkt ist (positiver/negativer prädiktiver Wert jeweils nur etwa 59%/51% in der größten Studie)."
-  },
-  {
-    "question": "Ab welcher Größe sollen Residualtumoren eines nichtseminomatösen KZT im Retroperitoneum und der Lunge nach Markernormalisierung laut Empfehlung 8.81 reseziert werden?",
-    "options": [
-      "Ab einer Größe von > 1 cm.",
-      "Ab einer Größe von > 5 cm.",
-      "Unabhängig von der Größe wird nie reseziert.",
-      "Nur bei Größe exakt zwischen 0,5 und 1 cm."
-    ],
-    "correct": 0,
-    "tip": "Der Umgang mit Residuen anderer Lokalisationen (z. B. Leber, Knochen) wird individuell entschieden.",
-    "explanation": "Empfehlung 8.81 (Grad A, geprüft 2026) sieht die Resektion von Residualtumoren > 1 cm im Retroperitoneum und der Lunge nach Markernormalisierung beim nichtseminomatösen KZT vor."
-  },
-  {
-    "question": "Wie hoch ist das langfristige Rezidivrisiko bei Patienten mit nichtseminomatösem KZT und Residualtumoren < 1 cm, die nicht operiert werden?",
-    "options": [
-      "Etwa 10% lebenslanges Rezidivrisiko.",
-      "0%, da Residuen unter 1 cm definitionsgemäß nicht rezidivieren können.",
-      "Etwa 90%, weshalb eine Operation hier obligat ist.",
-      "Das Risiko ist nicht quantifizierbar und wird daher nicht aufgeklärt."
-    ],
-    "correct": 0,
-    "tip": "Über dieses Risiko muss der Patient aufgeklärt werden, bevor die Entscheidung gegen eine retroperitoneale Tumorresektion getroffen wird.",
-    "explanation": "Bei Residualtumoren < 1 cm ohne retroperitoneale Resektion erfolgt eine Aufklärung über das lebenslange Rezidivrisiko von circa 10%, bevor gegen eine RTR entschieden wird."
-  },
-  {
-    "question": "Was versteht man unter einem 'Growing Teratoma Syndrome', und wann erfolgt dessen operative Sanierung?",
-    "options": [
-      "Serumtumormarkernormalisierung bei gleichzeitig unter Chemotherapie wachsenden Metastasen; die Resektion erfolgt grundsätzlich erst nach Beendigung der Chemotherapie (außer bei Komplikationen wie Cavathrombose).",
-      "Ein isolierter Anstieg von Beta-hCG ohne jede Bildgebungsveränderung, der eine sofortige Chemotherapieintensivierung erfordert.",
-      "Ein Wachstum des Primärtumors im Hoden trotz Ablatio testis.",
-      "Ein ausschließlich bei Seminomen auftretendes Phänomen."
-    ],
-    "correct": 0,
-    "tip": "Nur bei klinischen Komplikationen durch das wachsende Teratom wird eine frühzeitigere Operation diskutiert.",
-    "explanation": "Beim 'Growing Teratoma Syndrome' normalisieren sich die Serumtumormarker, während die Metastasen unter Chemotherapie weiterwachsen; die Resektion des wachsenden Teratoms erfolgt grundsätzlich erst nach Beendigung der Chemotherapie, außer bei klinischen Komplikationen wie einer Cavathrombose."
-  },
-  {
-    "question": "Wann ist laut Leitlinientext eine sofortige Salvage-Chemotherapie bei Residualtumoren indiziert?",
-    "options": [
-      "Nur bei dokumentiertem Serumtumormarkeranstieg unter oder in den ersten vier Wochen nach Chemotherapie.",
-      "Bereits bei jedem positiven PET-CT-Befund, unabhängig vom Markerverlauf.",
-      "Routinemäßig bei jedem Residualtumor über 1 cm.",
-      "Nur wenn der Patient subjektiv Beschwerden äußert, unabhängig von Markern oder Bildgebung."
-    ],
-    "correct": 0,
-    "tip": "Ein isolierter positiver PET-Befund rechtfertigt für sich allein keine Salvage-Therapie.",
-    "explanation": "Die sofortige Salvage-Chemotherapie ist nur bei dokumentiertem Serumtumormarkeranstieg unter oder in den ersten vier Wochen nach Chemotherapie indiziert."
-  },
-  {
-    "question": "Wie wird bei Patienten mit isolierter, niedriggradig erhöhter, aber stabiler (Plateau-)AFP-Erhöhung nach Chemotherapie in der Regel vorgegangen, und was ist vor einer geplanten retroperitonealen Tumorresektion bei persistierendem Beta-hCG zu beachten?",
-    "options": [
-      "Es erfolgt eine retroperitoneale Tumorresektion; persistierendes Beta-hCG soll direkt vor der OP erneut kontrolliert werden, da ein Anstieg eher für eine Salvage-Chemotherapie statt Operation spricht.",
-      "Es wird grundsätzlich keine Operation durchgeführt, unabhängig vom Markerverlauf.",
-      "AFP-Plateaus werden immer sofort mit einer Salvage-Chemotherapie behandelt, nie operiert.",
-      "Beta-hCG muss vor einer RTR nicht mehr kontrolliert werden, sobald es einmal normalisiert war."
-    ],
-    "correct": 0,
-    "tip": "Ein Beta-hCG-Anstieg kurz vor der geplanten Operation deutet häufig auf Chorionkarzinomanteile im Primärtumor hin und erfordert dann eine Salvage-Chemotherapie statt Operation.",
-    "explanation": "Bei Plateau-AFP (Ausdruck eines residuellen Teratoms) erfolgt in der Regel eine retroperitoneale Tumorresektion; persistierendes Beta-hCG ist direkt vor der geplanten Operation erneut zu kontrollieren, da ein Anstieg eher auf die Notwendigkeit einer Salvage-Chemotherapie hinweist."
+    "tip": "Nach Salvage-Therapie ist der Anteil vitalen Karzinoms im Residuum größenunabhängig hoch, und die Chemotherapie-Optionen sind oft ausgeschöpft.",
+    "explanation": "Empfehlung 8.89 (Empfehlungsgrad B): Nach Salvage-Chemotherapie sollte bei Markernormalisierung eine retroperitoneale Residualtumorresektion auch bei Tumoren < 1 cm erfolgen, da vitales Karzinom hier in bis zu 40% vorliegt. Die 1-cm-Grenze gilt nur nach Erstlinientherapie."
   }
 ]

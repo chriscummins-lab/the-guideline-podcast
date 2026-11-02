@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie ist die Prognose des auf den Hoden begrenzten reinen Spermatozytischen Tumors laut Statement 10.2, und wie wird er therapiert?",
+    "question": "Bei einem 61-jährigen Mann ergibt die inguinale Ablatio testis einen auf den Hoden begrenzten reinen spermatocytischen Tumor ohne sarkomatöse Anteile; das Staging ist unauffällig. Welches weitere Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Schlechte Prognose, obligate Polychemotherapie.",
-      "Gute Prognose, ausreichend therapiert durch inguinale Ablatio testis und Überwachung.",
-      "Infauste Prognose ohne jede Therapieoption.",
-      "Gute Prognose, aber obligate bilaterale Orchiektomie."
+      "Adjuvante Carboplatin-Monotherapie analog zum Seminom im Stadium I",
+      "Nerverhaltende retroperitoneale Lymphadenektomie zum Staging",
+      "Chemotherapie und Residualtumorresektion im multimodalen Konzept",
+      "Überwachung ohne adjuvante oder operative Zusatztherapie"
+    ],
+    "correct": 3,
+    "tip": "Metastasen und Rezidive sind bei der reinen Form eine Rarität, die 5-Jahres-Überlebensrate liegt über 99%.",
+    "explanation": "Statement 10.2 (EK): Der auf den Hoden begrenzte reine spermatocytische Tumor hat eine gute Prognose und ist mit inguinaler Ablatio testis und Überwachung ausreichend therapiert. Ein multimodales Konzept mit Chemotherapie und RTR ist dem Tumor mit sarkomatösen Elementen vorbehalten (Statement 10.3)."
+  },
+  {
+    "question": "Was bedeutet laut Leitlinie der Nachweis sarkomatöser Elemente in einem spermatocytischen Tumor?",
+    "options": [
+      "Keine prognostische Relevanz; Ablatio und Überwachung genügen",
+      "Hochmaligne Transformation; multimodales Therapiekonzept nötig",
+      "Übergang in ein klassisches Seminom; Therapie nach Seminom-Stadium",
+      "Intermediäre Prognose; adjuvante paraaortale Strahlentherapie"
     ],
     "correct": 1,
-    "tip": "Metastasierung oder Rezidiv sind beim reinen spermatozytischen Tumor extrem selten, die 5-Jahres-Überlebensrate liegt über 99%.",
-    "explanation": "Statement 10.2 beschreibt den auf den Hoden begrenzten reinen Spermatozytischen Tumor als Tumor mit guter Prognose, der mit inguinaler Ablatio testis und Überwachung ausreichend therapiert ist."
+    "tip": "Der Pathologiebefund soll zu dieser Komponente ausdrücklich Stellung nehmen – überlegen Sie, warum.",
+    "explanation": "Statement 10.3 (EK): Sarkomatöse Elemente bedeuten eine hochmaligne Transformation mit schlechter Prognose und erfordern Chemotherapie, RTR und ggf. Strahlentherapie in individuell festgelegter Abfolge. Deshalb sollen sarkomatöse Komponenten histologisch ausgeschlossen werden (Empfehlung 10.4, EK)."
   },
   {
-    "question": "Was bedeutet der Nachweis sarkomatöser Elemente im Spermatozytischen Tumor laut Statement 10.3?",
+    "question": "Welche Aussage zum spermatocytischen Tumor im Vergleich zum klassischen Seminom trifft laut Leitlinie zu?",
     "options": [
-      "Es ist klinisch irrelevant und ändert nichts an Prognose oder Therapie.",
-      "Eine hochmaligne Transformation mit schlechter Prognose, die ein multimodales Therapiekonzept (Chemotherapie, RTR, ggf. Strahlentherapie) erfordert.",
-      "Eine automatische Heilung ohne weitere Maßnahmen.",
-      "Dass es sich gar nicht mehr um einen Keimzelltumor handelt und keine onkologische Nachsorge nötig ist."
+      "Er stammt aus undifferenzierten Keimzellen und ist OCT4-positiv",
+      "Er ist etwa 20- bis 25-mal häufiger als das klassische Seminom",
+      "Er stammt aus Spermatogonien und ist OCT4- und PLAP-negativ",
+      "Er tritt im Mittel mit 35 Jahren auf und ist meist PLAP-positiv"
+    ],
+    "correct": 2,
+    "tip": "Die WHO hat den Tumor 2016 umbenannt, um eine Verwechslung mit dem klassischen Seminom zu vermeiden.",
+    "explanation": "Kapitel 10.1: Der spermatocytische Tumor leitet sich aus Spermatogonien ab, ist immunhistochemisch negativ für OCT4, PLAP, HCG, AFP und Cytokeratin und etwa 20- bis 25-mal seltener als das klassische Seminom. Das Durchschnittsalter liegt bei 54 bzw. 56 Jahren – der Gipfel um 35 Jahre gehört zum Leydigzelltumor."
+  },
+  {
+    "question": "Welche Aussage zum „ausgebrannten“ (zurückgebildeten) Keimzelltumor des Hodens trifft laut Leitlinie zu?",
+    "options": [
+      "Retroperitoneale KZT sind fast immer mit ausgebranntem Hodentumor assoziiert",
+      "Mediastinale KZT sind fast immer mit ausgebranntem Hodentumor assoziiert",
+      "Histologisch zeigt sich meist vitaler Tumor ohne Narbe oder Verkalkung",
+      "Bei Metastasen ohne Primärtumor gelingt der Nachweis im Hoden in etwa 50%"
+    ],
+    "correct": 0,
+    "tip": "Die Lokalisation des extragonadalen Tumors bestimmt, wie wahrscheinlich ein regressiver Hodenbefund ist.",
+    "explanation": "Kapitel 10.2: Retroperitoneale „extragonadale“ KZT sind fast immer mit einem ausgebrannten Hodentumor (pT0) vergesellschaftet, mediastinale dagegen äußerst selten. Histologisch findet sich meist Narbengewebe mit Siderophagen, Schaumzellen oder Verkalkungen; bei Metastasen ohne Primärtumor gelingt der histologische Nachweis im Hoden nur in etwa 10%."
+  },
+  {
+    "question": "Ein 38-jähriger Patient mit Gynäkomastie hat eine 1,2 cm große, scharf begrenzte, hypervaskularisierte Hodenläsion; ein Leydigzelltumor wird vermutet. Welche Labordiagnostik soll laut Leitlinie mindestens erfolgen?",
+    "options": [
+      "AFP, Beta-hCG und LDH; Hormone nur bei Kinderwunsch",
+      "AFP, Beta-hCG und LDH sowie Testosteron, LH und FSH",
+      "Testosteron, LH und FSH; Tumormarker sind verzichtbar",
+      "AFP, Beta-hCG und LDH sowie Prolaktin, TSH und fT4"
     ],
     "correct": 1,
-    "tip": "Deshalb sollen in der histologischen Analyse sarkomatöse Komponenten gemäß Empfehlung 10.4 immer ausgeschlossen werden.",
-    "explanation": "Statement 10.3 besagt, dass sarkomatöse Elemente im Spermatozytischen Tumor eine hochmaligne Transformation mit schlechter Prognose bedeuten und ein multimodales, individuell festgelegtes Therapiekonzept erfordern."
+    "tip": "Die Gynäkomastie lenkt den Blick auf die Achse Hypophyse–Hoden.",
+    "explanation": "Empfehlung 10.5 (EK, Konsens): Bei Verdacht auf Leydig- oder Sertolizelltumor sollen Serumtumormarker (AFP, Beta-hCG, LDH) und eine vollständige endokrinologische Abklärung mit Testosteron, LH und FSH erfolgen. Laut Hintergrundtext kommen Östrogen, Estradiol, Progesteron und Cortisol hinzu."
   },
   {
-    "question": "Welche diagnostischen Schritte sollen laut Empfehlung 10.5 bei Verdacht auf einen Leydigzell- oder Sertolizelltumor erfolgen?",
+    "question": "Bei inguinaler Hodenfreilegung zeigt der Schnellschnitt einen 1,4 cm großen Leydigzelltumor ohne Malignitätskriterien. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Bestimmung der Serumtumormarker (AFP, Beta-hCG, LDH) sowie eine vollständige endokrinologische Abklärung (Testosteron, LH, FSH).",
-      "Ausschließlich eine Hodensonographie ohne Laborwerte.",
-      "Eine sofortige bilaterale Ablatio testis ohne weitere Diagnostik.",
-      "Eine primäre retroperitoneale Lymphadenektomie vor jeder weiteren Diagnostik."
+      "Radikale Ablatio testis wegen möglicher Kombination mit einem KZT",
+      "Ablatio testis und Staging-RLA wegen des Malignitätsrisikos",
+      "Enukleation mit adjuvanter Bestrahlung des Resthodens",
+      "Organerhaltende Tumorenukleation ohne nachfolgende Ablatio"
     ],
-    "correct": 0,
-    "tip": "Diese Tumoren können hormonell aktiv sein – daher die Notwendigkeit der endokrinologischen Abklärung zusätzlich zu den klassischen Keimzelltumormarkern.",
-    "explanation": "Empfehlung 10.5 fordert bei Verdacht auf Leydigzell- oder Sertolizelltumor die Bestimmung der Serumtumormarker AFP, Beta-hCG und LDH sowie eine vollständige endokrinologische Abklärung mit Testosteron, LH und FSH."
+    "correct": 3,
+    "tip": "Der Schnellschnitt entscheidet über das Ausmaß der Operation.",
+    "explanation": "Empfehlung 10.6 (Empfehlungsgrad A): Die histologische Sicherung soll schnellschnittgesteuert erfolgen; kleine Tumoren (< 2 cm) ohne Malignitätskriterien sollen primär organerhaltend operiert werden. Eine Ablatio testis ist bei Malignitätskriterien oder Tumoren über ein Drittel des Hodenvolumens vorgesehen."
   },
   {
-    "question": "Wie soll laut Empfehlung 10.6 bei kleinen Stromatumoren (< 2 cm) ohne Malignitätskriterien operativ vorgegangen werden?",
+    "question": "Welche Merkmalskombination spricht laut Leitlinie für einen malignen Leydigzelltumor?",
     "options": [
-      "Primär organerhaltend, mit schnellschnittgesteuerter histologischer Sicherung.",
-      "Grundsätzlich radikale Ablatio testis, unabhängig von der Größe.",
-      "Keine Operation, sondern ausschließlich bildgebende Verlaufskontrolle.",
-      "Primär bilaterale Hodenbiopsie beider Seiten."
+      "Größe > 2 cm, Reinke-Kristalle und immunhistochemisch Inhibin",
+      "Größe > 1 cm, Calretinin-Nachweis und Lipofuszin-Pigmente",
+      "Bilateraler Befall, Gynäkomastie und erhöhtes Serum-Estradiol",
+      "Größe > 5 cm, Gefäßinvasion, Nekrosen, hohe Ki-67-Expression"
     ],
-    "correct": 0,
-    "tip": "Erst bei Nachweis von Malignitätskriterien im Schnellschnitt oder bei großen Tumoren wird auf die Ablatio testis erweitert.",
-    "explanation": "Empfehlung 10.6 (Grad A) sieht bei kleinen Tumoren (< 2 cm) ohne Malignitätskriterien eine primär organerhaltende Operation mit schnellschnittgesteuerter histologischer Sicherung vor."
+    "correct": 3,
+    "tip": "Unterscheiden Sie diagnostische Merkmale eines Leydigzelltumors von Kriterien seiner Dignität.",
+    "explanation": "Kapitel 10.4.1: Etwa 10% der Leydigzelltumoren sind maligne; Kriterien sind Größe > 5 cm, erhöhte Mitoserate, Gefäßinvasion, zytologische Atypien, Nekrosen sowie erhöhte MIB-1- bzw. Ki-67-Expression. Inhibin, Calretinin, Reinke-Kristalle und Lipofuszin charakterisieren den Leydigzelltumor, sagen aber nichts über seine Dignität."
   },
   {
-    "question": "Was soll laut Empfehlung 10.8 bei histologisch bestätigten malignen Leydigzell- oder Sertolizelltumoren im Stadium I zusätzlich zur Ablatio testis erfolgen?",
+    "question": "Nach Ablatio testis wird ein maligner Sertolizelltumor (6 cm, Gefäßinvasion) diagnostiziert; im CT finden sich weder Lymphknotenvergrößerungen noch Fernmetastasen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Eine retroperitoneale Lymphadenektomie (RLA).",
-      "Eine primäre Strahlentherapie des gesamten Abdomens.",
-      "Eine alleinige Überwachung ohne jede weitere Maßnahme.",
-      "Eine Chemotherapie nach dem klassischen PEB-Schema wie bei Keimzelltumoren."
+      "Überwachung mit CT-Kontrollen ohne Intervention",
+      "Adjuvante Chemotherapie mit einem Zyklus PEB",
+      "Frühe retroperitoneale Lymphadenektomie (RLA)",
+      "Adjuvante Strahlentherapie des Retroperitoneums"
     ],
-    "correct": 0,
-    "tip": "Bei Patienten im Stadium II soll die RLA laut Empfehlung 10.9 ebenfalls durchgeführt werden.",
-    "explanation": "Empfehlung 10.8 (Grad B) sieht bei histologischen Malignitätskriterien von Leydigzell- oder Sertolizelltumoren im Stadium I zusätzlich zur Ablatio testis eine retroperitoneale Lymphadenektomie vor."
+    "correct": 2,
+    "tip": "Metastasierte Stromatumoren sprechen schlecht auf Chemo- und Strahlentherapie an.",
+    "explanation": "Empfehlung 10.8 (Empfehlungsgrad B, LoE 2b): Bei histologischen Malignitätskriterien sollte im Stadium I eine RLA durchgeführt werden; im Stadium II soll eine RLA erfolgen (10.9, EK). Eine adjuvante Chemo- oder Strahlentherapie wird nicht empfohlen; metastasierte Stromatumoren sprechen darauf schlecht an."
   },
   {
-    "question": "Welchen Anteil an den primären Keimzelltumoren des Hodens macht der Spermatozytische Tumor aus, und wie verhält er sich im Vergleich zum klassischen Seminom?",
+    "question": "Welche Aussage zum Sertolizelltumor des Hodens trifft laut Leitlinie zu?",
     "options": [
-      "Weniger als 1% (0,04–2%) der primären KZT; er ist etwa 20- bis 25-mal seltener als das klassische Seminom.",
-      "Etwa 50% aller KZT; er ist häufiger als das klassische Seminom.",
-      "Genau 10%, mit vergleichbarer Häufigkeit wie das klassische Seminom.",
-      "Er kommt praktisch nie vor und wurde noch nie in der Literatur beschrieben."
+      "Er ist mit 1–3% der häufigste nicht-germinale Tumor des Hodens",
+      "Beim sklerosierenden Subtyp sind maligne Verläufe besonders häufig",
+      "Der großzellig kalzifizierende Subtyp erscheint sonographisch echogen",
+      "AFP und Beta-hCG sind bei malignen Formen typischerweise erhöht"
     ],
-    "correct": 0,
-    "tip": "Er tritt mit einem Durchschnittsalter von 54–56 Jahren auf und ist damit deutlich älter als das klassische Seminom-Patientenkollektiv.",
-    "explanation": "Der Spermatozytische Tumor macht weniger als 1% (0,04–2%) der primären KZT im Hoden aus und ist im Vergleich zum klassischen Seminom etwa 20- bis 25-mal seltener."
+    "correct": 2,
+    "tip": "Leydig- und Sertolizelltumoren werden leicht verwechselt – achten Sie auf Häufigkeit, Subtypen und Bildgebung.",
+    "explanation": "Kapitel 10.4.2: Nur der großzellige, kalzifizierende Sertolizelltumor zeigt sonographisch ein charakteristisches helles, echogenes Bild durch Verkalkungen. Sertolizelltumoren sind die zweithäufigsten Stromatumoren (< 1%; 1–3% gelten für Leydigzelltumoren), AFP, Beta-hCG, LDH und PLAP sind negativ, und beim sklerosierenden Subtyp sind maligne Verläufe äußerst selten."
   },
   {
-    "question": "Was versteht man unter einem 'ausgebrannten' Tumor (pT0), und mit welcher anderen Tumorentität ist er besonders häufig vergesellschaftet?",
+    "question": "Bei einem 68-jährigen Mann wird eine solide Hodenraumforderung festgestellt. Welcher Hodentumor ist in dieser Altersgruppe laut Leitlinie am häufigsten?",
     "options": [
-      "Testikuläres Narbengewebe (ggf. mit Siderophagen, Schaumzellen, Verkalkungen), häufig vergesellschaftet mit retroperitonealen 'extragonadalen' KZT – bei mediastinalen KZT dagegen selten.",
-      "Ein hochaggressiver, schnell wachsender Resttumor im Hoden.",
-      "Ein ausschließlich bei Frauen vorkommendes histologisches Phänomen.",
-      "Ein Tumor, der grundsätzlich keine Keimzellneoplasie in situ in der Umgebung zeigt."
+      "Malignes Non-Hodgkin-Lymphom, meist diffus großzelliges B-Zell-Lymphom",
+      "Spermatocytischer Tumor, Altersgipfel im sechsten Lebensjahrzehnt",
+      "Leydigzelltumor mit zweitem Altersgipfel jenseits des 60. Lebensjahres",
+      "Sertolizelltumor, meist hormonell aktiv mit erhöhtem Östrogenspiegel"
     ],
     "correct": 0,
-    "tip": "Auch bei einer Metastasierung ohne erkennbaren Primärtumor gelingt der histologische Nachweis entsprechender Veränderungen im Hoden nur in etwa 10% der Fälle.",
-    "explanation": "Der 'ausgebrannte' Tumor (pT0) entspricht meist testikulärem Narbengewebe mit Siderophagen, Schaumzellen oder Verkalkungen und ist bei retroperitonealen extragonadalen KZT fast immer vergesellschaftet, bei mediastinalen KZT hingegen äußerst selten."
-  },
-  {
-    "question": "Welche hormonellen Veränderungen und klinischen Symptome sind bei Leydigzelltumoren im Erwachsenenalter charakteristisch?",
-    "options": [
-      "Hohe Östrogen- und Estradiolspiegel bei niedrigem Testosteron und erhöhtem LH/FSH, mit Symptomen wie Gynäkomastie (20%), Infertilität (10%) und Libidoverlust.",
-      "Ausschließlich erhöhte AFP- und Beta-hCG-Werte wie bei klassischen Keimzelltumoren.",
-      "Durchgehend normale Hormonwerte ohne jede klinische Symptomatik.",
-      "Ein isolierter, massiver Testosteronüberschuss ohne Östrogenbeteiligung."
-    ],
-    "correct": 0,
-    "tip": "Histologisch sind der Nachweis von Inhibin, Calretinin sowie Reinke-Kristallen oder Lipofuszin-Pigmenten charakteristisch.",
-    "explanation": "Im Erwachsenenalter zeigen bis zu 80% der Leydigzelltumor-Patienten hormonelle Störungen mit hohen Östrogen- und Estradiolspiegeln, niedrigem Testosteron und erhöhtem LH/FSH, mit Symptomen wie Gynäkomastie (20%), Infertilität (10%) und Libidoverlust/erektiler Dysfunktion (10%)."
-  },
-  {
-    "question": "Welche Serumtumormarker sind bei Sertolizelltumoren laut Leitlinientext typischerweise negativ, im Gegensatz zu klassischen Keimzelltumoren?",
-    "options": [
-      "AFP, Beta-hCG, LDH und PLAP sind immer negativ.",
-      "AFP ist immer stark positiv, die übrigen Marker sind irrelevant.",
-      "Beta-hCG ist immer massiv erhöht wie beim Chorionkarzinom.",
-      "Alle klassischen Tumormarker sind bei Sertolizelltumoren ebenso erhöht wie bei Keimzelltumoren."
-    ],
-    "correct": 0,
-    "tip": "Dies unterscheidet Stromatumoren grundlegend von den klassischen gonadalen Keimzelltumoren und erschwert die präoperative Differenzierung.",
-    "explanation": "Bei Sertolizelltumoren sind die Serumtumormarker AFP, Beta-hCG, LDH und PLAP immer negativ – zur Diagnostik ist stattdessen eine hormonelle Abklärung notwendig."
-  },
-  {
-    "question": "Welche Malignitätsrate wird für Sertolizelltumoren angegeben, und welche morphologischen Kriterien sprechen für Malignität?",
-    "options": [
-      "10–22% Malignitätsrate; Kriterien sind Größe > 5 cm, erhöhte mitotische Aktivität, pleomorphe Kerne mit Nukleolen, Nekrose und Gefäßinvasion.",
-      "0% – Sertolizelltumoren sind per Definition immer benign.",
-      "Über 90% Malignitätsrate, womit praktisch immer eine Ablatio testis erforderlich ist.",
-      "Die Malignitätsrate ist nicht abschätzbar, da keine morphologischen Kriterien existieren."
-    ],
-    "correct": 0,
-    "tip": "Beim Subtyp des sklerosierenden Sertolizelltumors sind maligne Verläufe dagegen äußerst selten.",
-    "explanation": "Die Malignitätsrate von Sertolizelltumoren liegt zwischen 10% und 22%; als maligne gelten Tumoren mit Größe > 5 cm, erhöhter mitotischer Aktivität, pleomorphen Kernen mit Nukleolen, Nekrose und Gefäßinvasion."
+    "tip": "Das Altersspektrum unterscheidet sich zwischen Keimzell-, Stroma- und hämatologischen Tumoren deutlich.",
+    "explanation": "Kapitel 10.5: Das maligne Non-Hodgkin-Lymphom des Hodens ist bei Männern über 60 Jahren der häufigste Hodentumor, meist als diffus großzelliges B-Zell-Lymphom; als Systemerkrankung wird es nach Ablatio testis mit Chemotherapie behandelt. Der spermatocytische Tumor tritt im Mittel mit 54 bzw. 56 Jahren auf, ist aber sehr selten."
   }
 ]

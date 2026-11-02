@@ -1,122 +1,122 @@
 [
   {
-    "question": "Bei welcher IGCCCG-Prognosegruppe zeigten sich laut Kapitel 16 im Rahmen der Leitlinienarbeit vor allem Forschungslücken?",
+    "question": "Bezüglich welcher Patientengruppe zeigten sich laut Kapitel 16 bei der Leitlinienarbeit vor allem Forschungslücken?",
     "options": [
-      "Bei der schlechten Prognosegruppe.",
-      "Ausschließlich bei der guten Prognosegruppe.",
-      "Forschungslücken bestehen laut Leitlinie bei keiner der Prognosegruppen mehr.",
-      "Nur beim klinischen Stadium I ohne jede Metastasierung."
+      "Gute Prognosegruppe nach IGCCCG",
+      "Seminom im klinischen Stadium I",
+      "Nichtseminom im klinischen Stadium I",
+      "Schlechte Prognosegruppe nach IGCCCG"
     ],
-    "correct": 0,
-    "tip": "Die Aussagen zu dieser Gruppe basieren auf einer insgesamt limitierten Studienlage.",
-    "explanation": "Kapitel 16 nennt die schlechte Prognosegruppe als Bereich, in dem sich im Rahmen der Leitlinienarbeit vor allem Forschungslücken zeigten."
+    "correct": 3,
+    "tip": "Je seltener und komplexer eine Konstellation ist, desto schwieriger lassen sich große randomisierte Studien durchführen.",
+    "explanation": "Laut Kapitel 16 zeigten sich Forschungslücken vor allem bezüglich der schlechten Prognosegruppe nach IGCCCG; die Aussagen basieren hier auf einer limitierten Studienlage. Passend dazu sehen die Empfehlungen für diese Gruppe die Therapie an einem Expertenzentrum vor (z. B. Empfehlungen 8.43 und 8.44)."
   },
   {
-    "question": "Für welche weitere Patientengruppe werden die Therapieaussagen laut Kapitel 16 ebenfalls als auf einer begrenzten Studienlage beruhend beschrieben, neben der intermediären Prognosegruppe?",
+    "question": "Für welche beiden Konstellationen beruhen die Therapieaussagen laut Kapitel 16 – neben der schlechten Prognosegruppe – ebenfalls auf einer begrenzten Studienlage?",
     "options": [
-      "Patienten mit HIV.",
-      "Patienten unter 18 Jahren.",
-      "Patienten mit Diabetes mellitus Typ 2.",
-      "Patienten mit begleitender Adipositas."
+      "Gute Prognosegruppe und Patienten mit Seminom im Stadium I",
+      "Gute Prognosegruppe und Patienten unter aktiver Überwachung",
+      "Intermediäre Prognosegruppe und Patienten mit HIV-Infektion",
+      "Intermediäre Prognosegruppe und Patienten im Stadium IA"
     ],
-    "correct": 0,
-    "tip": "Diese Lücke betrifft spezifisch die Therapie von Keimzelltumoren bei Patienten mit dieser Komorbidität.",
-    "explanation": "Kapitel 16 nennt sowohl die intermediäre Prognosegruppe als auch Patienten mit HIV als Bereiche, in denen die Therapieaussagen auf begrenzter Studienlage beruhen."
+    "correct": 2,
+    "tip": "Je kleiner und heterogener ein Kollektiv ist, desto dünner ist in der Regel die Evidenz.",
+    "explanation": "Laut Kapitel 16 beruhen auch die Aussagen zur Therapie von KZT der intermediären Prognosegruppe sowie von Patienten mit HIV auf einer begrenzten Studienlage. Für Patienten mit HIV-Infektion sieht Version 2.0 u. a. die Abstimmung mit einem infektiologischen Zentrum vor (Empfehlung 8.73)."
   },
   {
-    "question": "Welche konkrete offene Frage in der Nachsorge nennt Kapitel 16 bezüglich eines isolierten Tumormarkeranstiegs?",
+    "question": "In der Nachsorge nach kurativer Therapie zeigt ein Patient einen isolierten AFP-Anstieg ohne bildgebendes Korrelat. Welcher Aspekt dieser Situation ist laut Kapitel 16 wissenschaftlich noch ungeklärt?",
     "options": [
-      "Der optimale Zeitpunkt für den Beginn einer Therapie bei isoliertem Tumormarkeranstieg ohne bildgebendes Korrelat.",
-      "Ob Tumormarker in der Nachsorge überhaupt jemals bestimmt werden sollten.",
-      "Ob Serumtumormarker nach Orchiektomie vollständig verzichtbar sind.",
-      "Welche Blutgruppe mit einem erhöhten Rezidivrisiko assoziiert ist."
+      "Ob die Erhöhung durch eine Kontrollbestimmung bestätigt werden sollte",
+      "Der optimale Zeitpunkt für den Therapiebeginn bei fehlendem Bildkorrelat",
+      "Ob bei bestätigter Erhöhung eine Schnittbildgebung erfolgen soll",
+      "Ob das Vorgehen im interdisziplinären Tumorboard festgelegt werden sollte"
     ],
-    "correct": 0,
-    "tip": "Diese Frage betrifft Patienten, bei denen der Marker ansteigt, ohne dass Bildgebung einen entsprechenden Befund zeigt.",
-    "explanation": "Kapitel 16 benennt als Forschungslücke den optimalen Zeitpunkt für den Beginn einer Therapie bei isoliertem Tumormarkeranstieg ohne bildgebendes Korrelat."
+    "correct": 1,
+    "tip": "Denken Sie an die Abwägung zwischen Übertherapie und verzögerter Behandlung.",
+    "explanation": "Kapitel 16 nennt für die Nachsorge eine Forschungslücke bezüglich des optimalen Zeitpunkts für den Beginn einer Therapie bei isoliertem Tumormarkeranstieg ohne bildgebendes Korrelat. Bestätigung nach 1 bis 2 Wochen, thorakoabdominale Schnittbildgebung bei bestätigter Erhöhung und Festlegung im Tumorboard sind dagegen bereits empfohlen (Empfehlungen 11.6, 11.8 und 11.10)."
   },
   {
-    "question": "Welche Nachsorgefrage bei markernegativen Keimzelltumoren bleibt laut Kapitel 16 offen?",
+    "question": "Ein Patient mit initial markernegativem Seminom befindet sich in der Nachsorge nach kurativer Therapie. Welche Frage benennt Kapitel 16 für diese Konstellation als offen?",
     "options": [
-      "Die effektivste Nachsorgestrategie zur frühzeitigen Erkennung von Rezidiven bei markernegativen Keimzelltumoren.",
-      "Ob markernegative Keimzelltumoren überhaupt eine Nachsorge benötigen.",
-      "Ob bei markernegativen Tumoren grundsätzlich auf jede Bildgebung verzichtet werden kann.",
-      "Die Frage, ob markernegative Tumoren grundsätzlich nicht rezidivieren können."
+      "Die effektivste Nachsorgestrategie zur frühzeitigen Rezidiverkennung",
+      "Die Gleichwertigkeit von MRT und CT Abdomen/Becken in der Nachsorge",
+      "Der Nutzen einer Kombination aus Bildgebung und Markerbestimmung",
+      "Der Verzicht auf Thorax-Bildgebung beim Seminom im Stadium I"
     ],
     "correct": 0,
-    "tip": "Dies hängt eng mit der generell geringeren diagnostischen Aussagekraft der klassischen Serumtumormarker bei einem Teil der Patienten zusammen.",
-    "explanation": "Kapitel 16 nennt die effektivste Nachsorgestrategie zur frühzeitigen Rezidiverkennung bei markernegativen Keimzelltumoren als offene Forschungsfrage."
+    "tip": "Ohne Tumormarker als Frühwarnsystem hängt die Rezidiverkennung allein an anderen Instrumenten.",
+    "explanation": "Kapitel 16 benennt als Forschungslücke die effektivste Nachsorgestrategie zur frühzeitigen Erkennung von Rezidiven bei markernegativen KZT. Die Kombination aus Bildgebung und Markerbestimmung (11.1), der Ersatz der CT durch die gleichwertige MRT (11.5) und der Verzicht auf Thorax-Bildgebung beim Seminom im Stadium I (11.3) sind dagegen bereits als Empfehlungen formuliert."
   },
   {
-    "question": "In welchen drei Bereichen ist der Stellenwert der miRNA beim Hodentumor laut Kapitel 16 noch unklar?",
+    "question": "Ein 24-jähriger Patient mit Nichtseminom hat nach Chemotherapie bei normalisierten Markern ein retroperitoneales Residuum von 2 cm. Ein Kollege möchte die Operationsindikation von der miRNA-371a-3p abhängig machen. Wie ist das laut Leitlinie einzuordnen?",
     "options": [
-      "Primärdiagnostik, Residualtumorchirurgie und Therapiemonitoring.",
-      "Ausschließlich in der Fertilitätsdiagnostik.",
-      "Ausschließlich bei der Diagnose von Stromatumoren.",
-      "Nur in der Diagnostik von Hirnmetastasen."
+      "Der Stellenwert der miRNA in der Residualtumorchirurgie ist noch unklar",
+      "Bei positiver miRNA soll vor der Resektion eine Salvage-Chemotherapie erfolgen",
+      "Bei negativer miRNA kann auf die Resektion des Residuums verzichtet werden",
+      "Bei negativer miRNA sollte statt Resektion eine FDG-PET/CT erfolgen"
     ],
     "correct": 0,
-    "tip": "In der Nachsorge im Stadium I ist die miRNA-371a-3p zwar bereits als ergänzendes Instrument etabliert, ihr Stellenwert in weiteren klinischen Bereichen bleibt aber offen.",
-    "explanation": "Kapitel 16 benennt die Primärdiagnostik, die Residualtumorchirurgie und das Therapiemonitoring als Bereiche, in denen der Stellenwert der miRNA beim Hodentumor noch unklar ist."
+    "tip": "Prüfen Sie, für welche Situationen die Leitlinie zur miRNA bereits konkrete Empfehlungen ausspricht.",
+    "explanation": "Laut Kapitel 16 ist der Stellenwert der miRNA in der Residualtumorchirurgie noch unklar; beim Nichtseminom mit Residuum > 1 cm nach Chemotherapie soll eine Residualtumorresektion erfolgen (Empfehlung 8.26). Eine FDG-PET/CT sollte bei Residuen eines Nichtseminoms nicht erfolgen (8.80)."
   },
   {
-    "question": "Für welches Stadium und welche Histologie fehlen laut Kapitel 16 noch Langzeitstudienergebnisse sowohl zur Radio-/Chemotherapie als auch zur primären retroperitonealen Lymphadenektomie?",
+    "question": "Ein 26-jähriger Patient mit Seminom im Stadium IIB fragt, wie belastbar die Langzeitdaten zu seinen Therapieoptionen sind. Was hält Kapitel 16 dazu fest?",
     "options": [
-      "Seminom im Stadium IIA/B.",
-      "Nichtseminom im Stadium IIC/III.",
-      "Seminom im Stadium I.",
-      "Jeder extragonadale Keimzelltumor unabhängig vom Stadium."
+      "Langzeitdaten fehlen nur zur primären Lymphadenektomie, nicht zur Radio-/Chemotherapie",
+      "Langzeitdaten fehlen sowohl zur Radio-/Chemotherapie als auch zur primären Lymphadenektomie",
+      "Langzeitdaten fehlen nur zur Radio-/Chemotherapie, nicht zur primären Lymphadenektomie",
+      "Langzeitdaten liegen zu allen Optionen aus randomisierten Vergleichsstudien vor"
     ],
-    "correct": 0,
-    "tip": "Dies betrifft insbesondere die neueren deeskalierenden Therapiekonzepte wie die Radiochemotherapie nach SAKK-01/10 und die primäre nervschonende RLA.",
-    "explanation": "Kapitel 16 nennt das Seminom im Stadium IIA/B als Bereich, in dem noch Langzeitstudienergebnisse sowohl zur Radio-/Chemotherapie als auch zur primären retroperitonealen Lymphadenektomie fehlen."
+    "correct": 1,
+    "tip": "Unterscheiden Sie zwischen etablierten und neuen Konzepten – und prüfen Sie, wofür die Nachbeobachtung tatsächlich ausreicht.",
+    "explanation": "Laut Kapitel 16 fehlen beim Seminom im Stadium IIA/B noch Langzeitstudienergebnisse sowohl zur Radio-/Chemotherapie als auch zur primären retroperitonealen Lymphadenektomie. Passend dazu sollen die deeskalierten Alternativen im Stadium IIB vorzugsweise im Rahmen von Studien erfolgen (Empfehlung 8.24)."
   },
   {
-    "question": "Worauf beziehen sich die in Kapitel 16 genannten offenen Fragen zur Erfassung therapieassoziierter Spättoxizitäten?",
+    "question": "Kapitel 16 nennt auch für die Erfassung therapieassoziierter Spättoxizitäten eine limitierte Studienlage. Worauf bezieht sich diese Lücke konkret?",
     "options": [
-      "Die Definition geeigneter Untersuchungen, Untersuchungsparameter und Untersuchungsintervalle in Abhängigkeit von der angewandten Therapie.",
-      "Ausschließlich die Frage, ob Spättoxizitäten überhaupt existieren.",
-      "Die Frage, ob Spättoxizitäten ausschließlich psychisch bedingt sind.",
-      "Die Dosierung von Bleomycin bei Patienten über 80 Jahren."
+      "Auf die Inzidenz kardiovaskulärer Spätfolgen nach Cisplatin-basierter Therapie",
+      "Auf die Wirksamkeit medikamentöser Therapien bestehender Spättoxizitäten",
+      "Auf den kausalen Zusammenhang zwischen Strahlentherapie und Zweitmalignomen",
+      "Auf geeignete Untersuchungen, Parameter und Intervalle je nach Vortherapie"
     ],
-    "correct": 0,
-    "tip": "Diese Aussagen beruhen laut Leitlinie ebenfalls auf einer limitierten Studienlage.",
-    "explanation": "Kapitel 16 nennt die Definition geeigneter Untersuchungen, Parameter und Intervalle zur Erfassung therapieassoziierter Spättoxizitäten in Abhängigkeit von der Therapie als Bereich mit limitierter Studienlage."
+    "correct": 3,
+    "tip": "Überlegen Sie, was ein nachsorgender Arzt konkret wissen müsste, um Spätfolgen strukturiert zu erfassen.",
+    "explanation": "Laut Kapitel 16 beruhen die Aussagen zur Definition geeigneter Untersuchungen, Untersuchungsparameter und Untersuchungsintervalle zur Erfassung therapieassoziierter Spättoxizitäten in Abhängigkeit von der angewandten Therapie auf einer limitierten Studienlage. Inzidenz, Kausalität oder Behandlung einzelner Spätfolgen werden dort nicht als Lücke genannt."
   },
   {
-    "question": "Betreffen die in Kapitel 16 genannten Forschungslücken bei speziellen Tumorlokalisationen laut Leitlinientext eine besonders gut erforschte oder eine limitierte Studienlage?",
+    "question": "Welcher der folgenden Bereiche wird in Kapitel 16 NICHT als Forschungslücke benannt?",
     "options": [
-      "Eine limitierte Studienlage.",
-      "Eine außergewöhnlich umfangreiche, gut etablierte Studienlage.",
-      "Diese Lokalisationen werden im Kapitel 16 gar nicht erwähnt.",
-      "Die Studienlage ist dort besser als bei der gonadalen Standardlokalisation."
+      "Überwachung beim Seminom im klinischen Stadium I",
+      "Nachsorgestrategie bei markernegativen KZT",
+      "Therapie von Patienten mit HIV-Infektion",
+      "Langzeitergebnisse beim Seminom im Stadium IIA/B"
     ],
     "correct": 0,
-    "tip": "Dies betrifft insbesondere Patienten mit speziellen (z. B. extragonadalen) Tumorlokalisationen.",
-    "explanation": "Die Aussagen basieren laut Kapitel 16 auf einer limitierten Studienlage, wobei insbesondere bei Patienten mit speziellen Tumorlokalisationen noch Forschungslücken bestehen."
+    "tip": "Gesucht ist ein Bereich, zu dem die Leitlinie eine gut abgesicherte Standardempfehlung gibt.",
+    "explanation": "Die Überwachung beim Seminom im klinischen Stadium I ist eine Soll-Empfehlung (8.16, mit GRADE-Bewertung) und wird in Kapitel 16 nicht als Forschungslücke genannt. Nachsorge markernegativer KZT, Therapie bei HIV und fehlende Langzeitergebnisse beim Seminom im Stadium IIA/B führt Kapitel 16 dagegen ausdrücklich auf."
   },
   {
-    "question": "Welche grundsätzliche Aussage trifft Kapitel 16 zur Studienlage, die den dort genannten Forschungslücken insgesamt zugrunde liegt?",
+    "question": "Innerhalb der schlechten Prognosegruppe hebt Kapitel 16 eine Konstellation mit besonders limitierter Studienlage hervor. Welche?",
     "options": [
-      "Die genannten Aussagen basieren überwiegend auf einer limitierten Studienlage.",
-      "Alle genannten Bereiche verfügen bereits über ausreichende, hochwertige randomisierte Studiendaten.",
-      "Es gibt in der gesamten Leitlinie keine einzige offene Forschungsfrage mehr.",
-      "Die Studienlage ist in allen Bereichen bereits vollständig abgeschlossen und bedarf keiner weiteren Forschung."
+      "Patienten mit bilateralem Hodentumor",
+      "Patienten mit Spätrezidiv nach Jahren",
+      "Patienten mit rein seminomatöser Histologie",
+      "Patienten mit speziellen Tumorlokalisationen"
     ],
-    "correct": 0,
-    "tip": "Dies ist ein durchgängiges Motiv im gesamten Kapitel 16 – von der schlechten Prognosegruppe über HIV-Patienten bis zur Spättoxizitäts-Erfassung.",
-    "explanation": "Kapitel 16 betont wiederholt, dass die genannten Aussagen und offenen Fragen auf einer limitierten bzw. begrenzten Studienlage beruhen."
+    "correct": 3,
+    "tip": "Überlegen Sie, welche Konstellationen innerhalb dieser Prognosegruppe besonders selten und heterogen sind.",
+    "explanation": "Laut Kapitel 16 basieren die Aussagen zur schlechten Prognosegruppe auf einer limitierten Studienlage, wobei insbesondere bei Patienten mit speziellen Tumorlokalisationen noch Forschungslücken bestehen. Seminome werden nach IGCCCG gar nicht in die schlechte Prognosegruppe eingeordnet."
   },
   {
-    "question": "Wie ist Kapitel 16 (Forschungslücken) im Vergleich zu den übrigen Kapiteln der Leitlinie in seinem Umfang zu charakterisieren?",
+    "question": "Kapitel 16 bezeichnet den Stellenwert der miRNA in mehreren Bereichen als noch unklar. Für welchen Einsatz enthält Version 2.0 dagegen bereits eine Kann-Empfehlung?",
     "options": [
-      "Es ist deutlich kürzer als die meisten anderen Kapitel und fasst die offenen Fragen kompakt zusammen, ohne einzelne Empfehlungen auszusprechen.",
-      "Es ist das längste Kapitel der gesamten Leitlinie mit über 100 Empfehlungen.",
-      "Es enthält ausschließlich Tabellen ohne jeden Fließtext.",
-      "Es ist identisch mit Kapitel 17 und wiederholt dessen Inhalt wortgleich."
+      "Primärdiagnostik bei sonographisch suspektem Hodenbefund",
+      "Systemtherapie bei isolierter miRNA-Erhöhung ohne Bildkorrelat",
+      "Ergänzende Bestimmung in der Nachsorge im Stadium I",
+      "Therapiemonitoring unter laufender Chemotherapie"
     ],
-    "correct": 0,
-    "tip": "Im Gegensatz zu den vorausgehenden Therapiekapiteln enthält Kapitel 16 keine Empfehlungen oder Statements, sondern eine zusammenfassende Übersicht offener Fragen.",
-    "explanation": "Kapitel 16 ist im Vergleich zu den übrigen, empfehlungsreichen Kapiteln deutlich kürzer und fasst die wesentlichen Forschungslücken der Leitlinie in knapper, zusammenfassender Form zusammen."
+    "correct": 2,
+    "tip": "Die Kann-Empfehlung stützt sich auf eine höhere Sensitivität und Spezifität gegenüber AFP und Beta-hCG in einem bestimmten Kollektiv.",
+    "explanation": "Laut Empfehlung 11.12 (neu 2026) kann die miRNA-371a-3p in der Nachsorge im Stadium I ergänzend bestimmt werden, da sie dort sensitiver und spezifischer ist als AFP und Beta-hCG (11.11). In Primärdiagnostik und Therapiemonitoring ist ihr Stellenwert laut Kapitel 16 unklar, und eine miRNA-Erhöhung ohne radiologisches Korrelat rechtfertigt keine Systemtherapie (11.13)."
   }
 ]

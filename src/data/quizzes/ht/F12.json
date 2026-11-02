@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welcher Faktor ist laut Statement 9.1 beim Seminom im Stadium I unter Überwachung der führende Risikofaktor für ein Rezidiv (mit einer Rezidivrate von insgesamt bis zu 30%)?",
+    "question": "Ein Patient mit nichtseminomatösem Keimzelltumor im klinischen Stadium I erhielt adjuvant zwei Zyklen PEB; vier Monate später tritt ein retroperitoneales Rezidiv auf. Was empfiehlt die Leitlinie?",
     "options": [
-      "Die Tumorgröße.",
-      "Das Patientenalter bei Diagnosestellung.",
-      "Ausschließlich die Histologie der Gegenseite.",
-      "Die Körpergröße des Patienten."
+      "Andere Schemata wie PEI, TIP oder eine Hochdosis-Chemotherapie",
+      "Erneut drei Zyklen PEB entsprechend der guten IGCCCG-Prognosegruppe",
+      "Primäre retroperitoneale Lymphadenektomie ohne erneute Chemotherapie",
+      "Zwei weitere Zyklen PEB als Fortsetzung der adjuvanten Behandlung"
     ],
     "correct": 0,
-    "tip": "Beim Nichtseminom hingegen ist die Lymph- und Gefäßinvasion der führende Risikofaktor.",
-    "explanation": "Statement 9.1 nennt beim Seminom die Tumorgröße als variablen, führenden Risikofaktor für eine erhöhte Rezidivrate von insgesamt bis zu 30%, während beim Nichtseminom die Lymph- und Gefäßinvasion mit einem 50%igen Risiko okkulter Metastasierung entscheidend ist."
+    "tip": "Ein sehr frühes Rezidiv nach demselben Regime spricht gegen dessen erneute Wirksamkeit.",
+    "explanation": "Kapitel 9.1.2 (konsensbasierte Empfehlung): Rezidive nach Stadium I werden wie primär metastasierte Tumoren nach IGCCCG behandelt – Ausnahme sind Rezidive < 6 Monate nach adjuvant zwei Zyklen PEB, bei denen alternative Schemata wie PEI, TIP oder Hochdosis-Chemotherapie erwogen werden sollten. Erneut drei Zyklen PEB gelten bei längerem rezidivfreiem Intervall und guter Prognose."
   },
   {
-    "question": "Wie werden Patienten mit Rezidiv eines Seminoms nach initialem Stadium I laut der entsprechenden Empfehlung klassifiziert und therapiert?",
+    "question": "Welche primäre Salvage-Therapie sollte laut Leitlinie (Empfehlungsgrad B) bei Rezidiv nach Cisplatin-basierter Erstlinientherapie einer primär metastasierten Erkrankung erfolgen?",
     "options": [
-      "Analog zu primär metastasierten Seminomen nach den IGCCCG-Kriterien.",
-      "Grundsätzlich mit einer alleinigen Watchful-Waiting-Strategie ohne weitere Therapie.",
-      "Nach einem komplett eigenständigen, vom IGCCCG unabhängigen Klassifikationssystem.",
-      "Immer mit einer primären Hochdosis-Chemotherapie, unabhängig vom Stadium."
+      "Einmalige Hochdosis-Chemotherapie mit Carboplatin, Etoposid, Cyclophosphamid",
+      "Vier Zyklen PEB im 21-tägigen Abstand mit anschließender Resektion",
+      "Sequenzielle Hochdosis-Chemotherapie mit drei Zyklen Carboplatin/Etoposid",
+      "Sequenzielle Hochdosis-Chemotherapie mit Thiotepa-haltiger Dreifachkombination"
+    ],
+    "correct": 2,
+    "tip": "Cisplatin lässt sich über die Gesamtdosis der Primärtherapie hinaus kaum steigern – die Hochdosistherapie nutzt deshalb ein anderes Platinderivat.",
+    "explanation": "Empfehlung 9.5 (B, LoE 1b): sequenzielle Hochdosis-Chemotherapie mit drei Zyklen HD-CE und autologem Stammzellsupport; alternativ kann konventionell TIP oder PEI gegeben werden (9.4, 0). Die einmalige Hochdosistherapie (IT-94) gilt als veraltet, Dreifachkombinationen brachten keinen Vorteil bei mehr Toxizität – Thiotepa allenfalls bei Hirnmetastasen."
+  },
+  {
+    "question": "Welche Aussage zur konventionell dosierten Salvage-Chemotherapie bei Keimzelltumoren entspricht der Leitlinie?",
+    "options": [
+      "PEI ist TIP in randomisierten Studien überlegen und daher Standard",
+      "Alle Regime werden über drei Zyklen im 28-tägigen Abstand gegeben",
+      "Grundgerüst sind Carboplatin und Etoposid plus eine dritte Substanz",
+      "Grundgerüst sind Cisplatin und Ifosfamid plus eine dritte Substanz"
+    ],
+    "correct": 3,
+    "tip": "Die gängigen Dreifachschemata unterscheiden sich nur in der dritten Substanz: Etoposid, Paclitaxel oder Vinblastin.",
+    "explanation": "Kapitel 9.2.1: Konventionelle Salvage-Regime (PEI, TIP, seltener VeIP) basieren auf Cisplatin und Ifosfamid und werden über vier Zyklen im 21-tägigen Abstand gegeben; ohne direkten Vergleich wird von einer Gleichwertigkeit von PEI und TIP ausgegangen. Carboplatin und Etoposid bilden das Grundgerüst der Hochdosis-Chemotherapie."
+  },
+  {
+    "question": "Nach Salvage-Chemotherapie eines zerebral metastasierten Keimzelltumor-Rezidivs verbleiben im MRT multiple intrakranielle Residuen. Was empfiehlt die Leitlinie?",
+    "options": [
+      "Ganzhirnbestrahlung, normofraktioniert mit 40–45 Gy",
+      "Stereotaktische Radiochirurgie aller einzelnen Läsionen",
+      "Neurochirurgische Resektion der größten Läsion",
+      "MRT-Kontrollen und lokale Therapie bei Progress"
     ],
     "correct": 0,
-    "tip": "Nahezu 100% der Patienten mit einem Rezidiv aus dem Stadium I gehören dabei der guten Prognosegruppe nach IGCCCG an.",
-    "explanation": "Patienten mit Rezidiv eines Seminoms nach initialem Stadium I sollen entsprechend ihrem Stadium analog zu primär metastasierten Seminomen nach den IGCCCG-Kriterien klassifiziert und therapiert werden."
+    "tip": "Die Wahl der lokalen Therapie richtet sich nach der Zahl der verbliebenen Hirnherde.",
+    "explanation": "Empfehlung 9.14 (EK): Bei multiplen Residuen nach Salvage-Chemotherapie soll das gesamte Hirn bestrahlt werden (normofraktioniert 1,8–2,0 Gy, Gesamtdosis 40–45 Gy). Stereotaktische Bestrahlung und/oder neurochirurgische Resektion sind für singuläre Residuen vorgesehen (9.13, EK)."
   },
   {
-    "question": "Welche Besonderheit gilt laut Empfehlung 9.2 für Patienten mit Rezidiv eines nichtseminomatösen KZT weniger als 6 Monate nach adjuvanter Therapie mit zwei Zyklen PEB?",
+    "question": "Sechs Jahre nach PEB-Chemotherapie und kompletter Residualtumorresektion tritt ein retroperitoneales Rezidiv bei negativen Serumtumormarkern auf; die Läsion erscheint komplett resektabel. Was empfiehlt die Leitlinie?",
     "options": [
-      "Es sollten alternative Chemotherapieprotokolle (z. B. PEI, TIP, Hochdosis-Chemotherapie) in Betracht gezogen werden.",
-      "Es wird grundsätzlich keine weitere Therapie mehr angeboten.",
-      "Es erfolgt automatisch eine erneute Therapie mit genau demselben PEB-Schema.",
-      "Diese Patienten werden ausschließlich operativ ohne jede Chemotherapie behandelt."
+      "Salvage-Chemotherapie mit TIP und anschließende Resektion",
+      "Hochdosis-Chemotherapie mit sekundärer Resektion der Residuen",
+      "Primäre Resektion des Rezidivs ohne vorherige Chemotherapie",
+      "Biopsie und bei vitalem Tumor eine Salvage-Chemotherapie"
+    ],
+    "correct": 2,
+    "tip": "Spätrezidive sprechen oft schlecht auf Chemotherapie an; entscheidend für die Prognose ist die vollständige Entfernung.",
+    "explanation": "Empfehlung 9.15 (A, LoE 2b): Beim markernegativen Spätrezidiv (> 2 Jahre nach Cisplatin-Therapie mit kompletter RTR) soll bei möglicher kompletter Resektabilität primär reseziert werden. Primär Chemotherapie mit sekundärer Resektion sollte nur beim nicht resektablen Spätrezidiv erfolgen (9.16, B)."
+  },
+  {
+    "question": "Nach welcher Risiko-Klassifikation sollen Patienten mit Rezidiv nach Erstlinienchemotherapie einer metastasierten Erkrankung eingeteilt werden?",
+    "options": [
+      "IPFSG-Klassifikation mit fünf Risikogruppen von very low bis very high",
+      "IGCCCG-Klassifikation mit den Prognosegruppen gut, intermediär, schlecht",
+      "IPFSG-Klassifikation mit drei Risikogruppen low, intermediate und high",
+      "TNM-Stadium mit S-Kategorie der Serumtumormarker zum Rezidivzeitpunkt"
     ],
     "correct": 0,
-    "tip": "Bei längerem Intervall bis zum Rezidiv wird dagegen häufig erneut mit PEB behandelt.",
-    "explanation": "Empfehlung 9.2 sieht für Rezidive innerhalb von 6 Monaten nach adjuvanter Zweizyklus-PEB-Therapie die Diskussion alternativer Chemotherapieprotokolle wie PEI, TIP oder einer Hochdosis-Chemotherapie vor, da hierzu wenig Evidenz zum Fortführen des gleichen Schemas besteht."
+    "tip": "Für die Salvage-Situation wurde aus rund 1.600 Patienten ein eigenes, feiner abgestuftes Prognosemodell entwickelt.",
+    "explanation": "Kapitel 9.2.1 (konsensbasierte Empfehlung): Die International Prognostic Factors Study Group unterscheidet anhand von sieben Faktoren fünf Risikogruppen (very low bis very high) mit einem 2-Jahres-PFS von < 10% bis 75%. Die IGCCCG-Einteilung gilt für primär metastasierte Tumoren und für Rezidive nach Stadium I."
   },
   {
-    "question": "Nach welcher Risiko-Klassifikation sollen laut der entsprechenden Empfehlung Patienten mit Rezidiv nach Erstlinienchemotherapie der metastasierten Erkrankung eingeteilt werden?",
+    "question": "Ein Patient mit Rezidiv nach Erstlinien-Chemotherapie hat neben retroperitonealen Lymphknoten ossäre Metastasen. Welches Vorgehen entspricht den Empfehlungen der Leitlinie?",
     "options": [
-      "Nach der D'Amico-Klassifikation.",
-      "Nach der Risiko-Klassifikation der 'International Prognostic Factors Study Group'.",
-      "Nach der ursprünglichen IGCCCG-Klassifikation von 1997 unverändert.",
-      "Es existiert keine etablierte Risikoklassifikation für diese Situation."
+      "Primäre Resektion der Knochenmetastase, anschließend Chemotherapie",
+      "Bevorzugt Hochdosis-Chemotherapie, dann Evaluation einer Lokaltherapie",
+      "Alleinige Strahlentherapie der ossären Läsionen ohne Systemtherapie",
+      "Konventionelle Chemotherapie, Lokaltherapie nur bei Frakturgefahr"
     ],
     "correct": 1,
-    "tip": "Diese Klassifikation unterscheidet fünf Risikogruppen von 'very low' bis 'very high risk', basierend auf sieben Prognosefaktoren.",
-    "explanation": "Patienten mit Rezidiv nach Erstlinienchemotherapie der metastasierten Erkrankung sollen nach der Risiko-Klassifikation der 'International Prognostic Factors Study Group' eingeteilt werden, die fünf Risikogruppen unterscheidet."
+    "tip": "Knochenbefall im Rezidiv gilt als Hochrisikosituation – systemisch und lokal muss gedacht werden.",
+    "explanation": "Empfehlungen 9.8–9.10 (EK): Bei ossärem Rezidiv soll eine systemische Kombinationschemotherapie erfolgen, präferentiell als Hochdosis-Chemotherapie; anschließend sollte eine lokale Maßnahme (Resektion oder Strahlentherapie) evaluiert werden. In der größten Fallserie sprachen 85% nach Hochdosis- vs. 43% nach konventioneller Chemotherapie an."
   },
   {
-    "question": "Welche sieben Prognosefaktoren fließen laut Leitlinientext in die Risiko-Klassifikation der 'International Prognostic Factors Study Group' ein?",
+    "question": "Ein Patient hat nach mehreren Cisplatin-basierten Chemotherapien einschließlich Hochdosistherapie erneut einen Progress; eine sekundäre Resektabilität erscheint erreichbar. Welche Therapie soll angeboten werden?",
     "options": [
-      "Nur das Patientenalter und das Körpergewicht.",
-      "Primäre Histologie, Primärtumorlokalisation, Ansprechen auf die Primärtherapie, progressionsfreies Intervall, nicht-pulmonale viszerale Metastasen, Serumtumormarker-Erhöhung (AFP/Beta-hCG) und – als siebter Faktor laut Studiendesign.",
-      "Ausschließlich die Anzahl vorheriger Chemotherapiezyklen.",
-      "Die Blutgruppe des Patienten."
+      "Orales metronomisches Etoposid als Monotherapie bis zum Progress",
+      "Kombinationschemotherapie mit Gemcitabin, Oxaliplatin und Paclitaxel",
+      "Erneute Hochdosis-Chemotherapie mit Carboplatin und Etoposid",
+      "Sunitinib als zielgerichtete Therapie mit anschließender Resektion"
     ],
     "correct": 1,
-    "tip": "Je nach Risikogruppe variiert das 2-Jahres progressionsfreie Überleben zwischen unter 10% und 75%.",
-    "explanation": "Die sieben Prognosefaktoren umfassen primäre Histologie, Primärtumorlokalisation, Ansprechen auf die primäre Therapie, progressionsfreies Intervall nach primärer Therapie, nicht-pulmonale viszerale Metastasen zum Zeitpunkt des Rezidivs und eine Serumtumormarker-Erhöhung (AFP und Beta-hCG)."
+    "tip": "Monotherapien erreichen in dieser Situation keine langfristige Krankheitsfreiheit.",
+    "explanation": "Empfehlung 9.17 (A, LoE 4): Bei Progress nach mehrfachen Chemotherapien soll GOP (Gemcitabin, Oxaliplatin ± Paclitaxel) angeboten und nach Ansprechen eine Resektion aller Residuen angestrebt werden; so sind noch bei 10–15% Langzeitüberleben möglich. Monotherapien wie Etoposid oder Sunitinib erreichen Überlebenszeiten von maximal etwa sechs Monaten bzw. nur Stabilisierungen."
   },
   {
-    "question": "Welche drei Substanzen bilden laut Leitlinientext das Grundgerüst der konventionell dosierten Salvage-Chemotherapien (PEI/VIP, TIP, VeIP)?",
+    "question": "Was versteht die Leitlinie unter einer „Desperation Surgery“ bei Keimzelltumoren?",
     "options": [
-      "Cisplatin und Ifosfamid als gemeinsames Grundgerüst plus eine dritte Substanz (Etoposid, Paclitaxel oder Vinblastin).",
-      "Ausschließlich Carboplatin als Monotherapie.",
-      "Methotrexat, Vincristin und Prednison.",
-      "Doxorubicin, Cyclophosphamid und Bleomycin."
+      "Resektion von Residuen bei stabil erhöhten Markern (Plateau) nach Erstlinie",
+      "Resektion eines größenprogredienten Teratoms bei normalisierten Markern",
+      "Resektion bei steigenden Markern nach Salvage-Chemotherapie ohne Systemoption",
+      "Resektion eines markernegativen Spätrezidivs ohne vorherige Chemotherapie"
     ],
-    "correct": 0,
-    "tip": "Alle Regime werden über vier Zyklen im 21-tägigen Abstand appliziert; von einer Gleichwertigkeit von PEI und TIP wird ausgegangen.",
-    "explanation": "Das Grundgerüst der Salvage-Chemotherapien bilden Cisplatin und Ifosfamid, ergänzt um Etoposid (PEI/VIP), Paclitaxel (TIP) oder – heute seltener – Vinblastin (VeIP)."
+    "correct": 2,
+    "tip": "Die Abgrenzung zu verwandten Eingriffen erfolgt über den Markerverlauf und die Art der Vortherapie.",
+    "explanation": "Kapitel 9.3.3: „Desperation Surgery“ bezeichnet die Resektion bei steigenden Markern nach Salvage-Chemotherapie ohne weitere sinnvolle Systemtherapie; Voraussetzung ist eine komplett durchführbare Resektion, das 5-Jahres-Gesamtüberleben liegt im Mittel bei 54%. Die RTR unter Markerplateau ist ausdrücklich davon abzugrenzen, das wachsende Teratom bei normalen Markern entspricht dem Growing Teratoma Syndrome."
   },
   {
-    "question": "Welches Schema ist laut Leitlinientext aktuell das am häufigsten verwendete Salvage-Schema, und welche Remissionsrate wird bei Kombination mit konsequenter Residualtumorresektion < 1 cm erreicht?",
+    "question": "Bei einem Patienten mit Nichtseminom wächst unter der laufenden Chemotherapie eine retroperitoneale Metastase, während die Marker zeitgerecht abfallen; Komplikationen bestehen nicht. Wie ist vorzugehen?",
     "options": [
-      "Das TIP-Schema, mit kompletter Remission bei etwa 70% der Patienten.",
-      "Das klassische PEB-Schema, mit 100% Remission bei allen Patienten.",
-      "Carboplatin-Monotherapie, mit 20% Remission.",
-      "Das VeIP-Schema als heute meistgenutztes Protokoll."
+      "Sofortiger Abbruch und Umstellung auf eine Salvage-Chemotherapie mit TIP",
+      "Sofortiger Abbruch und umgehende Resektion der wachsenden Metastase",
+      "Komplettierung der Chemotherapie und anschließende FDG-PET/CT-Kontrolle",
+      "Komplettierung der Chemotherapie und anschließende komplette Resektion"
     ],
-    "correct": 0,
-    "tip": "Das 2-Jahres progressionsfreie Überleben liegt dabei bei etwa 65%, das 2-Jahres-Gesamtüberleben bei 78%.",
-    "explanation": "Das TIP-Schema ist aktuell das am häufigsten verwendete Salvage-Schema; in Kombination mit konsequenter Resektion aller Residualtumoren < 1 cm wird bei nichtseminomatösem KZT eine komplette Remission bei etwa 70% der Patienten erreicht."
-  },
-  {
-    "question": "Was zeigte die randomisierte IT-94-Studie beim Vergleich konventioneller Salvage-Chemotherapie versus Hochdosis-Chemotherapie mit CEC hinsichtlich Gesamtüberleben nach fünf Jahren?",
-    "options": [
-      "Die 5-Jahres-Gesamtüberlebenswahrscheinlichkeit war mit 53% in beiden Armen gleich, trotz signifikant höherer 3-Jahres-rezidivfreier Überlebensrate im Hochdosis-Arm.",
-      "Die Hochdosis-Chemotherapie zeigte ein signifikant besseres Gesamtüberleben in jeder Hinsicht.",
-      "Die konventionelle Chemotherapie war in jeder Hinsicht signifikant überlegen.",
-      "Es gab keinerlei Unterschiede in Toxizität oder Ansprechen zwischen beiden Armen."
-    ],
-    "correct": 0,
-    "tip": "Hämatogene und gastrointestinale Toxizitäten waren jeweils signifikant häufiger unter Hochdosis-Chemotherapie.",
-    "explanation": "Die IT-94-Studie zeigte eine mit 53% identische 5-Jahres-Gesamtüberlebenswahrscheinlichkeit in beiden Armen, obwohl die 3-Jahres-rezidivfreie Überlebensrate im Hochdosis-Arm signifikant höher war (75% vs. 55%); die Art der Therapie war kein unabhängiger prognostischer Marker für das Gesamtüberleben."
-  },
-  {
-    "question": "Welche Patientengruppen können laut Leitlinientext nach Rezidiv einer metastasierten Erkrankung potenziell alleinig operativ (ohne Salvage-Chemotherapie) behandelt werden?",
-    "options": [
-      "Patienten mit Spätrezidiven und Patienten mit einem 'Growing Teratoma Syndrome'.",
-      "Alle Patienten mit Rezidiv, unabhängig von der Konstellation.",
-      "Ausschließlich Patienten mit primär mediastinalem Keimzelltumor.",
-      "Nur Patienten mit Hirnmetastasen."
-    ],
-    "correct": 0,
-    "tip": "Bei der Mehrheit der übrigen Rezidiv-Patienten ist dagegen eine Salvage-Chemotherapie notwendig.",
-    "explanation": "Ein kleiner Teil der Rezidiv-Patienten kann alleinig operativ behandelt werden – dazu gehören Patienten mit Spätrezidiven und solche mit einem 'Growing Teratoma Syndrome'."
-  },
-  {
-    "question": "Wie groß ist etwa der Anteil der Patienten mit initial metastasierter Tumorerkrankung, der im Verlauf ein erneutes Rezidiv entwickelt, und welcher Anteil davon kann durch erneutes multimodales Vorgehen noch geheilt werden?",
-    "options": [
-      "Etwa ein Drittel entwickelt ein Rezidiv, davon kann etwa die Hälfte noch geheilt werden.",
-      "Nahezu 100% entwickeln ein Rezidiv, von denen niemand mehr geheilt werden kann.",
-      "Weniger als 1% entwickeln jemals ein Rezidiv.",
-      "Etwa zwei Drittel entwickeln ein Rezidiv, von denen praktisch keiner mehr geheilt werden kann."
-    ],
-    "correct": 0,
-    "tip": "Entscheidend für die Heilungschance beim Nichtseminom ist dabei auch die vollständige Resektion aller Residuen von unter 1 cm.",
-    "explanation": "Etwa ein Drittel der Patienten mit initial metastasierter Tumorerkrankung entwickelt im Verlauf ein erneutes Rezidiv; durch erneutes multimodales Vorgehen mit Salvage-Kombinationschemotherapie und ggf. vollständiger Resektion aller Residuen < 1 cm kann etwa die Hälfte dieser Patienten noch geheilt werden."
+    "correct": 3,
+    "tip": "Ein wachsendes Teratom spricht nicht auf Zytostatika an – der zeitgerechte Markerabfall zeigt aber, dass die übrigen Tumoranteile ansprechen.",
+    "explanation": "Kapitel 9.4.1: Beim Growing Teratoma Syndrome wird die Chemotherapie zunächst wie geplant komplettiert und danach eine komplette Resektion angestrebt (Empfehlung 9.18, A). Eine Unterbrechung ist nur bei vitaler Bedrohung gerechtfertigt oder wenn sonst keine komplette Resektion mehr erreichbar wäre."
   }
 ]

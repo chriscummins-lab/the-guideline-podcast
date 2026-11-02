@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche zwei Elemente soll die Erkennung von Rezidiven laut Empfehlung 11.1 kombinieren?",
+    "question": "Welches Verfahren soll laut Leitlinie in der Nachsorge von Patienten mit Keimzelltumoren für die Bildgebung von Abdomen und Becken eingesetzt werden?",
     "options": [
-      "Bildgebung und Bestimmung von Serumtumormarkern.",
-      "Ausschließlich die körperliche Untersuchung.",
-      "Nur eine jährliche Röntgen-Thorax-Aufnahme.",
-      "Ausschließlich die Bestimmung der miRNA-371a-3p."
+      "Abdomensonographie, da sie strahlenfrei und überall verfügbar ist",
+      "MRT Abdomen/Becken anstelle der CT zur Senkung der Strahlenexposition",
+      "Niedrigdosis-CT Abdomen/Becken als Kompromiss aus Dosis und Sensitivität",
+      "CT Abdomen/Becken, die MRT nur bei Kontrastmittelunverträglichkeit"
     ],
-    "correct": 0,
-    "tip": "Die körperliche Untersuchung allein detektiert nur einen sehr kleinen Anteil der Rezidive.",
-    "explanation": "Empfehlung 11.1 (Grad A, neu 2026) fordert zur Rezidiverkennung eine Kombination aus Bildgebung und Serumtumormarker-Bestimmung."
+    "correct": 1,
+    "tip": "Bedenken Sie die kumulative Strahlendosis bei jungen Patienten über viele Nachsorgejahre.",
+    "explanation": "Empfehlung 11.5 (Empfehlungsgrad A, LoE 2): Die MRT Abdomen/Becken soll aufgrund ihrer Gleichwertigkeit (u. a. TRISST-Studie) die CT ersetzen, um die Strahlenexposition zu reduzieren – eine CT Abdomen entspricht etwa 7,9 mSv. Die Abdomensonographie hat keine ausreichende Evidenz für die Detektion retroperitonealer Rezidive; eine Niedrigdosis-Technik nennt die Leitlinie nur für die Thorax-CT."
   },
   {
-    "question": "Welche Empfehlung geben 11.3 und 11.4 zur Thorax-Bildgebung in der Nachsorge, abhängig von der Histologie im Stadium I?",
+    "question": "Welche Empfehlung gibt die Leitlinie zur Thorax-Bildgebung in der Nachsorge von Patienten im klinischen Stadium I?",
     "options": [
-      "Bei Seminom sollte auf Thorax-Bildgebung verzichtet werden; beim Nichtseminom sollte sie weiterhin erfolgen, da isolierte thorakale Metastasen auftreten können.",
-      "Bei beiden Entitäten ist Thorax-Bildgebung generell verzichtbar.",
-      "Bei beiden Entitäten ist eine monatliche Thorax-CT obligat.",
-      "Beim Seminom ist sie obligat, beim Nichtseminom generell verzichtbar – umgekehrt zur tatsächlichen Empfehlung."
+      "Bei beiden Histologien sollte auf eine Thorax-Bildgebung verzichtet werden",
+      "Bei beiden Histologien soll jährlich eine Thorax-CT durchgeführt werden",
+      "Beim Seminom sollte darauf verzichtet werden, beim Nicht-Seminom nicht",
+      "Beim Nicht-Seminom sollte darauf verzichtet werden, beim Seminom nicht"
     ],
-    "correct": 0,
-    "tip": "Diese differenzierte Empfehlung spiegelt die unterschiedlichen Metastasierungsmuster beider Entitäten wider.",
-    "explanation": "Empfehlung 11.3 rät beim Seminom im Stadium I vom Verzicht auf Thorax-Bildgebung, Empfehlung 11.4 empfiehlt beim Nichtseminom im Stadium I die Fortführung der Thorax-Bildgebung wegen möglicher isolierter thorakaler Metastasen."
+    "correct": 2,
+    "tip": "Isolierte supradiaphragmale Rezidive ohne abdominellen Befall sind nicht bei jeder Histologie gleich selten.",
+    "explanation": "Empfehlung 11.3 (B): Beim Seminom im Stadium I sollte auf die Thorax-Bildgebung verzichtet werden, da Röntgen-Thorax-Aufnahmen kaum zur Rezidiverkennung beitragen. Beim Nicht-Seminom im Stadium I sollte sie weiterhin erfolgen, weil isolierte thorakale Metastasen auftreten können (Empfehlung 11.4, EK)."
   },
   {
-    "question": "Welches bildgebende Verfahren soll laut Empfehlung 11.5 die CT des Abdomens/Beckens in der Nachsorge ersetzen, und warum?",
+    "question": "Bei einem 31-jährigen Patienten unter Überwachung eines Nicht-Seminoms im Stadium I ist das Beta-hCG bei einer Routinekontrolle erstmals leicht erhöht; die letzte Bildgebung war unauffällig. Was ist der nächste Schritt laut Leitlinie?",
     "options": [
-      "Die MRT Abdomen/Becken, aufgrund ihrer Gleichwertigkeit, um die Strahlenexposition zu reduzieren.",
-      "Die Abdomensonographie, da sie günstiger ist.",
-      "Die FDG-PET/CT bei allen Patienten.",
-      "Das Röntgen-Abdomen, da es schneller durchführbar ist."
+      "Sofortige Chemotherapie entsprechend der IGCCCG-Prognosegruppe",
+      "Kontrolle nach 1 bis 2 Wochen und Ausschluss anderer Ursachen",
+      "Kontrolle erst beim nächsten regulären Nachsorgetermin in drei Monaten",
+      "Sofortige FDG-PET/CT zur Lokalisation des vermuteten Rezidivs"
     ],
-    "correct": 0,
-    "tip": "Die Abdomensonographie hat dagegen keine ausreichende Evidenz für eine zuverlässige Detektion retroperitonealer Rezidive.",
-    "explanation": "Empfehlung 11.5 (Grad A, modifiziert 2026) sieht vor, dass die MRT Abdomen/Becken aufgrund ihrer Gleichwertigkeit die CT ersetzen soll, um die Strahlenexposition in der Nachsorge zu reduzieren."
+    "correct": 1,
+    "tip": "Nicht jede einmalige Markerabweichung bedeutet ein Rezidiv – unnötige Therapien gilt es zu vermeiden.",
+    "explanation": "Empfehlungen 11.6 und 11.7 (EK): Eine einmalige AFP- und/oder Beta-hCG-Erhöhung sollte durch eine kurzfristige erneute Bestimmung nach 1 bis 2 Wochen bestätigt werden, bei geringgradiger Erhöhung sollten andere Ursachen ausgeschlossen werden. Ein Abwarten bis zum nächsten regulären Termin verzögert die Klärung unnötig."
   },
   {
-    "question": "Wie verteilt sich laut der systematischen Übersichtsarbeit von Smith et al. (2025) die Rezidiverkennung im Stadium I unter Überwachung auf die einzelnen Nachsorgemodalitäten?",
+    "question": "Welche Ursache kann laut Leitlinie eine leichte, nicht keimzelltumorbedingte Beta-hCG-Erhöhung beim Mann erklären?",
     "options": [
-      "60% allein durch Bildgebung, 24% allein durch Tumormarker, 15% durch Bildgebung und Marker kombiniert, 1,5% durch körperliche Untersuchung.",
-      "100% ausschließlich durch die körperliche Untersuchung.",
-      "90% durch Röntgen-Thorax allein.",
-      "Alle Modalitäten tragen zu exakt gleichen Anteilen (25% je Methode) bei."
+      "Alkoholabusus oder eine akute bzw. chronische Hepatitis",
+      "Hypergonadotroper Hypogonadismus mit LH-Kreuzreaktion",
+      "Fortgeschrittene Leberzirrhose oder biliäre Obstruktion",
+      "Hereditäre Erhöhung mit Werten im dreistelligen Bereich"
     ],
-    "correct": 0,
-    "tip": "Insgesamt werden so 98,52% aller Rezidive erfasst – die körperliche Untersuchung trägt dabei nur einen minimalen Anteil bei.",
-    "explanation": "Die Übersichtsarbeit von Smith et al. (2025) mit 11.414 Patienten zeigt, dass 60% der Rezidive allein durch Bildgebung, 24% allein durch Tumormarker, 15% durch beide kombiniert und nur 1,5% durch körperliche Untersuchung festgestellt werden."
+    "correct": 1,
+    "tip": "AFP und Beta-hCG haben unterschiedliche nicht-tumoröse Störquellen – die Leber betrifft vor allem einen der beiden Marker.",
+    "explanation": "Kapitel 11.1.2: Leichte Beta-hCG-Erhöhungen können u. a. durch Cannabiskonsum, eine kürzlich abgelaufene Mononukleose oder einen hypergonadotropen Hypogonadismus mit Kreuzreaktivität zum LH bedingt sein. Hepatopathien wie Alkoholabusus, Hepatitis, Zirrhose oder biliäre Obstruktion erhöhen typischerweise das AFP; hereditäre Erhöhungen liegen meist im niedrigen zweistelligen Bereich."
   },
   {
-    "question": "Welche Nachweisrate für Rezidive hat die Röntgen-Thorax-Untersuchung laut Fischer et al. (2024), und was folgt daraus für ihren Stellenwert in der Nachsorge?",
+    "question": "Nach Chemotherapie eines metastasierten Nicht-Seminoms zeigt sich in der Nachsorge ein bestätigter Beta-hCG-Anstieg; thorakoabdominale Schnittbildgebung und Sonographie des verbliebenen Hodens sind unauffällig. Was sollte zusätzlich erfolgen?",
     "options": [
-      "Nur 2% Nachweisrate – die am wenigsten aussagekräftige Untersuchungsmethode, ihr Stellenwert wird zunehmend infrage gestellt.",
-      "95% Nachweisrate – sie ist die zuverlässigste Methode überhaupt.",
-      "50% Nachweisrate – vergleichbar mit der Schnittbildgebung des Abdomens.",
-      "0% – Röntgen-Thorax detektiert grundsätzlich keine Rezidive."
+      "FDG-PET/CT zur Suche nach okkulten Tumorlokalisationen",
+      "Skelettszintigraphie zum Ausschluss ossärer Herde",
+      "Wiederholung der Schnittbildgebung nach sechs Monaten",
+      "MRT des Neurokraniums zum Ausschluss von Hirnmetastasen"
     ],
-    "correct": 0,
-    "tip": "Auch wegen der radiogenen Belastung wird diese Untersuchung zunehmend kritisch hinterfragt.",
-    "explanation": "Mit einer Nachweisrate von nur 2% für Rezidive ist das Röntgen-Thorax die am wenigsten aussagekräftige Nachsorgeuntersuchung und wird zunehmend infrage gestellt."
+    "correct": 3,
+    "tip": "Denken Sie an das Metastasierungsmuster von Tumoren mit stark hCG-produzierenden Anteilen.",
+    "explanation": "Empfehlung 11.9 (EK): Bei unauffälliger Ausbreitungsdiagnostik sollte bei zuvor metastasierter Erkrankung zusätzlich eine MRT des Neurokraniums erfolgen – auch ohne neurologische Symptome. Eine frühe Wiederholung der Schnittbildgebung ist bei langsamem Anstieg nach vier bis sechs Wochen eine Option, nicht nach sechs Monaten."
   },
   {
-    "question": "Welchen Stellenwert hat die regelmäßige Sonographie des kontralateralen (gesunden) Hodens in der Nachsorge, und über welchen Zeitraum soll sie erfolgen?",
+    "question": "Welche Aussage zur miRNA-371a-3p in der Nachsorge von Keimzelltumoren entspricht der Leitlinie?",
     "options": [
-      "Sie ist elementarer Bestandteil der Nachsorge und soll in allen zehn Nachsorgejahren erfolgen, um einen kontralateralen Zweittumor frühzeitig zu erkennen.",
-      "Sie ist überflüssig, da ein kontralateraler Tumor praktisch nie auftritt.",
-      "Sie soll nur einmalig bei Diagnosestellung erfolgen, danach nie wieder.",
-      "Sie ersetzt vollständig die Bildgebung des Abdomens."
+      "Sie soll AFP und Beta-hCG im Stadium I ersetzen (Empfehlungsgrad A)",
+      "Ein isolierter Anstieg rechtfertigt den Beginn einer Systemtherapie",
+      "Sie sollte in allen Stadien routinemäßig bestimmt werden (Empfehlungsgrad B)",
+      "Sie kann im Stadium I ergänzend bestimmt werden (Empfehlungsgrad 0)"
     ],
-    "correct": 0,
-    "tip": "Eine Studie fand bei 169 Patienten im Stadium I eine kontralaterale Zweittumorrate von 4,7% bei medianer Latenz von 7,7 Jahren, mit einem geschätzten 25-Jahres-Risiko von 8,4%.",
-    "explanation": "Die Sonographie des kontralateralen Hodens ist elementarer Bestandteil jeder Nachsorgeuntersuchung und soll über alle zehn Nachsorgejahre erfolgen, da sie zur früheren Detektion kontralateraler Tumoren und damit zu mehr organerhaltenden Eingriffen führt."
+    "correct": 3,
+    "tip": "Die prospektiven Daten zur miRNA stammen bislang vor allem aus dem Stadium I unter Überwachung, die Evidenzqualität ist niedrig.",
+    "explanation": "Empfehlung 11.12 (Empfehlungsgrad 0, neu 2026): Die miRNA-371a-3p kann in der Nachsorge im Stadium I ergänzend eingesetzt werden; laut Statement 11.11 ist sie sensitiver und spezifischer als AFP und Beta-hCG. Eine Erhöhung ohne radiologisches Korrelat rechtfertigt keine Systemtherapie (Statement 11.13)."
   },
   {
-    "question": "Ab wann gilt die tumorspezifische Nachsorge als abgeschlossen, und was wird danach empfohlen?",
+    "question": "Ein Patient im Stadium I unter Überwachung hat eine erhöhte miRNA-371a-3p (Relative Quantity > 15) bei unauffälliger Bildgebung und normalem AFP und Beta-hCG. Welches Vorgehen ist laut Leitlinie angemessen?",
     "options": [
-      "Nach fünf Jahren; danach wird eine lebenslange Nachsorge mittels eines 'survivorship care plan' empfohlen.",
-      "Nach drei Monaten, danach ist keine weitere Betreuung notwendig.",
-      "Die Nachsorge endet nie, unabhängig vom Zeitpunkt.",
-      "Nach einem Jahr, mit anschließender vollständiger Entlassung aus jeder ärztlichen Betreuung."
+      "Kontrollmessung nach wenigen Wochen, keine Systemtherapie ohne Korrelat",
+      "Ein Zyklus PEB als frühzeitige Therapie eines okkulten Rezidivs",
+      "Primäre retroperitoneale Lymphadenektomie zur histologischen Klärung",
+      "Zwei Zyklen PEB, da die miRNA ein Rezidiv um Monate vorwegnimmt"
     ],
     "correct": 0,
-    "tip": "Der Patient soll dabei nochmals mündlich und schriftlich über mögliche Langzeitfolgen aufgeklärt werden.",
-    "explanation": "Nach fünf Jahren ist die tumorspezifische Nachsorge abgeschlossen; danach wird eine lebenslange Nachsorge mittels eines 'survivorship care plan' empfohlen, um über mögliche Spätfolgen aufzuklären."
+    "tip": "Die miRNA kann ein Rezidiv um Monate vorwegnehmen – doch was folgt daraus therapeutisch?",
+    "explanation": "Kapitel 11.1.3: Da falsch-positive Befunde möglich sind, ist bei Werten > 15 eine Kontrollmessung nach wenigen Wochen zu erwägen, bevor z. B. die Schnittbildgebung vorgezogen wird. Statement 11.13: Eine miRNA-Erhöhung ohne radiologisches Korrelat rechtfertigt keine Systemtherapie , auch wenn die Erhöhung der konventionellen Rezidiverkennung in etwa einem Drittel der Fälle um 3 bis 15 Monate vorausgeht."
   },
   {
-    "question": "Welche Sensitivität und Spezifität zeigte der miRNA-371a-3p-Test laut Statement 11.11 und der zitierten prospektiven Studie (DRKS-00019223) im Vergleich zu AFP und Beta-hCG bei der Rezidivdetektion im Stadium I?",
+    "question": "Welches Intervall der Tumormarkerbestimmung (AFP, Beta-hCG) sehen die Nachsorgeschemata für Patienten im klinischen Stadium I vor?",
     "options": [
-      "miRNA-371a-3p: Sensitivität 100%, Spezifität 96% – deutlich höher als AFP (25%) und Beta-hCG (36%), auch in Kombination nur 45%.",
-      "miRNA-371a-3p ist den klassischen Markern deutlich unterlegen (Sensitivität 10%).",
-      "Alle drei Marker zeigen identische Sensitivitäten von jeweils 50%.",
-      "AFP und Beta-hCG erreichen zusammen 100% Sensitivität, miRNA ist überflüssig."
+      "Jahr 1–2: 4×/Jahr; Jahr 3–5: 2×/Jahr; Jahr 6–10: 1×/Jahr",
+      "Jahr 1–2: 4×/Jahr; Jahr 3–5: 1×/Jahr; ab Jahr 6: keine Marker",
+      "Jahr 1–2: 6×/Jahr; Jahr 3–5: 4×/Jahr; Jahr 6–10: 2×/Jahr",
+      "Jahr 1–3: 4×/Jahr; Jahr 4–5: 2×/Jahr; ab Jahr 6: keine Marker"
     ],
     "correct": 0,
-    "tip": "Der negative prädiktive Wert des miRNA-Tests lag bei 100%, der positive prädiktive Wert bei 83%.",
-    "explanation": "Statement 11.11 und die zugrundeliegende Studie zeigen eine Sensitivität von 100% und Spezifität von 96% für miRNA-371a-3p, gegenüber Sensitivitäten von nur 25% (AFP) und 36% (Beta-hCG), auch kombiniert nur 45%."
+    "tip": "Die Nachsorgeintensität ist in den ersten zwei Jahren am höchsten und wird danach schrittweise reduziert.",
+    "explanation": "Tabelle 18 und Tabelle 21: Sowohl beim Seminom als auch beim Nicht-Seminom im Stadium I werden die Marker in den Jahren 1–2 viermal, in den Jahren 3–5 zweimal und in den Jahren 6–10 einmal jährlich bestimmt; nach zehn Jahren entfallen sie. Dasselbe Raster gilt für die metastasierten Stadien (Tabelle 24)."
   },
   {
-    "question": "Wie soll laut Empfehlung 11.12 und Statement 11.13 die miRNA-371a-3p in der Praxis eingesetzt werden?",
+    "question": "Zu welchen Zeitpunkten sieht das Nachsorgeschema für das Seminom im klinischen Stadium I standardmäßig eine MRT des Abdomens vor?",
     "options": [
-      "Sie kann ergänzend in der Nachsorge im Stadium I eingesetzt werden; eine Erhöhung ohne radiologisches Korrelat rechtfertigt jedoch keine Systemtherapie.",
-      "Sie soll alle anderen Nachsorgeuntersuchungen vollständig ersetzen.",
-      "Eine isolierte miRNA-Erhöhung soll immer sofort zu einer Salvage-Chemotherapie führen.",
-      "Sie wird in der aktuellen Leitlinienversion explizit als nicht einsetzbar bewertet."
+      "Monat 3, 6, 9, 12, 18 und 24",
+      "Monat 6, 12, 18, 24, 36, 48 und 60",
+      "Monat 6, 18, 36 und 60",
+      "Monat 12, 24, 36, 48 und 60"
     ],
-    "correct": 0,
-    "tip": "Die miRNA ist aktuell ein ergänzendes, nicht ein ersetzendes Instrument der Nachsorge.",
-    "explanation": "Empfehlung 11.12 (Grad 0) erlaubt den ergänzenden Einsatz der miRNA-371a-3p in der Nachsorge im Stadium I, während Statement 11.13 klarstellt, dass eine Erhöhung ohne radiologisches Korrelat keine Systemtherapie rechtfertigt."
+    "correct": 2,
+    "tip": "Beim Seminom im Stadium I wurde die Zahl der Schnittbilder auf Basis randomisierter Daten bewusst reduziert.",
+    "explanation": "Tabelle 18: MRT Abdomen in den Monaten 6, 18, 36 und 60, zusätzlich nach 12 und 24 Monaten nur je nach individueller Risikokonstellation; die TRISST-Studie zeigte die Nichtunterlegenheit eines reduzierten Schemas. Das engere Raster mit 6, 12, 18, 24, 36, 48 und 60 Monaten gilt für das Nicht-Seminom im Stadium I (Tabelle 21)."
   },
   {
-    "question": "Welche Rezidivraten zeigen die Nachsorgetabellen 16 und 17 für das Seminom im klinischen Stadium I unter Überwachung versus nach adjuvantem Carboplatin, und wann treten die Rezidive am häufigsten auf?",
+    "question": "Welche Basisdiagnostik sieht die Leitlinie in der toxizitätsspezifischen Nachsorge mindestens jährlich für alle Patienten vor?",
     "options": [
-      "4–20% unter Überwachung versus 2–10% nach adjuvantem Carboplatin, am häufigsten im 1. bis 2. Jahr, überwiegend retroperitoneal.",
-      "0% in beiden Gruppen, da Rezidive beim Seminom im Stadium I praktisch nie vorkommen.",
-      "50–80% unter Überwachung versus 90% nach Carboplatin (höheres Risiko durch die Chemotherapie).",
-      "Die Rezidivrate ist in beiden Gruppen identisch bei exakt 15%."
+      "Blutdruck, BMI, Lipide, Glukosestoffwechsel sowie Testosteron und LH/FSH",
+      "Blutdruck, BMI, Lipidprofil sowie Lungenfunktion inklusive DLCO-Messung",
+      "Blutdruck, BMI, Audiometrie sowie eine transthorakale Echokardiographie",
+      "Lipidprofil, Glukosestoffwechsel, Kreatinin sowie ein Spermiogramm"
     ],
     "correct": 0,
-    "tip": "Die häufigste Lokalisation ist in beiden Gruppen das Retroperitoneum, seltener pelvin.",
-    "explanation": "Tabelle 16 und 17 zeigen Rezidivraten von 4–20% unter Überwachung und 2–10% nach adjuvantem Carboplatin, mit dem häufigsten Auftreten im 1. bis 2. Jahr, überwiegend im Retroperitoneum."
+    "tip": "Hodentumorüberlebende gelten als junge Hochrisikogruppe für kardiovaskuläre Erkrankungen.",
+    "explanation": "Kapitel 11.2 (zu Empfehlungen 11.14/11.15): Die Basisdiagnostik umfasst mindestens jährlich Blutdruck, BMI, Lipidprofil und Glukosestoffwechsel sowie Gesamt-Testosteron und LH/FSH. Lungenfunktion mit DLCO, Audiometrie oder Spermiogramm erfolgen nur bei Symptomen bzw. entsprechender Exposition oder Fragestellung."
   }
 ]

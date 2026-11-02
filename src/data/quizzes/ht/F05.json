@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie hoch ist laut Statement 7.1 die stadienunabhängige 5-Jahres-Überlebenswahrscheinlichkeit für Seminome bzw. nichtseminomatöse KZT in Deutschland?",
-    "options": [
-      "97,9% für Seminome und 94,9% für nichtseminomatöse KZT.",
-      "80% für Seminome und 60% für nichtseminomatöse KZT.",
-      "99,9% für beide Entitäten identisch.",
-      "94,9% für Seminome und 97,9% für nichtseminomatöse KZT (umgekehrtes Verhältnis)."
-    ],
-    "correct": 0,
-    "tip": "Seminome haben insgesamt eine leicht bessere stadienunabhängige Prognose als nichtseminomatöse KZT.",
-    "explanation": "Statement 7.1 gibt die stadienunabhängige 5-Jahres-Überlebenswahrscheinlichkeit nach RKI-Daten mit 97,9% für Seminome und 94,9% für nichtseminomatöse KZT an."
-  },
-  {
-    "question": "Welche krebsspezifische 10-Jahres-Überlebenswahrscheinlichkeit besteht laut Statement 7.2 für Patienten mit einem KZT im Stadium I?",
-    "options": [
-      "99,7%",
-      "90,0%",
-      "75,0%",
-      "50,0%"
-    ],
-    "correct": 0,
-    "tip": "Das Gesamtüberleben liegt mit 95–99% nur geringfügig niedriger als das krebsspezifische Überleben.",
-    "explanation": "Statement 7.2 beschreibt für das Stadium I eine krebsspezifische 10-Jahres-Überlebenswahrscheinlichkeit von 99,7% sowie ein 10-Jahres-Gesamtüberleben von 95–99%."
-  },
-  {
-    "question": "In welchem Bereich liegt laut Statement 7.3 die 5-Jahres-Überlebenswahrscheinlichkeit für Patienten der schlechten IGCCCG-Prognosegruppe bei metastasiertem KZT?",
-    "options": [
-      "86–95%",
-      "72–85%",
-      "48–64%",
-      "95–99%"
-    ],
-    "correct": 2,
-    "tip": "Diese Spanne ist deutlich niedriger als die der guten (86–95%) oder intermediären (72–85%) Prognosegruppe.",
-    "explanation": "Statement 7.3 gibt für die schlechte IGCCCG-Prognosegruppe eine 5-Jahres-Überlebenswahrscheinlichkeit von 48–64% an, gegenüber 86–95% in der guten und 72–85% in der intermediären Gruppe."
-  },
-  {
     "question": "Welcher Faktor ist laut Statement 7.4 beim nichtseminomatösen KZT im klinischen Stadium I der einzige prospektiv multivariat validierte Risikofaktor für ein Rezidiv?",
     "options": [
-      "Die Tumorgröße über 4 cm.",
-      "Die lymphovaskuläre Invasion (LVI+).",
-      "Die Rete testis-Infiltration.",
-      "Der Serum-LDH-Wert bei Diagnosestellung."
-    ],
-    "correct": 1,
-    "tip": "Dieser Faktor bestimmt maßgeblich die risikoadaptierte Therapieentscheidung im Stadium I des Nichtseminoms.",
-    "explanation": "Statement 7.4 identifiziert die lymphovaskuläre Invasion (LVI+) als einzigen prospektiv multivariat validierten Risikofaktor für Rezidive beim nichtseminomatösen KZT im klinischen Stadium I."
-  },
-  {
-    "question": "Wie hoch ist das Rezidivrisiko bei Patienten mit nichtseminomatösem KZT im Stadium I MIT lymphovaskulärer Invasion (LVI+) im Vergleich zu Patienten OHNE LVI?",
-    "options": [
-      "44,3% (LVI+) versus 14,1% (LVI-).",
-      "10% (LVI+) versus 40% (LVI-) – paradox umgekehrt.",
-      "Beide Gruppen haben ein identisches Rezidivrisiko von ca. 20%.",
-      "5% (LVI+) versus 2% (LVI-)."
+      "Lymphovaskuläre Invasion (LVI+)",
+      "Anteil embryonalen Karzinoms > 50 %",
+      "Proliferationsrate im Primärtumor > 70 %",
+      "Stromale Rete-testis-Infiltration"
     ],
     "correct": 0,
-    "tip": "Der Unterschied ist erheblich und begründet die risikoadaptierte Therapieentscheidung im Stadium I.",
-    "explanation": "Patienten mit lymphovaskulärer Invasion (LVI+) haben ein Rezidivrisiko von 44,3%, Patienten ohne lymphovaskuläre Invasion (LVI-) von 14,1%."
+    "tip": "Gesucht ist das Merkmal mit der höchsten methodischen Absicherung, nicht jedes zusätzlich beschriebene Merkmal.",
+    "explanation": "Statement 7.4 (Evidenzlevel 2b, starker Konsens): Die LVI ist beim Nichtseminom im klinischen Stadium I der einzige prospektiv multivariat validierte Rezidivrisikofaktor. Proliferationsrate > 70 % und ein Anteil embryonalen Karzinoms > 50 % sind weitere beschriebene Faktoren, die stromale Rete-testis-Infiltration wird beim Seminom diskutiert."
   },
   {
-    "question": "Welche zwei Parameter korrelieren laut Statement 7.5 beim Seminom im Stadium I unter Überwachung mit dem Rezidivrisiko, wobei die Datenlage unterschiedlich eindeutig ist?",
+    "question": "Wie hoch ist laut Hintergrundtext das Rezidivrisiko beim nichtseminomatösen KZT im Stadium I mit (LVI+) bzw. ohne (LVI–) lymphovaskuläre Invasion?",
     "options": [
-      "Tumorgröße (eindeutig positiv korreliert) und stromale Rete testis-Infiltration (uneinheitliche Daten).",
-      "Patientenalter und Körpergröße – beide mit klarer, konsistenter Evidenz.",
-      "Nur der präoperative Beta-hCG-Wert, ohne weitere relevante Faktoren.",
-      "Die Tumorlokalisation (rechts vs. links), ohne Zusammenhang zur Tumorgröße."
+      "LVI+ 14,1 %, LVI– < 5 %",
+      "LVI+ 22,4 %, LVI– 7,2 %",
+      "LVI+ 28,6 %, LVI– 9,8 %",
+      "LVI+ 44,3 %, LVI– 14,1 %"
+    ],
+    "correct": 3,
+    "tip": "Die LVI ist der wichtigste Faktor für eine risikoadaptierte Therapie – der Unterschied zwischen beiden Gruppen ist entsprechend deutlich.",
+    "explanation": "Laut Kapitel 7.2 haben Patienten mit LVI+ ein Rezidivrisiko von 44,3 %, ohne LVI von 14,1 %. Ein Rezidivrisiko < 5 % beschreibt Statement 7.5 für Seminome < 4 cm ohne stromale Rete-testis-Infiltration."
+  },
+  {
+    "question": "Welche Konstellation ist laut Statement 7.5 beim Seminom im klinischen Stadium I mit einem minimalen Rezidivrisiko (< 5 %) verbunden?",
+    "options": [
+      "Tumorgröße unter 4 cm ohne stromale Rete-testis-Infiltration",
+      "Tumorgröße unter 5 cm ohne lymphovaskuläre Invasion",
+      "Tumorgröße unter 4 cm ohne lymphovaskuläre Invasion",
+      "Tumorgröße unter 5 cm ohne stromale Rete-testis-Infiltration"
     ],
     "correct": 0,
-    "tip": "Bei einer Tumorgröße unter 4 cm ohne stromale Rete testis-Infiltration gilt das Rezidivrisiko als minimal (< 5%).",
-    "explanation": "Statement 7.5 beschreibt eine positive Korrelation der Tumorgröße mit dem Rezidivrisiko beim Seminom, während die Daten zur stromalen Rete testis-Infiltration uneinheitlich sind; unter 4 cm ohne Rete-testis-Infiltration liegt das Risiko bei unter 5%."
+    "tip": "Beim Seminom stehen andere histopathologische Merkmale im Vordergrund als beim Nichtseminom.",
+    "explanation": "Statement 7.5 (starker Konsens): Beim Seminom im Stadium I korreliert die Tumorgröße positiv mit Rezidiven; bei einer Tumorgröße unter 4 cm und fehlender stromaler Rete-testis-Infiltration ist das Rezidivrisiko minimal (< 5 %). Die Daten zur Rete-testis-Infiltration sind uneinheitlich, die LVI ist der Risikofaktor des Nichtseminoms."
   },
   {
-    "question": "Nach welchem Klassifikationssystem soll die Einteilung metastasierter KZT laut Empfehlung 7.6 erfolgen?",
+    "question": "Welche Überlebenswahrscheinlichkeiten nennt Statement 7.2 für Patienten mit KZT im Stadium I?",
     "options": [
-      "Nach der D'Amico-Klassifikation.",
-      "Nach den Prognosekriterien der IGCCCG.",
-      "Nach dem Charlson Comorbidity Index.",
-      "Nach der NCCN-Risikoeinteilung für das Prostatakarzinom (unzutreffend übertragen)."
+      "Krebsspezifisch 97,9 % und gesamt 94,9 %, jeweils nach 5 Jahren",
+      "Krebsspezifisch 99,7 % nach 5 Jahren, gesamt 86–95 % nach 10 Jahren",
+      "Krebsspezifisch 95–99 % und gesamt 99,7 %, jeweils nach 10 Jahren",
+      "Krebsspezifisch 99,7 % und gesamt 95–99 %, jeweils nach 10 Jahren"
+    ],
+    "correct": 3,
+    "tip": "Bedenke, dass das Gesamtüberleben zusätzlich sämtliche nicht tumorbedingten Todesfälle erfasst.",
+    "explanation": "Statement 7.2 (Evidenzlevel 2b, starker Konsens): krebsspezifisches 10-Jahres-Überleben 99,7 %, 10-Jahres-Gesamtüberleben 95–99 %. 97,9 % und 94,9 % sind die stadienunabhängigen 5-Jahres-Werte für Seminome bzw. Nichtseminome (Statement 7.1), 86–95 % das 5-Jahres-Überleben der guten IGCCCG-Prognosegruppe."
+  },
+  {
+    "question": "Wie hoch ist laut Statement 7.3 die 5-Jahres-Überlebenswahrscheinlichkeit metastasierter KZT in der intermediären Prognosegruppe nach IGCCCG?",
+    "options": [
+      "48–64 %",
+      "72–85 %",
+      "86–95 %",
+      "95–99 %"
     ],
     "correct": 1,
-    "tip": "Diese Empfehlung ist als Expertenkonsens mit starkem Konsens ausgewiesen.",
-    "explanation": "Empfehlung 7.6 (Expertenkonsens, starker Konsens) legt fest, dass die Einteilung der metastasierten KZT nach den Prognosekriterien der IGCCCG erfolgen soll."
+    "tip": "Die Überlebensspannen der drei IGCCCG-Gruppen grenzen aneinander, überlappen aber nicht.",
+    "explanation": "Statement 7.3 (Evidenzlevel 2b, starker Konsens): 5-Jahres-Überleben 86–95 % in der guten, 72–85 % in der intermediären und 48–64 % in der schlechten Prognosegruppe. 95–99 % ist das 10-Jahres-Gesamtüberleben im Stadium I."
   },
   {
-    "question": "Wie verändert sich das relative Überleben von KZT-Patienten gegenüber der Allgemeinbevölkerung im Langzeitverlauf (10/20/30 Jahre), und was wird als Hauptursache dafür vermutet?",
+    "question": "Ein 45-jähriger Patient mit reinem Seminom hat retroperitoneale Lymphknoten- und Lebermetastasen, AFP normal, Beta-hCG 2.000 IU/l, LDH 12-fach über der Norm. Wie ist er nach IGCCCG einzuordnen?",
     "options": [
-      "Es bleibt über 30 Jahre konstant bei 99% – keine Verschlechterung.",
-      "Es sinkt von 81,8–95,2% (10 Jahre) über 75,8–93,0% (20 Jahre) auf 62,4–89,4% (30 Jahre), vermutlich bedingt durch Langzeittoxizitäten der Chemo- und Strahlentherapie.",
-      "Es steigt im Zeitverlauf kontinuierlich an, da Spättoxizitäten ausheilen.",
-      "Es ist nur für nichtseminomatöse KZT relevant, bei Seminomen gibt es keinen Unterschied."
+      "Gute Prognose, da AFP normal und hCG unter 5.000 IU/l",
+      "Intermediäre Prognose wegen extrapulmonaler viszeraler Metastasen",
+      "Schlechte Prognose wegen LDH über dem 10-Fachen des Normwerts",
+      "Schlechte Prognose wegen Lebermetastasen und hoher LDH"
     ],
     "correct": 1,
-    "tip": "Neben der tumorbedingten Mortalität spielen hier vor allem kardiovaskuläre und onkologische Spätfolgen der Therapie eine Rolle (siehe Kapitel 12).",
-    "explanation": "Das relative Überleben sinkt von 81,8–95,2% nach 10 Jahren über 75,8–93,0% nach 20 Jahren auf 62,4–89,4% nach 30 Jahren; neben der krebsbedingten Mortalität werden vor allem Langzeittoxizitäten der Chemo- und Strahlentherapie als Ursache vermutet."
+    "tip": "Beim Seminom haben die Markerwerte für die IGCCCG-Gruppe eine andere Bedeutung als beim Nichtseminom.",
+    "explanation": "Nach Tabelle 10 (Kapitel 6.3.2) gehören Seminome mit extrapulmonalen viszeralen Metastasen bei normalem AFP – unabhängig von Beta-hCG und LDH – in die intermediäre Prognosegruppe; eine schlechte Prognosegruppe gibt es für Seminome nicht. Die Grenze LDH > 10 × ULN gilt nur für nichtseminomatöse KZT."
   },
   {
-    "question": "Warum ist die routinemäßige adjuvante Therapie im Stadium I beim Seminom und beim Nichtseminom laut Leitlinientext mit einem hohen Risiko der Übertherapie verbunden?",
+    "question": "Ein 24-jähriger Patient hat einen primär mediastinalen nichtseminomatösen KZT mit pulmonalen Metastasen; AFP 800 ng/ml, Beta-hCG 1.200 IU/l, LDH im Normbereich. Wie ist er nach IGCCCG einzuordnen?",
     "options": [
-      "Weil adjuvante Therapien grundsätzlich unwirksam sind.",
-      "Weil mehr als die Hälfte der Patienten auch ohne adjuvante Therapie rezidivfrei bleibt.",
-      "Weil adjuvante Therapien ausschließlich bei Patienten über 60 Jahren zugelassen sind.",
-      "Weil es im Stadium I per Definition keine Rezidive gibt."
+      "Gute Prognose, da die Marker unter den Grenzwerten liegen",
+      "Intermediäre Prognose wegen der extragonadalen Lokalisation",
+      "Intermediäre Prognose wegen der pulmonalen Metastasierung",
+      "Schlechte Prognose wegen der primär mediastinalen Lokalisation"
+    ],
+    "correct": 3,
+    "tip": "Beim Nichtseminom genügt für die ungünstigste Gruppe bereits ein einziges Kriterium – nicht nur Markerwerte zählen.",
+    "explanation": "Nach Tabelle 10 genügt beim nichtseminomatösen KZT ein Kriterium für die schlechte Prognosegruppe, dazu zählt ein primär mediastinaler Tumor. Gute und intermediäre Prognose setzen einen Primärtumor in Hoden oder Retroperitoneum voraus; Lungenmetastasen gelten nicht als extrapulmonale viszerale Metastasen. Die Einteilung soll nach IGCCCG erfolgen (Empfehlung 7.6, EK)."
+  },
+  {
+    "question": "Worauf führt die Leitlinie neben der krebsbedingten Mortalität vor allem zurück, dass die relative Überlebenswahrscheinlichkeit von KZT-Patienten 20–30 Jahre nach Diagnose weiter sinkt?",
+    "options": [
+      "Auf Spätrezidive mehr als zehn Jahre nach Therapieende",
+      "Auf Langzeittoxizitäten der Chemo- und Strahlentherapie",
+      "Auf metachrone Keimzelltumoren des kontralateralen Hodens",
+      "Auf eine unzureichende Nachsorgeadhärenz junger Patienten"
     ],
     "correct": 1,
-    "tip": "Genau deshalb kommt der risikoadaptierten Stratifizierung mittels prognostischer Faktoren eine zentrale Bedeutung zu.",
-    "explanation": "Da mehr als die Hälfte der Patienten im Stadium I auch ohne adjuvante Therapie rezidivfrei bleibt, besteht ein hohes Risiko der Übertherapie; eine risikoadaptierte, auf prognostischen Faktoren basierende Therapie soll dieses Risiko senken."
+    "tip": "Bei einer fast immer heilbaren Erkrankung rücken mit der Zeit die Folgen der Behandlung selbst in den Blick.",
+    "explanation": "Laut Kapitel 7.1.1 liegt die relative Überlebenswahrscheinlichkeit gegenüber der Allgemeinbevölkerung bei 81,8–95,2 % nach 10, 75,8–93,0 % nach 20 und 62,4–89,4 % nach 30 Jahren. Als Ursache werden neben der krebsbedingten Mortalität vor allem Langzeittoxizitäten von Chemo- und Strahlentherapie vermutet."
   },
   {
-    "question": "Welche weiteren histopathologischen Faktoren wurden neben der lymphovaskulären Invasion beim nichtseminomatösen KZT im Stadium I als mögliche prognostische Faktoren für ein Rezidiv beschrieben?",
+    "question": "Ab welchem AFP-Wert wird ein metastasierter nichtseminomatöser KZT nach IGCCCG unabhängig von den übrigen Kriterien der schlechten Prognosegruppe zugeordnet?",
     "options": [
-      "Eine Proliferationsrate im Primärtumorpräparat > 70% und ein Anteil an embryonalem Karzinomgewebe > 50%.",
-      "Ausschließlich das Patientenalter bei Erstdiagnose.",
-      "Der histologische Nachweis einer begleitenden GCNIS allein, unabhängig von anderen Faktoren.",
-      "Die Tumorgröße allein, analog zum Seminom."
+      "> 1.000 ng/ml",
+      "> 5.000 ng/ml",
+      "> 10.000 ng/ml",
+      "> 50.000 ng/ml"
     ],
-    "correct": 0,
-    "tip": "Diese beiden Faktoren wurden in der aktuellen Literatur zusätzlich zur lymphovaskulären Invasion bestätigt.",
-    "explanation": "Als weitere prognostische Faktoren beim nichtseminomatösen KZT im Stadium I wurden eine Proliferationsrate im Primärtumorpräparat von über 70% und ein Anteil an embryonalem Karzinomgewebe von über 50% beschrieben, deren Bedeutung die aktuelle Literatur neben der lymphovaskulären Invasion bestätigt."
+    "correct": 2,
+    "tip": "Bei AFP und Beta-hCG steigen die IGCCCG-Schwellen von Gruppe zu Gruppe jeweils um eine Zehnerpotenz.",
+    "explanation": "Laut Tabelle 10 (IGCCCG 1997) ordnet beim Nichtseminom ein AFP > 10.000 ng/ml in die schlechte Prognosegruppe ein, 1.000–10.000 ng/ml in die intermediäre; < 1.000 ng/ml ist Voraussetzung der guten Prognose. 5.000 und 50.000 sind die Beta-hCG-Grenzen in IU/l."
+  },
+  {
+    "question": "Warum ist eine adjuvante Therapie im klinischen Stadium I laut Kapitel 7.2 mit einem hohen Risiko der Übertherapie verbunden?",
+    "options": [
+      "Weil Rezidive im Stadium I meist erst nach über zehn Jahren auftreten",
+      "Weil adjuvante Therapien die Rezidivrate im Stadium I nicht senken",
+      "Weil mehr als die Hälfte ohne adjuvante Therapie rezidivfrei bleibt",
+      "Weil die Rezidivrate unter reiner Überwachung unter 5 % liegt"
+    ],
+    "correct": 2,
+    "tip": "Überlege, wie viele Patienten von einer Behandlung profitieren können, wenn ein Großteil ohnehin gesund bliebe.",
+    "explanation": "Kapitel 7.2: Sowohl beim Seminom als auch beim Nichtseminom bleibt mehr als die Hälfte der Patienten im Stadium I auch ohne adjuvante Therapie rezidivfrei; eine risikoadaptierte Therapie anhand prognostischer Faktoren soll die Übertherapie senken. Ein Rezidivrisiko < 5 % gilt nur für Seminome < 4 cm ohne stromale Rete-testis-Infiltration (Statement 7.5)."
   }
 ]

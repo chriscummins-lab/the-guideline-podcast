@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie verteilen sich Keimzelltumoren laut Statement 8.51 zwischen gonadaler und primär extragonadaler Lokalisation?",
+    "question": "Ein 24-jähriger Patient hat einen primär mediastinalen nichtseminomatösen Keimzelltumor mit AFP-Erhöhung, aber ohne weitere Metastasen. Welcher IGCCCG-Prognosegruppe wird er laut Leitlinie zugeordnet?",
     "options": [
-      "95% gonadal, 5% primär extragonadal.",
-      "50% gonadal, 50% extragonadal.",
-      "100% gonadal – extragonadale KZT existieren laut Leitlinie nicht als eigene Entität.",
-      "70% extragonadal, nur 30% gonadal."
+      "Gute Prognose, da keine extramediastinalen Metastasen vorliegen",
+      "Schlechte Prognose, unabhängig von Ausbreitung und Markerhöhe",
+      "Intermediäre Prognose, abhängig von der Höhe des AFP-Werts",
+      "Gute oder intermediäre Prognose, abhängig vom LDH-Wert"
+    ],
+    "correct": 1,
+    "tip": "Vergleiche, wie die IGCCCG das mediastinale Seminom und das mediastinale Nichtseminom einstuft.",
+    "explanation": "Empfehlung 8.55 (EK) und Kapitel 8.6.2: Mediastinale nichtseminomatöse Keimzelltumoren werden ungeachtet der metastatischen Ausbreitung oder der Markerwerte der schlechten Prognosegruppe zugeordnet; ihre Chemosensitivität ist reduziert. Das primär mediastinale Seminom gilt dagegen als gute Prognosegruppe (3 × PEB oder 4 × PE)."
+  },
+  {
+    "question": "Bei einem Patienten mit primär mediastinalem Nichtseminom wird die Erstlinientherapie geplant. Welches Vorgehen entspricht der Leitlinie?",
+    "options": [
+      "4 Zyklen PEB, bei Ansprechen Resektion der Residuen über 1 cm",
+      "3 Zyklen PEB, Residualtumorresektion erst nach Markernormalisierung",
+      "Verzicht auf Bleomycin, bei Ansprechen Resektion aller sichtbaren Residuen",
+      "Verzicht auf Bleomycin, bei Ansprechen Bestrahlung des Mediastinums"
+    ],
+    "correct": 2,
+    "tip": "Bedenke, welche Operation nach der Chemotherapie bei dieser Lokalisation häufig ansteht und welche Substanz dann stört.",
+    "explanation": "Empfehlung 8.56 (Empfehlungsgrad A/B/0): Wegen der häufig erforderlichen ausgedehnten thorakalen Resektion sollte auf Bleomycin verzichtet werden; primär kann eine Hochdosis-Chemotherapie erfolgen, bei Ansprechen soll eine Resektion der Residuen an einem Expertenzentrum erfolgen. Angestrebt wird die Resektion aller sichtbaren Residuen (auch < 1 cm); noch erhöhte AFP-Werte stehen einer Operation nicht entgegen."
+  },
+  {
+    "question": "Bei einem 33-jährigen Patienten wird eine große retroperitoneale Raumforderung mit erhöhtem AFP festgestellt; ein extragonadaler Keimzelltumor wird vermutet. Welche Untersuchung ist laut Leitlinie obligat?",
+    "options": [
+      "Sonographie beider Hoden zum Ausschluss eines gonadalen Tumors",
+      "MRT des Neurokraniums zum Ausschluss eines Pinealistumors",
+      "Bilaterale Hodenbiopsie zum Nachweis einer GCNIS",
+      "FDG-PET/CT zur Abgrenzung gegenüber einem Lymphom"
     ],
     "correct": 0,
-    "tip": "Die häufigsten extragonadalen Lokalisationen sind das vordere Mediastinum (50–70%) und das Retroperitoneum (30–40%).",
-    "explanation": "Statement 8.51 (geprüft 2026) gibt an, dass 95% aller Keimzelltumoren des Mannes im Hoden auftreten und 5% primär extragonadal lokalisiert sind."
+    "tip": "Überlege, welche Differenzialdiagnose bei einem Mann mit unklarem retroperitonealem Keimzelltumor zuerst geklärt werden muss.",
+    "explanation": "Kapitel 8.6.1: Bei Verdacht auf einen extragonadalen Keimzelltumor ist eine Hodensonographie zum Ausschluss eines gonadalen Tumors obligat; retroperitoneale Tumoren sind oft mit einem ausgebrannten Hodentumor vergesellschaftet, bei über 10 % wurden spätere Hodentumoren beschrieben. Die Diagnose soll grundsätzlich bioptisch gesichert werden; bei Kontraindikation genügt eine eindeutige Markerkonstellation (Empfehlung 8.52, EK)."
   },
   {
-    "question": "In welche IGCCCG-Prognosegruppe werden primär mediastinale nichtseminomatöse extragonadale KZT laut Leitlinientext eingestuft, unabhängig von Metastasierung oder Tumormarkerwerten?",
+    "question": "Ein 29-jähriger Patient mit Nichtseminom hat bei Erstdiagnose multiple Lungenmetastasen und zwei Hirnmetastasen. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Immer in die gute Prognosegruppe.",
-      "Immer in die schlechte Prognosegruppe (Stadium III).",
-      "Je nach individuellem Fall in gute oder intermediäre Prognosegruppe.",
-      "Sie werden von der IGCCCG-Klassifikation generell ausgenommen."
+      "Primär Ganzhirnbestrahlung, anschließend 3 Zyklen PEB wie bei guter Prognose",
+      "4 Zyklen PEI oder PEB wie bei schlechter Prognose; Hochdosis-Therapie evaluieren",
+      "Primäre neurochirurgische Resektion beider Herde, danach 4 Zyklen PEB",
+      "4 Zyklen PEB wie bei intermediärer Prognose; Strahlentherapie als Ganzhirnradiatio"
     ],
     "correct": 1,
-    "tip": "Diese automatische Zuordnung spiegelt die ungünstigere Prognose dieser Tumorlokalisation wider, unter anderem wegen reduzierter Chemosensitivität.",
-    "explanation": "Alle Patienten mit mediastinalem nichtseminomatösem extragonadalem KZT werden laut IGCCCG-Klassifikation ungeachtet der metastatischen Ausbreitung oder der Serumtumormarkerwerte in die schlechte Prognosegruppe (Stadium III) eingestuft."
+    "tip": "Seminome und Nichtseminome mit Hirnmetastasen werden unterschiedlichen IGCCCG-Gruppen gleichgestellt.",
+    "explanation": "Empfehlungen 8.58 (Grad A) und 8.59 (Grad B): Patienten mit Hirnmetastasen bei Erstdiagnose sollen 4 Zyklen Chemotherapie (PEI, alternativ PEB) analog der schlechten Prognose (Nichtseminom) bzw. der intermediären Prognose (Seminom) erhalten; eine primäre Hochdosis-Chemotherapie sollte evaluiert werden. Ist eine zerebrale Radiotherapie indiziert, soll sie nach Möglichkeit stereotaktisch erfolgen (Empfehlung 8.61); der Nutzen einer alleinigen Resektion ist nicht belegt."
   },
   {
-    "question": "Warum soll laut Empfehlung 8.56 bei primär mediastinalem nichtseminomatösem KZT auf die Gabe von Bleomycin verzichtet werden?",
+    "question": "Ein 36-jähriger HIV-positiver Patient mit metastasiertem Nichtseminom der guten Prognosegruppe soll 3 Zyklen PEB erhalten. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Weil Bleomycin bei dieser Entität grundsätzlich unwirksam ist.",
-      "Aufgrund der häufig erforderlichen ausgedehnten thorakalen Resektion.",
-      "Weil Bleomycin nur bei Seminomen zugelassen ist.",
-      "Weil dies gesetzlich vorgeschrieben ist, unabhängig von klinischen Gründen."
-    ],
-    "correct": 1,
-    "tip": "Die pulmonale Toxizität von Bleomycin würde das Risiko bei der anschließend oft notwendigen ausgedehnten Lungen- bzw. Thoraxchirurgie deutlich erhöhen.",
-    "explanation": "Empfehlung 8.56 (Grad A/B/0) begründet den Verzicht auf Bleomycin bei mediastinalem nichtseminomatösem KZT mit der häufig erforderlichen ausgedehnten thorakalen Resektion."
-  },
-  {
-    "question": "Mit welcher Chemotherapie sollen Patienten mit Hirnmetastasen bei Erstdiagnose laut Empfehlung 8.58 behandelt werden?",
-    "options": [
-      "3 Zyklen PEB wie bei guter Prognosegruppe.",
-      "4 Zyklen Chemotherapie (PEI, alternativ PEB) analog der IGCCCG-Klassifikation für intermediäre bzw. schlechte Prognose.",
-      "1 Zyklus Carboplatin AUC7.",
-      "Ausschließlich eine Ganzhirnbestrahlung ohne systemische Chemotherapie."
-    ],
-    "correct": 1,
-    "tip": "Zusätzlich sollte laut Empfehlung 8.59 eine primäre Hochdosis-Chemotherapie evaluiert werden.",
-    "explanation": "Empfehlung 8.58 (Grad A, modifiziert 2026) sieht bei Hirnmetastasen bei Erstdiagnose 4 Zyklen Chemotherapie (PEI, alternativ PEB) analog der IGCCCG-Klassifikation für intermediäre (Seminome) bzw. schlechte Prognose (Nichtseminome) vor."
-  },
-  {
-    "question": "Welche Bestrahlungstechnik soll laut Empfehlung 8.61 bei Indikation zur zerebralen Radiotherapie bevorzugt eingesetzt werden, und warum?",
-    "options": [
-      "Die Ganzhirnbestrahlung, da sie die höchste lokale Kontrolle bietet.",
-      "Die stereotaktische Radiotherapie, nach Möglichkeit, aufgrund geringerer Langzeittoxizität im Vergleich zur Ganzhirnradiatio.",
-      "Eine Brachytherapie mit permanenten Seeds im Hirnparenchym.",
-      "Grundsätzlich keine Bestrahlung, da diese bei ZNS-Metastasen kontraindiziert ist."
-    ],
-    "correct": 1,
-    "tip": "Aufgrund beschriebener Langzeittoxizitäten nach Ganzhirnradiatio wird, wann immer möglich, die stereotaktische Variante angestrebt.",
-    "explanation": "Empfehlung 8.61 (Grad A, modifiziert 2026) fordert bei Indikation zur zerebralen Radiotherapie eine möglichst stereotaktische Durchführung, um die Langzeittoxizität gegenüber der Ganzhirnbestrahlung zu reduzieren."
-  },
-  {
-    "question": "Welche kumulative Gesamtdosis von Bleomycin darf laut Leitlinientext lebenslang nicht überschritten werden, und warum?",
-    "options": [
-      "400 mg, da die pulmonale Toxizität (Pneumonitis, Lungenfibrose) dosisabhängig ist.",
-      "4000 mg, da Bleomycin keine relevante Organtoxizität aufweist.",
-      "Es gibt keine Obergrenze, solange die Nierenfunktion normal ist.",
-      "40 mg, da schon geringste Dosen zu Lungenfibrose führen."
+      "CD4-Zellzahl vor jedem Zyklus; bei < 200/µl Cotrimoxazol-Prophylaxe",
+      "Primärprophylaxe mit G-CSF und Antibiotika ab dem ersten Zyklus erforderlich",
+      "Reduktion auf 2 Zyklen PEB, da die HIV-Infektion die Toxizität erhöht",
+      "Antiretrovirale Therapie erst nach Abschluss der Chemotherapie beginnen"
     ],
     "correct": 0,
-    "tip": "Diese Grenze entspricht etwa vier Zyklen PEB.",
-    "explanation": "Die pulmonale Toxizität von Bleomycin ist dosisabhängig, weshalb eine kumulative Gesamtdosis von 400 mg lebenslang nicht überschritten werden darf (entspricht etwa vier Zyklen PEB)."
+    "tip": "Unter moderner antiretroviraler Therapie unterscheiden sich die Überlebensraten kaum noch von denen ohne HIV.",
+    "explanation": "Empfehlungen 8.72–8.74: Patienten mit HIV sollen vor bzw. mit Einleitung der Chemotherapie eine moderne antiretrovirale Therapie unter Beachtung von Wechselwirkungen erhalten (Grad A); vor jedem Zyklus soll die CD4-Zellzahl bestimmt werden, bei < 200/µl sollte eine Cotrimoxazol-Prophylaxe erfolgen (EK). Eine primärprophylaktische G-CSF-Gabe (außer bei PEI) und eine antibiotische Prophylaxe sind nicht erforderlich (Statement 8.73)."
   },
   {
-    "question": "Welchen Risikofaktor für eine Bleomycin-induzierte pulmonale Toxizität nennt eine retrospektive Studie mit einer 5,2-fach erhöhten Risikosteigerung?",
+    "question": "Ein 35-jähriger Patient mit metastasiertem Seminom hat bei Erstdiagnose Knochenmetastasen. Wie soll er laut Leitlinie behandelt werden?",
     "options": [
-      "Rauchen.",
-      "Vegetarische Ernährung.",
-      "Männliches Geschlecht (ohnehin alle Patienten betroffen).",
-      "Ein Alter unter 25 Jahren."
-    ],
-    "correct": 0,
-    "tip": "Raucher gehören neben Patienten mit Nierenfunktionsstörungen, höherem Alter und ausgedehnter pulmonaler Metastasierung zu den definierten Risikogruppen.",
-    "explanation": "Raucher wiesen in einer retrospektiven Studie unter Bleomycin-Therapie ein 5,2-fach erhöhtes Risiko für eine pulmonale Toxizität auf."
-  },
-  {
-    "question": "Was soll laut Empfehlung 8.69 vor Einleitung der Chemotherapie bei tumorbedingter Hydronephrose erfolgen?",
-    "options": [
-      "Eine sofortige Nephrektomie der betroffenen Seite.",
-      "Die Entlastung der Hydronephrose (z. B. Ureterschienung oder perkutane Nephrostomie).",
-      "Keine Maßnahme – die Chemotherapie beginnt unabhängig vom Nierenstatus.",
-      "Eine primäre Dialyse unabhängig von der tatsächlichen Nierenfunktion."
+      "Mit 3 Zyklen PEB analog der guten Prognosegruppe",
+      "Mit 4 Zyklen PEB oder PEI analog der intermediären Prognose",
+      "Mit primärer Hochdosis-Chemotherapie als neuem Standard",
+      "Mit 2 Zyklen PE und anschließender Bestrahlung der Knochenherde"
     ],
     "correct": 1,
-    "tip": "Bei adäquater Erholung der Nierenfunktion nach Entlastung ist anschließend eine Cisplatin-basierte Standardtherapie möglich.",
-    "explanation": "Empfehlung 8.69 (Expertenkonsens, starker Konsens) fordert, dass eine tumorbedingte Hydronephrose vor Einleitung der Chemotherapie entlastet werden soll, etwa durch Ureterschienung oder perkutane Nephrostomie."
+    "tip": "Bei Knochenmetastasen trennt die Leitlinie die Prognose von Seminom und Nichtseminom deutlich.",
+    "explanation": "Empfehlung 8.62 (Empfehlungsgrad A): Patienten mit Knochenmetastasen bei Erstdiagnose sollen 4 Zyklen Chemotherapie (PEB, PEI) analog der intermediären Prognose (Seminom) bzw. der schlechten Prognose (Nichtseminom) erhalten; Seminompatienten mit Knochenmetastasen unterscheiden sich nicht von anderen Patienten mit intermediärer Prognose. Eine primäre Hochdosis-Chemotherapie ist kein Standard, sollte aber individuell evaluiert werden (Empfehlung 8.64, Grad B)."
   },
   {
-    "question": "Warum soll Cisplatin laut Empfehlung 8.70 bei eingeschränkter Nierenfunktion NICHT generell durch Carboplatin ersetzt werden?",
+    "question": "Bei einem Patienten mit metastasiertem Keimzelltumor zeigt die Biopsie einen klinisch dominierenden Anteil eines Rhabdomyosarkoms (somatische Malignität). Welche Behandlung sollte laut Leitlinie bevorzugt werden?",
     "options": [
-      "Weil Carboplatin-basierte Chemotherapie mit erhöhten Rezidivraten und erhöhter tumorbedingter Mortalität einhergeht und daher begründeten Einzelfällen vorbehalten bleiben sollte.",
-      "Weil Carboplatin grundsätzlich teurer ist als Cisplatin.",
-      "Weil Carboplatin bei Keimzelltumoren überhaupt nicht wirksam ist.",
-      "Weil Carboplatin ausschließlich intrathekal verabreicht werden kann."
+      "4 Zyklen PEB analog der schlechten IGCCCG-Prognosegruppe",
+      "Primäre Hochdosis-PEI mit autologer Stammzelltransplantation",
+      "3 Zyklen PEB, gefolgt von einer Bestrahlung der Residuen",
+      "Eine am Sarkom orientierte, histologiespezifische Therapie"
     ],
-    "correct": 0,
-    "tip": "Mehrere randomisierte Studien (EORTC, deutsche und nordamerikanische Studien) zeigten unter Carboplatin signifikant schlechtere Ansprechraten und höhere Rezidivraten als unter Cisplatin.",
-    "explanation": "Empfehlung 8.70/8.71 betont, dass Cisplatin bei eingeschränkter Nierenfunktion nicht generell durch Carboplatin ersetzt werden soll, da Carboplatin-basierte Chemotherapie mit erhöhten Rezidivraten und erhöhter tumorbedingter Mortalität assoziiert ist; die Entscheidung erfolgt individuell nach Rücksprache mit einem Expertenzentrum."
+    "correct": 3,
+    "tip": "Überlege, welche Tumorkomponente das klinische Geschehen bestimmt und worauf sie anspricht.",
+    "explanation": "Empfehlung 8.67 (EK): Bei metastasiertem Keimzelltumor mit somatischer Malignität soll die Vorstellung in einem Expertenzentrum erfolgen; bei überwiegendem oder klinisch dominierendem Anteil der somatischen Malignität sollte eine histologiespezifische Systemtherapie bevorzugt, bei geringem Anteil eine keimzelltumorbasierte Therapie erwogen werden. Zusätzlich soll eine vollständige Resektion aller Tumormanifestationen angestrebt werden."
   },
   {
-    "question": "Wie wird die kurative Chemotherapie laut Leitlinientext bei Patienten mit dialysepflichtiger terminaler Niereninsuffizienz und metastasiertem KZT gestaltet?",
+    "question": "Ein 46-jähriger langjähriger Raucher mit obstruktiver Lungenerkrankung und Nichtseminom der guten Prognosegruppe soll eine Chemotherapie erhalten. Welche Aussage zu Bleomycin trifft laut Leitlinie zu?",
     "options": [
-      "Sie wird grundsätzlich nicht durchgeführt, da sie als zu riskant gilt.",
-      "Sie kann weiterhin Cisplatin-basiert durchgeführt werden, da keine erhöhte Toxizität zu erwarten ist, erfordert aber hohe Expertise und interdisziplinäre Zusammenarbeit mit der Nephrologie.",
-      "Sie wird ausschließlich mit oraler Chemotherapie ohne jede Platin-Komponente durchgeführt.",
-      "Sie erfolgt zwingend mit einer um 90% reduzierten Cisplatin-Dosis."
+      "Bleomycin ist unbedenklich, solange die kumulative Dosis unter 400 mg bleibt",
+      "Bleomycin ist bereits wegen des Alters über 40 Jahre kontraindiziert",
+      "Bei zwei Risikofaktoren ist eine kritische Abwägung der Bleomycingabe angezeigt",
+      "G-CSF ist wegen erhöhter pulmonaler Toxizität unter Bleomycin zu vermeiden"
     ],
-    "correct": 1,
-    "tip": "Entscheidend ist hier die enge interdisziplinäre Abstimmung zwischen Onkologie/Urologie und Nephrologie.",
-    "explanation": "Bei dialysepflichtiger terminaler Niereninsuffizienz lässt sich die Therapie Cisplatin-basiert durchführen, da hier keine erhöhte Toxizität zu erwarten ist; das Management bedarf jedoch hoher Expertise und interdisziplinärer Zusammenarbeit mit der Nephrologie."
+    "correct": 2,
+    "tip": "Bedenke, dass Raucher unter Bleomycin ein mehrfach erhöhtes Risiko für eine pulmonale Toxizität haben.",
+    "explanation": "Kapitel 8.7.1: Alter > 40 Jahre sowie restriktive/obstruktive Lungenerkrankungen und langjähriges Rauchen sind Risikofaktoren; bei einem Faktor ist eine sorgfältige Nutzen-Risiko-Abwägung, bei zwei Faktoren eine kritische Abwägung der Bleomycingabe angezeigt. Die kumulative Lebensdosis von 400 mg (etwa vier Zyklen PEB) darf nicht überschritten werden, schützt aber nicht vor Toxizität; G-CSF erhöhte die pulmonale Toxizität nicht."
+  },
+  {
+    "question": "Wie sollte die pulmonale Toxizität unter einer Bleomycin-haltigen Chemotherapie laut Leitlinie überwacht werden?",
+    "options": [
+      "Lungenfunktion vor dem ersten und nach dem letzten Zyklus; Abbruch bei Dyspnoe",
+      "Lungenfunktion vor jedem Zyklus; Abbruch bei DLCO-Abfall um ≥ 10 %",
+      "Röntgen-Thorax vor jedem Zyklus; Abbruch bei neu aufgetretenen Infiltraten",
+      "Lungenfunktion vor jedem Zyklus; Abbruch bei DLCO-Abfall um ≥ 25 %"
+    ],
+    "correct": 3,
+    "tip": "Die CT zeigt nach PEB bei bis zu 80 % pulmonale Veränderungen – nicht jede davon ist klinisch relevant.",
+    "explanation": "Kapitel 8.7.1: Am besten etabliert sind Lungenfunktionsprüfungen vor jedem Therapiezyklus mit Beendigung der Bleomycin-Gabe bei einem signifikanten Abfall der DLCO um ≥ 25 % und/oder der Vitalkapazität. Bei Verdacht auf Bleomycin-induzierte Toxizität, etwa bei neu auftretendem Husten, ist frühzeitig eine hochauflösende CT der Lunge sinnvoll."
+  },
+  {
+    "question": "Ein 27-jähriger Patient mit Nichtseminom und großen retroperitonealen Lymphknotenmetastasen hat eine beidseitige Harnstauung mit Kreatininanstieg. Welches Vorgehen entspricht der Leitlinie?",
+    "options": [
+      "Primär Carboplatin statt Cisplatin, da die Nierenfunktion eingeschränkt ist",
+      "Cisplatin mit 50 % Dosisreduktion bis zur Normalisierung der Nierenfunktion",
+      "Primär Chemotherapie, da die Lymphknoten unter Therapie die Ureteren freigeben",
+      "Entlastung der Hydronephrose vor Beginn der Cisplatin-basierten Chemotherapie"
+    ],
+    "correct": 3,
+    "tip": "Überlege, was die Ursache einer Nierenfunktionsstörung bei jungen Patienten mit retroperitonealer Tumorlast meist ist.",
+    "explanation": "Empfehlungen 8.69 und 8.70 (EK): Eine tumorbedingte Hydronephrose soll vor Einleitung der Chemotherapie entlastet werden (Ureterschiene oder Nephrostomie); bei adäquater Erholung ist Cisplatin in Standarddosierung indiziert, und Cisplatin soll nicht generell durch Carboplatin ersetzt werden. Erst bei trotz Entlastung anhaltender GFR von 30–50 ml/min/1,73 m² ist eine Carboplatin-basierte Kombination sinnvoll."
   }
 ]

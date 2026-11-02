@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Kombination stellt laut Statement 8.30 das Standardregime der Polychemotherapie für die metastasierte Keimzelltumor-Erkrankung dar?",
+    "question": "Ein 25-jähriger Patient mit metastasiertem Nichtseminom im Stadium IIC wird der guten Prognosegruppe nach IGCCCG zugeordnet; Kontraindikationen gegen Bleomycin bestehen nicht. Welche Chemotherapie soll er erhalten?",
     "options": [
-      "Vinblastin, Bleomycin und Cisplatin (VBP).",
-      "Cisplatin, Etoposid und Bleomycin (PEB).",
-      "Carboplatin als Monotherapie.",
-      "Docetaxel, Cisplatin und Ifosfamid."
+      "3 Zyklen PEB mit Cisplatin und Etoposid über jeweils 5 Tage",
+      "3 Zyklen PEB mit dosisdichter Applikation über jeweils 3 Tage",
+      "4 Zyklen PE ohne Bleomycin zur Vermeidung der Lungentoxizität",
+      "4 Zyklen PEB entsprechend der intermediären Prognosegruppe"
+    ],
+    "correct": 0,
+    "tip": "Mehrere Studien prüften eine Verdichtung der Zyklen – mit ernüchterndem Ergebnis für Wirksamkeit oder Toxizität.",
+    "explanation": "Empfehlungen 8.33 und 8.40 (Empfehlungsgrad A): Bei guter Prognose sollen 3 Zyklen PEB mit Applikation von Cisplatin und Etoposid über 5 Tage erfolgen; 4 Zyklen PE sind Patienten mit Kontraindikationen gegen Bleomycin vorbehalten. Die Verkürzung auf drei Tage war entweder toxischer (Oto- und Nephrotoxizität) oder weniger wirksam."
+  },
+  {
+    "question": "Ein 52-jähriger Patient mit metastasiertem Seminom der intermediären Prognosegruppe hat eine Kontraindikation gegen Bleomycin. Welche Chemotherapie soll er laut Leitlinie erhalten?",
+    "options": [
+      "4 Zyklen PE ohne Ersatz des Bleomycins",
+      "4 Zyklen PEI mit primärer G-CSF-Prophylaxe",
+      "4 Zyklen Carboplatin plus Etoposid (CE)",
+      "3 Zyklen PEI mit sekundärer G-CSF-Prophylaxe"
     ],
     "correct": 1,
-    "tip": "Das ursprüngliche VBP-Schema wurde wegen geringerer Wirksamkeit und schlechterer gastrointestinaler Verträglichkeit abgelöst.",
-    "explanation": "Statement 8.30 (geprüft 2026) nennt die Kombination aus Cisplatin, Etoposid und Bleomycin (PEB) als Standardregime der Polychemotherapie für die metastasierte Erkrankung."
+    "tip": "Unterscheide, welcher Bleomycin-Ersatz bei guter und welcher bei intermediärer Prognose vorgesehen ist.",
+    "explanation": "Empfehlung 8.41 (Empfehlungsgrad A): Beim metastasierten Seminom mit intermediärer Prognose sollen 4 Zyklen PEB, bei Kontraindikationen gegen Bleomycin 4 Zyklen PEI erfolgen; wegen der höheren Hämatotoxizität soll G-CSF bei PEI primär prophylaktisch eingesetzt werden (Empfehlung 8.32, Grad A). 4 Zyklen PE sind die Alternative bei guter Prognose, Carboplatin-Kombinationen waren Cisplatin unterlegen."
   },
   {
-    "question": "Welche Chemotherapie sollen Patienten mit metastasiertem KZT im Stadium IIC/III der guten IGCCCG-Prognosegruppe laut Empfehlung 8.33 erhalten?",
+    "question": "Welche Aussage zum Einsatz von G-CSF bei der Erstlinienchemotherapie metastasierter Keimzelltumoren entspricht der Leitlinie?",
     "options": [
-      "3 Zyklen PEB mit Applikation von Cisplatin und Etoposid über 5 Tage.",
-      "6 Zyklen PEB wie bei schlechter Prognosegruppe.",
-      "Eine alleinige Hochdosis-Chemotherapie mit Stammzelltransplantation.",
-      "1 Zyklus Carboplatin AUC7."
+      "Bei PEB soll G-CSF primär prophylaktisch ab dem ersten Zyklus gegeben werden",
+      "Bei PEI sollte G-CSF erst nach neutropenem Fieber im Vorzyklus gegeben werden",
+      "Bei PEB sollte G-CSF nach neutropenem Fieber im Vorzyklus eingesetzt werden",
+      "Bei PEB und PEI kann auf G-CSF zugunsten einer Dosisreduktion verzichtet werden"
+    ],
+    "correct": 2,
+    "tip": "Das Ifosfamid-haltige Regime ist deutlich hämatotoxischer als das Bleomycin-haltige.",
+    "explanation": "Empfehlung 8.31 (Empfehlungsgrad B): Bei PEB sollten Wachstumsfaktoren als Sekundärprophylaxe nach neutropenem Fieber im vorherigen Zyklus und bei prolongierter Neutropenie mit Gefahr der Therapieverzögerung eingesetzt werden. Beim PEI-Regime soll G-CSF dagegen primär prophylaktisch gegeben werden (Empfehlung 8.32, Grad A)."
+  },
+  {
+    "question": "Ein 23-jähriger Patient mit Nichtseminom der schlechten Prognosegruppe hat eine ausgedehnte pulmonale Metastasenlast; eine spätere thorakale Metastasektomie ist absehbar. Welche Erstlinientherapie empfiehlt die Leitlinie?",
+    "options": [
+      "4 Zyklen PEB mit sekundärer G-CSF-Prophylaxe am Expertenzentrum",
+      "3 Zyklen Hochdosis-PEI mit autologer Stammzelltransplantation",
+      "4 Zyklen PEB plus Paclitaxel mit Therapie am Expertenzentrum",
+      "4 Zyklen PEI mit primärer G-CSF-Prophylaxe am Expertenzentrum"
+    ],
+    "correct": 3,
+    "tip": "Bedenke, welche Substanz bei hoher pulmonaler Tumorlast und geplanter Lungenchirurgie problematisch ist.",
+    "explanation": "Empfehlung 8.44 (Empfehlungsgrad A): Bei schlechter Prognose und Kontraindikationen gegen Bleomycin, ausgedehnter pulmonaler Metastasenlast und/oder erwarteter thorakaler Metastasektomie sollen 4 Zyklen PEI an einem Expertenzentrum erfolgen. Eine primäre Hochdosis-Chemotherapie soll für unselektierte Patienten mit schlechter Prognose nicht durchgeführt werden (Empfehlung 8.47), die Zugabe von Paclitaxel brachte keinen Überlebensvorteil."
+  },
+  {
+    "question": "Bei einem Patienten mit Nichtseminom der schlechten Prognosegruppe wird nach Beginn der PEB-Chemotherapie die Markerhalbwertszeit berechnet. Ab welchen Werten gilt der Markerabfall laut Leitlinie als inadäquat?",
+    "options": [
+      "AFP > 7 Tage oder Beta-hCG > 3 Tage",
+      "AFP > 5 Tage oder Beta-hCG > 1,5 Tage",
+      "AFP > 7 Tage und Beta-hCG > 3 Tage",
+      "AFP > 14 Tage oder Beta-hCG > 7 Tage"
     ],
     "correct": 0,
-    "tip": "Die gute Prognosegruppe benötigt im Vergleich zur intermediären oder schlechten Gruppe die am wenigsten intensive Standardchemotherapie.",
-    "explanation": "Empfehlung 8.33 (Grad A, starker Konsens) sieht für Patienten der guten IGCCCG-Prognosegruppe eine Polychemotherapie mit 3 Zyklen PEB vor, mit Cisplatin und Etoposid über jeweils 5 Tage appliziert."
+    "tip": "Achte darauf, ob bereits ein einzelner Marker mit verlängerter Halbwertszeit für die Definition ausreicht.",
+    "explanation": "Kapitel 8.5.7.1: Eine prolongierte Halbwertszeit liegt bei > 7 Tagen für AFP bzw. > 3 Tagen für Beta-hCG vor, wobei bereits ein Marker ausreicht; vor jedem Zyklus soll der Markerabfall analysiert werden (Empfehlung 8.48, Grad A). 5 bzw. 1,5 Tage sind die physiologischen Eliminationshalbwertszeiten von AFP und Beta-hCG."
   },
   {
-    "question": "Welche Chemotherapie sollen Patienten mit intermediärer IGCCCG-Prognose (Seminom oder Nichtseminom) laut Empfehlungen 8.41/8.42 erhalten, und welche Alternative gilt bei Bleomycin-Kontraindikation?",
+    "question": "Ein 20-jähriger Patient mit Nichtseminom, ausgedehnter pulmonaler Metastasierung, Hypoxämie und sehr hohem Beta-hCG wird intensivmedizinisch aufgenommen. Welches initiale Vorgehen kann laut Leitlinie erwogen werden?",
     "options": [
-      "4 Zyklen PEB; bei Kontraindikation gegen Bleomycin 4 Zyklen PEI.",
-      "3 Zyklen PEB in jedem Fall, unabhängig von Kontraindikationen.",
-      "1 Zyklus Carboplatin AUC7 als Standardtherapie.",
-      "2 Zyklen PE ohne weitere Alternative."
+      "Dosisreduzierte PEB-Induktion über 2–3 Tage, danach um einen Zyklus verkürzte Therapie",
+      "Volldosierte PEB-Therapie ab Tag 1, da eine Dosisreduktion die Prognose verschlechtert",
+      "Dosisreduzierte PE-Induktion über 2–3 Tage, danach die volle Zahl an Standardzyklen",
+      "Carboplatin-Monotherapie bis zur Stabilisierung, danach Wechsel auf 4 Zyklen PEI"
     ],
-    "correct": 0,
-    "tip": "PEI zeigte vergleichbare Wirksamkeit, jedoch eine höhere Hämatotoxizität als PEB.",
-    "explanation": "Empfehlungen 8.41 und 8.42 (Grad A) sehen für Patienten mit intermediärer Prognose 4 Zyklen PEB vor; bei Kontraindikationen gegen Bleomycin sollen 4 Zyklen PEI gegeben werden."
+    "correct": 2,
+    "tip": "Denke an das Chorionkarzinom-Syndrom mit alveolärer Hämorrhagie und daran, welche Substanz die Lunge zusätzlich belastet.",
+    "explanation": "Kapitel 8.5.2.1: Bei hochsymptomatischer, vital bedrohlicher pulmonaler Tumorlast kann eine dosisreduzierte zytoreduktive PE-Induktion über zwei bis drei Tage (ca. 40–60 % der Standarddosis) erwogen werden; Bleomycin sollte initial nicht eingesetzt werden. Nach der Hochrisikophase soll die volle Zahl der geplanten Standardzyklen ohne Reduktion der Gesamtzykluszahl verabreicht werden, unter Intensivüberwachung an einem Expertenzentrum."
   },
   {
-    "question": "Warum sollen Patienten mit fortgeschrittener/metastasierter Keimzelltumor-Erkrankung laut Empfehlung 8.34 bevorzugt an Expertenzentren behandelt werden?",
+    "question": "Bei vital bedrohlicher Metastasierung wird eine primäre Chemotherapie ohne Orchiektomie erwogen. Die Tumormarker sind jedoch negativ, die klinisch-radiologische Zuordnung zu einem Keimzelltumor ist nicht zweifelsfrei. Was sollte vor Einleitung der Chemotherapie angestrebt werden?",
     "options": [
-      "Weil dies gesetzlich für alle onkologischen Erkrankungen vorgeschrieben ist.",
-      "Um größtmögliche Heilungschancen zu erreichen und therapieassoziierte Nebenwirkungen durch Vermeidung einer Übertherapie zu verhindern.",
-      "Weil Expertenzentren ausschließlich experimentelle Therapien anbieten dürfen.",
-      "Weil nur dort Cisplatin verfügbar ist."
+      "Sofortiger Therapiebeginn mit PEB, da eine Gewebegewinnung entbehrlich ist",
+      "FDG-PET/CT als Ersatz für die histologische Sicherung des Befundes",
+      "Abwarten des Markerverlaufs über vier Wochen vor der Therapieentscheidung",
+      "Histologische Sicherung des Tumors aus einer zugänglichen Metastase"
+    ],
+    "correct": 3,
+    "tip": "Stabile, nur gering erhöhte oder fehlende Marker belegen nicht zwangsläufig einen Keimzelltumor.",
+    "explanation": "Empfehlung 8.37 (EK): Bei negativen, nur gering erhöhten oder uneindeutigen Tumormarkern und nicht zweifelsfreier Zuordnung sollte vor einer primären Chemotherapie eine histologische Sicherung aus einer zugänglichen Metastase angestrebt werden. Auf die Histologie kann nur bei eindeutiger Konstellation mit deutlich pathologischen Markern verzichtet werden, wenn die Gewebegewinnung den Therapiebeginn in vital bedrohlicher Situation verzögern würde (Empfehlung 8.38, EK)."
+  },
+  {
+    "question": "Nach primärer Chemotherapie wegen vital bedrohlicher Metastasierung wird die Orchiektomie nachgeholt. Welche Aussage zum Orchiektomiepräparat und zum Vorgehen trifft laut Leitlinie zu?",
+    "options": [
+      "Häufigster Residualbefund ist die GCNIS, bedingt durch die Blut-Hoden-Schranke",
+      "Beim reinen Seminom kann bei kompletter Remission auf die Orchiektomie verzichtet werden",
+      "Häufigster Residualbefund ist reifes Teratom, bedingt durch dessen Chemoresistenz",
+      "Die Orchiektomie sollte möglichst zwischen dem ersten und zweiten Zyklus erfolgen"
+    ],
+    "correct": 2,
+    "tip": "Überlege, welche Tumorkomponente auch extragonadal nach Chemotherapie typischerweise als Residuum verbleibt.",
+    "explanation": "Kapitel 8.5.2.1: Im Orchiektomiepräparat nach primärer Chemotherapie ist reifes Teratom der häufigste Residualbefund (44 %, vor GCNIS 4,9 % und viablem Seminom 2,4 %); dies wird auf die intrinsische Chemoresistenz des Teratoms und nicht auf die Blut-Hoden-Schranke zurückgeführt. Auch beim reinen Seminom erlaubt der Subtyp keinen sicheren Verzicht, die Orchiektomie erfolgt bevorzugt nach Abschluss der Chemotherapie (Empfehlung 8.36, Grad A)."
+  },
+  {
+    "question": "Bei einem Patienten mit Nichtseminom der schlechten Prognosegruppe zeigt sich nach zwei Zyklen PEB ein inadäquater Markerabfall. Welches Vorgehen sollte laut Leitlinie gewählt werden, wenn die Intensivierung als primäre Hochdosis-Therapie erfolgt?",
+    "options": [
+      "2 Zyklen PEB gefolgt von 2 Zyklen Hochdosis-Carboplatin/Etoposid/Cyclophosphamid",
+      "Sequenziell 3 Zyklen Hochdosis-PEI mit jeweils autologer Stammzelltransplantation",
+      "1 Zyklus Hochdosis-Carboplatin/Etoposid mit einmaliger Stammzelltransplantation",
+      "Dosisdichte Polychemotherapie mit sechs Zytostatika ohne Stammzellsupport"
     ],
     "correct": 1,
-    "tip": "Die Volumen-Outcome-Relation bleibt auch nach Anpassung prognostischer Faktoren bestehen und ist mit niedrigeren Mortalitätsraten assoziiert.",
-    "explanation": "Empfehlung 8.34 (Expertenkonsens, starker Konsens) begründet die bevorzugte Behandlung an interdisziplinären Expertenzentren mit größtmöglichen Heilungschancen und der Vermeidung therapieassoziierter Nebenwirkungen durch Übertherapie-Vermeidung."
+    "tip": "Gesucht ist das Regime, das die deutschsprachige Hodentumorstudiengruppe etabliert hat.",
+    "explanation": "Empfehlungen 8.49 und 8.50 (Empfehlungsgrad B): Bei inadäquatem Markerabfall nach 1–2 Zyklen sollte eine Intensivierung individuell erwogen werden; erfolgt sie als primäre Hochdosis-Therapie, sollte sie sequenziell mit 3 Zyklen Hochdosis-PEI und jeweils nachfolgender autologer Stammzelltransplantation erfolgen. Das MSKCC-Konzept mit Hochdosis-Carboplatin/Etoposid/Cyclophosphamid brachte keinen Überlebensvorteil, GETUG 13 war dosisintensiviert ohne Stammzelltransplantation."
   },
   {
-    "question": "In welcher Konstellation soll laut Empfehlung 8.35 die primäre cisplatinhaltige Chemotherapie OHNE vorherige radikale inguinale Orchiektomie erfolgen?",
+    "question": "Welche Aussage zur Durchführung der Chemotherapie fortgeschrittener Keimzelltumoren trifft laut Leitlinie zu?",
     "options": [
-      "Grundsätzlich bei jedem Patienten mit Fernmetastasen.",
-      "Bei vital bedrohlicher, ausgedehnt metastasierter Erkrankung, wenn die Orchiektomie den Beginn der kurativen Systemtherapie klinisch relevant verzögern würde.",
-      "Nur bei Patienten, die eine Operation generell ablehnen.",
-      "Bei jedem Patienten mit Seminom, unabhängig vom Metastasierungsgrad."
-    ],
-    "correct": 1,
-    "tip": "Typische Konstellationen sind eine schwere pulmonale Metastasierung mit respiratorischer Gefährdung oder andere vital bedrohliche, hochsymptomatische Manifestationen.",
-    "explanation": "Empfehlung 8.35 (Expertenkonsens, modifiziert 2026) sieht die primäre Chemotherapie ohne vorherige Orchiektomie nur bei vital bedrohlicher, ausgedehnt metastasierter Erkrankung vor, wenn die Orchiektomie den Beginn der kurativen Systemtherapie relevant verzögern würde."
-  },
-  {
-    "question": "Was soll laut Empfehlung 8.36 nach Abschluss der Induktionschemotherapie erfolgen, wenn die Orchiektomie initial wegen vital bedrohlicher Metastasierung aufgeschoben wurde – und warum auch bei gutem Ansprechen?",
-    "options": [
-      "Die radikale inguinale Orchiektomie des initial befallenen Hodens soll erfolgen, da Residualbefunde im Hoden durch Bildgebung, Marker oder extratestikuläre Histologie nicht zuverlässig ausgeschlossen werden können.",
-      "Keine weitere Maßnahme ist notwendig, wenn die Tumormarker normalisiert sind.",
-      "Eine erneute Biopsie reicht aus, eine Orchiektomie ist dann nicht mehr erforderlich.",
-      "Die Orchiektomie entfällt grundsätzlich, wenn eine Chemotherapie bereits begonnen wurde."
+      "Dosisreduktionen wegen Komorbiditäten sind mit einem Expertenzentrum abzustimmen",
+      "Bei Leukopenie wird der Folgezyklus routinemäßig um eine Woche verschoben",
+      "Mesna wird bei Ifosfamid erst nach Auftreten einer Makrohämaturie gegeben",
+      "Etoposid-Base wird zur Allergieprophylaxe über einen Inline-Filter appliziert"
     ],
     "correct": 0,
-    "tip": "In einer großen Kohorte fand sich bei fast der Hälfte der Orchiektomiepräparate nach primärer Chemotherapie klinisch relevante Residualpathologie, am häufigsten ein reifes Teratom.",
-    "explanation": "Empfehlung 8.36 (Grad A) fordert die radikale inguinale Orchiektomie nach Abschluss der Induktionschemotherapie auch bei gutem radiologischem oder serologischem Ansprechen, da Residualbefunde im Hoden nicht zuverlässig ausgeschlossen werden können."
-  },
-  {
-    "question": "Wann soll laut Empfehlung 8.37 vor Einleitung einer primären Chemotherapie eine histologische Sicherung aus einer zugänglichen Metastase angestrebt werden?",
-    "options": [
-      "Bei negativen, nur gering erhöhten oder uneindeutigen Tumormarkern und nicht zweifelsfreier klinisch-radiologischer Zuordnung zu einem KZT.",
-      "Immer, ohne Ausnahme, auch bei vital bedrohlicher Situation.",
-      "Nur bei Patienten mit Seminom, nie bei Nichtseminom.",
-      "Nie, da eine histologische Sicherung grundsätzlich entbehrlich ist."
-    ],
-    "correct": 0,
-    "tip": "Bei eindeutiger klinisch-radiologischer Konstellation mit deutlich pathologischen Markern kann dagegen auf die Sicherung verzichtet werden (Empfehlung 8.38).",
-    "explanation": "Empfehlung 8.37 (Expertenkonsens, neu 2026) sieht eine histologische Sicherung vor, wenn Tumormarker negativ, gering erhöht oder uneindeutig sind und die klinisch-radiologische Konstellation keine sichere Zuordnung zu einem KZT erlaubt."
-  },
-  {
-    "question": "Welcher Wachstumsfaktor-Einsatz wird laut Empfehlung 8.32 beim PEI-Regime empfohlen?",
-    "options": [
-      "G-CSF soll primär prophylaktisch eingesetzt werden.",
-      "G-CSF ist beim PEI-Schema grundsätzlich kontraindiziert.",
-      "G-CSF soll nur nach aufgetretenem neutropenem Fieber als Sekundärprophylaxe gegeben werden, nie primär.",
-      "Erythropoetin soll primärprophylaktisch eingesetzt werden."
-    ],
-    "correct": 0,
-    "tip": "Dies unterscheidet sich von der Empfehlung für PEB, wo G-CSF nur als Sekundärprophylaxe nach neutropenem Fieber vorgesehen ist.",
-    "explanation": "Empfehlung 8.32 (Grad A, starker Konsens) fordert beim PEI-Regime den primärprophylaktischen Einsatz eines myeloischen Wachstumsfaktors (G-CSF), während bei PEB G-CSF nur sekundärprophylaktisch nach neutropenem Fieber eingesetzt werden soll (Empfehlung 8.31)."
-  },
-  {
-    "question": "Warum wurde die Verkürzung der PEB-Zyklen auf drei Tage mit erhöhter Dosisdichte laut Leitlinientext NICHT als geeignete Behandlungsoption etabliert?",
-    "options": [
-      "Weil sie sich entweder als toxischer (vermehrte Oto- und Nephrotoxizität) oder als weniger wirksam erwies.",
-      "Weil sie deutlich teurer ist als das Standardschema.",
-      "Weil sie ausschließlich bei Frauen untersucht wurde.",
-      "Weil keine klinischen Studien dazu existieren."
-    ],
-    "correct": 0,
-    "tip": "Die Dosisintensität ist bei kurativ intendierten Therapien prognoserelevant, weshalb Modifikationen nur in Rücksprache mit einem Expertenzentrum erfolgen sollten.",
-    "explanation": "Mehrere Studien zur Verkürzung der PEB-Zyklen auf drei Tage mit erhöhter Dosisdichte zeigten entweder eine höhere Toxizität (vermehrte Oto- und Nephrotoxizität) oder eine geringere Wirksamkeit, weshalb dieses Vorgehen keine geeignete Behandlungsoption darstellt."
-  },
-  {
-    "question": "Welche Besonderheit an der Dosierung beim PEB-Schema (Tabelle 11) kennzeichnet die Applikation von Cisplatin und Etoposid?",
-    "options": [
-      "Beide werden nur an Tag 1 als Einzeldosis gegeben.",
-      "Cisplatin (20 mg/m²) und Etoposid ((75)–100 mg/m²) werden jeweils an Tag 1–5 appliziert, Bleomycin als Bolus an Tag 1, 8 und 15; Wiederholung an Tag 22.",
-      "Bleomycin wird täglich über 5 Tage gegeben, Cisplatin nur einmalig.",
-      "Alle drei Substanzen werden ausschließlich oral verabreicht."
-    ],
-    "correct": 1,
-    "tip": "Dieses 5-Tage-Schema mit 21-tägigem Zyklusintervall (Wiederholung an Tag 22) ist charakteristisch für das PEB-Protokoll.",
-    "explanation": "Laut Tabelle 11 werden Cisplatin (20 mg/m²) und Etoposid ((75)–100 mg/m²) an Tag 1–5 appliziert, Bleomycin als Bolus an Tag 1, 8 und 15, mit Wiederholung des Zyklus an Tag 22."
+    "tip": "Bei kurativ intendierter Therapie ist die Dosisintensität prognoserelevant.",
+    "explanation": "Kapitel 8.5.2: Dosisreduktionen oder -modifikationen kurativ intendierter Chemotherapien wegen Organfunktionsstörungen oder Komorbiditäten sind in Rücksprache mit einem Expertenzentrum zu evaluieren, da volle Dosierung und konsequente Einhaltung der Intervalle (Wiederholung an Tag 22) mit höherer Effektivität assoziiert sind. Mesna wird bei Ifosfamid prophylaktisch gegeben; bei Etoposid-Base erhöht ein Inline-Filter das Risiko allergischer Reaktionen."
   }
 ]

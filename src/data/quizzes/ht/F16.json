@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welches Messinstrument ist laut Statement 13.2 der einzige speziell für Patienten mit KZT entwickelte Fragebogen zur Erfassung der Lebensqualität?",
+    "question": "Ein Zentrum möchte bei Patienten mit KZT die Lebensqualität unter Therapie und in der Nachsorge krankheitsspezifisch erfassen. Welcher Fragebogen wurde laut Leitlinie als einziger spezifisch für diese Patientengruppe entwickelt?",
     "options": [
-      "Der EORTC QLQ-TC26.",
-      "Der Short Form Health Survey 36 (SF-36).",
-      "Die Hospital Anxiety and Depression Scale (HADS).",
-      "Der FACIT-F Fragebogen."
+      "EORTC QLQ-C30",
+      "EORTC QLQ-TC 26",
+      "FACIT-F",
+      "SF-36"
     ],
-    "correct": 0,
-    "tip": "Dieser Fragebogen erfasst mit 26 Items krankheitsrelevante Themen wie Therapienebenwirkungen, Infertilität, Körperbild und Sexualität.",
-    "explanation": "Statement 13.2 nennt den EORTC QLQ-TC26 als für KZT-Patienten spezifisch entwickelten und validierten Fragebogen zur Lebensqualität, der auch in deutscher Sprache vorliegt."
+    "correct": 1,
+    "tip": "Unterscheiden Sie generische onkologische Instrumente von einem krankheitsspezifischen Modul mit Themen wie Infertilität und Körperbild.",
+    "explanation": "Laut Statement 13.2 (LoE 3b, starker Konsens) ist der EORTC QLQ-TC 26 der einzige spezifisch für KZT entwickelte, validierte Fragebogen; er erfasst mit 26 Items u. a. Therapienebenwirkungen, Infertilität, Körperbild und Sexualität und liegt auf Deutsch vor (Anhang 18.2). EORTC QLQ-C30, FACIT-F und SF-36 sind generische bzw. symptombezogene Instrumente."
   },
   {
-    "question": "Seit wann ist die gesundheitsbezogene Lebensqualität in Deutschland als patientenrelevanter Endpunkt gesetzlich verankert, und in welchem Gesetz?",
+    "question": "Zu welchem Zeitpunkt sollten bei Patienten mit KZT laut Leitlinie Daten zur Lebensqualität erhoben werden?",
     "options": [
-      "Seit 2006 im SGB V § 35 Abs. 1b, ergänzend zu den Endpunkten Mortalität und Morbidität.",
-      "Seit 1990 ausschließlich im Grundgesetz.",
-      "Sie ist in Deutschland bis heute nicht gesetzlich verankert.",
-      "Seit 2020 im Infektionsschutzgesetz."
+      "Vor Therapiebeginn und im weiteren Verlauf",
+      "Erstmals nach Abschluss der Primärtherapie",
+      "Erstmals bei Beginn der strukturierten Nachsorge",
+      "Anlassbezogen bei Rezidiv oder Spättoxizität"
     ],
     "correct": 0,
-    "tip": "Der Gemeinsame Bundesausschuss (G-BA) fordert die Erfassung patientenberichteter Lebensqualität auch im Rahmen der frühen Nutzenbewertung (AMNOG-Verfahren).",
-    "explanation": "Die gesundheitsbezogene Lebensqualität ist seit 2006 im SGB V § 35 Abs. 1b als patientenrelevanter Endpunkt verankert, ergänzend zu Mortalität und Morbidität."
+    "tip": "Überlegen Sie, wie sich Therapieeffekte auf die Lebensqualität methodisch sauber beurteilen lassen.",
+    "explanation": "Empfehlung 13.1 (EK, Konsens): Daten zur Lebensqualität sollten vor Beginn einer Therapie und im weiteren Verlauf erfasst werden, um beabsichtigte und unbeabsichtigte Therapieeffekte beurteilen zu können. Eine Ersterhebung erst nach der Primärtherapie oder in der Nachsorge verpasst den Ausgangswert."
   },
   {
-    "question": "Was soll laut Empfehlung 13.3 allen rehabilitationsfähigen Patienten in Abhängigkeit von der Rehabilitationsbedürftigkeit angeboten werden?",
+    "question": "Ein 27-jähriger Patient unter Überwachung nach Ablatio testis (Seminom, Stadium I) ist körperlich beschwerdefrei, leidet aber an ausgeprägter Rezidivangst und vermindertem Selbstwertgefühl. Welche Aussage zur Rehabilitationsbedürftigkeit trifft laut Leitlinie zu?",
     "options": [
-      "Eine Anschlussrehabilitation (AHB).",
-      "Eine lebenslange stationäre psychiatrische Betreuung.",
-      "Grundsätzlich keine Rehabilitation, da KZT-Patienten meist jung und sportlich sind.",
-      "Nur eine ambulante Physiotherapie ohne weitere Angebote."
+      "Sie setzt eine somatische tumor- oder therapiebedingte Funktionseinschränkung voraus",
+      "Sie ergibt sich erst nach erfolgter Chemo- oder Strahlentherapie",
+      "Sie besteht nur bei sozialmedizinisch festgestellter Minderung der Erwerbsfähigkeit",
+      "Sie kann auch durch psychische Belastungen infolge der Erkrankung entstehen"
     ],
-    "correct": 0,
-    "tip": "Rehabilitationsbedürftigkeit besteht, wenn eine tumor- oder therapiebedingte funktionelle Einschränkung vorliegt, die nicht nur vorübergehend ist.",
-    "explanation": "Empfehlung 13.3 (Expertenkonsens, Konsens) sieht vor, dass allen rehabilitationsfähigen Patienten in Abhängigkeit von der Rehabilitationsbedürftigkeit eine Anschlussrehabilitation angeboten werden soll."
+    "correct": 3,
+    "tip": "Denken Sie an die Mehrdimensionalität von Funktionseinschränkungen nach einer Krebserkrankung.",
+    "explanation": "Laut Kapitel 13.2 besteht Rehabilitationsbedürftigkeit bei einer tumor- oder therapiebedingten funktionellen Einschränkung (somatisch und/oder psychisch), die eine nicht nur vorübergehende Beeinträchtigung im täglichen Leben darstellt; auch Rezidivangst, Anpassungsstörungen, Depressivität oder vermindertes Selbstwertgefühl können einen Rehabilitationsbedarf begründen. Eine vorangegangene Chemo- oder Strahlentherapie ist dafür keine Voraussetzung."
   },
   {
-    "question": "Mit welcher Kompetenz und in welchem Setting soll die Rehabilitation von KZT-Patienten laut Empfehlung 13.4 erfolgen?",
+    "question": "Ein 30-jähriger Patient ist nach Chemotherapie rehabilitationsbedürftig, motiviert und ausreichend belastbar. Wie lautet die Empfehlung der Leitlinie zur Anschlussrehabilitation (AHB)?",
     "options": [
-      "Mit onkologischer Kompetenz unter Verwendung multimodaler Therapiekonzepte in Rehabilitationskliniken mit altersspezifischem Angebot.",
-      "Ausschließlich in orthopädischen Rehakliniken ohne onkologischen Schwerpunkt.",
-      "Grundsätzlich zu Hause, ohne jede institutionelle Anbindung.",
-      "Nur in psychiatrischen Fachkliniken, unabhängig vom somatischen Befund."
+      "Eine AHB soll angeboten werden (Expertenkonsens)",
+      "Eine AHB sollte angeboten werden (Expertenkonsens)",
+      "Eine AHB kann angeboten werden (Empfehlungsgrad 0)",
+      "Eine AHB soll angeboten werden (Empfehlungsgrad A)"
     ],
     "correct": 0,
-    "tip": "Aufgrund des jungen Patientenkollektivs ist ein altersspezifisches Angebot besonders relevant.",
-    "explanation": "Empfehlung 13.4 fordert, dass die Rehabilitation mit onkologischer Kompetenz und multimodalen Therapiekonzepten in Rehabilitationskliniken mit altersspezifischem Angebot erfolgen soll."
+    "tip": "Prüfen Sie, ob es zur Rehabilitation speziell bei KZT überhaupt indikationsspezifische Studien gibt – und welche Empfehlungsart daraus folgt.",
+    "explanation": "Empfehlung 13.3 (EK, Konsens): In Abhängigkeit von der Rehabilitationsbedürftigkeit soll allen rehabilitationsfähigen Patienten eine AHB angeboten werden. Ein evidenzbasierter Empfehlungsgrad A ist nicht möglich, da indikationsspezifische Studien zur Rehabilitation bei KZT fehlen und nur von anderen Tumorentitäten zurückgeschlossen werden kann."
   },
   {
-    "question": "Welche Beeinträchtigungen können laut Leitlinientext eine Rehabilitationsbedürftigkeit bei KZT-Patienten begründen – jenseits rein somatischer Folgen?",
+    "question": "Wie soll die Rehabilitation von Patienten mit KZT laut Leitlinie strukturell ausgestaltet sein?",
     "options": [
-      "Auch psychische Belastungen wie Rezidivangst, Anpassungsstörungen, Depressivität oder vermindertes Selbstwertgefühl.",
-      "Ausschließlich die Narbenbildung nach Orchiektomie.",
-      "Psychische Aspekte spielen laut Leitlinie bei der Rehabilitationsbedürftigkeit keine Rolle.",
-      "Nur die Haarausfall-bedingte kosmetische Beeinträchtigung."
+      "Wohnortnah ambulant mit urologischer Kompetenz und physiotherapeutischem Schwerpunkt",
+      "In Rehabilitationskliniken mit onkologischer Kompetenz, multimodal und altersspezifisch",
+      "In Rehabilitationskliniken mit kardiologischer Kompetenz wegen kardiovaskulärer Spätfolgen",
+      "Stationär im zertifizierten Hodenkrebszentrum als Fortsetzung der Akutbehandlung"
     ],
-    "correct": 0,
-    "tip": "Die Rehabilitation kann unter anderem Kraft- und Konditionsminderung, Polyneuropathie, kognitive Dysfunktion und psychische Alterationen adressieren.",
-    "explanation": "Auch psychische Belastungen infolge der Krebserkrankung, wie Rezidivangst, Anpassungsstörungen, Depressivität oder vermindertes Selbstwertgefühl, können einen Rehabilitationsbedarf begründen."
+    "correct": 1,
+    "tip": "Bedenken Sie das typische Alter der Patienten und die Vielfalt möglicher Tumor- und Therapiefolgen.",
+    "explanation": "Empfehlung 13.4 (EK, Konsens): Die Rehabilitation von Patienten mit KZT soll mit onkologischer Kompetenz und unter Verwendung multimodaler Therapiekonzepte in Rehabilitationskliniken mit altersspezifischem Angebot erfolgen. Eine kardiologische oder rein urologische Ausrichtung bzw. eine Durchführung im Akutkrankenhaus sieht die Empfehlung nicht vor."
   },
   {
-    "question": "Welche Angebote umfassen 'Survivorship'-Programme laut Leitlinientext typischerweise, zusätzlich zu multidisziplinären medizinischen Angeboten?",
+    "question": "Wie häufig treten laut Leitlinie im Verlauf einer onkologischen Erkrankung therapiebedürftige psychische Belastungen und Störungen auf, und welche Störungen sind dabei gehäuft?",
     "options": [
-      "Psychoonkologische Betreuung, sozialrechtliche Beratung, Musik- oder Kunsttherapie, Sport- und Bewegungsangebote sowie Ernährungs- und Lifestyle-Beratung.",
-      "Ausschließlich die Fortsetzung der Chemotherapie in reduzierter Dosis.",
-      "Nur eine jährliche Blutabnahme ohne weitere Betreuung.",
-      "Ausschließlich juristische Beratung zu Erbschaftsfragen."
+      "20–35 %, gehäuft Anpassungs- und depressive Störungen",
+      "5–10 %, gehäuft posttraumatische Belastungsstörungen",
+      "40–55 %, gehäuft Anpassungs- und depressive Störungen",
+      "10–15 %, gehäuft Angst- und Panikstörungen"
     ],
     "correct": 0,
-    "tip": "Ziel ist es, sowohl Rezidiven und physischen Langzeittoxizitäten frühzeitig entgegenzuwirken als auch psychosoziale Bedürfnisse zu adressieren.",
-    "explanation": "'Survivorship'-Programme beinhalten neben multidisziplinären medizinischen Angeboten psychoonkologische Betreuung, sozialrechtliche Beratung, Musik- oder Kunsttherapie, Sport- und Bewegungsangebote sowie Ernährungs- und Lifestyle-Beratung."
+    "tip": "Denken Sie an die Diagnosen, die nach einer einschneidenden Lebensveränderung typischerweise gestellt werden.",
+    "explanation": "Laut Hintergrund Psychoonkologie (Kapitel 14) treten über die gesamte Krankheitsdauer bei 20–35 % der Patienten therapiebedürftige psychische Belastungen und Störungen auf, gehäuft Anpassungs- und depressive Störungen. Da ein großer Teil unerkannt bleibt, sollte die psychosoziale Situation regelmäßig systematisch erfasst werden."
   },
   {
-    "question": "Wann sollen Patienten und bei Bedarf ihre Angehörigen laut der entsprechenden Empfehlung über Möglichkeiten der Palliativversorgung informiert werden?",
+    "question": "Welche Aufgabe soll laut Leitlinie im Rahmen der onkologischen Rehabilitation wahrgenommen werden, weil sie in der ambulanten Versorgung nicht in gleichem Maße erfolgen kann?",
     "options": [
-      "Frühzeitig, sobald sich im Krankheitsverlauf zeigt, dass die Erkrankung nicht mehr heilbar ist.",
-      "Erst in den letzten Lebenstagen, um den Patienten nicht vorzeitig zu belasten.",
-      "Nur auf explizite Nachfrage des Patienten, nie proaktiv durch das Behandlungsteam.",
-      "Palliativversorgung ist bei KZT-Patienten grundsätzlich nicht vorgesehen, da die Prognose meist gut ist."
+      "Bestimmung der Serumtumormarker gemäß Nachsorgeschema",
+      "Organisation der Schnittbildgebung gemäß Nachsorgeschema",
+      "Andrologische Abklärung bei unerfülltem Kinderwunsch",
+      "Einleitung von Maßnahmen zur Teilhabe am Erwerbsleben"
     ],
-    "correct": 0,
-    "tip": "Eine frühzeitige Beratung kann auch bei asymptomatischen und relativ unbelasteten Patienten von Nutzen sein.",
-    "explanation": "Zeigt sich im Krankheitsverlauf, dass die Erkrankung nicht mehr heilbar ist, sollen Patient und Angehörige frühzeitig über Möglichkeiten der Palliativversorgung informiert und ihnen der Zugang dazu ermöglicht werden."
+    "correct": 3,
+    "tip": "Überlegen Sie, welche Kompetenz in der Rehabilitation – anders als in anderen Versorgungsstrukturen – fest verankert ist.",
+    "explanation": "Laut Kapitel 13.2 ist in der Rehabilitation wie in keiner anderen Versorgungsstruktur die sozialmedizinische Kompetenz verankert; daher sollen dort die notwendigen Maßnahmen zur Teilhabe am Erwerbsleben eingesetzt werden. Tumormarker und Bildgebung regeln die Nachsorgetabellen; ergänzend bieten „Survivorship“-Programme u. a. psychoonkologische Betreuung und sozialrechtliche Beratung."
   },
   {
-    "question": "Was gilt laut der S3-Leitlinie 'Palliativmedizin für Patienten mit einer nicht heilbaren Krebserkrankung' bezüglich des Zugangs zu Palliativversorgung – unabhängig vom Krankheitsstadium?",
+    "question": "Ein 34-jähriger Patient hat ein mehrfach rezidiviertes, refraktäres Nichtseminom; eine Heilung ist nicht mehr möglich. Was empfiehlt die Leitlinie zur Palliativversorgung?",
     "options": [
-      "Alle Patienten mit einer Krebserkrankung sollen unabhängig vom Krankheitsstadium Zugang zu Informationen über Palliativversorgung haben.",
-      "Nur Patienten im Endstadium ohne jede weitere Therapieoption erhalten Zugang zu diesen Informationen.",
-      "Der Zugang ist ausschließlich Patienten über 65 Jahren vorbehalten.",
-      "Informationen zur Palliativversorgung werden grundsätzlich erst nach Abschluss aller tumorspezifischen Therapien gegeben."
+      "Information über Palliativversorgung nach Abschluss aller tumorspezifischen Therapien",
+      "Frühzeitige Information über Palliativversorgung und Ermöglichung des Zugangs",
+      "Information über Palliativversorgung erst bei Auftreten belastender Tumorsymptome",
+      "Information über Palliativversorgung nach erfolgloser Hochdosis-Chemotherapie"
     ],
-    "correct": 0,
-    "tip": "Dies gilt unabhängig davon, ob gleichzeitig eine tumorspezifische Therapie durchgeführt wird.",
-    "explanation": "Die S3-Leitlinie Palliativmedizin empfiehlt, dass allen Patienten mit einer Krebserkrankung unabhängig vom Krankheitsstadium Zugang zu Informationen über Palliativversorgung ermöglicht werden soll."
+    "correct": 1,
+    "tip": "Palliativversorgung und tumorspezifische Therapie schließen sich nicht gegenseitig aus.",
+    "explanation": "Laut konsensbasierter Empfehlung in Kapitel 14.1 (starker Konsens) sollen der Patient und bei Bedarf seine Angehörigen frühzeitig über Möglichkeiten der Palliativversorgung informiert und ihnen der Zugang ermöglicht werden, sobald sich zeigt, dass die Erkrankung nicht mehr heilbar ist. Gemäß S3-Leitlinie Palliativmedizin gilt das unabhängig davon, ob noch eine tumorspezifische Therapie erfolgt."
   },
   {
-    "question": "Welche Vorgehensweise ist laut Leitlinientext bei Patienten mit symptomatischen Metastasen (z. B. Schmerzen, neurologische Symptome, Frakturrisiko) im Rahmen der palliativen Versorgung angezeigt?",
+    "question": "Welche Empfehlung gibt die Leitlinie zum niederschwelligen Angebot psychosozialer Beratung, Begleitung und Behandlung?",
     "options": [
-      "Die Indikation für eine lokale Therapie (Strahlentherapie, operativer Eingriff) soll geprüft werden, insbesondere im engen Zeitfenster klinischer Notfallsituationen.",
-      "Grundsätzlich wird auf jede lokale Maßnahme verzichtet, es erfolgt nur noch eine rein medikamentöse Symptomkontrolle.",
-      "Eine erneute kurativ intendierte Polychemotherapie ist in jedem Fall die Therapie der ersten Wahl.",
-      "Lokale Maßnahmen sind bei Metastasen generell kontraindiziert."
+      "Soll Patienten mit auffälligem Screening ab der Diagnosestellung offenstehen",
+      "Sollte Patienten in palliativer Situation und ihren Angehörigen offenstehen",
+      "Sollte allen Betroffenen und Angehörigen in jeder Krankheitsphase offenstehen",
+      "Kann Patienten bei manifester psychischer Störung im Verlauf angeboten werden"
     ],
-    "correct": 0,
-    "tip": "Insbesondere bei Notfällen wie Einflussstauung, spinaler Kompression oder symptomatischer Hirnmetastasierung ist das enge Zeitfenster für die Therapieeinleitung entscheidend.",
-    "explanation": "Bei symptomatischen Metastasen soll entsprechend den allgemeinen palliativen Behandlungsgrundsätzen die Indikation für eine lokale Therapie (Strahlentherapie, operativer Eingriff) geprüft werden, wobei in Notfallsituationen das enge Zeitfenster zu beachten ist."
+    "correct": 2,
+    "tip": "Denken Sie daran, wen die Krebserkrankung eines jungen Mannes außer ihm selbst noch belastet – und wann.",
+    "explanation": "Empfehlung 14.2 (EK, starker Konsens): Das niederschwellige Angebot einer psychosozialen Beratung, Begleitung und Behandlung sollte allen Betroffenen und ihren Angehörigen in jeder Phase der Erkrankung, auch langfristig, zur Verfügung stehen. Eine Beschränkung auf die palliative Situation, auffällige Screenings oder manifeste Störungen sieht die Leitlinie nicht vor."
   },
   {
-    "question": "Warum wird im Leitlinientext betont, dass indikationsspezifische Studien zur Bewertung des Nutzens einer Rehabilitationsmaßnahme speziell bei KZT-Patienten fehlen?",
+    "question": "Bei einem Patienten mit KZT ergibt das psychoonkologische Screening einen möglichen Betreuungsbedarf. Welcher nächste Schritt entspricht dem in der Leitlinie beschriebenen gestuften Vorgehen?",
     "options": [
-      "Weil nur ein Rückschluss von anderen Tumorentitäten auf den KZT gezogen werden kann, da entsprechende KZT-spezifische Studien nicht vorliegen.",
-      "Weil Rehabilitation bei KZT-Patienten grundsätzlich wirkungslos ist.",
-      "Weil Rehabilitation bei KZT-Patienten gesetzlich verboten ist.",
-      "Weil KZT-Patienten nie an Langzeittoxizitäten leiden und daher keine Rehabilitation benötigen."
+      "Direkte Überweisung zur ambulanten Richtlinienpsychotherapie",
+      "Wiederholung des Screenings beim nächsten Nachsorgetermin",
+      "Angebot eines diagnostischen Gesprächs zur weiteren Abklärung",
+      "Konsiliarische Einleitung einer antidepressiven Pharmakotherapie"
     ],
-    "correct": 0,
-    "tip": "Die Teilnahme an Rehabilitationsmaßnahmen ist dennoch gesetzlich verankert (SGB V, VI und IX) und steht nahezu allen Patienten zur Verfügung.",
-    "explanation": "Da indikationsspezifische Studien zur Rehabilitation bei KZT-Patienten fehlen, kann nur ein Rückschluss von anderen Tumorentitäten auf den KZT gezogen werden; die Rehabilitation ist dennoch gesetzlich fest verankert."
+    "correct": 2,
+    "tip": "Ein auffälliges Screening ist ein Hinweis, aber noch keine Diagnose und keine Indikation.",
+    "explanation": "Laut Hintergrund Psychoonkologie (Kapitel 14) sollte bei einem im Screening festgestellten möglichen Bedarf im Sinne des gestuften Vorgehens ein diagnostisches Gespräch zur weiteren Abklärung angeboten werden. Das Screening selbst sollte frühestmöglich und erneut bei klinischer Indikation oder Veränderung des Erkrankungsstatus (z. B. Rezidiv, Progress) erfolgen."
   }
 ]

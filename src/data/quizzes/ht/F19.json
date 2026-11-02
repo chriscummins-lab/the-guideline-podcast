@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche beiden Kapitel wurden im Rahmen der Version 2.0 (Teilaktualisierung) laut dem Hinweis zur Aktualisierung vollständig überarbeitet, während die übrigen Kapitel noch im Aktualisierungsprozess für Version 3.0 sind?",
+    "question": "Version 2.0 ist eine Teilaktualisierung der S3-Leitlinie. Welche Kapitel wurden dabei auf Grundlage aktueller Evidenz vollständig überarbeitet?",
     "options": [
-      "Kapitel 8 ('Primär- und Erstlinientherapie') und Kapitel 11 ('Nachsorge nach kurativer Therapie').",
-      "Kapitel 2 ('Einführung') und Kapitel 5 ('Pathologische Klassifikation').",
-      "Kapitel 9 ('Rezidive') und Kapitel 15 ('Qualitätsindikatoren').",
-      "Alle 17 Kapitel der Leitlinie wurden gleichermaßen vollständig überarbeitet."
+      "Diagnostik/Prognosefaktoren und Nachsorge nach kurativer Therapie",
+      "Primär-/Erstlinientherapie und Toxizität/supportive Maßnahmen",
+      "Primär-/Erstlinientherapie und Nachsorge nach kurativer Therapie",
+      "Rezidivtherapie und Nachsorge nach kurativer Therapie"
     ],
-    "correct": 0,
-    "tip": "Die übrigen Kapitel werden erst nach Abschluss der systematischen Evidenzaufarbeitung in einer zukünftigen Version 3.0 veröffentlicht.",
-    "explanation": "Version 2.0 stellt eine Teilaktualisierung dar, bei der ausschließlich Kapitel 8 (Primär- und Erstlinientherapie) und Kapitel 11 (Nachsorge nach kurativer Therapie) auf Grundlage aktueller Evidenz vollständig überarbeitet wurden."
+    "correct": 2,
+    "tip": "Schauen Sie, mit welchen Kapitelziffern die neuen und modifizierten Empfehlungen in Tabelle 31 überwiegend beginnen.",
+    "explanation": "Laut Hinweis zur Aktualisierung wurden in Version 2.0 nur Kapitel 8 „Primär- und Erstlinientherapie“ und Kapitel 11 „Nachsorge nach kurativer Therapie“ vollständig überarbeitet; die übrigen Kapitel folgen in Version 3.0. Deshalb beruhen z. B. die Qualitätsindikatoren noch auf Version 1."
   },
   {
-    "question": "Welche zwei neuen Empfehlungen (8.1 und 8.2) wurden erstmals in Version 2.0 zur primären operativen Versorgung aufgenommen?",
+    "question": "Wie hat Version 2.0 die Empfehlung zur adjuvanten Therapie beim Seminom im klinischen Stadium I gegenüber Version 1 verändert?",
     "options": [
-      "Das Angebot der Kryokonservierung vor Ablatio testis für alle Patienten und das Angebot eines Hodenimplantats vor Ablatio testis für alle Patienten.",
-      "Die obligate bilaterale Orchiektomie bei jedem Patienten.",
-      "Der Verzicht auf jede Form der Fertilitätsberatung.",
-      "Eine obligate präoperative Chemotherapie vor jeder Ablatio testis."
+      "Adjuvante Therapie ab 4 cm Tumordurchmesser nun regelhaft empfohlen (soll)",
+      "Adjuvante Therapie nur in Ausnahmefällen, bei Risikofaktorakkumulation diskutieren",
+      "Adjuvante Therapie nur noch als Radiatio, Carboplatin entfällt als Option",
+      "Adjuvante Therapie nur noch als Carboplatin, Radiatio entfällt als Option"
     ],
-    "correct": 0,
-    "tip": "Beide Empfehlungen betonen die Wichtigkeit, diese Themen bereits vor der Ablatio testis aktiv anzusprechen.",
-    "explanation": "Neu in Version 2.0 sind Empfehlung 8.1 (Kryokonservierung vor Ablatio testis für alle Patienten) und Empfehlung 8.2 (Angebot eines Hodenimplantats vor Ablatio testis für alle Patienten)."
+    "correct": 1,
+    "tip": "Denken Sie an einen Schwerpunkt der Aktualisierung: Deeskalation bei gewahrter onkologischer Sicherheit.",
+    "explanation": "Empfehlung 8.17 (V2.0) ersetzt die frühere Einzelfallerwägung ab 4 cm (8.13): Eine adjuvante Therapie soll nur in Ausnahmefällen erfolgen; bei Risikofaktorakkumulation (Tumor > 4 cm, Rete-testis- und Hilusinfiltration, präoperative Erhöhung von Beta-hCG/LDH, lymphovaskuläre Invasion) soll sie mit dem Patienten diskutiert werden. Als Optionen bleiben 1–2 Zyklen Carboplatin AUC 7 oder die paraaortale Radiatio mit 20 Gy."
   },
   {
-    "question": "Welche grundlegende Änderung erfolgte laut Vorspann 'Wesentliche Neuerungen' bei der Risikostratifizierung des Seminoms im klinischen Stadium I?",
+    "question": "Wie hat sich die Empfehlung zur MRT Abdomen/Becken in der Nachsorge von Version 1 zu Version 2.0 verändert?",
     "options": [
-      "Überarbeitung mit aktualisierten Risikofaktoren und stärkerer Gewichtung der Überwachungsstrategie; die Empfehlungen zur adjuvanten Therapie wurden entsprechend angepasst.",
-      "Die Risikostratifizierung wurde komplett abgeschafft, da sie als nicht mehr relevant gilt.",
-      "Es wurde erstmals eine obligate adjuvante Chemotherapie für alle Stadium-I-Patienten eingeführt.",
-      "Die Tumorgröße wurde als Risikofaktor komplett aus der Bewertung entfernt."
+      "Von „sollte“ (an erfahrenen Zentren) zu „soll“ die CT ersetzen",
+      "Von „soll“ zu „sollte“ die CT ersetzen, nur an erfahrenen Zentren",
+      "Von „kann“ zu „sollte“ die CT ersetzen, bei jüngeren Patienten",
+      "Unverändert „sollte“ die CT ersetzen, an erfahrenen Zentren"
     ],
     "correct": 0,
-    "tip": "Dies zeigt sich konkret in der Anpassung der Empfehlungen 8.13 bis 8.17 im Vergleich zur Vorversion.",
-    "explanation": "Die wichtigsten Neuerungen beschreiben eine Überarbeitung der Risikostratifizierung im Stadium I des Seminoms mit aktualisierten Risikofaktoren und stärkerer Gewichtung der Überwachungsstrategie, mit entsprechend angepassten Empfehlungen zur adjuvanten Therapie."
+    "tip": "Ein Schwerpunkt der Nachsorge-Überarbeitung war die Reduktion der Strahlenexposition junger Patienten.",
+    "explanation": "Empfehlung 11.5 (V2.0): Die MRT Abdomen/Becken soll die CT aufgrund ihrer Gleichwertigkeit im Rahmen der Nachsorge ersetzen, um die Strahlenexposition zu reduzieren. In Version 1 (11.1) lautete dies noch „sollte“ und war an Zentren mit ausgewiesener Erfahrung gebunden."
   },
   {
-    "question": "Welche grundlegende Neuerung betrifft laut Vorspann die Therapie von Seminomen im Stadium II in Version 2.0?",
+    "question": "Welche Neuerung zur Thorax-Bildgebung in der Nachsorge im Stadium I enthält Version 2.0?",
     "options": [
-      "Neue deeskalierte Therapiekonzepte, die retroperitoneale Lymphadenektomie als Option in ausgewählten Situationen sowie neue Empfehlungen bei unklaren bildgebenden Befunden.",
-      "Der vollständige Verzicht auf jede systemische Therapie im Stadium II.",
-      "Eine Verdopplung der Standard-Strahlendosis auf 60 Gy.",
-      "Die Abschaffung der Chemotherapie-Option zugunsten einer ausschließlichen Operation."
+      "Verzicht beim Seminom, Beibehaltung beim Nicht-Seminom",
+      "Verzicht beim Nicht-Seminom, Beibehaltung beim Seminom",
+      "Verzicht bei beiden Histologien nach drei unauffälligen Jahren",
+      "Ersatz der Thorax-CT durch Thorax-MRT bei beiden Histologien"
     ],
     "correct": 0,
-    "tip": "Dazu gehören insbesondere die Radiochemotherapie nach SAKK-01/10 und die primäre nervschonende RLA.",
-    "explanation": "Die wichtigsten Neuerungen beschreiben eine grundlegende Aktualisierung der Therapieempfehlungen für Seminome im Stadium II, einschließlich neuer deeskalierender Konzepte, der RLA als Option sowie neuer Empfehlungen bei unklaren bildgebenden Befunden."
+    "tip": "Das Metastasierungsmuster unterscheidet sich zwischen den beiden Histologien.",
+    "explanation": "Neu sind Empfehlung 11.3 (auf Thorax-Bildgebung sollte bei Seminom im Stadium I verzichtet werden) und 11.4 (beim Nicht-Seminom im Stadium I sollte weiterhin eine Thorax-Bildgebung erfolgen, da isolierte thorakale Metastasen auftreten können). Den MRT-Ersatz empfiehlt die Leitlinie nur für Abdomen/Becken (11.5)."
   },
   {
-    "question": "Welche Neuerung betrifft laut Vorspann die systemische Therapie metastasierter Keimzelltumoren allgemein?",
+    "question": "Ein 30-jähriger Patient hat ein Seminom im bildgebend verifizierten Stadium IIA. Welche Behandlungsoptionen nennt die in Version 2.0 grundlegend überarbeitete Empfehlung 8.23 als Soll-Optionen?",
     "options": [
-      "Präzisierung der Chemotherapieregime entsprechend den IGCCCG-Prognosegruppen, differenziertere Empfehlungen zum Bleomycin-Einsatz und stärkere Konzentration komplexer Therapien auf Expertenzentren.",
-      "Die vollständige Abschaffung von Cisplatin als Therapiebestandteil.",
-      "Eine generelle Reduktion aller Chemotherapiezyklen auf einen einzigen Zyklus.",
-      "Der Ersatz aller Chemotherapieschemata durch reine Immuntherapie."
+      "Radiatio retroperitoneal/pelvin mit 30 Gy oder 3 Zyklen PEB",
+      "1 Zyklus Carboplatin AUC 7 + 30 Gy involved node oder RLA im Zentrum",
+      "1 Zyklus Carboplatin AUC 7 + 36 Gy involved node oder 4 Zyklen PE",
+      "2 Zyklen Carboplatin AUC 7 oder paraaortale Radiatio mit 20 Gy"
     ],
-    "correct": 0,
-    "tip": "Dies spiegelt sich unter anderem in den detaillierten Empfehlungen zu PEB, PEI und den Wachstumsfaktor-Einsätzen wider.",
-    "explanation": "Die Aktualisierung umfasst eine Präzisierung der Chemotherapieregime nach IGCCCG-Prognosegruppen, differenziertere Bleomycin-Empfehlungen und eine stärkere Konzentration komplexer Therapien auf Expertenzentren."
+    "correct": 1,
+    "tip": "Die bisherigen Standardtherapien sollen wegen ihrer Toxizitäten zurückhaltender eingesetzt werden.",
+    "explanation": "Empfehlung 8.23 (modifiziert 2026): Im bildgebend verifizierten Stadium IIA sollen entweder eine deeskalierte Radiochemotherapie (1 Zyklus Carboplatin AUC 7 + 30 Gy involved node, analog SAKK 01/10) oder eine retroperitoneale Lymphadenektomie (RLA) in hochspezialisierten Zentren erfolgen; 3 Zyklen PEB bzw. die retroperitoneale und pelvine Radiatio mit 30 Gy sollten zurückhaltend eingesetzt werden. Die 36 Gy involved node gelten für das Stadium IIB (8.24)."
   },
   {
-    "question": "Was wurde laut Vorspann hinsichtlich des Nachsorgekapitels grundlegend überarbeitet, inklusive eines neuen Biomarkers?",
+    "question": "Wann soll laut Version 2.0 der Serumtumormarkerabfall unter Standarddosis-Chemotherapie analysiert werden, um das Ansprechen zu beurteilen?",
     "options": [
-      "Neue risikoadaptierte Nachsorgeempfehlungen mit stärkerer Nutzung der MRT zur Reduktion der Strahlenexposition sowie erstmalige Empfehlungen zum Einsatz der miRNA-371a-3p als ergänzendem Biomarker.",
-      "Die komplette Abschaffung jeder Nachsorge nach Therapieabschluss.",
-      "Die Einführung einer monatlichen PET/CT für alle Patienten über 10 Jahre.",
-      "Der Verzicht auf jede Form von Serumtumormarker-Bestimmung in der Nachsorge."
+      "Nach dem ersten, spätestens nach dem zweiten Zyklus",
+      "Nach dem zweiten Zyklus und erneut nach Therapieende",
+      "Vor Beginn jedes einzelnen Chemotherapiezyklus",
+      "Sechs Wochen nach Abschluss des letzten Zyklus"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich wurden die Nachsorgetabellen überarbeitet und vereinheitlicht, um Untersuchungsmodalitäten und Intervalle übersichtlicher darzustellen.",
-    "explanation": "Das Nachsorgekapitel wurde grundlegend überarbeitet mit neuen risikoadaptierten Empfehlungen, stärkerer MRT-Nutzung zur Strahlenreduktion und der erstmaligen Integration der miRNA-371a-3p als ergänzendem Biomarker."
+    "correct": 2,
+    "tip": "Je früher ein inadäquater Abfall erkannt wird, desto früher kann über eine Intensivierung entschieden werden.",
+    "explanation": "Empfehlung 8.48 (V2.0): Vor jedem Zyklus einer Standarddosis-Chemotherapie soll der Serumtumormarkerabfall analysiert werden; Version 1 (8.46) forderte dies nach einem, spätestens nach zwei Zyklen. Bei inadäquatem Abfall soll die Evaluation einer Therapieintensivierung zu Zyklus 2 an einem Expertenzentrum erfolgen (Empfehlung 8.46 der Version 2.0)."
   },
   {
-    "question": "Wie veränderte sich laut der Änderungstabelle (Tabelle 31) die Formulierung zur GCNIS-Progressionsrate unter Beobachtung von Version 1.0 zu Version 2.0 (alte Empfehlung 8.2 → neue 8.4)?",
+    "question": "Wie regelt Version 2.0 die Diagnosesicherung eines extragonadalen Keimzelltumors?",
     "options": [
-      "Beide Versionen nennen übereinstimmend eine Progressionsrate von etwa 50% innerhalb von 5 Jahren – die Aussage wurde lediglich als 'modifiziert 2026' gekennzeichnet, ohne inhaltliche Änderung der Kernzahl.",
-      "Die neue Version änderte die Progressionsrate auf 90% innerhalb von 1 Jahr.",
-      "Die alte Version nannte 5%, die neue Version 95% – eine drastische Erhöhung.",
-      "Die Angabe wurde komplett gestrichen und durch keine neue Aussage ersetzt."
+      "Histologische Sicherung nur bei fehlender eindeutiger Serumtumormarkerkonstellation",
+      "Primär über FDG-PET/CT und Marker; Biopsie nur bei unklarer Befundkonstellation",
+      "Grundsätzlich bioptisch; bei Biopsie-Kontraindikation und eindeutigen Markern auch ohne",
+      "Grundsätzlich durch Resektion des Primärtumors; Biopsie nur bei Inoperabilität"
     ],
-    "correct": 0,
-    "tip": "Beide Fassungen sprechen von 'etwa 50% der Fälle innerhalb von 5 Jahren' – der Unterschied liegt vor allem in der Kennzeichnung als überarbeitete Aussage.",
-    "explanation": "Laut Tabelle 31 blieb die Kernaussage zur GCNIS-Progression (etwa 50% innerhalb von 5 Jahren) zwischen alter Empfehlung 8.2 und neuer Empfehlung 8.4 inhaltlich im Wesentlichen gleich, wurde aber als 'modifiziert 2026' gekennzeichnet."
+    "correct": 2,
+    "tip": "Die Neufassung kehrt das Regel-Ausnahme-Verhältnis der Vorversion um.",
+    "explanation": "Empfehlung 8.52 (V2.0) ersetzt 10.6 (V1): Die Diagnose eines extragonadalen KZT soll grundsätzlich bioptisch gesichert werden; nur bei Kontraindikation für eine Biopsie kann sie bei eindeutiger Serumtumormarkerkonstellation auch ohne Histologie gestellt werden. Früher war eine histologische Sicherung nur bei fehlender eindeutiger Markerkonstellation vorgesehen."
   },
   {
-    "question": "Welche neue Empfehlung (8.12) wurde in Version 2.0 speziell für die Konstellation 'GCNIS im Einzelhoden' ergänzt?",
+    "question": "Nichtseminom im Stadium IIC/III mit guter Prognose und Kontraindikation gegen Bleomycin: Wie hat sich die Empfehlung von Version 1 zu Version 2.0 verändert?",
     "options": [
-      "In Abhängigkeit von Fertilität und Hormonstatus sollen Überwachung, Radiatio des Hodens mit 18–20 Gy oder Ablatio testis besprochen werden.",
-      "Es soll in jedem Fall sofort eine bilaterale Ablatio testis erfolgen.",
-      "Es ist keine weitere Therapie oder Überwachung notwendig.",
-      "Es soll ausschließlich eine systemische Chemotherapie ohne jede lokale Maßnahme erfolgen."
+      "Von 4 Zyklen EP (soll) zu 3 Zyklen PE (sollte)",
+      "Von 4 Zyklen EP (sollte) zu 4 Zyklen PEI (soll)",
+      "Von 3 Zyklen EP (soll) zu 4 Zyklen PE (soll)",
+      "Von 4 Zyklen EP (sollte) zu 4 Zyklen PE (soll)"
     ],
-    "correct": 0,
-    "tip": "Diese neue Empfehlung ergänzt die bereits bestehenden Empfehlungen 8.6 und 8.7 zu den anderen GCNIS-Konstellationen.",
-    "explanation": "Die neue Empfehlung 8.12 (neu 2026) sieht bei GCNIS im Einzelhoden vor, dass in Abhängigkeit von Fertilität und Hormonstatus Überwachung, Radiatio mit 18–20 Gy oder Ablatio testis besprochen werden sollen."
+    "correct": 3,
+    "tip": "EP und PE bezeichnen dieselbe Kombination – achten Sie auf Zyklenzahl und Verbindlichkeit.",
+    "explanation": "Empfehlung 8.40 (V2.0): Bei Kontraindikationen gegen Bleomycin sollen Patienten mit Nichtseminom im Stadium IIC/III und guter Prognose 4 Zyklen PE erhalten; Version 1 (8.38) formulierte dies als „sollten … vier Zyklen EP“. 4 Zyklen PEI sind die Alternative bei Bleomycin-Kontraindikation in der intermediären Prognosegruppe (8.41, 8.42)."
   },
   {
-    "question": "Welche Neuerung betrifft laut Vorspann die Residualtumorchirurgie in Version 2.0?",
+    "question": "Version 2.0 enthält erstmals Empfehlungen zur minimal-invasiven Residualtumorresektion. Welche Aussage entspricht der neuen Empfehlung 8.86?",
     "options": [
-      "Umfassende Aktualisierung mit differenzierten Empfehlungen zur thorakalen Residualtumorresektion sowie erstmaligen Empfehlungen zum Einsatz minimal-invasiver Operationsverfahren.",
-      "Die vollständige Abschaffung der Residualtumorresektion als Therapieoption.",
-      "Residualtumorresektion ist nun nur noch bei Tumoren unter 1 mm indiziert.",
-      "Es wurden keine Änderungen an den Empfehlungen zur Residualtumorchirurgie vorgenommen."
+      "Soll bei technisch resektablen Residuen als Standardverfahren erfolgen",
+      "Sollte wegen fehlender Langzeitdaten nur innerhalb klinischer Studien erfolgen",
+      "Kann auf Entscheidung des Operateurs ohne Tumorboard-Beschluss erfolgen",
+      "Kann in ausgewählten Fällen bei sorgfältiger Patientenselektion erfolgen"
     ],
-    "correct": 0,
-    "tip": "Dazu zählt auch die Diskussion robotisch-assistierter Techniken, etwa bei der primären RLA im Stadium IIA/B.",
-    "explanation": "Die wichtigsten Neuerungen umfassen eine umfassende Aktualisierung der Empfehlungen zur Residualtumorchirurgie, einschließlich differenzierter Empfehlungen zur thorakalen Resektion und erstmaliger Empfehlungen zu minimal-invasiven Verfahren."
+    "correct": 3,
+    "tip": "Neue operative Zugänge müssen sich an den etablierten onkologischen Resektionsstandards messen lassen.",
+    "explanation": "Empfehlung 8.86 (neu 2026): Die Residualtumorresektion kann in ausgewählten Fällen minimal-invasiv (laparoskopisch oder robotisch assistiert) erfolgen; Voraussetzung ist eine sorgfältige Selektion (limitierte Tumorausdehnung, radiologisch kein Hinweis auf vaskuläre Invasion, technische Resezierbarkeit). Laut 8.87 sollte die Indikation im interdisziplinären Tumorboard gestellt werden."
   },
   {
-    "question": "Welche Neuerung betrifft laut Vorspann die Behandlung vital bedrohlicher Situationen bei Erstdiagnose eines metastasierten Keimzelltumors?",
+    "question": "Welche Empfehlung zur primären operativen Versorgung wurde in Version 2.0 neu aufgenommen?",
     "options": [
-      "Überarbeitung der Empfehlungen einschließlich Kriterien für einen sofortigen Beginn der Chemotherapie ohne vorherige Orchiektomie sowie zum Vorgehen nach abgeschlossener Induktionschemotherapie.",
-      "Die generelle Abschaffung der Orchiektomie als Therapiebestandteil.",
-      "Eine Verpflichtung, in jedem Fall zunächst die Orchiektomie durchzuführen, unabhängig von der klinischen Dringlichkeit.",
-      "Der Verzicht auf jede Form von Cisplatin bei vital bedrohlichen Situationen."
+      "Allen Patienten soll vor der Ablatio testis ein Hodenimplantat angeboten werden",
+      "Allen Patienten sollte vor Ablatio testis eine Gegenhodenbiopsie angeboten werden",
+      "Ein Hodenimplantat soll erst nach Abschluss einer Chemotherapie angeboten werden",
+      "Allen Patienten soll statt Ablatio testis eine organerhaltende OP angeboten werden"
     ],
     "correct": 0,
-    "tip": "Dies spiegelt sich konkret in den neuen bzw. modifizierten Empfehlungen 8.35 bis 8.38 wider.",
-    "explanation": "Die wichtigsten Neuerungen umfassen die Überarbeitung der Empfehlungen zur Primärtherapie in vital bedrohlichen Situationen, einschließlich der Kriterien für einen sofortigen Chemotherapiebeginn ohne vorherige Orchiektomie und des Vorgehens danach."
+    "tip": "Die Neuerung zielt auf den psychologischen Nutzen und die Patientenzufriedenheit nach der Operation.",
+    "explanation": "Neu sind Empfehlung 8.2 (allen Patienten soll vor der Ablatio testis das Einsetzen eines Hodenimplantats angeboten werden) und 8.3: Das Implantat ist unabhängig von der noch folgenden Therapie sicher und hat für die Mehrzahl einen psychologischen Nutzen. Ebenfalls neu ist 8.1, wonach allen Patienten die Kryokonservierung vor der Ablatio testis angeboten werden soll."
   }
 ]
