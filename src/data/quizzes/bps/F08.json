@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welchen Status hat die monopolare transurethrale Resektion der Prostata (mTURP) in der interventionellen BPS-Therapie, und bis zu welchem Prostatavolumen wird sie uneingeschränkt empfohlen?",
+    "question": "Wie lautet Empfehlung 11.1 zur monopolaren transurethralen Resektion der Prostata (mTURP) hinsichtlich Volumengrenze und Empfehlungsgrad?",
     "options": [
-      "Ein rein experimentelles Verfahren ohne Volumenlimit.",
-      "Referenzverfahren aufgrund nachgewiesener Langzeiteffektivität; uneingeschränkt empfohlen bis zu einem Prostatavolumen von 80 cm³.",
-      "Ein veraltetes Verfahren, das nicht mehr eingesetzt werden soll.",
-      "Nur bei einem Prostatavolumen über 150 cm³ empfohlen."
+      "Referenzverfahren; bis 80 cm³ uneingeschränkt empfehlbar, Empfehlungsgrad A",
+      "Referenzverfahren; bis 100 cm³ uneingeschränkt empfehlbar, Empfehlungsgrad 0",
+      "Referenzverfahren; bis 60 cm³ uneingeschränkt empfehlbar, Empfehlungsgrad B",
+      "Referenzverfahren; bis 80 cm³ uneingeschränkt empfehlbar, Empfehlungsgrad 0"
     ],
-    "correct": 1,
-    "tip": "Die Grenze von 80 cm³ ist dabei von der Erfahrung des Operateurs abhängig und nicht starr.",
-    "explanation": "Die mTURP gilt aufgrund ihrer nachgewiesenen Langzeiteffektivität und hohen Anwendungszahl als Referenzverfahren und kann bei Prostatae bis 80 cm³ uneingeschränkt empfohlen werden (Empfehlungsgrad 0)."
+    "correct": 3,
+    "tip": "Die Volumengrenze leitet sich aus der mit der Drüsengröße steigenden Morbidität ab; der Grad folgt dem Modalverb im Empfehlungstext.",
+    "explanation": "Empfehlung 11.1 (Grad 0, LoE 1++): Die mTURP gilt aufgrund nachgewiesener Langzeiteffektivität und hoher Anwendungszahl als Referenzverfahren und kann bis 80 cm³ uneingeschränkt empfohlen werden. Laut Statement 11.4 (EK) ist diese Grenze von der operativen Erfahrung abhängig."
   },
   {
-    "question": "Was ist das TUR-Syndrom, und bei welcher Resektionstechnik tritt es praktisch nicht auf?",
+    "question": "Mit welcher Häufigkeit einer retrograden Ejakulation nach monopolarer TURP ist laut Hintergrundtext der Leitlinie zu rechnen?",
     "options": [
-      "Eine allergische Reaktion auf das Resektionsinstrument; tritt bei bipolarer und monopolarer TURP gleich häufig auf.",
-      "Eine hypoosmolare Hyperhydration durch Einschwemmung elektrolytfreier Spüllösung bei der monopolaren Technik; bei der bipolaren TURP (isotone Spüllösung) ist es praktisch ausgeschlossen.",
-      "Eine postoperative Harnwegsinfektion nach jeder TURP.",
-      "Ein Syndrom, das ausschließlich nach Laserverfahren auftritt."
+      "In 5–15 % der Fälle, im Mittel ca. 10 %",
+      "In 20–40 % der Fälle, im Mittel ca. 30 %",
+      "In 50–90 % der Fälle, im Mittel ca. 65 %",
+      "In 90–100 % der Fälle, im Mittel ca. 95 %"
     ],
-    "correct": 1,
-    "tip": "Bei multimorbiden Patienten kann aber auch unter bipolarer TURP eine relevante isotone Hyperhydratation entstehen.",
-    "explanation": "Das TUR-Syndrom entsteht durch Einschwemmung elektrolytfreier Spüllösung bei der monopolaren TURP; durch die lokale Neutralelektrode bei der bipolaren Technik ist eine isotone Spüllösung möglich, wodurch ein klassisches TUR-Syndrom praktisch ausgeschlossen ist."
+    "correct": 2,
+    "tip": "Denke an die Rolle des Blasenhalses beim Ejakulationsvorgang und daran, welcher Bereich bei der TURP abgetragen wird.",
+    "explanation": "Laut Hintergrund zu 11.3/11.4 tritt nach TURP in 50–90 % der Fälle eine retrograde Ejakulation auf (Mittelwert 65,4 %). Das TUR-Syndrom ist mit 0–1,4 % selten, die Reinterventionsrate liegt bei durchschnittlich 2,6 % pro Jahr."
   },
   {
-    "question": "Wie hoch ist die durchschnittliche Rate einer retrograden Ejakulation nach TURP?",
+    "question": "Was unterscheidet die bipolare von der monopolaren TURP hinsichtlich Spüllösung und Einschwemmungsrisiko?",
     "options": [
-      "Unter 1%.",
-      "Im Mittel 65,4% (Spannweite 50-90%).",
-      "100% aller Patienten, ausnahmslos.",
-      "Retrograde Ejakulation tritt nach TURP praktisch nie auf."
+      "Elektrolytfreie Spüllösung; das klassische TUR-Syndrom bleibt dabei das Hauptrisiko",
+      "Isotone Spüllösung; vermehrte Einschwemmung kann eine isotone Hyperhydratation bewirken",
+      "Isotone Spüllösung; eine Einschwemmung ist damit auch bei Multimorbidität unbedenklich",
+      "Elektrolytfreie Spüllösung; die Neutralelektrode liegt wie bei der mTURP am Patienten"
     ],
     "correct": 1,
-    "tip": "Dies ist einer der Hauptgründe, warum ejakulationsprotektive Verfahren wie TUIP oder UroLift für jüngere Patienten attraktiv sind.",
-    "explanation": "Eine retrograde Ejakulation tritt nach TURP in 50-90% der Fälle auf, mit einem Mittelwert von 65,4%."
+    "tip": "Überlege, wo der Stromkreis bei bipolarer Technik geschlossen wird und was das für die Wahl der Spülflüssigkeit bedeutet.",
+    "explanation": "Laut Hintergrund zu 11.5/11.6 wird der Stromkreis bei der bTURP lokal am Resektoskopschaft bzw. Arbeitselement erzeugt, sodass mit isotoner Lösung gespült werden kann und ein klassisches TUR-Syndrom unwahrscheinlich ist. Vermehrte Einschwemmung kann jedoch, insbesondere bei multimorbiden Patienten, eine klinisch relevante isotone Hyperhydratation verursachen."
   },
   {
-    "question": "Für welche Patientengruppe wird die transurethrale Inzision der Prostata (TUIP) laut Empfehlung 11.34 insbesondere empfohlen?",
+    "question": "Was zeigt die aktuelle Cochrane-Metaanalyse (59 RCTs) für die bipolare im Vergleich zur monopolaren TURP?",
     "options": [
-      "Für alle Patienten, unabhängig von Alter und Prostatagröße.",
-      "Für junge, sexuell aktive Männer mit kleinem Prostatavolumen (bis ca. 30 cm³).",
-      "Nur für Männer über 80 Jahre mit sehr großer Prostata.",
-      "Ausschließlich für Patienten mit Lichen sclerosus."
+      "Bessere IPSS-Werte nach zwölf Monaten, jedoch mehr Harnröhrenstrikturen",
+      "Vergleichbarer IPSS, jedoch höhere Transfusions- und Tamponadenrate",
+      "Vergleichbarer IPSS, dazu geringere Transfusions- und Tamponadenrate",
+      "Vergleichbarer IPSS, dazu deutlich seltener Harnröhrenstrikturen"
+    ],
+    "correct": 2,
+    "tip": "Die Statements 11.5 und 11.6 trennen zwischen Wirksamkeit und perioperativer Morbidität.",
+    "explanation": "Statements 11.5/11.6 (LoE 1++): vergleichbare Wirksamkeit bei geringerer perioperativer Morbidität; die Metaanalyse zeigte u. a. weniger Transfusionen (OR 0,49) und Blasentamponaden (OR 0,47). Bei Harnröhrenstrikturen und Blasenhalssklerose fand sich bis 60 Monate kein Unterschied."
+  },
+  {
+    "question": "Welche Empfehlung gibt die Leitlinie zur Wasserstrahlablation der Prostata (Aquablation)?",
+    "options": [
+      "Kann bei 30–80 cm³ in erfahrenen Zentren als Alternative zur TURP angeboten werden",
+      "Sollte bei >80 cm³ in erfahrenen Zentren als Alternative zur Enukleation angeboten werden",
+      "Soll bei 30–80 cm³ in erfahrenen Zentren als Ersatz der TURP angeboten werden",
+      "Sollte bei 30–80 cm³ in erfahrenen Zentren als Alternative zur TURP angeboten werden"
+    ],
+    "correct": 3,
+    "tip": "Die randomisierte Evidenz stammt aus einer einzigen verblindeten Studie mit 181 Männern – das prägt Volumenbereich und Empfehlungsstärke.",
+    "explanation": "Empfehlung 11.8 (Grad B, LoE 1+): Die Wasserstrahlablation sollte bei 30–80 cm³ in erfahrenen Zentren als Alternative zur TURP angeboten werden; bis drei Jahre zeigten sich gleichwertige Ergebnisse. Für 80–150 cm³ liegen lediglich Fallseriendaten vor."
+  },
+  {
+    "question": "Ein 70-jähriger Patient mit einem Prostatavolumen von 110 cm³ interessiert sich für eine Wasserstrahlablation. Worüber soll er laut Konsensempfehlung 11.9 besonders aufgeklärt werden?",
+    "options": [
+      "Über eine erhöhte Rate an TUR-Syndromen durch die Hochdruckspülung",
+      "Über ein erhöhtes Blutungsrisiko bis hin zur Bluttransfusion",
+      "Über eine fehlende Wirksamkeit des Verfahrens oberhalb von 80 cm³",
+      "Über eine Anejakulationsrate, die deutlich über der nach TURP liegt"
     ],
     "correct": 1,
-    "tip": "Ziel ist eine Desobstruktion mit möglichst geringer Morbidität, insbesondere unter Vermeidung der retrograden Ejakulation.",
-    "explanation": "Die TUIP kann bei jungen, sexuell aktiven Männern mit kleinem Prostatavolumen (≤30 cm³) empfohlen werden, da sie Miktionsparameter und Symptome deutlich verbessert (Empfehlungsgrad 0)."
+    "tip": "Denke an die Fallserie mit sehr großen Drüsen und an die dort berichteten Komplikationen.",
+    "explanation": "Empfehlung 11.9 (EK): Insbesondere bei großem Prostatavolumen (>80 cm³) sollen Patienten über ein erhöhtes Blutungsrisiko aufgeklärt werden; in der Fallserie mit 80–150 cm³ traten Blutungskomplikationen bei 13,9 % und Transfusionen bei 7,9 % auf. Die Wirksamkeit unterschied sich in einer post-hoc-Analyse nicht zwischen 30–80 und 80–150 cm³."
   },
   {
-    "question": "Welchen Vorteil bietet die TUIP gegenüber der TURP hinsichtlich der Ejakulation?",
+    "question": "Ein 76-jähriger Patient mit rezidivierendem Harnverhalt (Prostatavolumen 50 cm³) erhält nach Koronarstent eine Thrombozytenaggregationshemmung, die nicht pausiert werden kann. Welche Aussage entspricht Kapitel 11.1.1.2 der Leitlinie?",
     "options": [
-      "Keinen Unterschied – beide Verfahren haben identische Raten an retrograder Ejakulation.",
-      "Die antegrade Ejakulation kann bei 79% der TUIP-Patienten erhalten werden, mit deutlich geringeren Raten an retrograder Ejakulation als nach TURP.",
-      "Nach TUIP kommt es bei praktisch allen Patienten zu retrograder Ejakulation.",
-      "TUIP führt immer zu einem vollständigen und dauerhaften Verlust der Ejakulationsfähigkeit."
-    ],
-    "correct": 1,
-    "tip": "Im Schnitt liegt die Rate retrograder Ejakulation nach TUIP bei etwa 21%, deutlich unter der nach TURP.",
-    "explanation": "Die antegrade Ejakulation kann durch TUIP bei 79% der Patienten erhalten werden, mit Raten an retrograder Ejakulation von durchschnittlich 21% – deutlich weniger als nach TURP."
-  },
-  {
-    "question": "Welchen Nachteil hat die TUIP im Vergleich zur TURP trotz geringerer Nebenwirkungsrate?",
-    "options": [
-      "Eine deutlich höhere Reoperationsrate (18,4% vs. 7,2% nach TURP).",
-      "Eine deutlich höhere Mortalität.",
-      "Ein deutlich höheres Transfusionsrisiko als bei der TURP.",
-      "Es gibt laut Leitlinie keinen Nachteil der TUIP gegenüber der TURP."
+      "Eine Greenlightlaser-Vaporisation kann nach sorgfältiger Risikoabwägung erfolgen",
+      "Eine Greenlightlaser-Vaporisation ist erst nach Umstellung auf Heparin möglich",
+      "Eine monopolare TURP ist auch unter fortgeführter TAH als Referenz vorzuziehen",
+      "Eine Diodenlaser-Vaporisation ist unter TAH als Verfahren der Wahl empfohlen"
     ],
     "correct": 0,
-    "tip": "Die geringere Invasivität und der Ejakulationserhalt werden also mit einer höheren Rate späterer Re-Eingriffe erkauft.",
-    "explanation": "Die TUIP zeigt gegenüber der TURP eine deutlich höhere Reoperationsrate (18,4% vs. 7,2%, RR 2,40), bei gleichzeitig geringerer Transfusionsrate und besserem Ejakulationserhalt."
+    "tip": "Überlege, welches Vaporisationsverfahren die Leitlinie ausdrücklich für Patienten mit nicht pausierbarer Gerinnungshemmung adressiert.",
+    "explanation": "Empfehlung 11.14 (EK): Die Greenlightlaser-Vaporisation kann nach sorgfältiger Risikoabwägung bei nicht pausierbarer oraler Antikoagulation oder Thrombozytenaggregationshemmung durchgeführt werden. Prospektiv-randomisierte Sicherheitsdaten fehlen; eine Metaanalyse zeigte unter OAK/TAH lediglich eine um 0,54 Tage längere Katheterdauer."
   },
   {
-    "question": "Für welchen Prostatavolumenbereich kann die photoselektive Vaporisation der Prostata (PVP/Greenlightlaser) laut Empfehlung 11.12 in erfahrenen Zentren als Alternative zur TURP angeboten werden?",
+    "question": "Welche Aussage zum Vergleich der Greenlightlaser-Vaporisation (PVP) mit der TURP trifft laut Hintergrundtext zu?",
     "options": [
-      "Nur bei einem Volumen unter 10 cm³.",
-      "Bei einem Prostatavolumen zwischen 30 und 80 cm³.",
-      "Ausschließlich bei einem Volumen über 150 cm³.",
-      "PVP wird unabhängig vom Volumen generell nicht empfohlen."
+      "Kürzere Operationsdauer, jedoch signifikant höhere Transfusionsrate nach PVP",
+      "Kürzere Operationsdauer und niedrigeres Reinterventionsrisiko nach PVP",
+      "Längere Operationsdauer und signifikant mehr Blasenhalssklerosen nach PVP",
+      "Längere Operationsdauer, aber kürzere Katheter- und Liegedauer nach PVP"
+    ],
+    "correct": 3,
+    "tip": "Unterscheide operationstechnische Parameter von Verlaufsparametern wie Reintervention und Spätkomplikationen.",
+    "explanation": "Laut Hintergrund zu 11.12–11.14 zeigten Metaanalysen nach PVP eine längere Operationsdauer, aber kürzere Katheterisierungs- und Hospitalisationsdauer sowie weniger Transfusionen (0,3 % vs. 7,7 %). Das Reinterventionsrisiko war nach PVP erhöht (RR 1,81), Blasenhalssklerosen traten nicht signifikant häufiger auf."
+  },
+  {
+    "question": "Bei welchem der folgenden transurethralen Verfahren wird laut Leitlinie – anders als bei der reinen Vaporisation – Gewebe asserviert?",
+    "options": [
+      "Bipolare Elektrovaporisation der Prostata (TUEVP)",
+      "Transurethrale Vaporesektion der Prostata (TUVRP)",
+      "Holmiumlaser-Ablation der Prostata (HoLAP)",
+      "Diodenlaser-Vaporisation der Prostata (980 nm)"
     ],
     "correct": 1,
-    "tip": "Dieser Volumenbereich deckt sich mit dem klassischen TURP-Einsatzbereich.",
-    "explanation": "Die PVP kann Patienten mit einem Prostatavolumen zwischen 30 und 80 cm³ in erfahrenen Zentren als Alternative zur TURP angeboten werden (EK)."
+    "tip": "Frage dich bei jedem Verfahren, ob am Ende Gewebechips für den Pathologen gewonnen werden.",
+    "explanation": "Laut Kapitel 11.1.1.3 erfolgt bei der TUVRP im Gegensatz zur reinen Elektrovaporisation eine Gewebeasservation; laut Statement 11.18 (EK) ist sie der TURP bis zu fünf Jahren ähnlich wirksam. Bei TUEVP, HoLAP und Diodenlaser-Vaporisation wird Gewebe verdampft und nicht asserviert."
   },
   {
-    "question": "Welchen Vorteil zeigt die PVP gegenüber der TURP hinsichtlich perioperativer Sicherheit, insbesondere bei Patienten unter Antikoagulation?",
+    "question": "Wie bewertet die Leitlinie die Diodenlaser-Vaporisation der Prostata (Statement 11.17 und Hintergrund)?",
     "options": [
-      "Keinen Unterschied in der Transfusionsrate zwischen beiden Verfahren.",
-      "Eine signifikant geringere Transfusionsrate (0,3% nach PVP vs. 7,7% nach TURP); nach sorgfältiger Risikoabwägung kann PVP sogar bei nicht pausierbarer Antikoagulation/Thrombozytenaggregationshemmung durchgeführt werden.",
-      "Die PVP ist bei jeder Form von Antikoagulation strikt kontraindiziert.",
-      "Die Transfusionsrate ist nach PVP höher als nach TURP."
-    ],
-    "correct": 1,
-    "tip": "Dies macht die PVP zu einer bevorzugten Option bei nicht pausierbarer Antikoagulation.",
-    "explanation": "Die PVP zeigt eine signifikant geringere Transfusionsrate als die TURP (0,3% vs. 7,7%) und kann nach Risikoabwägung auch bei nicht pausierbarer OAK/TAH durchgeführt werden (Empfehlung 11.14, EK)."
-  },
-  {
-    "question": "Welche Operationsdauer- und Erholungsunterschiede zeigte die PVP gegenüber der TURP in Metaanalysen?",
-    "options": [
-      "Signifikant längere Operationsdauer, jedoch kürzere Katheterisierungs- und Hospitalisationsdauer.",
-      "Kürzere Operationsdauer und gleichzeitig kürzere Katheterisierungsdauer.",
-      "Es zeigten sich keinerlei Unterschiede in irgendeinem perioperativen Parameter.",
-      "Die PVP erforderte in jeder Studie einen längeren Krankenhausaufenthalt als die TURP."
+      "Besserung bis sechs Monate belegt; nach 24 Monaten der TURP unterlegen",
+      "Besserung bis fünf Jahre belegt; der TURP auch langfristig gleichwertig",
+      "Besserung bis zwölf Monate belegt; danach der Greenlight-PVP überlegen",
+      "Besserung bis drei Jahre belegt; mit niedrigerer Reoperationsrate als TURP"
     ],
     "correct": 0,
-    "tip": "Trotz längerer OP-Zeit erholen sich Patienten nach PVP im Mittel schneller.",
-    "explanation": "Metaanalysen zeigten eine signifikant längere Operationsdauer der PVP gegenüber der TURP, jedoch eine kürzere Katheterisierungs- und Hospitalisationsdauer."
-  },
-  {
-    "question": "Welches Risiko war nach PVP im Vergleich zu anderen untersuchten Techniken laut einer Netzwerk-Metaanalyse zur postoperativen erektilen Funktion signifikant erhöht?",
-    "options": [
-      "Eine signifikante Reduktion des IIEF-5 im kurzfristigen postoperativen Verlauf (12 Monate), die bei keiner der anderen untersuchten Techniken in diesem Ausmaß auftrat.",
-      "Es besteht laut Leitlinie überhaupt kein Risiko für die erektile Funktion nach PVP.",
-      "PVP verbessert die erektile Funktion signifikant stärker als alle anderen Verfahren.",
-      "Dieses Thema wurde in der Leitlinie nicht untersucht."
-    ],
-    "correct": 0,
-    "tip": "Dieser Befund sollte in die präoperative Aufklärung, insbesondere sexuell aktiver Patienten, einfließen.",
-    "explanation": "In einer Netzwerk-Metaanalyse aller untersuchten Techniken zeigte sich lediglich bei der PVP eine signifikante Reduktion des IIEF-5 im kurzfristigen postoperativen Verlauf von 12 Monaten."
+    "tip": "Der Begriff Diodenlaser umfasst verschiedene Wellenlängen; die Ergebnisse sind daher an Wellenlänge und Leistung zu messen.",
+    "explanation": "Statement 11.17 (LoE 1-): Verbesserung von Miktionsparametern und Symptomen im frühen Verlauf bis sechs Monate. In der einzigen RCT (980 nm vs. TURP) zeigten sich nach 12 und 24 Monaten Vorteile für die TURP; in einer Vergleichsstudie lag die Reoperationsrate nach sechs Monaten bei 18 %."
   }
 ]

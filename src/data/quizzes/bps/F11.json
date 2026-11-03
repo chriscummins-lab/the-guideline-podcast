@@ -1,122 +1,122 @@
 [
   {
-    "question": "Für welche Situation ist die offene Adenomenukleation laut Empfehlung 11.42 (Empfehlungsgrad 0) besonders sinnvoll, trotz ihrer hohen Invasivität?",
+    "question": "Wie lautet Empfehlung 11.42 zur offenen Adenomenukleation?",
     "options": [
-      "Bei sehr kleinen Prostatavolumina unter 20 cm³.",
-      "Bei sehr großen Prostatavolumina, insbesondere bei gleichzeitiger Behandlung großer/zahlreicher Blasensteine und/oder Blasen(pseudo)divertikel.",
-      "Nur bei jungen, asymptomatischen Patienten.",
-      "Ausschließlich bei begleitendem Prostatakarzinom."
+      "Soll bei sehr großen Prostatavolumina als Verfahren der ersten Wahl angeboten werden (Grad A)",
+      "Kann bei sehr großen Volumina angeboten werden, v. a. bei Blasensteinen oder Divertikeln (Grad 0)",
+      "Sollte wegen hoher Invasivität auf Fälle mit Harnröhrenstriktur beschränkt werden (Grad B)",
+      "Kann bei sehr großen Volumina angeboten werden, v. a. bei nicht pausierbarer Antikoagulation (Grad 0)"
     ],
     "correct": 1,
-    "tip": "Die maximale Gewebsreduktion macht sie gerade bei komplexen Begleitpathologien attraktiv.",
-    "explanation": "Die offene Adenomenukleation kann bei sehr großen Prostatavolumina angeboten werden und ist insbesondere bei gleichzeitiger Behandlung großer/zahlreicher Blasensteine und/oder Blasen(pseudo)divertikel sinnvoll (Empfehlungsgrad 0)."
+    "tip": "Die hohe Invasivität steht einer maximalen Gewebsreduktion mit langanhaltendem Effekt gegenüber.",
+    "explanation": "Empfehlung 11.42 (Grad 0, LoE 2-): Die offene Adenomenukleation gilt trotz hoher Invasivität als wichtiges Verfahren und kann bei sehr großen Prostatavolumina angeboten werden; sie ist insbesondere bei gleichzeitiger Behandlung großer oder zahlreicher Blasensteine und/oder Blasen(pseudo)divertikel sinnvoll. Unter nicht pausierbarer Antikoagulation hebt die Leitlinie andere Verfahren hervor, etwa Laserverfahren oder die PAE."
   },
   {
-    "question": "Welche zwei klassischen operativen Zugangswege gibt es für die offene Adenomenukleation?",
+    "question": "Worin unterscheiden sich die klassischen Zugänge nach Freyer und nach Millin bei der offenen Adenomenukleation?",
     "options": [
-      "Nur einen einzigen, standardisierten Zugang.",
-      "Suprapubisch/transvesikal (Verfahren nach Freyer) und retropubisch/extravesikal-transkapsulär (Verfahren nach Millin).",
-      "Ausschließlich laparoskopisch oder robotergestützt.",
-      "Nur einen perinealen Zugang."
+      "Freyer: retropubisch ohne Blaseneröffnung; Millin: suprapubisch transvesikal",
+      "Freyer: perineal transkapsulär; Millin: retropubisch mit Blaseneröffnung",
+      "Freyer: suprapubisch transvesikal; Millin: retropubisch ohne Blaseneröffnung",
+      "Freyer: suprapubisch transvesikal; Millin: perineal ohne Blaseneröffnung"
     ],
-    "correct": 1,
-    "tip": "Beide klassischen Zugänge ermöglichen eine Adenomausschälung mit dem Finger entlang der chirurgischen Kapsel.",
-    "explanation": "Die offene Adenomenukleation erfolgt klassischerweise entweder suprapubisch durch die Blase (Freyer) oder retropubisch extravesikal-transkapsulär (Millin)."
+    "correct": 2,
+    "tip": "Beide Techniken schälen das Adenom mit dem Finger aus der chirurgischen Kapsel – sie unterscheiden sich im Weg dorthin.",
+    "explanation": "Laut Kapitel 11.2 erfolgt der Zugang nach Freyer suprapubisch durch die Blase mittels vesiko(-kapsulärem) Schnitt, nach Millin retropubisch ohne Eröffnung der Harnblase über einen extravesikal-transkapsulären Schnitt der vorderen Prostatakapsel. Beide ermöglichen die digitale Ausschälung des Adenoms aus der chirurgischen Kapsel."
   },
   {
-    "question": "Wie unterscheiden sich die minimal-invasive (laparoskopische/roboterassistierte, MISP) und die offene Adenomenukleation (OSP) bezüglich Wirksamkeit und perioperativem Verlauf?",
+    "question": "Welche Aussage entspricht Konsensstatement 11.43 zur laparoskopischen bzw. roboterassistierten Adenomenukleation im Vergleich zur offenen Operation?",
     "options": [
-      "Beide unterscheiden sich signifikant in der IPSS- und Qmax-Verbesserung.",
-      "Vergleichbare Wirksamkeit (IPSS, Qmax, Restharn), aber MISP zeigt geringeren Blutverlust, kürzere Katheter-/Krankenhausverweildauer und weniger Komplikationen bei gleichzeitig längerer Operationszeit.",
-      "MISP ist der OSP in der Symptomverbesserung deutlich unterlegen.",
-      "Die OSP hat in allen Studien die kürzere Operationszeit."
-    ],
-    "correct": 1,
-    "tip": "Die roboterassistierte Technik kann z.B. die Transfusionsrate von 29% auf 8% senken.",
-    "explanation": "MISP und OSP zeigen vergleichbare Wirksamkeit bei IPSS, Qmax und Restharn; MISP ist perioperativ sicherer (weniger Blutverlust, kürzere Verweildauer), benötigt aber mehr Operationszeit."
-  },
-  {
-    "question": "Wie hoch ist die Rate einer retrograden Ejakulation nach offener Adenomenukleation, und wie kann sie reduziert werden?",
-    "options": [
-      "Etwa 79%; mittels harnröhrenschonender Operationstechnik kann bei 81% der Patienten die anterograde Ejakulation erhalten werden.",
-      "0% – die offene Adenomenukleation beeinträchtigt die Ejakulation nie.",
-      "100%, ohne jede Möglichkeit zur Modifikation.",
-      "Diese Frage wurde in der Leitlinie nicht untersucht."
+      "Gleiche Effektivität, weniger Blutverlust, aber längere Operationsdauer",
+      "Bessere Effektivität, weniger Blutverlust und kürzere Operationsdauer",
+      "Gleiche Effektivität, mehr Blutverlust, aber kürzere Operationsdauer",
+      "Geringere Effektivität, weniger Blutverlust und kürzere Liegedauer"
     ],
     "correct": 0,
-    "tip": "Diese Modifikation ist besonders für jüngere, sexuell aktive Patienten mit sehr großer Prostata relevant.",
-    "explanation": "Nach offener Adenomenukleation tritt bei etwa 79% der sexuell aktiven Patienten eine retrograde Ejakulation auf; mit harnröhrenschonender Technik kann bei 81% die anterograde Ejakulation erhalten werden."
+    "tip": "Unterscheide zwischen Effektivität, perioperativer Sicherheit und Operationsdauer.",
+    "explanation": "Statement 11.43 (EK): Moderne endoskopische und laparoskopische Verfahren mit/ohne Roboterassistenz können trotz längerer Operationsdauer Komplikationen wie erhöhten Blutverlust und eine längere Krankenhausverweildauer bei gleichbleibender Effektivität reduzieren. Laut Hintergrund sinkt z. B. die Transfusionsrate roboterassistiert von 29 % auf 8 %."
   },
   {
-    "question": "Wie schneidet die Prostata-Arterien-Embolisation (PAE) laut Statement 11.44 im direkten Vergleich zur TURP hinsichtlich objektiver Miktionsparameter und Komplikationen ab?",
+    "question": "Ein 66-jähriger, sexuell aktiver Patient fragt vor einer offenen Adenomenukleation nach seiner Ejakulation. Welche Angabe macht der Hintergrundtext der Leitlinie?",
     "options": [
-      "Sie ist der TURP bei der Verbesserung von Miktionsparametern signifikant unterlegen, geht aber mit signifikant weniger Komplikationen einher.",
-      "Sie ist der TURP in jeder Hinsicht überlegen.",
-      "Beide Verfahren sind vollkommen gleichwertig.",
-      "Die PAE weist deutlich mehr Komplikationen auf als die TURP."
+      "Retrograde Ejakulation bei ca. 21 %; harnröhrenschonend antegrad bei ca. 95 %",
+      "Retrograde Ejakulation bei ca. 50 %; harnröhrenschonend antegrad bei ca. 65 %",
+      "Retrograde Ejakulation bei ca. 95 %; harnröhrenschonend antegrad bei ca. 30 %",
+      "Retrograde Ejakulation bei ca. 79 %; harnröhrenschonend antegrad bei ca. 81 %"
+    ],
+    "correct": 3,
+    "tip": "Vergleiche mit der transurethralen Enukleation, die ebenfalls das gesamte Adenom aus der Kapsel entfernt.",
+    "explanation": "Laut Hintergrund zu 11.43 tritt nach offener Adenomenukleation bei etwa 79 % der sexuell aktiven Patienten eine retrograde Ejakulation auf; mit harnröhrenschonender Operationstechnik kann in 81 % eine anterograde Ejakulation erhalten werden. Die 21 % retrograde Ejakulation entsprechen dem Durchschnitt nach TUIP."
+  },
+  {
+    "question": "Wie lautet Empfehlung 11.45 zur Prostata-Arterien-Embolisation (PAE)?",
+    "options": [
+      "Sollte erwogen werden, wenn eine geringere Besserung der Miktionsparameter akzeptiert wird",
+      "Soll als gleichwertige Alternative zur TURP unabhängig vom Prostatavolumen angeboten werden",
+      "Kann nur innerhalb randomisierter Studien angeboten werden, da Sham-Vergleiche fehlen",
+      "Sollte erwogen werden, wenn eine geringere Besserung der Symptomatik akzeptiert wird"
     ],
     "correct": 0,
-    "tip": "Bei den subjektiven Symptomen (IPSS) ist der Unterschied zur TURP dagegen oft nur gering oder klinisch kaum relevant.",
-    "explanation": "Die PAE ist der TURP bei der Verbesserung objektiver Miktionsparameter signifikant unterlegen, geht jedoch mit signifikant weniger Komplikationen einher (Statement 11.44)."
+    "tip": "Unterscheide bei der PAE zwischen der Wirkung auf den IPSS und der auf Qmax, Restharn und Prostatavolumen.",
+    "explanation": "Empfehlung 11.45 (Grad B, LoE 1++): Die PAE sollte bei geeigneten Patienten erwogen werden, die bereit sind, eine unterlegene Verbesserung objektiver Miktionsparameter zu akzeptieren. Die IPSS-Reduktion reicht laut Metaanalysen nahe an die TURP heran, und eine verblindete Studie zeigte eine klare Überlegenheit gegenüber einer Schein-Intervention."
   },
   {
-    "question": "Für welche Patienten sollte die PAE laut Empfehlung 11.45 (Empfehlungsgrad B) in Erwägung gezogen werden?",
+    "question": "Welche Voraussetzungen fordert Konsensempfehlung 11.46 für Indikationsstellung und Durchführung einer PAE?",
     "options": [
-      "Für alle Patienten als generelle Erstlinientherapie, unabhängig von Präferenzen.",
-      "Für Patienten, die für diese minimal-invasive Therapie geeignet und bereit sind, eine unterlegene Verbesserung objektiver Miktionsparameter zu akzeptieren.",
-      "Nur für Patienten mit akutem Harnverhalt.",
-      "Ausschließlich für Patienten unter 40 Jahren."
-    ],
-    "correct": 1,
-    "tip": "Eine umfassende Aufklärung über diesen Trade-off ist daher essenziell für die Patientenselektion.",
-    "explanation": "Die PAE sollte bei Patienten in Erwägung gezogen werden, die für diese minimal-invasive Therapie geeignet und bereit sind, eine unterlegene Verbesserung objektiver Miktionsparameter zu akzeptieren (Empfehlungsgrad B)."
-  },
-  {
-    "question": "Wer soll laut Empfehlung 11.46 die Indikation zur PAE stellen, und wer soll den Eingriff durchführen?",
-    "options": [
-      "Jeder beliebige Arzt ohne spezielle Qualifikation.",
-      "Die Indikation soll nach urologischer Abklärung im interdisziplinären Konsens gestellt werden; der Eingriff soll durch einen spezialisierten interventionellen Radiologen erfolgen.",
-      "Die Indikation soll ausschließlich durch den Hausarzt gestellt werden.",
-      "Es bestehen keine besonderen Anforderungen an die Qualifikation."
-    ],
-    "correct": 1,
-    "tip": "Dies unterstreicht den interdisziplinären Charakter dieses endovaskulären Verfahrens.",
-    "explanation": "Die PAE soll nur im interdisziplinären Konsens durchgeführt werden; die Indikation soll nach urologischer Abklärung gestellt und der Eingriff durch einen spezialisierten interventionellen Radiologen durchgeführt werden (EK)."
-  },
-  {
-    "question": "Was zeigte die verblindete Sham-kontrollierte Studie (PAE vs. Schein-Intervention ohne Embolisation) nach sechs Monaten?",
-    "options": [
-      "Keinen Unterschied zwischen PAE und Schein-Intervention.",
-      "Die PAE war der Schein-Intervention deutlich überlegen, mit einem IPSS-Unterschied von 13,2 Punkten und einer signifikanten Qmax-Verbesserung.",
-      "Die Schein-Intervention war wirksamer als die PAE.",
-      "Eine solche Studie wurde nie durchgeführt."
-    ],
-    "correct": 1,
-    "tip": "Zudem benötigten nach sechs Monaten 91,9% der Sham-Gruppe weiterhin Tamsulosin, gegenüber nur 5,13% nach PAE.",
-    "explanation": "In der verblindeten Studie war die PAE der Schein-Intervention deutlich überlegen, mit einem IPSS-Unterschied von 13,2 Punkten und signifikanter Qmax-Verbesserung."
-  },
-  {
-    "question": "Welchen praktischen Vorteil bietet die PAE insbesondere bei Risikopatienten mit sehr großer Prostata und bestehender Antikoagulation?",
-    "options": [
-      "Es besteht kein oberes Volumenlimit, und der Eingriff kann in Lokalanästhesie unter routinemäßiger Fortführung der Antikoagulation durchgeführt werden.",
-      "Die PAE erfordert immer eine Vollnarkose und das vorherige Pausieren jeder Antikoagulation.",
-      "Die PAE ist ausschließlich bei kleinem Prostatavolumen durchführbar.",
-      "Es gibt keine besonderen Vorteile der PAE bei dieser Patientengruppe."
+      "Indikation nach urologischer Abklärung, Eingriff durch spezialisierte Radiologie",
+      "Indikation durch die Radiologie, urologische Abklärung erst bei Komplikationen",
+      "Indikation nach urologischer Abklärung, Eingriff durch den Urologen selbst",
+      "Indikation allein anhand der Bildgebung, Eingriff durch spezialisierte Radiologie"
     ],
     "correct": 0,
-    "tip": "Dem steht als Nachteil die Strahlenexposition gegenüber, die etwa drei Abdomen-CTs entspricht.",
-    "explanation": "Die PAE wird in Lokalanästhesie unter routinemäßiger Fortführung antikoagulativer Medikamente durchgeführt, und es besteht kein oberes Limit für das Prostatavolumen."
+    "tip": "Die PAE ist ein endovaskuläres Verfahren für ein urologisches Krankheitsbild – daraus ergibt sich die Schnittstelle.",
+    "explanation": "Empfehlung 11.46 (EK): Die PAE soll nur im interdisziplinären Konsens durchgeführt werden; die Indikation soll nur nach urologischer Abklärung gestellt und der Eingriff von einem spezialisierten interventionellen Radiologen durchgeführt werden. Weitere Studien sollen laut 11.47 v. a. Langzeiteffekt und optimale Patientenselektion klären."
   },
   {
-    "question": "Warum gelten temperaturbasierte Verfahren wie TUNA (transurethrale Nadelablation) und TUMT (Mikrowellenthermotherapie) heute im deutschsprachigen Raum weitgehend als \"historische Verfahren\"?",
+    "question": "Ein 82-jähriger multimorbider Patient mit einem Prostatavolumen von 150 cm³ erhält eine nicht pausierbare Antikoagulation. Welcher Aspekt spricht laut Hintergrundtext bei ihm für eine PAE?",
     "options": [
-      "Weil sie teurer sind als alle anderen Verfahren.",
-      "Weil ihre Langzeiteffizienz deutlich unter der der TURP liegt (z.B. TUNA: nach 2 Jahren deutlich schwächere IPSS- und Qmax-Verbesserung, Reinterventionsrate von 26,4% nach 10 Jahren).",
-      "Weil sie signifikant mehr Blutungskomplikationen verursachen als die TURP.",
-      "Weil sie gesetzlich verboten wurden."
+      "Besonders gutes Ansprechen gerade bei kleinem Prostatavolumen ohne Mittellappen",
+      "Durchführung ohne Kontrastmittel, daher auch bei Niereninsuffizienz geeignet",
+      "Lokalanästhesie unter Fortführung der Antikoagulation, keine obere Volumengrenze",
+      "Stärkere Verbesserung von Qmax und Restharn als nach TURP bei großen Drüsen"
+    ],
+    "correct": 2,
+    "tip": "Wäge das endovaskuläre Prinzip mit seinen Vor- und Nachteilen gegen die individuellen Risiken dieses Patienten ab.",
+    "explanation": "Laut Hintergrund zu 11.44–11.47 sind die Durchführung in Lokalanästhesie unter Fortführung antikoagulativer Medikamente und das fehlende obere Volumenlimit Vorteile der PAE, gerade bei Risikopatienten mit sehr großer Prostata. Nachteile sind u. a. die Kontrastmittelabhängigkeit, degenerative Gefäßveränderungen und ein schlechteres Ansprechen bei kleinem Prostatavolumen."
+  },
+  {
+    "question": "Welcher effektiven Strahlendosis entspricht eine PAE laut einer systematischen Übersichtsarbeit im Mittel ungefähr?",
+    "options": [
+      "Etwa 3 mSv, entsprechend etwa einem Drittel einer abdomino-pelvinen CT",
+      "Etwa 10 mSv, entsprechend etwa einer abdomino-pelvinen CT",
+      "Etwa 28 mSv, entsprechend etwa drei abdomino-pelvinen CTs",
+      "Etwa 85 mSv, entsprechend etwa neun abdomino-pelvinen CTs"
+    ],
+    "correct": 2,
+    "tip": "Die Dosis schwankt stark und ist in erfahrenen Zentren deutlich niedriger – relevant v. a. für die Aufklärung jüngerer Patienten.",
+    "explanation": "Laut Hintergrund zu 11.44–11.47 fand eine systematische Übersichtsarbeit ein mittleres Dosisflächenprodukt von 181,6 Gy·cm², entsprechend einer effektiven Dosis von 28,3 mSv bzw. etwa drei abdomino-pelvinen CTs. In erfahrenen Zentren sind deutlich niedrigere Werte (ca. 50–75 Gy·cm²) erreichbar."
+  },
+  {
+    "question": "Welche Zuordnung von historischem Verfahren und Wirkprinzip ist laut Kapitel 11.4 korrekt?",
+    "options": [
+      "TUNA – Mikrowellen über einen transurethralen Katheter mit urethraler Kühlung",
+      "TUMT – Mikrowellen über einen transurethralen Katheter mit urethraler Kühlung",
+      "HIFU – Radiofrequenzenergie über intraprostatisch platzierte Nadeln",
+      "WIT – fokussierte Ultraschallwellen über einen transrektalen Schallkopf"
     ],
     "correct": 1,
-    "tip": "TUNA wird international teilweise noch eingesetzt, im deutschsprachigen Raum aber kaum mehr.",
-    "explanation": "TUNA verbessert Symptome und Qmax nach zwei Jahren deutlich weniger als die TURP (IPSS-Differenz 4,7 Punkte, Qmax-Differenz 7,9 ml/s) mit einer Reinterventionsrate von 26,4% nach zehn Jahren – daher heute weitgehend verlassen."
+    "tip": "Die Verfahren unterscheiden sich in Energieform (Wasser, Radiofrequenz, Mikrowellen, Ultraschall) und Applikationsweg.",
+    "explanation": "Laut Kapitel 11.4 induziert die TUMT über einen transurethralen Katheter unter urethraler Kühlung mittels Mikrowellen eine Thermonekrose; durchgesetzt hat sich nur die HE-TUMT, deren Langzeiteffizienz deutlich unter der TURP liegt. Bei der TUNA werden Nadeln per Radiofrequenz erhitzt, beim HIFU wird transrektal fokussierter Ultraschall genutzt, bei der WIT 60 °C heißes Wasser mit Ballondilatation."
+  },
+  {
+    "question": "Warum werden ältere Lasertechniken wie ILC, VLAP, CLAP und TULIP laut Kapitel 11.4 heute kaum noch angewendet?",
+    "options": [
+      "Wegen fehlender Überlegenheit gegenüber Scheinbehandlungen in großen RCTs",
+      "Wegen eines Marktverbots durch die Zulassungsbehörden nach Sicherheitswarnungen",
+      "Wegen unzureichender mittelfristiger Wirksamkeit in Studien gegen die TURP",
+      "Wegen ihrer Verdrängung durch Greenlight-, Holmium- und Thuliumlaser-Verfahren"
+    ],
+    "correct": 3,
+    "tip": "Kapitel 11.4 nennt mehrere Gründe für das Verschwinden von Verfahren – für die älteren Lasertechniken steht einer im Vordergrund.",
+    "explanation": "Laut Kapitel 11.4 waren die mittelfristigen Ergebnisse von ILC, VLAP, CLAP und TULIP in Studien gegen die TURP ausreichend, aussagekräftige Langzeitdaten über fünf bis zehn Jahre fehlen jedoch. Vor allem die Etablierung von Greenlight-, Holmium- bzw. Thuliumlaser-Verfahren führte zur weitgehenden Abkehr von diesen Techniken."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie viel Prozent aller Patienten mit Peniskarzinom haben laut Kapitel 7.2.2.1 tastbare vergrößerte inguinale Lymphknoten bei Diagnose, und bei welchem Anteil davon liegen tatsächlich Metastasen vor?",
+    "question": "Wie viele Patienten mit Peniskarzinom haben laut Hintergrund zu Empfehlung 7.35 bei Diagnose tastbar vergrößerte Leistenknoten, und wie oft sind diese metastatisch bedingt?",
     "options": [
-      "Ca. 20 % haben tastbare Lymphknoten, bei ca. 75 % davon liegen Metastasen vor.",
-      "Ca. 90 % haben tastbare Lymphknoten, bei nur 5 % davon liegen Metastasen vor.",
-      "Tastbare Lymphknoten kommen bei Diagnose praktisch nie vor.",
-      "Es wird keine Prozentangabe gemacht."
+      "ca. 10 %, davon in etwa 50 % Metastasen",
+      "ca. 20 %, davon in etwa 50 % Metastasen",
+      "ca. 20 %, davon in etwa 75 % Metastasen",
+      "ca. 30 %, davon in etwa 90 % Metastasen"
     ],
-    "correct": 0,
-    "tip": "Entwickeln sich bei Patienten unter klinischer Überwachung im Verlauf vergrößerte Leistenlymphknoten, sind diese praktisch immer durch Metastasen bedingt.",
-    "explanation": "Laut Kapitel 7.2.2.1 haben ca. 20 % aller Patienten mit Peniskarzinom bei Diagnose tastbare vergrößerte inguinale Lymphknoten, wobei bei etwa 75 % dieser Patienten tatsächlich Metastasen zugrunde liegen."
+    "correct": 2,
+    "tip": "Vergrößerte Leistenknoten können auch entzündlich geschwollen sein – das ändert aber nichts an der Pflicht zur raschen Abklärung.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.35 haben ca. 20 % aller Patienten bei Diagnose tastbar vergrößerte Leistenknoten, denen in etwa 75 % Metastasen zugrunde liegen; unter Überwachung neu auftretende Vergrößerungen sind praktisch immer metastatisch. Etwa 80–90 % haben dagegen einen unauffälligen Tastbefund (Kapitel 7.2.1)."
   },
   {
-    "question": "Was fordert Empfehlung 7.35 bei Patienten mit histologisch oder zytologisch nachgewiesenen Lymphknotenmetastasen?",
+    "question": "Ein 61-Jähriger hat nach Glansektomie (pT2 G3) einen 2,5 cm großen, verschieblichen, tastbaren Leistenknoten links. Welcher nächste Schritt entspricht der Leitlinie?",
     "options": [
-      "Die radikale inguinale Lymphadenektomie sollte erfolgen.",
-      "Eine alleinige Chemotherapie ohne jede operative Maßnahme.",
-      "Eine abwartende Beobachtung ohne weitere Intervention.",
-      "Eine radikale Lymphadenektomie wird bei nachgewiesenen Metastasen nicht empfohlen."
+      "Histologische oder zytologische Sicherung, bei Metastase ipsilaterale radikale LAD",
+      "Antibiotische Therapie über Wochen, Biopsie erst bei persistierendem Tastbefund",
+      "Beidseitige radikale inguinale LAD ohne vorherige histologische Sicherung",
+      "Schnittbildgebung und bei unauffälligem CT klinische Kontrolle nach 3 Monaten"
     ],
     "correct": 0,
-    "tip": "Bei der RIL werden sowohl die oberflächlichen als auch die tiefen inguinalen Lymphknoten reseziert, mit Ligatur der V. saphena magna am Übergang zur V. femoralis.",
-    "explanation": "Empfehlung 7.35 fordert, dass bei histologisch oder zytologisch nachgewiesenen Lymphknotenmetastasen die radikale inguinale Lymphadenektomie erfolgen sollte."
+    "tip": "Ein tastbarer Knoten kann entzündlich sein – entscheidend ist, wie schnell und auf welchem Weg Klarheit geschaffen wird.",
+    "explanation": "Nach Empfehlung 6.7 (EK) sollen tastbar vergrößerte Leistenknoten histologisch gesichert und bei Metastasennachweis ipsilateral radikal lymphadenektomiert werden; der Hintergrund zu Empfehlung 7.35 nennt auch die sonographiegestützte Biopsie. Die früher übliche wochenlange antibiotische Therapie darf laut Hintergrund in Kapitel 6.1 ausdrücklich nicht mehr erfolgen."
   },
   {
-    "question": "Unter welchen Bedingungen soll laut Empfehlung 7.36 eine ipsilaterale pelvine Lymphadenektomie erfolgen?",
+    "question": "Bei gesicherter Leistenmetastase rechts und kurativem Ansatz ist die linke Leiste klinisch unauffällig. Wie soll laut Empfehlung 6.7 links vorgegangen werden?",
     "options": [
-      "Bei zwei oder mehr befallenen inguinalen Lymphknoten oder bei kapselüberschreitenden Lymphknotenmetastasen.",
-      "Nur bei genau einem befallenen inguinalen Lymphknoten ohne Kapselüberschreitung.",
-      "Erst wenn bereits Fernmetastasen nachgewiesen wurden.",
-      "Eine pelvine Lymphadenektomie wird in der Leitlinie nicht empfohlen."
+      "Invasive Lymphknotendiagnostik mittels DSNB oder modifizierter Lymphadenektomie",
+      "Klinische Überwachung, da sich die Metastasierung streng ipsilateral ausbreitet",
+      "Radikale inguinale Lymphadenektomie auch auf der klinisch unauffälligen Seite",
+      "Sonographische Kontrollen, invasive Diagnostik erst bei auffälligem Lymphknoten"
     ],
     "correct": 0,
-    "tip": "Die 5-Jahres-Überlebensrate beträgt mit pelvinem Lymphknotenbefall nur 33 % gegenüber 71 % ohne diesen Befall.",
-    "explanation": "Empfehlung 7.36 fordert eine ipsilaterale pelvine Lymphadenektomie bei zwei oder mehr befallenen inguinalen Lymphknoten oder bei kapselüberschreitenden Lymphknotenmetastasen."
+    "tip": "Erinnern Sie sich, ob die inguinale Metastasierung eine Seitenpräferenz kennt – im Gegensatz zur pelvinen Station.",
+    "explanation": "Empfehlung 6.7 (EK) fordert bei kurativem Ansatz und klinisch unauffälliger Gegenseite dort eine invasive Lymphknotendiagnostik mittels DSNB oder MIL. Die inguinale Metastasierung erfolgt ohne Seitenpräferenz; streng ipsilateral verläuft erst die Ausbreitung nach pelvin (Kapitel 6.2.1)."
   },
   {
-    "question": "Bei welchem Lymphknotenstatus kann laut Empfehlung 7.37 (Empfehlungsgrad 0) eine adjuvante Chemotherapie erfolgen?",
+    "question": "Welche Aussage zur radikalen inguinalen Lymphadenektomie (RIL) trifft laut Hintergrund zu Empfehlung 7.35 zu?",
     "options": [
-      "Bei pN2/pN3-Status.",
-      "Bei pN0-Status.",
-      "Nur bei cN0 ohne jeden Lymphknotenbefall.",
-      "Eine adjuvante Chemotherapie ist in keinem Lymphknotenstadium vorgesehen."
+      "Kompressionsstrümpfe der Klasse II beugen Lymphödemen nachweislich vor",
+      "Der M. sartorius wird zum Schutz über die Femoralgefäße transponiert",
+      "Die V. saphena magna wird am Übergang zur V. femoralis ligiert",
+      "Die laterale Resektionsgrenze bildet die Kante der A. femoralis"
     ],
-    "correct": 0,
-    "tip": "Bei pN1-Status kann laut Empfehlung 7.38 eine adjuvante Chemotherapie erwogen werden, wenn ein aggressiver Tumor (≥G2) und/oder eine große Lymphknotenmetastase (≥3 cm) vorliegt.",
-    "explanation": "Empfehlung 7.37 sieht mit Empfehlungsgrad 0 eine adjuvante Chemotherapie bei Patienten mit pN2/pN3-Status vor."
+    "correct": 2,
+    "tip": "Bei der RIL gelten andere Grenzen als bei der MIL, und nicht jede tradierte Schutzmaßnahme hält der Evidenz stand.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.35 werden bei der RIL oberflächliche und tiefe Leistenlymphknoten entfernt und die V. saphena magna am Übergang zur V. femoralis ligiert; lateral begrenzt der M. sartorius das Feld. Eine Sartorius-Transposition wird nicht empfohlen, und Klasse-II-Kompressionsstrümpfe zeigten in einer randomisierten Studie keinen Nutzen."
   },
   {
-    "question": "Mit welchem Schema soll laut Empfehlung 7.39 (Empfehlungsgrad B) eine adjuvante Chemotherapie bevorzugt erfolgen?",
+    "question": "Welche Zahl resezierter Lymphknoten war in retrospektiven Analysen mit einem signifikant besseren karzinomspezifischen Überleben und Gesamtüberleben assoziiert?",
     "options": [
-      "4 Zyklen Cisplatin/Paclitaxel/5-Fluorouracil.",
-      "12 Zyklen Methotrexat/Vincristin/Bleomycin.",
-      "2 Zyklen einer alleinigen Cisplatin-Monotherapie.",
-      "Es wird in der Leitlinie kein konkretes Schema empfohlen."
+      "mehr als 4 pro Leiste",
+      "mehr als 8 pro Leiste",
+      "mehr als 13 pro Leiste",
+      "mehr als 16 pro Leiste"
     ],
-    "correct": 0,
-    "tip": "Alternativ kann laut Empfehlung 7.40 eine Therapie mit Cisplatin, Ifosfamid und Paclitaxel über 4 Zyklen durchgeführt werden.",
-    "explanation": "Empfehlung 7.39 fordert mit Empfehlungsgrad B eine adjuvante Chemotherapie mit 4 Zyklen Cisplatin/Paclitaxel/5-Fluorouracil."
+    "correct": 1,
+    "tip": "Die Lymphknotenzahl spiegelt die Radikalität des Eingriffs wider und wird als unabhängiger Prognosefaktor diskutiert.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.35 war eine Lymphknotenzahl > 8 pro Leiste bzw. > 15–16 insgesamt mit besserem karzinomspezifischem und Gesamtüberleben assoziiert. Die Spanne von 7–13 beschreibt die in verschiedenen Serien pro Leiste resezierte Anzahl."
   },
   {
-    "question": "Was besagt Statement 7.41 zur Datenlage einer postoperativen Strahlentherapie bei inguinalem/pelvinem Lymphknotenbefall?",
+    "question": "Nach radikaler inguinaler Lymphadenektomie links zeigt die Histologie einen einzigen befallenen Lymphknoten mit Kapselüberschreitung. Was empfiehlt die Leitlinie zum pelvinen Vorgehen?",
     "options": [
-      "Der Stellenwert ist nicht ausreichend in Studien untersucht worden.",
-      "Die Datenlage ist eindeutig und belegt einen klaren Überlebensvorteil.",
-      "Eine postoperative Strahlentherapie ist bei Lymphknotenbefall in jedem Fall obligat.",
-      "Eine postoperative Strahlentherapie ist beim Peniskarzinom absolut kontraindiziert."
+      "Keine pelvine Lymphadenektomie, da nur ein Lymphknoten befallen ist",
+      "Beidseitige pelvine Lymphadenektomie wegen der Kapselüberschreitung",
+      "Pelvine Lymphadenektomie erst bei PET-CT-Nachweis iliakaler Herde",
+      "Ipsilaterale pelvine Lymphadenektomie links, ein- oder zweizeitig"
     ],
-    "correct": 0,
-    "tip": "Ein aktuelles systematisches Review zu dieser Fragestellung konnte keinen Vorteil einer adjuvanten strahlentherapeutischen Behandlung zeigen.",
-    "explanation": "Statement 7.41 stellt fest, dass der Stellenwert einer postoperativen Strahlentherapie bei inguinalem/pelvinem Lymphknotenbefall nicht ausreichend in Studien untersucht worden ist."
+    "correct": 3,
+    "tip": "Nach pelvin breitet sich das Peniskarzinom anders aus als in die Leisten – das bestimmt auch die Seite des Eingriffs.",
+    "explanation": "Empfehlung 7.36 (EK) fordert die ipsilaterale pelvine Lymphadenektomie bei zwei oder mehr befallenen inguinalen Lymphknoten oder bei kapselüberschreitender Metastase, also auch bei nur einem Knoten mit Kapseldurchbruch. Der Eingriff kann ein- oder zweizeitig erfolgen, da die pelvine Metastasierung streng ipsilateral verläuft."
   },
   {
-    "question": "Bei welchen Risikofaktoren kann laut Empfehlung 7.42 eine adjuvante Strahlentherapie nach Lymphknotendissektion erwogen werden?",
+    "question": "Nach radikaler inguinaler und pelviner Lymphadenektomie liegt ein pN2-Befund vor. Wie ist die adjuvante Chemotherapie in Empfehlung 7.37 formuliert?",
     "options": [
-      "Bei hoher Anzahl an Lymphknotenmetastasen oder extrakapsulärem Tumorwachstum.",
-      "Bei jedem Patienten unabhängig vom Lymphknotenbefund.",
-      "Ausschließlich bei isoliertem pN0-Status.",
-      "Eine adjuvante Strahlentherapie wird generell empfohlen, ohne Einschränkung auf Risikofaktoren."
+      "Sie soll erfolgen (Empfehlungsgrad A, Evidenzlevel 3)",
+      "Sie sollte erfolgen (Empfehlungsgrad B, Evidenzlevel 3)",
+      "Sie kann erfolgen (Empfehlungsgrad 0, Evidenzlevel 3)",
+      "Sie kann erwogen werden (Expertenkonsens, ohne Evidenzlevel)"
     ],
-    "correct": 0,
-    "tip": "Eine adjuvante Radiotherapie kann laut Empfehlung 7.42 nicht generell empfohlen werden, sondern nur bei entsprechendem hohem Rezidivrisiko.",
-    "explanation": "Empfehlung 7.42 sieht eine adjuvante Strahlentherapie bei hohem Risiko für ein Lymphknotenrezidiv vor, insbesondere bei hoher Anzahl an Lymphknotenmetastasen oder extrakapsulärem Tumorwachstum."
+    "correct": 2,
+    "tip": "Randomisierte Studien zum Nutzen der adjuvanten Chemotherapie fehlen – das schlägt sich in der Stärke der Empfehlung nieder.",
+    "explanation": "Empfehlung 7.37 ist evidenzbasiert (Evidenzlevel 3) mit Empfehlungsgrad 0: Bei pN2/pN3 kann eine adjuvante Chemotherapie erfolgen, da randomisierte Studien fehlen. Die als Expertenkonsens formulierte Erwägung gehört zu Empfehlung 7.38 für ausgewählte pN1-Patienten."
   },
   {
-    "question": "Welcher anatomische Bereich definiert laut Kapitel 7.2.2.1 die Resektionsgrenzen der radikalen inguinalen Lymphadenektomie (RIL)?",
+    "question": "Unter welchen Voraussetzungen kann laut Empfehlung 7.38 auch bei pN1 eine adjuvante Chemotherapie erwogen werden?",
     "options": [
-      "Ligamentum inguinale und Samenstrang (superior), M. adductor longus (medial), M. Sartorius (lateral) und M. pectineus (Boden).",
-      "Ausschließlich die Symphyse als einzige Grenze.",
-      "Ausschließlich das Leistenband ohne weitere anatomische Begrenzung.",
-      "Die Resektionsgrenzen werden in der Leitlinie nicht beschrieben."
+      "Tumor ≥ G3 und/oder Lymphknotenmetastase ≥ 2 cm",
+      "Tumor ≥ G2 und/oder Lymphknotenmetastase ≥ 3 cm",
+      "Tumor ≥ G2 und zugleich Lymphknotenmetastase ≥ 4 cm",
+      "Tumor ≥ G3 und/oder Lymphknotenmetastase ≥ 5 cm"
     ],
-    "correct": 0,
-    "tip": "Eine Transposition des M. sartorius über die freiliegenden Femoralgefäße nach erfolgter Lymphadenektomie wird nicht empfohlen.",
-    "explanation": "Die Resektionsgrenzen der RIL sind durch das Ligamentum inguinale und den Samenstrang (superior), den M. adductor longus (medial), den M. Sartorius (lateral) und am Boden durch den M. pectineus definiert."
+    "correct": 1,
+    "tip": "Die Kriterien beschreiben einen aggressiven Primärtumor oder eine große Lymphknotenmetastase.",
+    "explanation": "Empfehlung 7.38 (EK, Konsens 89 %) erlaubt bei pN1 die Erwägung einer adjuvanten Chemotherapie bei aggressivem Tumor (≥ G2) und/oder großer Lymphknotenmetastase (≥ 3 cm). Der Hintergrund hebt besonders G3/G4-Tumoren hervor, die Empfehlung setzt die Schwelle aber bereits bei G2."
   },
   {
-    "question": "Bei wie vielen Patienten treten laut Kapitel 7.2.2.1 Kurz- oder Langzeitkomplikationen nach inguinaler Lymphadenektomie auf, und wie hat sich diese Rate in jüngeren Serien verändert?",
+    "question": "Welche Zuordnung der adjuvanten Chemotherapieschemata (jeweils 4 Zyklen) entspricht den Empfehlungen 7.39 und 7.40?",
     "options": [
-      "Bis zu 80 %, in jüngeren Serien jedoch deutlich geringere Komplikationsraten um 25 %.",
-      "Unter 1 %, unverändert über die Jahre.",
-      "Bei 100 % der Patienten, ohne jede Verbesserung über die Zeit.",
-      "Diese Zahlen werden im Text nicht genannt."
+      "Bevorzugt Cisplatin/Ifosfamid/Paclitaxel, alternativ Cisplatin/Paclitaxel/5-FU",
+      "Bevorzugt Cisplatin/5-FU, alternativ Paclitaxel als Monotherapie",
+      "Bevorzugt Methotrexat/Vincristin/Bleomycin, alternativ Cisplatin/5-FU",
+      "Bevorzugt Cisplatin/Paclitaxel/5-FU, alternativ Cisplatin/Ifosfamid/Paclitaxel"
     ],
-    "correct": 0,
-    "tip": "Zu den Komplikationen zählen insbesondere Hämatome, Lymphozelen, Wundinfektionen, Hautnekrosen und Ödeme der unteren Extremität.",
-    "explanation": "Bei bis zu 80 % aller Patienten treten Kurz- oder Langzeitkomplikationen nach inguinaler Lymphadenektomie auf, wobei jüngere Serien eine deutlich geringere Morbidität mit Komplikationsraten um 25 % zeigen."
+    "correct": 3,
+    "tip": "Die Präferenz der beiden Dreierkombinationen unterscheidet sich zwischen adjuvantem und palliativem Setting.",
+    "explanation": "Empfehlung 7.39 (Grad B) nennt 4 Zyklen Cisplatin/Paclitaxel/5-Fluoruracil, Empfehlung 7.40 (EK) alternativ 4 Zyklen Cisplatin/Ifosfamid/Paclitaxel. Im palliativen Setting ist die Präferenz umgekehrt (Empfehlung 7.54), und Bleomycin-haltige Schemata sollten wegen Toxizität nicht mehr verwendet werden."
   },
   {
-    "question": "Welche Lymphknotenzahl pro Leiste wurde laut Kapitel 7.2.2.1 als unabhängiger Prognosefaktor für ein besseres karzinomspezifisches Überleben identifiziert?",
+    "question": "Welche Aussage zur adjuvanten Strahlentherapie nach Lymphknotendissektion entspricht Statement 7.41 und Empfehlung 7.42?",
     "options": [
-      "Eine resezierte Lymphknotenzahl von mehr als 8 pro Leiste.",
-      "Eine resezierte Lymphknotenzahl von genau 1 pro Leiste.",
-      "Die Lymphknotenzahl hat laut Leitlinie keinen prognostischen Wert.",
-      "Eine Obergrenze von maximal 2 Lymphknoten pro Leiste."
+      "Sie soll ab pN2 regelhaft erfolgen, analog zu den NCCN-Leitlinien",
+      "Sie sollte bei pN1 und ≥ G2 als Alternative zur Chemotherapie erfolgen",
+      "Sie ist bei Kapselüberschreitung wegen fehlenden Nutzens nicht indiziert",
+      "Sie kann bei hohem Rezidivrisiko wie extrakapsulärem Wachstum erwogen werden"
     ],
-    "correct": 0,
-    "tip": "Auch eine resezierte Gesamtlymphknotenzahl von mehr als 15–16 war mit einem signifikant besseren Überleben assoziiert.",
-    "explanation": "Eine resezierte Lymphknotenzahl von mehr als 8 pro Leiste war in retrospektiven Analysen mit einem signifikant besseren karzinomspezifischen und Gesamtüberleben assoziiert."
+    "correct": 3,
+    "tip": "Die Datenlage ist dünn und von Selektionsbias geprägt – entsprechend zurückhaltend fällt die Formulierung aus.",
+    "explanation": "Statement 7.41 hält fest, dass die postoperative Radiatio nicht ausreichend untersucht ist; Empfehlung 7.42 (Grad 0) empfiehlt sie nicht generell, erlaubt sie aber bei hohem Rezidivrisiko, z. B. vielen Lymphknotenmetastasen oder extrakapsulärem Wachstum. Die regelhafte Radiatio ab pN2 stammt aus den NCCN-Leitlinien, nicht aus dieser Leitlinie."
   }
 ]

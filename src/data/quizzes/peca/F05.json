@@ -1,122 +1,122 @@
 [
   {
-    "question": "Muss die Vorhaut laut Empfehlung 7.12 bei kleineren Glanstumoren zwingend entfernt werden?",
+    "question": "Welcher Abstand des Tumors zum negativen Schnittrand wird bei organerhaltender Operation empfohlen, und mit welchem Empfehlungsgrad (Empfehlung 7.17)?",
     "options": [
-      "Nein, sie kann bei kleineren Glanstumoren belassen werden.",
-      "Ja, die Vorhaut muss bei jedem Glanstumor zwingend entfernt werden.",
-      "Ja, aber nur bei Tumoren über 5 cm.",
-      "Zur Vorhaut wird in dieser Empfehlung keine Aussage getroffen."
+      "Mindestens 20 mm, Empfehlungsgrad A",
+      "Mindestens 20 mm, Empfehlungsgrad B",
+      "Mindestens 1 bis wenige mm, Empfehlungsgrad B",
+      "Mindestens 1 bis wenige mm, Empfehlungsgrad A"
     ],
-    "correct": 0,
-    "tip": "Vor einer Strahlen- oder topischen Therapie soll laut Empfehlung 7.13 jedoch eine Zirkumzision erfolgen.",
-    "explanation": "Empfehlung 7.12 besagt, dass die Vorhaut bei kleineren Glanstumoren belassen werden kann."
+    "correct": 2,
+    "tip": "Überlegen Sie, wie Differenzierungsgrad und Stadium die Bemessung des Resektionsrandes beeinflussen – und wie belastbar die Datenlage dazu ist.",
+    "explanation": "Laut Empfehlung 7.17 (Grad B, Evidenzlevel 3, Konsens 95 %) sollte der Abstand zum negativen Schnittrand bei organerhaltender Operation mindestens einen bis wenige Millimeter betragen. Die früher propagierten 2 cm sind überholt; drei systematische Reviews fanden keine Evidenz für ihre Notwendigkeit."
   },
   {
-    "question": "Was soll laut Empfehlung 7.13 vor einer Strahlen- oder topischen Therapie erfolgen?",
+    "question": "Nach Glansektomie wegen eines pT1-Tumors zeigt die definitive Histologie einen positiven Schnittrand. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine Zirkumzision.",
-      "Eine radikale Penektomie.",
-      "Eine systemische Chemotherapie.",
-      "Eine pelvine Lymphadenektomie."
+      "Engmaschige klinische Kontrolle, Nachresektion erst bei Rezidiv",
+      "Sekundäre Operation zur Nachresektion des positiven Randes",
+      "Adjuvante perkutane Strahlentherapie der gesamten Glansregion",
+      "Topische Nachbehandlung mit 5-Fluorouracil über 28 Tage"
     ],
-    "correct": 0,
-    "tip": "Dies dient u. a. der besseren Zugänglichkeit und Beurteilbarkeit des Behandlungsareals.",
-    "explanation": "Empfehlung 7.13 fordert eine Zirkumzision vor Beginn einer Strahlen- oder topischen Therapie."
+    "correct": 1,
+    "tip": "Lokalrezidive sind zwar gut behandelbar – ein bekannter Tumorrest ist aber etwas anderes als ein späteres Rezidiv.",
+    "explanation": "Laut Empfehlung 7.18 (EK, Konsens 100 %) soll bei positivem Schnittrand in der definitiven Histologie nach organerhaltender Operation eine sekundäre Operation durchgeführt werden. Bei Lont et al. lag die Lokalrezidivrate nach Organerhalt mit positiven Absetzungsrändern bei 42 % gegenüber 22 % bei negativem Schnittrand."
   },
   {
-    "question": "Welchen Empfehlungsgrad hat die Glansektomie (ggf. mit Rekonstruktion/Spalthaut-Neoglans) im Stadium T1/T2 laut Empfehlung 7.15?",
+    "question": "Ein 72-Jähriger hat einen pT2-Tumor, der die Glans großflächig einnimmt; Corpora cavernosa und Harnröhre sind frei, ein organerhaltender Eingriff ist technisch möglich. Welche operative Therapie soll ihm laut Leitlinie angeboten werden?",
     "options": [
-      "Empfehlungsgrad A.",
-      "Empfehlungsgrad 0.",
-      "Empfehlungsgrad B.",
-      "Die Glansektomie wird im Stadium T1/T2 nicht empfohlen."
+      "Lokale Exzision mit wenigen Millimetern Sicherheitsabstand",
+      "Radikale Penektomie mit Anlage einer perinealen Urethrostomie",
+      "Glansektomie, gegebenenfalls mit Spalthaut-Rekonstruktion",
+      "Penisteilamputation mit zwei Zentimetern Sicherheitsabstand"
     ],
-    "correct": 0,
-    "tip": "Ist eine Glansektomie nicht möglich, soll laut Empfehlung 7.16 (ebenfalls Grad A) eine Penisteilamputation angeboten werden.",
-    "explanation": "Empfehlung 7.15 sieht die Glansektomie im Stadium T1/T2 mit Empfehlungsgrad A vor."
+    "correct": 2,
+    "tip": "Wägen Sie Tumorausdehnung, Organerhalt und Lebensqualität gegeneinander ab – die Leitlinie formuliert hier eine starke Empfehlung.",
+    "explanation": "Laut Empfehlung 7.15 (Grad A, Evidenzlevel 4) soll im Stadium T1/T2 abhängig von Lokalisation und Ausdehnung eine Glansektomie angeboten werden; die Rekonstruktion erfolgt meist mit gemeshter Spalthaut, alternativ mit Mundschleimhaut. Die lokale Exzision ist für kleinere Glanstumoren vorgesehen (Empfehlung 7.14), die Penisteilamputation, wenn keine Glansektomie möglich ist (Empfehlung 7.16)."
   },
   {
-    "question": "Welcher tumorfreie Resektionsabstand gilt laut Empfehlung 7.17 (Empfehlungsgrad B) heute als ausreichend?",
+    "question": "Welche Aussage zum Vergleich organerhaltender Verfahren mit der Penisteilamputation bei T1/T2-Tumoren trifft laut Leitlinie zu?",
     "options": [
-      "Wenige Millimeter genügen – eine Abkehr von der alten 2-cm-Regel.",
-      "Mindestens 2 cm, entsprechend der historischen Regel.",
-      "Mindestens 5 cm in jedem Fall.",
-      "Es wird kein konkreter Sicherheitsabstand genannt."
+      "Mehr Lokalrezidive nach Organerhalt, ohne wesentliche Einbuße im tumorspezifischen Überleben",
+      "Weniger Lokalrezidive nach Organerhalt, da Schnellschnitte die R0-Rate verbessern",
+      "Mehr Lokalrezidive nach Organerhalt, mit deutlich schlechterem tumorspezifischem Überleben",
+      "Gleich viele Lokalrezidive nach beiden Verfahren, sofern eine R0-Resektion vorliegt"
     ],
     "correct": 0,
-    "tip": "Bei positivem Schnittrand soll laut Empfehlung 7.18 eine Nachresektion erfolgen.",
-    "explanation": "Empfehlung 7.17 stellt mit Empfehlungsgrad B fest, dass wenige Millimeter tumorfreier Abstand genügen, womit die frühere Regel eines 2-cm-Sicherheitsabstands aufgegeben wurde."
+    "tip": "Überlegen Sie, warum die Leitlinie trotz der Daten zu Lokalrezidiven einen Paradigmenwechsel zugunsten des Organerhalts vollzogen hat.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.16 sind Lokalrezidive bei T1/T2 nach Teilamputation seltener (Leijte et al.: 27,7 % nach peniserhaltender Therapie vs. 5,3 % nach Amputation). Laut Hintergrund zu den Empfehlungen 7.17 und 7.18 können Lokalrezidive aber erneut kurativ behandelt werden, ohne dass das tumorspezifische Überleben wesentlich beeinträchtigt wird."
   },
   {
-    "question": "Was soll laut Empfehlung 7.18 bei einem positiven Schnittrand nach organerhaltender Operation erfolgen?",
+    "question": "Welche Aussage trifft Statement 7.20 zur Brachytherapie bei T1- und T2-Tumoren?",
     "options": [
-      "Eine Nachresektion.",
-      "Eine abwartende Beobachtung ohne weitere Maßnahme.",
-      "Eine sofortige systemische Chemotherapie ohne lokale Nachresektion.",
-      "Eine Nachresektion ist in diesem Fall nicht vorgesehen."
+      "Der Operation in lokaler Kontrolle und Gesamtprognose überlegen",
+      "Der Operation in lokaler Kontrolle und Gesamtprognose gleichwertig",
+      "Der perkutanen Strahlentherapie in der lokalen Kontrolle unterlegen",
+      "Der Operation gleichwertig, sofern der Tumor größer als 4 cm ist"
     ],
-    "correct": 0,
-    "tip": "Dies unterstreicht die Bedeutung einer sorgfältigen intraoperativen und postoperativen Schnittrandkontrolle.",
-    "explanation": "Empfehlung 7.18 fordert bei einem positiven Schnittrand eine Nachresektion."
+    "correct": 1,
+    "tip": "Für die Brachytherapie werden überwiegend bessere Ergebnisse berichtet als für die perkutane Bestrahlung.",
+    "explanation": "Statement 7.20 (Evidenzlevel 4, Konsens 100 %): Die Brachytherapie ist bei T1- und T2-Tumoren bezüglich lokaler Tumorkontrolle und Gesamtprognose gleichwertig zu operativen Verfahren; Empfehlung 7.19 (EK) nennt die lokale Strahlentherapie als organerhaltende Option. Die perkutane Strahlentherapie schneidet in der lokalen Kontrolle dagegen schlechter ab."
   },
   {
-    "question": "Was besagt Statement 7.20 zum onkologischen Vergleich zwischen Brachytherapie und Operation bei T1/T2-Tumoren?",
+    "question": "Ein 68-Jähriger mit T1-Glanstumor lehnt einen operativen Eingriff ab und fragt nach einer perkutanen Strahlentherapie. Worüber soll er laut Empfehlung 7.21 aufgeklärt werden?",
     "options": [
-      "Die Brachytherapie ist onkologisch der Operation gleichwertig.",
-      "Die Brachytherapie ist der Operation onkologisch deutlich unterlegen.",
-      "Die Brachytherapie wird in der Leitlinie für T1/T2-Tumoren nicht erwähnt.",
-      "Eine Strahlentherapie ist bei T1/T2-Tumoren grundsätzlich kontraindiziert."
+      "Über eine höhere lokale Kontrolle als nach Brachytherapie",
+      "Über ein längeres Gesamtüberleben als nach operativer Therapie",
+      "Über eine gleichwertige lokale Kontrolle wie nach einer Glansektomie",
+      "Über die niedrigere lokale Kontrolle im Vergleich zur Operation"
     ],
-    "correct": 0,
-    "tip": "Die perkutane Strahlentherapie zeigt dagegen laut Empfehlung 7.21 eine niedrigere lokale Kontrolle.",
-    "explanation": "Statement 7.20 besagt, dass die Brachytherapie onkologisch der Operation gleichwertig ist."
+    "correct": 3,
+    "tip": "In älteren Vergleichsserien lag die Peniserhaltrate nach alleiniger externer Bestrahlung nach fünf Jahren teils unter 40 %.",
+    "explanation": "Laut Empfehlung 7.21 (Grad A, Evidenzlevel 3) sollen Patienten vor einer perkutanen Strahlentherapie über die niedrigere lokale Kontrolle im Vergleich zur operativen Therapie aufgeklärt werden. In einer Vergleichsserie lag die lokale Kontrolle nach alleiniger perkutaner Radiatio bei 41 % gegenüber 81 % nach Operation, ein Unterschied im Gesamtüberleben fand sich in den Serien nicht."
   },
   {
-    "question": "Worüber sollen Patienten laut Empfehlung 7.21 (Empfehlungsgrad A) bei einer perkutanen Strahlentherapie im Vergleich zur Brachytherapie aufgeklärt werden?",
+    "question": "Ein Patient mit T1-Glanstumor entscheidet sich für eine Brachytherapie; die Vorhaut ist tumorfrei. Welche Maßnahme sollte laut Empfehlung 7.13 vorher erfolgen?",
     "options": [
-      "Über die niedrigere lokale Kontrolle der perkutanen Strahlentherapie.",
-      "Darüber, dass die perkutane Strahlentherapie der Operation in jeder Hinsicht überlegen ist.",
-      "Darüber, dass keine relevanten Unterschiede zwischen den Verfahren bestehen.",
-      "Eine Aufklärungspflicht besteht in diesem Zusammenhang nicht."
+      "Belassen der gesunden Vorhaut zur späteren Defektdeckung",
+      "Präventive Meatotomie zur Vermeidung einer Meatusstenose",
+      "Glans resurfacing zur Verringerung der Strahlendermatitis",
+      "Zirkumzision, auch wenn die Vorhaut nicht befallen ist"
     ],
-    "correct": 0,
-    "tip": "Diese Aufklärung ist Teil der partizipativen Entscheidungsfindung zwischen organerhaltenden Therapieoptionen.",
-    "explanation": "Empfehlung 7.21 fordert mit Empfehlungsgrad A, dass Patienten über die im Vergleich niedrigere lokale Kontrolle der perkutanen Strahlentherapie aufgeklärt werden sollen."
+    "correct": 3,
+    "tip": "Überlegen Sie, was den Heilungsprozess nach lokaler Strahlentherapie erleichtert.",
+    "explanation": "Laut Empfehlung 7.13 (EK, Konsens 100 %) sollte bei Behandlung mittels Strahlentherapie oder topischer Therapie eine Zirkumzision durchgeführt werden, da der Heilungsprozess dadurch erleichtert wird. Bei operativer Therapie kleinerer Glanstumoren kann die gesunde Vorhaut dagegen belassen oder zur Defektdeckung genutzt werden (Empfehlung 7.12)."
   },
   {
-    "question": "Welche Therapieoption kann laut Empfehlung 7.14 (Empfehlungsgrad B) bei kleineren invasiven Glanstumoren eingesetzt werden?",
+    "question": "In einer retrospektiven Serie von 117 Patienten nach Glansektomie mit Rekonstruktion traten 12,8 % Lokalrezidive auf. Welche Faktoren waren in der univariaten Analyse signifikante Prädiktoren?",
     "options": [
-      "Die lokale Exzision.",
-      "Ausschließlich die radikale Penektomie.",
-      "Ausschließlich eine systemische Chemotherapie.",
-      "Eine lokale Therapieoption wird in diesem Stadium nicht angeboten."
+      "Perineurale Invasion, CIS, positiver Schnittrand und Grad 3",
+      "Lymphgefäßinvasion, HPV-Negativität, Größe über 4 cm und Grad 3",
+      "Perineurale Invasion, HPV-Positivität, Alter über 70 und Grad 3",
+      "Venöse Invasion, CIS, Lymphknotenbefall und Größe über 4 cm"
     ],
     "correct": 0,
-    "tip": "Ist eine lokale Exzision nicht ausreichend, kommen Glansektomie oder Penisteilamputation in Betracht.",
-    "explanation": "Empfehlung 7.14 sieht mit Empfehlungsgrad B die lokale Exzision bei kleineren invasiven Glanstumoren vor."
+    "tip": "Alle vier Faktoren lassen sich aus dem pathologischen Befund des Glansektomie-Präparats ablesen.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.15 waren perineurale Invasion, Carcinoma in situ, positive Schnittränder in der definitiven Histologie und Grad-3-Differenzierung signifikante Prädiktoren; beim Vorliegen aller vier Faktoren stieg das Risiko deutlich (HR 34,2 gegenüber 0–1 Faktor). Lymphovaskuläre Invasion und Corpus-cavernosum-Befall waren Risikofaktoren in einer anderen Serie mit 332 Patienten."
   },
   {
-    "question": "Welche Kriterien werden laut Episode 5 als relevante Entscheidungskriterien bei der Therapiewahl zwischen Organerhalt und Teilamputation genannt?",
+    "question": "Ein 45-Jähriger hat einen 1,5 cm großen, invasiven pT1-Tumor an der Glansspitze und wünscht maximalen Organerhalt. Welche Empfehlung gibt die Leitlinie für kleinere invasive Glanstumoren?",
     "options": [
-      "Lebensqualität, Sexualfunktion und Miktion im Stehen.",
-      "Ausschließlich die Versicherungsart des Patienten.",
-      "Ausschließlich das Operationsdatum.",
-      "Diese Kriterien werden in der Episode nicht thematisiert."
+      "Eine lokale Exzision soll erfolgen (Empfehlungsgrad A)",
+      "Eine lokale Exzision sollte erfolgen (Empfehlungsgrad B)",
+      "Eine lokale Exzision kann erfolgen (Empfehlungsgrad 0)",
+      "Eine Penisteilamputation sollte erfolgen (Empfehlungsgrad B)"
     ],
-    "correct": 0,
-    "tip": "Diese funktionellen und lebensqualitätsbezogenen Aspekte sind zentral für die gemeinsame Therapieentscheidung mit dem Patienten.",
-    "explanation": "Lebensqualität, Sexualfunktion und die Fähigkeit zur Miktion im Stehen werden als wichtige Entscheidungskriterien bei der Therapiewahl genannt."
+    "correct": 1,
+    "tip": "Ein höherer Empfehlungsgrad gilt in diesem Kapitel für die Glansektomie im Stadium T1/T2.",
+    "explanation": "Laut Empfehlung 7.14 (Grad B, Evidenzlevel 3, Konsens 100 %) sollte bei kleineren invasiven Glanstumoren eine lokale Exzision durchgeführt werden; negative Schnittränder sind erforderlich, die Patientenzufriedenheit ist höher. Mit Grad A soll im Stadium T1/T2 dagegen eine Glansektomie angeboten werden (Empfehlung 7.15)."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 5 im Zusammenhang mit dem Resektionsabstand diskutiert?",
+    "question": "In einer Auswertung von 144 Patienten nach Brachytherapie des Peniskarzinoms wurde ein Faktor als signifikant für ein Lokalrezidiv identifiziert. Welcher?",
     "options": [
-      "Bei einem kleinen Glanstumor weiterhin 'lieber 2 cm Sicherheitsabstand und Teilamputation' zu wählen, obwohl wenige Millimeter ausreichen.",
-      "Einen zu geringen Sicherheitsabstand von unter 1 mm zu akzeptieren.",
-      "Grundsätzlich jede Form der Nachresektion abzulehnen.",
-      "Patienten nie über den Resektionsabstand aufzuklären."
+      "Lokalisation des Tumors im Bereich des Sulcus coronarius",
+      "Fehlender Nachweis einer HPV-Assoziation im Tumor",
+      "Tumorgröße über 4 cm bzw. große Belegungslänge der Quelle",
+      "Tumorgröße über 2 cm bei Lokalisation an der Glansspitze"
     ],
-    "correct": 0,
-    "tip": "Dies führt unnötig häufig zu einer radikaleren Operation als onkologisch erforderlich wäre.",
-    "explanation": "Der diskutierte Fallstrick ist, weiterhin einen Sicherheitsabstand von 2 cm mit entsprechender Teilamputation zu fordern, obwohl laut Empfehlung 7.17 bereits wenige Millimeter tumorfreier Abstand ausreichen."
+    "correct": 2,
+    "tip": "Die Patientenselektion für die Brachytherapie hängt wesentlich davon ab, wie gut sich das Zielvolumen mit der Strahlenquelle abdecken lässt.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.19 und 7.21 waren eine Tumorgröße > 4 cm bzw. eine große Belegungslänge mit der Brachytherapiequelle signifikante Faktoren für ein Lokalrezidiv, sodass die Tumorgröße bei der Patientenselektion eine wichtige Rolle spielt. Typische Nebenwirkungen der lokalen Strahlentherapie sind u. a. Meatusstenosen (4–43 %), Teleangiektasien und Nekrosen."
   }
 ]

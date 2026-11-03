@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Statement 3.11 (Kapitel 3.3) zu validierten Maßnahmen der Primär- oder Tertiärprävention des Harnblasenkarzinoms?",
+    "question": "Wie entwickelt sich laut Kapitel 3.3 das Harnblasenkarzinomrisiko nach Beendigung des Rauchens?",
     "options": [
-      "Außer der Vermeidung einer Exposition gegenüber nachgewiesenen Karzinogenen gibt es keine validierten Präventionsmaßnahmen; die Empfehlungen sollten sich an den allgemeinen WHO-Empfehlungen orientieren.",
-      "Nahrungsergänzungsmittel mit Antioxidantien sind eine validierte und empfohlene Präventionsmaßnahme.",
-      "Grüner Tee ist nachweislich wirksam zur Tertiärprävention.",
-      "Eine spezifische Diät kann das Harnblasenkarzinomrisiko sicher senken."
+      "Nach 3–4 Jahren um ca. 30 % gesenkt, nach ca. 20 Jahren annähernd Nichtraucherniveau",
+      "Nach 3–4 Jahren um ca. 50 % gesenkt, nach ca. 10 Jahren annähernd Nichtraucherniveau",
+      "Nach 1–2 Jahren um ca. 30 % gesenkt, nach ca. 10 Jahren annähernd Nichtraucherniveau",
+      "Nach 5–6 Jahren um ca. 10 % gesenkt, nach ca. 30 Jahren annähernd Nichtraucherniveau"
     ],
     "correct": 0,
-    "tip": "Die Datenlage zu Ernährung, Nahrungsergänzungsmitteln und Getränken ist durchweg widersprüchlich oder unzureichend.",
-    "explanation": "Statement 3.11 stellt fest, dass es außer der Expositionsvermeidung gegenüber nachgewiesenen Karzinogenen keine validierten Präventionsmaßnahmen gibt und sich die Empfehlungen an den allgemeinen WHO-Empfehlungen orientieren sollten."
+    "tip": "Der Rauchstopp lohnt sich früh messbar – das Nichtraucherniveau selbst wird aber auch nach langer Zeit nicht ganz erreicht.",
+    "explanation": "Laut Kapitel 3.3 sinkt das Risiko schon 3–4 Jahre nach Aufgabe des Rauchens um ca. 30 % und nähert sich nach ca. 20 Jahren dem eines Nichtrauchers an, ohne es jedoch zu erreichen. Deshalb ist Nichtrauchen bzw. Rauchstopp die wichtigste Maßnahme der Primärprävention."
   },
   {
-    "question": "Um wie viel Prozent sinkt laut Kapitel 3.3 das Harnblasenkrebsrisiko bereits 3-4 Jahre nach Aufgabe des Rauchens, und wie hoch ist das Population Attributable Risk (PAR) des Rauchens bei Männern?",
+    "question": "Wie hoch beziffert die Leitlinie das populationsattributable Risiko (PAR) des Rauchens für das Harnblasenkarzinom bei Männern?",
     "options": [
-      "Risikosenkung um ca. 30%; PAR für Männer ca. 50%.",
-      "Risikosenkung um ca. 90%; PAR für Männer ca. 5%.",
-      "Keine Risikosenkung innerhalb der ersten 10 Jahre; PAR ca. 10%.",
-      "Risikosenkung um ca. 30%; PAR nur bei Frauen relevant."
+      "Etwa 25 %",
+      "Etwa 50 %",
+      "Etwa 70 %",
+      "Etwa 90 %"
     ],
-    "correct": 0,
-    "tip": "Das Risiko nähert sich nach ca. 20 Jahren dem eines Nichtrauchers an, ohne es ganz zu erreichen.",
-    "explanation": "Kapitel 3.3 beschreibt eine Risikosenkung von ca. 30% bereits 3-4 Jahre nach Rauchstopp und ein Population Attributable Risk von ca. 50% für Männer, womit Rauchen der mit Abstand wichtigste Risikofaktor ist."
+    "correct": 1,
+    "tip": "Rauchen ist mit Abstand der wichtigste Risikofaktor – aber längst nicht jedes Harnblasenkarzinom ist rauchbedingt.",
+    "explanation": "Laut Kapitel 3.3 beträgt das PAR des Rauchens ca. 50 % für Männer; nach Freedman et al. ist das Risiko der Frauen inzwischen mit dem der Männer vergleichbar. Die 70 % beziehen sich in der Leitlinie auf den Anteil nicht-invasiver Tumoren (pTa, CIS) an den Erstdiagnosen."
   },
   {
-    "question": "Was besagt Statement 3.12 (Kapitel 3.4) zum Einsatz diagnostischer Marker für das Screening auf ein Harnblasenkarzinom?",
+    "question": "Ein Patient nach TUR eines Harnblasenkarzinoms fragt, ob er durch Nahrungsergänzungsmittel oder Ernährungsumstellung einem Rezidiv vorbeugen kann. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Kein diagnostischer Marker kann zum Screening in der Gesamtbevölkerung oder in Risikopopulationen empfohlen werden.",
-      "NMP22 wird als Standardmarker für das Screening der Gesamtbevölkerung empfohlen.",
-      "Die Urinzytologie wird als alleiniger Screening-Marker für Risikopopulationen empfohlen.",
-      "Jeder zugelassene Urinmarker ist zum generellen Screening geeignet."
+      "Außer der Vermeidung nachgewiesener Karzinogene gibt es keine validierte Tertiärprävention",
+      "Selen und Vitamin E sind als Tertiärprävention validiert, grüner Tee dagegen nicht",
+      "Eine obst- und gemüsereiche Kost kann den schädlichen Effekt des Rauchens ausgleichen",
+      "Alpha-Tocopherol und ß-Carotin senkten in einer großen Studie die Tumorinzidenz deutlich"
     ],
     "correct": 0,
-    "tip": "Dies gilt sowohl für die Gesamtbevölkerung als auch für definierte Risikogruppen.",
-    "explanation": "Statement 3.12 stellt fest, dass kein diagnostischer Marker zum Screening auf das Vorliegen eines Harnblasenkarzinoms oder zur systematischen Früherkennung in der Gesamtbevölkerung oder in Risikopopulationen empfohlen werden kann."
+    "tip": "Primär- und Tertiärprävention werden im Statement gemeinsam bewertet – entscheidend ist, was davon als validiert gilt.",
+    "explanation": "Statement 3.11 (EK, starker Konsens): Abgesehen von der Expositionsvermeidung gegenüber nachgewiesenen Harnblasenkarzinogenen gibt es keine validierten Maßnahmen zur Primär- oder Tertiärprävention; Empfehlungen sollten sich an der WHO orientieren. Diätetische Umstellungen kompensieren das Rauchen laut Talaska et al. nicht, und die langjährige Gabe von alpha-Tocopherol und ß-Carotin zeigte keinen Effekt."
   },
   {
-    "question": "Für welche Patientengruppe beschreibt Statement 3.13 einen möglichen Vorteil einer Mikrohämaturie-basierten Früherkennung?",
+    "question": "Ein Hausarzt möchte bei einem 60-jährigen, beschwerdefreien starken Raucher einen Urinmarkertest aus dem Labor als „Blasenkrebs-Check“ veranlassen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Hochrisikokollektive wie Raucher und berufsbedingte Risikogruppen.",
-      "Ausschließlich Kinder und Jugendliche unter 18 Jahren.",
-      "Ausschließlich Patienten ohne jeden Risikofaktor.",
-      "Alle Personen über 18 Jahren unabhängig vom Risikoprofil."
+      "Ein Screening mit NMP22 kann bei Rauchern ab 50 Jahren angeboten werden",
+      "Kommerzielle Urin- und Bluttests sollen außerhalb von Studien nicht erfolgen",
+      "Ein Markertest sollte jährlich in Kombination mit einer Zytologie erfolgen",
+      "Ein FISH-Test sollte bei Rauchern mit hohem kumulativem Konsum erfolgen"
     ],
-    "correct": 0,
-    "tip": "Bei dieser Gruppe kann das Harnblasenkarzinom früher erkannt werden als bei bereits symptomatischen Patienten.",
-    "explanation": "Statement 3.13 beschreibt, dass bei Hochrisikokollektiven wie Rauchern und berufsbedingten Risikogruppen durch Urinuntersuchungen auf Mikrohämaturie ein Harnblasenkarzinom früher erkannt werden kann als bei bereits symptomatischen Patienten."
+    "correct": 1,
+    "tip": "Unterscheide zwischen dem, was in Studien untersucht wird, und dem, was in der Routineversorgung angewendet werden darf.",
+    "explanation": "Empfehlung 3.14 (EK, starker Konsens): Kommerziell verfügbare Blut- und Urintests sollen zur Früherkennung und zum Screening außerhalb von Studien nicht angewendet werden; laut Statement 3.12 kann kein Marker zum Screening empfohlen werden – auch nicht in Risikopopulationen. Die FDA-Zulassung von NMP22 ändert daran nichts, da Spezifität und Kosten pro zusätzlich entdecktem Fall dagegen sprechen."
   },
   {
-    "question": "Was fordert Empfehlung 3.14 zum Einsatz kommerziell verfügbarer Blut- und Urintests zur Früherkennung und zum Screening?",
+    "question": "Bei einem beschwerdefreien 58-jährigen Raucher fällt beim Hausarzt einmalig ein positiver Urinteststreifen auf Blut auf. Welches Vorgehen entspricht Empfehlung 3.15?",
     "options": [
-      "Ihre Anwendung außerhalb von Studien soll nicht erfolgen.",
-      "Sie sollen als Standardverfahren beim jährlichen Check-up eingesetzt werden.",
-      "Sie ersetzen bei unauffälligem Ergebnis die Zystoskopie.",
-      "Sie sind ausschließlich bei Frauen zugelassen."
+      "Umgehend Zystoskopie und CT-Urographie, da Raucher ein Hochrisikokollektiv sind",
+      "Zunächst NMP22-Bestimmung, bei positivem Ergebnis anschließend Zystoskopie",
+      "Befund kontrollieren; eine wiederholt gesicherte Mikrohämaturie urologisch abklären",
+      "Ohne Makrohämaturie oder Symptome keine weitere Kontrolle oder Abklärung"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt mit starkem Konsens unabhängig vom jeweiligen Testverfahren.",
-    "explanation": "Empfehlung 3.14 legt fest, dass die Anwendung kommerziell verfügbarer Blut- und Urintests zur Früherkennung und zum Screening außerhalb von Studien nicht erfolgen soll."
+    "correct": 2,
+    "tip": "Der Teststreifen ist bei asymptomatischen Personen zwar sensitiv, aber wenig spezifisch.",
+    "explanation": "Empfehlung 3.15 (EK, starker Konsens): Eine wiederholt gesicherte asymptomatische Mikrohämaturie sollte eine urologische Evaluation nach sich ziehen. Ein einmaliger Stix-Befund ohne Wiederholung reicht dafür nicht; in Screeningkohorten hatten etwa 20 % eine Mikrohämaturie, aber nur rund 1 % ein Harnblasenkarzinom."
   },
   {
-    "question": "Was soll laut Empfehlung 3.15 bei einer wiederholt gesicherten asymptomatischen Mikrohämaturie erfolgen?",
+    "question": "Warum ist die Urinzytologie laut Kapitel 3.4 für ein Screening asymptomatischer Personen ungeeignet?",
     "options": [
-      "Eine urologische Evaluation sollte sich daran anschließen.",
-      "Keine weitere Diagnostik, da asymptomatische Mikrohämaturie immer harmlos ist.",
-      "Eine sofortige Zystektomie ohne weitere Abklärung.",
-      "Eine Wiederholung des Urinstreifentests erst nach 5 Jahren."
+      "Ihre Spezifität liegt mit etwa 50–60 % zu niedrig für asymptomatische Kollektive",
+      "Ihr Ergebnis wird durch Hämaturie und Entzündungen stark falsch-positiv verändert",
+      "Sie erfordert mindestens 500 Zellen pro Probe und ist daher kaum praktikabel",
+      "Ihre Sensitivität liegt bei gut differenzierten Tumoren nur bei etwa 20 %"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung gilt unabhängig vom Ergebnis anderer Urinmarker.",
-    "explanation": "Empfehlung 3.15 sieht vor, dass eine wiederholt gesicherte asymptomatische Mikrohämaturie eine urologische Evaluation nach sich ziehen sollte."
+    "correct": 3,
+    "tip": "Die Zytologie hat eine Stärke und eine Schwäche – überlege, welche Tumoren bei Erstdiagnose überwiegen.",
+    "explanation": "Laut Kapitel 3.4 hat die Urinzytologie eine hohe Spezifität (90–100 %), aber eine schlechte Sensitivität bei gut und mittelgradig differenzierten Tumoren (20 % bei G1 bis 50 % bei G3), die einen Großteil der Erstdiagnosen ausmachen. Die starke Beeinflussung durch Hämaturie und Entzündung betrifft BTA, die Mindestzahl von 500 Zellen den uCyt+-Test."
   },
   {
-    "question": "Welche Sensitivität zeigte die Urinzytologie laut Kapitel 3.4.1 in der Studie von Turco et al. in Abhängigkeit vom Differenzierungsgrad des Tumors?",
+    "question": "Welches Ergebnis lieferte die deutsche UroScreen-Studie an Chemiearbeitern mit Exposition gegenüber aromatischen Aminen?",
     "options": [
-      "Ca. 20% bei G1-Tumoren bis ca. 50% bei G3-Tumoren, bei durchgehend hoher Spezifität (90-100%).",
-      "Konstant 95% unabhängig vom Differenzierungsgrad.",
-      "Ca. 90% bei G1-Tumoren, abfallend auf 20% bei G3-Tumoren.",
-      "Die Urinzytologie zeigte in dieser Studie keine Sensitivität über 5%."
+      "NMP22 wurde als alleiniger Screeningtest anstelle der Zytologie empfohlen",
+      "Die Kombination mit UroVysion-FISH rechtfertigte die Kosten durch Zusatzfunde",
+      "Die Urinzytologie war sensitiver als die Kombination mit UroVysion-FISH",
+      "NMP22 erreichte 97 % Sensitivität bei einer Spezifität von lediglich 29 %"
     ],
-    "correct": 0,
-    "tip": "Die hohe Spezifität macht die Urinzytologie wertvoll, ihre schwache Sensitivität bei gut differenzierten Tumoren limitiert jedoch den Screening-Einsatz.",
-    "explanation": "Kapitel 3.4.1 beschreibt eine Sensitivität der Urinzytologie von 20% bei Differenzierungsgrad G1 bis 50% bei G3, bei einer gleichzeitig hohen Spezifität von 90-100%."
+    "correct": 3,
+    "tip": "Ein Test, der fast alle Tumoren findet, ist nicht automatisch ein guter Screeningtest.",
+    "explanation": "In UroScreen (1609 Arbeiter der Chemieindustrie) erreichte NMP22 eine Sensitivität von 97 % bei 29 % Spezifität und wurde nur als möglicher Zusatztest zur Zytologie gesehen. Die Kombination mit UroVysion war sensitiver als die Zytologie (66,7 % vs. 44,4 %), rechtfertigte laut Kapitel 3.4 aber Kosten und falsch-positive Befunde nicht."
   },
   {
-    "question": "Um wie viele Jahre tritt laut Kapitel 3.5 das Harnblasenkarzinom bei Querschnittgelähmten im Durchschnitt früher auf als in der Allgemeinbevölkerung, und wie hoch ist der Anteil muskelinvasiver Tumoren bei Diagnose?",
+    "question": "Welche Aussage zum Harnblasenkarzinom als Langzeitfolge einer Querschnittlähmung trifft laut Kapitel 3.5 zu?",
     "options": [
-      "Etwa 20 Jahre früher; 67,7% bereits muskelinvasiv bei Diagnose.",
-      "Etwa 2 Jahre früher; unter 5% muskelinvasiv.",
-      "Kein Unterschied im Erkrankungsalter; 10% muskelinvasiv.",
-      "Etwa 20 Jahre später; 67,7% muskelinvasiv."
+      "Etwa zwei Drittel der Tumoren sind bei Diagnose bereits muskelinvasiv",
+      "Der Anteil an Plattenepithelkarzinomen ist gegenüber der Norm nicht erhöht",
+      "Das Erkrankungsalter liegt etwa 10 Jahre über dem der Gesamtbevölkerung",
+      "Ohne Dauerkatheter entspricht das Risiko dem der Allgemeinbevölkerung"
     ],
     "correct": 0,
-    "tip": "Zudem ist der Anteil an Plattenepithelkarzinomen mit etwa 33,5-36,8% stark erhöht.",
-    "explanation": "Kapitel 3.5 beschreibt, dass Harnblasenkarzinome bei Querschnittgelähmten im Durchschnitt fast 20 Jahre früher auftreten als in der Allgemeinbevölkerung, wobei 67,7% der Tumoren bei Diagnose bereits muskelinvasiv waren."
+    "tip": "Denke an die schlechte Prognose mit medianen Überlebenszeiten von rund einem Jahr – woran könnte das liegen?",
+    "explanation": "Laut Kapitel 3.5 waren 67,7 % der Tumoren bei Diagnose bereits muskelinvasiv; die Patienten erkranken fast 20 Jahre jünger, der Plattenepithelanteil ist mit 33,5 % bzw. 36,8 % stark erhöht. Studien an weitgehend ohne Dauerkatheter versorgten Querschnittgelähmten bestätigten diese Befunde."
   },
   {
-    "question": "Wie verändert sich laut der US-amerikanischen Mortalitätsstudie (Kapitel 3.5) die standardisierte Mortalitätsrate (SMR) für Harnblasenkrebs mit der Dauer der Querschnittlähmung?",
+    "question": "Ein 45-jähriger Paraplegiker, gelähmt seit einem Arbeitsunfall vor 14 Jahren, erkrankt an einem Harnblasenkarzinom. Was sagt die Leitlinie zur Anerkennung als Unfallfolge?",
     "options": [
-      "Sie steigt von 1,42 (1-9 Lähmungsjahre) über 3,96 (10-19 Jahre) auf 17,83 (über 20 Jahre).",
-      "Sie bleibt über alle Lähmungsdauern konstant bei 1,0.",
-      "Sie sinkt mit zunehmender Lähmungsdauer kontinuierlich ab.",
-      "Sie steigt nur in den ersten 5 Jahren an und fällt danach wieder auf den Normalwert."
+      "Eine Anerkennung setzt eine Lähmungsdauer von mindestens 20 Jahren voraus",
+      "Ab 10 Jahren nach Lähmungseintritt kann die BG eine Anerkennung aussprechen",
+      "Eine Anerkennung kommt nur nach langjähriger Dauerkatheterversorgung in Betracht",
+      "Eine Anerkennung erfolgt als BK 1301 über die Öffnungsklausel des SGB VII"
     ],
-    "correct": 0,
-    "tip": "Diese klare Dosis-Wirkungsbeziehung mit der Lähmungsdauer wurde an über 45.000 querschnittgelähmten Patienten untersucht.",
-    "explanation": "Die Mortalitätsstudie zeigt eine klare Dosis-Wirkungsbeziehung der SMR mit der Lähmungsdauer: von 1,42 nach 1-9 Lähmungsjahren über 3,96 nach 10-19 Jahren auf 17,83 nach über 20 Lähmungsjahren."
+    "correct": 1,
+    "tip": "Überlege, ab welchem Lähmungsjahr das Risiko laut Mortalitätsdaten und Spina-bifida-Fällen relevant ansteigt.",
+    "explanation": "Laut Kapitel 3.5 können Harnblasenkarzinome, die 10 Jahre und später nach einer durch Wege- oder Arbeitsunfall verursachten Querschnittlähmung auftreten, von der zuständigen Berufsgenossenschaft als Unfallfolge anerkannt werden. Das erhöhte Risiko besteht ab dem 10. Lähmungsjahr mit wie ohne Dauerkatheter."
   },
   {
-    "question": "Ab welchem Zeitpunkt nach einer unfallbedingten Querschnittlähmung kann ein Harnblasenkarzinom laut Kapitel 3.5 als Unfallfolge durch die Berufsgenossenschaft anerkannt werden?",
+    "question": "Welche Besonderheit bei der radikalen Zystektomie querschnittgelähmter Patienten nennt die Checkliste in Kapitel 3.5?",
     "options": [
-      "10 Jahre und später nach der Lähmung.",
-      "Innerhalb der ersten 2 Jahre nach der Lähmung.",
-      "Nur innerhalb des ersten Jahres nach der Lähmung.",
-      "Eine Anerkennung als Unfallfolge ist grundsätzlich ausgeschlossen."
+      "Ein Fast-Track-Konzept zur Verkürzung der Verweildauer anstreben",
+      "Eine orthotope Neoblase als Harnableitung der ersten Wahl planen",
+      "Einen Periduralkatheter wegen autonomer Dysreflexie anlegen",
+      "Die Atemtherapie erst nach Verlegung auf die Normalstation beginnen"
     ],
-    "correct": 0,
-    "tip": "Erkrankungen innerhalb der ersten 10 Jahre nach der Querschnittlähmung sind in den eigenen Patientenkollektiven eine seltene Ausnahme.",
-    "explanation": "Kapitel 3.5 beschreibt, dass Harnblasenkarzinome, die 10 Jahre und später nach einer unfallbedingten (Wege- oder Arbeitsunfall) Querschnittlähmung auftreten, als Unfallfolge durch die zuständige Berufsgenossenschaft anerkannt werden können."
+    "correct": 2,
+    "tip": "Eine beeinträchtigte Schmerzwahrnehmung bedeutet nicht, dass nozizeptive Reize folgenlos bleiben.",
+    "explanation": "Die Checkliste in Kapitel 3.5 empfiehlt einen Periduralkatheter trotz beeinträchtigter Schmerzwahrnehmung, um nozizeptive Auslöser einer autonomen Dysreflexie auszuschalten. Fast-Track ist ausdrücklich nicht vorgesehen (Verweildauer median 42 Tage), eine Neoblase kommt bei gelähmtem Beckenboden fast nie in Betracht, und die Atemtherapie sollte sofort postoperativ auf der Intensivstation beginnen."
   }
 ]

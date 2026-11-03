@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie viele Neuerkrankungen am Peniskarzinom wurden laut Kapitel 4.2 für Deutschland im Jahr 2014 angegeben, und wie hoch ist das relative 5-Jahres-Überleben?",
+    "question": "Welche Tumorentität gehört laut Definition in Kapitel 4.1 zum Geltungsbereich der S3-Leitlinie Peniskarzinom?",
     "options": [
-      "Ca. 950 Neuerkrankungen, relatives 5-Jahres-Überleben 71 %.",
-      "Ca. 50.000 Neuerkrankungen, relatives 5-Jahres-Überleben 10 %.",
-      "Ca. 10 Neuerkrankungen, relatives 5-Jahres-Überleben 99 %.",
-      "Es werden in der Leitlinie keine epidemiologischen Zahlen für Deutschland genannt."
+      "Plattenepithelkarzinom des inneren Vorhautblattes",
+      "Urothelkarzinom der distalen penilen Harnröhre",
+      "Malignes Schleimhautmelanom der Glans penis",
+      "Kaposi-Sarkom an der Haut des Penisschafts"
     ],
     "correct": 0,
-    "tip": "Das mittlere Erkrankungsalter liegt bei 70 Jahren; in Teilen Südamerikas, Asiens und Afrikas kann das Peniskarzinom bis zu 10 % der Malignome des Mannes ausmachen.",
-    "explanation": "Kapitel 4.2 gibt für Deutschland ca. 950 Neuerkrankungen im Jahr 2014 an, bei einem relativen 5-Jahres-Überleben von 71 %."
+    "tip": "Denken Sie an die drei in der Definition genannten Ursprungsorte und an die Entitäten, die ausdrücklich ausgeklammert werden.",
+    "explanation": "Laut Kapitel 4.1 geht das Peniskarzinom von der epithelialen Oberfläche der Glans, des Sulcus coronarius oder des inneren Präputialblattes aus. Karzinome der penilen Harnröhre, Sarkome, Melanome, hämatologische Tumoren und primäre Hauttumoren sind ausdrücklich nicht Gegenstand der Leitlinie."
   },
   {
-    "question": "Welche zwei Pathogenesewege werden beim Peniskarzinom unterschieden, und welcher Anteil der Fälle ist HPV-assoziiert?",
+    "question": "Welche Kennzahlen zum Peniskarzinom in Deutschland (Bezugsjahr 2014) nennt die Leitlinie?",
     "options": [
-      "HPV-assoziiert (v. a. Typ 16 und 18) vs. nicht-HPV-assoziiert, wobei ca. 50 % der Fälle HPV-assoziiert sind.",
-      "Nur ein einziger, ausschließlich genetisch bedingter Pathogeneseweg.",
-      "Ausschließlich traumatisch bedingt, HPV spielt keine Rolle.",
-      "Nahezu 100 % aller Fälle sind HPV-assoziiert."
+      "rund 950 Neuerkrankungen, relatives 5-Jahres-Überleben 51 %",
+      "rund 950 Neuerkrankungen, relatives 5-Jahres-Überleben 71 %",
+      "rund 1.950 Neuerkrankungen, relatives 5-Jahres-Überleben 51 %",
+      "rund 1.950 Neuerkrankungen, relatives 5-Jahres-Überleben 71 %"
     ],
-    "correct": 0,
-    "tip": "Nicht-HPV-assoziierte Fälle stehen häufig im Zusammenhang mit chronischer Balanoposthitis, Lichen sclerosus oder Phimose.",
-    "explanation": "Es werden ein HPV-assoziierter Weg (v. a. Hochrisiko-HPV-Typ 16 und 18, ca. 50 % der Fälle) und ein nicht-HPV-assoziierter Weg (u. a. chronische Balanoposthitis, Lichen sclerosus, Phimose) unterschieden."
+    "correct": 1,
+    "tip": "Leiten Sie die Fallzahl aus der rohen Inzidenz von etwa zwei pro 100.000 Männern ab; die Prognose liegt unter der von Hoden- und Prostatakarzinom.",
+    "explanation": "Laut Kapitel 4.2 wurden 2014 in Deutschland 950 Neuerkrankungen diagnostiziert (rohe Inzidenz 2/100.000 Männer), das relative 5-Jahres-Überleben liegt bei 71 %. Das mittlere Erkrankungsalter beträgt 70 Jahre, 2014 verstarben 197 Männer am Peniskarzinom."
   },
   {
-    "question": "Welche Risikofaktoren werden für den nicht-HPV-assoziierten Pathogeneseweg des Peniskarzinoms genannt?",
+    "question": "Männer mit invasivem Peniskarzinom erkranken in Deutschland im Mittel mit 70 Jahren. Wie alt sind Männer mit penilen Vorläuferläsionen laut Krebsregisterdaten bei Diagnosestellung im Vergleich?",
     "options": [
-      "Chronische Balanoposthitis, Lichen sclerosus, Phimose, lange Vorhaut und mangelnde Genitalhygiene.",
-      "Ausschließlich ein hoher Alkoholkonsum.",
-      "Ausschließlich eine vegetarische Ernährung.",
-      "Für den nicht-HPV-assoziierten Weg sind keine Risikofaktoren bekannt."
+      "im Durchschnitt etwa fünf Jahre älter",
+      "im Durchschnitt etwa gleich alt",
+      "im Durchschnitt etwa drei Jahre jünger",
+      "im Durchschnitt etwa zehn Jahre jünger"
     ],
-    "correct": 0,
-    "tip": "Diese Faktoren stehen im Gegensatz zum HPV-assoziierten Pathogeneseweg mit Hochrisiko-HPV-Typen.",
-    "explanation": "Als Risikofaktoren für den nicht-HPV-assoziierten Pathogeneseweg werden chronische Balanoposthitis, Lichen sclerosus, Phimose, lange Vorhaut und mangelnde Genitalhygiene genannt."
+    "correct": 2,
+    "tip": "Vorstufen gehen dem invasiven Karzinom zeitlich voraus – der in Registerdaten gemessene Altersabstand fällt aber überraschend gering aus.",
+    "explanation": "Laut Kapitel 4.2 waren Männer mit penilen Vorläuferläsionen bei Diagnosestellung im Durchschnitt drei Jahre jünger als Männer mit invasivem Karzinom. Vorläuferläsionen werden mit zuletzt etwa 180 Fällen pro Jahr seltener registriert als invasive Karzinome, eine Untererfassung erscheint möglich."
   },
   {
-    "question": "Was besagt Statement 4.1 zum Zusammenhang zwischen Zirkumzision im Kindesalter, Genitalhygiene und dem Risiko für ein Peniskarzinom?",
+    "question": "Eine Empfehlung erhält in der Abstimmung 90 % Zustimmung der Stimmberechtigten. Wie wird diese Konsensstärke nach AWMF-Regelwerk (Tabelle 7 der Leitlinie) bezeichnet?",
     "options": [
-      "Zirkumzision im Kindesalter und gute Genitalhygiene senken das Risiko.",
-      "Zirkumzision im Kindesalter erhöht das Risiko signifikant.",
-      "Genitalhygiene hat keinerlei Einfluss auf das Risiko.",
-      "Ein Zusammenhang zwischen diesen Faktoren und dem Peniskarzinomrisiko wird in der Leitlinie nicht hergestellt."
+      "Starker Konsens",
+      "Konsens",
+      "Mehrheitliche Zustimmung",
+      "Dissens"
     ],
-    "correct": 0,
-    "tip": "Die diskutierten Mechanismen dazu werden im Hintergrundtext der Leitlinie näher erläutert.",
-    "explanation": "Statement 4.1 besagt, dass eine Zirkumzision im Kindesalter und eine gute Genitalhygiene das Risiko für ein Peniskarzinom senken."
+    "correct": 1,
+    "tip": "Die AWMF staffelt die Konsensstärke nach Prozentbändern – prüfen Sie, in welches Band 90 % fallen.",
+    "explanation": "Nach Tabelle 7 gilt eine Zustimmung von > 95 % als starker Konsens, > 75–95 % als Konsens, > 50–75 % als mehrheitliche Zustimmung und < 50 % als Dissens. 90 % entsprechen daher einem Konsens, nicht einem starken Konsens."
   },
   {
-    "question": "In welchem Alter sollen Jungen laut Statement 4.2 gegen HPV geimpft werden, um das Risiko HPV-assoziierter Peniskarzinome zu senken?",
+    "question": "Für welche Gruppe formuliert Statement 4.2, dass eine HPV-Impfung das Risiko eines HPV-assoziierten Peniskarzinoms reduzieren kann?",
     "options": [
-      "Im Alter von 9–14 Jahren.",
-      "Im Alter von 60–70 Jahren.",
-      "Ausschließlich im Säuglingsalter unter 1 Jahr.",
-      "Eine HPV-Impfung bei Jungen wird in der Leitlinie nicht erwähnt."
+      "Jungen im Alter von 5–8 Jahren",
+      "Jungen im Alter von 9–14 Jahren",
+      "Jugendliche im Alter von 15–17 Jahren",
+      "Männer im Alter von 18–26 Jahren"
     ],
-    "correct": 0,
-    "tip": "Dem Urologen kommt dabei auch eine Rolle in der Impfberatung zu.",
-    "explanation": "Statement 4.2 besagt, dass eine HPV-Impfung von Jungen im Alter von 9–14 Jahren das Risiko HPV-assoziierter Karzinome senken kann."
+    "correct": 1,
+    "tip": "Das Statement verweist auf die offizielle deutsche HPV-Impfempfehlung für Jungen.",
+    "explanation": "Statement 4.2 (EK, Konsensstärke 100 %) bezieht sich auf die HPV-Impfung von Jungen im Alter von 9–14 Jahren. Eine Impfung bis zum 26. Lebensjahr nennt der Hintergrundtext nur für Menschen mit HIV-Infektion gemäß den Leitlinien der Europäischen AIDS-Gesellschaft."
   },
   {
-    "question": "Welche Hochrisiko-HPV-Typen werden im Zusammenhang mit dem Peniskarzinom besonders genannt?",
+    "question": "Welcher Mechanismus wird im Hintergrundtext zu Statement 4.1 für die risikosenkende Wirkung der Zirkumzision im Kindesalter diskutiert?",
     "options": [
-      "HPV-Typ 16 und 18.",
-      "HPV-Typ 6 und 11.",
-      "HPV-Typ 1 und 2.",
-      "Es wird kein spezifischer HPV-Typ genannt."
+      "geringere HPV-Suszeptibilität durch verstärkte Schleimhautdurchblutung",
+      "geringere HPV-Suszeptibilität durch höhere Langerhans-Zell-Dichte",
+      "geringere HPV-Suszeptibilität durch gesteigerte lokale IgA-Bildung",
+      "geringere HPV-Suszeptibilität durch vermehrte Keratinisierung"
     ],
-    "correct": 0,
-    "tip": "HPV-Typ 6 und 11 sind dagegen eher mit genitalen Warzen (Condylomata acuminata) assoziiert.",
-    "explanation": "Die Hochrisiko-HPV-Typen 16 und 18 werden im Zusammenhang mit dem Peniskarzinom besonders genannt."
+    "correct": 3,
+    "tip": "Neben der kleineren Epithelfläche und der besseren Hygiene nennt die Leitlinie einen dritten Faktor, der das Epithel selbst betrifft.",
+    "explanation": "Laut Hintergrund zu Statement 4.1 werden die reduzierte Oberfläche des penilen Epithels, verbesserte Hygienebedingungen und eine reduzierte HPV-Suszeptibilität durch vermehrte Keratinisierung des Epithels diskutiert. Durchblutung, Langerhans-Zellen oder IgA-Bildung werden in der Leitlinie nicht als Mechanismus genannt."
   },
   {
-    "question": "Wie unterscheidet sich das Erkrankungsalter von Patienten mit penilen Vorläuferläsionen im Vergleich zu Patienten mit invasivem Karzinom?",
+    "question": "Studien zum Effekt der HPV-Impfung von Jungen auf das Peniskarzinomrisiko fehlen bislang. Welches Pathogenese-Intervall von initialen Zellschäden bis zum Karzinom nimmt die Leitlinie als Grund dafür an?",
     "options": [
-      "Patienten mit Vorläuferläsionen sind im Mittel etwa drei Jahre jünger als Patienten mit invasivem Karzinom.",
-      "Patienten mit Vorläuferläsionen sind im Mittel 30 Jahre älter.",
-      "Es besteht kein Altersunterschied zwischen beiden Gruppen.",
-      "Patienten mit Vorläuferläsionen sind ausschließlich unter 20 Jahre alt."
+      "5 bis 10 Jahre",
+      "10 bis 15 Jahre",
+      "20 bis 30 Jahre",
+      "40 bis 50 Jahre"
     ],
-    "correct": 0,
-    "tip": "Penile Vorläuferläsionen werden ebenfalls im Krebsregister erfasst.",
-    "explanation": "Patienten mit penilen Vorläuferläsionen sind im Mittel drei Jahre jünger als Patienten mit einem invasiven Peniskarzinom."
+    "correct": 2,
+    "tip": "Setzen Sie das Intervall in Relation zur Einführung der HPV-Impfstoffe 2006 und zu den ersten Impfempfehlungen für Jungen 2012/13.",
+    "explanation": "Laut Hintergrund zu Statement 4.2 werden von initialen Zellschäden bis zum Peniskarzinom Pathogenese-Intervalle von 20 bis 30 Jahren angenommen, sodass seit Einführung der Impfstoffe noch keine Daten vorliegen können. Der protektive Effekt wird in Analogie zu den Präkanzerosen weiblicher Anogenitalkarzinome wissenschaftlich begründet unterstellt."
   },
   {
-    "question": "Welchen Hinweis gibt die Leitlinie zu ihrem eigenen Aktualisierungsstand (Version 1.0, August 2020)?",
+    "question": "Welcher Anteil der Peniskarzinome ist laut Kapitel 4.2 vermutlich mit HPV der Hochrisikogruppe assoziiert?",
     "options": [
-      "Die Leitlinie ist seit über 5 Jahren nicht aktualisiert und befindet sich in Überarbeitung.",
-      "Die Leitlinie wird jährlich vollständig neu aufgelegt.",
-      "Die Leitlinie wurde erst vor wenigen Monaten erstmals veröffentlicht.",
-      "Zum Aktualisierungsstand macht die Leitlinie keine Angabe."
+      "etwa die Hälfte",
+      "etwa ein Drittel",
+      "etwa ein Viertel",
+      "etwa ein Zehntel"
     ],
     "correct": 0,
-    "tip": "Bei der Episodenerstellung soll daher ausschließlich der Inhalt der Leitlinie wiedergegeben werden, ohne neuere Daten zu ergänzen.",
-    "explanation": "Die Leitlinie (Version 1.0, August 2020) weist darauf hin, dass sie seit über 5 Jahren nicht aktualisiert wurde und sich in Überarbeitung befindet."
+    "tip": "Die WHO teilt die penilen Plattenepithelkarzinome nach ihrer Pathogenese ein – überlegen Sie, welches Gewicht der virale Weg dabei hat.",
+    "explanation": "Laut Kapitel 4.2 ist etwa die Hälfte der Peniskarzinome vermutlich mit Hochrisiko-HPV assoziiert; die WHO-Klassifikation unterscheidet daher HPV- und nicht-HPV-assoziierte Tumoren. Bis zu 10 % ist dagegen der Anteil des Peniskarzinoms an den Malignomen des Mannes in Teilen Südamerikas, Asiens und Afrikas."
   },
   {
-    "question": "Welche Empfehlungsgrade werden methodisch in der S3-Leitlinie Peniskarzinom verwendet?",
+    "question": "In Teilen Südamerikas, Asiens und Afrikas macht das Peniskarzinom bis zu 10 % der Malignome bei Männern aus. Welche Regionen nennt die Leitlinie dagegen als Gebiete mit extrem niedriger Inzidenz (< 1 Fall pro 1 Million Männer)?",
     "options": [
-      "A ('soll'), B ('sollte') und 0 ('kann'), ergänzt durch Expertenkonsens (EK).",
-      "Ausschließlich die Grade I bis IV ohne weitere Unterteilung.",
-      "Ausschließlich 'ja' oder 'nein' ohne Abstufung.",
-      "Die Leitlinie verwendet keine Empfehlungsgrade."
+      "Mittel- und Westeuropa einschließlich Deutschland",
+      "Nordamerika, Skandinavien und Großbritannien",
+      "Ost- und Südosteuropa sowie das Baltikum",
+      "Nordafrika, die arabischen Länder und Israel"
     ],
-    "correct": 0,
-    "tip": "Diese Systematik entspricht der auch in anderen AWMF-Leitlinien gebräuchlichen Methodik.",
-    "explanation": "Die Leitlinie verwendet die Empfehlungsgrade A ('soll'), B ('sollte') und 0 ('kann'), ergänzt durch Expertenkonsens (EK) und eine Angabe der Konsensstärke."
+    "correct": 3,
+    "tip": "Deutschland liegt mit einer rohen Inzidenz von etwa zwei pro 100.000 Männern deutlich über der genannten Schwelle.",
+    "explanation": "Laut Kapitel 4.2 ist das Peniskarzinom in den nordafrikanischen und arabischen Ländern sowie in Israel extrem selten (< 1 Erkrankungsfall auf 1 Million Männer). In Deutschland liegt die rohe Inzidenzrate dagegen bei zwei auf 100.000 Männer."
   },
   {
-    "question": "Welcher klinische Fallstrick wird in Episode 1 im Zusammenhang mit einer nicht heilenden Glansläsion diskutiert?",
+    "question": "Ein 68-Jähriger mit langjähriger Phimose und Lichen sclerosus stellt sich mit einer seit Monaten nicht heilenden Rötung der Glans vor. Welchem Pathogeneseweg ordnet die Leitlinie diese Risikokonstellation zu?",
     "options": [
-      "Eine persistierende Glansläsion wird monatelang als 'Balanitis' mit Salben behandelt, wobei Scham und verzögerte Vorstellung ein typisches Problem darstellen.",
-      "Jede Glansläsion wird sofort und unkritisch biopsiert.",
-      "Patienten werden routinemäßig zu früh zur Zirkumzision überwiesen.",
-      "Ein Fallstrick wird in dieser Episode nicht thematisiert."
+      "HPV-assoziierter Weg über Hochrisikotypen wie HPV 16 und 18",
+      "HPV-assoziierter Weg über Niedrigrisikotypen wie HPV 6 und HPV 11",
+      "Nicht-HPV-assoziierter Weg über chronisch-entzündliche Läsionen",
+      "EBV-assoziierter Weg analog zum lymphoepithelialen Karzinom"
     ],
-    "correct": 0,
-    "tip": "Scham-besetzte Themen führen häufig zu einer verzögerten ärztlichen Vorstellung, was die Prognose verschlechtern kann.",
-    "explanation": "Der diskutierte Fallstrick ist, eine persistierende Glansläsion monatelang als 'Balanitis' mit Salben zu behandeln, wobei Scham und eine dadurch verzögerte Vorstellung ein typisches Problem dieser Entität darstellen."
+    "correct": 2,
+    "tip": "Überlegen Sie, welcher histologische Subtyp typischerweise auf dem Boden eines Lichen sclerosus entsteht und wie er in der WHO-Einteilung eingeordnet ist.",
+    "explanation": "Laut Hintergrund zu Statement 4.1 sind chronische Balanoposthitis und Lichen sclerosus (als präkanzeröse Läsionen diskutiert) sowie Phimose, lange Vorhaut und mangelhafte Genitalhygiene dem nicht-HPV-assoziierten Pathogeneseweg zuzuordnen. Der zweite Weg beruht auf Hochrisiko-HPV, besonders Typ 16 und 18."
   }
 ]

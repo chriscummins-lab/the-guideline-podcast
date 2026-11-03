@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Empfehlung 7.14 (Kapitel 7.4) zur präoperativen orthograden Darmreinigung vor Zystektomie mit Dünndarm-Harnableitung?",
+    "question": "Welche Kombination aus Inhalt und Empfehlungsgrad entspricht den Fast-track-Empfehlungen zur radikalen Zystektomie in Kapitel 7.4?",
     "options": [
-      "Darauf kann ohne Kompromittierung der perioperativen Morbidität verzichtet werden.",
-      "Sie ist zwingend über mindestens 5 Tage präoperativ durchzuführen.",
-      "Sie verringert nachweislich die Mortalität signifikant.",
-      "Sie ist bei jeder Form der Harnableitung obligat."
+      "Auf orthograde Darmreinigung vor Dünndarm-Harnableitung soll verzichtet werden (A)",
+      "Routinemäßige parenterale Ernährung postoperativ sollte entfallen (B)",
+      "Magensonde sollte innerhalb von 24 Stunden postoperativ entfernt werden (B)",
+      "Mobilisation soll innerhalb von 48 Stunden postoperativ beginnen (EK)"
     ],
-    "correct": 0,
-    "tip": "Die zugrunde liegenden Studien zeigten keinen signifikanten Unterschied in Wundinfektionen, paralytischem Ileus oder Mortalität.",
-    "explanation": "Empfehlung 7.14 sieht vor, dass auf die präoperative orthograde Darmreinigung ohne Kompromittierung der perioperativen Morbidität verzichtet werden kann, sofern Dünndarm für die Harnableitung verwendet werden soll."
+    "correct": 2,
+    "tip": "Prüfe zwei Dinge zugleich: das genannte Zeitfenster und die Stärke der Formulierung – beides muss zum jeweiligen Empfehlungskasten passen.",
+    "explanation": "Empfehlung 7.15 (Empfehlungsgrad B): Magensonden sollten frühzeitig innerhalb von 24 Stunden entfernt werden. Der Verzicht auf die orthograde Darmreinigung ist eine Kann-Empfehlung (0), der Verzicht auf routinemäßige parenterale Ernährung eine Soll-Empfehlung (A), und die Mobilisation soll innerhalb von 24 Stunden erfolgen (7.16, EK)."
   },
   {
-    "question": "Was fordert Empfehlung 7.17 (Empfehlungsgrad A) bezüglich der routinemäßigen postoperativen parenteralen Ernährung nach radikaler Zystektomie?",
+    "question": "Empfehlung 7.14 zum Verzicht auf die orthograde Darmreinigung stützt sich auf drei randomisierte Studien, trägt aber nur den Empfehlungsgrad 0. Wie begründet die Leitlinie das?",
     "options": [
-      "Darauf soll verzichtet werden.",
-      "Sie soll bei jedem Patienten routinemäßig für mindestens 5 Tage erfolgen.",
-      "Sie ist Voraussetzung für eine frühzeitige Mobilisation.",
-      "Sie reduziert nachweislich die Infektionsrate."
+      "Die drei Studien legten als Harnableitung jeweils eine orthotope Neoblase an",
+      "Die Interventionsarme erhielten eine heute unübliche 3-tägige Darmreinigung",
+      "Die Kontrollgruppen erhielten jeweils ein Klistier am Abend vor der Operation",
+      "Ohne Darmreinigung zeigte sich in den Studien eine höhere Wunddehiszenzrate"
     ],
-    "correct": 0,
-    "tip": "Eine Studie zeigte für die parenterale Ernährung sogar eine erhöhte Infektionsrate durch den zentralvenösen Katheter.",
-    "explanation": "Empfehlung 7.17 fordert mit Empfehlungsgrad A, dass auf die routinemäßige postoperative parenterale Ernährung verzichtet werden soll."
+    "correct": 1,
+    "tip": "Eine Empfehlung kann trotz randomisierter Daten abgeschwächt werden, wenn die Studienbedingungen schlecht auf den klinischen Alltag übertragbar sind.",
+    "explanation": "Laut Hintergrund zu 7.14 führten die RCTs im Interventionsarm eine Darmreinigung über 3 Tage durch, was nicht dem heute üblichen milden Abführen am präoperativen Tag entspricht – daher nur eine Kann-Empfehlung. Als Harnableitung diente das Ileum-Conduit, ein Klistier erhielt nur die Kontrollgruppe bei Aslan et al., und die höhere Wunddehiszenzrate fand sich retrospektiv gerade mit Darmvorbereitung."
   },
   {
-    "question": "Welchen Effekt zeigte laut Statement 7.18 das Kaugummikauen nach radikaler Zystektomie?",
+    "question": "Ein 64-jähriger Patient mit muskelinvasivem Urothelkarzinom an der linken Seitenwand, klinisch N0, erhält eine radikale Zystektomie. Welche Lymphadenektomie (LA) entspricht Kapitel 7.5?",
     "options": [
-      "Es verkürzt die Zeit bis zum Wiedereinsetzen der Darmtätigkeit.",
-      "Es verlängert die Zeit bis zum Wiedereinsetzen der Darmtätigkeit.",
-      "Es hat keinerlei Einfluss auf die Darmfunktion.",
-      "Es erhöht das Risiko einer Anastomoseninsuffizienz."
+      "Ipsilaterale pelvine LA links, da der Primärtumor einseitig lokalisiert ist",
+      "Pelvine LA, sofern die präoperative Bildgebung suspekte Lymphknoten zeigt",
+      "Beidseitige LA paraaortal bis zum Abgang der A. mesenterica inferior",
+      "Beidseitige pelvine LA bis zur Aortenbifurkation im Rahmen der Zystektomie"
     ],
-    "correct": 0,
-    "tip": "Dieser Effekt zeigte sich sowohl nach offener als auch nach roboterassistierter Zystektomie.",
-    "explanation": "Statement 7.18 beschreibt, dass das Kauen von Kaugummi nach radikaler Zystektomie die Zeit bis zum Wiedereinsetzen der Darmtätigkeit verkürzt."
+    "correct": 3,
+    "tip": "Überlege, wie häufig bei einseitigem Blasentumor Lymphknotenmetastasen auf der Gegenseite gefunden werden – und wo die Sentinel-Region liegt.",
+    "explanation": "Empfehlung 7.22 (Empfehlungsgrad A): Beim invasiven Harnblasenkarzinom soll zeitgleich zur radikalen Zystektomie eine beidseitige pelvine LA erfolgen, die laut Hintergrund das gesamte kleine Becken bis zur Aortenbifurkation umfasst (kontralaterale LK-Metastasen bei einseitigem Tumor in 41 %). Eine superextended LA bis zur A. mesenterica inferior bringt ohne pelvine LK-Metastasen keinen zusätzlichen Prognosevorteil."
   },
   {
-    "question": "Was fordert Empfehlung 7.22 (Kapitel 7.5, Empfehlungsgrad A) bei einem invasiven Harnblasenkarzinom im Rahmen der radikalen Zystektomie?",
+    "question": "Wie viele Lymphknoten umfasst laut Statement 7.23 eine suffiziente beidseitige pelvine Lymphadenektomie (Entnahme und Beurteilung)?",
     "options": [
-      "Eine zeitgleiche beidseitige pelvine Lymphadenektomie soll erfolgen.",
-      "Eine Lymphadenektomie ist generell nicht indiziert.",
-      "Eine Lymphadenektomie soll nur bei klinisch auffälligen Lymphknoten erfolgen.",
-      "Eine einseitige Lymphadenektomie ist ausreichend."
+      "Mindestens 10–16 Lymphknoten",
+      "Mindestens 18–22 Lymphknoten",
+      "Mindestens 23–28 Lymphknoten",
+      "Mindestens 30–35 Lymphknoten"
     ],
     "correct": 0,
-    "tip": "Diese Empfehlung basiert auf der Evidenz, dass eine pelvine Lymphadenektomie das progressionsfreie, tumorspezifische und Gesamtüberleben verbessern kann.",
-    "explanation": "Empfehlung 7.22 fordert, dass bei einem invasiven Harnblasenkarzinom im Rahmen der radikalen Zystektomie zeitgleich eine beidseitige pelvine Lymphadenektomie erfolgen soll."
+    "tip": "Die Lymphknotenzahl gilt als indirektes Maß der Ausdehnung; die Spanne im Statement orientiert sich an Schwellenwerten großer Serien zum Überleben.",
+    "explanation": "Statement 7.23: Eine suffiziente beidseitige pelvine LA umfasst die Entnahme und Beurteilung von mindestens 10–16 Lymphknoten; Schwellen von ≥ 10 (Herr, Gray) bzw. 16 LK (Leissner, May) waren prognostisch relevant. Mehr als 20 LK empfiehlt Karl für ein exaktes Staging – das ist nicht die Schwelle des Statements."
   },
   {
-    "question": "Wie viele Lymphknoten umfasst laut Statement 7.23 eine suffiziente beidseitige pelvine Lymphadenektomie mindestens?",
+    "question": "Was zeigt die in Kapitel 7.5 zusammengefasste Datenlage zur Morbidität einer ausgedehnten gegenüber einer limitierten pelvinen Lymphadenektomie?",
     "options": [
-      "Mindestens 10-16 Lymphknoten.",
-      "Mindestens 1-2 Lymphknoten.",
-      "Mindestens 100 Lymphknoten.",
-      "Eine Mindestanzahl ist nicht definierbar."
+      "Signifikant höhere Lymphozelenrate bei vergleichbarer Operationszeit",
+      "Erhöhte 30-Tage-Mortalität bei unveränderter Lymphozelenrate",
+      "Teils längere Operationszeit ohne signifikant mehr Lymphozelen",
+      "Höhere 30-Tage-Komplikationsrate durch vermehrte Lymphozelen"
     ],
-    "correct": 0,
-    "tip": "Diese Zahl bezieht sich auf die Entnahme und Beurteilung im Rahmen der beidseitigen Lymphadenektomie.",
-    "explanation": "Statement 7.23 beschreibt, dass eine suffiziente beidseitige pelvine Lymphadenektomie die Entnahme und Beurteilung von mindestens 10-16 Lymphknoten umfasst."
+    "correct": 2,
+    "tip": "Unterscheide zwischen dem operativen Aufwand und einem messbaren Schaden für den Patienten.",
+    "explanation": "Im systematischen Review von Bruins fand sich in 2 von 4 Arbeiten eine signifikant verlängerte OP-Zeit (bei Brossner um bis zu 60 Minuten), aber kein signifikanter Unterschied bei Lymphozelen oder perioperativer Mortalität (Hintergrund zu 7.21). Die Lymphozelenrate lag bei 0–1,6 %, die 30-Tage-Komplikationsrate war nicht signifikant verschieden."
   },
   {
-    "question": "Welche zwei unabhängigen Risikofaktoren für einen gleichzeitigen Tumorbefall der Urethra bei Frauen nennen die Statements 7.24 und 7.25 (Kapitel 7.6.1)?",
+    "question": "Bei einer 61-jährigen Patientin mit muskelinvasivem Urothelkarzinom wird eine orthotope Neoblase erwogen. Welche Aussage entspricht Kapitel 7.6.1?",
     "options": [
-      "Tumorbefall des Blasenhalses und Tumorbefall der Vaginalvorderwand.",
-      "Ausschließlich das Alter der Patientin.",
-      "Ausschließlich die Tumorgröße des Primärtumors.",
-      "Ausschließlich die Anzahl vorheriger Schwangerschaften."
+      "Ein Tumorbefall des Trigonums schließt den Erhalt der Urethra bei ihr aus",
+      "Bei Tumorbefall des Blasenhalses ist die Urethra in über 90 % mitbefallen",
+      "Eine Neoblase setzt eine tumorfreie präoperative Biopsie der Urethra voraus",
+      "Ohne Befall von Blasenhals und Vaginalvorderwand kann sie angeboten werden"
     ],
-    "correct": 0,
-    "tip": "Beide Faktoren sind in der Leitlinie als unabhängige Risikofaktoren mit Evidenzlevel 3 ausgewiesen.",
-    "explanation": "Statement 7.24 nennt den Tumorbefall des Blasenhalses und Statement 7.25 den Tumorbefall der Vaginalvorderwand als unabhängige Risikofaktoren für das gleichzeitige Vorliegen eines Urethrabefalls bei Frauen."
+    "correct": 3,
+    "tip": "Unterscheide Risikofaktor und Kontraindikation: Zwei Lokalisationen gelten bei der Frau als unabhängige Risikofaktoren für einen Urethrabefall.",
+    "explanation": "Empfehlung 7.26 (Empfehlungsgrad 0): Bei fehlender Infiltration von Vaginalvorderwand und Blasenhals kann der Frau ein orthotoper Blasenersatz angeboten werden (Statements 7.24/7.25). Ein Blasenhals-/Trigonumbefall ist laut Hintergrund keine absolute Kontraindikation für den Urethraerhalt; nur bei etwa 50 % dieser Patientinnen ist die Urethra mitbefallen."
   },
   {
-    "question": "Was soll laut Empfehlungen 7.28 und 7.29 bei Frauen mit geplantem orthotopem Blasenersatz intraoperativ erfolgen, und welche Konsequenz hat ein positiver Befund?",
+    "question": "Für eine Patientin ist eine Ileumneoblase geplant. Was gilt laut Kapitel 7.6.1 für den Urethraabsetzungsrand?",
     "options": [
-      "Ein Schnellschnitt des Urethraabsetzungsrandes soll durchgeführt werden; bei Tumornachweis soll eine Urethrektomie erfolgen.",
-      "Es ist keine intraoperative Schnellschnittuntersuchung notwendig.",
-      "Ein Schnellschnitt soll nur bei bereits präoperativ bekanntem Urethrabefall erfolgen.",
-      "Bei positivem Schnellschnitt wird die Operation ohne weitere Konsequenz fortgesetzt."
+      "Ein Schnellschnitt sollte erfolgen; seine Sensitivität liegt bei etwa 86 %",
+      "Ein Schnellschnitt kann bei tumorfreiem Blasenhals in der TUR-B entfallen",
+      "Ein Schnellschnitt soll erfolgen; seine Sensitivität liegt bei 97–100 %",
+      "Ein Schnellschnitt soll erfolgen; ein Tumornachweis erfordert keine Urethrektomie"
     ],
-    "correct": 0,
-    "tip": "Die Sensitivität dieser Schnellschnittuntersuchung bei der Frau liegt laut Leitlinie bei 97-100%.",
-    "explanation": "Empfehlung 7.28 fordert bei geplantem orthotopem Blasenersatz einen intraoperativen Schnellschnitt des Urethraabsetzungsrandes; Empfehlung 7.29 fordert bei Tumornachweis im Schnellschnitt eine Urethrektomie."
+    "correct": 2,
+    "tip": "Denke an die Empfehlungsstärke bei der Frau und daran, welche Konsequenz aus einem positiven Befund am Absetzungsrand folgt.",
+    "explanation": "Empfehlung 7.28 (Empfehlungsgrad A): Ist bei der Frau ein orthotoper Blasenersatz geplant, soll intraoperativ ein Schnellschnitt des Urethraabsetzungsrandes erfolgen; Statement 7.27 nennt eine Sensitivität von 97–100 %. Bei Tumornachweis soll eine Urethrektomie erfolgen (7.29, A); die 86 % stammen aus der Resektionsbiopsie der prostatischen Harnröhre beim Mann."
   },
   {
-    "question": "Wie häufig ist laut Statement 7.30 das isolierte Harnröhrenrezidiv bei entsprechender Selektion von Frauen zur Anlage eines orthotopen Blasenersatzes?",
+    "question": "Welcher Faktor stellt beim Mann laut Statement 7.32 den größten Risikofaktor für ein Harnröhrenrezidiv nach Zystektomie dar?",
     "options": [
-      "Selten, mit unter 2%.",
-      "Sehr häufig, mit über 50%.",
-      "Bei praktisch jeder Patientin (nahezu 100%).",
-      "Ein isoliertes Harnröhrenrezidiv wurde bei Frauen nie beschrieben."
+      "Urothelkarzinom im Prostatastroma",
+      "Carcinoma in situ in der Harnblase",
+      "Orthotope Neoblase als Harnableitung",
+      "Multifokalität des Blasentumors"
     ],
     "correct": 0,
-    "tip": "Zusätzlich hat der orthotope Blasenersatz bei der Frau laut Statement 7.31 keinen negativen Einfluss auf das onkologische Ergebnis.",
-    "explanation": "Statement 7.30 beschreibt, dass bei entsprechender Selektion der Frauen zur Anlage eines orthotopen Blasenersatzes das isolierte Harnröhrenrezidiv mit unter 2% selten ist."
+    "tip": "Das Risiko steigt mit der Infiltrationstiefe entlang einer bestimmten anatomischen Struktur.",
+    "explanation": "Statement 7.32: Multifokalität, Art der Harnableitung und Beteiligung der prostatischen Harnröhre sind Risikofaktoren, die Stromainvasion der Prostata ist der größte (Harnröhrenrezidiv in 18–67 %). Ein CIS der Harnblase ist laut Statement 7.34 keine Indikation zur Urethrektomie, und die orthotope Neoblase geht mit einem niedrigeren Rezidivrisiko einher als die kutane Ableitung (7.33)."
   },
   {
-    "question": "Welcher Faktor stellt laut Statement 7.32 (Kapitel 7.6.2) bei Männern den größten Risikofaktor für ein Harnröhrenrezidiv dar, und wie hoch ist das Risiko bei Nachweis im Prostatastroma?",
+    "question": "Ein 69-jähriger Mann mit muskelinvasivem Urothelkarzinom wünscht eine Neoblase; die Resektionsbiopsie der prostatischen Harnröhre bei 5 und 7 Uhr war tumorpositiv. Welcher Befund ist laut Kapitel 7.6.2 für die endgültige Entscheidung zur Urethrektomie maßgeblich?",
     "options": [
-      "Die Stromainvasion der Prostata, mit einem Harnröhrenrezidivrisiko von 18-67%.",
-      "Das Patientenalter, mit einem Risiko von unter 1%.",
-      "Die Tumorgröße der Blase, unabhängig von der Prostatabeteiligung.",
-      "Es existiert laut Leitlinie kein identifizierbarer Hauptrisikofaktor."
+      "Der präoperative Befund der Resektionsbiopsie der prostatischen Harnröhre",
+      "Der Nachweis eines begleitenden Carcinoma in situ in der Harnblase",
+      "Die Multifokalität des Blasentumors in der vorausgegangenen TUR-B",
+      "Der intraoperative Schnellschnitt des urethralen Absetzungsrandes"
     ],
-    "correct": 0,
-    "tip": "Weitere Risikofaktoren sind die Multifokalität des Tumors und die Art der Harnableitung.",
-    "explanation": "Statement 7.32 identifiziert die Stromainvasion der Prostata als größten Risikofaktor für ein Harnröhrenrezidiv bei Männern, wobei 18-67% der Patienten mit Nachweis im Prostatastroma ein Harnröhrenrezidiv entwickeln."
+    "correct": 3,
+    "tip": "Die Vorhersagekraft präoperativer Befunde aus der Prostataregion für das spätere Urethrarezidiv wird in den Studien uneinheitlich bewertet.",
+    "explanation": "Laut Hintergrund zu 7.35/7.36 ist bei positiver Resektionsbiopsie eine Urethrektomie zwar grundsätzlich gerechtfertigt, bei Wunsch nach orthotopem Blasenersatz sollte aber der intraoperative Schnellschnitt des Absetzungsrandes die endgültige Entscheidung tragen; Empfehlung 7.35 (EK) fordert diesen Schnellschnitt beim Mann. Auf die Urethrektomie kann verzichtet werden, wenn der Absetzungsbereich nicht direkt befallen ist (7.36); ein CIS der Blase ist keine Indikation (7.34)."
   },
   {
-    "question": "Ist ein Carcinoma in situ der Harnblase laut Statement 7.34 eine Indikation zur Urethrektomie?",
+    "question": "Bei einem Patienten mit Neoblase wird in der Nachsorge ein Carcinoma in situ der Harnröhre ohne endoskopisch sichtbaren Tumor nachgewiesen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Nein, ein Carcinoma in situ in der Harnblase ist keine Indikation zur Urethrektomie.",
-      "Ja, ein CIS der Harnblase macht eine Urethrektomie in jedem Fall zwingend notwendig.",
-      "Ja, aber nur wenn das CIS multifokal auftritt.",
-      "Diese Frage wird in der Leitlinie nicht behandelt."
+      "Sekundäre Urethrektomie soll erfolgen; BCG ist bei CIS nicht vorgesehen",
+      "Urethrektomie sollte erfolgen; alternativ kann ein BCG-Versuch erwogen werden",
+      "Intraurethrale 5-FU-Instillation sollte erfolgen; Urethrektomie erst bei Progress",
+      "BCG-Instillation soll erfolgen; Urethrektomie erst bei fehlendem Ansprechen"
     ],
-    "correct": 0,
-    "tip": "Diese Aussage gilt unabhängig vom Geschlecht des Patienten.",
-    "explanation": "Statement 7.34 stellt klar, dass ein Carcinoma in situ in der Harnblase keine Indikation zur Urethrektomie darstellt."
+    "correct": 1,
+    "tip": "Für das Karzinomrezidiv und für das CIS der Harnröhre formuliert die Leitlinie unterschiedlich starke Empfehlungen.",
+    "explanation": "Empfehlung 7.38 (EK): Bei Carcinoma in situ in der Harnröhre sollte eine Urethrektomie erfolgen, alternativ kann ein BCG-Therapieversuch erwogen werden (Remission in 83 % in der Berner Serie). Die Soll-Empfehlung zur sekundären Urethrektomie in kurativer Intention (7.37) betrifft das Karzinomrezidiv; 5-FU-Instillationen bei pTa/CIS verliefen in der Serie von Clark überwiegend erfolglos."
   }
 ]

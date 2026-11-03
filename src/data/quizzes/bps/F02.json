@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll die Anamnese bei Verdacht auf benignes Prostatasyndrom laut Empfehlung 5.1 umfassen?",
+    "question": "Welche Aussage zum Internationalen Prostata-Symptomenscore (IPSS) trifft laut Leitlinie zu?",
     "options": [
-      "Ausschließlich Fragen zur Miktionsfrequenz.",
-      "Fragen zu Symptomen des unteren Harntrakts, Harninkontinenz, Trink-/Miktionsverhalten, Lebensstil, Sexualität, Darmfunktion, Medikamenteneinnahme sowie Vorerkrankungen/-operationen.",
-      "Ausschließlich die Familienanamnese.",
-      "Nur die Frage nach Blut im Urin."
+      "Er ist neben der Symptomquantifizierung auch zur Diagnosestellung des BPS geeignet",
+      "Er bildet aus acht Symptomfragen einen Gesamtwert zwischen 0 und 40 Punkten",
+      "Er enthält eine eigene Frage zur Harninkontinenz, nicht aber zur Lebensqualität",
+      "Bei Leidensdruck besteht üblicherweise ab einem IPSS > 7 eine Therapieindikation"
     ],
-    "correct": 1,
-    "tip": "Die Anamnese bildet laut Leitlinie die Grundlage der gesamten BPS-Diagnostik.",
-    "explanation": "Die Anamnese soll Fragen zur Qualität und Quantität von LUTS, Harninkontinenz, Trink- und Miktionsverhalten, Lebensstil, Sexualität, Darmfunktion, Medikamenteneinnahme sowie Vor­erkrankungen und -operationen enthalten (Empfehlung 5.1, EK)."
+    "correct": 3,
+    "tip": "Der Fragebogen quantifiziert, er diagnostiziert nicht – und er hat bekannte inhaltliche Lücken.",
+    "explanation": "Statement 5.5 (EK): Eine Therapieindikation besteht üblicherweise bei einem IPSS > 7, sofern ein Leidensdruck existiert. Der IPSS bildet aus sieben Symptomfragen einen Score von 0–35 (achte Frage: Lebensqualität), ist laut Statement 5.4 nicht zur Diagnosestellung geeignet und enthält keine Frage zur Harninkontinenz."
   },
   {
-    "question": "Wofür ist der Internationale Prostata-Symptomenscore (IPSS) laut Leitlinie geeignet – und wofür nicht?",
+    "question": "Bei einem 69-Jährigen mit floriden Hämorrhoiden und geringer Schmerztoleranz soll das Prostatavolumen bestimmt werden. Was empfiehlt die Leitlinie?",
     "options": [
-      "Er ist zur Diagnosestellung des BPS geeignet.",
-      "Er ist zur Quantifizierung von Symptomen und Lebensqualität geeignet, jedoch NICHT zur Diagnosestellung.",
-      "Er ersetzt die körperliche Untersuchung vollständig.",
-      "Er misst ausschließlich die Prostatagröße."
+      "TRUS trotz der Beschwerden, da nur er verlässliche Volumenwerte liefert",
+      "Volumenschätzung per digito-rektaler Untersuchung als schonende Alternative",
+      "Transabdomineller bzw. suprapubischer Ultraschall anstelle des transrektalen",
+      "Volumenschätzung aus dem altersadaptierten PSA-Wert statt einer Sonografie"
     ],
-    "correct": 1,
-    "tip": "Der IPSS ist zudem nicht krankheitsspezifisch für das BPS.",
-    "explanation": "Laut Statement 5.4 ist der IPSS-Fragebogen nur zur Quantifizierung von Symptomen und Lebensqualität, nicht aber zur Diagnosestellung geeignet."
+    "correct": 2,
+    "tip": "Die Leitlinie benennt konkrete Situationen, in denen vom Standardverfahren der Volumetrie abgewichen werden sollte.",
+    "explanation": "Empfehlung 5.19 (Grad A): Die Volumenbestimmung soll mit TRUS erfolgen; nach Empfehlung 5.20 (Grad B) sollte bei analen Erkrankungen, geringer Schmerztoleranz, Ablehnung des TRUS oder fehlender Sonde stattdessen TAUS/SPUS eingesetzt werden. Die DRU unterschätzt ab 40 cm³ deutlich, und die PSA-Volumen-Korrelation ist nur moderat."
   },
   {
-    "question": "Wie ist der IPSS-Score hinsichtlich des Schweregrads unterteilt?",
+    "question": "Was besagt die evidenzbasierte Empfehlung 5.7 (Empfehlungsgrad A) zur Urinanalyse mittels Teststreifen?",
     "options": [
-      "Mild (0 Punkte), moderat (1-10 Punkte), schwer (>10 Punkte).",
-      "Mild (Summe 1-7), moderat (Summe 8-19), schwer (Summe 20-35).",
-      "Es gibt laut Leitlinie keine Schweregrad-Einteilung.",
-      "Nur mild und schwer als einzige zwei Kategorien, ohne moderate Stufe."
-    ],
-    "correct": 1,
-    "tip": "Der Gesamtwert wird aus den ersten sieben der acht IPSS-Fragen gebildet.",
-    "explanation": "Der IPSS-Summenwert (0-35, aus den ersten 7 Fragen) wird als mild (1-7), moderat (8-19) oder schwer (20-35) eingeteilt; die 8. Frage erfasst separat die Lebensqualität."
-  },
-  {
-    "question": "Welche Aussage zur Urin-Teststreifenuntersuchung zur Differenzialdiagnostik des BPS trifft laut Empfehlung 5.7 (Empfehlungsgrad A) zu?",
-    "options": [
-      "Sie ist das Referenzverfahren und soll routinemäßig zur BPS-Diagnose eingesetzt werden.",
-      "Es existiert ungenügend Evidenz, um die ausschließlich mittels Teststreifen durchgeführte Urinanalyse zur differenzialdiagnostischen Abgrenzung des BPS zu empfehlen; bei auffälligem Resultat soll weiterführende Diagnostik erfolgen.",
-      "Der Teststreifen ersetzt die Urinkultur vollständig.",
-      "Teststreifen sind nur bei Frauen validiert und bei Männern generell nicht anwendbar."
-    ],
-    "correct": 1,
-    "tip": "Mehrere Studien zeigten nur moderate Sensitivitäten/Spezifitäten des Teststreifens für den Harnwegsinfekt-Nachweis.",
-    "explanation": "Es existiert ungenügend Evidenz für den alleinigen Urin-Teststreifen zur differenzialdiagnostischen Abgrenzung des BPS; bei auffälligen Resultaten soll weiterführende Diagnostik erfolgen (Empfehlungsgrad A)."
-  },
-  {
-    "question": "Welche drei Gründe machen die Messung der PSA-Konzentration bei BPS-Patienten wichtig?",
-    "options": [
-      "Nur die Abschätzung des Prostatavolumens.",
-      "Als Proxy-Parameter für das Prostatavolumen, in der Differenzialdiagnostik zum Prostatakarzinom und zur Abschätzung des Progressionsrisikos.",
-      "Ausschließlich die Verlaufskontrolle nach einer Operation.",
-      "PSA hat laut Leitlinie keine Bedeutung beim BPS."
-    ],
-    "correct": 1,
-    "tip": "Alle drei Rollen sind im Kapitel zur PSA-Diagnostik explizit benannt.",
-    "explanation": "Die PSA-Messung ist wichtig als Proxy-Parameter zur Abschätzung des Prostatavolumens, in der Differenzialdiagnostik zum Prostatakarzinom und zur Abschätzung des BPS-Progressionsrisikos."
-  },
-  {
-    "question": "Welches Restharnvolumen gilt bei Männern mit BPS laut Leitlinie als normal, und ab welchem Wert spricht man im englischen Schrifttum von \"chronischer Retention\"?",
-    "options": [
-      "Normal bis 50 ml; chronische Retention ab >300 ml.",
-      "Normal bis 500 ml; chronische Retention ab >1000 ml.",
-      "Es gibt laut Leitlinie keinen definierten Normwert.",
-      "Normal bis 10 ml; chronische Retention ab >50 ml."
+      "Zur Abgrenzung des BPS unzureichend; auffällige Befunde sollen weiter abgeklärt werden",
+      "Zur Abgrenzung des BPS ausreichend; eine Urinkultur ist erst bei Fieber oder Dysurie nötig",
+      "Zum Ausschluss einer Harnwegsinfektion bei LUTS ohne Dysurie zuverlässig geeignet",
+      "Als Ersatz der Urinkultur vor schleimhauttraumatisierenden Eingriffen geeignet"
     ],
     "correct": 0,
-    "tip": "Restharn >300 ml spricht eher für eine Detrusorunteraktivität als für eine Obstruktion.",
-    "explanation": "Bei BPS-Patienten gilt Restharn bis 50 ml als normal; Restharnmengen >300 ml werden im englischen Schrifttum als chronische Retention bezeichnet und sind eher Zeichen einer Detrusorunteraktivität."
+    "tip": "Ein point-of-care-Test ist ein indirektes Verfahren – denken Sie an seine Sensitivität bei LUTS ohne Dysurie.",
+    "explanation": "Empfehlung 5.7 (Grad A, Evidenzlevel 2+): Die Evidenz reicht nicht aus, um die allein mittels Teststreifen durchgeführte Urinanalyse zur Abgrenzung des BPS von anderen Erkrankungen zu empfehlen; bei auffälligen Resultaten soll eine weiterführende Diagnostik erfolgen. Referenzverfahren zur Diagnose einer Harnwegsinfektion bleibt die Urinkultur."
   },
   {
-    "question": "Kann anhand der alleinigen Restharnmenge zwischen Blasenauslassobstruktion (BOO) und Detrusorunteraktivität unterschieden werden?",
+    "question": "Vor einer geplanten TURP zeigt die Urinkultur eines beschwerdefreien 71-Jährigen eine asymptomatische Bakteriurie. Wie ist laut Leitlinie vorzugehen?",
     "options": [
-      "Ja, eindeutig und zuverlässig.",
-      "Nein – mit der Restharnbestimmung kann nicht zwischen BOO und Detrusorunteraktivität unterschieden werden; die diagnostische Sicherheit der Druck-Fluss-Messung wird keinesfalls erreicht.",
-      "Nur bei Restharn unter 50 ml ist eine Unterscheidung zuverlässig möglich.",
-      "Diese Unterscheidung ist nur bei Frauen relevant."
+      "Keine Behandlung, da eine asymptomatische Bakteriurie beim Mann nicht therapiebedürftig ist",
+      "Behandlung der Bakteriurie vor dem Eingriff, um postoperativen Infektionen vorzubeugen",
+      "Behandlung erst bei mehr als 10 Leukozyten/µl im Urinsediment, sonst Operation wie geplant",
+      "Operation wie geplant und Behandlung erst bei Fieber oder Dysurie nach dem Eingriff"
     ],
     "correct": 1,
-    "tip": "Im Mittel weisen nur ca. 44% der Patienten mit erhöhtem Restharn überhaupt eine mechanische BOO auf.",
-    "explanation": "Statement 5.11 besagt explizit, dass mit der Restharnbestimmung nicht zwischen BOO und Detrusorunteraktivität unterschieden werden kann und die diagnostische Sicherheit der Druck-Fluss-Messung keinesfalls erreicht wird."
+    "tip": "Die Bewertung einer asymptomatischen Bakteriurie hängt davon ab, was als Nächstes mit dem Harntrakt geschieht.",
+    "explanation": "Kapitel 5.4.1: Eine Harnwegsinfektion soll vor interventioneller BPS-Therapie ausgeschlossen werden; auch eine asymptomatische Bakteriurie muss vor schleimhauttraumatisierenden Eingriffen wie ablativen Verfahren behandelt werden, um postoperative Infektionen zu vermeiden. 10 Leukozyten/µl sind der Grenzwert einer klinisch relevanten Leukozyturie, keine Therapieschwelle."
   },
   {
-    "question": "Mit welchem Verfahren soll laut Empfehlung 5.19 (Empfehlungsgrad A) die Volumenbestimmung der Prostata primär erfolgen?",
+    "question": "Welchen Umfang hat die körperliche Untersuchung, die laut Leitlinie bei jedem Patienten mit Verdacht auf BPS erfolgen soll?",
     "options": [
-      "Mit der digito-rektalen Untersuchung allein.",
-      "Mit dem transrektalen Ultraschall (TRUS), da dieser eine verlässliche Methode mit klarem Überblick über Prostata und Parenchym bietet.",
-      "Ausschließlich mittels Computertomografie.",
-      "Mittels PSA-Wert allein, ohne jede Bildgebung."
+      "DRU und Genitaluntersuchung; neurologischer Status bei auffälliger Anamnese",
+      "DRU, Untersuchung der Genitalien und orientierende neurologische Untersuchung",
+      "DRU und Nierenlagerprüfung; Genitaluntersuchung bei urethralem Ausfluss",
+      "Genitaluntersuchung und neurologischer Status; DRU bei erhöhtem PSA-Wert"
     ],
     "correct": 1,
-    "tip": "Der transabdominelle/suprapubische Ultraschall ist nur die Alternative bei Kontraindikationen oder Ablehnung des TRUS.",
-    "explanation": "Die Volumenbestimmung soll mit transrektalem Ultraschall erfolgen, da dieser eine verlässliche Methode mit klarem und vollständigem Überblick über Prostata und Parenchym ist (Empfehlungsgrad A)."
+    "tip": "Denken Sie an die sympathische (Th11–L2) und parasympathische (S2–S4) Innervation von Blase und Sphinkter.",
+    "explanation": "Empfehlung 5.6 (EK): Eine körperliche Untersuchung inklusive Untersuchung der Genitalien, einer orientierenden neurologischen sowie einer digito-rektalen Untersuchung soll bei jedem Patienten mit Verdacht auf BPS erfolgen. Keine dieser Komponenten ist an Vorbefunde wie PSA-Wert oder Anamnese geknüpft."
   },
   {
-    "question": "Welcher Grenzwert der intravesikalen prostatischen Protrusion (IPP) zeigt eine diagnostische Genauigkeit vergleichbar mit der Uroflowmetrie zur Bestimmung einer Blasenauslassobstruktion?",
+    "question": "Welche Aussage zur PSA-Bestimmung bei Männern mit BPS trifft laut Leitlinie zu?",
     "options": [
-      "IPP >1 mm.",
-      "IPP >10 mm.",
-      "IPP >50 mm.",
-      "Die IPP hat laut Leitlinie keinen diagnostischen Wert."
+      "Zur Karzinom-Früherkennung gelten dieselben Kriterien wie in der Allgemeinbevölkerung",
+      "Zur Karzinom-Früherkennung gilt wegen der BPE ein höherer, altersunabhängiger Grenzwert",
+      "Der PSA-Wert erlaubt beim einzelnen Patienten eine verlässliche Volumenschätzung",
+      "Zur Progressionsabschätzung ist PSA auch ohne vorherigen Karzinomausschluss nutzbar"
     ],
-    "correct": 1,
-    "tip": "Die IPP wird in drei Grade eingeteilt: Grad 1 (≤5 mm), Grad 2 (>5-10 mm), Grad 3 (>10 mm).",
-    "explanation": "Eine IPP >10 mm zeigt eine hohe diagnostische Genauigkeit vergleichbar mit der Uroflowmetrie zur Bestimmung einer BOO (Empfehlung 5.21, Empfehlungsgrad B)."
+    "correct": 0,
+    "tip": "Ein erhöhtes Karzinomrisiko bei BPS fand sich vor allem in Fall-Kontroll-Studien, kaum dagegen in Kohortenstudien.",
+    "explanation": "Kapitel 5.5.3: PSA zur Karzinom-Früherkennung sollte bei Männern mit BPS denselben Kriterien unterworfen sein wie in der Allgemeinbevölkerung (Verweis auf die S3-Leitlinie Prostatakarzinom). Zur Progressionsabschätzung kann PSA laut Empfehlung 5.8 (EK) erst nach Karzinomausschluss verwendet werden; die PSA-Volumen-Korrelation ist nur moderat."
   },
   {
-    "question": "Wann soll laut Empfehlung 5.23 eine sonografische Untersuchung des oberen Harntrakts erfolgen?",
+    "question": "Ab welchem Wert zeigt die intravesikale prostatische Protrusion (IPP) laut Empfehlung 5.21 eine hohe, mit der Uroflowmetrie vergleichbare diagnostische Genauigkeit für eine BOO?",
     "options": [
-      "Routinemäßig bei jedem gesunden Mann unabhängig vom Befund.",
-      "Bei jedem Patienten mit Verdacht auf BPS bei Vorliegen von klinisch relevantem Restharn und/oder hohen intravesikalen Drücken.",
-      "Nur bei bereits bestehender Niereninsuffizienz.",
-      "Diese Untersuchung wird in der Leitlinie nicht empfohlen."
+      "> 5 mm",
+      "> 8 mm",
+      "> 10 mm",
+      "> 15 mm"
     ],
-    "correct": 1,
-    "tip": "So kann eine Dilatation des oberen Harntrakts schon vor einem Kreatininanstieg erkannt werden.",
-    "explanation": "Eine sonografische Untersuchung des oberen Harntrakts soll bei jedem Patienten mit BPS-Verdacht bei klinisch relevantem Restharn und/oder hohen intravesikalen Drücken durchgeführt werden (Empfehlung 5.23, EK)."
+    "correct": 2,
+    "tip": "Die IPP wird im sagittalen Mittellinienbild bei einer Blasenfüllung von 100–200 ml gemessen und in drei Grade eingeteilt.",
+    "explanation": "Empfehlung 5.21 (Grad B, Evidenzlevel 2++): Die IPP-Messung sollte als Screeninguntersuchung in der Basisdiagnostik eingesetzt werden; eine IPP > 10 mm (Grad 3) zeigt eine hohe, mit der Uroflowmetrie vergleichbare Genauigkeit für eine BOO. 5 mm ist die Obergrenze von Grad 1; Grenzwerte um 5–8 mm stammen aus Einzelstudien."
+  },
+  {
+    "question": "Ein 70-Jähriger mit mäßigen LUTS hat bei wiederholten Messungen sonografisch 180 ml Restharn; weitere Befunde liegen noch nicht vor. Was empfiehlt die Leitlinie?",
+    "options": [
+      "Vor einer deobstruierenden Therapie weitere Diagnostik zur Klärung der Ursache",
+      "Zeitnahe deobstruierende Operation, da Restharn > 100 ml eine BPO ausreichend belegt",
+      "Bestätigung per Einmalkatheterismus und danach zeitnahe deobstruierende Operation",
+      "Kontrolle in zwölf Monaten, da Restharn erst ab 300 ml als behandlungsrelevant gilt"
+    ],
+    "correct": 0,
+    "tip": "Restharn kann viele Ursachen haben – nicht jede davon bessert sich durch eine Desobstruktion.",
+    "explanation": "Empfehlung 5.14 (Grad B): Bei alleiniger Erhöhung des Restharnvolumens sollten deobstruierende Maßnahmen nicht ohne weitere Diagnostik erfolgen, da sich mit Restharn nicht zwischen BOO und Detrusorunteraktivität unterscheiden lässt (Statement 5.11). Die Restharnmessung per Katheter ist wegen ihrer Invasivität nicht zu empfehlen."
+  },
+  {
+    "question": "Welche Aussage zum Restharn bei Patienten mit BPS trifft laut Leitlinie zu?",
+    "options": [
+      "Restharnmengen bis 100 ml gelten bei Patienten mit BPS noch als normal",
+      "Ein initial erhöhter Restharn sagt einen späteren Harnverhalt sicher voraus",
+      "Restharn korreliert eng mit dem Prostatavolumen und dem LUTS-Schweregrad",
+      "Restharn > 300 ml spricht eher für Detrusorunteraktivität als für BOO"
+    ],
+    "correct": 3,
+    "tip": "Die Normgrenze stammt aus Untersuchungen an asymptomatischen Männern über 50 Jahren ohne blasenwirksame Medikation.",
+    "explanation": "Statement 5.12 (EK): Restharnmengen > 300 ml (engl. chronische Retention) sind eher Zeichen einer Detrusorunteraktivität als einer BOO. Normal ist laut Statement 5.15 Restharn bis 50 ml; mit LUTS-Stärke und Prostatavolumen besteht kein klinisch relevanter Zusammenhang, und der initiale Restharn ist nicht prädiktiv für einen späteren Harnverhalt (Statement 5.17)."
+  },
+  {
+    "question": "Welcher Grenzwert und welche Mindestblasenfüllung gelten laut Leitlinie für die sonografische Detrusordicke als Surrogatparameter einer BOO?",
+    "options": [
+      "≥ 5 mm bei mindestens 100 ml Füllung",
+      "≥ 2 mm bei mindestens 100 ml Füllung",
+      "≥ 2 mm bei mindestens 250 ml Füllung",
+      "≥ 5 mm bei mindestens 250 ml Füllung"
+    ],
+    "correct": 2,
+    "tip": "Mit zunehmender Füllung wird der Detrusor dünner – vergleichbar sind Messwerte erst, wenn sich dieser Effekt nicht mehr ändert.",
+    "explanation": "Kapitel 5.7.3/Empfehlung 5.22 (Grad B): Die Detrusordicke sollte als Screeninguntersuchung eingesetzt werden; ein Grenzwert von ≥ 2 mm bei mindestens 250 ml (bzw. ≥ 50 % der Kapazität) Blasenfüllung hat eine hohe Sensitivität und Spezifität für eine BOO. Bei 100–200 ml Füllung wird dagegen die IPP gemessen, deren Grad 1 bis 5 mm reicht."
   }
 ]

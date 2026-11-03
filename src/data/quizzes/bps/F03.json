@@ -1,122 +1,122 @@
 [
   {
-    "question": "Über welchen Zeitraum sollte ein Blasentagebuch laut Empfehlung 6.1 (Empfehlungsgrad B) mindestens geführt werden?",
+    "question": "Ein 67-Jähriger mit BPS berichtet vor allem über Nykturie und Pollakisurie. Welche Dauer und welcher Empfehlungsgrad gelten laut Leitlinie für das Blasentagebuch?",
     "options": [
-      "Mindestens einen Tag.",
-      "Mindestens drei Tage.",
-      "Mindestens 14 Tage.",
-      "Mindestens 6 Monate."
-    ],
-    "correct": 1,
-    "tip": "Ein eintägiges Tagebuch ist für eine verlässliche Nykturie-Diagnostik zu variabel.",
-    "explanation": "Ein mindestens dreitägiges Blasentagebuch sollte zur Objektivierung und Quantifizierung der Beschwerden bei relevanter Nykturie und/oder Blasenspeichersymptomen geführt werden (Empfehlungsgrad B)."
-  },
-  {
-    "question": "Kann die Uroflowmetrie laut Empfehlung 6.2 (Empfehlungsgrad 0) zwischen Blasenauslassobstruktion (BOO) und Detrusorunteraktivität unterscheiden?",
-    "options": [
-      "Ja, sie ist dafür genauso geeignet wie die Druck-Fluss-Messung.",
-      "Nein – sie kann nicht zwischen BOO und Detrusorunteraktivität unterscheiden und daher eine Druck-Fluss-Messung nicht ersetzen.",
-      "Ja, aber nur bei Männern über 70 Jahren.",
-      "Diese Frage wurde in der Leitlinie nicht untersucht."
-    ],
-    "correct": 1,
-    "tip": "Die Uroflowmetrie liefert nur einen Hinweis auf eine Blasenentleerungsstörung, keine Differenzierung der Ursache.",
-    "explanation": "Die Uroflowmetrie kann einen Hinweis auf eine Blasenentleerungsstörung liefern, aber nicht zwischen BOO und Detrusorunteraktivität unterscheiden und somit die Druck-Fluss-Messung nicht ersetzen (Empfehlungsgrad 0)."
-  },
-  {
-    "question": "Wann soll laut Empfehlung 6.3 (Empfehlungsgrad A) der Serum-Kreatinin-Wert bei BPS-Patienten bestimmt werden?",
-    "options": [
-      "Routinemäßig bei jedem BPS-Patienten unabhängig vom Befund.",
-      "In Kombination mit sonografisch nachgewiesener Dilatation des oberen Harntrakts und/oder klinisch relevantem Restharn.",
-      "Nur vor jeder medikamentösen Therapie, unabhängig vom Restharn.",
-      "Diese Untersuchung wird in der Leitlinie generell nicht empfohlen."
-    ],
-    "correct": 1,
-    "tip": "Eine isolierte, routinemäßige Kreatininbestimmung bei jedem BPS-Patienten ist nicht vorgesehen.",
-    "explanation": "Die Bestimmung des Serum-Kreatinin-Werts soll bei BPS-Patienten in Kombination mit sonografisch nachgewiesener Dilatation des oberen Harntrakts und/oder klinisch relevantem Restharn durchgeführt werden (Empfehlungsgrad A)."
-  },
-  {
-    "question": "Welches Verfahren gilt laut Statement 6.7 als Goldstandard zur Unterscheidung zwischen Blasenauslassobstruktion und Detrusorunteraktivität?",
-    "options": [
-      "Die Uroflowmetrie.",
-      "Die Druck-Fluss-Messung – standardisiert, hoch reproduzierbar und präziseste Untersuchung zur Unterscheidung.",
-      "Die digito-rektale Untersuchung.",
-      "Die Bestimmung des IPSS-Scores."
-    ],
-    "correct": 1,
-    "tip": "Klinische Parameter wie LUTS-Stärke, Prostatavolumen oder Uroflowmetrie korrelieren nur gering mit dem tatsächlichen BOO-Grad.",
-    "explanation": "Die Druck-Fluss-Messung ist die präziseste Untersuchung zur Unterscheidung von BOO und Detrusorunteraktivität, standardisiert und reproduzierbar, und gilt als Goldstandard."
-  },
-  {
-    "question": "Wann soll laut Empfehlung 6.6 (Empfehlungsgrad A) eine Druck-Fluss-Messung durchgeführt werden?",
-    "options": [
-      "Nie, da sie durch nicht-invasive Verfahren vollständig ersetzt werden kann.",
-      "Nach erfolgloser instrumenteller/operativer Therapie, wenn erneute invasive Therapiemaßnahmen geplant sind.",
-      "Nur bei Frauen mit LUTS.",
-      "Ausschließlich vor der ersten medikamentösen Therapie."
-    ],
-    "correct": 1,
-    "tip": "Vor einer erneuten Operation nach gescheitertem Ersteingriff ist die Abklärung der zugrunde liegenden Pathophysiologie besonders wichtig.",
-    "explanation": "Die Druck-Fluss-Messung soll nach erfolgloser (invasiver) Behandlung durchgeführt werden, wenn erneute invasive Therapiemaßnahmen geplant sind (Empfehlungsgrad A)."
-  },
-  {
-    "question": "Bei welchen Befunden soll laut Empfehlung 6.9 eine diagnostische Urethrozystoskopie durchgeführt werden?",
-    "options": [
-      "Bei jedem Patienten mit BPS routinemäßig, unabhängig von weiteren Befunden.",
-      "Bei Mikro-/Makrohämaturie und/oder Harnblasentumor in der Anamnese bzw. Verdacht auf Harnröhrenstriktur und/oder Blasenhalsenge, zum Ausschluss von Begleitpathologien.",
-      "Nur bei Männern unter 50 Jahren.",
-      "Ausschließlich bei Verdacht auf ein Prostatakarzinom."
-    ],
-    "correct": 1,
-    "tip": "Die Urethrozystoskopie zählt zur weiterführenden, fakultativen Diagnostik, nicht zur Basisdiagnostik.",
-    "explanation": "Bei Vorliegen einer Mikro-/Makrohämaturie, einem Harnblasentumor in der Anamnese oder Verdacht auf Harnröhrenstriktur/Blasenhalsenge soll eine diagnostische Urethrozystoskopie zum Ausschluss von Begleitpathologien erfolgen (EK)."
-  },
-  {
-    "question": "Welche der folgenden bildgebenden Verfahren sind laut den Statements 6.10-6.12 in der Diagnostik des benignen Prostatasyndroms NICHT indiziert?",
-    "options": [
-      "Nur die Computertomografie.",
-      "Ausscheidungsurografie, Computertomografie und (multiparametrische) Magnetresonanztomografie des Harntrakts.",
-      "Nur die Sonografie des oberen Harntrakts.",
-      "Keines dieser Verfahren ist ausgeschlossen."
-    ],
-    "correct": 1,
-    "tip": "Diese drei Verfahren werden explizit als in der BPS-Diagnostik nicht indiziert benannt.",
-    "explanation": "Sowohl die Ausscheidungsurografie als auch die Computertomografie und die (multiparametrische) MRT des oberen und unteren Harntrakts sind laut den Statements 6.10-6.12 in der Diagnostik des BPS nicht indiziert."
-  },
-  {
-    "question": "Welchen Empfehlungsgrad erhalten nicht-invasive Verfahren wie der Penis-Manschettentest und die Kondomkatheter-Methode zur BOO-Diagnostik?",
-    "options": [
-      "Empfehlungsgrad A – sie sollen routinemäßig anstelle der Druck-Fluss-Messung eingesetzt werden.",
-      "Empfehlungsgrad 0 – sie können einen Hinweis auf eine BOO liefern und zwischen BOO und Detrusorunteraktivität differenzieren, ersetzen aber keine Druck-Fluss-Messung.",
-      "Diese Verfahren werden in der Leitlinie als kontraindiziert bewertet.",
-      "Empfehlungsgrad A, aber nur in Kombination mit der MRT."
-    ],
-    "correct": 1,
-    "tip": "Bis zu 31% der Patienten lassen sich mit dem Penis-Manschettentest nicht sicher klassifizieren.",
-    "explanation": "Sowohl der Penis-Manschettentest als auch die Kondomkatheter-Methode erhalten Empfehlungsgrad 0: Sie können einen Hinweis auf eine BOO liefern, ersetzen aber keine Druck-Fluss-Messung."
-  },
-  {
-    "question": "Kann die Kombination mehrerer nicht-invasiver diagnostischer Testverfahren laut Empfehlung 6.16 die Druck-Fluss-Messung ersetzen?",
-    "options": [
-      "Ja, bei Kombination von mindestens drei Verfahren ist die Druck-Fluss-Messung verzichtbar.",
-      "Nein – aufgrund unzureichender diagnostischer Sicherheit und niedriger Studienqualität kann die Kombination eine urodynamische Untersuchung nicht ersetzen.",
-      "Ja, aber nur bei Männern mit kleinem Prostatavolumen.",
-      "Diese Frage wurde nie untersucht."
-    ],
-    "correct": 1,
-    "tip": "Auch bei optimierten Grenzwerten blieb die Vorhersagekraft der Testkombinationen nur für einen kleinen Teil der Patienten verlässlich.",
-    "explanation": "Die Kombination unterschiedlicher diagnostischer Testverfahren kann einen Hinweis auf eine Obstruktion liefern, aufgrund unzureichender diagnostischer Sicherheit und niedriger Studienqualität aber die Druck-Fluss-Messung nicht ersetzen (Empfehlungsgrad 0)."
-  },
-  {
-    "question": "Wie hoch war die subjektive Erfolgsquote der TURP, wenn die Diagnose auf Basis einer Druck-Fluss-Messung mit nachgewiesener BOO erfolgte, im Vergleich zu einer Diagnosestellung ohne Druck-Fluss-Messung?",
-    "options": [
-      "93% mit nachgewiesener BOO vs. 78% ohne Druck-Fluss-Messung.",
-      "Beide Gruppen zeigten exakt die gleiche Erfolgsquote von 50%.",
-      "20% mit nachgewiesener BOO vs. 90% ohne Druck-Fluss-Messung.",
-      "Die Druck-Fluss-Messung hatte laut dieser Studie keinen Einfluss auf die Erfolgsquote."
+      "Mindestens 3 Tage; Empfehlungsgrad B (sollte)",
+      "Mindestens 1 Tag (24 h); Empfehlungsgrad B (sollte)",
+      "Mindestens 7 Tage; Empfehlungsgrad A (soll)",
+      "Mindestens 3 Tage; Empfehlungsgrad A (soll)"
     ],
     "correct": 0,
-    "tip": "Jensen et al. zeigten damit einen signifikanten Vorteil (p<0,02) der urodynamisch gesicherten Diagnose vor der TURP.",
-    "explanation": "Jensen et al. demonstrierten eine subjektive Erfolgsquote der TURP von 93%, wenn die Diagnose auf Basis einer Druck-Fluss-Messung mit nachgewiesener BOO erfolgte, gegenüber 78% ohne Druck-Fluss-Messung (p<0,02)."
+    "tip": "Die ICS definiert das Miktionstagebuch über mindestens 24 Stunden, empfiehlt selbst aber einen längeren Protokollverlauf.",
+    "explanation": "Empfehlung 6.1 (Grad B, Evidenzlevel 3): Ein mindestens dreitägiges Blasentagebuch sollte bei relevanter Nykturie und/oder überwiegenden Speichersymptomen sowie zur Überwachung des Therapieerfolgs geführt werden. Ein 7-tägiges Tagebuch zeigte keinen Vorteil, ein eintägiges ist für die Nykturie-Diagnostik zu variabel."
+  },
+  {
+    "question": "Bei einem 72-Jährigen mit LUTS ergibt die Uroflowmetrie einen Qmax von 8 ml/s. Wie ist der Befund laut Leitlinie einzuordnen?",
+    "options": [
+      "Beleg einer BOO, der bereits eine Operationsindikation begründet",
+      "Beleg einer Detrusorunteraktivität, die eine BOO ausschließt",
+      "Ersatz der Druck-Fluss-Messung, sofern der Befund reproduzierbar ist",
+      "Hinweis auf eine Entleerungsstörung, deren Ursache offen bleibt"
+    ],
+    "correct": 3,
+    "tip": "Bedenken Sie die Grenzwertabhängigkeit: Ein höherer Qmax-Grenzwert erhöht die Sensitivität auf Kosten der Spezifität.",
+    "explanation": "Empfehlung 6.2 (Grad 0, Evidenzlevel 2++): Die Uroflowmetrie kann einen Hinweis auf eine Blasenentleerungsstörung liefern, aber nicht zwischen BOO und Detrusorunteraktivität unterscheiden und deshalb die Druck-Fluss-Messung nicht ersetzen. Für den häufigsten Grenzwert Qmax 10 ml/s lagen Sensitivität und Spezifität nur bei ca. 68 bzw. 71 %."
+  },
+  {
+    "question": "Bei welchen Patienten mit BPS soll laut Leitlinie (Empfehlungsgrad A) das Serum-Kreatinin bestimmt werden?",
+    "options": [
+      "Bei jedem Patienten routinemäßig im Rahmen der Basisdiagnostik vor Therapiebeginn",
+      "Bei schwerer Symptomatik (IPSS > 19) und einem Prostatavolumen über 40 cm³",
+      "Bei sonografischer Dilatation des oberen Harntrakts und/oder relevantem Restharn",
+      "Bei erhöhtem PSA-Wert und/oder auffälligem Urin-Teststreifen in der Basisdiagnostik"
+    ],
+    "correct": 2,
+    "tip": "Eine postrenale Niereninsuffizienz ist beim BPS eine seltene Komplikation – die Indikation ist entsprechend gezielt gefasst.",
+    "explanation": "Empfehlung 6.3 (Grad A, Evidenzlevel 2-): Das Serum-Kreatinin soll bei BPS mit sonografisch nachgewiesener Dilatation des oberen Harntrakts und/oder klinisch relevantem Restharn bestimmt werden; laut 6.4 (EK) soll dabei die eGFR mitberücksichtigt werden. In MTOPS trat nach 4,5 Jahren bei ca. 3.000 Patienten keine postrenale Niereninsuffizienz auf."
+  },
+  {
+    "question": "Ein 68-Jähriger hat 18 Monate nach TURP erneut ausgeprägte LUTS; eine erneute operative Therapie wird erwogen. Was empfiehlt die Leitlinie zur Druck-Fluss-Messung?",
+    "options": [
+      "Sie ist entbehrlich, wenn Uroflowmetrie und Restharn eindeutig pathologisch sind",
+      "Sie ist erst nach einem erfolglosen medikamentösen Therapieversuch indiziert",
+      "Sie ist entbehrlich, da die Detrusordicke nach TURP die BOO zuverlässig anzeigt",
+      "Sie soll vor der geplanten erneuten instrumentellen/operativen Therapie erfolgen"
+    ],
+    "correct": 3,
+    "tip": "Überlegen Sie, bei welchem Anteil der BPS-Patienten die Druck-Fluss-Messung tatsächlich eine BOO nachweist.",
+    "explanation": "Empfehlung 6.6 (Grad A): Nach erfolgloser instrumenteller/operativer Therapie soll vor erneuten invasiven Maßnahmen eine Druck-Fluss-Messung durchgeführt werden. Vor einer Erstoperation sollte sie dagegen erwogen werden, wenn die Abklärung der Pathophysiologie für die Therapieplanung gerechtfertigt ist (6.5, Grad B); nur ca. 30–50 % der BPS-Patienten haben eine BOO."
+  },
+  {
+    "question": "Ab welchem Blasenauslassobstruktionsindex (BOOI) liegt laut Leitlinie in der Druck-Fluss-Messung eine BOO vor?",
+    "options": [
+      "> 20 cm H₂O",
+      "> 40 cm H₂O",
+      "> 60 cm H₂O",
+      "> 100 cm H₂O"
+    ],
+    "correct": 1,
+    "tip": "Verwechseln Sie den Obstruktionsindex nicht mit dem Kontraktilitätsindex (BCI), für den eine andere Schwelle gilt.",
+    "explanation": "Kapitel 6.4 (Hintergrund zu Statement 6.7): Der Grenzwert für eine BOO ist mit BOOI > 40 cm H₂O bzw. OCO > 1 ermittelt worden; für die Detrusorkontraktilität werden derzeit BCI < 100, DECO < 1 und Watt-Faktor < 8 angegeben. Die Druck-Fluss-Messung gilt als Goldstandard zur Unterscheidung von BOO und Detrusorunteraktivität."
+  },
+  {
+    "question": "Bei welcher Konstellation soll laut Leitlinie bei BPS eine diagnostische Urethrozystoskopie erfolgen?",
+    "options": [
+      "Bei jedem Patienten vor einer TURP zur Beurteilung der Blasentrabekulierung",
+      "Bei einem Prostatavolumen über 80 cm³ zur Wahl des Operationsverfahrens",
+      "Bei Mikrohämaturie oder Verdacht auf Harnröhrenstriktur bzw. Blasenhalsenge",
+      "Bei einer IPP über 10 mm zur Bestätigung eines obstruierenden Mittellappens"
+    ],
+    "correct": 2,
+    "tip": "Zystoskopische Trabekulierung und Urethraokklusion korrelieren nur unzuverlässig mit LUTS und urodynamischer BOO.",
+    "explanation": "Empfehlung 6.9 (EK): Bei Mikro-/Makrohämaturie und/oder Harnblasentumor in der Anamnese bzw. Verdacht auf Harnröhrenstriktur und/oder Blasenhalsenge soll eine diagnostische Urethrozystoskopie zum Ausschluss von Begleitpathologien erfolgen. Als Routineuntersuchung vor jeder Operation oder zur BOO-Beurteilung ist sie nicht vorgesehen."
+  },
+  {
+    "question": "Ein Hausarzt fragt, welche Bildgebung er zur Abklärung eines BPS veranlassen soll. Welche Antwort entspricht den Statements der Leitlinie?",
+    "options": [
+      "Sonografie, da BPS-relevante Parameter ohne Strahlung messbar sind",
+      "Ausscheidungsurografie zur Darstellung des oberen und unteren Harntrakts",
+      "CT-Urografie, um Harnstauung und Blasensteine sicher zu erfassen",
+      "Multiparametrische MRT zur Bestimmung von Zonenanatomie und Volumen"
+    ],
+    "correct": 0,
+    "tip": "Röntgenverfahren haben beim BPS ihren Platz in der Differenzialdiagnostik, etwa bei Verdacht auf eine Harnröhrenstriktur.",
+    "explanation": "Statements 6.10–6.12 (EK): Ausscheidungsurografie, CT und (multiparametrische) MRT sind in der Diagnostik des BPS nicht indiziert. Die BPS-relevanten Parameter (z. B. Prostatavolumen, Restharn, Blasenstein, Harnstauungsniere) sind sonografisch ohne ionisierende Strahlung erfassbar; die klinische Relevanz der mpMRT ist noch nicht etabliert."
+  },
+  {
+    "question": "Welche Aussage zum Penis-Manschettentest trifft laut Leitlinie zu?",
+    "options": [
+      "Er kann eine BOO anzeigen, aber nicht von einer Detrusorunteraktivität abgrenzen",
+      "Er bestimmt den Detrusordruck bei maximalem Harnfluss über einen Rektalballon",
+      "Für eine verwertbare Interpretation sollte das Miktionsvolumen über 150 ml liegen",
+      "Er klassifiziert über 95 % der Patienten sicher als obstruktiv oder nicht obstruktiv"
+    ],
+    "correct": 2,
+    "tip": "Die Manschette wird während der Miktion schrittweise aufgeblasen, bis der Harnstrahl unterbrochen ist.",
+    "explanation": "Kapitel 6.7.1/Empfehlung 6.13 (Grad 0): Der Test kann einen Hinweis auf eine BOO liefern und zwischen BOO und Detrusorunteraktivität differenzieren; der Druck bei Strahlunterbrechung entspricht dem isovolumetrischen Blasendruck, das Miktionsvolumen sollte über 150 ml betragen. Bis zu 31 % der Patienten lassen sich nicht sicher klassifizieren und benötigen weiterhin eine Druck-Fluss-Messung."
+  },
+  {
+    "question": "Welches Messprinzip liegt der Kondomkatheter-Methode zugrunde?",
+    "options": [
+      "Messung des isovolumetrischen Blasendrucks beim Sistieren der Miktion",
+      "Messung der Sauerstoffversorgung der Blasenwand über einen Hautsensor",
+      "Messung des Detrusordrucks über einen transurethralen Doppellumenkatheter",
+      "Berechnung eines Obstruktionsindex aus Qmax und sonografischem Restharn"
+    ],
+    "correct": 0,
+    "tip": "Das Verfahren ist nicht invasiv, hat aber eine messbare Morbidität, etwa Unbehagen am Penis oder Makrohämaturie.",
+    "explanation": "Kapitel 6.7.2/Empfehlung 6.14 (Grad 0): Über ein Spezialkondom mit Ventil und Druckmesser wird der Widerstand erhöht, bis die Miktion sistiert; der Druck zu diesem Zeitpunkt entspricht dem isovolumetrischen Blasendruck (Voraussetzung u. a. Qmax ≥ 5,4 ml/s, kein Pressen). Die Sauerstoffmessung über einen Hautsensor beschreibt dagegen die Nah-Infrarot-Spektroskopie."
+  },
+  {
+    "question": "Ein 70-jähriger Diabetiker mit Polyneuropathie und LUTS wünscht eine Operation; nach der Basisdiagnostik bleibt unklar, ob eine BOO oder eine Detrusorunteraktivität vorliegt. Was empfiehlt die Leitlinie?",
+    "options": [
+      "Wiederholte Uroflowmetrie, da sie BOO und Detrusorunteraktivität zuverlässig trennt",
+      "Druck-Fluss-Messung zur Klärung der Pathophysiologie vor der Therapieentscheidung",
+      "Kombination aus Qmax, IPSS und Restharn als vollwertiger Ersatz der Druck-Fluss-Messung",
+      "Nomogramm-basierte Risikoabschätzung als Ersatz der urodynamischen Untersuchung"
+    ],
+    "correct": 1,
+    "tip": "Nicht-invasive Testkombinationen erreichen teils hohe Sensitivität – achten Sie aber auf Spezifität und Studienqualität.",
+    "explanation": "Empfehlung 6.8 (Grad B): Die Druck-Fluss-Messung sollte durchgeführt werden, wenn nach der Basisdiagnostik therapierelevante Fragen zur Pathophysiologie offen bleiben, z. B. bei Verdacht auf neurogene Blasendysfunktion oder Detrusorunteraktivität. Testkombinationen (6.16) und Nomogramme (6.17) haben jeweils nur Empfehlungsgrad 0 und können die Druck-Fluss-Messung nicht ersetzen bzw. nur ergänzen."
   }
 ]

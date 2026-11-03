@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was fordert die Empfehlung zu Beginn des Kapitels 7.2.3 bei Patienten mit metastasiertem Peniskarzinom und/oder der Notwendigkeit multimodaler Therapie?",
+    "question": "Welche Patienten mit Peniskarzinom sollen laut Empfehlung 7.43 in einem interdisziplinären Tumorboard besprochen werden?",
     "options": [
-      "Sie sollen in einem interdisziplinären Tumorboard besprochen werden.",
-      "Sie sollen ausschließlich vom behandelnden Urologen allein therapiert werden.",
-      "Eine Tumorboard-Vorstellung ist nur bei lokal begrenzten Tumoren vorgesehen.",
-      "Eine interdisziplinäre Besprechung wird in der Leitlinie nicht gefordert."
+      "Patienten mit Fernmetastasen, und zwar vor Beginn einer Zweitlinientherapie",
+      "Patienten ab pT1b vor Durchführung des invasiven Lymphknotenstagings",
+      "Patienten mit pN3-Befund, sofern eine adjuvante Radiatio geplant ist",
+      "Patienten mit Metastasierung und/oder Notwendigkeit multimodaler Therapie"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung ist auch als Qualitätsindikator (QI 7) in der Leitlinie verankert.",
-    "explanation": "Patienten mit metastasiertem Peniskarzinom und/oder der Notwendigkeit multimodaler Therapie sollen laut Leitlinie in einem interdisziplinären Tumorboard besprochen werden."
+    "correct": 3,
+    "tip": "Die Empfehlung ist zugleich Grundlage eines Qualitätsindikators dieser Leitlinie.",
+    "explanation": "Empfehlung 7.43 (EK, Konsens 81 %) fordert die Vorstellung von Patienten mit metastasiertem Peniskarzinom und/oder Notwendigkeit multimodaler Therapie im interdisziplinären Tumorboard, da eine kurative Therapie nur multimodal erreichbar ist. Die Empfehlung ist an keine Therapielinie und kein bestimmtes pN-Stadium gebunden."
   },
   {
-    "question": "Was fordert Empfehlung 7.44 (Empfehlungsgrad A) bei Patienten mit fixierten inguinalen Lymphknoten und gutem Allgemeinzustand (ECOG < 2)?",
+    "question": "Ein 58-Jähriger (ECOG 1) hat ein exulzerierendes, fixiertes Leistenlymphknotenpaket rechts ohne Fernmetastasen. Welches Vorgehen empfiehlt die Leitlinie mit Empfehlungsgrad A?",
     "options": [
-      "Es soll eine neoadjuvante Chemotherapie erfolgen.",
-      "Es soll primär eine radikale Lymphadenektomie ohne jede Vorbehandlung erfolgen.",
-      "Es soll ausschließlich eine palliative Strahlentherapie erfolgen.",
-      "Eine Chemotherapie ist bei fixierten Lymphknoten kontraindiziert."
+      "Neoadjuvante Chemotherapie, bei Ansprechen anschließend Operation",
+      "Primäre radikale inguinale Lymphadenektomie mit plastischer Deckung",
+      "Primäre Radiochemotherapie der Leiste ohne geplante Operation",
+      "Palliative Paclitaxel-Monotherapie ohne kurativen Therapieansatz"
     ],
     "correct": 0,
-    "tip": "Bei Patienten in schlechtem Allgemeinzustand (ab ECOG 2) soll dagegen auf eine aggressive neoadjuvante Chemotherapie verzichtet werden.",
-    "explanation": "Empfehlung 7.44 fordert mit Empfehlungsgrad A bei Patienten mit fixierten inguinalen Lymphknoten und gutem Allgemeinzustand (ECOG < 2) eine neoadjuvante Chemotherapie."
+    "tip": "Entscheidend sind hier die Fixierung der Lymphknoten und der gute Allgemeinzustand des Patienten.",
+    "explanation": "Nach Empfehlung 7.44 (Grad A) soll bei fixierten inguinalen Lymphknoten und ECOG < 2 eine neoadjuvante Chemotherapie erfolgen; bei Ansprechen folgt spätestens nach 4 Zyklen die Operation (Empfehlung 7.48). Eine primäre Operation ist bei großen, fixierten Paketen laut Hintergrund oft nicht kurativ möglich."
   },
   {
-    "question": "Was wird laut Empfehlung 7.45 (Empfehlungsgrad B) auch bei primär resektablen fixierten Lymphknoten angeboten?",
+    "question": "Ab welchem Allgemeinzustand soll laut Hintergrund zu den Empfehlungen 7.43–7.45 auf eine aggressive neoadjuvante Chemotherapie verzichtet werden?",
     "options": [
-      "Eine neoadjuvante Chemotherapie zur Verkleinerung der Tumorlast mit geringerer postoperativer Morbidität.",
-      "Eine sofortige Operation ohne jede Vorbehandlung.",
-      "Eine alleinige palliative Betreuung ohne kurativen Therapieansatz.",
-      "Eine Empfehlung für diese Patientengruppe wird nicht gegeben."
+      "ab ECOG 1",
+      "ab ECOG 2",
+      "ab ECOG 3",
+      "ab ECOG 4"
     ],
-    "correct": 0,
-    "tip": "In einer prospektiven Fallserie unter Cisplatin und Interferon wurde dadurch eine Ansprechrate von 75 % erreicht, was weniger ausgedehnte Operationen ermöglichte.",
-    "explanation": "Empfehlung 7.45 sieht vor, dass auch bei primärer Resektabilität fixierter inguinaler Lymphknoten eine neoadjuvante Chemotherapie zur Verkleinerung der Tumorlast mit geringerer postoperativer Morbidität angeboten werden sollte."
+    "correct": 1,
+    "tip": "Dieselbe Grenze taucht auch bei der Kombinationschemotherapie im metastasierten Stadium auf.",
+    "explanation": "Wegen der potenziellen Nebenwirkungen soll laut Hintergrund bei schlechtem Allgemeinzustand ab ECOG 2 auf eine aggressive neoadjuvante Chemotherapie verzichtet werden; Empfehlung 7.44 (Grad A) gilt entsprechend für ECOG < 2. Dieselbe Grenze nennt Empfehlung 7.53 für die palliative Kombinationschemotherapie."
   },
   {
-    "question": "Was fordert Empfehlung 7.46 bei T4-Tumoren bezüglich chirurgischer und systemischer Therapieoptionen?",
+    "question": "Ein 63-Jähriger (ECOG 0) hat fixierte inguinale Lymphknoten, die primär resektabel erscheinen. Was empfiehlt die Leitlinie mit Empfehlungsgrad B?",
     "options": [
-      "Eine ausgedehnte operative Resektion oder lokale Strahlentherapie; eine neoadjuvante Chemotherapie oder Radio-Chemotherapie sollte erwogen werden.",
-      "Ausschließlich eine abwartende Beobachtung ohne jede Intervention.",
-      "Eine alleinige systemische Chemotherapie ohne jede lokale Maßnahme.",
-      "T4-Tumoren werden in der Leitlinie therapeutisch nicht behandelt."
+      "Primäre RIL, da bei Resektabilität die adjuvante Therapie belegt überlegen ist",
+      "Neoadjuvante Radiatio der Leiste zur Verkleinerung der Lymphknotenmetastasen",
+      "Neoadjuvante Chemotherapie anbieten, um Tumorlast und OP-Morbidität zu senken",
+      "Neoadjuvante Chemotherapie bei bilateralem Befall, bei einseitigem primäre RIL"
     ],
-    "correct": 0,
-    "tip": "Hochrisiko-Patienten (T1-3G3, T4G1-3) haben im Vergleich zu Patienten mit mittlerem Risiko geringere Überlebensraten.",
-    "explanation": "Empfehlung 7.46 fordert bei T4-Tumoren eine ausgedehnte operative Resektion oder lokale Strahlentherapie, wobei eine neoadjuvante Chemotherapie oder Radio-Chemotherapie erwogen werden sollte."
+    "correct": 2,
+    "tip": "Resektabilität allein beantwortet nicht die Frage, wie ausgedehnt und belastend der Eingriff wird.",
+    "explanation": "Empfehlung 7.45 (Grad B) sieht vor, auch bei primär resektablen fixierten Lymphknoten eine neoadjuvante Chemotherapie zur Verkleinerung der Tumorlast mit geringerer postoperativer Morbidität anzubieten. Ob bei Resektabilität neoadjuvant oder adjuvant vorzuziehen ist, ist laut Hintergrund ungeklärt; eine belegte Überlegenheit der adjuvanten Therapie gibt es nicht."
   },
   {
-    "question": "Mit welchen Polychemotherapie-Schemata soll laut Empfehlung 7.47 (Empfehlungsgrad A) eine neoadjuvante Chemotherapie des Peniskarzinoms durchgeführt werden?",
+    "question": "Wie hoch war in der retrospektiven MD-Anderson-Analyse das 5-Jahres-Überleben nach neoadjuvanter Chemotherapie mit bzw. ohne Tumoransprechen?",
     "options": [
-      "Paclitaxel, Ifosfamid und Cisplatin oder Cisplatin, Paclitaxel und 5-Fluorouracil.",
-      "Ausschließlich Bleomycin als Monotherapie.",
-      "Ausschließlich eine orale Chemotherapie mit Capecitabin.",
-      "Es wird kein konkretes Schema benannt."
+      "65 % vs. 30 %",
+      "38 % vs. 12 %",
+      "50 % vs. 8 %",
+      "75 % vs. 28 %"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung hat mit Empfehlungsgrad A den höchsten Empfehlungsgrad innerhalb dieses Therapiekapitels.",
-    "explanation": "Empfehlung 7.47 fordert mit Empfehlungsgrad A eine neoadjuvante Polychemotherapie aus Paclitaxel, Ifosfamid und Cisplatin oder alternativ aus Cisplatin, Paclitaxel und 5-Fluorouracil."
+    "correct": 2,
+    "tip": "Das Ansprechen auf die Chemotherapie erwies sich als starker prognostischer Marker.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.47 und 7.48 erreichte das 5-Jahres-Überleben bei Ansprechen 50 % gegenüber 8 % ohne Remission; die Ansprechrate von Paclitaxel/Ifosfamid/Cisplatin lag bei 65 %. 38,5 % war die Ansprechrate von Docetaxel/Cisplatin/5-FU, 28 % das krankheitsspezifische Überleben in der Studie von Djajadiningrat."
   },
   {
-    "question": "Nach spätestens wie vielen Zyklen soll laut Empfehlung 7.48 bei Ansprechen auf die neoadjuvante Chemotherapie die Operation erfolgen?",
+    "question": "Nach zwei Zyklen neoadjuvanter Chemotherapie zeigt ein fixiertes Leistenpaket deutliches Ansprechen. Wann soll laut Empfehlung 7.48 operiert werden?",
     "options": [
-      "Nach spätestens 4 Zyklen.",
-      "Nach spätestens 12 Zyklen.",
-      "Erst nach vollständigem Abschluss von mindestens 10 Zyklen.",
-      "Ein Zeitpunkt wird in der Leitlinie nicht festgelegt."
+      "Nach spätestens 4 Zyklen, da Toxizität die Operabilität zunehmend einschränkt",
+      "Nach 6 Zyklen, um vor der Operation eine komplette Remission zu erreichen",
+      "Erst bei Progress, solange die Chemotherapie weiter ein Ansprechen zeigt",
+      "Nach 4 bis 6 Zyklen, je nach Ausmaß des radiologischen Ansprechens"
     ],
     "correct": 0,
-    "tip": "Dies beruht u. a. auf dem erheblichen Nebenwirkungspotenzial mit einhergehender Einschränkung der OP-Fähigkeit bei längerer Chemotherapiedauer.",
-    "explanation": "Empfehlung 7.48 fordert, dass bei Ansprechen der neoadjuvanten Chemotherapie spätestens nach 4 Zyklen die Operation durchgeführt werden soll."
+    "tip": "Bedenken Sie, wozu die neoadjuvante Phase dient und was mit jedem weiteren Zyklus auf dem Spiel steht.",
+    "explanation": "Empfehlung 7.48 (EK) fordert bei Ansprechen die Operation nach spätestens 4 Zyklen; laut Hintergrund schränkt das erhebliche Nebenwirkungspotenzial sonst die OP-Fähigkeit ein. Ein Aufschieben bis zur kompletten Remission oder über 4 Zyklen hinaus ist nicht vorgesehen."
   },
   {
-    "question": "Wie soll laut Statement 7.49 ein regionäres Lymphknotenrezidiv nach aktiver Beobachtung behandelt werden?",
+    "question": "Welche Polychemotherapie soll laut Empfehlung 7.47 (Empfehlungsgrad A) neoadjuvant beim Peniskarzinom eingesetzt werden?",
     "options": [
-      "Nach den gleichen Prinzipien wie primäre Lymphknotenmetastasen.",
-      "Grundsätzlich palliativ, da es als inkurabel gilt.",
-      "Ausschließlich durch eine erneute Beobachtung ohne weitere Therapie.",
-      "Ausschließlich durch eine alleinige Strahlentherapie."
+      "Paclitaxel/Ifosfamid/Cisplatin oder Cisplatin/Paclitaxel/5-FU",
+      "Cisplatin/Interferon oder Methotrexat/Vincristin/Bleomycin",
+      "Docetaxel/Cisplatin/5-Fluoruracil oder Cisplatin/Irinotecan",
+      "Cisplatin/5-Fluoruracil oder Cisplatin/Gemcitabin"
     ],
     "correct": 0,
-    "tip": "Dies gilt, da das Auftreten von Lymphknotenmetastasen unter klinischer Überwachung prognostisch und therapeutisch einem primär metastasierten Peniskarzinom gleichzusetzen ist.",
-    "explanation": "Statement 7.49 besagt, dass das regionäre Lymphknotenrezidiv nach aktiver Beobachtung nach den gleichen Prinzipien behandelt wird wie primäre Lymphknotenmetastasen."
+    "tip": "Gesucht sind die Kombinationen, die in Studien gute Ansprechraten bei noch vertretbarer Toxizität zeigten.",
+    "explanation": "Empfehlung 7.47 (Grad A) nennt Paclitaxel/Ifosfamid/Cisplatin oder Cisplatin/Paclitaxel/5-Fluoruracil. Docetaxel/Cisplatin/5-FU erreichte laut Hintergrund nur 38,5 % Ansprechen bei erheblicher Toxizität; Cisplatin/Interferon stammt aus einer kleinen Fallserie mit 13 Patienten."
   },
   {
-    "question": "Wie soll laut Empfehlung 7.50 ein regionäres Lymphknotenrezidiv nach radikaler inguinaler Lymphadenektomie behandelt werden?",
+    "question": "Acht Monate nach negativer dynamischer Sentinel-Lymphknotenbiopsie tritt in der Leiste eine neue Raumforderung auf. Wie soll laut Empfehlung 7.51 vorgegangen werden?",
     "options": [
-      "Nach histologischer oder zytologischer Sicherung mit neoadjuvanter Chemotherapie und operativer Therapie.",
-      "Ausschließlich durch eine erneute radikale Lymphadenektomie ohne vorherige Sicherung.",
-      "Ausschließlich durch eine abwartende Beobachtung.",
-      "Eine Behandlung dieses speziellen Rezidivs wird in der Leitlinie nicht beschrieben."
+      "Radikale inguinale LAD ohne Sicherung, gefolgt von adjuvanter Radiatio",
+      "Neoadjuvante Chemotherapie ohne Sicherung, da das Rezidiv klinisch eindeutig ist",
+      "Palliative Radiatio, da Rezidive nach DSNB nicht mehr kurativ behandelbar sind",
+      "Sicherung, dann Operation mit neoadjuvanter oder adjuvanter Chemotherapie"
     ],
-    "correct": 0,
-    "tip": "Die Morbidität der inguinalen Lymphadenektomie ist bei dieser Salvage-Indikation höher als im Primärfall (>50 %).",
-    "explanation": "Empfehlung 7.50 fordert, dass ein regionäres Lymphknotenrezidiv nach radikaler inguinaler Lymphadenektomie nach histologischer oder zytologischer Sicherung mit neoadjuvanter Chemotherapie und operativer Therapie behandelt werden soll."
+    "correct": 3,
+    "tip": "Behandeln Sie das Rezidiv nach falsch-negativem invasivem Staging mit derselben Konsequenz wie ein potenziell heilbares Stadium.",
+    "explanation": "Nach Empfehlung 7.51 (EK) soll das Lymphknotenrezidiv nach falsch-negativer invasiver Diagnostik histologisch oder zytologisch gesichert und neoadjuvant oder adjuvant zur operativen Entfernung behandelt werden. Die Sicherung ist nötig, weil Rezidive radiologisch nicht sicher von Lymphozelen abzugrenzen sind; das gilt laut Hintergrund ausdrücklich auch nach DSNB."
   },
   {
-    "question": "Wie soll laut Empfehlung 7.51 ein regionäres Lymphknotenrezidiv nach falsch-negativer invasiv-operativer Lymphknotendiagnostik behandelt werden?",
+    "question": "Welche Zuordnung von Lymphknotenrezidiv und Vorgehen entspricht Statement 7.49 bzw. Empfehlung 7.50?",
     "options": [
-      "Histologisch oder zytologisch gesichert und neoadjuvant oder adjuvant zur operativen Entfernung therapiert.",
-      "Ausschließlich konservativ ohne jede weitere Diagnostik oder Therapie.",
-      "Ausschließlich mit einer alleinigen Strahlentherapie ohne systemische Komponente.",
-      "Eine falsch-negative Diagnostik wird in der Leitlinie nicht thematisiert."
+      "Rezidiv nach Überwachung: palliative Systemtherapie wie bei Fernmetastasen",
+      "Rezidiv nach Überwachung: Behandlung wie primäre Lymphknotenmetastasen",
+      "Rezidiv nach RIL: primäre Re-Lymphadenektomie, Chemotherapie adjuvant",
+      "Rezidiv nach RIL: Radiatio statt Operation wegen hoher Salvage-Morbidität"
     ],
-    "correct": 0,
-    "tip": "Aufgrund der nicht sicheren radiologischen Abgrenzbarkeit gegen Lymphozelen sollen Lymphknotenrezidive vor einer Therapie histologisch gesichert werden.",
-    "explanation": "Empfehlung 7.51 fordert, dass ein regionäres Lymphknotenrezidiv nach falsch-negativer invasiv-operativer Lymphknotendiagnostik histologisch oder zytologisch gesichert und neoadjuvant oder adjuvant zur operativen Entfernung therapiert werden soll."
+    "correct": 1,
+    "tip": "Unter Überwachung wurde die Leiste noch nicht operiert – nach radikaler Lymphadenektomie dagegen schon.",
+    "explanation": "Statement 7.49 (EK) stellt das Lymphknotenrezidiv nach aktiver Beobachtung primären Lymphknotenmetastasen gleich. Nach RIL soll das Rezidiv laut Empfehlung 7.50 nach Sicherung mit neoadjuvanter Chemotherapie und anschließender Operation behandelt werden, also weder primär operiert noch allein bestrahlt."
   },
   {
-    "question": "In welchem Zeitraum nach Diagnosestellung zeichnen sich laut Kapitel 7.2.4 die meisten Lymphknotenrezidive ab?",
+    "question": "Welche Angabe zu Lymphknotenrezidiven des Peniskarzinoms findet sich in Kapitel 7.2.4 der Leitlinie?",
     "options": [
-      "Innerhalb der ersten zwei Jahre.",
-      "Erst nach mehr als 10 Jahren.",
-      "Ausschließlich innerhalb der ersten 4 Wochen.",
-      "Ein typischer Zeitraum wird nicht beschrieben."
+      "Die Morbidität der Salvage-Lymphadenektomie liegt unter 20 %",
+      "Die meisten Rezidive treten erst nach dem fünften Jahr auf",
+      "Die 5-Jahres-Überlebensrate nach Rezidiv liegt bei etwa 40 %",
+      "Die Prognose ist unabhängig von Anzahl und Größe der Knoten"
     ],
-    "correct": 0,
-    "tip": "Die inguinalen Lymphknotenmetastasen weisen dabei hohe Wachstumstendenzen auf.",
-    "explanation": "Die meisten Lymphknotenrezidive zeichnen sich laut Kapitel 7.2.4 innerhalb der ersten zwei Jahre nach Diagnosestellung ab."
+    "correct": 2,
+    "tip": "Lymphknotenrezidive gelten als negativer Prognosefaktor, sind mit konsequenter multimodaler Therapie aber teils noch heilbar.",
+    "explanation": "Laut Kapitel 7.2.4 sind Lymphknotenrezidive ein negativer Prognosefaktor mit einer 5-Jahres-Überlebensrate von 40 %; die meisten zeigen sich in den ersten zwei Jahren, und die Prognose hängt von Anzahl, Größe und Bilateralität ab. Die Morbidität der Salvage-Lymphadenektomie liegt mit > 50 % höher als im Primärfall."
   }
 ]

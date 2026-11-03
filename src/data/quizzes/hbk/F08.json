@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie ist das empfohlene BCG-Standardschema laut Empfehlung 6.26 (Kapitel 6.6, Empfehlungsgrad B) aufgebaut?",
+    "question": "Nach einer BCG-Induktion mit 6 wöchentlichen Instillationen steht die Erhaltungstherapie an. Welches Erhaltungsschema empfiehlt die Leitlinie?",
     "options": [
-      "Induktion mit 6 wöchentlichen Instillationen, danach Erhaltung mit je 3 wöchentlichen Instillationen nach 3, 6 und 12 Monaten.",
-      "Eine einmalige Instillation ohne jede Erhaltungstherapie.",
-      "12 tägliche Instillationen ohne Erhaltungsphase.",
-      "Eine monatliche Instillation über insgesamt 10 Jahre."
+      "Je 1 Instillation alle 3 Monate über insgesamt 3 Jahre",
+      "Je 1 Instillation monatlich über insgesamt 12 Monate",
+      "Je 3 wöchentliche Instillationen nach 3, 6 und 12 Monaten",
+      "Je 6 wöchentliche Instillationen alle 6 Monate über 2 Jahre"
     ],
-    "correct": 0,
-    "tip": "Bei High-risk-Tumoren kann dieses Schema nach Nutzen-Risiko-Abwägung um weitere Zyklen bis 36 Monate verlängert werden.",
-    "explanation": "Empfehlung 6.26 sieht einen Induktionszyklus mit 6 wöchentlichen BCG-Instillationen vor, gefolgt von einer Erhaltungstherapie mit je 3 wöchentlichen Instillationen nach 3, 6 und 12 Monaten; bei High-risk-Tumoren können weitere Zyklen bis 36 Monate ergänzt werden."
+    "correct": 2,
+    "tip": "Das empfohlene Schema stammt aus der SWOG-Studie, in der die Erhaltung das rezidivfreie Überleben nach 5 Jahren absolut um 19 % verbesserte.",
+    "explanation": "Empfehlung 6.26 (Empfehlungsgrad B): Induktion mit 6 wöchentlichen Instillationen, Erhaltung mit je 3 wöchentlichen Instillationen 3, 6 und 12 Monate nach Beginn der Induktion; bei high-risk Tumoren nach Nutzen-Risiko-Abwägung weiter nach 18, 24, 30 und 36 Monaten. Eine Einzelinstillation alle 3 Monate über 3 Jahre erwies sich in der CUETO-Studie als unzureichend."
   },
   {
-    "question": "Was fordert Empfehlung 6.27 (Empfehlungsgrad A) für High-risk-Tumoren bezüglich der Wahl zwischen BCG- und Chemotherapie-Instillation?",
+    "question": "Ein 67-jähriger Patient mit high-risk NMIBC ohne Indikation zur Frühzystektomie ist nach der BCG-Induktion in kompletter Remission. Wie lange soll die Erhaltungstherapie laut Leitlinie dauern?",
     "options": [
-      "Die BCG-Therapie soll der Chemotherapieinstillation vorgezogen werden.",
-      "Die Chemotherapie soll der BCG-Therapie vorgezogen werden.",
-      "Beide Optionen sind bei High-risk-Tumoren gleichrangig ohne Präferenz.",
-      "Weder BCG noch Chemotherapie sind bei High-risk-Tumoren indiziert."
+      "Mindestens 6 Monate bis höchstens 1 Jahr",
+      "Mindestens 6 Monate bis höchstens 2 Jahre",
+      "Mindestens 2 Jahre bis höchstens 5 Jahre",
+      "Mindestens 1 Jahr bis höchstens 3 Jahre"
     ],
-    "correct": 0,
-    "tip": "Für Intermediate-risk-Tumoren ist die analoge Empfehlung (6.28) dagegen nur offen (Empfehlungsgrad 0).",
-    "explanation": "Empfehlung 6.27 fordert mit Empfehlungsgrad A, dass bei High-risk-Tumoren die BCG-Therapie der Chemotherapieinstillation vorgezogen werden soll."
+    "correct": 3,
+    "tip": "Bedenken Sie zweierlei: ab wann BCG Mitomycin C überlegen ist und wie viele Patienten eine sehr lange Erhaltung durchhalten.",
+    "explanation": "Empfehlung 6.23 (Empfehlungsgrad A): Ohne Indikation zur Frühzystektomie soll bei high risk BCG gegeben und bei kompletter Remission nach der Induktion eine Erhaltung über mindestens 1 bis höchstens 3 Jahre angeschlossen werden. Erst ab einem Jahr Erhaltung ist BCG Mitomycin C überlegen; über 36 Monate hielten in der SWOG-Studie nur 16 % der Patienten durch."
   },
   {
-    "question": "Welche absolute Verbesserung des rezidivfreien Überlebens nach 5 Jahren zeigte die Studie von Lamm (Kapitel 6.6) durch eine Erhaltungstherapie im Vergleich zur alleinigen Induktionstherapie?",
+    "question": "Wie stuft die Leitlinie die Empfehlung, BCG der Chemotherapie-Instillation vorzuziehen, bei high-risk und intermediate-risk Tumoren ein?",
     "options": [
-      "Absolute Verbesserung um 19 Prozentpunkte (41% vs. 60%).",
-      "Keine Verbesserung, beide Gruppen hatten identische Ergebnisse.",
-      "Eine Verschlechterung um 19 Prozentpunkte durch die Erhaltungstherapie.",
-      "Eine Verbesserung um nur 1 Prozentpunkt."
+      "High risk: soll (A); intermediate risk: kann (0)",
+      "High risk: soll (A); intermediate risk: sollte (B)",
+      "High risk: sollte (B); intermediate risk: kann (0)",
+      "High risk: sollte (B); intermediate risk: sollte (B)"
     ],
     "correct": 0,
-    "tip": "Diese Studie lieferte eine wichtige Grundlage für das in Empfehlung 6.26 festgelegte Erhaltungsschema.",
-    "explanation": "Die Studie von Lamm zeigte laut Kapitel 6.6 eine signifikante absolute Verbesserung des rezidivfreien Überlebens nach 5 Jahren um 19 Prozentpunkte (41% vs. 60%) durch eine Erhaltungstherapie nach der Induktion."
+    "tip": "Die Empfehlung für intermediate risk ist 2026 neu hinzugekommen und steht neben der gleichwertigen Wahl zwischen Chemotherapie und BCG.",
+    "explanation": "Empfehlung 6.27 (Empfehlungsgrad A): Bei high-risk Tumoren soll BCG der Chemotherapie-Instillation vorgezogen werden; Empfehlung 6.28 (neu 2026, Empfehlungsgrad 0): Bei intermediate-risk Tumoren kann BCG vorgezogen werden. Die sollte-Empfehlung (B) bei intermediate risk betrifft die Wahl zwischen Chemotherapie- und BCG-Instillation nach ausführlicher Beratung (6.17)."
   },
   {
-    "question": "Zu welchem Schluss kam die CUETO-Studie (Kapitel 6.6) bezüglich einer Erhaltungstherapie mit nur 1 BCG-Instillation alle 3 Monate über 3 Jahre?",
+    "question": "Eine 61-jährige Patientin hat ein histologisch gesichertes, alleiniges Carcinoma in situ der Harnblase und keine Kontraindikation gegen BCG. Welche Therapie soll laut Leitlinie erfolgen?",
     "options": [
-      "Dieses Schema war unzureichend und zeigte keinen signifikanten Vorteil gegenüber alleiniger BCG-Induktion.",
-      "Dieses minimale Schema war dem Standardschema signifikant überlegen.",
-      "Dieses Schema zeigte identische Ergebnisse wie das Standard-Erhaltungsschema.",
-      "Die Studie konnte aufgrund methodischer Probleme keine Aussage treffen."
+      "Nachresektion nach 6 Wochen, danach Kontrollzystoskopie",
+      "BCG-Instillation nach dem Induktions- und Erhaltungsschema",
+      "Mitomycin-C-Induktion mit anschließender Erhaltungstherapie",
+      "Primäre radikale Zystektomie als Therapie der ersten Wahl"
     ],
-    "correct": 0,
-    "tip": "Die beobachtete relative Risikoreduktion von 17% rechtfertigte dieses reduzierte Schema nicht.",
-    "explanation": "Die CUETO-Studie kam laut Kapitel 6.6 zu dem Schluss, dass eine Erhaltungstherapie mit nur 1 BCG-Instillation alle 3 Monate über 3 Jahre unzureichend ist, da kein signifikanter Vorteil gegenüber alleiniger BCG-Induktionstherapie gefunden wurde."
+    "correct": 1,
+    "tip": "Das alleinige CIS wird therapeutisch analog zur high-risk Konstellation behandelt.",
+    "explanation": "Empfehlung 6.34 (Empfehlungsgrad A): Beim alleinigen CIS soll eine BCG-Therapie nach Induktions- und Erhaltungsschema erfolgen; die Ansprechraten nach Induktion liegen bei >60 %. Eine radikale Zystektomie kann erwogen werden und ist v. a. bei Kontraindikation oder Ablehnung von BCG indiziert; intravesikale Chemotherapie ist BCG unterlegen und nur bei BCG-Kontraindikation zu erwägen."
   },
   {
-    "question": "Welche Kernaussage traf die EORTC 30962-Studie (Kapitel 6.7) zur Dosisreduktion von BCG bei Hochrisiko-NMIBC?",
+    "question": "Bei einem Patienten ist die Harnzytologie wiederholt positiv, in der Blase lässt sich kein Carcinoma in situ nachweisen. Was empfiehlt die Leitlinie?",
     "options": [
-      "Bei Hochrisiko-NMIBC wird das Rezidivrisiko durch 3 Jahre Erhaltungstherapie nur reduziert, wenn die volle BCG-Dosis gegeben wird, nicht bei Dritteldosis.",
-      "Eine Dritteldosis BCG über 1 Jahr war in jeder Risikogruppe der vollen Dosis überlegen.",
-      "Die Toxizität war unter Dritteldosis deutlich höher als unter voller Dosis.",
-      "Eine Dosisreduktion zeigte in allen Risikogruppen identische Wirksamkeit bei geringerer Toxizität."
+      "Unselektive Mapping-Biopsien unter Weißlicht, danach Verlaufskontrolle",
+      "Abklärung des oberen Harntrakts, ergänzend PDD in TUR-Bereitschaft",
+      "Empirische BCG-Induktion ohne histologische Sicherung eines CIS",
+      "Zytologiekontrolle aus Morgenurin nach 3 Monaten vor weiterer Diagnostik"
     ],
-    "correct": 0,
-    "tip": "Entgegen den Erwartungen war die beobachtete Toxizität in allen Dosisgruppen vergleichbar.",
-    "explanation": "Die EORTC 30962-Studie zeigte laut Kapitel 6.7, dass bei Hochrisiko-NMIBC das Rezidivrisiko durch 3 Jahre Erhaltungstherapie nur bei voller BCG-Dosis reduziert wird, nicht jedoch bei Dritteldosis; eine Dosisreduktion wird daher nicht empfohlen."
+    "correct": 1,
+    "tip": "Die Zytologie zeigt Tumorzellen an, verrät aber nicht, aus welchem Abschnitt der ableitenden Harnwege sie stammen.",
+    "explanation": "Empfehlung 6.32 (Expertenkonsens, sollte): Bei positiver Harnzytologie ohne Nachweis eines CIS der Harnblase sollte der obere Harntrakt abgeklärt werden; nach 6.33 (Expertenkonsens, kann) kann zusätzlich zur Weißlicht-Diagnostik eine photodynamische Diagnostik in TUR-Bereitschaft erfolgen. Für die Zytologie sollte wegen zytolytischer Effekte kein Morgenurin verwendet werden."
   },
   {
-    "question": "Was fordert Empfehlung 6.30 (Empfehlungsgrad A) zur Verabreichung der BCG-Therapie bezüglich Dosis und begleitender Antibiotikagabe?",
+    "question": "Was empfiehlt die Leitlinie zu Dosis und begleitender Antibiotikaprophylaxe bei der intravesikalen BCG-Therapie?",
     "options": [
-      "BCG soll in voller Dosis und ohne begleitende prophylaktische Antibiotikagabe erfolgen.",
-      "BCG soll grundsätzlich nur in reduzierter Dosis verabreicht werden.",
-      "Eine prophylaktische Antibiotikagabe soll routinemäßig jeder BCG-Instillation vorausgehen.",
-      "Die Dosis soll individuell nach Körpergewicht des Patienten berechnet werden."
+      "Volle Dosis, keine begleitende prophylaktische Antibiotikagabe (soll)",
+      "Drittel-Dosis, begleitende Prophylaxe mit Ofloxacin nach Instillation (sollte)",
+      "Volle Dosis, begleitende Prophylaxe mit Isoniazid um die Instillation (sollte)",
+      "Drittel-Dosis ab der Erhaltung, keine Antibiotikaprophylaxe (kann)"
     ],
     "correct": 0,
-    "tip": "Sowohl eine Dosisreduktion als auch eine prophylaktische Antibiotikagabe (z. B. Ofloxacin, Isoniazid) konnten die Wirksamkeit nicht verbessern oder die Nebenwirkungen entscheidend senken.",
-    "explanation": "Empfehlung 6.30 legt fest, dass die BCG-Therapie in voller Dosis und ohne begleitende prophylaktische Antibiotikagabe erfolgen soll."
+    "tip": "Erinnern Sie sich an das Ergebnis der Dritteldosis in EORTC 30962 und an den Effekt der Isoniazid-Prophylaxe in EORTC 30911.",
+    "explanation": "Empfehlung 6.30 (Empfehlungsgrad A): BCG soll in voller Dosis und ohne begleitende prophylaktische Antibiotikagabe erfolgen. Eine Dritteldosis über ein Jahr war unzureichend, Isoniazid reduzierte die Nebenwirkungen nicht, und der Einfluss solcher Maßnahmen auf Rezidiv und Progression ist laut Statement 6.29 unzureichend untersucht."
   },
   {
-    "question": "Was besagt Statement 6.31 zu den Unterschieden zwischen den verfügbaren BCG-Stämmen (z. B. Connaught, TICE, RIVM) bezüglich Wirksamkeit und Nebenwirkungsrate?",
+    "question": "Welche Schlussfolgerung zieht die Leitlinie aus der EORTC-30962-Studie (Dritteldosis vs. volle Dosis, 1 vs. 3 Jahre Erhaltung)?",
     "options": [
-      "Ein Unterschied zwischen den verfügbaren BCG-Stämmen ist nicht belegt.",
-      "BCG Connaught ist allen anderen Stämmen eindeutig und belegbar überlegen.",
-      "BCG TICE zeigt eine deutlich geringere Wirksamkeit als alle anderen Stämme.",
-      "RIVM ist der einzige in Europa zugelassene BCG-Stamm."
+      "High risk profitiert von 3 Jahren Erhaltung, aber nur bei voller Dosis",
+      "Intermediate risk profitiert von 3 Jahren Erhaltung in voller Dosis",
+      "Die Dritteldosis über ein Jahr ist der vollen Dosis nicht unterlegen",
+      "Die 3-jährige Erhaltung war deutlich toxischer als die 1-jährige"
     ],
     "correct": 0,
-    "tip": "Eine ältere Studie, die eine Überlegenheit von Connaught gegenüber TICE nahelegte, weist erhebliche methodische Schwächen auf.",
-    "explanation": "Statement 6.31 stellt fest, dass ein Unterschied zwischen den verfügbaren BCG-Stämmen in Bezug auf Wirksamkeit und Nebenwirkungsrate nicht belegt ist."
+    "tip": "Die Ergebnisse unterscheiden sich nach Risikogruppe – und die Dosis entscheidet mit darüber, ob eine lange Erhaltung etwas bringt.",
+    "explanation": "Laut Hintergrund in Kapitel 6.7 ist eine Dritteldosis über ein Jahr unzureichend; bei intermediärem Risiko sind 3 Jahre Erhaltung in voller Dosis nicht effektiver als 1 Jahr, bei high risk senken 3 Jahre das Rezidivrisiko nur mit voller Dosis. Die Toxizität war in allen Gruppen vergleichbar, abgeschlossen wurde die Therapie aber nur von 61,8 % (1 Jahr) bzw. 36,4 % (3 Jahre)."
   },
   {
-    "question": "Was zeigte die NIMBUS-Studie (Kapitel 6.7) zur Reduktion der Zyklenanzahl in Induktions- und Erhaltungsphase der BCG-Therapie?",
+    "question": "Was gilt laut Leitlinie für die in Europa zugelassenen BCG-Stämme (RIVM, TICE, Connaught)?",
     "options": [
-      "Das reduzierte Schema war dem Standardschema hinsichtlich der Zeit bis zum ersten Rezidiv unterlegen.",
-      "Das reduzierte Schema zeigte eine signifikante Überlegenheit gegenüber dem Standardschema.",
-      "Beide Schemata zeigten exakt identische Ergebnisse ohne jeden Unterschied.",
-      "Die Studie wurde wegen Sicherheitsbedenken vorzeitig ohne Ergebnis abgebrochen."
+      "Connaught ist TICE bezüglich des rezidivfreien Intervalls überlegen",
+      "RIVM ist bei geringerer Toxizität gleich wirksam wie der Stamm TICE",
+      "TICE ist aufgrund der Daten aus EORTC 30962 bevorzugt einzusetzen",
+      "Ein Unterschied in Wirksamkeit und Nebenwirkungsrate ist nicht belegt"
     ],
-    "correct": 0,
-    "tip": "Die Reduktion erfolgte von 6 auf 3 Induktionszyklen und von 9 auf 6 Erhaltungszyklen.",
-    "explanation": "Die NIMBUS-Studie zeigte laut Kapitel 6.7, dass das reduzierte BCG-Schema (Induktion von 6 auf 3, Erhaltung von 9 auf 6 Zyklen) dem Standardschema hinsichtlich der Zeit bis zum ersten Rezidiv unterlegen war."
+    "correct": 3,
+    "tip": "Eine kleine randomisierte Studie mit hohem Verzerrungsrisiko und ohne Erhaltungstherapie trägt keine weitreichende Schlussfolgerung.",
+    "explanation": "Statement 6.31 (Expertenkonsens): Ein Unterschied zwischen den verfügbaren BCG-Stämmen in Wirksamkeit und Nebenwirkungsrate ist nicht belegt. Die Studie mit längerem rezidivfreiem Intervall unter Connaught gegenüber TICE weist ein hohes Verzerrungsrisiko auf (u. a. 142 statt 300 geplanter Patienten, keine ITT-Analyse, keine Erhaltung)."
   },
   {
-    "question": "Welchen Effekt zeigte laut Kapitel 6.7 die Kombination von BCG und Epirubicin gegenüber BCG allein in der zitierten Metaanalyse?",
+    "question": "Welche Position bezieht die Leitlinie zur Very-high-risk-Gruppe des EAU-2021-Kalkulators beim NMIBC?",
     "options": [
-      "Einen signifikanten Vorteil bei der rezidivfreien Überlebenszeit, aber nicht bei der progressionsfreien Überlebenszeit, bei insgesamt schwacher Datenlage.",
-      "Einen signifikanten Vorteil bei beiden Endpunkten mit starker Evidenz.",
-      "Keinerlei Effekt in irgendeinem untersuchten Endpunkt.",
-      "Eine signifikante Verschlechterung beider Endpunkte."
+      "Very-high-risk-Patienten soll primär eine Frühzystektomie angeboten werden",
+      "Valide Daten für eine darauf gestützte Frühzystektomie-Empfehlung fehlen",
+      "Die Einteilung ersetzt die EORTC-Tabellen bei der Indikation zur BCG-Therapie",
+      "Eine schwedische Validierung belegte ein deutlich höheres Progressionsrisiko"
     ],
-    "correct": 0,
-    "tip": "Aufgrund der insgesamt schwachen Datenlage (nur 202 Patienten in den berücksichtigten Studien) kann diese Kombination nicht empfohlen werden.",
-    "explanation": "Kapitel 6.7 beschreibt, dass die Kombination von BCG und Epirubicin gegenüber BCG allein einen signifikanten Vorteil bei der rezidivfreien, aber nicht bei der progressionsfreien Überlebenszeit zeigte, wobei die Datenlage insgesamt schwach ist und eine Empfehlung dafür nicht ausgesprochen werden kann."
+    "correct": 1,
+    "tip": "Fragen Sie, wie gut das Modell in einem großen nationalen Kollektiv high-risk und very-high-risk tatsächlich voneinander trennte.",
+    "explanation": "Laut Hintergrund zu 6.22–6.25 legt die Very-high-risk-Kategorie zwar eine Beratung zur Frühzystektomie nahe, ausreichend valide Daten fehlen jedoch, sodass keine entsprechende Empfehlung gegeben wird. In der schwedischen Validierung (3392 Patienten) lag die Übereinstimmung bei 72 %, und die Progressionswahrscheinlichkeiten von high- und very-high-risk unterschieden sich nicht wesentlich."
   },
   {
-    "question": "Wie häufig traten lokale bzw. systemische Nebenwirkungen in der EORTC 30962-Studie (Kapitel 6.7) unter BCG-Therapie insgesamt auf, und welche Form der Nebenwirkung war dabei am häufigsten?",
+    "question": "Wie sollte das Ansprechen einer BCG-Induktions- und Erhaltungstherapie bei high-risk Urothelkarzinom der Harnblase laut Leitlinie kontrolliert werden?",
     "options": [
-      "Lokale Nebenwirkungen bei ca. 63%, systemische bei ca. 70%; am häufigsten bakterielle/chemische Zystitis bzw. allgemeines Unwohlsein und Fieber.",
-      "Nebenwirkungen traten bei unter 1% der Patienten auf.",
-      "Nebenwirkungen traten bei 100% der Patienten in schwerer Form auf.",
-      "Es wurden in dieser Studie keine Nebenwirkungen dokumentiert."
+      "Durch Zystoskopie und Sonographie ohne Gewebeentnahme",
+      "Durch CT-Urographie und Urinzytologie im Abstand von 3 Monaten",
+      "Durch histologische Sicherung mittels TUR und Urinzytologie",
+      "Durch FISH-Urinzytologie als Ersatz für eine Gewebeentnahme"
     ],
-    "correct": 0,
-    "tip": "Schwere Komplikationen wie pulmonale Infektion oder Sepsis waren dagegen mit unter 0,5% sehr selten.",
-    "explanation": "Kapitel 6.7 berichtet für die EORTC 30962-Studie lokale Nebenwirkungen bei ca. 62,8% (am häufigsten bakterielle/chemische Zystitis, Pollakisurie, Makrohämaturie) und systemische Nebenwirkungen bei ca. 69,5% der Patienten (am häufigsten allgemeines Unwohlsein und Fieber)."
+    "correct": 2,
+    "tip": "Fragen Sie sich, welcher Befund eine komplette Remission tatsächlich beweisen kann.",
+    "explanation": "Empfehlung 6.24 (Expertenkonsens, sollte): Das Ansprechen auf BCG bei high-risk Urothelkarzinom sollte über eine histologische Sicherung mittels TUR und Urinzytologie kontrolliert werden. Eine FISH kann bei unklarer Zytologie, etwa nach BCG, lediglich ergänzende Aussagen liefern."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was empfiehlt Empfehlung 6.1 (Kapitel 6.1, Empfehlungsgrad B) zur Resektion kleiner Blasentumoren, wenn dies technisch möglich ist?",
+    "question": "Nach kompletter Erst-TUR ist keine Zystektomie geplant. Bei welchem histologischen Befund soll laut Leitlinie eine Nachresektion erfolgen?",
     "options": [
-      "Eine Resektion in toto.",
-      "Eine Resektion ausschließlich in mindestens vier Einzelfragmenten.",
-      "Der Verzicht auf jede Resektion bei Tumoren unter 1 cm.",
-      "Eine primäre Laserablation ohne histologische Sicherung."
+      "pTa Low Grade, komplett reseziert, kein Detrusor im Präparat",
+      "Primäres isoliertes Carcinoma in situ (pTis) ohne papillären Anteil",
+      "pTa High Grade, komplett reseziert, Detrusor im Präparat vorhanden",
+      "pTa Low Grade, multifokal, komplett reseziert, Detrusor vorhanden"
     ],
-    "correct": 0,
-    "tip": "Dies steht im Gegensatz zur fraktionierten Resektion größerer Tumoren.",
-    "explanation": "Empfehlung 6.1 sieht vor, dass kleine Blasentumoren, wenn technisch möglich, in toto reseziert werden sollten."
+    "correct": 2,
+    "tip": "Die Indikationsliste enthält zwei ausdrückliche Ausnahmen – prüfen Sie jede Option gegen beide.",
+    "explanation": "Empfehlung 6.11 (Empfehlungsgrad A): Nachresektion bei inkompletter TUR, fehlendem Muskel (außer pTa Low Grade), pT1 und allen High-Grade-Tumoren mit Ausnahme des primären CIS. Ein pTa High Grade erfüllt die Indikation daher auch bei kompletter Resektion mit Detrusor; fehlender Muskel bei pTa Low Grade und das primäre pTis sind ausdrücklich ausgenommen."
   },
   {
-    "question": "Was soll laut Empfehlung 6.2 (Empfehlungsgrad B) bei einer fraktionierten Resektion von Blasentumoren eingeschlossen werden?",
+    "question": "Warum wird beim isolierten Carcinoma in situ der Harnblase laut Leitlinie keine Nachresektion empfohlen?",
     "options": [
-      "Detrusormuskulatur.",
-      "Ausschließlich oberflächliches Urothel ohne tiefere Schichten.",
-      "Perivesikales Fettgewebe.",
-      "Ausschließlich das Tumorzentrum, keine Randbereiche."
+      "Weil das CIS nach kompletter Erst-TUR selten rezidiviert und eine Kontrollzystoskopie genügt",
+      "Weil eine Nachresektion beim flächigen CIS das Perforationsrisiko unvertretbar erhöht",
+      "Weil die PDD-gestützte Erst-TUR beim CIS bereits eine vollständige Tumorentfernung sichert",
+      "Weil ein CIS durch TUR nicht heilbar ist und eine BCG-Therapie oder Zystektomie erfordert"
     ],
-    "correct": 0,
-    "tip": "Der Nachweis dieser Gewebeschicht im Resektat war in mehreren Studien mit einem geringeren Rezidivrisiko assoziiert.",
-    "explanation": "Empfehlung 6.2 fordert, dass eine fraktionierte Resektion von Blasentumoren die Detrusormuskulatur einschließen sollte."
+    "correct": 3,
+    "tip": "Fragen Sie sich, ob das Ergebnis einer Nachresektion beim CIS die weitere Therapieentscheidung überhaupt noch ändern würde.",
+    "explanation": "Laut Hintergrund zu Empfehlung 6.11 gilt als erwiesen, dass ein Carcinoma in situ nicht durch TUR allein geheilt werden kann, sondern eine konsequente BCG-Instillation oder Zystektomie benötigt; die Nachresektion beim isolierten CIS gilt daher als obsolet. Das Perforationsrisiko ist dagegen ein Argument gegen eine zu frühe Nachresektion."
   },
   {
-    "question": "Was empfiehlt Empfehlung 6.6 (Empfehlungsgrad B) bezüglich unselektiver Resektionsbiopsien aus zystoskopisch unauffällig erscheinender Blasenmukosa ('Blasenmapping') bei der TUR unter Weißlichtbedingungen?",
+    "question": "Ein 59-jähriger Patient hat nach Erst-TUR einen pT1 High-Grade-Tumor, eine Zystektomie ist nicht geplant. Wie soll die Nachresektion laut Leitlinie erfolgen?",
     "options": [
-      "Diese sollten nicht vorgenommen werden.",
-      "Sie sollen bei jedem Patienten routinemäßig erfolgen.",
-      "Sie ersetzen die Resektion des Primärtumors vollständig.",
-      "Sie sind nur bei Männern, nicht bei Frauen indiziert."
+      "Innerhalb von 6 Wochen; Resektionsareal plus unselektive Biopsien aus unauffälliger Mukosa",
+      "Nach 3 Monaten zusammen mit der Kontrollzystoskopie; Resektionsareal plus suspekte Areale",
+      "Innerhalb von 6 Wochen; Resektionsareal plus alle makroskopisch suspekten Areale",
+      "Nach 8 bis 10 Wochen; Resektionsareal plus alle makroskopisch suspekten Areale"
     ],
-    "correct": 0,
-    "tip": "In den zugrunde liegenden Studien führte der zusätzliche Nachweis von Malignität in unauffälliger Mukosa nicht zu einem Upstaging oder einer Therapieänderung.",
-    "explanation": "Empfehlung 6.6 sieht vor, dass unselektive Resektionsbiopsien aus zystoskopisch unauffällig erscheinender Blasenmukosa bei der TUR unter Weißlichtbedingungen nicht vorgenommen werden sollten."
+    "correct": 2,
+    "tip": "Zu früh drohen Perforation und Fehldeutung von Narbengewebe, zu spät leidet die Aussagekraft der 3-Monats-Zystoskopie.",
+    "explanation": "Empfehlung 6.12 (Expertenkonsens, sollte): Nachresektion innerhalb von 6 Wochen; Empfehlung 6.13 (Expertenkonsens, soll): Sie umfasst das Areal der Erstresektion und alle makroskopisch suspekten Areale. Residualtumor liegt meist (70–80 %) in der alten Resektionsnarbe, teils aber auch außerhalb; unselektive Biopsien aus unauffälliger Mukosa werden nach Empfehlung 6.6 nicht empfohlen."
   },
   {
-    "question": "Um wie viel höher war laut Statement 6.7 (Kapitel 6.2) die Detektionsrate der fluoreszenzassistierten TUR-B mit Hexylaminolaevulinat (HAL) für Tumoren und für Carcinoma in situ im Vergleich zur konventionellen Weißlicht-TUR-B?",
+    "question": "Welche Aussage zur Technik der transurethralen Blasentumorresektion gibt Wortlaut und Empfehlungsgrad der Leitlinie korrekt wieder?",
     "options": [
-      "20 von 100 höher für Tumoren, 40 von 100 höher für Carcinoma in situ.",
-      "Keine Verbesserung der Detektionsrate in beiden Kategorien.",
-      "1 von 100 höher für Tumoren, 1 von 100 höher für CIS.",
-      "Die HAL-TUR-B zeigte eine niedrigere Detektionsrate als die Weißlicht-TUR-B."
+      "Kleine Tumoren sollen, wenn technisch möglich, in toto reseziert werden (A)",
+      "Rand und Grund können im Rahmen der TUR separat asserviert werden (0)",
+      "Die bipolare Schlinge sollte der monopolaren vorgezogen werden (B)",
+      "Eine fraktionierte Resektion soll Detrusormuskulatur einschließen (A)"
     ],
-    "correct": 0,
-    "tip": "Besonders deutlich war der Vorteil bei der Detektion des schwerer zu erkennenden Carcinoma in situ.",
-    "explanation": "Statement 6.7 beschreibt für die fluoreszenzassistierte TUR-B mit HAL eine höhere Detektionsrate von 20/100 für Tumoren und 40/100 für Carcinoma in situ im Vergleich zur konventionellen Weißlicht-TUR-B."
+    "correct": 1,
+    "tip": "Achten Sie auf das Verb: Retrospektive Serien und eine heterogene Geräteausstattung tragen selten eine starke Empfehlung.",
+    "explanation": "Empfehlung 6.3 (Empfehlungsgrad 0): Resektionsrand und Resektionsgrund (Detrusor) können separat asserviert werden. In-toto-Resektion kleiner Tumoren (6.1) und Detrusoreinschluss bei fraktionierter Resektion (6.2) sind sollte-Empfehlungen (B); monopolare und bipolare Schlinge sind laut 6.4 gleichberechtigt (kann, 0)."
   },
   {
-    "question": "Wie bewertet Statement 6.9 die Datenlage zum Narrow-Band Imaging (NBI) bezüglich des rezidiv- und progressionsfreien Überlebens beim NMIBC?",
+    "question": "Nach ihrer TUR-B füllt eine Assistenzärztin den Pathologie-Begleitschein aus. Welche intraoperative Angabe soll laut Leitlinie dokumentiert werden?",
     "options": [
-      "Die Datenlage ist nicht gesichert.",
-      "NBI zeigt eine klar belegte Überlegenheit gegenüber der Weißlichtzystoskopie.",
-      "NBI ist der fluoreszenzassistierten TUR-B eindeutig überlegen.",
-      "NBI wurde nie in klinischen Studien untersucht."
+      "Erscheinungsbild des Tumors mit Tumorbasis und Nekrosen",
+      "Eingestellte Schneide- und Koagulationsleistung in Watt",
+      "Art und Dauer der postoperativen Blasendauerspülung",
+      "Auftreten und Zeitpunkt eines Obturatorreflexes"
     ],
     "correct": 0,
-    "tip": "Im Gegensatz dazu ist die Evidenzlage für die fluoreszenzassistierte (HAL-/5-ALA-)TUR-B deutlich umfangreicher.",
-    "explanation": "Statement 6.9 stellt fest, dass die Datenlage bezüglich eines prognostisch günstigen Einflusses der TUR-B mittels Narrow-Band Imaging auf das rezidiv- und progressionsfreie Überleben eines NMIBC nicht gesichert ist."
+    "tip": "Gefragt ist, was dem Pathologen hilft, Rezidiv- und Progressionsrisiko nach EORTC möglichst akkurat einzuordnen.",
+    "explanation": "Empfehlung 6.5 (Expertenkonsens, soll): Neben Vortherapien sind geschätzte Tumorgröße in cm, Lokalisation und Anzahl, Erscheinungsbild (Architektur, Tumorbasis, Nekrosen) und sonstige Schleimhautauffälligkeiten, v. a. ein begleitendes CIS, zu dokumentieren. Generatorleistung und Obturatorreflex werden im Hintergrund zur bipolaren Resektion diskutiert, gehören aber nicht zu dieser Dokumentationsliste."
   },
   {
-    "question": "Für welche Patientengruppe sollte laut Empfehlung 6.10 die fluoreszenzassistierte TUR-B mit Hexylaminolaevulinat ergänzend durchgeführt werden?",
+    "question": "Um welchen Betrag erhöht die fluoreszenzassistierte TUR-B mit Hexylaminolävulinat laut Statement 6.7 die Detektionsrate im Vergleich zur Weißlicht-TUR-B?",
     "options": [
-      "Bei Patienten mit Verdacht auf intermediäres oder hohes Risiko nach EORTC.",
-      "Ausschließlich bei Patienten mit bereits gesicherter Fernmetastasierung.",
-      "Bei allen Patienten unabhängig vom Risikoprofil, auch bei Low-Risk-Tumoren.",
-      "Nur bei Patienten, die eine Zystektomie ablehnen."
+      "Tumoren um 40/100, Carcinomata in situ um 20/100",
+      "Tumoren um 10/100, Carcinomata in situ um 20/100",
+      "Tumoren um 20/100, Carcinomata in situ um 20/100",
+      "Tumoren um 20/100, Carcinomata in situ um 40/100"
     ],
-    "correct": 0,
-    "tip": "Bei dieser Risikogruppe ist der prognostische Vorteil für das rezidiv- und progressionsfreie Überleben am deutlichsten.",
-    "explanation": "Empfehlung 6.10 sieht vor, dass die fluoreszenzassistierte TUR-B mit HAL bei Patienten mit Verdacht auf intermediäres oder hohes Risiko nach EORTC ergänzend durchgeführt werden sollte."
+    "correct": 3,
+    "tip": "Der Zugewinn ist dort am größten, wo flache Läsionen unter Weißlicht am leichtesten übersehen werden.",
+    "explanation": "Statement 6.7 (LoE 2++): Die HAL-gestützte TUR-B hat gegenüber der Weißlicht-TUR-B eine um 20/100 höhere Detektionsrate für Tumoren und eine um 40/100 höhere für Carcinomata in situ. Flache Läsionen wie das CIS und kleine papilläre Tumoren sind unter Weißlicht besonders schwer erkennbar."
   },
   {
-    "question": "Bei welchen Konstellationen soll laut Empfehlung 6.11 (Empfehlungsgrad A) eine Nachresektion durchgeführt werden, wenn keine Zystektomie geplant ist?",
+    "question": "Bei welchen Patienten sollte laut Leitlinie ergänzend eine fluoreszenzassistierte TUR-B mit Hexylaminolävulinat durchgeführt werden?",
     "options": [
-      "Bei inkompletter Primär-TUR, fehlendem Muskelnachweis (außer pTa Low Grade), bei pT1-Tumoren und bei allen High-Grade-Tumoren außer primärem CIS.",
-      "Ausschließlich bei isoliertem Carcinoma in situ.",
-      "Nur bei Tumoren unter 1 cm Durchmesser.",
-      "Bei keiner Konstellation, eine Nachresektion wird grundsätzlich nicht empfohlen."
+      "Bei Verdacht auf ein intermediäres oder hohes Risiko nach EORTC",
+      "Bei Verdacht auf ein niedriges oder intermediäres Risiko nach EORTC",
+      "Bei der primären TUR-B eines NMIBC, unabhängig vom EORTC-Risiko",
+      "Bei Verdacht auf ein hohes Risiko nach EORTC, erst in der Nachresektion"
     ],
     "correct": 0,
-    "tip": "Ein isoliertes primäres CIS ist von dieser Empfehlung explizit ausgenommen, da es durch TUR allein nicht geheilt werden kann.",
-    "explanation": "Empfehlung 6.11 fordert eine Nachresektion bei inkompletter Primärresektion, fehlendem Muskelnachweis (außer pTa Low Grade), bei pT1-Tumoren und bei allen High-Grade-Tumoren mit Ausnahme des primären Carcinoma in situ."
+    "tip": "Überlegen Sie, in welchen Risikogruppen die Fluoreszenz pro 1000 Behandelte die meisten Rezidive verhindert.",
+    "explanation": "Empfehlung 6.10 (Expertenkonsens, sollte): HAL-TUR-B ergänzend bei Verdacht auf intermediäres oder hohes EORTC-Risiko; ein genereller Einsatz bei allen NMIBC wird wegen niedriger Evidenzsicherheit nicht ausgesprochen. Laut Cochrane-Analyse steigt der Nutzen mit dem Ausgangsrisiko (48, 109 bzw. 147 weniger Rezidive pro 1000 bei niedrigem, mittlerem und hohem Risiko)."
   },
   {
-    "question": "Innerhalb welches Zeitfensters soll laut Empfehlung 6.12 eine Nachresektion nach der ersten Resektion durchgeführt werden?",
+    "question": "Wie bewertet die aktuelle Leitlinie die TUR-B mittels Narrow-Band Imaging (NBI)?",
     "options": [
-      "Innerhalb von 6 Wochen.",
-      "Innerhalb von 24 Stunden.",
-      "Erst nach 12 Monaten.",
-      "Es gibt kein empfohlenes Zeitfenster."
+      "Gesicherter Vorteil für das rezidivfreie Überleben, Progressionsvorteil nicht belegt",
+      "Prognostisch günstiger Einfluss nicht gesichert, Progressionsdaten fehlen nahezu",
+      "Der HAL-TUR-B gleichwertig, da direkte Vergleichsstudien kein Defizit zeigten",
+      "Gesicherter Vorteil für Rezidiv- und Progressionsfreiheit, Empfehlungsgrad B"
     ],
-    "correct": 0,
-    "tip": "Ein zu früher Zeitpunkt erhöht das Perforationsrisiko, ein zu später interferiert mit der adäquaten postoperativen Therapie.",
-    "explanation": "Empfehlung 6.12 sieht vor, dass eine Nachresektion innerhalb von 6 Wochen nach der ersten Resektion durchgeführt werden sollte."
+    "correct": 1,
+    "tip": "Vergleichen Sie Umfang und Endpunkte der NBI-Studien mit denen der photodynamischen Diagnostik.",
+    "explanation": "Statement 6.9 (neu 2026, LoE 1+): Ein prognostisch günstiger Einfluss der NBI-TUR-B auf das rezidiv- und progressionsfreie Überleben ist nicht gesichert. Direkte Vergleichsstudien zwischen PDD und NBI fehlen, und das nahezu völlige Fehlen von Progressionsdaten lässt die NBI-Datenlage schwächer erscheinen als die zur PDD."
   },
   {
-    "question": "Welches Areal soll laut Empfehlung 6.13 bei der Nachresektion umfasst werden?",
+    "question": "Bei der Weißlicht-TUR-B eines Primärtumors erwägt der Operateur zusätzliche unselektive Biopsien aus unauffälliger Mukosa. Was empfiehlt die Leitlinie?",
     "options": [
-      "Das Areal der ersten Resektion sowie alle makroskopisch suspekten Areale.",
-      "Ausschließlich das Gebiet außerhalb der alten Resektionsnarbe.",
-      "Nur der Blasenhals, unabhängig vom ursprünglichen Tumorort.",
-      "Die gesamte Blase ungeachtet makroskopischer Befunde wird dabei nicht systematisch biopsiert."
+      "Sie sollten nicht vorgenommen werden (Empfehlungsgrad B)",
+      "Sie sollen bei allen Primärtumoren erfolgen (Empfehlungsgrad A)",
+      "Sie sollten bei multifokalen Tumoren erfolgen (Empfehlungsgrad B)",
+      "Sie können nach Ermessen erfolgen (Empfehlungsgrad 0)"
     ],
     "correct": 0,
-    "tip": "In den meisten Studien fand sich der Residualtumor überwiegend (70-80%) an der Stelle der tumortragenden Erstresektion.",
-    "explanation": "Empfehlung 6.13 legt fest, dass die Nachresektion das Areal der ersten Resektion sowie alle makroskopisch suspekten Areale umfassen soll."
+    "tip": "Entscheidend ist, ob Zusatzbefunde aus unauffälliger Schleimhaut Staging oder Therapie des Primärtumors verändert haben.",
+    "explanation": "Empfehlung 6.6 (Empfehlungsgrad B): Ein sogenanntes Blasenmapping aus zystoskopisch unauffälliger Mukosa sollte bei der Weißlicht-TUR von Primärtumoren nicht erfolgen. In der zugrunde liegenden Studie mit 293 Patienten fand sich zwar bei 11,1 % der zufällig Biopsierten ein Karzinom, jedoch ohne Upstaging, Upgrading oder Therapieänderung."
   },
   {
-    "question": "In welchem Bereich liegen laut Kapitel 6.2 (Hintergrund) Sensitivität und Spezifität der Weißlicht-Zystoskopie in der Detektion des Harnblasenkarzinoms, und welche Tumoren sind damit besonders schwer zu diagnostizieren?",
+    "question": "Welche Aussage zum Einfluss der Operateurserfahrung auf die Qualität der TUR-B wird im Hintergrund der Leitlinie berichtet?",
     "options": [
-      "Sensitivität 6-84%, Spezifität 43-98%; kleine papilläre Tumoren und Carcinoma in situ sind besonders schwer zu diagnostizieren.",
-      "Sensitivität und Spezifität konstant bei 100%; alle Tumorarten werden gleich gut erkannt.",
-      "Sensitivität und Spezifität unter 1%; die Weißlicht-Zystoskopie ist faktisch nutzlos.",
-      "Nur die Spezifität ist eingeschränkt (10%), die Sensitivität liegt konstant bei 100%."
+      "Fachärzte erzielten seltener Detrusor im Präparat, aber weniger Frührezidive",
+      "Assistenzärzte hatten auch unter Supervision eine signifikant höhere R1-Rate",
+      "Unter Supervision war die R1-Rate unabhängig vom Erfahrungsgrad des Operateurs",
+      "Die Detrusorrate im Präparat war unabhängig vom Erfahrungsgrad des Operateurs"
     ],
-    "correct": 0,
-    "tip": "Diese untersucherabhängige Schwäche der Weißlicht-Zystoskopie ist die Begründung für den Einsatz der photodynamischen Detektion.",
-    "explanation": "Kapitel 6.2 beschreibt für die Weißlicht-Zystoskopie eine untersucherabhängige Sensitivität von 6-84% und Spezifität von 43-98%, wobei vor allem kleine papilläre Tumoren und Carcinoma in situ schwer zu diagnostizieren sind."
+    "correct": 2,
+    "tip": "Unterscheiden Sie zwischen Muskelanteil im Präparat und Schnittrandstatus – die Studien messen Verschiedenes.",
+    "explanation": "Laut Hintergrund zu 6.1–6.3 war in einer Studie mit 221 Patienten die R1-Rate unabhängig vom Erfahrungsgrad, wenn unter Supervision eines erfahrenen Operateurs reseziert wurde (34,2 % vs. 41,2 %, p=0,28). Die Detrusorrate hing dagegen in einer französischen Serie von der Erfahrung ab (73,8 % bei Fachärzten vs. 61,3 % bei Assistenzärzten)."
   }
 ]

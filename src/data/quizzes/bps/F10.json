@@ -1,122 +1,122 @@
 [
   {
-    "question": "Für welche Patientengruppe kann das Rezūm™-Verfahren (konvektive Wasserdampfablation) laut Empfehlung 11.30 besonders eine Therapieoption sein?",
+    "question": "Wie lautet Empfehlung 11.30 zur konvektiven Wasserdampfablation (Rezum™)?",
     "options": [
-      "Für Patienten mit dem Wunsch nach Ejakulationserhalt.",
-      "Nur für Patienten mit begleitendem Prostatakarzinom.",
-      "Ausschließlich für vollständig asymptomatische Patienten.",
-      "Nur für Frauen mit überaktiver Blase."
+      "Soll bis 80 cm³ als Standardalternative zur TURP angeboten werden (Grad A)",
+      "Sollte bei Wunsch nach Ejakulationserhalt bevorzugt angeboten werden (Grad B)",
+      "Soll nicht außerhalb randomisierter Studien angewendet werden (Expertenkonsens)",
+      "Kann bei Wunsch nach Ejakulationserhalt eine Therapieoption darstellen (Grad 0)"
+    ],
+    "correct": 3,
+    "tip": "Überlege, für welche Patientengruppe das Verfahren besonders attraktiv ist und wie robust die zugrunde liegende Evidenz ist.",
+    "explanation": "Empfehlung 11.30 (Grad 0, LoE 2+): Das Rezum™-Verfahren kann eine Therapieoption bei Patienten mit Wunsch nach Ejakulationserhalt sein. Die Formulierung „soll nicht außerhalb randomisierter Studien“ betrifft die intraprostatischen Injektionstechniken (Empfehlung 11.33)."
+  },
+  {
+    "question": "Ein Patient soll mittels Rezum™ behandelt werden. Worüber ist er hinsichtlich des frühen postoperativen Verlaufs laut Hintergrundtext aufzuklären?",
+    "options": [
+      "Initiale Prostataschwellung mit Katheterableitung für mindestens zwei Tage",
+      "Sofortige Desobstruktion, sodass meist auf einen Katheter verzichtet wird",
+      "Katheterableitung über etwa drei Wochen bis zur vollständigen Nekroseresorption",
+      "Temporäre Implantatlage mit Entfernung nach fünf bis sieben Tagen"
     ],
     "correct": 0,
-    "tip": "Im Gegensatz zu vielen medikamentösen und operativen Verfahren zeigte Rezūm in Studien keine sexuellen Funktionsstörungen.",
-    "explanation": "Das Rezūm-Verfahren kann eine Therapieoption des BPS bei Patienten mit Wunsch nach Ejakulationserhalt sein (Empfehlungsgrad 0)."
+    "tip": "Es handelt sich um ein Verfahren mit indirekter, verzögerter Ablation von Gewebe.",
+    "explanation": "Laut Hintergrund zu 11.30 führt die Wasserdampfinjektion (103 °C) initial zu einer Schwellung der Prostata, sodass vorübergehend eine Katheterableitung von mindestens zwei Tagen notwendig ist; das Volumen nimmt nach sechs Monaten um 28,9 % ab. Die Katheterdauer von rund drei Wochen gilt für die MRT-gesteuerte Ultraschallablation."
   },
   {
-    "question": "Wie wird beim Rezūm-Verfahren die Gewebenekrose erzeugt?",
+    "question": "Welcher Patient ist laut Empfehlung 11.34 ein typischer Kandidat für eine transurethrale Inzision der Prostata (TUIP)?",
     "options": [
-      "Durch elektrischen Strom über eine Resektionsschlinge.",
-      "Durch 103°C heißen Wasserdampf, der über eine Nadel in die Transitionalzone eingebracht wird und durch Kondensation thermale Energie auf die Zellen überträgt.",
-      "Durch einen athermischen Hochdruck-Wasserstrahl ohne jede thermische Komponente.",
-      "Durch eine rein mechanische Kompression mit Nahtankern."
+      "75-jähriger Mann, Prostatavolumen 60 cm³, Mittellappen, Antikoagulation",
+      "52-jähriger sexuell aktiver Mann, Prostatavolumen 25 cm³, Kinderwunsch",
+      "48-jähriger sexuell aktiver Mann, Prostatavolumen 45 cm³, Mittellappen",
+      "80-jähriger Mann, ASA 4, Prostatavolumen 70 cm³, begrenzte Lebenserwartung"
     ],
     "correct": 1,
-    "tip": "Der Durchmesser der induzierten Nekrose liegt im Schnitt bei 1,8 cm, ohne thermische Schäden außerhalb der Prostata.",
-    "explanation": "Beim Rezūm-Verfahren wird 103°C heißer Wasserdampf über eine Nadel in die Transitionalzone eingebracht; die Kondensation überträgt thermale Energie, die zur Denaturierung der Zellmembran führt."
+    "tip": "Die TUIP tauscht geringere Morbidität gegen eine höhere Reoperationsrate – überlege, für wen sich dieser Tausch lohnt.",
+    "explanation": "Empfehlung 11.34 (Grad 0, LoE 1++): Bei jungen, sexuell aktiven Männern mit kleinem Prostatavolumen (≤30 cm³) kann die TUIP empfohlen werden. Hochbetagte Hochrisikopatienten mit begrenzter Lebenserwartung sind eher Kandidaten für permanente Stents (Empfehlung 11.41)."
   },
   {
-    "question": "Wie unterschied sich das Nebenwirkungsprofil von Patienten nach Rezūm-Therapie im Vergleich zu Patienten der MTOPS-Studie (medikamentöse Therapie) in einer komparativen Analyse?",
+    "question": "Welche Aussage zur TUIP im Vergleich zur TURP trifft laut Leitlinie zu?",
     "options": [
-      "Rezūm-Patienten hatten deutlich mehr sexuelle Funktionsstörungen als MTOPS-Patienten.",
-      "Patienten nach Rezūm-Therapie wiesen im Gegensatz zu den MTOPS-Patienten keine sexuellen Funktionsstörungen auf.",
-      "Es zeigte sich kein Unterschied zwischen beiden Gruppen.",
-      "Eine solche Analyse wurde nie durchgeführt."
+      "Stärkere Senkung der Blasenauslassobstruktion und höhere Reoperationsrate",
+      "Antegrade Ejakulation bei ca. 79 % erhalten und niedrigere Reoperationsrate",
+      "Antegrade Ejakulation bei ca. 79 % erhalten, jedoch höhere Reoperationsrate",
+      "Antegrade Ejakulation bei ca. 50 % erhalten, jedoch gleiche Reoperationsrate"
     ],
-    "correct": 1,
-    "tip": "Gleichzeitig war die IPSS-Reduktion im Langzeitverlauf äquivalent zur medikamentösen Kombinationstherapie.",
-    "explanation": "Im Gegensatz zu den Patienten der MTOPS-Studie wiesen die Patienten nach einer Rezūm-Therapie keine sexuellen Funktionsstörungen auf."
+    "correct": 2,
+    "tip": "Denke an das Operationsprinzip: Inzision von Blasenhals und Prostata statt Abtragung des Adenoms.",
+    "explanation": "Laut Empfehlung 11.36 (Grad 0, LoE 1++) bleibt die antegrade Ejakulation nach TUIP bei 79 % erhalten; die BOO wird laut Statement 11.35 geringer gesenkt als durch TURP. Die Reoperationsrate lag in einer Metaanalyse bei 18,4 % nach TUIP gegenüber 7,2 % nach TURP."
   },
   {
-    "question": "Welches Funktionsprinzip liegt dem Prostatic Urethral Lift (PUL, UroLift®) zugrunde?",
+    "question": "Ein 61-jähriger sexuell aktiver Mann (Prostatavolumen 45 cm³, IPSS 19) legt großen Wert auf den Erhalt der Ejakulation; zystoskopisch zeigt sich ein deutlich vergrößerter Mittellappen. Wie ist ein Prostata-Harnröhren-Lifting (PUL) zu bewerten?",
     "options": [
-      "Resektion von Adenomgewebe mittels Laser.",
-      "Permanente Kompression der Prostataseitenlappen mittels Nahtankern, die ein \"Lifting\" der Urethra bewirken, ohne Gewebeablation.",
-      "Injektion eines zytotoxischen Proteins in die Prostata.",
-      "Implantation eines dauerhaften Metallstents zur Offenhaltung der Harnröhre."
+      "Ungeeignet, da ein vergrößerter Mittellappen technisch formal nicht behandelbar ist",
+      "Geeignet, da das Verfahren bis 80 cm³ unabhängig von der Lappenform empfohlen wird",
+      "Geeignet, da die Medlift-Studie die Wirksamkeit beim Mittellappen randomisiert belegt",
+      "Ungeeignet, da das Verfahren erst ab einem Prostatavolumen von 80 cm³ empfohlen wird"
     ],
-    "correct": 1,
-    "tip": "Ein vergrößerter Mittellappen kann mit dieser Technik formal nicht behandelt werden und war in den RCTs ein Ausschlusskriterium.",
-    "explanation": "Beim PUL werden permanente Anker mittels Nahtmaterial in der prostatischen Urethra platziert, die beide Seitenlappen komprimieren und so eine Öffnung (\"Lifting\") der Urethra bewirken, ohne Gewebe zu abladieren."
+    "correct": 0,
+    "tip": "Überlege, welche Lappen die Anker des Lifting-Verfahrens erreichen und auseinanderdrängen können.",
+    "explanation": "Empfehlung 11.38 (Grad B, LoE 1++): Das PUL sollte bei Prostatae bis 80 cm³ und nicht vergrößertem Mittellappen in erfahrenen Zentren als ejakulationsschonende Alternative zur TURP erwogen werden. Ein vergrößerter Mittellappen war in den RCTs Ausschlusskriterium; die Medlift-Studie war nicht randomisiert."
   },
   {
-    "question": "Was zeigte die RCT von Sonksen et al. beim direkten Vergleich von PUL mit der monopolaren TURP nach 12 Monaten?",
+    "question": "Welche Aussage zum Prostata-Harnröhren-Lifting (PUL) im Vergleich zur TURP trifft laut Leitlinie zu?",
     "options": [
-      "PUL war der TURP bei der IPSS-Verbesserung überlegen.",
-      "Die TURP zeigte eine größere Verbesserung von IPSS und Qmax, während PUL beim Erhalt der sexuellen Funktion überlegen war (keine retrograde Ejakulation vs. 34% nach TURP).",
-      "Beide Verfahren waren in jeder Hinsicht völlig identisch.",
-      "PUL führte bei allen Patienten zu einer retrograden Ejakulation."
+      "Gleichwertige IPSS-Besserung bei besserem Erhalt der sexuellen Funktion",
+      "Geringere IPSS-Besserung bei besserem Erhalt der sexuellen Funktion",
+      "Geringere IPSS-Besserung bei vergleichbarer Rate retrograder Ejakulation",
+      "Stärkere IPSS-Besserung bei besserem Erhalt der sexuellen Funktion"
     ],
     "correct": 1,
-    "tip": "Diese Ergebnisse wurden später auch im Cochrane Review bestätigt.",
-    "explanation": "Die monopolare TURP zeigte eine größere Verbesserung von IPSS und Qmax als PUL; PUL zeigte dafür keine Einschränkung der sexuellen Funktion, während 34% der TURP-Patienten eine retrograde Ejakulation entwickelten."
+    "tip": "Unterscheide in Statement 11.37 und Empfehlung 11.38 zwischen Symptomkontrolle und sexueller Funktion.",
+    "explanation": "Statement 11.37 (LoE 1++): Das PUL verbessert IPSS, Qmax und Lebensqualität, ist der TURP darin aber unterlegen (RCT: IPSS −11,4 vs. −15,4 Punkte); die sexuelle Funktion bleibt erhalten, während nach TURP 34 % eine retrograde Ejakulation aufwiesen. Die Reinterventionsrate betrug 13,6 % über fünf Jahre."
   },
   {
-    "question": "Für welche Patienten ist das PUL-Verfahren laut Empfehlung 11.38 (Empfehlungsgrad B) als ejakulationsschonende Alternative zur TURP geeignet?",
+    "question": "Für welche Prostatae kommt das temporär implantierbare Nitinol-Körbchen (iTIND) laut Empfehlung 11.39 als Therapiealternative in Betracht?",
     "options": [
-      "Nur für Patienten mit sehr großem, vergrößertem Mittellappen.",
-      "Für Patienten mit einer Prostatagröße bis 80 cm³ und nicht vergrößertem Mittellappen.",
-      "Ausschließlich für Patienten über 90 Jahre.",
-      "Für alle Patienten, unabhängig von Prostatagröße und Mittellappen."
+      "Volumen maximal 80 cm³, auch mit endovesikalem Mittellappen",
+      "Volumen maximal 30 cm³ und ohne endovesikalen Mittellappen",
+      "Volumen maximal 100 cm³ und ohne endovesikalen Mittellappen",
+      "Volumen maximal 75 cm³ und ohne endovesikalen Mittellappen"
     ],
-    "correct": 1,
-    "tip": "Ein vergrößerter Mittellappen gilt als technische Einschränkung des Verfahrens.",
-    "explanation": "Die permanente Prostatakompression (PUL) sollte bei Patienten mit einer Prostatagröße bis 80 cm³ und nicht vergrößertem Mittellappen in erfahrenen Zentren als ejakulationsschonende Alternative erwogen werden (Empfehlungsgrad B)."
+    "correct": 3,
+    "tip": "Überlege, welches anatomische Merkmal sich in den Studien als Risikofaktor für eine spätere Operation erwies.",
+    "explanation": "Empfehlung 11.39 (EK): Das iTIND kann eine Therapiealternative bei Prostatae mit maximal 75 cm³ und ohne endovesikalen Mittellappen sein, laut Empfehlung 11.40 (EK) insbesondere bei Wunsch nach Ejakulationserhalt. Die 80 cm³ sind die Obergrenze für das PUL (Empfehlung 11.38)."
   },
   {
-    "question": "Wie funktioniert das temporär implantierbare Körbchen aus Nitinol (iTIND)?",
+    "question": "Wie wirkt das iTIND der 2. Generation, und wie lange verbleibt es in der prostatischen Harnröhre?",
     "options": [
-      "Es reseziert Gewebe mittels eines integrierten Lasers.",
-      "Es erzeugt über drei Spangen während einer 5-7-tägigen Liegezeit eine Drucknekrose in der Prostata und wird anschließend wieder entfernt.",
-      "Es wird dauerhaft in der Prostata belassen und löst sich nie wieder auf.",
-      "Es wirkt über eine chemische Injektion in das Prostatagewebe."
+      "Permanente Anker heben die Seitenlappen an; das Implantat verbleibt dauerhaft",
+      "Drei Spangen dilatieren die Harnröhre; Entfernung nach etwa vier Wochen",
+      "Drei Spangen erzeugen eine Drucknekrose; Entfernung nach fünf bis sieben Tagen",
+      "Ein Gitter aus Memory-Metall wird epithelialisiert; Entfernung nur bei Komplikationen"
     ],
-    "correct": 1,
-    "tip": "Eine Ankerlippe vor dem Kollikel verhindert, dass das Körbchen in die Blase disloziert.",
-    "explanation": "Das iTIND erzeugt über drei Spangen während einer Liegezeit von 5-7 Tagen eine Drucknekrose in der Prostata und wird danach über einen Faden wieder entfernt."
+    "correct": 2,
+    "tip": "Vergleiche das Wirkprinzip mit dem des Prostata-Harnröhren-Liftings und dem temporärer Stents.",
+    "explanation": "Laut Kapitel 11.1.3.2.2 erzeugen die drei Spangen des iTIND bei 5, 7 und 12 Uhr eine Drucknekrose, eine Ankerlippe bei 6 Uhr verhindert die Dislokation; das Körbchen verbleibt fünf bis sieben Tage. Die vierwöchige Liegedauer gilt für den temporären Spanner™-Stent."
   },
   {
-    "question": "Für welche Prostatavolumina und bei welchem Patientenwunsch kann das iTIND laut Empfehlung 11.39/11.40 eine Therapiealternative sein?",
+    "question": "Für welche Patienten sollte laut Empfehlung 11.41 die Platzierung permanenter Prostatastents vorbehalten bleiben?",
     "options": [
-      "Bei einem Volumen über 150 cm³ mit großem Mittellappen.",
-      "Bei einem Volumen von maximal 75 cm³ ohne endovesikalen Mittellappen, insbesondere bei Wunsch nach Ejakulationserhalt.",
-      "Nur bei Männern mit Harnverhalt und bestehender Niereninsuffizienz.",
-      "Es gibt laut Leitlinie keine Volumenbegrenzung für das iTIND."
+      "Hochrisikopatienten (ASA ≥3) mit begrenzter Lebenserwartung",
+      "Patienten mit Wunsch nach Ejakulationserhalt und Volumen ≤30 cm³",
+      "Patienten mit nicht pausierbarer Antikoagulation und Volumen <80 cm³",
+      "Hochrisikopatienten (ASA ≥2) unabhängig von der Lebenserwartung"
     ],
-    "correct": 1,
-    "tip": "Das Vorhandensein eines Mittellappens stellte in Studien einen Risikofaktor für einen späteren Therapiewechsel dar.",
-    "explanation": "Das iTIND kann bei Prostatae mit einem Volumen bis maximal 75 cm³ ohne endovesikalen Mittellappen eine Therapiealternative sein, insbesondere bei Wunsch nach Ejakulationserhalt (EK)."
+    "correct": 0,
+    "tip": "Bedenke die hohe Rate sekundärer Stententfernungen von etwa 10–20 % im Kurz- und Langzeitverlauf.",
+    "explanation": "Empfehlung 11.41 (Grad B, LoE 3): Wegen häufiger Komplikationen und hoher Rate sekundärer Stententfernungen sollte die Platzierung permanenter Stents auf Hochrisikopatienten (ASA ≥3) mit begrenzter Lebenserwartung beschränkt bleiben. Stents gelten nicht als Alternative zu gewebeablativen Verfahren."
   },
   {
-    "question": "Wurde in den iTIND-Studien eine de-novo retrograde Ejakulation oder Erektionsstörung beobachtet?",
+    "question": "Wie bewertet die Leitlinie die intraprostatische Injektion von Fexapotide (NX-1207) oder Topsalysin (PRX302)?",
     "options": [
-      "Ja, bei fast allen behandelten Patienten.",
-      "Nein – in keiner der Studien wurde eine de-novo retrograde Ejakulation oder Erektionsstörung beobachtet.",
-      "Nur bei Patienten mit großem Mittellappen.",
-      "Dies wurde in den Studien nicht erfasst."
+      "Kann bei komorbiden Patienten als risikoarme Alternative zur TURP angeboten werden",
+      "Sollte bei Wunsch nach Ejakulationserhalt anstelle einer Operation erwogen werden",
+      "Soll nicht außerhalb randomisierter, Placebo-kontrollierter Studien erfolgen",
+      "Kann nach Versagen einer medikamentösen Kombinationstherapie off-label erfolgen"
     ],
-    "correct": 1,
-    "tip": "Dies macht das iTIND zu einer weiteren ejakulationsprotektiven Option im minimalinvasiven Spektrum.",
-    "explanation": "Eine de-novo retrograde Ejakulation oder Erektionsstörung wurde in keiner der iTIND-Studien beobachtet."
-  },
-  {
-    "question": "Welches minimalinvasive Verfahren nutzt einen roboterassistierten, athermischen Hochdruckwasserstrahl zur Gewebeabtragung unter Schonung des Verumontanums zum Ejakulationserhalt?",
-    "options": [
-      "Das Rezūm-Verfahren.",
-      "Die Wasserstrahlablation (Aquablation, Aquabeam®).",
-      "Das PUL-Verfahren (UroLift).",
-      "Der permanente Prostatastent."
-    ],
-    "correct": 1,
-    "tip": "Die Gewebeabtragung erfolgt automatisiert unter Echtzeit-TRUS-Kontrolle.",
-    "explanation": "Bei der Wasserstrahlablation (Aquablation) erfolgt eine roboterassistierte Hochdruck-Hydrodissektion des Prostataparenchyms unter Aussparung des Verumontanums zum Ejakulationserhalt."
+    "correct": 2,
+    "tip": "Beide Substanzen sollen apoptotische Prozesse im überschüssigen Prostatagewebe aktivieren.",
+    "explanation": "Empfehlung 11.33 (EK): Da Vergleichsstudien mit medikamentöser Therapie oder TURP fehlen, soll die intraprostatische Injektion nicht außerhalb randomisierter Placebo-kontrollierter Studien durchgeführt werden; für keine der Substanzen besteht eine Zulassung. Die Option bei Wunsch nach Ejakulationserhalt betrifft u. a. Rezum™ und iTIND."
   }
 ]

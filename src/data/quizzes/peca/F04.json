@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was ist das Grundprinzip der Behandlung laut Empfehlung 7.1 bei oberflächlichen bzw. frühen Stadien des Peniskarzinoms?",
+    "question": "Ein 55-Jähriger mit histologisch gesicherter PeIN der Glans möchte „bloß keine Operation“. Welche Aussage zur topischen Therapie mit 5-Fluorouracil oder Imiquimod entspricht den Empfehlungen 7.6 und 7.7?",
     "options": [
-      "Eine stadien- und differenzierungsabhängige organerhaltende Therapie.",
-      "Immer die radikale Penektomie unabhängig vom Stadium.",
-      "Grundsätzlich nur eine abwartende Beobachtung ohne jede Therapie.",
-      "Eine ausschließlich systemische Chemotherapie bereits im Frühstadium."
+      "Sollte angewandt werden (Grad B); Aufklärung über den Off-Label-Gebrauch",
+      "Kann angewandt werden (Grad 0); Aufklärung über den Off-Label-Gebrauch",
+      "Kann angewandt werden (Grad 0); Präparate für das penile CIS zugelassen",
+      "Sollte angewandt werden (Grad B); Präparate für das penile CIS zugelassen"
     ],
-    "correct": 0,
-    "tip": "Die Aufklärung des Patienten über alle stadiengerechten Optionen soll dabei auf Basis einer aussagekräftigen Histologie erfolgen (Empfehlung 7.2).",
-    "explanation": "Empfehlung 7.1 fordert eine stadien- und differenzierungsabhängige organerhaltende Therapie als Grundprinzip."
+    "correct": 1,
+    "tip": "Überlegen Sie, welche Empfehlungsstärke Fallberichte und kleine Fallserien als Evidenzgrundlage hergeben.",
+    "explanation": "Empfehlung 7.6 ist eine offene Empfehlung (Grad 0, Evidenzlevel 4): 5-FU oder Imiquimod kann bei PeIN oder Präkanzerosen angewandt werden. Laut Empfehlung 7.7 (EK) sollen Patienten über die begrenzte Wirksamkeit und den Off-Label-Gebrauch aufgeklärt werden – zugelassen sind beide Substanzen für kleine Basalzellkarzinome und aktinische Keratosen, Imiquimod zusätzlich für Condylomata acuminata."
   },
   {
-    "question": "Was fordert Empfehlung 7.3 für oberflächliche Tumoren?",
+    "question": "Ein Kollege möchte eine flächige, unklare Rötung der Glans ohne vorherige Biopsie probatorisch mit Imiquimod behandeln. Wie ist das laut Leitlinie zu bewerten?",
     "options": [
-      "Eine organ- und funktionserhaltende kurative Behandlung.",
-      "Grundsätzlich eine radikale Penektomie.",
-      "Eine rein palliative Behandlung ohne kurativen Anspruch.",
-      "Den vollständigen Verzicht auf jede Behandlung."
+      "Zulässig, sofern der Befund nach vier Wochen klinisch kontrolliert wird",
+      "Nicht leitliniengerecht, da Imiquimod keine Zulassung für den Penis hat",
+      "Zulässig, sofern der Patient über den Off-Label-Gebrauch aufgeklärt ist",
+      "Nicht leitliniengerecht, da zuvor eine aussagekräftige Histologie nötig ist"
     ],
-    "correct": 0,
-    "tip": "Dies gilt laut Empfehlung 7.4 jedoch nur bei Vorliegen einer aussagekräftigen Histologie.",
-    "explanation": "Empfehlung 7.3 fordert eine organ- und funktionserhaltende kurative Behandlung oberflächlicher Tumoren."
+    "correct": 3,
+    "tip": "Denken Sie daran, wie sicher sich ein Carcinoma in situ makroskopisch von entzündlichen Dermatosen abgrenzen lässt.",
+    "explanation": "Laut Empfehlung 7.4 (EK, Konsens 100 %) soll die Behandlung oberflächlicher, nicht-invasiver Peniskarzinome nur aufgrund einer aussagekräftigen Histologie erfolgen; Empfehlung 7.2 fordert diese auch als Grundlage der Aufklärung. Der Off-Label-Gebrauch ist dagegen kein Ausschlussgrund, sondern aufklärungspflichtig (Empfehlung 7.7)."
   },
   {
-    "question": "Welche topische Therapie kann laut Empfehlung 7.6 (Empfehlungsgrad 0) bei PeIN/Präkanzerosen eingesetzt werden?",
+    "question": "Welche Zuordnung von Lasersystem und Indikation entspricht Empfehlung 7.8?",
     "options": [
-      "5-Fluorouracil oder Imiquimod.",
-      "Eine systemische Hochdosis-Chemotherapie.",
-      "Eine topische Antibiotikatherapie.",
-      "Eine topische Therapie ist bei PeIN nicht vorgesehen."
+      "Nd:YAG-Laser mit Tiefenkoagulation für Ta/T1-Tumoren",
+      "CO2-Laser mit Vaporisation für Ta/T1-Tumoren",
+      "Nd:YAG-Laser mit Tiefenkoagulation für T2/T3-Tumoren",
+      "CO2-Laser mit Vaporisation für T2/T3-Tumoren"
     ],
     "correct": 0,
-    "tip": "Patienten sollen laut Empfehlung 7.7 über die begrenzte Wirksamkeit und den Off-Label-Gebrauch aufgeklärt werden.",
-    "explanation": "Empfehlung 7.6 sieht mit Empfehlungsgrad 0 den Einsatz von 5-Fluorouracil oder Imiquimod bei PeIN/Präkanzerosen vor."
+    "tip": "Vergleichen Sie die Eindringtiefen: Verdampfung im Zehntelmillimeterbereich gegenüber Koagulation bis in den Zentimeterbereich.",
+    "explanation": "Laut Empfehlung 7.8 (Grad 0, Evidenzlevel 4) kann der CO2-Laser (Penetrationstiefe 0,1 mm) für PeIN und Präkanzerosen, der Nd:YAG-Laser mit Tiefenkoagulation (bis 10 mm) für Ta/T1-Tumoren eingesetzt werden. Für T2/T3-Tumoren nennt die Empfehlung kein Lasersystem."
   },
   {
-    "question": "Welche Lasertechniken werden laut Empfehlung 7.8 für PeIN/Präkanzerosen bzw. für Ta/T1-Tumoren unterschieden?",
+    "question": "Beim CIS der Glans finden sich bei ausgedehnten Befunden nach vollständiger Aufarbeitung stellenweise invasive Anteile, und nach oberflächlicher Therapie treten Lokalrezidive auf. Welche Häufigkeiten nennt der Hintergrundtext zu den Empfehlungen 7.3 und 7.4?",
     "options": [
-      "CO2-Laser für PeIN/Präkanzerosen, Nd:YAG-Laser mit Tiefenkoagulation für Ta/T1.",
-      "Beide Stadien werden ausschließlich mit demselben Lasertyp behandelt.",
-      "Lasertherapie wird in der Leitlinie für das Peniskarzinom nicht erwähnt.",
-      "CO2-Laser wird ausschließlich bei T3/T4-Tumoren eingesetzt."
+      "Invasive Anteile in 5–10 %, Lokalrezidive in ca. 30 %",
+      "Invasive Anteile in 20–30 %, Lokalrezidive in ca. 10 %",
+      "Invasive Anteile in 5–10 %, Lokalrezidive in ca. 10 %",
+      "Invasive Anteile in 20–30 %, Lokalrezidive in ca. 30 %"
     ],
-    "correct": 0,
-    "tip": "Beide Lasertechniken sollen mit entsprechenden Rezidivraten im Hintergrundtext diskutiert werden.",
-    "explanation": "Empfehlung 7.8 unterscheidet den CO2-Laser für PeIN/Präkanzerosen vom Nd:YAG-Laser mit Tiefenkoagulation für Ta/T1-Tumoren."
+    "correct": 3,
+    "tip": "Bei großflächigen Befunden fordert die Leitlinie deshalb Mehrfachbiopsien zum korrekten Staging.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.3 und 7.4 findet sich beim CIS (ca. 10 % der Peniskarzinome, in 80 % an der Glans) besonders bei ausgedehnten Befunden in 20–30 % stellenweise Invasivität, weshalb Mehrfachbiopsien nötig sind. Wegen nicht erkannter fokaler Invasivität liegt die Lokalrezidivrate oberflächlicher Methoden bei ca. 30 %; sie werden dennoch primär empfohlen, da die Prognose auch beim Rezidiv sehr gut bleibt."
   },
   {
-    "question": "Was fordert Empfehlung 7.9 nach einer topischen oder Lasertherapie?",
+    "question": "Nach CO2-Laserablation einer PeIN ist die Glans nach einigen Wochen makroskopisch unauffällig abgeheilt. Was fordert Empfehlung 7.9?",
     "options": [
-      "Eine Kontrollbiopsie und eine langfristige Nachsorge.",
-      "Keine weitere Kontrolle, da die Therapie als abschließend gilt.",
-      "Eine sofortige radikale Penektomie unabhängig vom Ansprechen.",
-      "Eine ausschließlich bildgebende Verlaufskontrolle ohne Biopsie."
+      "Kontrollbiopsie zur Verifikation und regelmäßige langfristige Nachsorge",
+      "Klinische Kontrolle in drei Monaten und Biopsie bei sichtbarem Rezidiv",
+      "Fotodokumentation und Abschluss der Nachsorge nach zwölf Monaten",
+      "Peniskopie mit Essigsäuretest anstelle einer histologischen Kontrolle"
     ],
     "correct": 0,
-    "tip": "Diese Empfehlung gilt auch als Qualitätsindikator der Leitlinie.",
-    "explanation": "Empfehlung 7.9 fordert nach topischer oder Lasertherapie eine Kontrollbiopsie und eine langfristige Nachsorge."
+    "tip": "Laser und topische Verfahren erlauben – anders als eine Exzision – keine Beurteilung von Schnitträndern.",
+    "explanation": "Laut Empfehlung 7.9 (EK, Konsens 100 %) sollen nach topischer oder Lasertherapie eine postinterventionelle Kontrollbiopsie zur Verifikation der lokalen Tumorkontrolle und eine regelmäßige langfristige Nachsorge erfolgen. Spätrezidive nach Lasertherapie können noch nach fünf bis zehn Jahren auftreten; der Essigsäuretest gilt als unspezifisch."
   },
   {
-    "question": "Welches Verfahren wird laut Empfehlung 7.10 beim Carcinoma in situ (CIS) der Glans empfohlen?",
+    "question": "Welches Verfahren zur besseren Sichtbarmachung der flächigen CIS-Ausdehnung beschreibt der Hintergrundtext zu Empfehlung 7.5?",
     "options": [
-      "Das Glans Resurfacing (komplette Deepithelialisierung).",
-      "Ausschließlich eine systemische Chemotherapie.",
-      "Ausschließlich eine Strahlentherapie des gesamten Beckens.",
-      "Eine Behandlung des CIS wird in der Leitlinie nicht thematisiert."
+      "Indocyaningrün-Fluoreszenz mit Nahinfrarotkamera",
+      "Methylenblau-Färbung mit Weißlicht-Vergrößerung",
+      "5-Aminolävulinsäure-PDD mit blauem Xenon-Licht",
+      "Toluidinblau-Färbung mit Auflichtmikroskopie"
     ],
-    "correct": 0,
-    "tip": "Dieses Verfahren erhält die Glans weitgehend funktionell, während das befallene Epithel entfernt wird.",
-    "explanation": "Empfehlung 7.10 sieht das Glans Resurfacing (komplette Deepithelialisierung) beim Carcinoma in situ der Glans vor."
+    "correct": 2,
+    "tip": "Neben dem Essigsäuretest nennt die Leitlinie ein zweites, ebenfalls weder standardisiertes noch validiertes optisches Verfahren.",
+    "explanation": "Laut Hintergrund zu Empfehlung 7.5 (Grad 0, Evidenzlevel 4) kann die CIS-Ausdehnung mit dem Essigsäuretest oder der photodynamischen Diagnostik mit 5-Aminolävulinsäure (Applikation zwei Stunden präoperativ, Anregung mit blauem Xenon-Licht 375–440 nm) besser sichtbar gemacht werden. Indocyaningrün nennt die Leitlinie dagegen zur Identifizierung von Sentinel-Lymphknoten."
   },
   {
-    "question": "Welche Therapie wird laut Empfehlung 7.11 bei auf die Vorhaut beschränkten Tumoren empfohlen?",
+    "question": "Ein 58-Jähriger hat ein flächenhaft ausgedehntes CIS der Glans, das nach Imiquimod-Therapie persistiert. Welche Option nennt die Leitlinie für diese Situation ausdrücklich?",
     "options": [
-      "Die Zirkumzision.",
-      "Eine radikale Penektomie.",
-      "Eine alleinige systemische Chemotherapie.",
-      "Eine palliative Strahlentherapie."
+      "Zweiter Imiquimod-Zyklus mit verlängerter Anwendungsdauer",
+      "Penisteilamputation mit 2 cm Sicherheitsabstand",
+      "Komplette chirurgische Deepithelialisierung der Glans",
+      "Perkutane Strahlentherapie der gesamten Glans penis"
     ],
-    "correct": 0,
-    "tip": "Diese Therapie ist bei strikt auf die Vorhaut begrenzten Tumoren in der Regel ausreichend.",
-    "explanation": "Empfehlung 7.11 sieht bei auf die Vorhaut beschränkten Tumoren eine Zirkumzision vor."
+    "correct": 2,
+    "tip": "Eine Wiederholung desselben topischen Verfahrens ist bei Persistenz nicht angeraten – gesucht ist ein organerhaltender Wechsel der Methode.",
+    "explanation": "Laut Empfehlung 7.10 (EK, Konsens 95 %) kann die komplette chirurgische Deepithelialisierung der Glans (Glans resurfacing) zur Therapie eines CIS angewandt werden – laut Hintergrundtext auch bei Persistenz nach topischer Therapie oder CO2-Laser, mit Lokalrezidivraten um 4 %. Eine Wiederholung der topischen Therapie bei Persistenz ist nicht angeraten, die Teilamputation mit 2 cm Abstand entspricht der überholten Lehrmeinung."
   },
   {
-    "question": "Was kann laut Empfehlung 7.5 optional zur Abgrenzung eines Carcinoma in situ eingesetzt werden?",
+    "question": "Ein 61-Jähriger hat ein histologisch gesichertes, auf die Vorhaut beschränktes Peniskarzinom. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Die Fluoreszenzdiagnostik.",
-      "Eine MRT des gesamten Körpers.",
-      "Eine Knochenszintigraphie.",
-      "Eine solche Zusatzdiagnostik wird in der Leitlinie nicht erwähnt."
+      "Zirkumzision, gefolgt von adjuvanter Strahlentherapie der Glans",
+      "Zirkumzision mit tumorfreien Schnitträndern, danach Nachsorge",
+      "Zirkumzision, gefolgt von prophylaktischem Glans resurfacing",
+      "Zirkumzision, gefolgt von topischer Nachbehandlung mit Imiquimod"
     ],
-    "correct": 0,
-    "tip": "Dies ist eine optionale, nicht obligate diagnostische Ergänzungsmaßnahme.",
-    "explanation": "Empfehlung 7.5 sieht die Fluoreszenzdiagnostik als optionale Methode zur Abgrenzung des Carcinoma in situ vor."
+    "correct": 1,
+    "tip": "Überlegen Sie, ob nach vollständiger Entfernung des tumortragenden Gewebes noch eine Zusatzbehandlung nötig ist.",
+    "explanation": "Laut Empfehlung 7.11 (EK, Konsens 100 %) sollen auf die Vorhaut beschränkte Tumoren durch Zirkumzision behandelt werden; tumorfreie Schnittränder müssen gegeben sein. Eine weitere Therapie ist nicht notwendig, Nachsorgeuntersuchungen sind jedoch erforderlich."
   },
   {
-    "question": "Was soll laut Empfehlung 7.4 Voraussetzung für eine organerhaltende Behandlung oberflächlicher Tumoren sein?",
+    "question": "Welcher Grundsatz prägt laut Hintergrund zu den Empfehlungen 7.1 und 7.2 heute die Therapie des Primärtumors beim Peniskarzinom?",
     "options": [
-      "Eine aussagekräftige Histologie.",
-      "Ein negativer HPV-Status.",
-      "Ein Patientenalter unter 50 Jahren.",
-      "Eine Voraussetzung wird in dieser Empfehlung nicht genannt."
+      "So viel Radikalität wie möglich, so viel Organerhalt wie nötig",
+      "Sicherheitsabstand von mindestens zwei Zentimetern als Standard",
+      "Primär Strahlentherapie, operative Therapie erst beim Lokalrezidiv",
+      "So viel Organerhalt wie möglich, so viel Radikalität wie nötig"
     ],
-    "correct": 0,
-    "tip": "Ohne eine solche aussagekräftige Histologie ist eine sichere Therapieentscheidung nicht möglich.",
-    "explanation": "Empfehlung 7.4 fordert eine aussagekräftige Histologie als Voraussetzung für die organerhaltende Behandlung oberflächlicher Tumoren."
+    "correct": 3,
+    "tip": "Die Leitlinie spricht von einem Paradigmenwechsel zugunsten der Lebensqualität des Patienten.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.1 und 7.2 ist die frühere Lehrmeinung eines Sicherheitsabstands von mindestens zwei Zentimetern einem vollständigen Umdenken gewichen: so viel Organerhalt wie möglich, so viel Radikalität wie nötig. Die operative Therapie steht dabei weiterhin im Vordergrund; Empfehlung 7.1 (EK) fordert eine stadien- und differenzierungsabhängige organerhaltende Therapie."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 4 im Zusammenhang mit topischer oder Lasertherapie diskutiert?",
+    "question": "In einer multizentrischen retrospektiven Serie von 161 Patienten nach Lasertherapie (CO2 oder Nd:YAG) wurden 5-Jahresraten an Lokalrezidiven für die Stadien PeIN/Ta bis T2 berichtet. In welchem Bereich lagen sie?",
     "options": [
-      "Nach Imiquimod oder Laser 'sieht gut aus' ohne Kontrollbiopsie zu werten, sowie eine topische Therapie ohne vorherige Histologie zu beginnen.",
-      "Eine Kontrollbiopsie routinemäßig durchzuführen, obwohl dies nicht erforderlich wäre.",
-      "Jede PeIN sofort radikal operativ zu behandeln.",
-      "Imiquimod grundsätzlich bei jedem Patienten zu verweigern."
+      "zwischen 3 und 12 %",
+      "zwischen 15 und 25 %",
+      "zwischen 38 und 52 %",
+      "zwischen 65 und 80 %"
     ],
-    "correct": 0,
-    "tip": "Dies widerspricht den Anforderungen aus Empfehlung 7.4 (Histologie vor Therapie) und Empfehlung 7.9 (Kontrollbiopsie nach Therapie).",
-    "explanation": "Der diskutierte Fallstrick ist, nach Imiquimod- oder Lasertherapie allein aufgrund des optischen Eindrucks ohne Kontrollbiopsie von einem Therapieerfolg auszugehen, sowie eine topische Therapie ohne vorherige Histologiesicherung zu beginnen."
+    "correct": 2,
+    "tip": "Die Serie umfasste alle Stadien und Differenzierungsgrade – die Ergebnisse der Lasertherapie sind insgesamt sehr heterogen.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.8 und 7.9 betrugen die 5-Jahres-Lokalrezidivraten in dieser Serie 50 % für PeIN/Ta, 41 % für T1a, 38 % für T1b und 52 % für T2. Für den CO2-Laser bei PeIN wurden in anderen Serien niedrigere Raten um 16–17 % berichtet; Spätrezidive können noch nach fünf bis zehn Jahren auftreten."
   }
 ]

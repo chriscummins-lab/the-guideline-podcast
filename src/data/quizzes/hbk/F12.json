@@ -1,122 +1,122 @@
 [
   {
-    "question": "Für welche Patienten ist laut Empfehlung 7.41 (Kapitel 7.8) die multimodale, primär organerhaltende Therapie besonders geeignet?",
+    "question": "Welche Ausgangssituation ist laut Empfehlung 7.41 besonders geeignet für die multimodale, primär organerhaltende Therapie des muskelinvasiven Urothelkarzinoms?",
     "options": [
-      "Patienten mit frühen Tumoren (cT2N0) ohne Hydronephrose oder assoziiertem Carcinoma in situ, bei denen die initiale TUR zu möglichst kompletter Tumorentfernung führt.",
-      "Ausschließlich Patienten mit Fernmetastasen.",
-      "Ausschließlich Patienten mit multifokalen T4-Tumoren und Hydronephrose.",
-      "Ausschließlich Patienten unter 40 Jahren unabhängig vom Tumorstadium."
+      "cT3 cN0 mit einseitiger Hydronephrose nach kompletter TUR-B",
+      "cT2 cN0 ohne Hydronephrose und ohne CIS nach kompletter TUR-B",
+      "cT2 cN0 mit multifokalem Tumor und begleitendem CIS nach TUR-B",
+      "cT4a cN0 ohne Hydronephrose nach makroskopisch inkompletter TUR-B"
     ],
-    "correct": 0,
-    "tip": "Lokal fortgeschrittene Tumoren (T4), Hydronephrose, Multifokalität und begleitendes CIS sind dagegen ungünstige Prognosefaktoren.",
-    "explanation": "Empfehlung 7.41 sieht die multimodale, primär organerhaltende Therapie besonders geeignet für Patienten mit frühen Tumoren (cT2N0) ohne Hydronephrose oder assoziiertes Carcinoma in situ, bei denen eine möglichst komplette initiale TUR gelingt."
+    "correct": 1,
+    "tip": "Denke an die günstigen und ungünstigen Prognosefaktoren der trimodalen Therapie: Stadium, Harnstau, Begleitbefunde und Resektionsqualität.",
+    "explanation": "Empfehlung 7.41 (EK): Besonders geeignet sind frühe Tumoren (cT2N0) ohne Hydronephrose oder assoziiertes Carcinoma in situ, bei denen die initiale TUR zur möglichst kompletten Tumorentfernung führt. T4-Tumoren, Hydronephrose, Multifokalität und begleitendes CIS nennt der Hintergrund als ungünstige Prognosefaktoren."
   },
   {
-    "question": "Bei wie viel Prozent der Patienten mit primär organerhaltender Therapie ist laut Kapitel 7.8 im Verlauf eine Salvage-Zystektomie indiziert?",
+    "question": "Welche Aussage zur Evidenz beim Vergleich von radikaler Zystektomie und multimodaler organerhaltender Therapie trifft laut Kapitel 7.8 zu?",
     "options": [
-      "Etwa 25-30%.",
-      "Etwa 0-1%.",
-      "Praktisch 100%.",
-      "Etwa 95%."
+      "Die randomisierte SPARE-Studie wurde nach 45 Patienten vorzeitig abgebrochen",
+      "Die randomisierte SPARE-Studie zeigte ein gleichwertiges Gesamtüberleben",
+      "Retrospektive Vergleiche belegen kausal ein gleichwertiges Gesamtüberleben",
+      "Prospektive Kohortenstudien zeigen einen Überlebensvorteil der Zystektomie"
     ],
     "correct": 0,
-    "tip": "Diese Salvage-Zystektomie ist integraler Bestandteil des Gesamtbehandlungskonzepts und darf nicht verzögert werden.",
-    "explanation": "Kapitel 7.8 beschreibt, dass bei etwa 25-30% der Patienten mit primär organerhaltender Therapie im Verlauf eine Salvage-Zystektomie indiziert ist."
+    "tip": "Frage dich, ob es überhaupt einen direkten randomisierten Vergleich beider Konzepte mit auswertbaren Überlebensdaten gibt.",
+    "explanation": "Laut Hintergrund zu 7.40/7.41 rekrutierte die britische SPARE-Studie nur 45 Patienten und wurde vorzeitig abgebrochen; prospektiv kontrollierte Vergleichsstudien fehlen. Retrospektive Vergleiche sind wegen Stadiendiskordanz und Selektion nicht geeignet, kausale Schlüsse zu ziehen – die Überlebensraten liegen nur im indirekten Vergleich in gleicher Größenordnung."
   },
   {
-    "question": "Welche kompletten Remissionsraten und 5-Jahres-Überlebensraten werden laut Kapitel 7.8 übereinstimmend nach TUR plus Radiochemotherapie berichtet?",
+    "question": "Ein Patient mit muskelinvasivem Blasenkarzinom wünscht ein organerhaltendes Vorgehen. Welche Empfehlung zur vorgeschalteten TUR-B gibt Kapitel 7.9 mit korrektem Empfehlungsgrad wieder?",
     "options": [
-      "Komplette Remissionsraten zwischen 60-90%, 5-Jahres-Überlebensraten zwischen 40-75%, mit Blasenerhalt bei ca. 80% der Überlebenden.",
-      "Komplette Remissionsraten unter 5%, 5-Jahres-Überleben unter 1%.",
-      "Komplette Remissionsraten von 100% bei allen Patienten ohne Ausnahme.",
-      "Es liegen laut Leitlinie keine Daten zu Remissions- oder Überlebensraten vor."
+      "Separate Probenentnahme vom Resektionsgrund soll erfolgen (A)",
+      "Photodynamische Diagnostik sollte die Resektion ergänzen (B)",
+      "Komplette Resektion soll angestrebt, Perforation vermieden werden (A)",
+      "Abklärung von CIS und Multifokalität kann ergänzend erfolgen (EK)"
     ],
-    "correct": 0,
-    "tip": "Diese Überlebensraten liegen im indirekten Vergleich in ähnlicher Größenordnung wie nach radikaler Zystektomie.",
-    "explanation": "Kapitel 7.8 berichtet komplette Remissionsraten zwischen 60% und 90% sowie 5-Jahres-Überlebensraten zwischen 40% und 75%, mit Erhalt der Blase bei ca. 80% der überlebenden Patienten."
+    "correct": 2,
+    "tip": "Die drei Empfehlungen in Kapitel 7.9 haben unterschiedliche Stärken – prüfe Inhalt und Grad gemeinsam.",
+    "explanation": "Empfehlung 7.42 (Empfehlungsgrad A): Bei Wunsch nach Organerhalt soll eine komplette TUR angestrebt, eine Perforation der Blasenwand aber vermieden werden. Die separate Probe vom Resektionsgrund ist eine Sollte-Empfehlung (7.43, B), ebenso die Abklärung von CIS/Multifokalität (7.44, EK); zur PDD vor RT/RCT liegen keine Daten vor."
   },
   {
-    "question": "Was fordert Empfehlung 7.45 (Kapitel 7.10) im Rahmen eines blasenerhaltenden Vorgehens in kurativer Intention?",
+    "question": "Welche Aussage zur Bedeutung der initialen TUR-B vor Radio(chemo)therapie wird in Kapitel 7.9 durch Studiendaten gestützt?",
     "options": [
-      "Eine simultane Radiochemotherapie soll durchgeführt werden.",
-      "Eine alleinige Radiotherapie ohne Chemotherapie soll bei allen Patienten erfolgen.",
-      "Eine alleinige Chemotherapie ohne Radiotherapie ist Standard.",
-      "Eine Radiochemotherapie ist bei blasenerhaltendem Vorgehen kontraindiziert."
+      "Bei Efstathiou war die komplette TUR-B unabhängiger Prädiktor des Gesamtüberlebens",
+      "Bei Dunst verbesserte das Blasenmapping das Ansprechen auf die RCT signifikant",
+      "Die Technik nach Maarouf verlängerte das Gesamtüberleben gegenüber Standard-TUR",
+      "Bei Rödel war der R-Status unabhängiger Prädiktor für Remission und Überleben"
     ],
-    "correct": 0,
-    "tip": "Eine alleinige Radiotherapie soll laut Leitlinie nur erfolgen, wenn eine simultane Radiochemotherapie nicht durchführbar ist.",
-    "explanation": "Empfehlung 7.45 fordert, dass im Rahmen eines blasenerhaltenden Vorgehens in kurativer Intention eine simultane Radiochemotherapie durchgeführt werden soll."
+    "correct": 3,
+    "tip": "Unterscheide zwischen einer höheren Remissionsrate und einem nachgewiesenen unabhängigen Effekt auf das Überleben.",
+    "explanation": "In der Serie von Rödel et al. (n = 415) war der R-Status unabhängiger Prädiktor für komplette Remission (p = 0,002) und Gesamtüberleben (p = 0,003); bei Dunst lag das 5-Jahres-Überleben für R0/R1/R2 bei 81/53/31 % (Hintergrund zu 7.42–7.44). Bei Efstathiou stieg nur die CR-Rate (79 % vs. 57 %); zum Effekt des Blasenmappings und zum Überleben nach Maarouf-Technik liegen keine Daten vor."
   },
   {
-    "question": "Mit welchen Substanzen soll laut Empfehlung 7.46 die Radiosensibilisierung im Rahmen der simultanen Radiochemotherapie erfolgen?",
+    "question": "Mit welcher Chemotherapie sollte laut Empfehlung 7.46 die Radiosensibilisierung im Rahmen der simultanen Radiochemotherapie erfolgen?",
     "options": [
-      "Mit einer Cisplatin-basierten Chemotherapie oder einer Kombination von 5-Fluorouracil und Mitomycin C.",
-      "Ausschließlich mit Carboplatin.",
-      "Ausschließlich mit klassischen Zytostatika wie Vincristin.",
-      "Mit Immuncheckpoint-Inhibitoren als Radiosensibilisator."
+      "Cisplatin-basiert oder 5-Fluorouracil plus Mitomycin C",
+      "Carboplatin-basiert oder Gemcitabin plus Paclitaxel",
+      "Cisplatin-basiert oder Gemcitabin als Monotherapie",
+      "Mitomycin C als Monotherapie oder Taxan-basiert"
     ],
     "correct": 0,
-    "tip": "Cisplatin gilt als das effektivste Chemotherapeutikum sowohl in der Systemtherapie als auch als Radiosensibilisator.",
-    "explanation": "Empfehlung 7.46 sieht vor, dass die Radiosensibilisierung mit einer Cisplatin-basierten Chemotherapie oder mit einer Kombination von 5-Fluorouracil und Mitomycin C erfolgen sollte."
+    "tip": "Denke an die Substanzen, die in den randomisierten Studien zur simultanen Radiochemotherapie tatsächlich geprüft wurden.",
+    "explanation": "Empfehlung 7.46 (EK): Die Radiosensibilisierung sollte Cisplatin-basiert oder mit 5-Fluorouracil plus Mitomycin C erfolgen; Empfehlung 7.45 (EK) fordert im blasenerhaltenden Konzept eine simultane RCT. Taxane und Gemcitabin nennt die Leitlinie nur als mögliche künftige Optionen."
   },
   {
-    "question": "Welches Ergebnis zeigte die britische BC2001-Studie (Kapitel 7.10) zum Vergleich von Radiochemotherapie mit Mitomycin C/5-FU gegenüber alleiniger Bestrahlung?",
+    "question": "Welche Aussage zum Bestrahlungskonzept der simultanen Radiochemotherapie entspricht dem Hintergrundtext in Kapitel 7.10?",
     "options": [
-      "Signifikant verbesserte lokoregionäre Kontrolle (HR 0,68, p=0,03), aber ein statistisch nicht signifikanter Unterschied im 5-Jahres-Gesamtüberleben (48% vs. 35%, p=0,16).",
-      "Keine Verbesserung in irgendeinem untersuchten Endpunkt.",
-      "Eine signifikante Verschlechterung des Gesamtüberlebens durch die Radiochemotherapie.",
-      "Eine vollständige Heilung aller Patienten in beiden Studienarmen."
+      "Zwei Fraktionen täglich sind der konventionellen Fraktionierung überlegen",
+      "Elektiv bestrahlte pelvine Lymphabflussgebiete erhalten 60–66 Gy",
+      "Die Bestrahlungsserie wird zur Toxizitätssenkung auf 9–10 Wochen gestreckt",
+      "Konventionell fünf Fraktionen pro Woche mit 1,8–2,0 Gy Einzeldosis"
     ],
-    "correct": 0,
-    "tip": "Trotz fehlender statistischer Signifikanz beim Gesamtüberleben gilt die verbesserte lokoregionäre Kontrolle als klinisch bedeutsamer Vorteil, da sie Voraussetzung für einen erfolgreichen Blasenerhalt ist.",
-    "explanation": "Die BC2001-Studie zeigte eine signifikant verbesserte lokoregionäre Kontrolle durch die Radiochemotherapie (HR 0,68, p=0,03), wobei der Unterschied im 5-Jahres-Gesamtüberleben (48% vs. 35%) statistisch nicht signifikant war (p=0,16)."
+    "correct": 3,
+    "tip": "Unterscheide Standardfraktionierung, Dosis für elektive Regionen und Boost sowie die angestrebte Gesamtbehandlungszeit.",
+    "explanation": "Laut Hintergrund zu 7.45/7.46 wird in Europa üblicherweise konventionell fraktioniert (fünf Fraktionen pro Woche, 1,8–2,0 Gy). Elektiv bestrahlte Regionen sollten 50 Gy nicht wesentlich überschreiten – 60–66 Gy gelten für den kleinvolumigen Boost bei Residualtumor; die Serie sollte ohne geplante Unterbrechung in 6–7 Wochen erfolgen, ein Vorteil der akzelerierten Bestrahlung ist nicht belegt."
   },
   {
-    "question": "In welchem Zeitfenster sollte laut Empfehlung 7.47 (Kapitel 7.11) die Beurteilung des Therapieansprechens nach Abschluss der Radiochemotherapie erfolgen?",
+    "question": "In der randomisierten BC2001-Studie wurde eine Radiotherapie mit simultanem 5-FU/Mitomycin C mit alleiniger Radiotherapie verglichen. Welches Ergebnis berichtet die Leitlinie?",
     "options": [
-      "Frühestens 6 und spätestens 12 Wochen nach Beendigung der RCT.",
-      "Innerhalb der ersten 24 Stunden nach RCT.",
-      "Frühestens nach 5 Jahren.",
-      "Es gibt kein definiertes Zeitfenster."
+      "Signifikant verbessertes 5-Jahres-Gesamtüberleben (48 % vs. 35 %)",
+      "Signifikant bessere lokoregionäre Kontrolle, Überleben nicht signifikant",
+      "Signifikant mehr Grad-3–4-Spättoxizitäten im Radiochemotherapie-Arm",
+      "Keine bessere lokoregionäre Kontrolle bei signifikant mehr Akuttoxizität"
     ],
-    "correct": 0,
-    "tip": "Dieses Zeitfenster soll verhindern, dass bei RCT-Versagern eine potenziell kurative Zystektomie unnötig verzögert wird.",
-    "explanation": "Empfehlung 7.47 sieht vor, dass die Beurteilung des Ansprechens frühestens 6 und spätestens 12 Wochen nach Beendigung der Radiochemotherapie stattfinden sollte."
+    "correct": 1,
+    "tip": "Ein numerisch großer Unterschied ist nicht automatisch signifikant – prüfe, welcher Endpunkt die Signifikanz erreichte.",
+    "explanation": "BC2001 (n = 360) zeigte laut Hintergrund zu 7.45/7.46 eine signifikant bessere lokoregionäre Kontrolle (HR 0,68), das 5-Jahres-Gesamtüberleben (48 % vs. 35 %) unterschied sich nicht signifikant (p = 0,16). Spättoxizitäten Grad 3–4 waren nicht signifikant verschieden; eine alleinige Radiotherapie soll nur erfolgen, wenn eine simultane RCT nicht durchführbar ist."
   },
   {
-    "question": "Was soll laut Empfehlung 7.48 im Rahmen der Beurteilung des Ansprechens nach RCT durchgeführt werden?",
+    "question": "Wie sollte laut den Empfehlungen 7.47 und 7.48 das Re-Staging nach abgeschlossener Radiochemotherapie erfolgen?",
     "options": [
-      "Eine erneute Zystoskopie mit Probenentnahme aus dem ehemaligen Resektionsgrund.",
-      "Ausschließlich eine Bildgebung ohne jede Zystoskopie.",
-      "Ausschließlich eine Urinzytologie ohne weitere Diagnostik.",
-      "Keine weitere Diagnostik, wenn der Patient beschwerdefrei ist."
+      "Nach 6–12 Wochen per Zystoskopie mit Biopsie aus dem ehemaligen Resektionsgrund",
+      "Nach 2–4 Wochen per Zystoskopie mit Biopsie aus dem ehemaligen Resektionsgrund",
+      "Nach 6–12 Wochen per Zystoskopie und Zytologie, Biopsie bei auffälliger Schleimhaut",
+      "Nach 12–16 Wochen per MRT der Blase, Biopsie bei Kontrastmittelanreicherung"
     ],
     "correct": 0,
-    "tip": "Diese Biopsie ist notwendig, da bei unauffälliger Schleimhaut ein tiefer liegendes Tumorresiduum nicht sicher ausgeschlossen werden kann.",
-    "explanation": "Empfehlung 7.48 fordert, dass im Rahmen der Beurteilung des Ansprechens eine erneute Zystoskopie mit Probenentnahme aus dem ehemaligen Resektionsgrund erfolgen soll."
+    "tip": "Ein unauffälliges Tumorbett an der Oberfläche sagt wenig über die Tiefe aus – und zu frühe Kontrollen erfassen das Ansprechen unvollständig.",
+    "explanation": "Empfehlung 7.47 (EK): Das Ansprechen sollte frühestens 6 und spätestens 12 Wochen nach Ende der RCT beurteilt werden; 7.48 (EK): Dabei soll eine Zystoskopie mit Probenentnahme aus dem ehemaligen Resektionsgrund erfolgen, da ein Residuum in der Tiefe bei unauffälliger Schleimhaut nicht sicher auszuschließen ist. Die Zytologie kann ergänzend erfolgen (7.49); 2–4 Wochen ist das Intervall zwischen initialer TUR und Beginn der RCT."
   },
   {
-    "question": "Was empfiehlt Empfehlung 7.50 (Kapitel 7.12) bei Patienten mit muskelinvasivem Urothelkarzinom ohne histologisch komplette Remission nach Radiochemotherapie?",
+    "question": "Ein 74-jähriger, operationsfähiger Patient zeigt 8 Wochen nach Abschluss der Radiochemotherapie in der Biopsie aus dem ehemaligen Resektionsgrund einen pT1-Resttumor. Welches Vorgehen entspricht Kapitel 7.12?",
     "options": [
-      "Eine Salvage-Zystektomie soll empfohlen werden.",
-      "Eine Wiederholung der identischen Radiochemotherapie.",
-      "Ausschließlich eine Verlaufskontrolle ohne weitere Intervention.",
-      "Eine alleinige systemische Chemotherapie ohne jede Operation."
+      "Erneute TUR-B mit BCG-Instillation und zystoskopischer Kontrolle nach 3 Monaten",
+      "Konsolidierende Boost-Bestrahlung bis etwa 65 Gy und erneutes Re-Staging",
+      "Salvage-Zystektomie ohne Verzögerung als Teil des kurativen Gesamtkonzepts",
+      "Systemische Chemotherapie über drei Zyklen und anschließende Re-Evaluation"
     ],
-    "correct": 0,
-    "tip": "Ohne komplettes Ansprechen (durchschnittlich bei 27% der Fälle) gilt die Salvage-Zystektomie als Goldstandard der Folgetherapie.",
-    "explanation": "Empfehlung 7.50 sieht vor, dass Patienten mit muskelinvasivem Urothelkarzinom, die histologisch keine komplette Remission nach RCT aufweisen, eine Salvage-Zystektomie empfohlen werden soll."
+    "correct": 2,
+    "tip": "Unterscheide Resttumor nach RCT von nicht-invasiven Rezidiven – für beide sieht die Leitlinie unterschiedliche Konsequenzen vor.",
+    "explanation": "Empfehlung 7.50 (EK): Ohne histologische komplette Remission des invasiven Karzinoms nach RCT soll eine Salvage-Zystektomie empfohlen werden; laut Hintergrund zu 7.40/7.41 sollte sie bei invasivem Resttumor (pT ≥ 1) sofort erfolgen und darf bei operationsfähigen Patienten nicht verzögert werden. TUR-B ± Instillation ist eine Option für nicht-muskelinvasive Befunde (pTa, pTis); die Konsolidierung bis etwa 65 Gy ist im Split-course-Konzept den Respondern vorbehalten."
   },
   {
-    "question": "Wie unterschied sich laut der Arbeit von Rödel et al. (Kapitel 7.12) das tumorspezifische 5-/10-Jahres-Überleben bei kompletter Remission nach RCT im Vergleich zur Salvage-Zystektomie bei RCT-Versagen (keine komplette Remission)?",
+    "question": "Ein 79-jähriger Patient mit cT4b-Harnblasenkarzinom und Lebermetastasen hat trotz endoskopischer Koagulation und palliativer Radiatio rezidivierende, transfusionspflichtige Blutungen. Welches Vorgehen ist laut Kapitel 7.13 möglich?",
     "options": [
-      "72%/68% bei kompletter Remission vs. nur 21%/18% nach Salvage-Zystektomie bei RCT-Versagen.",
-      "Identische Überlebensraten in beiden Gruppen (ca. 70% in beiden Fällen).",
-      "21%/18% bei kompletter Remission vs. 72%/68% bei RCT-Versagen (umgekehrtes Verhältnis).",
-      "100% in beiden Gruppen ohne jeden Unterschied."
+      "Bei M1-Stadium keine Zystektomie; Fortführung der Transfusionen",
+      "Palliative Zystektomie, in der Regel mit inkontinenter Harnableitung",
+      "Palliative Zystektomie mit orthotoper Neoblase zum Erhalt der Lebensqualität",
+      "Palliative Zystektomie, bevorzugt mit kontinenter kutaner Harnableitung"
     ],
-    "correct": 0,
-    "tip": "Dieser deutliche Unterschied erklärt, warum ein komplettes Ansprechen auf die Radiochemotherapie als zentrales Therapieziel gilt.",
-    "explanation": "Bei kompletter Remission wurden für das muskelinvasive Urothelkarzinom tumorspezifische 5-/10-Jahres-Überlebensraten von 72%/68% berichtet, während die Salvage-Zystektomie bei RCT-Versagen in der Arbeit von Rödel et al. nur 21%/18% erreichte."
+    "correct": 1,
+    "tip": "Wäge Symptomlast gegen das perioperative Risiko ab – und überlege, welche Harnableitung zu diesem Patienten passt.",
+    "explanation": "Empfehlung 7.51 (EK): Bei mangelnder Symptomkontrolle durch weniger invasive Maßnahmen kann eine palliative Zystektomie auch bei pT4b und/oder M1 durchgeführt werden. In der Regel kommen dabei inkontinente Formen (Ileumconduit, Ureterokutaneostomie) zum Einsatz, da OP-Zeit, intestinales Trauma und Komplikationsrate geringer sind als bei kontinenten Ableitungen."
   }
 ]

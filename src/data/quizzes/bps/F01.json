@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was versteht man unter der benignen Prostatahyperplasie (BPH)?",
+    "question": "Ab welchem Prostatavolumen spricht die Merkbox der Leitlinie von einer benignen Prostatavergrößerung (BPE)?",
     "options": [
-      "Eine tast- oder messbare Prostatavergrößerung (Volumen >25 cm³).",
-      "Eine mikroskopische (histologische) Gewebeveränderung der Prostata mit Vermehrung von Bindegewebs-, Muskel- und/oder Epithelzellen.",
-      "Einen unspezifischen urodynamischen Begriff für erhöhten Blasenauslasswiderstand.",
-      "Die Summe aller Symptome des unteren Harntrakts."
+      "> 25 cm³",
+      "> 30 cm³",
+      "> 40 cm³",
+      "> 50 cm³"
     ],
-    "correct": 1,
-    "tip": "BPH ist eine rein histologische Diagnose, kein klinischer oder bildgebender Befund.",
-    "explanation": "Die BPH bezeichnet die mikroskopischen (histologischen) Gewebeveränderungen in der Transitionalzone der Prostata mit Vermehrung von Bindegewebs-, Epithel- und/oder glatten Muskelzellen."
+    "correct": 0,
+    "tip": "Der Grenzwert liegt nur knapp oberhalb des Durchschnittsvolumens, das für den gesunden jungen Mann angegeben wird.",
+    "explanation": "Laut Merkbox (Tabelle 5, Kapitel 3) ist die BPE eine tast- oder messbare Prostatavergrößerung mit einem Volumen > 25 cm³; beim gesunden jungen Mann liegt das Volumen im Mittel bei 20–25 cm³. Werte von 30 oder 40 cm³ sind kein Definitionskriterium der BPE."
   },
   {
-    "question": "Was bezeichnet der Begriff BPE (Benigne Prostatavergrößerung)?",
+    "question": "Wie ist eine Blasenauslassobstruktion (BOO) nach der Terminologie der Leitlinie definiert?",
     "options": [
-      "Die histologische Diagnose der Prostatahyperplasie.",
-      "Die tast- oder messbare Prostatavergrößerung mit einem Volumen >25 cm³.",
-      "Die urodynamisch gemessene Obstruktion.",
-      "Die alleinige Symptomatik ohne Organbefund."
+      "Sonografisch erhöhte IPP bei gleichzeitig vermehrtem Restharnvolumen",
+      "Verminderter Detrusordruck bei der Miktion bei abgeschwächtem Harnstrahl",
+      "Erhöhter Detrusordruck in der Füllungsphase bei normalem Harnstrahl",
+      "Erhöhter Detrusordruck bei der Miktion bei abgeschwächtem Harnstrahl"
     ],
-    "correct": 1,
-    "tip": "BPE ist das klinische/bildgebende Korrelat der histologischen BPH.",
-    "explanation": "BPE ist die bei der digito-rektalen Untersuchung tastbare oder in der Bildgebung messbare Prostatavergrößerung (Prostatagesamtvolumen >25 cm³)."
+    "correct": 3,
+    "tip": "Der Begriff ist urodynamisch definiert – entscheidend ist das Zusammenspiel von Druck und Fluss.",
+    "explanation": "Kapitel 3: Eine BOO liegt vor, wenn bei der urodynamischen Messung ein erhöhter Detrusordruck bei der Miktion bei gleichzeitig abgeschwächtem Harnstrahl vorliegt; wird sie durch eine BPE verursacht, spricht man von BPO. Ein schwacher Strahl bei niedrigem Detrusordruck oder Sonografiebefunde wie IPP und Restharn erfüllen diese Definition nicht."
   },
   {
-    "question": "Was unterscheidet BOO von BPO?",
+    "question": "Bei einem beschwerdefreien 62-Jährigen fällt sonografisch ein Prostatavolumen von 48 cm³ auf. Welche Schlussfolgerung ist nach dem BPS-Konzept der Leitlinie korrekt?",
     "options": [
-      "BOO und BPO sind Synonyme und austauschbar.",
-      "BOO ist der unspezifische urodynamische Oberbegriff für erhöhten Blasenauslasswiderstand; BPO ist die spezielle Form der BOO, die durch eine BPE hervorgerufen wird.",
-      "BPO beschreibt nur funktionelle, BOO nur mechanische Obstruktionen.",
-      "BOO tritt ausschließlich bei Frauen auf."
+      "Eine BPO ist anzunehmen, da eine BPE in der Regel eine Obstruktion verursacht",
+      "Eine BPE liegt vor; auf eine BOO oder auf LUTS lässt sich daraus nicht schließen",
+      "Ein BPS liegt nicht vor, da hierfür alle drei Komponenten nachweisbar sein müssen",
+      "Eine BPH ist belegt, da das Volumen den Grenzwert von 25 cm³ deutlich überschreitet"
     ],
     "correct": 1,
-    "tip": "Nicht jede BOO ist eine BPO – aber jede BPO ist eine BOO.",
-    "explanation": "BOO ist definiert als erhöhter Detrusordruck bei der Miktion mit gleichzeitig abgeschwächtem Harnstrahl in der Urodynamik. Wird diese BOO durch eine BPE hervorgerufen, spricht man speziell von einer BPO."
+    "tip": "Denken Sie an das Hald-Diagramm und daran, wie eng die einzelnen Komponenten miteinander korrelieren.",
+    "explanation": "Kapitel 3: Die drei Komponenten des BPS (BPE, BOO/BPO, LUTS) korrelieren nur schwach; bei einem Patienten können eine, zwei oder alle drei nachweisbar sein, sodass aus einer Komponente nicht automatisch auf eine weitere geschlossen werden darf. Die BPH ist eine histologische Diagnose und lässt sich sonografisch nicht belegen."
   },
   {
-    "question": "Wie korrelieren die drei Komponenten BPE, BOO/BPO und LUTS beim benignen Prostatasyndrom (BPS)?",
+    "question": "Im TURP-Resektat beschreibt der Pathologe eine Vermehrung von Bindegewebs-, Muskel- und Epithelzellen. Welcher Begriff der Merkbox bezeichnet genau diesen Befund?",
     "options": [
-      "Sie korrelieren eng und sind praktisch immer gemeinsam vorhanden.",
-      "Sie korrelieren nur schwach miteinander, sodass bei einem Patienten mit BPS nur eine, zwei oder alle drei Komponenten nachweisbar sein können.",
-      "LUTS tritt immer nur in Abwesenheit von BPE auf.",
-      "BOO kann nur bei Vorliegen einer BPE auftreten."
+      "Benignes Prostatasyndrom (BPS)",
+      "Benigne Prostatavergrößerung (BPE)",
+      "Benigne Prostataobstruktion (BPO)",
+      "Benigne Prostatahyperplasie (BPH)"
     ],
-    "correct": 1,
-    "tip": "Das Hald-Diagramm veranschaulicht genau dieses variable, nur schwach korrelierte Verhältnis.",
-    "explanation": "Die drei Komponenten des BPS korrelieren nur schwach miteinander, sodass bei einem Patienten nur eine einzelne, zwei oder alle drei Komponenten nachweisbar sein können – aus dem Vorliegen einer Komponente kann nicht automatisch auf eine andere geschlossen werden."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen dem, was man tasten oder messen kann, und dem, was nur unter dem Mikroskop sichtbar wird.",
+    "explanation": "Laut Merkbox (Tabelle 5) bezeichnet die BPH die mikroskopische (histologische) Gewebeveränderung; die BPE ist die tast- oder messbare Vergrößerung, das BPS das klinische Krankheitsbild. Die Gleichsetzung von BPH und BPS ist ein klassischer Prüfungsfehler."
   },
   {
-    "question": "Welcher Begriff wird anstelle des früher verwendeten \"Prostatismus\" favorisiert, um Symptome des unteren Harntrakts zu beschreiben – und warum?",
+    "question": "In welcher Zone der Prostata und ab welchem Lebensabschnitt beginnt laut Leitlinie die als BPH bezeichnete Zellvermehrung?",
     "options": [
-      "\"BPH\", da es die genaueste Diagnose darstellt.",
-      "\"LUTS\", da die Symptome unspezifisch sind und auch durch andere Erkrankungen als BPE/BPO hervorgerufen werden können.",
-      "\"BPO\", da es die urodynamische Diagnose abbildet.",
-      "\"BPS\", da es ausschließlich die Prostata betrifft."
+      "Periphere Zone, ab der 4. Lebensdekade",
+      "Transitionalzone, ab der 6. Lebensdekade",
+      "Periphere Zone, ab der 6. Lebensdekade",
+      "Transitionalzone, ab der 4. Lebensdekade"
     ],
-    "correct": 1,
-    "tip": "LUTS können z.B. auch von Blase, Nervensystem, Beckenboden oder Darm ausgehen.",
-    "explanation": "Da LUTS unspezifisch sind und auch durch viele andere Krankheiten außer BPE/BPO hervorgerufen werden können, wird der unspezifische Begriff \"LUTS\" favorisiert und eine organspezifische Zuordnung wie beim Begriff \"Prostatismus\" vermieden."
+    "correct": 3,
+    "tip": "Die Ursprungszone liegt unter dem Urothel der proximalen prostatischen Harnröhre – und die Veränderungen beginnen früher, als viele annehmen.",
+    "explanation": "Kapitel 3: In der Transitionalzone, die beim Gesunden nur ca. 5 % der glandulären Prostata ausmacht, kommt es ab der 4. Lebensdekade zur Hyperplasie von Bindegewebs-, Epithel- und/oder glatten Muskelzellen. Die periphere Zone ist nicht der Ursprungsort der BPH."
   },
   {
-    "question": "Worüber sollten Männer laut Empfehlung 4.1 (Empfehlungsgrad B) bezüglich des benignen Prostatasyndroms informiert werden?",
+    "question": "Welche Veränderungen der prostatischen Harnröhre beschreibt die Leitlinie bei Männern mit BPE?",
     "options": [
-      "Nur über medikamentöse Therapieoptionen.",
-      "Über den Zusammenhang von Lebensstil und BPS, insbesondere das metabolische Syndrom (Gewichtsreduktion, Diät, Sport) sowie die Reduktion von Kaffee/Tee bei erhöhter Miktionsfrequenz und Harndrangsymptomatik.",
-      "Diese Information wird in der Leitlinie explizit nicht empfohlen.",
-      "Nur über operative Verfahren."
+      "Proximale Urethra verkürzt (< 1 cm), Winkel steiler (> 35°)",
+      "Proximale Urethra elongiert (> 1 cm), Winkel steiler (> 35°)",
+      "Proximale Urethra elongiert (> 1 cm), Winkel flacher (< 35°)",
+      "Proximale Urethra verkürzt (< 1 cm), Winkel flacher (< 35°)"
     ],
     "correct": 1,
-    "tip": "Lebensstilmodifikation ist bereits Teil der Basisberatung, nicht erst der Therapieeskalation.",
-    "explanation": "Männer sollten über den Zusammenhang von Lebensstil und BPS sowie Modifikationsmöglichkeiten informiert werden – vor allem zum metabolischen Syndrom und zur Reduktion von Kaffee/Tee bei Harndrang (Empfehlungsgrad B)."
+    "tip": "Gehen Sie von der Anatomie des Gesunden aus: ca. 2 cm Gesamtlänge, Colliculus etwa in der Mitte, proximaler Abschnitt um ca. 35° nach ventral angehoben.",
+    "explanation": "Kapitel 3: Bei BPE nehmen Transitionalzonenanteil (> 5 %) und Gesamtvolumen (> 25 cm³) zu, die proximale prostatische Urethra wird auf > 1 cm elongiert und der Winkel zwischen proximaler und distaler prostatischer Urethra wird steiler (> 35°)."
   },
   {
-    "question": "Welcher Risikofaktor gilt laut mehreren systematischen Übersichtsarbeiten – neben Alter und einem funktionierenden Testosteronhaushalt um die Pubertät – derzeit als der am besten evaluierte Risikofaktor für BPE/LUTS/BPS?",
+    "question": "Welche Veränderung der Harnblasenwand infolge einer BOO/BPO beschreibt die Leitlinie?",
     "options": [
-      "Nikotinabusus.",
-      "Das metabolische Syndrom.",
-      "Ein moderater Alkoholkonsum.",
-      "Nichtsteroidale Antiphlogistika."
+      "Zunahme der Blasencompliance durch Detrusorhypertrophie",
+      "Zunahme von α1-Adrenozeptoren in der Blasenwand",
+      "Abnahme des Bindegewebes zwischen glatten Muskelzellen",
+      "Zunahme der autonomen Innervation des Detrusors"
     ],
     "correct": 1,
-    "tip": "Mehrere systematische Übersichtsarbeiten mit tausenden Patienten stützen diesen Zusammenhang, trotz heterogener Studienlage.",
-    "explanation": "Neben Alter und Testosteronhaushalt ist das metabolische Syndrom der am besten evaluierte Risikofaktor für BPE/LUTS und BPS, wobei eine relevante Heterogenität zwischen den Studien besteht."
+    "tip": "Überlegen Sie, wie sich Muskelmasse, Bindegewebsanteil, Dehnbarkeit und Nervenversorgung unter chronisch erhöhtem Auslasswiderstand verändern.",
+    "explanation": "Kapitel 3: Bei BOO/BPO kommt es u. a. zur Wandverdickung durch Detrusorhypertrophie, zur Zunahme von Bindegewebe zwischen den glatten Muskelzellen, zur Abnahme der Compliance, zur Zunahme von α1-Adrenozeptoren und zu partieller Denervierung – nicht zu vermehrter Innervation."
   },
   {
-    "question": "Wie verläuft das benigne Prostatasyndrom typischerweise im Gruppenmittel?",
+    "question": "Welche Aussage zur Definition von LUTS in der Leitlinie trifft zu?",
     "options": [
-      "Meist spontan rückläufig ohne jedes Progressionsrisiko.",
-      "Chronisch progredient, erkennbar an Zunahme der LUTS, Abnahme von Qmax und Zunahme des Restharns oder dem Auftreten von Komplikationen.",
-      "Immer akut und innerhalb weniger Wochen selbstlimitierend.",
-      "Nur bei Männern über 80 Jahren überhaupt progredient."
+      "LUTS umfassen auch von Angehörigen oder Pflegenden beobachtete Symptome",
+      "LUTS setzen eine urodynamisch nachgewiesene Obstruktion voraus",
+      "LUTS bezeichnen prostataspezifische Symptome im Sinne des Prostatismus",
+      "LUTS werden in irritative, obstruktive und neurogene Symptome unterteilt"
     ],
-    "correct": 1,
-    "tip": "Im Einzelfall ist die Entwicklung nicht sicher vorhersagbar, im Gruppenmittel aber klar progredient.",
-    "explanation": "Das BPS verläuft im Gruppenmittel meist chronisch progredient, sichtbar an zunehmenden LUTS, abnehmendem Qmax, zunehmendem Restharn oder Komplikationen wie Harnverhalt oder rezidivierenden Harnwegsinfektionen."
+    "correct": 0,
+    "tip": "Der Begriff wurde bewusst unspezifisch und ohne Organzuordnung gewählt.",
+    "explanation": "Kapitel 3: LUTS sind subjektive Zeichen, die vom Patienten wahrgenommen oder von Angehörigen bzw. Pflegenden beobachtet werden; sie werden in Blasenspeicher-, Blasenentleerungs- und Postmiktionssymptome unterteilt. Der organspezifische Begriff „Prostatismus“ wird vermieden, weil LUTS auch durch Erkrankungen von Blase, Nervensystem, Beckenboden, distalen Harnleitern oder Darm entstehen können."
   },
   {
-    "question": "An wen richtet sich die S2e-Leitlinie BPS laut ihrer Zielsetzung in erster Linie?",
+    "question": "Welche Aussage zum Begriff „Benignes Prostatasyndrom“ trifft laut Merkbox zu?",
     "options": [
-      "Ausschließlich an Pflegepersonal.",
-      "An Urologen in Praxis und Klinik, zur Information auch für Allgemeinmediziner, Internisten und Hausärzte.",
-      "Nur an die Patienten selbst.",
-      "Ausschließlich an Radiologen."
+      "Er ist das deutsche Synonym für die histologisch gesicherte Prostatahyperplasie",
+      "Er bezeichnet die urodynamisch gesicherte Obstruktion durch eine große Prostata",
+      "Er wird im deutschen Sprachraum genutzt; englisch etwa „LUTS suggestive of BPH“",
+      "Er entspricht dem international gebräuchlichen „benign prostatic enlargement“"
     ],
-    "correct": 1,
-    "tip": "Die Leitlinie hat damit einen klaren fachärztlichen Fokus mit Informationsfunktion für die Primärversorgung.",
-    "explanation": "Die Leitlinie richtet sich an Urologen in Praxis und Klinik und dient zur Information für Allgemeinmedizinische Ärzte, Internisten und Hausärzte."
+    "correct": 2,
+    "tip": "Fragen Sie sich, ob der Begriff eine Histologie, einen Messbefund oder ein klinisches Krankheitsbild beschreibt.",
+    "explanation": "Laut Merkbox (Tabelle 5) ist BPS ein nur im deutschsprachigen Raum verwendeter Begriff für das Krankheitsbild, das angloamerikanisch z. B. als „clinical BPH“ oder „LUTS suggestive of BPH“ bezeichnet wird. Die urodynamisch gesicherte Obstruktion durch eine BPE heißt BPO, die histologische Veränderung BPH."
   },
   {
-    "question": "In wie viele anatomische Zonen wird die Prostata histologisch unterteilt, und in welcher Zone entsteht die BPH?",
+    "question": "Welche Angabe zur aktuellen DGU-Leitlinie zum benignen Prostatasyndrom trifft zu?",
     "options": [
-      "Zwei Zonen; die BPH entsteht in der peripheren Zone.",
-      "Vier Zonen (Transitionalzone, anteriore, zentrale, periphere Zone); die BPH entsteht in der Transitionalzone.",
-      "Drei Zonen; die BPH entsteht in der zentralen Zone.",
-      "Die Prostata ist histologisch nicht zonal gegliedert."
+      "Sie wurde als S3-Leitlinie unter Federführung von AWMF-Methodikern erstellt",
+      "Sie richtet sich primär an Hausärzte, Internisten und Allgemeinmediziner",
+      "Sie ersetzt die Diagnostikleitlinie von 2009 und die Therapieleitlinie von 2016",
+      "Sie ist nach der Überarbeitung 2023 bis zur nächsten Aktualisierung 2026 gültig"
     ],
-    "correct": 1,
-    "tip": "Die Transitionalzone macht beim Gesunden nur etwa 5% des glandulären Prostatavolumens aus, wächst bei BPH aber überproportional.",
-    "explanation": "Die Prostata wird histologisch in vier Zonen gegliedert: Transitionalzone, anteriore, zentrale und periphere Zone. Ab der 4. Lebensdekade kommt es in der Transitionalzone zur Hyperplasie, die primär zur Volumenzunahme dieser Zone und sekundär der gesamten Prostata führt."
+    "correct": 2,
+    "tip": "Leitlinien werden üblicherweise für einen Zeitraum von fünf Jahren angelegt – achten Sie auch auf Entwicklungsstufe und Zielgruppe.",
+    "explanation": "Kapitel 1 und 2: Die S2e-Leitlinie wurde federführend vom Arbeitskreis BPS der DGU erstellt (methodisch begleitet durch eine AWMF-Methodikerin), richtet sich an Urologen in Praxis und Klinik und gilt nach der Überarbeitung im Februar 2023 bis Februar 2028. Laut Vorwort ersetzt sie die Diagnostikleitlinie von 2009 und die Therapieleitlinie von 2016."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welchen Effekt haben Alpha-Blocker laut Empfehlung 10.5 (Empfehlungsgrad 0) bei längerfristiger Anwendung (2 Jahre) auf Operationsrisiko und Harnverhalt?",
+    "question": "Welche Aussage zu α-Blockern als Monotherapie entspricht der Empfehlung 10.5 der Leitlinie?",
     "options": [
-      "Sie reduzieren bei langfristiger Gabe beides deutlich.",
-      "Sie reduzieren bei längerfristiger Anwendung weder das Operationsrisiko noch das Auftreten von Harnverhalten.",
-      "Sie erhöhen das Operationsrisiko signifikant.",
-      "Diese Frage wurde in der Leitlinie nie untersucht."
+      "Sie senken bei Langzeitanwendung über zwei Jahre das Risiko akuter Harnverhalte",
+      "Sie verkleinern die Prostata nach 6–12 Monaten Therapie um etwa 18–28 Prozent",
+      "Sie sollen bei jedem symptomatischen BPS als Erstlinientherapie erfolgen (Grad A)",
+      "Sie lindern Symptome, senken bei ≥ 2 Jahren aber weder OP- noch Harnverhaltsrisiko"
     ],
-    "correct": 1,
-    "tip": "Alpha-Blocker wirken rasch auf Symptome, aber kaum krankheitsmodifizierend auf die Progression.",
-    "explanation": "Alpha-Blocker können zur Symptomreduktion eingesetzt werden, reduzieren aber bei längerfristiger Anwendung (2 Jahre) weder das Operationsrisiko noch das Auftreten von Harnverhalten (Empfehlungsgrad 0)."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen Symptomlinderung und echter Krankheitsmodifikation mit Einfluss auf das Prostatavolumen.",
+    "explanation": "Empfehlung 10.5 (Grad 0, Evidenzlevel 1++): α-Blocker können zur Symptomreduktion und zur Abschwächung der (teils über Symptomverschlechterung definierten) Progression eingesetzt werden, reduzieren bei längerfristiger Anwendung (≥ 2 Jahre) aber weder das Operationsrisiko noch Harnverhalte. Das Prostatavolumen verändern sie nicht – die Volumenreduktion um 18–28 % gilt für 5-ARI."
   },
   {
-    "question": "Welche okuläre Komplikation ist insbesondere unter Tamsulosin beschrieben, und was folgt daraus für die Praxis?",
+    "question": "Ein 66-Jähriger beginnt eine Therapie mit Tamsulosin 0,4 mg. Welche Erwartung zum Wirkverlauf entspricht der Leitlinie?",
     "options": [
-      "Grüner Star als direkte Nebenwirkung; Tamsulosin ist bei allen Augenoperationen absolut kontraindiziert.",
-      "Das intraoperative Floppy-Iris-Syndrom (IFIS) bei Katarakt-/Glaukomoperationen; eine Tamsulosin-Behandlung sollte bei geplanter Katarakt- oder Glaukomoperation nicht begonnen werden.",
-      "Eine Netzhautablösung, die ein sofortiges dauerhaftes Absetzen erfordert.",
-      "Es sind keine okulären Nebenwirkungen von Alpha-Blockern bekannt."
+      "Wirkbeginn nach ca. drei Monaten, Wirkmaximum nach 6–12 Monaten",
+      "Wirkbeginn nach Stunden bis Tagen, Anstieg des Qmax um rund 10 ml/s",
+      "Wirkbeginn nach Stunden bis Tagen, Wirkmaximum erst nach etwa sechs Monaten",
+      "Wirkbeginn nach Stunden bis Tagen, nahezu maximale Wirkung nach 2–4 Wochen"
     ],
-    "correct": 1,
-    "tip": "Auch ein rechtzeitiges Absetzen vor der OP kann ein IFIS nicht vollständig verhindern.",
-    "explanation": "Unter Alpha-Blockern, insbesondere Tamsulosin, kann es zum intraoperativen Floppy-Iris-Syndrom (IFIS) bei Katarakt-/Glaukomoperationen kommen; eine Tamsulosin-Behandlung sollte daher bei geplanter OP nicht begonnen werden."
+    "correct": 3,
+    "tip": "Bei α-Blockern ohne notwendige Dosistitration setzt die Wirkung besonders rasch ein.",
+    "explanation": "Kapitel 10.1.2 (Hintergrund zu 10.5): Der Wirkeintritt wird innerhalb weniger Stunden bis Tage beobachtet, eine nahezu maximale Wirkung ist nach zwei bis vier Wochen zu erwarten und scheint über Jahre erhalten zu bleiben. Qmax steigt in RCTs mit Run-in-Phase um ca. 2 ml/s, in Praxisstudien um 4–5 ml/s; ein über Monate verzögerter Wirkbeginn ist typisch für 5-ARI."
   },
   {
-    "question": "Ab welchem Prostatavolumen zeigen 5-Alpha-Reduktase-Inhibitoren (5-ARI) laut Untersuchungen zu Finasterid überhaupt eine Wirksamkeit gegenüber Placebo?",
+    "question": "Bei einem 72-Jährigen mit LUTS ist in drei Monaten eine Kataraktoperation geplant. Was empfiehlt die Leitlinie hinsichtlich Tamsulosin?",
     "options": [
-      "Ab 10 cm³.",
-      "Ab mindestens 40 cm³.",
-      "5-ARI wirken unabhängig vom Prostatavolumen immer gleich gut.",
-      "Ab 200 cm³."
-    ],
-    "correct": 1,
-    "tip": "Dies unterscheidet die 5-ARI grundlegend von den Alpha-Blockern, deren Wirkung volumenunabhängig ist.",
-    "explanation": "Untersuchungen zu Finasterid zeigten, dass eine Wirksamkeit gegenüber Placebo erst bei einem Prostatavolumen von mindestens 40 cm³ nachweisbar ist."
-  },
-  {
-    "question": "Wie verändern sich Prostatagröße und PSA-Wert typischerweise unter 5-ARI-Therapie nach 6-12 Monaten?",
-    "options": [
-      "Prostatagröße und PSA bleiben vollständig unverändert.",
-      "Größenreduktion um 18-28% sowie eine Halbierung des Serum-PSA-Werts.",
-      "Die Prostata wächst zunächst weiter, der PSA-Wert sinkt dabei nicht.",
-      "Der PSA-Wert verdoppelt sich regelhaft unter 5-ARI."
-    ],
-    "correct": 1,
-    "tip": "Dieser PSA-Effekt muss bei der Interpretation von PSA-Werten unter 5-ARI-Therapie stets berücksichtigt werden.",
-    "explanation": "5-ARI induzieren eine Größenreduktion der Prostata um 18-28% sowie eine Halbierung der Serum-PSA-Werte nach einer Behandlungsdauer von 6-12 Monaten."
-  },
-  {
-    "question": "Bei welchen Patienten sollten Antimuskarinika laut Empfehlung 10.8 (Empfehlungsgrad B) NICHT zur Anwendung kommen?",
-    "options": [
-      "Bei Männern mit benigner Prostataobstruktion (BPO).",
-      "Bei Männern mit ausschließlich psychogenen Beschwerden.",
-      "Bei Frauen mit überaktiver Blase.",
-      "Antimuskarinika haben beim BPS keine Kontraindikation."
+      "Eine Tamsulosin-Therapie sollte vor der geplanten Operation nicht begonnen werden",
+      "Tamsulosin kann begonnen werden, wenn es zwei Wochen vor der Operation pausiert wird",
+      "Tamsulosin ist unbedenklich, da ein IFIS nur unter nicht-selektiven α-Blockern auftritt",
+      "Tamsulosin sollte durch Doxazosin ersetzt werden, unter dem kein IFIS auftreten kann"
     ],
     "correct": 0,
-    "tip": "Eine zusätzliche Hemmung der Detrusorkontraktilität ist bei relevanter Obstruktion riskant (z.B. Harnverhalt).",
-    "explanation": "Bei Männern mit benigner Prostataobstruktion (BPO) sollten Antimuskarinika nicht zur Anwendung kommen (Empfehlungsgrad B)."
+    "tip": "Das intraoperative Floppy-Iris-Syndrom ist unter Tamsulosin offenbar häufiger als unter anderen α-Blockern.",
+    "explanation": "Kapitel 10.1.2: Während und nach α-Blocker-Therapie kann ein intraoperatives Floppy-Iris-Syndrom (IFIS) auftreten, das auch durch längeres Absetzen von Tamsulosin nicht gänzlich vermeidbar ist; eine Tamsulosin-Behandlung sollte daher bei geplanter Katarakt- oder Glaukomoperation nicht begonnen werden. IFIS ist unter Tamsulosin häufiger, kann aber grundsätzlich unter allen α-Blockern auftreten."
   },
   {
-    "question": "Was zeigten Netzwerk-Metaanalysen zur Wirksamkeit von Antimuskarinika (z.B. Solifenacin, Tolterodin) als Monotherapie im Vergleich zu Placebo bezüglich des IPSS-Gesamtscores?",
+    "question": "Unter welchen Voraussetzungen können 5α-Reduktase-Inhibitoren laut Empfehlung 10.6 als Monotherapie eingesetzt werden?",
     "options": [
-      "Eine deutliche, signifikante Verbesserung des IPSS gegenüber Placebo.",
-      "Keine Verbesserung des IPSS-Gesamtscores gegenüber Placebo; nur bestimmte Kombinationstherapien zeigten einen signifikanten Effekt auf Speichersymptome.",
-      "Eine signifikante Verschlechterung des IPSS unter Antimuskarinika.",
-      "Antimuskarinika wurden als Monotherapie nie mit Placebo verglichen."
+      "Prostatavolumen ≥ 30 cm³, Langzeitbehandlung ≥ 6 Monate",
+      "Prostatavolumen ≥ 40 cm³, Langzeitbehandlung ≥ 6 Monate",
+      "Prostatavolumen ≥ 30 cm³, Langzeitbehandlung ≥ 3 Monate",
+      "Prostatavolumen ≥ 40 cm³, Langzeitbehandlung ≥ 3 Monate"
     ],
     "correct": 1,
-    "tip": "Nur Kombinationen (z.B. Alpha-Blocker + Antimuskarinikum) zeigten einen signifikanten Effekt auf Speichersymptome.",
-    "explanation": "Übereinstimmende Netzwerk-Metaanalysen (Yuan et al. 2015, Wang et al. 2014) zeigten, dass Antimuskarinika als Monotherapie keine Verbesserung des IPSS gegenüber Placebo bewirken."
+    "tip": "In Finasterid-Studien zeigte sich ein Vorteil gegenüber Placebo erst ab einer bestimmten Drüsengröße und nach mehreren Monaten.",
+    "explanation": "Empfehlung 10.6 (Grad 0, Evidenzlevel 1++): 5-ARI können als Monotherapie zur Symptomreduktion in der Langzeitbehandlung (≥ 6 Monate) bei Männern mit vergrößerter Prostata (≥ 40 cm³) eingesetzt werden und schwächen Progressionsendpunkte wie akuten Harnverhalt oder Wechsel zur Operation ab. Für Finasterid fand sich ein Vorteil gegenüber Placebo erst ab 40 cm³."
   },
   {
-    "question": "Welcher PDE5-Inhibitor ist der einzige, der in Europa speziell zur Behandlung des benignen Prostatasyndroms zugelassen ist?",
+    "question": "Welche Effekte auf Prostatavolumen und Serum-PSA beschreibt die Leitlinie nach 6–12 Monaten Therapie mit einem 5-ARI?",
     "options": [
-      "Sildenafil.",
-      "Tadalafil.",
-      "Vardenafil.",
-      "Keiner der PDE5-Inhibitoren ist für BPS zugelassen."
+      "Volumenabnahme um 18–28 %, PSA weitgehend unverändert",
+      "Volumenabnahme um 40–50 %, PSA etwa auf die Hälfte gesenkt",
+      "Volumenabnahme um 18–28 %, PSA etwa auf die Hälfte gesenkt",
+      "Volumenabnahme um 40–50 %, PSA weitgehend unverändert"
     ],
-    "correct": 1,
-    "tip": "Die BPS-Zulassung von Tadalafil erfolgte 2012, zwei Jahre nach der Zulassung zur pulmonal-arteriellen Hypertonie.",
-    "explanation": "Tadalafil ist der einzige PDE5-Inhibitor, der zur Behandlung des benignen Prostatasyndroms zugelassen ist (Zulassung 2012)."
+    "correct": 2,
+    "tip": "5-ARI greifen in die Umwandlung von Testosteron in Dihydrotestosteron ein, einen wichtigen Regulator des Prostatawachstums.",
+    "explanation": "Kapitel 10.1.3 (Hintergrund zu 10.6): 5-ARI führen zu einer Größenreduktion der Prostata um 18–28 % sowie nach 6–12 Monaten zu einer Halbierung der Serum-PSA-Werte. α-Blocker und andere BPS-Medikamente verändern Prostatavolumen und PSA dagegen nicht."
   },
   {
-    "question": "Wobei zeigen PDE5-Inhibitoren laut Statement 10.10 einen Vorteil gegenüber Alpha-Blockern, gemessen am Internationalen Index der erektilen Funktion (IIEF)?",
+    "question": "Welche Aussage zum Vergleich von Dutasterid und Finasterid trifft laut Leitlinie zu?",
     "options": [
-      "Bei der Reduktion des Restharnvolumens.",
-      "Bei einer koinzidenten erektilen Dysfunktion.",
-      "Bei der Vermeidung von Ejakulationsstörungen.",
-      "Bei der Reduktion des Prostatavolumens."
+      "Dutasterid (0,5 mg) und Finasterid (5 mg) gelten als klinisch gleichwertig",
+      "Dutasterid ist durch die Hemmung beider Isoformen klinisch deutlich überlegen",
+      "Finasterid hemmt beide Isoformen, Dutasterid selektiv nur den Typ 2",
+      "Dutasterid senkt im Gegensatz zu Finasterid Harnverhalts- und OP-Risiko"
     ],
-    "correct": 1,
-    "tip": "Bei der Symptomreduktion selbst (IPSS) sind PDE5-Hemmer und Alpha-Blocker dagegen vergleichbar wirksam.",
-    "explanation": "PDE5-Inhibitoren als Monotherapie zeigen gegenüber Alpha-Blockern einen Vorteil bei einer erektilen Dysfunktion koinzident mit einem BPS, gemessen am IIEF (Statement 10.10)."
+    "correct": 0,
+    "tip": "Die Metaanalysen direkter Vergleichsstudien wurden von einer einzigen, sehr großen Studie dominiert.",
+    "explanation": "Kapitel 10.1.3: Dutasterid hemmt beide Isoformen der 5α-Reduktase, Finasterid selektiv Typ 2; direkte Vergleiche mit zusammen über 2000 Patienten zeigten aber vergleichbare Effekte auf Symptome, Prostatagröße, Qmax, Nebenwirkungen und Progressionsendpunkte. Dutasterid 0,5 mg und Finasterid 5 mg sind daher als klinisch gleichwertig zu beurteilen."
   },
   {
-    "question": "Kann aktuell eine Empfehlung für den Einsatz von Beta-3-Agonisten (z.B. Mirabegron) als Monotherapie beim benignen Prostatasyndrom ausgesprochen werden?",
+    "question": "Welche Aussage zum sogenannten Post-Finasterid-Syndrom trifft laut Leitlinie zu?",
     "options": [
-      "Ja, mit Empfehlungsgrad A.",
-      "Nein – es liegen keine Wirksamkeitsstudien in einer klar definierten BPS-Population vor, sodass keine Empfehlung ausgesprochen werden kann (Statement 10.11, EK).",
-      "Ja, da Mirabegron in allen Studien den IPSS deutlich verbesserte.",
-      "Beta-3-Agonisten sind beim BPS explizit kontraindiziert."
+      "Es tritt unter Finasterid auf, unter Dutasterid dagegen nicht",
+      "Es umfasst Störungen der Sexualfunktion, nicht aber Psyche oder Kognition",
+      "Es wird unter Dutasterid und Finasterid ähnlich häufig beobachtet",
+      "In den USA erhielt die 5-mg-Dosis (BPS) einen Warnhinweis zu Suizidalität"
     ],
-    "correct": 1,
-    "tip": "Mirabegron ist in Deutschland bislang nur für die Indikation überaktive Blase zugelassen.",
-    "explanation": "Da Wirksamkeitsstudien in einer klar definierten BPS-Population nicht vorliegen, kann laut Statement 10.11 (EK) keine Empfehlung für Beta-3-Agonisten ausgesprochen werden."
+    "correct": 2,
+    "tip": "Achten Sie bei Warnhinweisen darauf, auf welche Indikation und Dosierung sie sich beziehen.",
+    "explanation": "Kapitel 10.1.3 (Nebenwirkungen): Das „Post-Finasterid-Syndrom“ sollte korrekterweise „Post-5-ARI-Syndrom“ heißen, da es unter Dutasterid und Finasterid ähnlich häufig beobachtet wird; es umfasst Änderungen von Sexualfunktion, Psyche und Kognition. Der US-Warnhinweis zu suizidalen Gedanken (2022) betrifft die 1-mg-Dosis (Alopezie), nicht die 5-mg-Dosis zur BPS-Behandlung."
   },
   {
-    "question": "Was zeigte die einzige große Placebo-kontrollierte Doppelblindstudie, in der Männern mit unzureichender Symptomkontrolle unter Tamsulosin zusätzlich Mirabegron oder Placebo gegeben wurde?",
+    "question": "Ein 68-Jähriger mit IPSS 18 und vorherrschenden Speichersymptomen hat 20 ml Restharn und keinen Hinweis auf eine BPO. Was sieht die Leitlinie für die Monotherapie vor?",
     "options": [
-      "Eine deutliche IPSS-Verbesserung unter zusätzlichem Mirabegron.",
-      "Eine Verbesserung von Miktionsfrequenz und Drangepisoden unter Mirabegron, aber keine Verbesserung des IPSS – die BPS-Komponente der LUTS wird durch Mirabegron nicht wesentlich beeinflusst.",
-      "Mirabegron verschlechterte die Symptomatik signifikant.",
-      "Eine solche Studie wurde nie durchgeführt."
+      "Antimuskarinika sollen wegen des Harnverhaltsrisikos nicht eingesetzt werden (Grad A)",
+      "Ein β3-Agonist sollte als Monotherapie gegenüber Antimuskarinika bevorzugt werden (Grad B)",
+      "Ein PDE5-Inhibitor ist bei vorherrschenden Speichersymptomen Mittel der Wahl (Grad A)",
+      "Ein Antimuskarinikum kann bei vorherrschenden Speichersymptomen erwogen werden (Grad 0)"
+    ],
+    "correct": 3,
+    "tip": "Der IPSS-Gesamtscore besserte sich unter Antimuskarinika in Netzwerk-Metaanalysen nicht signifikant gegenüber Placebo.",
+    "explanation": "Empfehlung 10.7 (Grad 0, Evidenzlevel 1++): Antimuskarinika können bei Männern mit mittelschweren bis schweren LUTS und vorherrschenden Speichersymptomen in Betracht gezogen werden; bei benigner Prostataobstruktion sollten sie laut 10.8 (Grad B) nicht zur Anwendung kommen. Für β3-Agonisten ist mangels BPS-Studien keine Empfehlung möglich (10.11)."
+  },
+  {
+    "question": "Ein 62-Jähriger mit moderaten LUTS und begleitender erektiler Dysfunktion fragt nach einer medikamentösen Option. Welche Aussage zu PDE5-Inhibitoren trifft laut Leitlinie zu?",
+    "options": [
+      "Sie sind α-Blockern bei LUTS vergleichbar und bei begleitender ED überlegen",
+      "Sie senken die BOO deutlich und hemmen dadurch die Progression des BPS",
+      "Sildenafil und Vardenafil sind wie Tadalafil zur Behandlung des BPS zugelassen",
+      "Sie bessern LUTS nur bei Männern, die zugleich eine erektile Dysfunktion haben"
+    ],
+    "correct": 0,
+    "tip": "Der Wirkmechanismus beruht auf einer cGMP-vermittelten Relaxation glatter Muskulatur in Gefäßen, Prostata und Blase.",
+    "explanation": "Statements 10.9 und 10.10 (Evidenzlevel 1++): PDE5-Inhibitoren sind bei vergleichbarer Effektivität wie α-Blocker zur Reduktion von BPS-Symptomen indiziert und zeigen gegenüber α-Blockern einen Vorteil bei koinzidenter erektiler Dysfunktion (IIEF). Tadalafil ist der einzige für das BPS zugelassene PDE5-Inhibitor; eine Beeinflussung der BOO ist nicht nachweisbar oder marginal."
+  },
+  {
+    "question": "Welche Aussage zu β3-Adrenozeptor-Agonisten (z. B. Mirabegron) als Monotherapie beim BPS trifft laut Leitlinie zu?",
+    "options": [
+      "Sie können bei vorherrschenden Speichersymptomen empfohlen werden (Grad 0)",
+      "Eine Empfehlung ist mangels Studien in klar definierter BPS-Population nicht möglich",
+      "Sie senken in Druck-Fluss-Messungen die BOO signifikant gegenüber Placebo",
+      "Sie sollten wegen ihrer relaxierenden Wirkung auf die Prostata bevorzugt werden (Grad B)"
     ],
     "correct": 1,
-    "tip": "Dies legt nahe, dass Mirabegron eher die begleitende Speichersymptomatik als die eigentliche BPS-Komponente der LUTS beeinflusst.",
-    "explanation": "Unter zusätzlichem Mirabegron verbesserten sich relativ zu Placebo Miktionsfrequenz und Drangepisoden, nicht aber der IPSS – Mirabegron beeinflusst die BPS-Komponente männlicher LUTS nicht wesentlich."
+    "tip": "Die in vitro beobachtete Relaxation von Prostatagewebe erwies sich als nicht β3-vermittelt.",
+    "explanation": "Statement 10.11 (EK): Für β3-Agonisten kann keine Empfehlung ausgesprochen werden, da Wirksamkeitsstudien in einer klar definierten BPS-Population fehlen; Mirabegron ist der einzige in Deutschland verfügbare Vertreter. In der einzigen RCT mit Druck-Fluss-Messungen veränderte Mirabegron die BOO gegenüber Placebo nicht."
   }
 ]

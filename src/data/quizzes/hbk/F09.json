@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Empfehlung 6.35 (Kapitel 6.9, Empfehlungsgrad A) zum Einsatz von Gemcitabin bei erstdiagnostiziertem High-risk-NMIBC?",
+    "question": "Ein 62-jähriger Patient hat kurz nach einer BCG-Induktion ein Frührezidiv als pT1 High Grade mit Carcinoma in situ. Er möchte seine Blase behalten. Was empfiehlt die Leitlinie?",
     "options": [
-      "Gemcitabin soll nicht als primäre adjuvante intravesikale Instillationsmaßnahme eingesetzt werden.",
-      "Gemcitabin soll als bevorzugte Erstlinienbehandlung eingesetzt werden.",
-      "Gemcitabin ist gleichwertig zu BCG als Erstlinienstandard zugelassen.",
-      "Gemcitabin soll ausschließlich bei Low-risk-Tumoren eingesetzt werden."
+      "Zweiter BCG-Induktionszyklus, Zystektomie erst bei erneutem Rezidiv",
+      "Mitomycin-Instillation unter Hyperthermie als gleichwertige Alternative",
+      "Pembrolizumab-Monotherapie als in Europa zugelassene Zweitlinie",
+      "Radikale Zystektomie nach ausführlicher Aufklärung über die Optionen"
     ],
-    "correct": 0,
-    "tip": "Für eine andere klinische Situation (BCG-Versagen) gibt es dagegen eine offene Empfehlung zum Gemcitabin-Einsatz.",
-    "explanation": "Empfehlung 6.35 legt mit Empfehlungsgrad A fest, dass Gemcitabin bei Patienten mit erstdiagnostiziertem High-risk-NMIBC nicht als primäre adjuvante intravesikale Instillationsmaßnahme eingesetzt werden soll."
+    "correct": 3,
+    "tip": "Die Konstellation entspricht einem BCG-Versagen mit Hochrisikobefund – überlegen Sie, was ein weiterer Aufschub kosten kann.",
+    "explanation": "Empfehlung 6.39 (Empfehlungsgrad A): Bei Frührezidiv oder Tumorpersistenz mit Hochrisikokonstellation nach BCG-Induktion soll eine Zystektomie erfolgen; nach 6.38 (Empfehlungsgrad A) sind die Patienten ausgiebig über Optionen und Konsequenzen zu informieren. Hypertherme Chemotherapie gilt als experimentell (6.37), Pembrolizumab ist in Europa in dieser Indikation nicht zugelassen."
   },
   {
-    "question": "Für welche Patientengruppe kann Gemcitabin laut Empfehlung 6.36 als intravesikale Zweitlinienbehandlung (Off-label Use) eingesetzt werden?",
+    "question": "Bei welchem Befund eines NMIBC sollte laut Leitlinie bereits initial, also vor jeder BCG-Therapie, eine Frühzystektomie erwogen werden?",
     "options": [
-      "Bei BCG-vorbehandeltem, rezidivierendem Urothelkarzinom, wenn eine radikale Zystektomie nicht möglich ist oder abgelehnt wird.",
-      "Bei jedem Patienten unmittelbar nach Erstdiagnose, unabhängig von einer BCG-Vorbehandlung.",
-      "Ausschließlich bei metastasierter Erkrankung.",
-      "Nur bei Patienten unter 40 Jahren."
+      "Solitärer pT1 High Grade von 2 cm ohne begleitendes CIS",
+      "Multifokaler pTa High Grade ohne begleitendes Carcinoma in situ",
+      "Multifokaler pTa Low Grade, rezidivierend unter Mitomycin C",
+      "pT1 High Grade mit begleitendem Carcinoma in situ der Blase"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung hat nur den offenen Empfehlungsgrad 0.",
-    "explanation": "Empfehlung 6.36 sieht vor, dass Gemcitabin bei BCG-vorbehandeltem, rezidivierendem Urothelkarzinom als intravesikale Zweitlinienbehandlung im Off-label Use eingesetzt werden kann, wenn eine radikale Zystektomie nicht möglich ist oder abgelehnt wird."
+    "correct": 3,
+    "tip": "Ordnen Sie jede Option den Kriterien Infiltrationstiefe, Grading, Tumorlast und Begleit-CIS zu.",
+    "explanation": "Laut Hintergrund zu 6.38/6.39 sollte eine Frühzystektomie erwogen werden bei initial multifokalem und/oder > 3 cm messendem pT1 High Grade, bei pT1 High Grade mit begleitendem CIS, bei pT1-High-Grade-Rezidiv nach BCG-Induktion bzw. -Erhaltung und bei histologischen Varianten. Ein solitärer 2-cm-pT1-High-Grade ohne CIS erfüllt diese Kriterien nicht."
   },
   {
-    "question": "Welches Ergebnis zeigte die in Kapitel 6.9 zitierte unizentrische randomisierte Studie bei 64 Patienten mit High-risk-NMIBC im Vergleich von Gemcitabin und BCG hinsichtlich des rezidivfreien Überlebens?",
+    "question": "Welche Aussage zur Frühzystektomie beim Hochrisiko-NMIBC gibt die Leitlinie korrekt wieder?",
     "options": [
-      "Das rezidivfreie Überleben war unter Gemcitabin signifikant niedriger als unter BCG (25,6 vs. 39,4 Monate, p=0,042).",
-      "Gemcitabin zeigte ein signifikant längeres rezidivfreies Überleben als BCG.",
-      "Beide Gruppen zeigten exakt identisches rezidivfreies Überleben.",
-      "Es wurde in dieser Studie kein Unterschied in irgendeinem Endpunkt gefunden."
+      "Zwischen Diagnose und Zystektomie sollten weniger als drei Monate liegen",
+      "Randomisierte Studien belegen ihre Überlegenheit gegenüber BCG-Erhaltung",
+      "Vorangegangene BCG-Instillationen verschlechtern das Überleben danach",
+      "Das rezidivfreie Überleben nach 5 Jahren liegt bei etwa 50 Prozent"
     ],
     "correct": 0,
-    "tip": "Hinsichtlich Regression des Primärstadiums und Persistenz einer High-risk-Erkrankung zeigte sich dagegen kein signifikanter Unterschied.",
-    "explanation": "Die zitierte randomisierte Studie zeigte ein signifikant niedrigeres rezidivfreies Überleben unter Gemcitabin gegenüber BCG (25,6 vs. 39,4 Monate, p=0,042)."
+    "tip": "Unterscheiden Sie zwischen Daten aus älteren Serien, fehlender Vergleichsevidenz und einer zeitlichen Vorgabe.",
+    "explanation": "Laut Hintergrund zu 6.38/6.39 sollte bei Entscheidung zur Zystektomie zwischen Diagnosestellung des Hochrisiko-NMIBC und Zystektomie ein Zeitraum unter drei Monaten liegen. Das rezidivfreie Überleben nach Frühzystektomie liegt nach älteren Serien bei etwa 80 % nach 5 Jahren; vergleichende Evidenz zum blasenerhaltenden Vorgehen und Daten zum Einfluss einer vorangegangenen BCG-Therapie fehlen."
   },
   {
-    "question": "Wie bewertet Empfehlung 6.37 (Empfehlungsgrad A) die adjuvante intravesikale Mitomycin-C-Behandlung unter mikrowelleninduzierter Hyperthermie?",
+    "question": "Was berichtet die Leitlinie zum sekundär muskelinvasiven Blasenkarzinom (Progression eines NMIBC) im Vergleich zum primären MIBC?",
     "options": [
-      "Sie ist ein experimentelles Verfahren und soll nur im Rahmen prospektiver Studien angewendet werden.",
-      "Sie ist als neuer Therapiestandard für alle Risikogruppen etabliert.",
-      "Sie wird ausdrücklich als Alternative zur Frühzystektomie bei jedem BCG-Versagen empfohlen.",
-      "Sie ist aufgrund erwiesener Unwirksamkeit vollständig kontraindiziert."
+      "Gleiche Prognose nach Zystektomie, aber geringeres Ansprechen auf Chemotherapie",
+      "Bessere Prognose nach Zystektomie, da Tumoren meist früher erkannt werden",
+      "Schlechtere Prognose, die neoadjuvante Chemotherapie wirkt aber auch hier",
+      "Schlechtere Prognose, eine neoadjuvante Chemotherapie bringt hier keinen Nutzen"
     ],
-    "correct": 0,
-    "tip": "Die zugrunde liegenden Studien weisen laut Leitlinie ein intermediäres bis hohes Bias-Risiko auf.",
-    "explanation": "Empfehlung 6.37 stuft die adjuvante intravesikale Mitomycin-C-Behandlung unter mikrowelleninduzierter Hyperthermie als experimentelles Verfahren ein, das nur im Rahmen prospektiver Studien angewendet werden soll."
+    "correct": 2,
+    "tip": "Denken Sie an die zitierten Serien zum karzinomspezifischen Überleben mit und ohne neoadjuvante Therapie.",
+    "explanation": "Laut Hintergrund zu 6.38/6.39 haben Patienten nach Zystektomie bei sekundärem MIBC eine schlechtere Prognose (z. B. karzinomspezifisches 10-Jahres-Überleben 37 vs. 43 % beim primären MIBC). Zwei Serien zeigen dennoch einen positiven Einfluss der neoadjuvanten Chemotherapie auch beim sekundären MIBC."
   },
   {
-    "question": "Welche Ansprechraten zeigte die KEYNOTE-057-Studie zu Pembrolizumab bei BCG-unresponsive Carcinoma in situ (Kapitel 6.10), und welchen Zulassungsstatus hat die Substanz in dieser Indikation in Europa?",
+    "question": "Ein 66-jähriger Patient hat ein erstdiagnostiziertes high-risk NMIBC ohne Indikation zur Frühzystektomie. Was gilt laut Leitlinie für Gemcitabin als primäre adjuvante Instillation?",
     "options": [
-      "41% komplette Remission (mediane Ansprechdauer 16,2 Monate); in Europa liegt derzeit keine Zulassung für diese Indikation vor.",
-      "100% komplette Remission; vollständig in der EU zugelassen.",
-      "0% Ansprechen; die Studie wurde wegen Unwirksamkeit abgebrochen.",
-      "41% komplette Remission; identischer Zulassungsstatus in den USA und der EU."
+      "Sie kann wegen geringerer Toxizität anstelle von BCG erfolgen (0)",
+      "Sie soll in dieser Situation nicht eingesetzt werden (A)",
+      "Sie sollte bei begleitendem CIS bevorzugt werden (B)",
+      "Sie ist BCG im rezidivfreien Überleben gleichwertig (ST)"
     ],
-    "correct": 0,
-    "tip": "In den USA wurde Pembrolizumab für diese spezifische Indikation bereits zugelassen.",
-    "explanation": "Die KEYNOTE-057-Studie zeigte bei BCG-unresponsive CIS eine komplette Remissionsrate von 41% mit einer medianen Ansprechdauer von 16,2 Monaten; in Europa liegt für diese Indikation jedoch keine Zulassung vor."
+    "correct": 1,
+    "tip": "Erinnern Sie sich an das rezidivfreie Überleben im randomisierten Vergleich mit BCG.",
+    "explanation": "Empfehlung 6.35 (Empfehlungsgrad A): Gemcitabin soll beim erstdiagnostizierten high-risk NMIBC nicht als primäre adjuvante Instillation eingesetzt werden; im RCT war das rezidivfreie Überleben unter Gemcitabin signifikant kürzer als unter BCG (25,6 vs. 39,4 Monate). Die Kann-Empfehlung 6.36 betrifft erst die Zweitlinie nach BCG."
   },
   {
-    "question": "Was fordert Empfehlung 6.38 (Kapitel 6.11, Empfehlungsgrad A) bei einem Hochrisiko-NMIBC bezüglich der Patienteninformation?",
+    "question": "Ein 78-jähriger, nicht zystektomiefähiger Patient entwickelt nach BCG-Therapie ein Rezidiv seines Urothelkarzinoms der Harnblase. Was sieht die Leitlinie für Gemcitabin vor?",
     "options": [
-      "Die Patienten sollen ausgiebig über die verschiedenen Therapieoptionen und mögliche Konsequenzen informiert werden.",
-      "Eine Aufklärung über Alternativen zur Zystektomie ist nicht erforderlich.",
-      "Es soll ausschließlich über die BCG-Therapie informiert werden.",
-      "Die Therapieentscheidung wird ausschließlich vom Tumorboard ohne Patientenbeteiligung getroffen."
+      "Off-label-Zweitlinie statt Mitomycin C oder BCG-Reexposition (kann)",
+      "Zugelassene Zweitlinie, vorrangig vor einer BCG-Reexposition (soll)",
+      "Zweitlinie in Kombination mit Mikrowellen-Hyperthermie (sollte)",
+      "Nicht empfohlen, da Mitomycin C hier überlegen ist (sollte nicht)"
     ],
     "correct": 0,
-    "tip": "Dies spiegelt die weitreichenden Konsequenzen einer möglichen Frühzystektomie für die Lebensqualität wider.",
-    "explanation": "Empfehlung 6.38 fordert, dass Patienten mit Hochrisiko-NMIBC ausgiebig über die verschiedenen Therapieoptionen und deren mögliche Konsequenzen informiert werden sollen."
+    "tip": "Beachten Sie den Zulassungsstatus von Gemcitabin für die Blaseninstillation.",
+    "explanation": "Empfehlung 6.36 (Empfehlungsgrad 0): Bei BCG-vorbehandeltem, rezidivierendem Urothelkarzinom ohne Möglichkeit oder Bereitschaft zur Zystektomie kann Gemcitabin off-label als intravesikale Zweitlinie anstelle von Mitomycin C allein oder einer BCG-Reexposition gegeben werden. Im RCT gegen Mitomycin C war das krankheitsfreie Überleben unter Gemcitabin signifikant höher und die Zystitisrate niedriger (5,5 vs. 21,1 %)."
   },
   {
-    "question": "Was fordert Empfehlung 6.39 (Empfehlungsgrad A) bei einem Frührezidiv oder einer Tumorpersistenz mit Hochrisikokonstellation nach BCG-Induktionstherapie?",
+    "question": "Welchen Stellenwert hat die adjuvante Mitomycin-C-Instillation unter mikrowelleninduzierter Hyperthermie laut Leitlinie?",
     "options": [
-      "Eine Zystektomie soll durchgeführt werden.",
-      "Eine weitere BCG-Induktion mit identischem Schema soll wiederholt werden.",
-      "Eine alleinige Beobachtung ohne weitere Therapie ist ausreichend.",
-      "Eine palliative Systemtherapie soll unmittelbar eingeleitet werden."
+      "Experimentelles Verfahren, Anwendung nur in prospektiven Studien (soll)",
+      "Gleichwertige Alternative zur Frühzystektomie bei BCG-Versagen (kann)",
+      "Standard bei intermediate risk nach Versagen von Mitomycin C (sollte)",
+      "Alternative zu BCG beim initialen Hochrisiko-NMIBC (sollte)"
     ],
     "correct": 0,
-    "tip": "Dies entspricht dem Konzept der sogenannten Frühzystektomie beim Hochrisiko-NMIBC.",
-    "explanation": "Empfehlung 6.39 fordert, dass bei einem Frührezidiv oder einer Tumorpersistenz mit Hochrisikokonstellation nach BCG-Induktionstherapie eine Zystektomie durchgeführt werden soll."
+    "tip": "Die gepoolten Daten stammen überwiegend aus retrospektiven Serien mit uneinheitlicher Dosis und kurzem Follow-up.",
+    "explanation": "Empfehlung 6.37 (Empfehlungsgrad A): Die Mitomycin-C-Instillation unter mikrowelleninduzierter Hyperthermie ist ein experimentelles Verfahren und soll nur im Rahmen prospektiver Studien angewendet werden. Das Bias-Risiko der Daten ist intermediär bis hoch; als Alternative zur Frühzystektomie wird sie laut Kapitel 6.11 nicht empfohlen."
   },
   {
-    "question": "Welche Konstellationen begründen laut Kapitel 6.11 eine Hochrisikokonstellation des NMIBC mit Indikation zur Erwägung einer Frühzystektomie?",
+    "question": "Welche Ergebnisse berichtete KEYNOTE-057 für Pembrolizumab bei Patienten mit BCG-unresponsive Carcinoma in situ (n=96)?",
     "options": [
-      "Multifokaler und/oder > 3 cm messender pT1 G3-Tumor, pT1 G3 mit begleitendem CIS, Tumorpersistenz/Frührezidiv nach BCG, sowie histologische Varianten.",
-      "Ausschließlich das Patientenalter über 80 Jahre.",
-      "Ausschließlich eine solitäre pTa Low-Grade-Läsion.",
-      "Ausschließlich eine positive Familienanamnese für Blasenkrebs."
+      "Komplette Remission bei 41 %, mediane Ansprechdauer 7,7 Monate",
+      "Komplette Remission bei 53 %, mediane Ansprechdauer 9,7 Monate",
+      "Komplette Remission bei 41 %, mediane Ansprechdauer 16,2 Monate",
+      "Komplette Remission bei 44 %, mediane Ansprechdauer 16,2 Monate"
     ],
-    "correct": 0,
-    "tip": "Ein Frührezidiv bzw. eine Tumorpersistenz nach BCG entspricht definitionsgemäß einem BCG-Therapieversagen.",
-    "explanation": "Kapitel 6.11 nennt als Hochrisikokonstellationen u. a. einen multifokalen und/oder > 3 cm messenden pT1 G3-NMIBC, einen pT1 G3-Tumor mit begleitendem CIS, eine Tumorpersistenz bzw. ein Frührezidiv nach BCG-Therapie sowie das Vorliegen histologischer Varianten."
+    "correct": 2,
+    "tip": "Die papilläre Kohorte ohne CIS sprach ähnlich häufig an, aber deutlich weniger lange.",
+    "explanation": "Laut Kapitel 6.10 (Tabelle 36) erreichten in KEYNOTE-057 41 % der Patienten mit BCG-unresponsive CIS eine komplette Remission mit einer medianen Ansprechdauer von 16,2 Monaten; 46 % dieser Remissionen hielten mindestens 12 Monate. Die 7,7 Monate gelten für die Kohorte mit papillären High-Grade-Tumoren ohne CIS."
   },
   {
-    "question": "Innerhalb welches Zeitraums sollte laut Kapitel 6.11 bei Entscheidung zur Zystektomie diese nach Diagnosestellung des Hochrisiko-NMIBC erfolgen?",
+    "question": "Welche Aussage zu Immuncheckpoint-Inhibitoren beim nicht-muskelinvasiven Blasenkarzinom entspricht dem Stand der Leitlinie?",
     "options": [
-      "Innerhalb von weniger als drei Monaten.",
-      "Innerhalb von 24 Stunden.",
-      "Erst nach mindestens 2 Jahren Beobachtungszeit.",
-      "Ein Zeitrahmen wird in der Leitlinie nicht genannt."
+      "Pembrolizumab ist in Europa für BCG-unresponsive CIS der Blase zugelassen",
+      "PD-(L)1-Inhibitoren plus BCG sind beim BCG-naiven NMIBC bereits Standard",
+      "Pembrolizumab ist in den USA in Kombination mit BCG-Reinstillation zugelassen",
+      "Beim BCG-naiven NMIBC fehlen Daten für einen Einsatz außerhalb von Studien"
     ],
-    "correct": 0,
-    "tip": "Dieser Zeitrahmen entspricht ungefähr dem auch bei primär muskelinvasiven Tumoren empfohlenen Zeitfenster.",
-    "explanation": "Kapitel 6.11 beschreibt, dass bei Entscheidung zur Zystektomie zwischen Diagnosestellung des Hochrisiko-NMIBC und der Zystektomie ein Zeitraum von unter drei Monaten liegen sollte."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen US-amerikanischer und europäischer Zulassungslage sowie zwischen BCG-naiven und vorbehandelten Patienten.",
+    "explanation": "Laut Kapitel 6.10 gibt es derzeit keine Daten, die einen Einsatz von PD-(L)1-Inhibitoren beim BCG-naiven NMIBC außerhalb klinischer Studien rechtfertigen; Kombinationen mit BCG werden in laufenden Phase-III-Studien geprüft. Pembrolizumab ist in den USA als Monotherapie für BCG-unresponsive CIS bei nicht zystektomiefähigen bzw. ablehnenden Patienten zugelassen, in Europa nicht."
   },
   {
-    "question": "Wie unterscheidet sich laut Kapitel 6.11 die 10-Jahres-karzinomspezifische Überlebensrate nach Zystektomie bei sekundärem MIBC (Progression aus NMIBC) im Vergleich zu primärem MIBC?",
+    "question": "Wie bewertet die Leitlinie die trimodale Therapie (komplette TUR, Radio- und Chemotherapie) beim Hochrisiko-NMIBC?",
     "options": [
-      "Niedriger beim sekundären MIBC (37%) als beim primären MIBC (43%, p=0,01).",
-      "Identisch in beiden Gruppen.",
-      "Höher beim sekundären MIBC (70%) als beim primären MIBC (30%).",
-      "Beide Formen zeigen eine 100%ige 10-Jahres-Überlebensrate."
+      "Als gleichwertige Alternative zur Frühzystektomie bei BCG-Versagen",
+      "Keine Empfehlung als Alternative zur Frühzystektomie, aber erwägbar",
+      "Als Standard bei pT1 High Grade mit begleitendem Carcinoma in situ",
+      "Wegen fehlender Wirksamkeit beim NMIBC nicht als Option geeignet"
     ],
-    "correct": 0,
-    "tip": "Dieser Prognoseunterschied unterstreicht, warum bei Hochrisiko-NMIBC die Option der Frühzystektomie ernsthaft erwogen werden sollte.",
-    "explanation": "Eine 2016 publizierte Serie zeigte laut Kapitel 6.11 eine niedrigere 10-Jahres-karzinomspezifische Überlebensrate nach Zystektomie bei sekundärem MIBC (37%) im Vergleich zu primärem MIBC (43%, p=0,01)."
+    "correct": 1,
+    "tip": "Die einzige Serie zeigte Progressionsraten, die mit Instillation und Frühzystektomie vergleichbar erscheinen – bei dünner Datenlage.",
+    "explanation": "Laut Hintergrund zu 6.38/6.39 kann die trimodale Therapie mangels valider prospektiver Studien nicht als Alternative zur Frühzystektomie bei initialem Hochrisiko-NMIBC oder BCG-Versagen empfohlen werden, sie kann aber als Option mit kurativem Potenzial erwogen werden (Progression 19 % nach 5 Jahren in der einzigen Serie). Ebenso fehlt eine Empfehlung für die hypertherme Chemotherapie."
   }
 ]

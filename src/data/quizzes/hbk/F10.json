@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Statement 7.1 (Kapitel 7.1.1) zur Einschätzung des perioperativen Komplikationsrisikos der radikalen Zystektomie?",
+    "question": "Ein 71-jähriger Patient mit muskelinvasivem Blasenkarzinom (cT2 cN0) erhält keine neoadjuvante Therapie und möchte erst nach dem Sommerurlaub in vier Monaten operiert werden. Was empfiehlt die Leitlinie zum Zeitpunkt der radikalen Zystektomie?",
     "options": [
-      "Nicht nur das chronologische, sondern auch das biologische Alter unter Berücksichtigung der Komorbiditäten sollte berücksichtigt werden.",
-      "Ausschließlich das chronologische Alter ist relevant.",
-      "Das Alter spielt für das Komplikationsrisiko keine Rolle.",
-      "Nur der BMI des Patienten ist für die Risikoeinschätzung relevant."
+      "Innerhalb von 6 Monaten nach Diagnosestellung (Empfehlungsgrad A)",
+      "Innerhalb von 3 Monaten nach Diagnosestellung (Empfehlungsgrad A)",
+      "Innerhalb von 3 Monaten nach Diagnosestellung (Empfehlungsgrad B)",
+      "Innerhalb von 4 Monaten nach Diagnosestellung (Empfehlungsgrad B)"
     ],
-    "correct": 0,
-    "tip": "Eine retrospektive Studie zeigte, dass ältere Patienten zwar mehr Frühkomplikationen, aber signifikant weniger Spätkomplikationen hatten.",
-    "explanation": "Statement 7.1 besagt, dass zur Einschätzung des peri- und postoperativen Komplikationsrisikos nicht nur das chronologische, sondern auch das biologische Alter unter Berücksichtigung bestehender Komorbiditäten herangezogen werden sollte."
+    "correct": 1,
+    "tip": "In einzelnen retrospektiven Serien stieg das Sterberisiko bereits nach 40 Tagen bzw. nach einem Monat an.",
+    "explanation": "Empfehlung 7.39 (Empfehlungsgrad A): Ohne neoadjuvante Therapie soll die radikale Zystektomie beim MIBC möglichst innerhalb von 3 Monaten nach Diagnosestellung erfolgen; eine Verschiebung um vier Monate wäre nicht leitlinienkonform. Einzelne Serien zeigten eine Prognoseverschlechterung bereits ab 40 Tagen nach TUR-B bzw. ab mehr als einem Monat."
   },
   {
-    "question": "Welche Klassifikation eignet sich laut Empfehlung 7.2 (Empfehlungsgrad B) zur standardisierten Einteilung postoperativer Komplikationen der radikalen Zystektomie?",
+    "question": "Welche Aussage zur Datenlage hinter der Empfehlung zum Zeitintervall zwischen Diagnose und radikaler Zystektomie trifft zu?",
     "options": [
-      "Die Clavien-Klassifikation.",
-      "Der Gleason-Score.",
-      "Die EORTC-Risikotabelle.",
-      "Der Charlson Comorbidity Index."
+      "Randomisierte Studien belegen einen Progressionsnachteil ab 12 Wochen Wartezeit",
+      "Die Daten stammen überwiegend aus Kollektiven mit neoadjuvanter Chemotherapie",
+      "Die Daten stammen aus retrospektiven Kollektiven ohne neoadjuvante Chemotherapie",
+      "Das progressionsfreie Überleben ist der in den Studien am besten belegte Endpunkt"
     ],
-    "correct": 0,
-    "tip": "Diese Klassifikation reicht von Grad I (keine Intervention notwendig) bis Grad V (zum Tode führende Komplikation).",
-    "explanation": "Empfehlung 7.2 sieht vor, dass perioperative Komplikationen standardisiert klassifiziert werden sollten, wofür sich für postoperative Komplikationen die Clavien-Klassifikation eignet."
+    "correct": 2,
+    "tip": "Überlegen Sie, wie sich eine neoadjuvante Therapie zwangsläufig auf das Intervall bis zur Operation auswirkt.",
+    "explanation": "Laut Hintergrund zu 7.39 wurde das Intervall zwischen Diagnose und Zystektomie nur bei Patienten ohne neoadjuvante Chemotherapie untersucht, überwiegend in retrospektiven Arbeiten mit uneinheitlicher Definition des Diagnosezeitpunkts. Der Einfluss auf das progressionsfreie Überleben wurde in keiner Arbeit untersucht; belegt ist ein Zusammenhang mit der Überlebensrate."
   },
   {
-    "question": "Welche Mindestanzahl an radikalen Zystektomien pro Operateur und Jahr wurde laut Kapitel 7.1.1 (Hintergrund zu Statement 7.3) in einer englischen Analyse als notwendig identifiziert, um die Mortalitätsrate bestmöglich zu senken?",
+    "question": "Ein 81-jähriger Patient mit muskelinvasivem Blasenkarzinom fragt, ob er für eine radikale Zystektomie zu alt sei. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "8 radikale Zystektomien pro Jahr.",
-      "1 radikale Zystektomie pro Jahr.",
-      "100 radikale Zystektomien pro Jahr.",
-      "Es wurde kein Zusammenhang zwischen Fallzahl und Mortalität gefunden."
+      "Das chronologische Alter allein ist der beste Prädiktor für die Mortalität",
+      "Ab 80 Jahren sind Früh- und Spätkomplikationen deutlich häufiger",
+      "Ab 80 Jahren gilt die radikale Zystektomie als relative Kontraindikation",
+      "Das biologische Alter unter Einbezug der Komorbiditäten ist maßgeblich"
     ],
-    "correct": 0,
-    "tip": "Eine weitere Erhöhung der Fallzahl über diesen Schwellenwert hinaus konnte die Mortalität laut statistischem Modell nicht weiter senken.",
-    "explanation": "Kapitel 7.1.1 beschreibt, dass in einer Analyse von 6.308 radikalen Zystektomien in England eine Mindestanzahl von 8 Eingriffen pro Operateur und Jahr notwendig war, um die Mortalitätsrate bestmöglich zu senken."
+    "correct": 3,
+    "tip": "Zwei 80-Jährige können sich in ihrem Operationsrisiko stärker unterscheiden als ein 60- und ein 80-Jähriger.",
+    "explanation": "Statement 7.1 (LoE 2+): Zur Risikoeinschätzung sollte nicht nur das chronologische, sondern das biologische Alter unter Berücksichtigung der Komorbiditäten herangezogen werden; hohes Alter allein ist keine Kontraindikation. In einer Serie mit 1054 Patienten hatten Ältere mehr Früh-, aber weniger Spätkomplikationen bei nicht signifikant unterschiedlicher Mortalität."
   },
   {
-    "question": "Wie hoch ist laut Kapitel 7.1.1 die postoperative Mortalitätsrate nach radikaler Zystektomie nach 30 Tagen bzw. nach 60-90 Tagen?",
+    "question": "Nach radikaler Zystektomie entwickelt ein Patient eine Urinleckage an der Harnleiter-Darm-Anastomose, die ohne Vollnarkose mittels perkutaner Nephrostomie versorgt wird. Wie ist dies nach der von der Leitlinie empfohlenen Klassifikation einzuordnen?",
     "options": [
-      "0,4% nach 30 Tagen, 2-2,6% nach 60-90 Tagen.",
-      "50% nach 30 Tagen, 90% nach 90 Tagen.",
-      "0% in beiden Zeiträumen.",
-      "20% nach 30 Tagen, sinkend auf 5% nach 90 Tagen."
+      "Clavien-Grad II",
+      "Clavien-Grad IIIa",
+      "Clavien-Grad IIIb",
+      "Clavien-Grad IVa"
     ],
-    "correct": 0,
-    "tip": "Die Frühkomplikationsrate (jede Komplikation, nicht nur Todesfälle) liegt dagegen deutlich höher, bei bis zu 58%.",
-    "explanation": "Kapitel 7.1.1 beschreibt eine postoperative Mortalitätsrate von 0,4% nach 30 Tagen und 2-2,6% nach 60 bzw. 90 Tagen nach radikaler Zystektomie."
+    "correct": 1,
+    "tip": "Die Clavien-Klassifikation graduiert nach der notwendigen Therapie, nicht nach dem betroffenen Organ.",
+    "explanation": "Empfehlung 7.2 (Empfehlungsgrad B): Perioperative Komplikationen sollten standardisiert klassifiziert werden, für postoperative Komplikationen eignet sich die Clavien-Klassifikation (Tabelle 38). Eine radiologische Intervention ohne Vollnarkose entspricht Grad IIIa; mit Vollnarkose wäre es IIIb, eine intensivpflichtige Organdysfunktion Grad IV."
   },
   {
-    "question": "Was fordert Empfehlung 7.4 (Kapitel 7.1.2, Empfehlungsgrad A) zur Einschätzung der Prognose nach radikaler Zystektomie?",
+    "question": "Was hält die Leitlinie zum Zusammenhang zwischen Fallzahl und Ergebnis der radikalen Zystektomie fest?",
     "options": [
-      "Die TNM-Klassifikation in der jeweils aktuellen Fassung soll verwendet werden.",
-      "Ausschließlich das Patientenalter soll zur Prognoseeinschätzung herangezogen werden.",
-      "Eine Prognoseeinschätzung ist nach radikaler Zystektomie nicht möglich.",
-      "Ausschließlich der präoperative Kreatininwert ist prognostisch relevant."
+      "Fallzahl und Teamerfahrung korrelieren mit geringerer Morbidität und Mortalität",
+      "Ab 8 Zystektomien pro Operateur und Jahr wird eine Mindestmenge empfohlen",
+      "Ein Effekt der Fallzahl zeigt sich für die Morbidität, nicht für die Mortalität",
+      "Die Fallzahl ist ohne Einfluss, entscheidend sind Patientenalter und Harnableitung"
     ],
     "correct": 0,
-    "tip": "Ergänzend wurden Nomogramme entwickelt, die mehrere Prognosefaktoren gleichzeitig berücksichtigen.",
-    "explanation": "Empfehlung 7.4 fordert, dass für die Einschätzung der Prognose nach radikaler Zystektomie die TNM-Klassifikation in der jeweils aktuellen Fassung verwendet werden soll."
+    "tip": "Eine Schwelle aus einer einzigen, nicht validierten retrospektiven Analyse trägt keine feste Vorgabe.",
+    "explanation": "Statement 7.3 (LoE 3): Die Anzahl jährlich durchgeführter radikaler Zystektomien einer Klinik und die Erfahrung des multiprofessionellen Teams korrelieren mit geringerer Morbidität und Mortalität. Die in einer englischen Analyse ermittelten 8 Eingriffe pro Operateur und Jahr wurden nicht validiert, daher spricht die Leitlinie keine Mindestmengenempfehlung aus."
   },
   {
-    "question": "Welche zwei Faktoren nennt Statement 7.5 als die wichtigsten Prognosefaktoren für das rezidivfreie und krankheitsspezifische Überleben nach radikaler Zystektomie?",
+    "question": "Welche beiden Faktoren nennt die Leitlinie als wichtigste Prognosefaktoren für das rezidivfreie und krankheitsspezifische Überleben nach radikaler Zystektomie?",
     "options": [
-      "Die pathologische Tumorkategorie (pT) und der pathologische Lymphknotenstatus (pN).",
-      "Ausschließlich das Geschlecht des Patienten.",
-      "Ausschließlich die Operationsdauer.",
-      "Ausschließlich die Art der Harnableitung."
+      "Lymphovaskuläre Invasion und Resektionsstatus",
+      "Pathologisches T-Stadium und Tumorgrading",
+      "Pathologisches T-Stadium und Lymphknotenstatus",
+      "Lymphknotenstatus und molekulares Markerpanel"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich wird der Resektionsstatus (R-Status) als weiterer wichtiger Prognosefaktor genannt.",
-    "explanation": "Statement 7.5 benennt die pathologische Tumorkategorie (pT) und den pathologischen Lymphknotenstatus (pN) als die beiden wichtigsten Prognosefaktoren, ergänzt durch den Resektionsstatus als weiteren wichtigen Faktor."
+    "correct": 2,
+    "tip": "Der Resektionsstatus wird ausdrücklich als zusätzlicher, nicht als einer der beiden Hauptfaktoren genannt.",
+    "explanation": "Statement 7.5 (LoE 3): pT und pN sind die beiden wichtigsten Prognosefaktoren für das rezidivfreie und krankheitsspezifische Überleben; der Resektionsstatus ist zusätzlich wichtig. Lymphovaskuläre Invasion und molekulare Marker sind weitere Prognosefaktoren, Marker sind aber mangels Validierung nicht in der Routine etabliert."
   },
   {
-    "question": "Was besagt Empfehlung 7.11 (Kapitel 7.3, Empfehlungsgrad A) zur partiellen Zystektomie als Standardtherapie?",
+    "question": "Eine 48-jährige prämenopausale Patientin hat einen unifokalen cT2-Tumor am Blasendach, fern von Blasenhals, Trigonum und Blasenboden. Was ist laut Leitlinie bei der radikalen Zystektomie möglich?",
     "options": [
-      "Sie soll aufgrund nicht nachgewiesener Gleichwertigkeit nicht als Standardtherapie empfohlen werden.",
-      "Sie soll als neuer Goldstandard die radikale Zystektomie ersetzen.",
-      "Sie wird bei jedem muskelinvasiven Tumor unabhängig von der Lokalisation empfohlen.",
-      "Sie ist bei jedem Patienten der radikalen Zystektomie vorzuziehen."
+      "Verzicht auf Adnexektomie und vordere Vaginalwandresektion nach Abwägung (kann)",
+      "Verzicht auf die Hysterektomie, Adnexe und Vaginalwand werden entfernt (sollte)",
+      "Partielle Zystektomie als gleichwertige Standardalternative zur Zystektomie (soll)",
+      "Erhalt der Adnexe erst postmenopausal, die Vaginalwand wird reseziert (kann)"
     ],
     "correct": 0,
-    "tip": "Die zugrunde liegende Literatur beruht ausschließlich auf retrospektiven Daten.",
-    "explanation": "Empfehlung 7.11 legt fest, dass die partielle Zystektomie aufgrund nicht nachgewiesener Gleichwertigkeit nicht als Standardtherapie empfohlen werden soll."
+    "tip": "Ovarialfunktion, Neoblasenfunktion und Sexualität sind gegen das Risiko eines klinischen Understagings abzuwägen.",
+    "explanation": "Empfehlung 7.8 (Expertenkonsens, kann): Bei der Frau kann abhängig von Tumorlokalisation und -ausdehnung auf die Entfernung der vorderen Vaginalwand und abhängig vom Menopausenstatus auf die Adnexektomie verzichtet werden; günstig ist ein unifokaler Tumor ≤cT2b fern von Blasenhals, Trigonum und Blasenboden. Regulär umfasst die Zystektomie bei der Frau nach 7.6 Uterus, Adnexe und Anteile der vorderen Vaginalwand; die partielle Zystektomie soll nicht als Standardtherapie empfohlen werden (7.11)."
   },
   {
-    "question": "Was fordert Empfehlung 7.12 (Empfehlungsgrad A) nach einer partiellen Zystektomie?",
+    "question": "Welche Aussage zu den operativen Zugangswegen der radikalen Zystektomie beim muskelinvasiven Blasenkarzinom (≥pT2) entspricht der Leitlinie?",
     "options": [
-      "Eine lebenslange Tumorkontrolle der Harnblase soll erfolgen.",
-      "Eine Nachsorge ist nach 5 Jahren nicht mehr erforderlich.",
-      "Eine prophylaktische Nachresektion ist nicht notwendig.",
-      "Eine Nachsorge soll nur bei Auftreten von Symptomen erfolgen."
+      "Die roboterassistierte Zystektomie soll wegen geringerer Mortalität bevorzugt werden",
+      "Die laparoskopische Zystektomie ist nur innerhalb von klinischen Studien zulässig",
+      "Eine laparoskopische oder roboterassistierte Zystektomie kann angeboten werden",
+      "Die laparoskopische Technik sollte wegen höherer R1-Raten vermieden werden"
     ],
-    "correct": 0,
-    "tip": "Diese lebenslange Überwachung ist wegen des verbleibenden Resttumorrisikos der Harnblase notwendig.",
-    "explanation": "Empfehlung 7.12 fordert, dass nach einer partiellen Zystektomie eine lebenslange Tumorkontrolle der Harnblase erfolgen soll."
+    "correct": 2,
+    "tip": "Erinnern Sie sich an die RARC-Mortalität der größten multizentrischen Serie und an die Studienlage zu Schnitträndern.",
+    "explanation": "Empfehlung 7.9 (Expertenkonsens, kann): Patienten mit MIBC (≥pT2) kann eine laparoskopische (konventionell oder roboterassistiert) radikale Zystektomie angeboten werden. Unterschiede bei positiven Schnitträndern fanden die Metaanalysen nicht; die RARC-Mortalität lag in der größten Serie bei 1,3 % nach 30 und 4,2 % nach 90 Tagen, ein Mortalitätsvorteil ist nicht belegt."
   },
   {
-    "question": "Wie sollte das lokal begrenzte Urachuskarzinom der Harnblase laut Empfehlung 7.13 behandelt werden?",
+    "question": "Welchen Stellenwert hat die partielle Zystektomie beim muskelinvasiven Urothelkarzinom der Harnblase laut Leitlinie?",
     "options": [
-      "Mittels partieller Zystektomie unter En-bloc-Resektion des Ligamentum umbilicale medianum und pelviner Lymphadenektomie.",
-      "Ausschließlich mittels alleiniger TUR ohne weitere Resektion.",
-      "Ausschließlich mit systemischer Chemotherapie ohne jede Operation.",
-      "Mit radikaler Zystektomie als einzig möglicher Therapieoption."
+      "Gleichwertige Alternative bei solitärem Tumor mit 1–2 cm Sicherheitsabstand (B)",
+      "Standardtherapie bei Tumoren am Blasendach ohne Carcinoma in situ (A)",
+      "Gleichwertige Alternative bei Patienten ab 75 Jahren mit Komorbidität (0)",
+      "Keine Standardtherapie, da die Gleichwertigkeit nicht nachgewiesen ist (A)"
     ],
-    "correct": 0,
-    "tip": "Dies ist eine Ausnahme zur generellen Zurückhaltung gegenüber der partiellen Zystektomie, da das Urachuskarzinom eine spezifische Entität darstellt.",
-    "explanation": "Empfehlung 7.13 sieht vor, dass das lokal begrenzte Urachuskarzinom der Harnblase mittels partieller Zystektomie unter En-bloc-Resektion des Ligamentum umbilicale medianum und pelviner Lymphadenektomie behandelt werden sollte."
+    "correct": 3,
+    "tip": "Unterscheiden Sie zwischen günstigen Selektionskriterien aus retrospektiven Serien und dem Status als Standardtherapie.",
+    "explanation": "Empfehlung 7.11 (Empfehlungsgrad A): Eine partielle Zystektomie soll aufgrund nicht nachgewiesener Gleichwertigkeit nicht als Standardtherapie empfohlen werden. Solitärer Tumor mit 1–2 cm Sicherheitsabstand und Ausschluss eines CIS sind lediglich retrospektiv identifizierte Selektionskriterien; eine Sonderstellung hat das lokal begrenzte Urachuskarzinom (7.13)."
   },
   {
-    "question": "Innerhalb welches Zeitraums soll laut Empfehlung 7.39 (Kapitel 7.7, Empfehlungsgrad A) bei Patienten mit muskelinvasivem Harnblasenkarzinom ohne neoadjuvante Therapie eine radikale Zystektomie erfolgen?",
+    "question": "Nach partieller Zystektomie fragt ein Patient, wie lange die Tumorkontrolle seiner Harnblase dauern wird. Was empfiehlt die Leitlinie?",
     "options": [
-      "Möglichst innerhalb von 3 Monaten nach Diagnosestellung.",
-      "Innerhalb von 3 Tagen nach Diagnosestellung.",
-      "Innerhalb von 3 Jahren nach Diagnosestellung.",
-      "Ein Zeitrahmen ist für diese Patientengruppe nicht definiert."
+      "Fünf Jahre Nachsorge, danach Entlassung bei Rezidivfreiheit",
+      "Lebenslange Tumorkontrolle, da auch späte Rezidive auftreten",
+      "Zehn Jahre Nachsorge mit jährlicher Zystoskopie und Zytologie",
+      "Zwei Jahre engmaschig, danach Kontrollen bei Beschwerden wie Hämaturie"
     ],
-    "correct": 0,
-    "tip": "Ein verlängertes Zeitintervall zwischen Diagnosestellung und Zystektomie wurde in den meisten Studien mit einer schlechteren Überlebensrate assoziiert.",
-    "explanation": "Empfehlung 7.39 fordert, dass bei Patienten mit muskelinvasivem Harnblasenkarzinom, die keine neoadjuvante Therapie erhalten, eine radikale Zystektomie möglichst innerhalb von 3 Monaten nach Diagnosestellung erfolgen soll."
+    "correct": 1,
+    "tip": "In einer Serie verstarben Patienten noch 138 Monate nach dem Eingriff an muskelinvasiven Rezidiven.",
+    "explanation": "Empfehlung 7.12 (Empfehlungsgrad A): Nach partieller Zystektomie soll eine lebenslange Tumorkontrolle der Harnblase erfolgen, da signifikante Spätrezidive auftreten (z. B. 38 % intravesikale Rezidive in ca. 6 Jahren, davon 48 % muskelinvasiv). Die Kontrolle sollte Urethrozystoskopie, Urinzytologie und Bildgebung umfassen; feste Intervalle lassen sich aus den Daten nicht ableiten."
   }
 ]

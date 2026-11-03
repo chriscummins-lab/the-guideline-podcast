@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was soll laut Empfehlung 3.1 bezüglich des Wunsches eines Patienten erfragt werden, Gespräche gemeinsam mit einer Vertrauensperson zu führen?",
+    "question": "Wie unterscheiden sich in Kapitel 3.1 die Empfehlungen zum Hinweis auf eine Zweitmeinung und auf die Patientenleitlinie in ihrer Verbindlichkeit?",
     "options": [
-      "Dieser Wunsch soll aktiv erfragt werden.",
-      "Eine Begleitperson ist bei Aufklärungsgesprächen grundsätzlich nicht zugelassen.",
-      "Dieser Wunsch soll bewusst nicht thematisiert werden.",
-      "Nur Angehörige, nicht aber Patientenvertreter, dürfen als Vertrauensperson fungieren."
+      "Zweitmeinung: soll; Patientenleitlinie: sollte",
+      "Zweitmeinung: sollte; Patientenleitlinie: soll",
+      "Zweitmeinung: kann; Patientenleitlinie: soll",
+      "Zweitmeinung: sollte; Patientenleitlinie: kann"
     ],
-    "correct": 0,
-    "tip": "Als Vertrauensperson kommen Partner, Angehörige oder auch Patientenvertreter infrage.",
-    "explanation": "Empfehlung 3.1 fordert, dass der Wunsch des Patienten, Gespräche gemeinsam mit einer Vertrauensperson zu führen, aktiv erfragt werden soll."
+    "correct": 1,
+    "tip": "Beide Empfehlungen beruhen auf Expertenkonsens; die Verbindlichkeit erkennt man am gewählten Modalverb.",
+    "explanation": "Nach Empfehlung 3.2 (EK) soll der Patient auf die evidenzbasierte Patientenleitlinie hingewiesen werden; über die Möglichkeit einer Zweitmeinung sollte er laut Empfehlung 3.3 (EK) informiert werden. Empfehlung 3.1 ergänzt, dass der Wunsch nach Einbeziehung einer Vertrauensperson erfragt werden soll."
   },
   {
-    "question": "Worauf soll der Patient laut Empfehlung 3.3 im Rahmen der ärztlichen Beratung über die mögliche Behandlung hingewiesen werden?",
+    "question": "Ein Patient mit Peniskarzinom fragt nach einer Selbsthilfegruppe. Welche Aussage entspricht Empfehlung 3.10 und ihrem Hintergrundtext?",
     "options": [
-      "Auf die evidenzbasierte Patientenleitlinie zum Peniskarzinom.",
-      "Auf ausschließlich kommerzielle, nicht evidenzbasierte Gesundheitsportale.",
-      "Auf den vollständigen Verzicht auf jede schriftliche Zusatzinformation.",
-      "Eine solche Empfehlung existiert in der Leitlinie nicht."
+      "Spezielle Peniskarzinom-Selbsthilfegruppen sind bundesweit flächendeckend etabliert",
+      "Mangels spezieller Gruppen kann z. B. an die Prostatakrebs-Selbsthilfe verwiesen werden",
+      "Der Zugang zur Selbsthilfe soll erst nach Abschluss der Primärtherapie erfolgen",
+      "Die Teilnahme an einer Selbsthilfegruppe ist als fester Teil der Nachsorge vorgesehen"
     ],
-    "correct": 0,
-    "tip": "Die Patientenleitlinie soll zeitnah zum ärztlichen Gespräch über die mögliche Behandlung ausgehändigt werden.",
-    "explanation": "Empfehlung 3.3 fordert, dass der Patient auf die evidenzbasierte Patientenleitlinie zum Peniskarzinom hingewiesen werden soll."
+    "correct": 1,
+    "tip": "Ob und wie Betroffene Selbsthilfeangebote nutzen, liegt laut Leitlinie in ihrem eigenen Ermessen.",
+    "explanation": "Nach Empfehlung 3.10 (EK) soll Männern mit Peniskarzinom der Zugang zu Selbsthilfegruppen ermöglicht werden. Da es wegen der Seltenheit keine speziellen Gruppen gibt, wird bei Bedarf an andere Selbsthilfegruppen, z. B. die Prostatakrebs-Selbsthilfe, verwiesen; die Nutzung liegt im Ermessen des Patienten."
   },
   {
-    "question": "Worüber soll der Patient laut der im Kapitel 3.1 genannten Empfehlung zusätzlich informiert werden?",
+    "question": "Bei welchen Patienten und zu welchem Zeitpunkt soll laut Empfehlung 3.7 ein Screening auf psychosoziale Belastungen erfolgen?",
     "options": [
-      "Über die Möglichkeit, eine Zweitmeinung bei einem anderen Facharzt oder einer anderen Fachklinik einzuholen.",
-      "Darüber, dass eine Zweitmeinung grundsätzlich nicht gestattet ist.",
-      "Darüber, dass eine Zweitmeinung nur bei Privatpatienten möglich ist.",
-      "Diese Information wird in der Leitlinie nicht erwähnt."
+      "Bei allen Patienten, frühestmöglich und bei Statusänderung wiederholt",
+      "Bei Patienten, die im Gespräch psychisch auffällig erscheinen",
+      "Bei allen Patienten, einmalig vor Beginn der Primärtherapie",
+      "Bei Patienten nach Penektomie, frühestens drei Monate postoperativ"
     ],
     "correct": 0,
-    "tip": "Dies ist Ausdruck der Patientenautonomie und des Rechts auf freie Arzt- und Klinikwahl.",
-    "explanation": "Der Patient sollte über die Möglichkeit informiert werden, eine Zweitmeinung bei einem anderen Facharzt oder einer anderen Fachklinik einzuholen."
+    "tip": "Ein Großteil psychischer Belastungen bei Krebspatienten wird ohne systematische Erfassung übersehen.",
+    "explanation": "Nach Empfehlung 3.7 (EK) sollen alle Patienten ein Screening auf psychosoziale Belastungen erhalten, frühestmöglich und bei klinischer Indikation oder Veränderung des Erkrankungsstatus wiederholt; dies ist zugleich Qualitätsindikator 1. Ein Screening erst bei auffälligem Verhalten verfehlt den Zweck, da viele Belastungen sonst unerkannt bleiben."
   },
   {
-    "question": "Was fordert Empfehlung 3.4 bezüglich der Bedürfnisse von Krebs-Überlebenden?",
+    "question": "Welche Screeninginstrumente nennt der Hintergrund zu den Empfehlungen 3.5–3.7 beispielhaft für die Erfassung psychosozialer Belastungen?",
     "options": [
-      "Sie sollen exploriert und entsprechende Unterstützungsangebote sowie gesundheitsfördernde Maßnahmen bei Folgestörungen vermittelt werden.",
-      "Sie sind für die Nachsorge nicht relevant.",
-      "Sie sollen ausschließlich einmalig bei der Diagnosestellung erfasst werden.",
-      "Eine Erfassung dieser Bedürfnisse ist in der Leitlinie nicht vorgesehen."
+      "EORTC-QLQ-C30 und HRO-PE-29",
+      "Bigelow-Young-Fragebogen und SFQ",
+      "PHQ-9 und Mini-Mental-Status-Test",
+      "Distress-Thermometer und HADS-D"
     ],
-    "correct": 0,
-    "tip": "Hierzu zählen auch Aspekte wie Fertilität, tumorassoziierte Fatigue und Maßnahmen zur Vermeidung eines Lymphödems.",
-    "explanation": "Empfehlung 3.4 fordert, dass die Bedürfnisse von Krebs-Überlebenden exploriert und entsprechende Unterstützungsangebote sowie gesundheitsfördernde Maßnahmen bei Folgestörungen vermittelt werden sollen."
+    "correct": 3,
+    "tip": "Für die Auswahl validierter Screeninginstrumente verweist die Leitlinie auf die S3-Leitlinie Psychoonkologie.",
+    "explanation": "Als Screeninginstrumente nennt der Hintergrund das Distress-Thermometer und die deutsche Version der Hospital Anxiety and Depression Scale (HADS-D); zusätzlich soll der Unterstützungswunsch erfragt werden. EORTC-QLQ-C30 und HRO-PE-29 sind dagegen Instrumente zu Lebensqualität und Sexualfunktion (Kapitel 8.2)."
   },
   {
-    "question": "Was fordert die Empfehlung in Kapitel 3.2 bezüglich des niederschwelligen Angebots einer psychosozialen Beratung?",
+    "question": "Welche Patienten sollen laut Empfehlung 3.8 Zugang zu Informationen über Palliativversorgung haben?",
     "options": [
-      "Es sollte allen Betroffenen und ihren Angehörigen in jeder Phase der Erkrankung, auch langfristig, zur Verfügung stehen.",
-      "Es soll nur bei fortgeschrittener Erkrankung angeboten werden.",
-      "Es ist ausschließlich für den Patienten, nicht für Angehörige, vorgesehen.",
-      "Ein solches Angebot wird in der Leitlinie nicht gefordert."
+      "Alle Krebspatienten unabhängig vom Krankheitsstadium",
+      "Patienten im metastasierten oder nicht heilbaren Stadium",
+      "Patienten nach Versagen der Erstlinien-Chemotherapie",
+      "Patienten mit exulzerierenden Metastasen oder Rezidiven"
     ],
     "correct": 0,
-    "tip": "Psychosoziale Beratung und Behandlung gelten als integraler Bestandteil der onkologischen Diagnostik, Therapie und Nachsorge.",
-    "explanation": "Die Empfehlung in Kapitel 3.2 fordert, dass das niederschwellige Angebot einer psychosozialen Beratung, Begleitung und Behandlung allen Betroffenen und ihren Angehörigen in jeder Phase der Erkrankung, auch langfristig, zur Verfügung stehen sollte."
+    "tip": "Unterscheiden Sie zwischen dem Zugang zu Information und der tatsächlichen palliativmedizinischen Mitbetreuung.",
+    "explanation": "Nach Empfehlung 3.8 (EK) sollen alle Patienten mit einer Krebserkrankung unabhängig vom Krankheitsstadium Zugang zu Informationen über Palliativversorgung haben, laut Hintergrund bereits mit Diagnosestellung. Die bedarfsorientierte palliativmedizinische Mitbetreuung im fortgeschrittenen, metastasierten oder nicht heilbaren Stadium regelt Empfehlung 3.9."
   },
   {
-    "question": "Was fordert Empfehlung 3.7 bezüglich eines Screenings auf psychosoziale Belastungen?",
+    "question": "Welche Aussage zur Integration der Palliativversorgung trifft laut Hintergrund zu den Empfehlungen 3.8 und 3.9 zu?",
     "options": [
-      "Alle Patienten sollen ein Screening erhalten, das frühestmöglich und wiederholt im Krankheitsverlauf durchgeführt werden sollte.",
-      "Ein Screening ist nur bei explizitem Wunsch des Patienten vorgesehen.",
-      "Ein Screening soll ausschließlich einmalig bei Erstdiagnose erfolgen.",
-      "Ein strukturiertes Screening wird in der Leitlinie nicht empfohlen."
+      "Sie beginnt erst nach Ausschöpfen aller tumorspezifischen Therapieoptionen",
+      "Über ihre Inhalte muss der behandelnde Arzt persönlich aufklären",
+      "Sie erfolgt spätestens bei progredienter, nicht heilbarer Erkrankung",
+      "Sie bringt asymptomatischen Patienten keinen erkennbaren Nutzen"
     ],
-    "correct": 0,
-    "tip": "Als Screeninginstrumente werden z. B. das Distress-Thermometer oder die deutsche Version der Hospital Anxiety and Depression Scale (HADS-D) empfohlen.",
-    "explanation": "Empfehlung 3.7 fordert, dass alle Patienten ein Screening auf psychosoziale Belastungen erhalten sollen, das frühestmöglich und in angemessenen Abständen wiederholt im Krankheitsverlauf durchgeführt werden sollte."
+    "correct": 2,
+    "tip": "Denken Sie an das Konzept der Frühintegration und daran, welche Berufsgruppen ein Palliativteam bilden.",
+    "explanation": "Laut Hintergrund zu Empfehlung 3.9 muss spätestens mit Feststellung einer progredienten, nicht heilbaren Erkrankung die Palliativversorgung integriert werden; über ihre Inhalte kann auch ein nicht-ärztliches Teammitglied aufklären. Frühe Beratung durch ein Palliativteam nützt laut Hintergrund zu 3.8 auch asymptomatischen, wenig belasteten Patienten."
   },
   {
-    "question": "Was besagt Statement 8.6 im Kontext exulzerierter kutaner Metastasen und Lymphknotenmetastasen?",
+    "question": "Ein 70-Jähriger hat ein exulzerierendes Leistenpaket mit kleineren Sickerblutungen; seine Frau fürchtet „die große Blutung“. Welche Vorbereitung entspricht Kapitel 8.3?",
     "options": [
-      "Diese stellen für Patienten, Angehörige und Pflegende eine große Herausforderung dar, u. a. durch hohen Pflegeaufwand und Geruchsbelästigung.",
-      "Sie treten beim Peniskarzinom praktisch nie auf.",
-      "Sie sind grundsätzlich schmerzfrei und erfordern keine besondere Behandlung.",
-      "Eine systematische Betrachtung dieses Themas erfolgt in der Leitlinie nicht."
+      "Prophylaktische Ligatur der A. femoralis in palliativer Intention",
+      "Notfallplan mit Verlegung auf die Intensivstation und Transfusion",
+      "Vorab besprochener Plan: dunkle Tücher, Anxiolyse, palliative Sedierung",
+      "Anleitung der Ehefrau, im Ereignisfall den Rettungsdienst zu alarmieren"
     ],
-    "correct": 0,
-    "tip": "Häufig handelt es sich um blumenkohlartig wachsende und nekrotisch zerfallende Lokalrezidive und Metastasen.",
-    "explanation": "Statement 8.6 beschreibt exulzerierte kutane Metastasen und Lymphknotenmetastasen als große Herausforderung für Patienten, Angehörige und Pflegende, u. a. durch hohen Pflegeaufwand und häufige Geruchsbelästigung."
+    "correct": 2,
+    "tip": "Was mit Patient und Angehörigen vorab besprochen wurde, bestimmt, wie im Ernstfall gehandelt wird.",
+    "explanation": "Kapitel 8.3 empfiehlt für antizipierte heftige Blutungen, das Risiko abzuschätzen und mit Patient und Angehörigen die Behandlungswünsche einschließlich therapeutischer Sedierung vorab zu besprechen. Im Ereignis wird der Patient nicht allein gelassen, Anxiolytika und dunkle Tücher werden eingesetzt, bei akuter Blutung ist eine palliative Sedierung indiziert; eine Nachbetreuung aller Beteiligten ist erforderlich."
   },
   {
-    "question": "Welche Maßnahme wird im Rahmen der Therapieplanung zur Vorbereitung auf eine antizipierte heftige (Arrosions-)Blutung empfohlen?",
+    "question": "Welche Maßnahme ist laut Kapitel 8.3 zur Behandlung kleinerer Sickerblutungen aus exulzerierten Tumormanifestationen geeignet?",
     "options": [
-      "Das Blutungsrisiko abzuschätzen und mit Patient und Angehörigen über Behandlungswünsche einschließlich einer möglichen therapeutischen Sedierung zu sprechen.",
-      "Jede Form der Blutungsprophylaxe zu unterlassen.",
-      "Den Patienten über das Blutungsrisiko bewusst im Unklaren zu lassen.",
-      "Eine Vorbereitung auf solche Blutungsereignisse ist nicht vorgesehen."
+      "Konventionell fraktionierte Radiatio über sechs Wochen bis 60 Gy",
+      "Jodhaltige Antiseptika als blutstillende Wundauflagen",
+      "Verzicht auf Tranexamsäure wegen ihrer hohen Toxizität",
+      "Ein- oder zweizeitige Bestrahlung und topische Hämostyptika"
     ],
-    "correct": 0,
-    "tip": "Besonders ulzerierende Lymphknoten können zu Arrosionsblutungen der Femoralgefäße mit Todesfolge führen.",
-    "explanation": "Im Rahmen der Therapieplanung soll das Blutungsrisiko abgeschätzt und mit dem Patienten sowie den Angehörigen über die Behandlungswünsche, einschließlich der Option einer therapeutischen Sedierung im Falle einer ausgeprägten Blutung, gesprochen werden."
+    "correct": 3,
+    "tip": "Gefragt sind lokal wirksame, wenig belastende Verfahren, die zum palliativen Behandlungsziel passen.",
+    "explanation": "Laut Kapitel 8.3 eignen sich bei kleineren Blutungen Hämostyptika (z. B. Calciumalginat, Gelatine) und lokal blutstillende Substanzen wie Tranexamsäure; eine lokale Bestrahlung ist wegen des früh einsetzenden antiangiogenetischen Effekts oft ein- oder zweizeitig ausreichend. Tranexamsäure hat eine geringe Toxizität, jodhaltige Antiseptika werden zur Wundantiseptik nicht empfohlen."
   },
   {
-    "question": "Was fordert Empfehlung 8.7 (Empfehlungsgrad A) bei einem chronischen Lymphödem bei Peniskarzinom-Patienten?",
+    "question": "Welche Aussage zur Behandlung der Geruchsbildung bei zerfallenden, ulzerierenden Tumormanifestationen trifft laut Kapitel 8.3 zu?",
     "options": [
-      "Eine komplexe Entstauungsbehandlung mit Lymphdrainage, Kompressionsbehandlung und Hautpflege.",
-      "Eine alleinige medikamentöse Diuretikatherapie ohne physikalische Maßnahmen.",
-      "Den Verzicht auf jede Behandlung des Lymphödems.",
-      "Eine sofortige operative Lymphgefäßrekonstruktion bei jedem Patienten."
+      "Jodhaltige Antiseptika sind wegen ihrer Biofilmwirkung Mittel der Wahl",
+      "Duftstoffe im Raum überdecken den Geruch und sind daher empfehlenswert",
+      "Systemisches Clindamycin mindert den Geruch deutlich binnen 48 Stunden",
+      "Metronidazol wirkt sofort geruchsmindernd, auch in niedriger Dosierung"
     ],
-    "correct": 0,
-    "tip": "Sekundäre Lymphödeme sind insbesondere nach beidseitiger radikaler inguinaler/pelviner Lymphadenektomie nicht selten.",
-    "explanation": "Empfehlung 8.7 fordert mit Empfehlungsgrad A bei chronischem Lymphödem eine komplexe Entstauungsbehandlung bestehend aus Lymphdrainage, Kompressionsbehandlung und Hautpflege."
+    "correct": 2,
+    "tip": "Der Patient selbst nimmt den Geruch oft nicht mehr wahr – Angehörige und Pflegende dagegen sehr wohl.",
+    "explanation": "Laut Kapitel 8.3 führt systemisches Clindamycin unabhängig von einer Resistenzbestimmung innerhalb von 48 Stunden zu einer deutlichen Geruchsminderung; Metronidazol wirkt verzögert und erfordert antiinfektiöse Dosen. Jodhaltige Antiseptika sind nicht zu empfehlen, Duftstoffe verstärken die Geruchsbelästigung eher, Raumluftreiniger sind dagegen empfehlenswert."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 12 im Zusammenhang mit Arrosionsblutungen diskutiert?",
+    "question": "Wie soll ein chronisches Lymphödem bei Peniskarzinom-Patienten laut Empfehlung 8.7 (Empfehlungsgrad A) behandelt werden?",
     "options": [
-      "Kein vorbereiteter Plan für eine mögliche Arrosionsblutung, sowie ein psychoonkologisches Screening erst dann durchzuführen, wenn der Patient bereits 'auffällig' wird.",
-      "Zu viele Vorbereitungsgespräche über mögliche Blutungsereignisse zu führen.",
-      "Ein psychoonkologisches Screening bei jedem Patienten routinemäßig durchzuführen.",
-      "Patienten grundsätzlich nicht über mögliche Komplikationen aufzuklären."
+      "Komplexe Entstauung mit Lymphdrainage, Kompression und Hautpflege",
+      "Operative Lymphabflussrekonstruktion nach Ausschöpfen der Physiotherapie",
+      "Diuretika-Dauertherapie kombiniert mit intermittierender Hochlagerung",
+      "Kompressionsstrümpfe der Klasse II als alleinige Dauertherapie"
     ],
     "correct": 0,
-    "tip": "Ein proaktiver Notfallplan mit klaren Absprachen zu Behandlungswünschen kann im Ernstfall entscheidend für eine würdevolle Versorgung sein.",
-    "explanation": "Der diskutierte Fallstrick ist, keinen vorbereiteten Plan für eine mögliche Arrosionsblutung zu haben, sowie ein psychoonkologisches Screening erst dann durchzuführen, wenn der Patient bereits auffällig wird, anstatt es frühzeitig und wiederholt im Verlauf anzubieten."
+    "tip": "Sekundäre Lymphödeme sind besonders nach beidseitiger radikaler inguinaler und pelviner Lymphadenektomie nicht selten.",
+    "explanation": "Empfehlung 8.7 (Grad A, Evidenzlevel 1) fordert bei chronischem Lymphödem eine komplexe Entstauungsbehandlung aus Lymphdrainage, Kompressionsbehandlung und Hautpflege. Eine operative Intervention am Lymphabflusssystem ist beim malignen Lymphödem laut Hintergrund nicht indiziert."
   }
 ]

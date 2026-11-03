@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was besagt Statement 7.28 zur Bedeutung des primären Lymphknotenmanagements beim Peniskarzinom?",
+    "question": "Bei welchem Anteil der Patienten mit klinisch unauffälligen Leisten (cN0) liegen laut Hintergrundtext zu Statement 7.28 bereits Mikrometastasen vor?",
     "options": [
-      "Es entscheidet aufgrund der ungünstigen Prognose des regionären Lymphknotenrezidivs über das Überleben des Patienten.",
-      "Es hat keinen Einfluss auf die Prognose des Patienten.",
-      "Es ist nur bei bereits tastbaren Lymphknoten relevant.",
-      "Es wird in der Leitlinie nicht als prognostisch bedeutsam eingestuft."
+      "2–5 %",
+      "10–25 %",
+      "35–50 %",
+      "60–75 %"
     ],
-    "correct": 0,
-    "tip": "Die Metastasierung des Peniskarzinoms erfolgt zunächst immer lymphogen, zuerst inguinal, dann pelvin, schließlich paraaortal.",
-    "explanation": "Statement 7.28 besagt, dass das primäre Lymphknotenmanagement aufgrund der ungünstigen Prognose des regionären Lymphknotenrezidivs über das Überleben des Patienten entscheidet."
+    "correct": 1,
+    "tip": "Der Anteil ist so relevant, dass die Leitlinie das primäre Lymphknotenmanagement als überlebensentscheidend einstuft.",
+    "explanation": "Laut Hintergrund zu Statement 7.28 finden sich bei cN0 in 10–25 % Mikrometastasen, die CT, PET-CT und MRT nicht erfassen; der Hintergrund zu Statement 7.32 nennt bis zu 30 % okkulte Metastasen. Rund 75 % betrifft dagegen den Metastasenanteil bei tastbar vergrößerten Leistenknoten (Kapitel 7.2.2)."
   },
   {
-    "question": "Bei welchem Anteil der Patienten mit klinischem Stadium cN0 finden sich laut Hintergrundtext zu Statement 7.28 Mikrometastasen, die der konventionellen Bildgebung nicht zugänglich sind?",
+    "question": "Ein Patient mit pT1a G1 und unauffälligen Leisten wählt die klinische Überwachung. Worüber ist er laut Empfehlung 7.30 und zugehörigem Hintergrundtext aufzuklären?",
     "options": [
-      "10–25 %.",
-      "0 %, Mikrometastasen bei cN0 kommen praktisch nie vor.",
-      "Nahezu 100 %.",
-      "Es werden keine Zahlen genannt."
+      "Schlechtere Prognose eines Lymphknotenrezidivs und Risiko eines falschen Gradings",
+      "Notwendigkeit halbjährlicher Leisten-CTs und Strahlenbelastung durch die Bildgebung",
+      "Höheres Komplikationsrisiko einer späteren MIL bei vergleichbaren Heilungschancen",
+      "Option einer prophylaktischen Leistenbestrahlung und eines späteren PET-CT-Stagings"
     ],
     "correct": 0,
-    "tip": "Dies gilt einschließlich CT, PET-CT und MRT, die solche Mikrometastasen nicht zuverlässig erkennen können.",
-    "explanation": "Laut Hintergrundtext zu Statement 7.28 finden sich bei cN0 in 10–25 % der Fälle Mikrometastasen, die einer konventionellen Röntgendiagnostik einschließlich CT, PET-CT und MRT nicht zugänglich sind."
+    "tip": "Gute Aufklärung benennt sowohl die Unsicherheit der Ausgangsbefunde als auch die Folgen eines späten Rezidivs.",
+    "explanation": "Empfehlung 7.30 (EK) verlangt die Aufklärung über die deutlich schlechtere Prognose eines Lymphknotenrezidivs; der Hintergrund ergänzt das Risiko eines falschen histologischen Gradings mit Fehlzuordnung zur Niedrigrisikogruppe. Bildgebung ersetzt die Palpation nicht, da sie okkulte Metastasen nicht zuverlässig ausschließt."
   },
   {
-    "question": "Bei welchen Tumorstadien soll laut Empfehlung 7.29 (Empfehlungsgrad A) eine klinische Überwachung statt invasivem Lymphknotenstaging erfolgen?",
+    "question": "Nach Glansektomie ergibt die Histologie pT1a G2; beide Leisten sind palpatorisch und im CT unauffällig. Welches Vorgehen an den Leisten entspricht Kapitel 7.2.1?",
     "options": [
-      "Nur bei den Tumorstadien pTa und pT1aG1.",
-      "Bei allen Tumorstadien unabhängig vom Grading.",
-      "Nur bei T3- und T4-Tumoren.",
-      "Eine klinische Überwachung ist in der Leitlinie nicht vorgesehen."
+      "Klinische Überwachung, da das unauffällige CT okkulte Metastasen ausschließt",
+      "Klinische Überwachung, da Empfehlung 6.6 bis pT1a unabhängig vom Grading gilt",
+      "Beidseitige radikale inguinale Lymphadenektomie aufgrund des G2-Gradings",
+      "Invasives Staging beider Leisten mittels DSNB oder modifizierter Lymphadenektomie"
     ],
-    "correct": 0,
-    "tip": "Eine klinische Überwachung für Patienten mit einem Tumorstadium ab pT1G2 soll dagegen nicht durchgeführt werden.",
-    "explanation": "Empfehlung 7.29 sieht eine klinische Überwachung nur bei den Tumorstadien pTa und pT1aG1 vor."
+    "correct": 3,
+    "tip": "Vergleichen Sie den Wortlaut der Grad-A-Empfehlung zur Überwachung mit der offener formulierten Empfehlung aus Kapitel 6.",
+    "explanation": "Nach Empfehlung 7.29 (Grad A) ist die klinische Überwachung auf pTa und pT1a G1 beschränkt; der Hintergrund schließt sie für pT1 G2 ausdrücklich aus, und auch der Hintergrund zu Empfehlung 6.6 bindet sie an das Grading. Die radikale inguinale Lymphadenektomie setzt nachgewiesene Metastasen voraus, und Schnittbildgebung kann Mikrometastasen nicht ausschließen."
   },
   {
-    "question": "Worüber sollen Patienten laut Empfehlung 7.30 aufgeklärt werden, wenn eine Strategie der klinischen Überwachung gewählt wird?",
+    "question": "Wie veränderte sich das Langzeitüberleben in zwei unabhängigen Studien, wenn inguinale Metastasen erst im klinisch evidenten statt im okkulten Stadium entfernt wurden?",
     "options": [
-      "Über eine deutlich schlechtere Prognose im Falle eines Lymphknotenrezidivs.",
-      "Darüber, dass eine klinische Überwachung risikofrei ist.",
-      "Darüber, dass eine bildgebende Diagnostik Mikrometastasen sicher ausschließen kann.",
-      "Eine Aufklärungspflicht besteht in diesem Zusammenhang nicht."
+      "Abfall von ca. 71 % auf ca. 33 %",
+      "Abfall von ca. 90 % auf unter 40 %",
+      "Abfall von ca. 95 % auf ca. 70 %",
+      "Abfall von ca. 80 % auf unter 10 %"
     ],
-    "correct": 0,
-    "tip": "Das Langzeitüberleben verringerte sich in Studien von ca. 90 % auf unter 40 %, wenn Lymphknotenmetastasen erst im klinisch evidenten statt im okkulten Stadium entfernt wurden.",
-    "explanation": "Empfehlung 7.30 fordert, dass Patienten über eine deutlich schlechtere Prognose im Falle eines Lymphknotenrezidivs aufgeklärt werden sollen."
+    "correct": 1,
+    "tip": "Der Unterschied ist so groß, dass die Leitlinie die Überwachung auf ein enges Niedrigrisikokollektiv beschränkt.",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.29 und 7.30 sank das Langzeitüberleben von ca. 90 % auf unter 40 %, wenn Metastasen erst klinisch manifest entfernt wurden. Die Werte 71 % und 33 % beschreiben dagegen das 5-Jahres-Überleben ohne bzw. mit pelvinem Befall (Kapitel 7.2.2.2)."
   },
   {
-    "question": "Was besagt Statement 7.31 zur dynamischen Sentinel-Lymphknotenbiopsie (DSNB), und wie hoch ist ihre Falsch-negativ-Rate in Zentren?",
+    "question": "Während einer modifizierten inguinalen Lymphadenektomie bei cN0 fällt ein derber, vergrößerter Lymphknoten auf. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Sie ist eine Option für das invasive Lymphknotenstaging bei nicht-palpablen Lymphknoten, mit einer Falsch-negativ-Rate von 5–10 % in Zentren.",
-      "Sie ist obsolet und wird nicht mehr empfohlen.",
-      "Sie hat eine Falsch-negativ-Rate von über 80 %.",
-      "Sie ersetzt vollständig die Notwendigkeit einer histologischen Sicherung."
+      "Schnellschnitt; bei Tumornachweis ipsilaterale radikale inguinale Lymphadenektomie",
+      "Kein Schnellschnitt; definitive Histologie abwarten, dann über eine RIL entscheiden",
+      "Schnellschnitt; bei Tumornachweis beidseitige radikale und pelvine Lymphadenektomie",
+      "Schnellschnitt; bei Tumornachweis Abbruch und zunächst neoadjuvante Chemotherapie"
     ],
     "correct": 0,
-    "tip": "Die DSNB erfordert ein interdisziplinäres Team aus Nuklearmedizin, Urologie und Pathologie mit entsprechender Expertise.",
-    "explanation": "Statement 7.31 beschreibt die dynamische Sentinel-Lymphknotenbiopsie als Option für das invasive Lymphknotenstaging bei nicht-palpablen Lymphknoten, mit einer Falsch-negativ-Rate von 5–10 % in Zentren."
+    "tip": "Unterscheiden Sie zwischen dem Staging unauffälliger Lymphknoten und einem Befund, der sich intraoperativ bereits verdächtig zeigt.",
+    "explanation": "Nach Empfehlung 7.34 (EK) sollen intraoperativ auffällige inguinale Lymphknoten im Schnellschnitt untersucht und bei positivem Befund ipsilateral radikal lymphadenektomiert werden. Der Verzicht auf den Schnellschnitt nach Empfehlung 7.33 betrifft nur das unauffällige MIL- bzw. DSNB-Gewebe."
   },
   {
-    "question": "Was besagt Statement 7.32 zur modifizierten inguinalen Lymphadenektomie (MIL)?",
+    "question": "Warum soll laut Empfehlung 7.33 und Hintergrundtext vom Gewebe einer DSNB oder MIL bei unauffälligen Lymphknoten keine Schnellschnittuntersuchung erfolgen?",
     "options": [
-      "Sie ist eine Standardmethode für das invasive Lymphknotenstaging bei Patienten mit nicht-palpablen Lymphknoten.",
-      "Sie wird in der Leitlinie als obsolet eingestuft.",
-      "Sie ist ausschließlich bei tastbaren Lymphknoten indiziert.",
-      "Sie ersetzt die radikale inguinale Lymphadenektomie bei jeder Lymphknotenmetastasierung."
+      "Weil der Schnellschnitt bei Plattenepithelkarzinomen gehäuft falsch-positive Befunde liefert",
+      "Weil der radioaktive Tracer eine intraoperative Gefrierschnitt-Aufarbeitung verhindert",
+      "Weil eine radikale Lymphadenektomie erst nach der Wundheilung zweizeitig erfolgen darf",
+      "Weil dadurch die Gefahr steigt, Mikrometastasen in der definitiven Histologie zu übersehen"
     ],
-    "correct": 0,
-    "tip": "Ziel der MIL ist es, zumindest die Lymphknoten der beiden superioren und der zentralen Daseler Zonen (Zone I, II und V) zu entfernen.",
-    "explanation": "Statement 7.32 beschreibt die modifizierte inguinale Lymphadenektomie als Standardmethode für das invasive Lymphknotenstaging bei Patienten mit nicht-palpablen Lymphknoten."
+    "correct": 3,
+    "tip": "Bedenken Sie, wie viel Gewebe für die sorgfältige Aufarbeitung kleinster Tumorabsiedlungen zur Verfügung stehen muss.",
+    "explanation": "Empfehlung 7.33 (EK) schließt den Schnellschnitt von MIL- und DSNB-Gewebe aus, weil er laut Hintergrund die Gefahr erhöht, Mikrometastasen in der definitiven Histologie zu übersehen. Bei intraoperativ auffälligen Knoten ist er dagegen nach Empfehlung 7.34 vorgesehen, und die RIL kann dann in gleicher Sitzung folgen."
   },
   {
-    "question": "Was fordert Empfehlung 7.33 bezüglich einer Schnellschnittuntersuchung bei modifizierter inguinaler Lymphadenektomie oder dynamischer Sentinel-Lymphknotenbiopsie?",
+    "question": "Welche Angabe zur dynamischen Sentinel-Lymphknotenbiopsie (DSNB) beim Peniskarzinom ist im Hintergrund zu Statement 7.31 belegt?",
     "options": [
-      "Es soll keine Schnellschnittuntersuchung durchgeführt werden.",
-      "Es soll bei jedem Patienten obligat eine Schnellschnittuntersuchung erfolgen.",
-      "Eine Schnellschnittuntersuchung ersetzt die definitive Histologie vollständig.",
-      "Diese Frage wird in der Leitlinie nicht beantwortet."
+      "Falsch-negativ-Rate von 5–10 % in etablierten Zentren",
+      "Gepoolte Sensitivität der Radiokolloid-Methode von 99 %",
+      "Morbiditätsrate von 25 % in der Serie mit 264 Patienten",
+      "Negativer Vorhersagewert von 88 % in der Metaanalyse"
     ],
     "correct": 0,
-    "tip": "Bei Durchführung von Schnellschnittuntersuchungen erhöht sich die Gefahr eines Übersehens von Mikrometastasen in der definitiven Histologie.",
-    "explanation": "Empfehlung 7.33 fordert, dass bei einer modifizierten inguinalen Lymphadenektomie oder dynamischen Sentinel-Lymphknotenbiopsie keine Schnellschnittuntersuchung durchgeführt werden soll."
+    "tip": "Die Methode gilt als reproduzierbar, setzt aber ein eingespieltes Team aus Nuklearmedizin, Urologie und Pathologie voraus.",
+    "explanation": "Laut Hintergrund zu Statement 7.31 wurde die DSNB in Zentren mit einer Falsch-negativ-Rate von 5–10 % etabliert. In der Metaanalyse aus 27 Studien lag die gepoolte Sensitivität bei 88 % und der negative Vorhersagewert bei 99 %; die Serie mit 264 Patienten zeigte eine Morbidität von 7,6 %."
   },
   {
-    "question": "Was fordert Empfehlung 7.34 bei intraoperativ auffälligen inguinalen Lymphknoten?",
+    "question": "In welcher Situation können Schnittbildverfahren bei nicht tastbaren Leistenlymphknoten laut Kapitel 6.2.1 eingesetzt werden?",
     "options": [
-      "Eine Schnellschnittuntersuchung, und bei positivem Nachweis eine ipsilaterale radikale Lymphadenektomie.",
-      "Den Verzicht auf jede weitere intraoperative Diagnostik.",
-      "Eine sofortige kontralaterale radikale Lymphadenektomie ohne vorherige Untersuchung.",
-      "Eine ausschließlich postoperative histologische Aufarbeitung ohne intraoperative Konsequenz."
+      "Zum Ausschluss von Mikrometastasen vor Überwachung bei pT1a G2",
+      "Bei sehr adipösen Patienten mit unzuverlässiger Leistenpalpation",
+      "Als Ersatz des invasiven Stagings bei pT1b mit unauffälligem Befund",
+      "Zur Indikationsstellung einer pelvinen Lymphadenektomie bei cN0"
     ],
-    "correct": 0,
-    "tip": "Bei klinisch unauffälligen Lymphknoten soll dagegen laut Empfehlung 7.33 keine Schnellschnittuntersuchung erfolgen.",
-    "explanation": "Empfehlung 7.34 fordert bei intraoperativ auffälligen inguinalen Lymphknoten eine Schnellschnittuntersuchung und bei positivem Nachweis eine ipsilaterale radikale Lymphadenektomie."
+    "correct": 1,
+    "tip": "Bedenken Sie, wie gering die Sensitivität der Schnittbildgebung für okkulte Mikrometastasen bei cN0 ist.",
+    "explanation": "Laut Hintergrund in Kapitel 6.2.1 können Schnittbildverfahren und Ultraschall Mikrometastasen bei cN0 weder nachweisen noch ausschließen (Sensitivität 57 %); nur bei sehr adipösen Patienten mit unzuverlässiger Palpation kommen sie mit dieser Fragestellung infrage. Die Indikation zur pelvinen Lymphadenektomie ergibt sich aus der inguinalen Histologie."
   },
   {
-    "question": "Bei welchem Anteil der Patienten mit unauffälligem inguinalem Tastbefund finden sich laut Hintergrundtext zu Statement 7.32 dennoch okkulte Metastasen?",
+    "question": "Welche Struktur bildet laut Hintergrundtext zu Statement 7.32 die laterale Grenze des Resektionsfeldes der modifizierten inguinalen Lymphadenektomie?",
     "options": [
-      "Bis zu 30 %.",
-      "0 %, bei unauffälligem Tastbefund liegen nie Metastasen vor.",
-      "Nahezu 100 %.",
-      "Diese Angabe wird im Hintergrundtext nicht gemacht."
+      "Der mediale Rand des M. sartorius",
+      "Der laterale Rand des M. adductor longus",
+      "Die laterale Kante der A. femoralis",
+      "Die laterale Kante der V. femoralis"
     ],
-    "correct": 0,
-    "tip": "Ca. 80–90 % aller Patienten mit Peniskarzinom haben bei Diagnose einen unauffälligen inguinalen Tastbefund.",
-    "explanation": "Laut Hintergrundtext zu Statement 7.32 haben bis zu 30 % der Patienten mit unauffälligem inguinalem Tastbefund dennoch okkulte, durch Tastuntersuchung nicht detektierbare Metastasen."
+    "correct": 2,
+    "tip": "Die MIL ist bewusst begrenzter angelegt als die radikale Variante – das zeigt sich auch an ihren seitlichen Grenzen.",
+    "explanation": "Laut Hintergrund zu Statement 7.32 begrenzen die MIL kranial das Lig. inguinale, medial der M. adductor longus, lateral die laterale Kante der A. femoralis, kaudal das Ende der Fossa ovalis und in der Tiefe die Fascia lata. Der M. sartorius bildet die laterale Grenze der radikalen inguinalen Lymphadenektomie (Kapitel 7.2.2.1)."
   },
   {
-    "question": "Bei welchen Risikofaktoren wird laut Hintergrundtext ein risikoadaptiertes invasives Lymphknotenstaging empfohlen?",
+    "question": "Welche Merkmale der modifizierten inguinalen Lymphadenektomie erklären laut Hintergrundtext ihre geringere Morbidität im Vergleich zur RIL?",
     "options": [
-      "Hoher Tumorgrad (G3 und G4), T1-Stadium mit lymphovaskulärer Invasion (T1b), sowie T2-T4-Stadium.",
-      "Ausschließlich bei Patienten über 80 Jahren.",
-      "Ausschließlich bei nachgewiesener HPV-negativer Histologie.",
-      "Ein invasives Staging wird unabhängig von Risikofaktoren bei keinem Patienten empfohlen."
+      "Transposition des M. sartorius und Ligatur der V. saphena magna",
+      "Resektion der Fascia lata und Verzicht auf inguinale Drainagen",
+      "Erhalt der V. saphena magna und der Blutversorgung der Hautlappen",
+      "Endoskopischer Zugang und Verzicht auf die tiefe Lymphknotengruppe"
     ],
-    "correct": 0,
-    "tip": "Dies steht im Einklang mit der in Empfehlung 6.5 geforderten invasiven Abklärung ab pT1b.",
-    "explanation": "Ein risikoadaptiertes invasives Lymphknotenstaging wird bei hohem Tumorgrad (G3/G4), bei T1-Stadium mit lymphovaskulärer Invasion (T1b) sowie bei T2-T4-Stadium empfohlen."
+    "correct": 2,
+    "tip": "Typische Probleme nach Leisten-LAD sind Hautnekrosen, Wundinfekte, Ödeme und Lymphozelen – welche Operationsschritte beugen dem vor?",
+    "explanation": "Laut Hintergrund zu den Empfehlungen 7.33–7.34 senken kleinere Inzision, limitierte Resektion sowie der Erhalt der V. saphena magna und der Blutversorgung der Hautlappen Hautkomplikationen, Ödeme und Lymphozelen. Die Ligatur der V. saphena magna gehört zur RIL; eine Sartorius-Transposition wird nicht empfohlen und gilt als Prädiktor für Komplikationen."
   }
 ]

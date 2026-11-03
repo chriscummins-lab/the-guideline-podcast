@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was fordert Empfehlung 11.1 (Kapitel 11.1) nach einer radikalen Zystektomie?",
+    "question": "Ein 63-jähriger Patient mit Ileum-Neoblase ist in der Anschlussrehabilitation tagsüber weitgehend kontinent, nachts jedoch noch inkontinent. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Den Patienten soll eine Rehabilitation angeboten werden.",
-      "Eine Rehabilitation ist nach Zystektomie nicht vorgesehen.",
-      "Eine Rehabilitation ist nur bei Komplikationen erforderlich.",
-      "Eine Rehabilitation darf frühestens nach 2 Jahren beginnen."
+      "Medikamentöse Therapie zuerst, Beckenbodentraining erst nach 6 Monaten",
+      "Intermittierender Selbstkatheterismus als primäre Kontinenzmaßnahme",
+      "Abwarten ohne Training, da sich die Kontinenz meist spontan einstellt",
+      "Kontinenztraining, Blasentraining und ggf. medikamentöse Therapie"
     ],
-    "correct": 0,
-    "tip": "Dieser Anspruch ist im SGB IX gesetzlich verankert.",
-    "explanation": "Empfehlung 11.1 fordert, dass Patienten nach Zystektomie eine Rehabilitation angeboten werden soll."
+    "correct": 3,
+    "tip": "Die Inkontinenz nach Neoblase ist multikausal: Sphinkterschwäche, geringe Anfangskapazität, nächtliche Hyperperistaltik und Mucus.",
+    "explanation": "Empfehlung 11.6 (Expertenkonsens, Konsens): Nach Zystektomie mit Neoblase soll die Harninkontinenz multimodal mit physiotherapeutischem Kontinenztraining, Blasentraining (vollständige Entleerung mittels Bauchpresse) und bei Indikation medikamentös behandelt werden. Der intermittierende Selbstkatheterismus ist für Restharnbildung vorgesehen und soll von qualifizierten Pflegefachkräften angeleitet werden."
   },
   {
-    "question": "Wo soll laut Empfehlung 11.2 die Rehabilitation nach Zystektomie und Harnableitung erfolgen?",
+    "question": "Bei Aufnahme und Entlassung aus der Rehabilitation soll nach intestinaler Harnableitung ein umfassender Status erhoben werden. Welche Untersuchungen kommen bei orthotoper Harnableitung laut Empfehlung hinzu?",
     "options": [
-      "In einer Klinik mit qualitätsgesicherter Zulassung für uroonkologische Rehabilitation.",
-      "Ausschließlich ambulant beim Hausarzt.",
-      "In einer beliebigen allgemeinen Rehabilitationseinrichtung ohne spezifische Zulassung.",
-      "Eine spezifische Einrichtung ist nicht erforderlich."
+      "Uroflowmetrie, Restharnsonographie, Miktionsprotokoll, 24-h-Vorlagentest",
+      "Videourodynamik, Urethrozystoskopie, Beckenboden-EMG, 1-h-Vorlagentest",
+      "Neoblasen-Zystogramm, MAG3-Nierenszintigraphie und Vitamin-B12-Spiegel",
+      "CT-Urographie, Neoblasenspiegelung und Bestimmung der Kreatinin-Clearance"
     ],
     "correct": 0,
-    "tip": "Das Zulassungsverfahren der Deutschen Rentenversicherung garantiert hierfür einen definierten Qualitätsstandard.",
-    "explanation": "Empfehlung 11.2 fordert, dass die Rehabilitation in einer Klinik mit qualitätsgesicherter Zulassung für uroonkologische Rehabilitation erfolgen soll."
+    "tip": "Gefragt sind Instrumente, die Entleerungsfunktion und Urinverlust im Rehabilitationsalltag quantifizieren.",
+    "explanation": "Empfehlung 11.4 (Expertenkonsens, starker Konsens): Der Status umfasst u. a. Anamnese, Blut- und Urinuntersuchung, Blutgasanalyse, Sonographie, Verdauungsstörungen, Mucusbildung und psychische Belastung, bei orthotoper Harnableitung zusätzlich Uroflowmetrie mit Restharnsonographie, Miktionsprotokoll und 24-Stunden-Vorlagentest. Eine Nierenszintigraphie nennt der Hintergrundtext nur als mögliche Ergänzung bei Harnabflussstörungen."
   },
   {
-    "question": "Welche Rehabilitationsdauer soll laut Kapitel 11.1 Patienten mit ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und/oder starker psychischer Belastung angeboten werden?",
+    "question": "Einem Patienten nach Zystektomie mit ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und starker psychischer Belastung soll eine verlängerte Rehabilitation angeboten werden. Welche Dauer nennt die Leitlinie?",
     "options": [
-      "Eine verlängerte Rehabilitationsdauer von 4 Wochen.",
-      "Eine verkürzte Rehabilitationsdauer von 2 Tagen.",
-      "Grundsätzlich keine Rehabilitation.",
-      "Eine Rehabilitationsdauer von genau 1 Jahr."
+      "3 Wochen",
+      "4 Wochen",
+      "5 Wochen",
+      "6 Wochen"
     ],
-    "correct": 0,
-    "tip": "Diese Verlängerung berücksichtigt die besonders ausgeprägte funktionelle und psychische Belastung dieser Patientengruppe.",
-    "explanation": "Kapitel 11.1 sieht vor, dass Patienten mit ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und/oder starker psychischer Belastung eine verlängerte Rehabilitationsdauer von 4 Wochen angeboten werden soll."
+    "correct": 1,
+    "tip": "Bereits eines der drei Kriterien – Inkontinenz, Leistungsminderung oder psychische Belastung – kann die Verlängerung begründen.",
+    "explanation": "Empfehlung 11.5 (Expertenkonsens, starker Konsens): Bei ausgeprägter Harninkontinenz, erheblicher Leistungsminderung und/oder starker psychischer Belastung soll eine verlängerte Rehabilitationsdauer von 4 Wochen angeboten werden. Die Rehabilitation soll in einer Klinik mit qualitätsgesicherter Zulassung für uroonkologische Rehabilitation erfolgen (11.2)."
   },
   {
-    "question": "Mit welchem Therapiekonzept soll laut Kapitel 11.1 die postoperative Harninkontinenz nach radikaler Zystektomie und Neoblasenanlage behandelt werden?",
+    "question": "Ein Patient mit Neoblase klagt in der Rehabilitation über Müdigkeit, Übelkeit und Appetitlosigkeit; die Blutgasanalyse zeigt eine metabolische Azidose. Ab welchem Base-Exzess erfolgt laut Hintergrundtext eine Therapie mit Natriumhydrogencarbonat?",
     "options": [
-      "Mit einem multimodalen Therapiekonzept aus physiotherapeutischem Kontinenztraining, Blasentraining und ggf. zusätzlicher medikamentöser Therapie.",
-      "Ausschließlich durch vollständige Bettruhe.",
-      "Ausschließlich durch eine sofortige operative Revision.",
-      "Ausschließlich durch eine Dauerkatheterversorgung ohne weitere Maßnahmen."
+      "unter −1,0 mmol/L",
+      "unter −1,5 mmol/L",
+      "unter −2,0 mmol/L",
+      "unter −2,5 mmol/L"
     ],
-    "correct": 0,
-    "tip": "Das Kontinenztraining umfasst u. a. die Kräftigung der Beckenbodenmuskulatur und die Verbesserung der Wahrnehmung für Beckenboden, Atmung und Haltung.",
-    "explanation": "Nach radikaler Zystektomie und Anlage einer Neoblase soll die postoperative Harninkontinenz mit einem multimodalen Therapiekonzept behandelt werden, das physiotherapeutisches Kontinenztraining, Blasentraining und bei Indikation zusätzliche medikamentöse Therapie umfasst."
+    "correct": 3,
+    "tip": "Ursache ist die Resorption von Ammoniumchlorid aus dem Urinreservoir; direkt postoperativ sind wöchentliche Kontrollen notwendig.",
+    "explanation": "Laut Hintergrund zu Kapitel 11.1 entwickelt sich bei Darmersatzblasen, aber auch nach Ileumconduit, nicht selten eine Azidose durch Ammoniumchlorid-Resorption; unspezifische Symptome wie Müdigkeit und Übelkeit sind hinweisend. Natriumhydrogencarbonat wird bei einem Base-Exzess unter −2,5 mmol/L gegeben."
   },
   {
-    "question": "Was fordert Empfehlung 11.7 nach Anlage eines Urostomas oder anderer Harnableitungen?",
+    "question": "Das NCCN-Distress-Thermometer mit einer Skala von 0 bis 10 wird als Screeninginstrument empfohlen. Welcher Cut-off-Wert gilt laut Leitlinie als deutlicher Hinweis auf eine ausgeprägte Belastung?",
     "options": [
-      "Schulungen mit dem Ziel der selbstständigen Versorgung sollen erfolgen.",
-      "Die Versorgung erfolgt ausschließlich lebenslang durch Pflegepersonal, nie selbstständig.",
-      "Eine Schulung ist nicht notwendig, da sich die Versorgung von selbst einstellt.",
-      "Schulungen sind nur bei Komplikationen vorgesehen."
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "correct": 0,
-    "tip": "Die äußerlich sichtbare Körperveränderung durch ein Stoma kann erhebliche psychische Belastungen verursachen, weshalb eine kompetente Anleitung wichtig ist.",
-    "explanation": "Empfehlung 11.7 fordert, dass nach Anlage eines Urostomas oder anderer Harnableitungen Schulungen mit dem Ziel der selbstständigen Versorgung erfolgen sollen."
+    "tip": "Das Instrument ist bewusst als Suchtest ausgelegt: hohe Sensitivität, aber nur mäßige Spezifität.",
+    "explanation": "Laut Hintergrund zu 11.13 und 11.14 (Kapitel 11.3) gilt beim Distress-Thermometer ein Cut-off-Wert von 5 als deutlicher Hinweis auf ausgeprägte Belastung, mit einer Sensitivität von 97 % und einer Spezifität von 41 % für Depressivität und Angst. Für die HADS wird dagegen ein Cut-off von > 11 genannt."
   },
   {
-    "question": "Welche Therapieoptionen nennt Empfehlung 11.8 zur Behandlung der erektilen Dysfunktion nach Zystektomie?",
+    "question": "Welche Optionen sollten nach radikaler Zystektomie zur Therapie der erektilen Dysfunktion unter Berücksichtigung der Patientenpräferenz eingesetzt werden?",
     "options": [
-      "Phosphodiesterasehemmer, Vakuumerektionshilfesysteme sowie intrakavernöse oder intraurethrale Alprostadil-Applikation.",
-      "Ausschließlich eine testosteronbasierte Hormontherapie.",
-      "Ausschließlich eine psychotherapeutische Behandlung ohne medikamentöse Optionen.",
-      "Erektile Dysfunktion wird in der Leitlinie nicht behandelt."
+      "Testosteronsubstitution, PDE-5-Hemmer und Beckenbodentraining",
+      "PDE-5-Hemmer, Vakuumpumpe, Alprostadil intrakavernös/intraurethral",
+      "Primär Penisprothese, da Pharmakotherapie nach Zystektomie selten wirkt",
+      "Extrakorporale Stoßwellentherapie, PDE-5-Hemmer und Testosteron"
     ],
-    "correct": 0,
-    "tip": "Die Wahl der Option richtet sich dabei nach der individuellen Patientenpräferenz.",
-    "explanation": "Empfehlung 11.8 nennt Phosphodiesterasehemmer, Vakuumerektionshilfesysteme sowie intrakavernöse Injektionen bzw. intraurethrale Applikationen von Alprostadil als Therapieoptionen bei erektiler Dysfunktion nach radikaler Zystektomie."
+    "correct": 1,
+    "tip": "Die Leitlinie übernimmt hier die Empfehlungen der S3-Leitlinie zum Prostatakarzinom.",
+    "explanation": "Empfehlung 11.8 (Expertenkonsens, starker Konsens): Zur Therapie der erektilen Dysfunktion sollten Phosphodiesterasehemmer, Vakuumerektionshilfesysteme sowie intrakavernöse Injektionen bzw. intraurethrale Applikation von Alprostadil eingesetzt werden. Frauen sollten Beratungen zu Sexualstörungen und bei Indikation eine gynäkologische Untersuchung angeboten werden."
   },
   {
-    "question": "Ab wann wird laut Kapitel 11.1 frühestens eine Bestimmung des Vitamin-B12-Spiegels bei Verwendung von terminalem Ileum zur Darmersatzblasenbildung empfohlen?",
+    "question": "Bei Verwendung von terminalem Ileum für die Darmersatzblase droht ein Vitamin-B12-Mangel. Wann wird eine Bestimmung laut Hintergrundtext frühestens empfohlen?",
     "options": [
-      "Frühestens nach 3 Jahren, aufgrund ausreichender körpereigener Speicher.",
-      "Bereits am ersten postoperativen Tag.",
-      "Erst nach 20 Jahren.",
-      "Eine Bestimmung ist in diesem Zusammenhang nie erforderlich."
+      "nach 6 Monaten",
+      "nach 1 Jahr",
+      "nach 3 Jahren",
+      "nach 5 Jahren"
     ],
-    "correct": 0,
-    "tip": "Grund ist, dass die körpereigenen Vitamin-B12-Speicher für diesen Zeitraum in der Regel ausreichen.",
-    "explanation": "Kapitel 11.1 beschreibt, dass bei Verwendung von terminalem Ileum eine Bestimmung des Vitamin-B12-Spiegels aufgrund ausreichender Speicher erst frühestens nach 3 Jahren empfohlen wird."
+    "correct": 2,
+    "tip": "Entscheidend ist die Größe der körpereigenen Vitamin-B12-Speicher, die den Mangel erst verzögert manifest werden lassen.",
+    "explanation": "Laut Hintergrund zu Kapitel 11.1 wird die Vitamin-B12-Bestimmung wegen ausreichender Speicher erst frühestens nach 3 Jahren empfohlen. Diarrhoen durch Gallensäurenverlust werden dagegen bereits in der Anschlussrehabilitation mit Cholestyramin behandelt."
   },
   {
-    "question": "Ab welchem Base-Exzess wird laut Kapitel 11.1 eine Therapie mit Natriumhydrogencarbonat bei Patienten mit Darmersatzblase empfohlen?",
+    "question": "Unter welchen Voraussetzungen soll Patienten nach systemischer Tumortherapie laut Leitlinie eine Anschlussrehabilitation angeboten werden?",
     "options": [
-      "Ab einem Base-Exzess unter -2,5 mmol/L.",
-      "Ab einem Base-Exzess von +10 mmol/L.",
-      "Eine Therapie mit Natriumhydrogencarbonat ist nie indiziert.",
-      "Ab jedem messbaren Base-Exzess, unabhängig vom Wert."
+      "Kurative Therapieintention, Alter unter 75 Jahren und ECOG 0–1",
+      "Abgeschlossene Systemtherapie, Tumorfreiheit und Erwerbstätigkeit",
+      "Rehafähigkeit, verifizierbare Funktionsstörungen, positive Rehaprognose",
+      "Grad-3-Toxizität, stationäre Vorbehandlung und fachärztlicher Antrag"
     ],
-    "correct": 0,
-    "tip": "Die Azidose entsteht durch Resorption von Ammoniumchlorid aus dem Urinreservoir und kann sich mit unspezifischen Symptomen wie Müdigkeit und Übelkeit äußern.",
-    "explanation": "Kapitel 11.1 beschreibt, dass eine Therapie mit Natriumhydrogencarbonat bei einem Base-Exzess unter -2,5 mmol/L erfolgt."
+    "correct": 2,
+    "tip": "Gerade ältere, geschwächte Patienten unter Checkpoint-Inhibitoren können von einer Rehabilitation profitieren.",
+    "explanation": "Empfehlung 11.10 (Expertenkonsens, starker Konsens): Allen rehabilitationsfähigen Patienten mit verifizierbaren posttherapeutischen Funktionsstörungen und positiver Rehabilitationsprognose soll nach systemischer Tumortherapie eine AHB angeboten werden. Alter, Erwerbstätigkeit oder kurative Intention sind keine genannten Voraussetzungen; auch psychische Belastungen können den Bedarf begründen."
   },
   {
-    "question": "Wann soll laut Empfehlung 11.13 (Kapitel 11.3) ein psychoonkologisches Screening wiederholt durchgeführt werden?",
+    "question": "Was soll laut Leitlinie zu Beginn einer Rehabilitation nach systemischer Tumortherapie hinsichtlich einer Fatigue sichergestellt werden?",
     "options": [
-      "Frühestmöglich und in angemessenen Abständen, wenn klinisch indiziert oder bei Veränderung des Erkrankungsstatus (z. B. Rezidiv oder Progress).",
-      "Nur einmalig bei Erstdiagnose, danach nie wieder.",
-      "Nur bei explizitem Wunsch des Patienten, nie proaktiv.",
-      "Ausschließlich nach Abschluss jeder Rehabilitationsmaßnahme."
+      "Erfassung erst bei Persistenz über 6 Monate nach Therapieende",
+      "Einschätzung nach klinischem Eindruck, Fragebögen erst bei Persistenz",
+      "Primär medikamentöse Behandlung mit Psychostimulanzien vor Sporttherapie",
+      "Validiertes Screening, Therapieangebot und Aufklärung über den Verlauf"
     ],
-    "correct": 0,
-    "tip": "Diese Empfehlung verweist zusätzlich auf die S3-Leitlinien Psychoonkologie und Palliativmedizin.",
-    "explanation": "Empfehlung 11.13 sieht vor, dass ein psychoonkologisches Screening frühestmöglich in angemessenen Abständen, bei klinischer Indikation oder bei Veränderung des Erkrankungsstatus wiederholt im Krankheitsverlauf durchgeführt werden sollte."
+    "correct": 3,
+    "tip": "Fatigue ist für viele Patienten die größte Belastung und wird ohne gezielte Erfassung leicht übersehen.",
+    "explanation": "Empfehlung 11.11 (Expertenkonsens, Konsens): Zu Beginn der Rehabilitation soll mittels validierter Screeningverfahren sichergestellt werden, dass eine Fatigue diagnostiziert, eine Therapie angeboten und der Patient über den Verlauf aufgeklärt wird. Tumorassoziierte Fatigue gilt laut Hintergrundtext bei mindestens 6 der 11 Kriterien der Fatigue-Coalition als angenommen."
   },
   {
-    "question": "Welche Harnausscheidungsmenge sollte laut Kapitel 11.1 bei Patienten mit Darmersatzblase angestrebt werden, um die durch Mucusbildung begünstigte Restharnbildung zu vermeiden?",
+    "question": "Welcher Lebensqualitätsfragebogen wurde laut Leitlinie speziell für Patienten mit muskelinvasivem Blasenkarzinom (T2–T4b) entwickelt?",
     "options": [
-      "Mindestens 2 Liter pro Tag.",
-      "Maximal 200 ml pro Tag.",
-      "Die Trinkmenge spielt für die Mucusbildung keine Rolle.",
-      "Mindestens 10 Liter pro Tag."
+      "EORTC QLQ-BLS24",
+      "EORTC QLQ-BLM30",
+      "EORTC QLQ-C30",
+      "MIDOS-Kurzfragebogen"
     ],
-    "correct": 0,
-    "tip": "Sekretolytisch wirksam sind zusätzlich Acetylcystein und spezielle Teemischungen.",
-    "explanation": "Kapitel 11.1 beschreibt, dass die Harnausscheidungsmenge bei Patienten mit Darmersatzblase 2 Liter pro Tag betragen sollte, um der durch Mucusbildung begünstigten Restharnbildung und Harnverhaltung entgegenzuwirken."
+    "correct": 1,
+    "tip": "Die EORTC unterscheidet beim Blasenkarzinom zwischen Modulen für nicht-muskelinvasive und muskelinvasive Tumoren.",
+    "explanation": "Laut Kapitel 11.3 wurde der 30 Punkte umfassende EORTC QLQ-BLM30 für das muskelinvasive Blasenkarzinom (T2–T4b) entwickelt, der 24 Punkte umfassende QLQ-BLS24 für das oberflächliche Karzinom (Ta, T1, CIS). Beide sind sehr umfangreich und eher für Studien als für das Screening geeignet; MIDOS dient der Symptomerfassung im palliativen Kontext."
   }
 ]
