@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Therapie soll laut Empfehlung 4.72 Patienten mit Hunner-Typ IC (HIC) bei Nachweis von Hunner-Läsionen angeboten werden?",
+    "question": "Bei einem 61-jährigen Patienten mit Blasenschmerz zeigen sich zystoskopisch typische Hunner-Läsionen. Welche Maßnahme soll ihm laut Leitlinie angeboten werden?",
     "options": [
-      "Die transurethrale Fulguration (z. B. TUC, TUR oder Laser).",
-      "Ausschließlich eine systemische Chemotherapie.",
-      "Ausschließlich eine Strahlentherapie der Blase.",
-      "Eine Therapie der Hunner-Läsionen ist laut Leitlinie nicht vorgesehen."
+      "Supratrigonale Zystektomie mit Ileozystoplastik",
+      "Sakrale Neuromodulation nach positiver Testphase",
+      "Mapping-Biopsien der gesamten Blasenwand",
+      "Transurethrale Fulguration der Läsionen (TUC)"
     ],
-    "correct": 0,
-    "tip": "Die Ansprechraten liegen bei 57–100 %, die Wirkung hält über Monate bis mehr als 2 Jahre an, häufig ist jedoch eine Wiederholung nötig.",
-    "explanation": "Empfehlung 4.72 fordert, dass Patienten mit Hunner-Typ IC eine transurethrale Fulguration (z. B. TUC, TUR oder Laser) angeboten werden soll."
+    "correct": 3,
+    "tip": "Defektes Urothel und sensorische Nervenfasern werden lokal zerstört – mit Ansprechraten, die die meisten anderen Verfahren übertreffen.",
+    "explanation": "Empfehlung 4.72 (soll): Die transurethrale Destruktion der Hunner-Läsionen durch Fulguration soll Patienten mit HIC angeboten werden; die Ansprechraten liegen bei 57–100 %. SNM ist erst nach Versagen mehrerer konservativer Verfahren, die Zystektomie als Ultima Ratio vorgesehen."
   },
   {
-    "question": "Wie hoch sind laut dem Episodeninhalt die Ansprechraten der transurethralen Fulguration von Hunner-Läsionen, und wie lange hält die Wirkung typischerweise an?",
+    "question": "Was zeigte die in der Leitlinie zitierte monozentrische RCT zum Vergleich von transurethraler Koagulation (TUC) und Resektion (TUR) bei 126 HIC-Patienten?",
     "options": [
-      "Ansprechraten von 57–100 %, Wirkung über Monate bis mehr als 2 Jahre.",
-      "Ansprechraten von unter 5 %, Wirkung nur für wenige Stunden.",
-      "Ansprechraten von 100 %, immer dauerhaft ohne jede Notwendigkeit einer Wiederholung.",
-      "Es werden keine Ansprechraten in der Leitlinie genannt."
+      "Längere symptomfreie Zeit nach TUR bei gleicher Komplikationsrate",
+      "Längere symptomfreie Zeit nach TUC bei mehr Blasenverletzungen",
+      "Gleiche symptomfreie Zeit, aber weniger Blasenverletzungen nach TUR",
+      "Gleiche symptomfreie Zeit, aber mehr Blasenverletzungen nach TUR"
     ],
-    "correct": 0,
-    "tip": "Häufig ist dennoch eine Wiederholung der Fulguration erforderlich.",
-    "explanation": "Die Ansprechraten der transurethralen Fulguration liegen bei 57–100 %, mit einer Wirkdauer von Monaten bis mehr als 2 Jahren."
+    "correct": 3,
+    "tip": "Die Wirksamkeit unterschied sich nicht – der Unterschied lag in der Invasivität des Verfahrens.",
+    "explanation": "Kapitel 4.6.1: Die symptomfreie Zeit betrug in beiden Armen 12 Monate, Schmerz und Miktionsfrequenz besserten sich gleich; Blasenverletzungen waren nach TUR häufiger (7,9 % vs. 3,4 %). Insgesamt hält die Wirkung Monate bis über 2 Jahre an, meist ist eine Wiederholung nötig."
   },
   {
-    "question": "In welcher klinischen Situation ist laut Empfehlung 4.73 eine sakrale Neuromodulation (SNM) indiziert?",
+    "question": "Welche Stellung hat die sakrale Neuromodulation (SNM) im Therapiealgorithmus der IC/BPS laut Leitlinie?",
     "options": [
-      "Nach Versagen mehrerer konservativer Verfahren und vor großen Operationen.",
-      "Als allererste Therapieoption vor jeder konservativen Maßnahme.",
-      "Ausschließlich bei Patienten unter 18 Jahren.",
-      "SNM wird in der Leitlinie nicht erwähnt."
+      "Erstlinienoption, die noch vor einer oralen PPS-Therapie steht",
+      "Option nach Versagen konservativer Verfahren, vor Zystektomien",
+      "Option erst nach erfolgloser Zystektomie mit Harnableitung",
+      "Standard, da für die Schmerztherapie bei IC/BPS zugelassen"
     ],
-    "correct": 0,
-    "tip": "Die pudendale Neuromodulation (PNM) soll dagegen laut Empfehlung 4.74 in erfahrenen Zentren erfolgen.",
-    "explanation": "Empfehlung 4.73 sieht die sakrale Neuromodulation (SNM) nach Versagen mehrerer konservativer Verfahren und vor größeren Operationen vor."
+    "correct": 1,
+    "tip": "Das Verfahren ist für OAB und Dranginkontinenz zugelassen – und soll großen ablativen Eingriffen vorgeschaltet sein.",
+    "explanation": "Empfehlung 4.73 (kann): Die SNM kann angeboten werden, wenn mehrere konservative Verfahren keinen ausreichenden Erfolg zeigen, und sollte vor größeren Operationen wie Zystektomien erwogen werden. Für die reine Schmerzbehandlung bei IC/BPS ist sie nicht zugelassen."
   },
   {
-    "question": "Wann kann laut Empfehlung 4.76 eine hyperbare Sauerstofftherapie als ergänzende Option eingesetzt werden?",
+    "question": "Was gilt laut Leitlinie für die pudendale Neuromodulation (PNM) bei IC/BPS?",
     "options": [
-      "Wenn andere konservative Maßnahmen nicht ausreichen.",
-      "Als alleinige Erstlinientherapie ohne jede vorherige konservative Maßnahme.",
-      "Ausschließlich in Kombination mit einer Zystektomie.",
-      "Die hyperbare Sauerstofftherapie wird in der Leitlinie nicht erwähnt."
+      "Sollte in Zentren mit entsprechender Erfahrung erfolgen",
+      "Ist der SNM in Studien klar unterlegen und daher obsolet",
+      "Soll bereits vor konservativen Verfahren erwogen werden",
+      "Erfolgt nicht invasiv über Klebeelektroden am Damm"
     ],
     "correct": 0,
-    "tip": "Sie ergänzt das Spektrum der eskalierenden Therapieoptionen vor einer möglichen operativen Therapie.",
-    "explanation": "Empfehlung 4.76 sieht die hyperbare Sauerstofftherapie als ergänzende Option vor, wenn andere konservative Maßnahmen nicht ausreichen."
+    "tip": "Das Verfahren ähnelt technisch der SNM, die Elektrode wird aber im Verlauf eines anderen Nervs operativ platziert.",
+    "explanation": "Empfehlung 4.74 (kann/sollte): Die PNM kann angeboten werden, wenn konservative Verfahren keinen ausreichenden Erfolg zeigen, und sollte in Zentren mit entsprechender Erfahrung durchgeführt werden. In einer Crossover-Studie besserte die PNM die Symptome sogar stärker als die SNM (59 % vs. 44 %)."
   },
   {
-    "question": "Als welche Therapieoption werden laut den Empfehlungen 4.77/4.79 die Zystektomie und Harnableitung bei IC/BPS eingeordnet?",
+    "question": "Wie ordnet die Leitlinie die Nervus-tibialis-Stimulation (NTS) bei IC/BPS ein?",
     "options": [
-      "Als Ultima Ratio.",
-      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
-      "Als ausschließlich ambulant durchführbares Verfahren.",
-      "Zystektomie und Harnableitung werden in der Leitlinie nicht erwähnt."
+      "Nicht invasive NTS parallel zu anderen konservativen Verfahren",
+      "Implantierbare NTS als Erstlinientherapie vor Instillationen",
+      "Nicht invasive NTS anstelle anderer konservativer Verfahren",
+      "NTS hat Studiencharakter und gehört in klinische Studien"
     ],
     "correct": 0,
-    "tip": "Vor dieser Maßnahme sollen die etablierten konservativen und interventionellen Optionen ausgeschöpft sein.",
-    "explanation": "Die Zystektomie und Harnableitung werden laut den Empfehlungen 4.77/4.79 als Ultima Ratio bei der Behandlung der IC/BPS eingeordnet."
+    "tip": "Die Leitlinie unterscheidet nach Invasivität: Die weniger invasive Variante ergänzt, die implantierbare folgt erst bei unzureichendem Ansprechen.",
+    "explanation": "Empfehlung 4.75 (kann): Die nicht invasive pNTS/tNTS kann parallel zu anderen konservativen Verfahren angewandt werden; die invasive NTS mit implantierbaren Elektroden kann bei unzureichendem konservativem Ansprechen angeboten werden."
   },
   {
-    "question": "Über welche Formen der Harnableitung soll der Patient laut Empfehlung 4.78 aufgeklärt werden, auch im Fall einer vorherigen Urethrektomie?",
+    "question": "Welche Rolle weist die Leitlinie der hyperbaren Sauerstofftherapie bei IC/BPS zu?",
     "options": [
-      "Über alle Formen der Harnableitung, inklusive der kontinenten Ableitung als katheterisierbarer Nabelpouch.",
-      "Ausschließlich über das Ileum-Conduit als einzige Option.",
-      "Es ist laut Leitlinie keine Aufklärung über Harnableitungsformen notwendig.",
-      "Ausschließlich über die perkutane Nephrostomie."
+      "Primärtherapie bei neu diagnostizierter Nicht-Hunner-IC",
+      "Ohne Stellenwert, da randomisiert gar keine Responder auftraten",
+      "Ergänzend, wenn andere konservative Therapien nicht ausreichen",
+      "Anstelle der Fulguration bei nachgewiesenen Hunner-Läsionen"
     ],
-    "correct": 0,
-    "tip": "Auch nach einer Urethrektomie ist eine kontinente Ableitung als katheterisierbarer Nabelpouch möglich.",
-    "explanation": "Empfehlung 4.78 fordert eine Aufklärung über alle Formen der Harnableitung, einschließlich der kontinenten Ableitung als katheterisierbarer Nabelpouch, auch nach Urethrektomie."
+    "correct": 2,
+    "tip": "Die Datenlage ist begrenzt, das Verfahren aber nicht invasiv, wiederholbar – und nicht überall verfügbar.",
+    "explanation": "Empfehlung 4.76 (sollte): Die hyperbare Sauerstofftherapie sollte zu den ergänzenden Optionen gezählt werden, wenn andere konservative Behandlungen nicht zufriedenstellend sind. In der kleinen randomisierten Studie gab es 3/14 Responder vs. 0/7 unter Sham (nicht signifikant); bei HIC ist eventuell ein besseres Ansprechen zu erwarten."
   },
   {
-    "question": "Worüber muss der Patient laut Empfehlung 4.80 aufgeklärt werden, wenn Harnröhre oder Blasenanteile bei der operativen Therapie belassen werden?",
+    "question": "Mit welchen Raten peri- und postoperativer Komplikationen bzw. Beschwerdepersistenz ist laut Leitlinie nach operativer Intervention bei IC/BPS zu rechnen?",
     "options": [
-      "Über das Risiko einer Symptompersistenz.",
-      "Über eine garantierte vollständige Symptomfreiheit.",
-      "Über eine damit verbundene Heilung der Grunderkrankung.",
-      "Eine gesonderte Aufklärung ist in diesem Fall nicht erforderlich."
+      "Komplikationen bis 7,9 %, Persistenz von 6,9 % und mehr",
+      "Komplikationen bis 27 %, Persistenz von 20 % und mehr",
+      "Komplikationen bis 27 %, Persistenz von 50 % und mehr",
+      "Komplikationen bis 41 %, Persistenz von 20 % und mehr"
     ],
-    "correct": 0,
-    "tip": "Dies ist besonders bei supratrigonalen Resektionsverfahren relevant, bei denen Blasenanteile verbleiben.",
-    "explanation": "Empfehlung 4.80 fordert eine Aufklärung über das Risiko einer Symptompersistenz, wenn Harnröhre oder Blasenanteile belassen werden."
+    "correct": 1,
+    "tip": "Bis zu vier von fünf Operierten werden beschwerdefrei – die Kehrseite rechtfertigt dennoch eine kritische Indikationsstellung.",
+    "explanation": "Kapitel 4.6.6: Trotz Beschwerdefreiheit bei bis zu 80 % muss wegen Komplikationen bis 27 % und möglicher Beschwerdepersistenz von 20 % und mehr die Indikation kritisch gestellt werden; die Harnableitung bleibt laut Statement 4.77 Ultima Ratio. 6,9 % ist der Anteil sekundärer Blasenentfernungen im Review von Osman."
   },
   {
-    "question": "Wann soll laut Empfehlung 5.1 eine stationäre urologische Rehabilitation erfolgen?",
+    "question": "Eine 58-jährige Patientin mit therapierefraktärer HIC und einer Blasenkapazität von 150 ml wünscht eine Operation; diskutiert wird eine supratrigonale Zystektomie. Worauf soll sie laut Leitlinie besonders hingewiesen werden?",
     "options": [
-      "Vor invasiveren Maßnahmen bei Versagen der ambulanten Therapie.",
-      "Ausschließlich nach Abschluss aller Therapien, unabhängig vom Erfolg.",
-      "Niemals, da eine Rehabilitation bei IC/BPS nicht vorgesehen ist.",
-      "Nur bei Patienten unter 30 Jahren."
+      "Fehlende Wirksamkeit operativer Verfahren bei Hunner-Typ-IC",
+      "Notwendigkeit einer routinemäßigen begleitenden Urethrektomie",
+      "Mögliche Symptompersistenz bei belassenen Blasenanteilen",
+      "Kontinente Ableitung nach Urethrektomie nicht mehr möglich"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich ist laut Empfehlung 5.2 auch nach einer Zystektomie mit Harnableitung eine Rehabilitation vorgesehen.",
-    "explanation": "Empfehlung 5.1 sieht eine stationäre urologische Rehabilitation vor invasiveren Maßnahmen bei Versagen der ambulanten Therapie vor."
+    "correct": 2,
+    "tip": "Ob für Schmerzfreiheit die gesamte Blase entfernt werden muss, wird kontrovers diskutiert.",
+    "explanation": "Empfehlung 4.80 (soll): Auf die mögliche Symptompersistenz bei Belassen von Harnröhre oder Blasenanteilen sollen zu operierende Patienten hingewiesen werden. HIC-Patienten profitieren operativ besser als NHIC-Patienten, eine routinemäßige Urethrektomie gilt als nicht erforderlich, und nach Urethrektomie ist ein katheterisierbarer Nabelpouch möglich (Empfehlung 4.78)."
   },
   {
-    "question": "Für welche Patientengruppe ist laut Empfehlung 5.2 ebenfalls eine stationäre Rehabilitation vorgesehen?",
+    "question": "Bei welcher Konstellation sollte laut Hintergrundtext primär eine totale Zystektomie statt eines blasenerhaltenden Vorgehens erfolgen?",
     "options": [
-      "Für Patienten nach Zystektomie mit Harnableitung.",
-      "Ausschließlich für Patienten mit erfolgreicher konservativer Therapie ohne jede Intervention.",
-      "Ausschließlich für Kinder mit IC/BPS.",
-      "Für diese Patientengruppe ist keine Rehabilitation vorgesehen."
+      "HIC mit kleiner kontrakter Blase unter 150 ml in Narkose",
+      "NHIC mit Narkosekapazität über 250 ml und starkem Schmerz",
+      "HIC bei älterer Frau mit geringem Analgetikabedarf",
+      "NHIC mit Narkosekapazität unter 250 ml und Mastzellnachweis"
     ],
-    "correct": 0,
-    "tip": "Voraussetzung ist dabei stets die Rehabilitationsfähigkeit des Patienten.",
-    "explanation": "Empfehlung 5.2 sieht auch für Patienten nach Zystektomie mit Harnableitung eine stationäre urologische Rehabilitation vor."
+    "correct": 1,
+    "tip": "Die Narkosekapazität ist ein wichtiger Prädiktor – und der Subtyp beeinflusst, wie gut ein Blasenrest toleriert wird.",
+    "explanation": "Kapitel 4.6.6: Bei NHIC, großer Narkosekapazität (>250 ml) und sehr ausgeprägtem Schmerzsyndrom ist das Belassen der Blase mit hohem Persistenzrisiko verbunden, hier sollte primär total zystektomiert werden. Kleine kontrakte Blasen sprechen besser an, der Mastzellnachweis war prognostisch nicht ausschlaggebend."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 11 im Zusammenhang mit der supratrigonalen Zystektomie diskutiert?",
+    "question": "Eine Patientin mit IC/BPS hat trotz ausgeschöpfter ambulanter konservativer Therapie starke Beschwerden, ihre Arbeitsfähigkeit ist bedroht. Was soll laut Leitlinie vor invasiveren Maßnahmen wie einer Neuromodulation angeboten werden?",
     "options": [
-      "Eine supratrigonale Zystektomie ohne vorherige Aufklärung über eine mögliche Symptompersistenz durchzuführen.",
-      "Eine Zystektomie generell für obsolet zu erklären.",
-      "Jeden Patienten unabhängig vom Befund sofort zur Zystektomie zu überweisen.",
-      "Eine Zystektomie ausschließlich bei Männern durchzuführen."
+      "Stationäre urologische Rehabilitation",
+      "Antibiotische Langzeitprophylaxe",
+      "Systemische Anti-NGF-Antikörpertherapie",
+      "Retardierte Opioide als Monotherapie"
     ],
     "correct": 0,
-    "tip": "Dies verbindet sich direkt mit der in Empfehlung 4.80 geforderten Aufklärungspflicht bei belassenen Blasenanteilen.",
-    "explanation": "Der diskutierte Fallstrick ist eine supratrigonale Zystektomie ohne vorherige Aufklärung über die laut Empfehlung 4.80 mögliche Symptompersistenz bei belassenen Blasenanteilen oder der Harnröhre."
+    "tip": "Gesucht ist ein multimodales, fachspezifisches Setting, das bei ausgeprägter Pollakisurie bevorzugt nicht ambulant stattfindet.",
+    "explanation": "Empfehlung 5.1 (soll): Bei Versagen konservativer ambulanter Therapie soll vor invasiveren Maßnahmen eine stationäre urologische Rehabilitation angeboten werden; Voraussetzung ist die Rehabilitationsfähigkeit. Nach Zystektomie mit Harnableitung gilt dies ebenfalls (Empfehlung 5.2)."
   }
 ]

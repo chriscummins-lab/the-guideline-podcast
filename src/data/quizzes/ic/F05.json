@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche zusätzlichen Basisuntersuchungen 'sollen' bzw. 'sollten' laut Empfehlung 3.16/3.17 erfolgen?",
+    "question": "Welche Zuordnung der Empfehlungsstärken für die zusätzlichen Basisuntersuchungen bei IC/BPS entspricht der Leitlinie?",
     "options": [
-      "Die Urosonografie soll erfolgen, die Uroflowmetrie mit Restharnbestimmung sollte erfolgen.",
-      "Ausschließlich eine Computertomographie des Abdomens soll erfolgen.",
-      "Ausschließlich eine Nierenszintigraphie soll erfolgen.",
-      "Zusätzliche Untersuchungen sind bei IC/BPS generell nicht vorgesehen."
+      "Urosonografie: soll; Uroflowmetrie mit Restharn: sollte; Uroflow-EMG: kann",
+      "Urosonografie: soll; Uroflowmetrie mit Restharn: kann; Uroflow-EMG: sollte",
+      "Urosonografie: sollte; Uroflowmetrie mit Restharn: kann; Uroflow-EMG: soll",
+      "Urosonografie: kann; Uroflowmetrie mit Restharn: soll; Uroflow-EMG: sollte"
     ],
     "correct": 0,
-    "tip": "Uroflow-EMG und Zystometrie/Druck-Fluss-Studie können dagegen laut Empfehlung 3.18/3.19 lediglich erwogen werden.",
-    "explanation": "Empfehlung 3.16 fordert, dass eine Urosonografie erfolgen soll, Empfehlung 3.17, dass eine Uroflowmetrie mit Restharnbestimmung erfolgen sollte."
+    "tip": "Überlegen Sie, welche Untersuchung bei allen Betroffenen sinnvoll ist und welche vor allem bei Hinweisen auf eine Beckenbodendysfunktion.",
+    "explanation": "Empfehlungen 3.16–3.18 (starker Konsens): Eine Urosonografie soll erfolgen, eine Uroflowmetrie mit Restharnbestimmung sollte erfolgen, ein Uroflow-EMG kann erwogen werden – etwa bei Hinweisen auf eine Beckenbodendysfunktion zur Erkennung einer funktionellen subvesikalen Obstruktion."
   },
   {
-    "question": "Was fordert Empfehlung 3.20a zur Urethrozystoskopie im Rahmen der IC/BPS-Diagnostik?",
+    "question": "Wann ist eine Zystometrie mit Druck-Fluss-Studie bei IC/BPS laut Leitlinie sinnvoll?",
     "options": [
-      "Sie soll erfolgen.",
-      "Sie ist bei IC/BPS kontraindiziert.",
-      "Sie soll nur bei Männern durchgeführt werden.",
-      "Sie ersetzt jede weitere Diagnostik vollständig."
+      "Als Pflichtuntersuchung zur Bestätigung der Diagnose vor jeder Therapie",
+      "Zum Nachweis einer Kapazität unter 350 ml als Diagnosekriterium der IC/BPS",
+      "Zur Differenzierung von HIC und NHIC anhand der Detrusoraktivität",
+      "Bei Bedarf, etwa bei Hinweisen auf eine zusätzliche Blasenfunktionsstörung"
     ],
-    "correct": 0,
-    "tip": "Die Durchführung unter Anästhesie soll laut Empfehlung 3.20b angeboten werden, eine Erweiterung um Hydrodistension ist laut 3.20c möglich.",
-    "explanation": "Empfehlung 3.20a fordert, dass eine Urethrozystoskopie erfolgen soll."
+    "correct": 3,
+    "tip": "Denken Sie an die Parameter Blasensensorik, Kapazität, Detrusoraktivität und Entleerung.",
+    "explanation": "Empfehlung 3.19 (kann, starker Konsens): Bei Bedarf kann eine Zystometrie mit Druck-Fluss-Studie erwogen werden; da eine IC eine gleichzeitige Harnblasenfunktionsstörung nicht ausschließt, liefert sie bei entsprechenden Hinweisen wertvolle Zusatzinformationen. Die Kapazität unter 350 ml war ein historisches NIDDK-Kriterium, kein heutiges Diagnosekriterium."
   },
   {
-    "question": "Schließt eine unauffällige Zystoskopie laut Kapitel 3.7 eine IC/BPS aus?",
+    "question": "Welche Empfehlungen gibt die Leitlinie zur Urethrozystoskopie bei IC/BPS?",
     "options": [
-      "Nein, eine unauffällige Zystoskopie schließt eine IC aus nicht aus.",
-      "Ja, eine unauffällige Zystoskopie schließt eine IC immer sicher aus.",
-      "Ja, aber nur bei männlichen Patienten.",
-      "Eine Zystoskopie ist dafür ungeeignet und wird daher nicht durchgeführt."
+      "Sie soll erfolgen; eine Durchführung in Anästhesie soll angeboten werden",
+      "Sie sollte erfolgen; sie soll vorzugsweise ambulant in Lokalanästhesie stattfinden",
+      "Sie kann erfolgen, wenn Urinzytologie und Sonografie auffällig sind",
+      "Sie soll erfolgen, aber erst nach erfolgloser oraler Basistherapie"
     ],
     "correct": 0,
-    "tip": "Insbesondere das Blasenschmerzsyndrom (BPS) ist definitionsgemäß ohne zystoskopische Veränderungen möglich.",
-    "explanation": "Kapitel 3.7 stellt klar, dass eine unauffällige Zystoskopie eine IC nicht ausschließt."
+    "tip": "Die Untersuchung dient sowohl der Differenzialdiagnose als auch dem Nachweis IC-typischer Befunde.",
+    "explanation": "Empfehlung 3.20 (starker Konsens): a) Eine Urethrozystoskopie soll bei IC/BPS durchgeführt werden, b) die Durchführung unter Anästhesie soll angeboten werden, c) unter Anästhesie kann sie um eine Hydrodistension erweitert werden. Sie dient der Abgrenzung z. B. chronischer Zystitis, Blasensteinen und Tumoren sowie dem Nachweis IC-hinweisender Schleimhautveränderungen."
   },
   {
-    "question": "Welches bildgebende Verfahren wird laut Kapitel 3.7 erwähnt, das die Erkennung von Befunden wie Glomerulationen oder Hunner-Läsionen verbessern kann?",
+    "question": "Welche zystoskopischen Befunde ordnet Kapitel 3.7.5 der IC vom Nicht-Hunner-Typ zu?",
     "options": [
-      "Narrow Band Imaging (NBI).",
-      "Die konventionelle Röntgenaufnahme des Abdomens.",
-      "Die Magnetresonanztomographie des kleinen Beckens.",
-      "Die Skelettszintigraphie."
+      "Rötliches, gefäßarmes Areal mit zulaufenden Gefäßen und Fibringerinnseln",
+      "Trabekulierung der Blasenwand mit Pseudodivertikeln und Detrusorhypertrophie",
+      "Petechien, Glomerulationen, Hypervaskularisation, pergamentartiges Urothel",
+      "Samtartig gerötete, unscharf begrenzte Schleimhautareale ohne Gefäßzeichnung"
     ],
-    "correct": 0,
-    "tip": "Typische Befunde bei der Zystoskopie sind Glomerulationen, Petechien oder ein pergamentartiges Urothel im Gegensatz zur Hunner-Läsion.",
-    "explanation": "Narrow Band Imaging (NBI) wird in Kapitel 3.7 als Verfahren genannt, das die Erkennung relevanter Befunde bei der Zystoskopie verbessert."
+    "correct": 2,
+    "tip": "Grenzen Sie die Befunde gegen Hunner-Läsion, überaktive Blase und Carcinoma in situ ab.",
+    "explanation": "Kapitel 3.7.5: IC-hinweisende Veränderungen der NHIC sind petechiale Blutungen, Glomerulationen, Hypervaskularisationen oder ein pergamentartiges Urothel; die Hunner-Läsion zeigt sich dagegen als rötliches, gefäßarmes Areal mit zulaufenden Gefäßen und Fibringerinnseln bzw. zentraler Narbe. Narrow-Band-Imaging verbessert die Erkennbarkeit von Schleimhautläsionen."
   },
   {
-    "question": "Wie soll laut Kapitel 3.7 (Empfehlung 3.21) die diagnostische Hydrodistension technisch durchgeführt werden?",
+    "question": "Wann soll laut Empfehlung 3.21 eine diagnostische Hydrodistension durchgeführt werden?",
     "options": [
-      "Immer in Narkose, mit Füllung unter Sicht mit 60–80 cm Wassersäule bis zum Stopp bzw. maximal 800–1000 ml, Druckhaltung 1–3 min.",
-      "Grundsätzlich in Lokalanästhesie in der Ambulanz.",
-      "Ohne jede Begrenzung des Füllvolumens oder der Druckhöhe.",
-      "Ausschließlich ambulant ohne Sedierung oder Anästhesie."
+      "Bei unauffälliger Urethrozystoskopie oder ausgeprägten Symptomen",
+      "Nur bei zystoskopisch gesicherten Hunner-Läsionen zur Bestätigung",
+      "Erst nach Versagen einer mindestens sechsmonatigen PPS-Therapie",
+      "Bei positivem Kaliumchlorid-Test und Kapazität unter 350 ml"
     ],
     "correct": 0,
-    "tip": "Bei der Entleerung wird dann auf Glomerulationen, Mucosa-Cracking und wasserfallartige Blutung geachtet, mit Fotodokumentation.",
-    "explanation": "Empfehlung 3.21 fordert, dass die diagnostische Hydrodistension immer in Narkose durchgeführt wird, mit Füllung unter Sicht mit 60–80 cm Wassersäule bis zum Stopp bzw. maximal 800–1000 ml und einer Druckhaltung von 1–3 Minuten."
+    "tip": "Die diagnostische Hydrodistension kann in derselben Narkose wie die Urethrozystoskopie erfolgen.",
+    "explanation": "Empfehlung 3.21a (soll, starker Konsens): Eine diagnostische Hydrodistension soll bei unauffälliger Urethrozystoskopie oder ausgeprägten Symptomen erfolgen – laut Kapitel 3.7.6 auch, wenn die Zystoskopie wegen Schmerzen oder geringem Miktionsvolumen nicht tolerabel ist. Eine ohne Hydrodistension „normal“ erscheinende Schleimhaut schließt eine IC nicht aus."
   },
   {
-    "question": "Wie wird der KCl-Test (Kaliumchlorid-Test) laut Empfehlung 3.22 in der aktuellen Leitlinie eingeordnet?",
+    "question": "Ein Kollege möchte eine diagnostische Hydrodistension „mal eben“ ambulant in Lokalanästhesie durchführen. Wie bewertet die Leitlinie dieses Vorgehen?",
     "options": [
-      "Er spielt nur eine untergeordnete Rolle, u. a. wegen fehlender Cut-offs und der Schmerzbelastung für den Patienten.",
-      "Er gilt als zentraler, obligater diagnostischer Goldstandard.",
-      "Er ersetzt die Zystoskopie vollständig.",
-      "Er wird erstmals in dieser Leitlinienversion als Standardverfahren eingeführt."
+      "Zulässig bei großer Blasenkapazität und nur geringen Schmerzen der Patientin",
+      "Nicht leitliniengerecht; sie soll unter anästhetischen Bedingungen erfolgen",
+      "Zulässig, sofern der Füllungsdruck auf 30 cm Wassersäule begrenzt wird",
+      "Nicht leitliniengerecht; sie soll erst nach einer Urodynamik erfolgen"
     ],
-    "correct": 0,
-    "tip": "Diese Einschränkung beruht u. a. auf der fehlenden Standardisierung diagnostischer Schwellenwerte.",
-    "explanation": "Empfehlung 3.22 ordnet den KCl-Test als nur untergeordnet relevant ein, insbesondere wegen fehlender Cut-off-Werte und der Schmerzbelastung für den Patienten."
+    "correct": 1,
+    "tip": "Achten Sie auf Inhalt und Empfehlungsstärke von Empfehlung 3.21b.",
+    "explanation": "Empfehlung 3.21b (soll, starker Konsens 100 %): Eine Hydrodistension soll unter anästhetischen Bedingungen erfolgen – laut Kapitel 3.7.6 in Allgemein- oder Spinalanästhesie oder unmittelbar nach EMDA, da die Blasenschmerzen mit zunehmender Füllung steigen und vegetative Reaktionen auftreten können. Eine vorgeschaltete Urodynamik ist keine Voraussetzung."
   },
   {
-    "question": "Kann eine IC/BPS laut den Empfehlungen 3.23–3.25 durch eine Biopsie bewiesen oder ausgeschlossen werden?",
+    "question": "Welche Durchführung der diagnostischen Hydrodistension beschreibt Kapitel 3.7.6?",
     "options": [
-      "Nein, eine IC/BPS ist durch Biopsie weder nachweisbar noch ausschließbar.",
-      "Ja, eine Biopsie ist der alleinige diagnostische Goldstandard.",
-      "Ja, aber nur bei männlichen Patienten.",
-      "Eine Biopsie ist bei IC/BPS grundsätzlich verboten."
+      "Zulaufdruck 30–40 cm Wassersäule, maximal 800–1000 ml, Druck 8–10 min halten",
+      "Zulaufdruck 60–80 cm Wassersäule, maximal 400–500 ml, Druck 8–10 min halten",
+      "Zulaufdruck 60–80 cm Wassersäule, maximal 800–1000 ml, Druck 1–3 min halten",
+      "Zulaufdruck 30–40 cm Wassersäule, maximal 400–500 ml, Druck 1–3 min halten"
     ],
-    "correct": 0,
-    "tip": "Biopsien werden vor allem zum Ausschluss anderer Pathologien, insbesondere eines Carcinoma in situ (CIS), entnommen.",
-    "explanation": "Die Empfehlungen 3.23–3.25 stellen klar, dass eine IC/BPS durch eine Biopsie weder nachweisbar noch ausschließbar ist."
+    "correct": 2,
+    "tip": "Gefüllt wird unter permanenter Sicht, bis der Zulauf selbstständig stoppt oder eine Volumenobergrenze erreicht ist.",
+    "explanation": "Kapitel 3.7.6: Bei entleerter Blase beginnend wird unter permanenter Sicht mit 60–80 cm Wassersäule gefüllt, bis der Zulauf stoppt (individuelle Narkosekapazität) oder maximal 800–1000 ml erreicht sind; der Druck wird 1–3 min gehalten. Beim Halten und Entleeren achtet man auf Glomerulationen, Petechien, Mucosa-Cracking und wasserfallartige Blutungen, möglichst mit Fotodokumentation."
   },
   {
-    "question": "Welche Pathologie soll laut Kapitel 3.9 insbesondere durch eine gezielte Biopsie ausgeschlossen werden?",
+    "question": "Welchen Stellenwert hat der Kaliumchlorid-(KCl-)Test laut Statement 3.22 in der Diagnostik der IC/BPS?",
     "options": [
-      "Ein Carcinoma in situ (CIS).",
-      "Eine Zystitis cystica.",
-      "Eine benigne Prostatahyperplasie.",
-      "Ein Leiomyom der Harnblase."
+      "Zentral – er ist bei Gesunden in rund 98 % negativ und damit sehr spezifisch",
+      "Hoch – er sollte vor jeder Instillationstherapie zur Indikation erfolgen",
+      "Hoch – ein positiver Befund ersetzt die diagnostische Hydrodistension",
+      "Untergeordnet – wegen uneinheitlicher Cut-offs und der Schmerzbelastung"
     ],
-    "correct": 0,
-    "tip": "Randomisierte Mapping-Biopsien bei unauffälligem Befund sind dagegen nicht vorgesehen.",
-    "explanation": "Kapitel 3.9 nennt das Carcinoma in situ (CIS) als wichtigste auszuschließende Pathologie bei gezielter Biopsie."
+    "correct": 3,
+    "tip": "Der Test erfolgt am wachen Patienten und fällt auch bei OAB, Prostatitis oder akutem Harnwegsinfekt positiv aus.",
+    "explanation": "Statement 3.22 (starker Konsens): Wegen nicht einheitlicher Cut-offs bzw. Normwerte und der (Schmerz-)Belastung hat der KCl-Test einen untergeordneten Stellenwert. Er ist zwar bei ca. 80 % der IC/BPS-Patienten positiv und bei 98,3 % der Gesunden negativ, aber ebenso bei OAB, Prostatitis, Strahlenzystitis oder akutem HWI."
   },
   {
-    "question": "Was gilt laut den Empfehlungen 3.26–3.28 für die Stuhlmikrobiomanalyse und die radiologische Bildgebung bei IC/BPS?",
+    "question": "Bei einer Patientin mit Hunner-Typ IC soll zum Ausschluss eines Carcinoma in situ biopsiert werden. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Keine Stuhlmikrobiomanalyse; radiologische Bildgebung nur zur Differenzialdiagnostik, ansonsten mit Studiencharakter.",
-      "Beide Verfahren sind obligater Bestandteil der Routinediagnostik.",
-      "Die Stuhlmikrobiomanalyse ist obligat, die Bildgebung dagegen generell verboten.",
-      "Beide Verfahren werden in der Leitlinie nicht erwähnt."
+      "Biopsie aus dem Zentrum der Hunner-Läsion, Detrusor nicht erforderlich",
+      "Oberflächliche Schleimhautbiopsie, da Urothel und Submucosa genügen",
+      "Bürstenzytologie der Hunner-Läsion anstelle einer Gewebeentnahme",
+      "Biopsie vom Rand der Hunner-Läsion unter Einschluss des Detrusors"
     ],
-    "correct": 0,
-    "tip": "Diese Zurückhaltung spiegelt die begrenzte Evidenz dieser Verfahren für die IC/BPS-Diagnostik wider.",
-    "explanation": "Die Empfehlungen 3.26–3.28 sehen keine Stuhlmikrobiomanalyse vor; radiologische Bildgebung soll nur zur Differenzialdiagnostik eingesetzt werden, ansonsten hat sie Studiencharakter."
+    "correct": 3,
+    "tip": "Für eine aussagekräftige Histologie hat sich eine Probengröße von etwa 3 × 3 × 3 mm bewährt.",
+    "explanation": "Empfehlung 3.25a/b (sollte, starker Konsens): Biopsien sollten bei Hinweisen zum Ausschluss anderer Pathologien, insbesondere eines CIS, erfolgen und die Blasenwand unter Einschluss des Detrusors erfassen; laut Kapitel 3.9 ist bei HIC vom Rand und nicht vom Zentrum der Läsion zu biopsieren. Eine IC/BPS selbst kann durch eine Biopsie weder nachgewiesen noch ausgeschlossen werden (Statement 3.24)."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 5 im Zusammenhang mit der Hydrodistension diskutiert?",
+    "question": "Welchen Stellenwert hat die radiologische Bildgebung bei IC/BPS laut Statement 3.27 und Empfehlung 3.28?",
     "options": [
-      "Die Hydrodistension 'mal eben in der Ambulanz' in Lokalanästhesie durchzuführen, statt sie immer in Narkose vorzunehmen.",
-      "Die Hydrodistension generell zu unterlassen, obwohl sie immer notwendig wäre.",
-      "Die Hydrodistension routinemäßig ambulant und ohne jede Bildgebung durchzuführen.",
-      "Die Hydrodistension nur bei Männern durchzuführen."
+      "Die CT dient als Standard zur Messung der Blasenwanddicke im Verlauf",
+      "Indikation in der Differenzialdiagnostik, ansonsten Studiencharakter",
+      "Das diffusionsgewichtete MRT soll vor jeder Hydrodistension erfolgen",
+      "Die Bildgebung ersetzt bei typischem Befund die Urethrozystoskopie"
     ],
-    "correct": 0,
-    "tip": "Die diagnostische Hydrodistension erfolgt laut Empfehlung 3.21 grundsätzlich immer in Narkose.",
-    "explanation": "Der diskutierte Fallstrick ist, die Hydrodistension in Lokalanästhesie 'mal eben in der Ambulanz' durchzuführen, obwohl sie laut Leitlinie immer in Narkose erfolgen soll."
+    "correct": 1,
+    "tip": "Die Urosonografie ist hiervon getrennt zu betrachten – sie gehört zur Basisdiagnostik.",
+    "explanation": "Statement 3.27 und Empfehlung 3.28 (starker Konsens): Die radiologische Bildgebung ist kein Mittel der Standarddiagnostik, hat aber ihre Indikation in der Differenzialdiagnostik; darüber hinaus hat sie Studiencharakter und kann unter Beachtung der Patientensicherheit erfolgen. Für die CT ergeben sich wegen geringer Ortsauflösung und Strahlenbelastung derzeit keine Einsatzmöglichkeiten."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Was gilt laut Kapitel 2.5.1 (Urotheldysfunktion, Statement 2.8) als charakteristisch für den Hunner-Typ IC (HIC)?",
+    "question": "Welche Pathophysiologie beschreibt die Leitlinie für das defekte Urothel bei Hunner-Typ IC?",
     "options": [
-      "Urotheldefekte und eine erhöhte Permeabilität des Uroethels.",
-      "Ein vollkommen intaktes, unauffälliges Urothel ohne jede Permeabilitätsstörung.",
-      "Eine ausschließlich bakterielle Besiedlung des Uroethels.",
-      "Eine vollständige Regeneration der GAG-Schicht."
+      "Toxische Urinbestandteile dringen in tiefere Schichten und lösen Nervenhyperaktivität aus",
+      "Eine verminderte urotheliale ATP-Freisetzung dämpft die Afferenzen und senkt den Harndrang",
+      "Ein verdicktes Urothel mit vermehrten Umbrella-Zellen behindert den Aufbau der GAG-Schicht",
+      "Urothelzellen verlieren ihre Signalfunktion und fungieren danach als passive Barriere"
     ],
     "correct": 0,
-    "tip": "Die gestörte GAG-Schicht dient als Rationale für spätere intravesikale Therapien wie Hyaluronsäure oder Chondroitinsulfat.",
-    "explanation": "Statement 2.8 beschreibt Urotheldefekte und eine erhöhte Permeabilität des Uroethels als charakteristisch für den Hunner-Typ IC."
+    "tip": "Das gesunde Urothel ist Barriere und Sensor zugleich – überlegen Sie, was bei Verlust der Barriere geschieht.",
+    "explanation": "Kapitel 2.5.1: Bei HIC ist die Urothelbarriere defekt (Denudation, fehlende Umbrella-Zellen, zerstörte GAG-Schicht); toxische Urinbestandteile dringen ein und führen zu afferenter Nervenhyperaktivität, Schmerz und anhaltender Entzündung (Statement 2.8). Die urotheliale ATP-Ausscheidung ist bei IC/BPS erhöht, nicht vermindert, und verstärkt über P2X3-Rezeptoren Drang und Schmerz."
   },
   {
-    "question": "Was wird laut Kapitel 2.5.2 (Infektionen, Statement 2.9) zum Zusammenhang zwischen bakteriellen/viralen Harnwegsinfektionen und IC/BPS-Symptomschüben ausgesagt?",
+    "question": "Welche Aussage zu Infektionen bei IC/BPS entspricht Statement 2.9 der Leitlinie?",
     "options": [
-      "Symptomschübe sind nicht zwingend mit einem Bakteriennachweis verbunden, obwohl ca. 7 % begleitende rezidivierende Harnwegsinfekte aufweisen.",
-      "Jeder Symptomschub ist zwingend mit einem positiven Bakteriennachweis verbunden.",
-      "Harnwegsinfektionen spielen bei der IC/BPS keinerlei Rolle als möglicher Trigger.",
-      "IC/BPS-Patienten haben ein vermindertes Risiko für Herpes zoster."
+      "Symptomschübe gehen in der Regel mit einem gehäuften Bakteriennachweis einher",
+      "Etwa ein Drittel der Patienten hat begleitend rezidivierende Harnwegsinfektionen",
+      "IC/BPS-Patienten haben ein erhöhtes Risiko für Hepatitis B/C und Herpes zoster",
+      "Eine nachgewiesene bakterielle Harnwegsinfektion schließt eine IC/BPS aus"
     ],
-    "correct": 0,
-    "tip": "Zudem besteht bei IC/BPS-Patienten ein erhöhtes Risiko für Hepatitis B/C und Herpes zoster.",
-    "explanation": "Statement 2.9 beschreibt bakterielle/virale Harnwegsinfekte als möglichen Trigger, wobei etwa 7 % der Patienten begleitende rezidivierende HWI aufweisen; Symptomschübe sind jedoch nicht zwingend mit einem Bakteriennachweis verbunden, und es besteht ein erhöhtes Risiko für Hepatitis B/C und Herpes zoster."
+    "correct": 2,
+    "tip": "Statement 2.9 unterscheidet Infektionen als möglichen Auslöser, als Begleiterkrankung und als vermutete Ursache von Schüben.",
+    "explanation": "Statement 2.9 (starker Konsens): Bakterielle und virale HWI triggern möglicherweise eine IC/BPS; ca. 7 % haben begleitend rezidivierende HWI, Symptomschübe sind nicht mit gehäuftem Bakteriennachweis verbunden, und das Risiko für Hepatitis B/C sowie Herpes zoster ist erhöht. Ein Infektnachweis schließt eine IC/BPS nicht aus (Statement 3.8)."
   },
   {
-    "question": "Worauf soll bei der Untersuchung auf eine Beckenbodendysfunktion (Kapitel 2.5.3, Statement 2.10) geachtet werden?",
+    "question": "Worauf sollen IC/BPS-Patienten laut Empfehlung 2.10 gezielt untersucht werden?",
     "options": [
-      "Auf erhöhten Tonus, Spannungsmyalgie und myofasziales Schmerzsyndrom mit Tenderpoints.",
-      "Ausschließlich auf eine Beckenbodenschwäche mit Senkungssymptomatik.",
-      "Ausschließlich auf eine Harninkontinenz bei Belastung.",
-      "Beckenbodendysfunktion spielt laut Leitlinie keine Rolle bei der IC/BPS."
+      "Auf Detrusorüberaktivität, Blasenkapazität und Restharn in der Urodynamik",
+      "Auf Beckenbodentonus, Spannungsmyalgie, myofasziale Tenderpoints und Myalgie",
+      "Auf Small-Fiber-Neuropathie mittels Hautbiopsie und Nervenleitstudie",
+      "Auf erhöhte Mastzelldichte im Detrusor mittels Tryptase-Immunhistochemie"
     ],
-    "correct": 0,
-    "tip": "Diese Befunde können später Grundlage für eine gezielte Beckenbodenphysiotherapie sein.",
-    "explanation": "Statement 2.10 fordert die Untersuchung auf erhöhten Beckenbodentonus, Spannungsmyalgie und ein myofasziales Schmerzsyndrom mit Tenderpoints."
+    "correct": 1,
+    "tip": "Kapitel 2.5.3 verweist auf viszero-muskuläre Reflexe als mögliche Verbindung zur Blase.",
+    "explanation": "Empfehlung 2.10 (soll, starker Konsens): IC/BPS-Patienten sollen hinsichtlich erhöhtem Beckenbodenmuskeltonus, Beckenbodenspannungsmyalgie, myofaszialem Beckenschmerzsyndrom (Tenderpoints) und Beckenbodenmyalgie untersucht werden. Ein erhöhter Beckenbodentonus findet sich bei 50–87 % der Betroffenen; als Assessments dienen u. a. vaginale bzw. anale Palpation und EMG."
   },
   {
-    "question": "Welche klinischen bzw. therapeutischen Konsequenzen ergeben sich laut Kapitel 2.5.5 (Mikrobiom, Statement 2.12) derzeit aus Erkenntnissen zum Mikrobiom bei IC/BPS?",
+    "question": "Welche Konsequenz zieht die Leitlinie aus den Daten zum viszeralen Crosstalk zwischen Darm und Harnblase?",
     "options": [
-      "Bislang keine therapeutischen Konsequenzen.",
-      "Eine obligate stuhlbasierte Mikrobiomtherapie für alle Patienten.",
-      "Eine vollständige Ablehnung jeglicher Rolle des Mikrobioms in der Pathogenese.",
-      "Eine Zulassung spezifischer Probiotika zur Standardtherapie."
+      "Bislang lassen sich daraus keine therapeutischen Konsequenzen ableiten",
+      "Eine Stuhlmikrobiomanalyse sollte bei begleitendem Reizdarmsyndrom erfolgen",
+      "Ketotifen sollte bei gleichzeitiger Reizdarmsymptomatik eingesetzt werden",
+      "Eine Urinmikrobiomanalyse sollte die konventionelle Urinkultur ergänzen"
     ],
     "correct": 0,
-    "tip": "Auch der viszerale Crosstalk zwischen Darm und Blase (Kapitel 2.5.4) hat bislang keine etablierten therapeutischen Konsequenzen.",
-    "explanation": "Statement 2.12 stellt fest, dass sich aus den Erkenntnissen zum Mikrobiom bei IC/BPS bislang keine therapeutischen Konsequenzen ergeben."
+    "tip": "Prüfen Sie, auf welcher Art von Studien die Crosstalk-Daten überwiegend beruhen.",
+    "explanation": "Statement 2.11: Aus den tierexperimentellen Daten zum viszeralen Crosstalk lassen sich aktuell keine therapeutischen Schlussfolgerungen ableiten; nach Statement 2.12 ergaben Urin- und Darmmikrobiomanalysen bisher keine eindeutigen Ergebnisse. Ketotifen hob die Effekte nur im Tiermodell auf, eine Stuhlmikrobiomanalyse wird nicht empfohlen (Statement 3.26)."
   },
   {
-    "question": "Was wird laut Kapitel 2.5.6 (Entzündung, Statement 2.13) zu den Zellinfiltraten bei IC/BPS beschrieben?",
+    "question": "Welche Aussage zu Entzündungsinfiltraten in der Blasenwand trifft laut Statement 2.13 zu?",
     "options": [
-      "B- und T-Zell-Infiltrate, die beim Hunner-Typ IC dichter und oft follikulär ausgeprägt sind.",
-      "Ausschließlich neutrophile Granulozyten ohne jede lymphozytäre Beteiligung.",
-      "Es liegen bei IC/BPS keinerlei entzündliche Zellinfiltrate vor.",
-      "Eosinophile Infiltrate als einziger charakteristischer Zelltyp."
+      "Dichte neutrophile Infiltrate sind bei HIC typisch und weisen auf eine bakterielle Ursache hin",
+      "Entzündungsinfiltrate kommen nur bei HIC vor, bei NHIC ist die Submucosa entzündungsfrei",
+      "Bei NHIC sind die Infiltrate dichter, bei HIC überwiegen eosinophile Granulozyten",
+      "B- und T-Zell-Infiltrate der Submucosa sind typisch für HIC und NHIC, bei HIC dichter"
     ],
-    "correct": 0,
-    "tip": "Die Genetik (Kapitel 2.5.7) spielt dagegen für die klinische Diagnostik derzeit keine Rolle.",
-    "explanation": "Statement 2.13 beschreibt B- und T-Zell-Infiltrate, die beim Hunner-Typ IC dichter und oft follikulär ausgeprägt sind."
+    "correct": 3,
+    "tip": "Erinnern Sie sich an Tabelle 4 zu den histologischen Unterschieden der Subtypen.",
+    "explanation": "Statement 2.13: Entzündungszellinfiltrate, vorwiegend B- und T-Zellen in der Submucosa, sind typisch für HIC und NHIC; bei HIC sind sie dichter und oft in Aggregaten/Follikeln organisiert (bei 40–90 %). Eine dichte neutrophile Infiltration als Hinweis auf eine akute infektiöse Entzündung wurde nie beobachtet, Eosinophile finden sich nur in geringer Zahl."
   },
   {
-    "question": "Welches molekulare Target wird laut Kapitel 2.5.8 (Statement 2.15) als künftiger Angriffspunkt für die IC/BPS-Therapie diskutiert?",
+    "question": "Wie hoch ist laut Kapitel 2.5.7 das Erkrankungsrisiko von Verwandten ersten Grades, und welche klinische Konsequenz zieht Statement 2.14?",
     "options": [
-      "Das NLRP3-Inflammasom.",
-      "Der Androgenrezeptor.",
-      "Der HER2-Rezeptor.",
-      "Das PSMA-Molekül."
+      "Etwa 6-fach erhöht; eine gezielte genetische Diagnostik ist klinisch etabliert",
+      "Etwa 6-fach erhöht; eine gezielte genetische Diagnostik ergibt sich noch nicht",
+      "Etwa 17-fach erhöht; eine gezielte genetische Diagnostik ist klinisch etabliert",
+      "Etwa 17-fach erhöht; eine gezielte genetische Diagnostik ergibt sich noch nicht"
     ],
-    "correct": 0,
-    "tip": "Dieses Inflammasom ist Teil der angeborenen Immunantwort und an Entzündungsprozessen beteiligt.",
-    "explanation": "Statement 2.15 nennt das NLRP3-Inflammasom als künftigen Angriffspunkt für die Therapie der IC/BPS."
+    "correct": 3,
+    "tip": "Trennen Sie die epidemiologische Beobachtung von der Frage, was daraus heute für die Diagnostik folgt.",
+    "explanation": "Laut Kapitel 2.5.7 ergab sich ein 17-fach erhöhtes Risiko für Verwandte ersten Grades; bei monozygoten Zwillingen zeigten 5 von 8, bei 26 dizygoten keiner IC/BPS-Symptome. Statement 2.14: Es gibt Hinweise auf eine genetische Disposition, eine zielgerichtete genetische Diagnostik für die Klinik ergibt sich daraus noch nicht; das 6-fache Risiko betrifft das Harnblasenkarzinom bei IC/BPS."
   },
   {
-    "question": "Was ist laut Kapitel 2.5.9 (Statement 2.16) bei der IC/BPS in Bezug auf das Nervensystem beschrieben?",
+    "question": "Welchen Mechanismus hebt Statement 2.15 als potenziell entscheidend und als möglichen künftigen Therapieansatz bei IC/BPS hervor?",
     "options": [
-      "Eine neuronale Überaktivität mit peripherer und zentraler Sensibilisierung.",
-      "Eine vollständige Denervierung der Blasenwand ohne jede neuronale Aktivität.",
-      "Eine ausschließlich periphere, nie zentrale Sensibilisierung.",
-      "Das Nervensystem spielt bei der Pathogenese keine erkennbare Rolle."
+      "Den Vanilloid-Rezeptor TRPV1",
+      "Den purinergen P2X3-Rezeptor",
+      "Das NLRP3-Inflammasom",
+      "Den Wachstumsfaktor VEGF"
     ],
-    "correct": 0,
-    "tip": "Diese Sensibilisierung kann zur Chronifizierung der Schmerzsymptomatik beitragen.",
-    "explanation": "Statement 2.16 beschreibt eine neuronale Überaktivität mit peripherer und zentraler Sensibilisierung bei IC/BPS."
+    "correct": 2,
+    "tip": "Gesucht ist ein Bestandteil der angeborenen Immunantwort, der Entzündung über längere Zeit „wächterartig“ aufrechterhalten kann.",
+    "explanation": "Statement 2.15: Inflammasome, insbesondere NLRP3, spielen potenziell eine entscheidende Rolle bei der IC/BPS und könnten künftig ein wichtiger therapeutischer Ansatzpunkt sein; sie setzen über Caspasen IL-1β und IL-18 frei. TRPV1 und P2X3 gehören zur gestörten afferenten Signalverarbeitung (Kapitel 2.5.9 bzw. 2.5.1), VEGF zur gestörten Mikrozirkulation (Kapitel 2.5.11)."
   },
   {
-    "question": "Welche Lokalisation der Mastzellen gilt laut Kapitel 2.5.10 (Statement 2.17) als typisch für den Hunner-Typ IC – im Gegensatz zu einer bloßen Dichtezunahme im Detrusor?",
+    "question": "Wie bewertet Statement 2.16 die Rolle neuronaler Prozesse (periphere und zentrale Sensibilisierung) bei der IC/BPS?",
     "options": [
-      "Die subepitheliale Lokalisation der Mastzellen.",
-      "Eine Lokalisation ausschließlich im perivesikalen Fettgewebe.",
-      "Eine Lokalisation ausschließlich in den Ureteren.",
-      "Mastzellen spielen laut Leitlinie keine Rolle bei HIC."
+      "Beteiligung wahrscheinlich; ursächliche Rolle für die Ätiologie belegt",
+      "Beteiligung wahrscheinlich; Aussage zur Kausalität noch nicht möglich",
+      "Beteiligung auf periphere Afferenzen beschränkt; zentrale Prozesse unbeteiligt",
+      "Beteiligung beim Nicht-Hunner-Typ belegt; dort als Ursache gesichert"
     ],
-    "correct": 0,
-    "tip": "Diese Unterscheidung ist wichtig, da allein der Nachweis von Mastzellen in einer Biopsie nicht beweisend für eine IC ist.",
-    "explanation": "Statement 2.17 beschreibt, dass nicht die Dichte der Mastzellen im Detrusor, sondern deren subepitheliale Lokalisation typisch für den Hunner-Typ IC ist."
+    "correct": 1,
+    "tip": "Denken Sie an die C-Faser-Hyperaktivität und die spinale Sensibilisierung, die Kapitel 2.5.9 beschreibt.",
+    "explanation": "Statement 2.16: Die Beteiligung lokaler und zentraler neuronaler Prozesse an der Ausprägung der IC/BPS ist wahrscheinlich, über kausale Zusammenhänge hinsichtlich der Ätiologie kann noch keine Aussage gemacht werden. Beschrieben sind u. a. C-Faser-Hyperaktivität, Hyperinnervation mit NGF-Erhöhung und spinale Sensibilisierung."
   },
   {
-    "question": "Womit wird laut Kapitel 2.5.11 (Statement 2.18) die Gefäßpermeabilität und die petechialen Blutungen bei IC/BPS erklärt?",
+    "question": "Die Pathologie meldet bei einer Patientin mit Blasenschmerz eine erhöhte Mastzellzahl im Detrusor. Wie ist dieser Befund laut Leitlinie einzuordnen?",
     "options": [
-      "Mit einer gestörten Mikroperfusion.",
-      "Mit einer überschießenden Koagulation ohne Gefäßbeteiligung.",
-      "Mit einer ausschließlich arteriosklerotischen Gefäßveränderung.",
-      "Mikrovaskuläre Veränderungen spielen bei der IC/BPS keine Rolle."
+      "Als beweisend für eine IC/BPS, sofern eine Tryptase-Färbung erfolgte",
+      "Als allein kein gutes Kriterium; typisch für HIC ist die subepitheliale Lage",
+      "Als Hinweis auf NHIC, da Mastzellen bei HIC vorwiegend im Detrusor liegen",
+      "Als Hinweis auf OAB, da dort die Detrusor-Mastzellen signifikant erhöht sind"
     ],
-    "correct": 0,
-    "tip": "Diese petechialen Blutungen (Glomerulationen) können bei der diagnostischen Hydrodistension beobachtet werden.",
-    "explanation": "Statement 2.18 erklärt die Gefäßpermeabilität und die petechialen Blutungen bei IC/BPS durch eine gestörte Mikroperfusion."
+    "correct": 1,
+    "tip": "Die Bewertung dieses Kriteriums hat sich mit Fixierungs- und Färbetechniken seit den 1980er-Jahren gewandelt.",
+    "explanation": "Statement 2.17: Die Mastzelldichte im Detrusor ist bei HIC gegenüber NHIC, OAB und gesunden Kontrollen nicht signifikant erhöht; charakteristisch für HIC ist die subepitheliale Lokalisation der Mastzellen. Die erhöhte Detrusor-Mastzellzahl als Kriterium geht auf Arbeiten der frühen 1980er-Jahre zurück und ist allein kein gutes Diagnosekriterium."
   },
   {
-    "question": "Was ist laut dem diskutierten Fallstrick aus Episode 3 problematisch an der Aussage 'Mastzellen in der Biopsie beweisen die IC'?",
+    "question": "Welche Befunde könnte die gestörte Mikroperfusion laut Statement 2.18 erklären?",
     "options": [
-      "Der bloße Nachweis von Mastzellen beweist die IC nicht; entscheidend ist vielmehr die subepitheliale Lokalisation, nicht allein die Zelldichte.",
-      "Mastzellen kommen bei IC/BPS nie in Biopsien vor.",
-      "Eine Biopsie ist bei IC/BPS generell kontraindiziert.",
-      "Diese Aussage ist vollständig korrekt und unproblematisch."
+      "Gesteigerte Gefäßwandpermeabilität und petechiale Blutungen",
+      "Detrusorhypertrophie und Trabekulierung der Blasenwand",
+      "Lymphoide Follikel und Plasmazellreichtum der Submucosa",
+      "Erhöhten Beckenbodentonus und myofasziale Tenderpunkte"
     ],
     "correct": 0,
-    "tip": "IC/BPS wird insgesamt als heterogenes Syndrom mit mehreren Phänotypen verstanden, was eine phänotyporientierte Therapie nahelegt.",
-    "explanation": "Der Fallstrick besteht darin, den bloßen Nachweis von Mastzellen in einer Biopsie als beweisend für die IC zu werten, obwohl laut Statement 2.17 die subepitheliale Lokalisation und nicht allein die Zelldichte entscheidend ist."
+    "tip": "Hohe VEGF-Spiegel fördern eine unvollständige Angiogenese mit lückenhaftem Perizytenbesatz der Kapillaren.",
+    "explanation": "Statement 2.18: Es gibt eindeutige Hinweise auf eine gestörte Mikroperfusion, die die gesteigerte Gefäßwandpermeabilität und petechiale Blutungen erklären könnte; VEGF ist in Hunner-Läsionen und Proben mit Petechien erhöht. Lymphoide Follikel gehören zur Entzündung (Statement 2.13), der erhöhte Beckenbodentonus zur Beckenbodendysfunktion (Empfehlung 2.10)."
   }
 ]

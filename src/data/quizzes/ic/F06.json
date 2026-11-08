@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Lebensstilbereiche sollen laut den Empfehlungen 4.1–4.6 individuell angepasst werden?",
+    "question": "Eine Patientin mit IC/BPS bringt aus einem Internetforum eine Liste mit 40 „verbotenen“ Lebensmitteln mit. Welches Vorgehen empfiehlt die Leitlinie bei Anzeichen einer Nahrungsmittelunverträglichkeit?",
     "options": [
-      "Kleidung, Sexualpraktiken, Ernährung, Getränke und Sport.",
-      "Ausschließlich die berufliche Tätigkeit.",
-      "Ausschließlich der Wohnort.",
-      "Lebensstilfaktoren spielen laut Leitlinie keine Rolle."
+      "Dauerhafte Meidung aller Lebensmittel aus Tabelle 7 nach dem Shorter-Moldwin-Fragebogen",
+      "Bestimmung der DAO-Aktivität im Serum und histaminarme Dauerdiät bei erniedrigtem Wert",
+      "Sofortige zeitlich begrenzte Ausschlussdiät aller sauren Lebensmittel ohne Re-Exposition",
+      "Ernährungs-Symptom-Tagebuch, dann zeitlich begrenzte individuelle Diät und Re-Exposition"
     ],
-    "correct": 0,
-    "tip": "Zusätzlich sollen Unterkühlung und Stress vermieden werden, mit Wärme oder Kälte bei akuten Schüben.",
-    "explanation": "Die Empfehlungen 4.1–4.6 fordern eine individuelle Anpassung von Kleidung, Sexualpraktiken, Ernährung, Getränken und Sport."
+    "correct": 3,
+    "tip": "Denken Sie an das Risiko einer Fehl- oder Mangelernährung bei dauerhaft eingeschränkter Lebensmittelauswahl.",
+    "explanation": "Empfehlung 4.10a–d (sollte, starker Konsens): Bei Anzeichen einer Unverträglichkeit sollte zunächst ein Ernährungs-Symptom-Tagebuch geführt, dann eine individuell angepasste, zeitlich begrenzte Diät und anschließend eine Re-Exposition durchgeführt werden; generelle Verbotslisten sollten nicht verwendet werden. So lässt sich ein Verdacht bestätigen oder widerlegen und eine unnötige Einschränkung vermeiden."
   },
   {
-    "question": "Welche Trainingsform wird im Rahmen der Lebensstilveränderungen mit kontrollierter Trinkmenge empfohlen?",
+    "question": "Welche Aussage zu symptomverstärkenden Lebensmitteln trifft laut Statement 2.19 bzw. Empfehlung 2.20 zu?",
     "options": [
-      "Das Blasentraining.",
-      "Ein hochintensives Ausdauertraining ohne Flüssigkeitsrestriktion.",
-      "Ein reines Krafttraining ohne Bezug zur Trinkmenge.",
-      "Es wird kein Training in diesem Zusammenhang empfohlen."
+      "Allgemeingültige Ernährungsempfehlungen sind aus Humanstudien gut ableitbar",
+      "Lebensmittel nach Shorter & Moldwin sollen vorsorglich pauschal gemieden werden",
+      "Sie sollen individuell nach Shorter & Moldwin auf Verträglichkeit geprüft werden",
+      "Ein Einfluss von Lebensmitteln ist nur tierexperimentell, nicht beim Menschen belegt"
     ],
-    "correct": 0,
-    "tip": "Ergänzend werden ein Rauchstopp sowie Atem- und Entspannungstechniken empfohlen.",
-    "explanation": "Im Rahmen der Lebensstilveränderungen wird ein Blasentraining mit kontrollierter Trinkmenge empfohlen."
+    "correct": 2,
+    "tip": "Unterscheiden Sie, was Humanstudien belegen und was sich daraus für alle Betroffenen ableiten lässt.",
+    "explanation": "Statement 2.19: Symptomverschlechternde Lebensmittel und Getränke wurden in Humanstudien identifiziert, allgemeingültige Ernährungsempfehlungen lassen sich aber (noch) nicht ableiten. Empfehlung 2.20 (soll, Konsens 92 %): Potenziell symptomverstärkende Lebensmittel sollen in Anlehnung an den validierten Fragebogen von Shorter & Moldwin individuell geprüft werden, eine pauschale Meidung ist nicht zu empfehlen."
   },
   {
-    "question": "Was besagt Statement 2.19 zur Evidenz symptomverstärkender Lebensmittel bei IC/BPS?",
+    "question": "Eine Patientin vermutet, dass histaminreiche Lebensmittel ihre IC/BPS-Beschwerden verstärken. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Symptomverstärkende Lebensmittel wurden zwar in Humanstudien identifiziert, es lassen sich daraus jedoch keine allgemeingültigen Ernährungsempfehlungen ableiten.",
-      "Es existieren klare, für alle Patienten gültige Verbotslisten für bestimmte Lebensmittel.",
-      "Lebensmittel haben nachweislich keinerlei Einfluss auf die Symptomatik.",
-      "Nur eine einzige Lebensmittelgruppe wurde bislang als relevant identifiziert."
+      "Bestimmung der Serum-DAO-Aktivität und bei Erniedrigung dauerhaft histaminarme Kost",
+      "Vorübergehende Umstellung mit Karenz- und Testphase gemäß der Histamin-Leitlinie",
+      "Dauerhafte Meidung aller Lebensmittel mit biogenen Aminen wie Käse, Wein und Fisch",
+      "Oraler Histaminprovokationstest zur Sicherung der Diagnose vor jeder Diätänderung"
     ],
-    "correct": 0,
-    "tip": "Zur individuellen Erfassung kann der Fragebogen nach Shorter & Moldwin eingesetzt werden.",
-    "explanation": "Statement 2.19 besagt, dass symptomverstärkende Lebensmittel zwar in Humanstudien identifiziert wurden, sich daraus aber keine allgemeingültigen Ernährungsempfehlungen ableiten lassen."
+    "correct": 1,
+    "tip": "Laut Statement 2.21 ist eine nahrungsmittelbedingte Histaminintoleranz bei IC/BPS bislang nicht eindeutig belegt.",
+    "explanation": "Empfehlung 4.10e (sollte, starker Konsens): Bei Anzeichen für einen negativen Einfluss oral aufgenommener biogener Amine (insbesondere Histamin) sollte eine vorübergehende Ernährungsumstellung mit Karenz- und Testphase erfolgen, orientiert an der Leitlinie zum Vorgehen bei Verdacht auf Histaminunverträglichkeit. DAO-Aktivität im Serum und oraler Provokationstest werden kontrovers bewertet, ein generelles Meiden biogener Amine ist wegen stark variierender Gehalte nicht sinnvoll."
   },
   {
-    "question": "Was fordert Statement 2.20 hinsichtlich der Prüfung der Lebensmittelverträglichkeit?",
+    "question": "Welche Lebensstilmaßnahme formuliert Kapitel 4.1.1 als Kann-Statement und nicht als Soll-Empfehlung?",
     "options": [
-      "Eine individuelle Prüfung der Verträglichkeit statt einer pauschalen Meidung bestimmter Lebensmittel.",
-      "Eine pauschale, für alle Patienten identische Verbotsliste.",
-      "Den vollständigen Verzicht auf jede diätetische Beratung.",
-      "Eine ausschließlich laborchemische Testung ohne jedes Ernährungstagebuch."
+      "Beenden des Rauchens bei rauchenden Patientinnen",
+      "Vermeiden von Unterkühlung und psychischem Stress",
+      "Erlernen von Atemtechniken und Entspannungsübungen",
+      "Blasentraining mit kontrollierter Trinkmenge"
     ],
-    "correct": 0,
-    "tip": "Dies steht im Gegensatz zu generellen, undifferenzierten Verbotslisten, wie sie z. B. aus Internetforen kursieren.",
-    "explanation": "Statement 2.20 fordert eine individuelle Prüfung der Lebensmittelverträglichkeit anstelle einer pauschalen Meidung."
+    "correct": 3,
+    "tip": "Achten Sie darauf, wo die Leitlinie eine mögliche Wirkung auf ein Symptom beschreibt, statt eine Handlungsanweisung zu geben.",
+    "explanation": "Statement 4.4 (starker Konsens): Blasentraining mit kontrollierter Flüssigkeitsaufnahme kann die Intensität und Häufigkeit des Harndrangs reduzieren. Rauchstopp (4.5), Vermeiden von Unterkühlung und Stress (4.2) sowie das Erlernen von Atemtechniken und Entspannungsübungen (4.6) sind Soll-Empfehlungen."
   },
   {
-    "question": "Was besagt Statement 2.21 zur nahrungsmittelbedingten Histaminintoleranz bei IC/BPS?",
+    "question": "Eine Patientin fragt, was sie bei einem akuten Symptomschub („flare up“) selbst tun kann. Welche Maßnahme nennt die Leitlinie in Statement 4.3?",
     "options": [
-      "Es gibt keine eindeutigen Belege für eine nahrungsmittelbedingte Histaminintoleranz bei IC/BPS.",
-      "Eine Histaminintoleranz ist bei allen IC/BPS-Patienten zweifelsfrei nachgewiesen.",
-      "Eine Histaminintoleranz ist die alleinige Ursache der IC/BPS.",
-      "Histamin spielt bei der IC/BPS keinerlei pathophysiologische Rolle."
+      "Einnahme eines Antibiotikums aus einer hinterlegten Notfallpackung",
+      "Wärme- oder Kälteanwendung, etwa als Bad oder Wärmeflasche",
+      "Trinken von Cranberrysaft zur Beruhigung der Blasenschleimhaut",
+      "Strikte Flüssigkeitsrestriktion zur Verringerung der Miktionen"
     ],
-    "correct": 0,
-    "tip": "Bei entsprechendem Verdacht wird dennoch eine Karenz- und Testphase nach der entsprechenden Leitlinie empfohlen.",
-    "explanation": "Statement 2.21 stellt fest, dass es keine eindeutigen Belege für eine nahrungsmittelbedingte Histaminintoleranz bei IC/BPS gibt."
+    "correct": 1,
+    "tip": "Bis zu 96 % der Betroffenen erleben im Verlauf solche Schübe und setzen dabei im Schnitt mehrere Selbsthilfestrategien ein.",
+    "explanation": "Statement 4.3 (starker Konsens): Wärme oder Kälte kann IC/BPS-Beschwerden, insbesondere während Episoden mit Verschlechterung, verbessern; laut Kapitel 4.1.1 kann bei akuter Verschlechterung z. B. eine Wärmeapplikation (Bäder, Wärmeflasche) lindern. Cranberrysaft gehört zu den häufig symptomverschlechternden Getränken (Tabelle 7)."
   },
   {
-    "question": "Welche Form der Ernährung kann laut Empfehlung 4.7/4.8 die Beschwerden bei IC/BPS lindern?",
+    "question": "Über welchen Mechanismus verschlechtert Rauchen laut Leitlinie möglicherweise die IC/BPS-Beschwerden?",
     "options": [
-      "Eine anti-inflammatorische Ernährung.",
-      "Eine streng ketogene Diät.",
-      "Eine ausschließlich fleischbasierte Ernährung.",
-      "Eine Ernährung ohne jeden pflanzlichen Anteil."
+      "Erhöhung des Thrombozyten-aktivierenden Faktors in der Harnblase",
+      "Hemmung der Diaminoxidase mit vermindertem Histaminabbau",
+      "Direkte Schädigung der GAG-Schicht durch Nikotinmetabolite im Urin",
+      "Aktivierung von Mastzellen im Detrusor über Nikotinrezeptoren"
     ],
     "correct": 0,
-    "tip": "Die begleitende Ernährungstherapie soll laut Empfehlung 4.11 durch eine qualifizierte Ernährungsfachkraft oder einen Ernährungsmediziner erfolgen.",
-    "explanation": "Empfehlung 4.7/4.8 besagt, dass eine anti-inflammatorische Ernährung die Beschwerden bei IC/BPS lindern kann."
+    "tip": "Der vermutete Mediator ist auch aus Gerinnung und Allergologie bekannt.",
+    "explanation": "Empfehlung 4.5 (soll, starker Konsens): Rauchende IC/BPS-Patienten sollen das Rauchen beenden. Laut Kapitel 4.1.1 verschlechtert Rauchen die Beschwerden in den meisten Studien, möglicherweise durch Erhöhung des Thrombozyten-aktivierenden Faktors in der Harnblase."
   },
   {
-    "question": "Welches strukturierte Vorgehen wird laut Empfehlung 4.9 für die Ernährungsberatung empfohlen?",
+    "question": "Welche Schritte umfasst der in Empfehlung 4.9 beschriebene Nutrition Care Process?",
     "options": [
-      "Der Nutrition Care Process mit Ernährungsanamnese, Ernährungsdiagnose, individueller Empfehlung, Monitoring und Evaluation.",
-      "Eine einmalige, nicht weiter strukturierte Ernährungsberatung ohne Verlaufskontrolle.",
-      "Ein ausschließlich online durchgeführtes, standardisiertes Ernährungsprogramm.",
-      "Es wird kein strukturiertes Vorgehen empfohlen."
+      "Ernährungs-Symptom-Tagebuch, Ausschlussdiät, Re-Exposition, Verbotsliste",
+      "Serum-DAO-Bestimmung, Histaminkarenz, oraler Provokationstest, Dauerdiät",
+      "Ernährungsanamnese, -diagnose, individuelle Empfehlung, Monitoring, Evaluation",
+      "Shorter-Moldwin-Fragebogen, pauschale Meidung, Supplementierung, Kontrolle"
     ],
-    "correct": 0,
-    "tip": "Dieses mehrstufige Vorgehen soll eine individualisierte, evidenzbasierte Ernährungsberatung sicherstellen.",
-    "explanation": "Empfehlung 4.9 empfiehlt den Nutrition Care Process mit den Schritten Ernährungsanamnese, Ernährungsdiagnose, individuelle Empfehlung, Monitoring und Evaluation."
+    "correct": 2,
+    "tip": "Gordon et al. beschreiben diesen Prozess als strukturierten Ablauf der Ernährungstherapie unter Einbezug von Komorbiditäten.",
+    "explanation": "Empfehlung 4.9 (starker Konsens): Es sollte eine gründliche Ernährungsanamnese unter Berücksichtigung von Komorbiditäten erfolgen, daraus sollten Ernährungsdiagnosen und individuelle Empfehlungen abgeleitet werden; Monitoring und abschließende Evaluation sind sinnvoll. Die begleitende Ernährungstherapie sollte durch eine qualifizierte Ernährungsfachkraft oder einen Ernährungsmediziner erfolgen (Empfehlung 4.11), Verbotslisten sollten nicht verwendet werden (4.10d)."
   },
   {
-    "question": "Wie sieht das Stufenschema bei Verdacht auf eine Nahrungsmittelunverträglichkeit laut Empfehlung 4.10a–e aus?",
+    "question": "Welche Merkmale hatte die anti-inflammatorische Diät, die laut Statement 4.8 Beschwerden lindern kann, in der zitierten Pilotstudie?",
     "options": [
-      "Ernährungs-Symptom-Tagebuch → zeitlich begrenzte individuelle Diät → Re-Exposition.",
-      "Sofortige lebenslange Diät ohne vorherige Testphase.",
-      "Direkte Einleitung einer medikamentösen Therapie ohne jede diätetische Maßnahme.",
-      "Ein Stufenschema ist laut Leitlinie nicht vorgesehen."
+      "Kaliumarm und eiweißreich, mit rotem Fleisch und Hartkäse als Hauptproteinquelle",
+      "Ketogen und kohlenhydratarm, mit Kokosöl als bevorzugter Fettquelle",
+      "Pflanzenbasiert, reich an Antioxidanzien, fetter Fisch, Olivenöl als Fettquelle",
+      "Basenreich mit Zitrussäften zur Alkalisierung des Urins und Verzicht auf Milch"
     ],
-    "correct": 0,
-    "tip": "Generelle Verbotslisten sind dabei ausdrücklich nicht vorgesehen.",
-    "explanation": "Empfehlung 4.10a–e beschreibt das Stufenschema: Ernährungs-Symptom-Tagebuch, gefolgt von einer zeitlich begrenzten individuellen Diät und anschließender Re-Exposition."
+    "correct": 2,
+    "tip": "Grundlage der Diät war der Dietary Inflammatory Index; zusätzlich wurden die nach Shorter et al. symptomverschlechternden Lebensmittel gemieden.",
+    "explanation": "Statement 4.8 (starker Konsens): Eine anti-inflammatorische Ernährung kann Beschwerden lindern und die Lebensqualität verbessern. Die Diät der Pilotstudie (n = 10, Crossover) war pflanzenbasiert, reich an antioxidativen Vitaminen und Gewürzen, arm an gesättigten Fettsäuren, mit fettem Fisch 3–4-mal pro Woche, ohne rotes Fleisch und mit Olivenöl als einziger Fettquelle; eine Kaliumreduktion über Lebensmittel wird in der Literatur nicht empfohlen."
   },
   {
-    "question": "Wer soll laut Empfehlung 4.11 die begleitende Ernährungstherapie durchführen?",
+    "question": "Welche Aussage zu „sauren“ Lebensmitteln und Getränken bei IC/BPS trifft laut Kapitel 2.5.12 zu?",
     "options": [
-      "Eine qualifizierte Ernährungsfachkraft oder ein Ernährungsmediziner.",
-      "Ausschließlich der behandelnde Urologe ohne weitere Qualifikation.",
-      "Ausschließlich der Patient in Eigenregie ohne professionelle Begleitung.",
-      "Eine begleitende Ernährungstherapie ist nicht vorgesehen."
+      "Saure Lebensmittel säuern den Urin an und reizen dadurch direkt das Urothel",
+      "Zitrussäfte wirken laut PRAL-Werten harnalkalisierend, Cola dagegen ansäuernd",
+      "Zitronensäure ist als Auslöser belegt und sollte konsequent gemieden werden",
+      "Preiselbeersaft wirkt harnalkalisierend und lindert daher Symptomschübe"
     ],
-    "correct": 0,
-    "tip": "Dies gewährleistet eine fachlich fundierte Umsetzung des individualisierten Ernährungskonzepts.",
-    "explanation": "Empfehlung 4.11 sieht vor, dass die begleitende Ernährungstherapie durch eine qualifizierte Ernährungsfachkraft oder einen Ernährungsmediziner erfolgen soll."
+    "correct": 1,
+    "tip": "Kapitel 2.5.12 betrachtet Säuregehalt, Zitrate und Wirkung auf den Urin-pH getrennt voneinander.",
+    "explanation": "Laut Kapitel 2.5.12 sind saure Lebensmittel nicht gleichbedeutend mit harnansäuernden: Nach PRAL-Werten wirken Wasser, Obst-/Gemüsesäfte einschließlich Zitrussäften sowie Kaffee und Wein harnalkalisierend, Preiselbeersaft, helles Bier und Cola dagegen harnansäuernd. Ein Zusammenhang mit Zitronensäure/Zitraten ist hypothetisch, ein generelles Meiden daher nicht sinnvoll."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 6 im Zusammenhang mit Ernährungsempfehlungen diskutiert?",
+    "question": "Welche Lebensmittel bzw. Getränke wurden mit dem Shorter-Moldwin-Fragebogen als „wenig störend“ eingestuft?",
     "options": [
-      "Generelle Verbotslisten anstelle einer individuellen Austestung mit Re-Exposition zu verwenden.",
-      "Zu wenige Lebensmittel als potenziell problematisch einzustufen.",
-      "Ernährungsberatung grundsätzlich für überflüssig zu halten.",
-      "Ausschließlich histaminarme Kost ohne jede individuelle Testung zu empfehlen."
+      "Wasser, Milch, Birnen und weiße Kartoffeln",
+      "Entkoffeinierter Kaffee und koffeinfreier Tee",
+      "Cranberrysaft, Ananassaft und Tomatenprodukte",
+      "Light-Produkte mit Aspartam oder Saccharin"
     ],
     "correct": 0,
-    "tip": "Solche pauschalen Listen, wie sie z. B. aus Internetforen stammen, stehen im Widerspruch zur empfohlenen individuellen Vorgehensweise.",
-    "explanation": "Der diskutierte Fallstrick ist die Verwendung genereller Verbotslisten (z. B. aus Internetforen) anstelle der empfohlenen individuellen Austestung mit Re-Exposition."
+    "tip": "Tabelle 7 listet die „stark störenden“ Produkte – einige davon wirken auf den ersten Blick harmlos.",
+    "explanation": "Kapitel 4.1.2: Wasser, Milch, Birnen, (weiße) Kartoffeln, Reis, Hühnchen, Rindfleisch, Thunfisch und Flohsamenschalen wurden als „wenig störend“ ermittelt. Kaffee und Tee (auch ohne Koffein), Cranberry- und Ananassaft, Tomatenprodukte sowie Süßstoffe (Aspartam, Saccharin) gehören laut Tabelle 7 zu den als „stark störend“ eingestuften Produkten."
   }
 ]

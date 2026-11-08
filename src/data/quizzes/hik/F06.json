@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Standarddosis von Onabotulinumtoxin A ist zur Behandlung der therapierefraktären überaktiven Blase zugelassen?",
+    "question": "Eine 62-jährige Patientin mit idiopathischer überaktiver Blase spricht auf konservative und orale medikamentöse Therapie nicht an. Welches Schema entspricht der zugelassenen Anwendung von Onabotulinumtoxin A?",
     "options": [
-      "50 Einheiten.",
-      "100 Einheiten.",
-      "200 Einheiten.",
-      "300 Einheiten."
+      "50 U in 5 ml NaCl-Lösung, verteilt auf 10 Injektionen",
+      "200 U in 30 ml NaCl-Lösung, verteilt auf 30 Injektionen",
+      "100 U in 30 ml NaCl-Lösung, verteilt auf 30 Injektionen",
+      "100 U in 10 ml NaCl-Lösung, verteilt auf 20 Injektionen"
     ],
-    "correct": 1,
-    "tip": "Höhere Dosierungen (z. B. 200 Einheiten) wurden zwar in Studien wie ROSETTA verwendet, sind aber nicht die zugelassene Standarddosis.",
-    "explanation": "Die zugelassene Dosis zur operativen Therapie der überaktiven Blase liegt bei 100 Einheiten Onabotulinumtoxin A, verdünnt endoskopisch in die Blasenwand injiziert."
+    "correct": 3,
+    "tip": "Die Zulassungsdosis bei idiopathischer OAB liegt unter der Dosis, die in der ROSETTA-Vergleichsstudie verwendet wurde.",
+    "explanation": "Laut Kapitel 6.1 liegt die zugelassene Dosis bei 100 Einheiten Onabotulinumtoxin A, verdünnt in 10 ml NaCl-Lösung und endoskopisch auf 20 Injektionen verteilt; die Einheiten sind präparatespezifisch. Die 200 U stammen aus der ROSETTA-Studie, die BTX mit der SNM verglich."
   },
   {
-    "question": "Wie lange hält die Wirkung einer Onabotulinumtoxin-A-Injektion im Mittel an?",
+    "question": "Eine Patientin fragt vor der ersten Injektion von Onabotulinumtoxin A in die Blasenwand, wann die Wirkung einsetzt und wie lange sie anhält. Welche Angabe entspricht der Leitlinie?",
     "options": [
-      "Ca. 2 Wochen.",
-      "Ca. 6 Monate.",
-      "Ca. 5 Jahre.",
-      "Dauerhaft, ohne dass eine erneute Injektion nötig wäre."
+      "Wirkeintritt nach ca. 3 Tagen, Wirkdauer im Mittel 3 Monate",
+      "Wirkeintritt nach ca. 14 Tagen, Wirkdauer im Mittel 6 Monate",
+      "Wirkeintritt nach ca. 4 Wochen, Wirkdauer im Mittel 12 Monate",
+      "Wirkeintritt nach ca. 14 Tagen, Wirkdauer im Mittel 12 Monate"
     ],
     "correct": 1,
-    "tip": "Die Wirkung setzt nach etwa 14 Tagen ein und hält im Mittel deutlich kürzer als ein Jahr.",
-    "explanation": "Die Wirkung der Botulinumtoxin-A-Injektion setzt ca. 14 Tage nach der Injektion ein und hält im Mittel 6 Monate an."
+    "tip": "Denke an den Zeitpunkt der empfohlenen sonographischen Restharnkontrolle und daran, dass Reinjektionen regelmäßig nötig werden.",
+    "explanation": "Laut Kapitel 6.1 setzt die Wirkung ca. 14 Tage nach der Injektion ein und hält im Mittel 6 Monate an; die Restharnkontrolle sollte etwa 14 Tage postinterventionell erfolgen. Die 3 Monate bezeichnen den frühestmöglichen Zeitpunkt einer erneuten Injektion."
   },
   {
-    "question": "Worüber müssen Patientinnen vor einer Onabotulinumtoxin-A-Injektion zwingend aufgeklärt werden?",
+    "question": "Worüber soll eine Patientin vor einer Injektion von Onabotulinumtoxin A in die Harnblasenwand laut Leitlinie mit starker Empfehlung aufgeklärt werden?",
     "options": [
-      "Über die zeitliche Begrenzung der Wirkung sowie das Risiko von Harnwegsinfekten und Restharnbildung mit möglicher Notwendigkeit des intermittierenden Selbstkatheterismus.",
-      "Über eine garantierte vollständige Heilung ohne jedes Risiko.",
-      "Darüber, dass keine Kontrolle der Restharnmenge nach der Behandlung notwendig ist.",
-      "Darüber, dass die Methode bei jeder Patientin exakt gleich lange wirkt."
+      "Zeitlich begrenzte Wirkung, HWI- und Restharnrisiko mit möglichem ISK",
+      "Zeitlich begrenzte Wirkung, Risiko für Blutdruckanstieg und Tachykardie",
+      "Wirkung über Jahre, Risiko für Implantatinfektion und Revisionseingriffe",
+      "Zeitlich begrenzte Wirkung, Risiko für Mundtrockenheit und Obstipation"
     ],
     "correct": 0,
-    "tip": "Die Nebenwirkungen sind meist temporär, müssen aber vorher klar besprochen werden.",
-    "explanation": "Patientinnen sollen über die zeitliche Limitierung der Wirkung von Onabotulinumtoxin A sowie das postinterventionelle Risiko von Harnwegsinfekten und Restharnbildung mit der möglichen Notwendigkeit von intermittierendem Selbstkatheterismus aufgeklärt werden."
+    "tip": "Die Aufklärung muss die spezifischen Nachteile der Injektion abdecken – nicht die eines Implantats oder einer Tablette.",
+    "explanation": "Nach Empfehlung E6-02 (starke Empfehlung) sollen Patientinnen über die zeitliche Limitierung der Wirkung sowie das Risiko von Harnwegsinfekten und Restharnbildung mit möglicher Notwendigkeit eines intermittierenden (Selbst-)Katheterismus aufgeklärt werden. Implantatinfektion und Revisionen betreffen die SNM, Blutdruckanstieg und Mundtrockenheit die medikamentöse Therapie."
   },
   {
-    "question": "Was ist die erste Phase der sakralen Neuromodulation (SNM), bevor über die dauerhafte Implantation entschieden wird?",
+    "question": "In der ROSETTA-Studie wurden bei Frauen mit therapierefraktärer Dranginkontinenz die SNM und Injektionen von 200 U Onabotulinumtoxin A verglichen. Welches Ergebnis nach 24 Monaten berichtet die Leitlinie?",
     "options": [
-      "Eine sofortige permanente Implantation des Impulsgenerators ohne Testphase.",
-      "Eine perkutane Testphase (PNE), bei der die Elektrodenlage zunächst ohne Implantation des Generators geprüft wird.",
-      "Eine alleinige medikamentöse Testphase mit Mirabegron.",
-      "Eine Botulinumtoxin-Testinjektion."
+      "Die SNM war bei der Heilung der Dranginkontinenz signifikant überlegen",
+      "Eine zweite BTX-Injektion erhielten im Verlauf etwa 35 % der Patientinnen",
+      "Revision oder Explantation erfolgte nach SNM bei etwa 30 % der Patientinnen",
+      "Harnwegsinfektionen traten nach BTX signifikant häufiger auf als nach SNM"
     ],
-    "correct": 1,
-    "tip": "Erst wenn die Testphase erfolgreich ist, folgt der zweite operative Schritt.",
-    "explanation": "Die SNM besteht aus zwei Phasen: zunächst die perkutane Teststimulation (perkutane Nervenevaluation, PNE), und erst bei erfolgreicher Testphase die Implantation des Impulsgenerators."
+    "correct": 3,
+    "tip": "BTX wirkt stark, aber zeitlich begrenzt – der Preis zeigt sich bei Nebenwirkungen und Wiederholungsbehandlungen.",
+    "explanation": "Laut Kapitel 6.2.1 traten nach 24 Monaten Harnwegsinfektionen in der BTX-Gruppe mit 27 % signifikant häufiger auf als in der SNM-Gruppe mit 10 %, bei gleicher Heilung der Dranginkontinenz. 70 % erhielten eine zweite und 35 % eine dritte Injektion; nach SNM gab es 3 % Revisionen und 9 % Explantationen."
   },
   {
-    "question": "Ab welcher Symptomreduktion während der Testphase (PNE) wird üblicherweise die dauerhafte Implantation der sakralen Neuromodulation vorgenommen?",
+    "question": "Bei der sakralen Neuromodulation folgt auf die perkutane Nervenevaluation (PNE) nur bei Erfolg die Implantation des Impulsgenerators. Welche Testdauer und welches Erfolgskriterium nennt die Leitlinie?",
     "options": [
-      "Ab einer Reduktion von mehr als 10 %.",
-      "Ab einer Reduktion von mehr als 50 %.",
-      "Nur bei einer Reduktion von exakt 100 %.",
-      "Die Symptomreduktion während der Testphase spielt keine Rolle für die Entscheidung."
+      "Testphase bis zu 1 Woche, Besserung der OAB-Symptome um mehr als 30 %",
+      "Testphase bis zu 2 Wochen, Besserung der OAB-Symptome um mehr als 30 %",
+      "Testphase bis zu 4 Wochen, Besserung der OAB-Symptome um mehr als 50 %",
+      "Testphase bis zu 12 Wochen, Besserung der OAB-Symptome um mehr als 70 %"
     ],
-    "correct": 1,
-    "tip": "Es braucht einen deutlichen, mehr als hälftigen Therapieerfolg, bevor der dauerhafte Generator implantiert wird.",
-    "explanation": "Reduzieren sich während der PNE die Symptome der überaktiven Blase um mehr als 50 %, wird ein batteriebetriebener Impulsgenerator implantiert."
+    "correct": 2,
+    "tip": "Die mittlere Zeit bis zum Effekt in der Testphase beträgt nur wenige Tage, das Testfenster ist dennoch großzügig bemessen.",
+    "explanation": "Laut Kapitel 6.2.1 wird der Effekt während der PNE über bis zu 4 Wochen getestet (mittlere Zeit bis Effekt 3,3 Tage); reduzieren sich die OAB-Symptome um mehr als 50 %, wird der Impulsgenerator implantiert. Die 12 Wochen entsprechen dem üblichen PTNS-Behandlungszyklus."
   },
   {
-    "question": "Welchen Zusatznutzen kann die sakrale Neuromodulation bei Patientinnen mit überaktiver Blase und gleichzeitiger Stuhlinkontinenz oder sexueller Funktionsstörung haben?",
+    "question": "Eine 31-jährige Patientin mit erfolgreich implantierter sakraler Neuromodulation wird schwanger. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Sie kann beide Funktionsstörungen simultan positiv beeinflussen.",
-      "Sie verschlechtert grundsätzlich die Stuhlkontinenz.",
-      "Sie hat ausschließlich einen Effekt auf die Blasenfunktion, nie auf andere Organsysteme.",
-      "Sie ist bei gleichzeitiger Stuhlinkontinenz streng kontraindiziert."
+      "Weiterbetrieb, da keine nachteiligen fetalen Effekte beschrieben sind",
+      "Explantation des Impulsgenerators vor Beginn des zweiten Trimenons",
+      "Abschalten während Schwangerschaft und Geburt, Sectio-Option besprechen",
+      "Umstellung auf eine PTNS für die gesamte Dauer der Schwangerschaft"
+    ],
+    "correct": 2,
+    "tip": "Fehlende Schadensberichte sind nicht dasselbe wie eine gesicherte Unbedenklichkeit.",
+    "explanation": "Nach Empfehlung E6-04 sollte der sakrale Neurostimulator während Schwangerschaft und Geburt abgeschaltet werden; laut Kapitel 6.2.1 sollte die Kaiserschnittentbindung zum Schutz des Implantats mit der Patientin diskutiert werden. Die PTNS sollte wegen fehlender Daten in der Schwangerschaft ebenfalls nicht eingesetzt werden."
+  },
+  {
+    "question": "Welche Aussage zur sakralen Neuromodulation bei Bedarf an MRT-Bildgebung oder bei weiteren Implantaten trifft laut Leitlinie zu?",
+    "options": [
+      "Eine MRT ist bei liegendem sakralem Neuromodulator kontraindiziert",
+      "Ein Schädel-MRT ist bei nicht-wiederaufladbaren Geräten kontraindiziert",
+      "Ein liegender Herzschrittmacher schließt eine SNM-Implantation aus",
+      "Wiederaufladbare und neueste nicht-wiederaufladbare Geräte sind MRT-fähig"
+    ],
+    "correct": 3,
+    "tip": "Die Antwort hängt von Gerätetyp und Gerätegeneration ab – und bei Herzschrittmachern von interdisziplinärer Absprache.",
+    "explanation": "Laut Kapitel 6.2.1 sind die wiederaufladbaren und die neueste Generation der nicht-wiederaufladbaren Neuromodulatoren MRT-fähig; für ein Schädel-MRT bestehen auch bei nicht-wiederaufladbaren Geräten keine Kontraindikationen. Bei Herzschrittmacher sollte die SNM nur nach kardiologischer Rücksprache implantiert werden."
+  },
+  {
+    "question": "Eine 58-jährige Patientin mit therapierefraktärer überaktiver Blase leidet zusätzlich an einer Stuhlinkontinenz. Welches Verfahren kann laut Leitlinie erwogen werden, um beide Funktionsstörungen simultan zu behandeln?",
+    "options": [
+      "Sakrale Neuromodulation mit S3-Elektrode",
+      "Intravesikale Onabotulinumtoxin-A-Injektion",
+      "Ileozystoplastik als Clam-Zystoplastik",
+      "Operative apikale Fixation mittels TFS"
     ],
     "correct": 0,
-    "tip": "Der stimulierte Sakralnerv versorgt nicht nur die Blase, sondern auch Beckenboden und analen Sphinkter.",
-    "explanation": "Bei Patientinnen mit überaktiver Blase und gleichzeitiger sexueller Funktionsstörung oder Stuhlinkontinenz kann eine sakrale Neuromodulation erwogen werden, um die Funktionsstörungen simultan zu behandeln."
+    "tip": "Tabelle 12 nennt bei einem der Verfahren Vorteile, die über die Blasenfunktion hinausgehen.",
+    "explanation": "Nach Empfehlung E6-05 (offene Empfehlung) kann bei OAB und gleichzeitiger Stuhlinkontinenz oder sexueller Funktionsstörung eine SNM erwogen werden; Fallberichte beschreiben eine erfolgreiche Behandlung der Stuhlinkontinenz bei ca. 50 %. Nach Augmentation tritt dagegen bei 25 % eine Änderung der Darmfunktion auf (Tabelle 13), die apikale Fixation sollte nur in Studien erfolgen."
   },
   {
-    "question": "Wie verhält sich die posteriore tibiale Nervenstimulation (PTNS) im Vergleich zu einer invasiven Operation?",
+    "question": "Welches Behandlungsschema ist laut Leitlinie bei der perkutanen posterioren tibialen Nervenstimulation (P-PTNS) üblich?",
     "options": [
-      "PTNS ist selbst ein hochinvasiver operativer Eingriff mit Vollnarkosepflicht.",
-      "PTNS ist eine minimalinvasive Alternative ohne das Risiko einer Operation.",
-      "PTNS kann die überaktive Blase in jedem Fall dauerhaft heilen.",
-      "PTNS darf nur in Kombination mit einer Blasenaugmentation angewendet werden."
+      "Über 6 Wochen zweimal wöchentlich für jeweils 30 Minuten",
+      "Über 12 Wochen einmal wöchentlich für jeweils 30 Minuten",
+      "Über 4 Wochen einmal täglich für jeweils 30 Minuten",
+      "Über 6 Monate einmal monatlich für jeweils 60 Minuten"
     ],
     "correct": 1,
-    "tip": "Die Stimulation erfolgt über eine feine Nadel oder eine Klebeelektrode am Unterschenkel, nicht über einen operativen Zugang zum Becken.",
-    "explanation": "PTNS ist eine minimalinvasive Alternative zur Behandlung der überaktiven Blase ohne das Risiko einer Operation; es gibt allerdings keine Evidenz, dass PTNS die überaktive Blase heilt."
+    "tip": "Das Standardschema ist für eine ambulante Anwendung mit überschaubarem wöchentlichem Zeitaufwand ausgelegt.",
+    "explanation": "Laut Kapitel 6.2.2 erfolgt die PTNS üblicherweise über 12 Wochen einmal wöchentlich für 30 Minuten mit einer 34-Gauge-Nadel 1½ Querfinger über dem Malleolus medialis; eine tägliche Therapie ist nur mit permanentem Implantat möglich. Monatliche Behandlungen sind als Erhaltungstherapie mit anhaltendem Effekt beschrieben."
   },
   {
-    "question": "Welches typische Behandlungsschema wird für die perkutane posteriore tibiale Nervenstimulation (P-PTNS) beschrieben?",
+    "question": "Welche Aussage zu den Ultima-Ratio-Verfahren bei therapierefraktärer überaktiver Blase trifft laut Leitlinie zu?",
     "options": [
-      "Einmal wöchentlich 30 Minuten über 12 Wochen.",
-      "Täglich 5 Minuten über 2 Wochen.",
-      "Eine einmalige Behandlung mit Dauerwirkung.",
-      "Monatlich über 2 Jahre, je 2 Stunden."
+      "Die Detrusormyektomie soll als Inkontinenztherapie nicht angeboten werden",
+      "Nach Blasenaugmentation genügen Kontrollen über die ersten fünf Jahre",
+      "Bei idiopathischer Dranginkontinenz ist die Augmentation erfolgreicher",
+      "Ein ISK ist nach Ileozystoplastik eine seltene Ausnahme im Langzeitverlauf"
     ],
     "correct": 0,
-    "tip": "Das Schema orientiert sich an einer wöchentlichen Sitzung über einen Zeitraum von etwa drei Monaten.",
-    "explanation": "Die Anwendung der PTNS erfolgt üblicherweise mit einer Behandlung über 12 Wochen, einmal wöchentlich für 30 Minuten; bei permanentem Implantat ist auch eine tägliche Therapie möglich."
-  },
-  {
-    "question": "In welcher Situation kommt eine Blasenaugmentation oder Harnableitung laut Leitlinie als Therapieoption in Betracht?",
-    "options": [
-      "Als Erstlinientherapie bei jeder neu diagnostizierten überaktiven Blase.",
-      "In ausgewählten Fällen, wenn andere, weniger invasive Behandlungsmethoden versagt haben.",
-      "Nur bei Frauen unter 30 Jahren ohne jede Vortherapie.",
-      "Routinemäßig vor jeder medikamentösen Therapie."
-    ],
-    "correct": 1,
-    "tip": "Diese Verfahren bergen ein erhöhtes Komplikationsrisiko und sind daher eine Ultima-Ratio-Option.",
-    "explanation": "Eine Blasenaugmentation oder eine Harnableitung kann bei Patientinnen mit überaktiver Blase oder Dranginkontinenz in ausgewählten Fällen angeboten werden, wenn andere Behandlungsmethoden versagt haben."
-  },
-  {
-    "question": "Wie bewertet die Leitlinie die Detrusormyektomie (Blasen-Autoaugmentation) als Therapie der Harninkontinenz heute?",
-    "options": [
-      "Sie soll als Standardverfahren erster Wahl eingesetzt werden.",
-      "Sie soll als Therapie der Harninkontinenz nicht angeboten werden.",
-      "Sie ist der Blasenaugmentation in den Langzeitergebnissen deutlich überlegen.",
-      "Sie wird nur bei Männern, nie bei Frauen angewendet."
-    ],
-    "correct": 1,
-    "tip": "Die Methode zeigte in Studien an Erwachsenen vor allem durch Fibrose des Pseudodivertikels schlechte Langzeitergebnisse.",
-    "explanation": "Eine Detrusormyektomie soll als Therapie der Harninkontinenz nicht angeboten werden (starke Empfehlung); die Technik spielt aufgrund schlechter Langzeitergebnisse praktisch keine Rolle mehr."
+    "tip": "Unterscheide Verfahren mit offener Empfehlung von solchen, von denen die Leitlinie ausdrücklich abrät.",
+    "explanation": "Nach Empfehlung E6-09 (starke Empfehlung) soll die Detrusormyektomie nicht angeboten werden, da sie wegen Fibrose des Pseudodivertikels schlechte Langzeitergebnisse zeigte. Nach Augmentation oder Harnableitung sind lebenslange Kontrollen notwendig, ein ISK ist häufig (38 % in Tabelle 13), und bei idiopathischer Dranginkontinenz sind die Ergebnisse schlechter als bei neurogener Blasenfunktionsstörung."
   }
 ]

@@ -1,107 +1,122 @@
 [
   {
-    "question": "Wie definiert die International Continence Society (ICS) Harninkontinenz?",
+    "question": "Eine 58-jährige Patientin berichtet einige Wochen nach abdominaler Hysterektomie über einen stetigen vaginalen Urinverlust, unabhängig von Harndrang und körperlicher Belastung. Welcher Inkontinenzform entspricht dieses Bild nach der Definition der Leitlinie?",
     "options": [
-      "Nur der Urinverlust bei körperlicher Belastung.",
-      "Jeglicher unfreiwilliger Urinabgang.",
-      "Ausschließlich der nächtliche, unbemerkte Urinverlust.",
-      "Der Urinverlust ausschließlich in Kombination mit Harndrang."
-    ],
-    "correct": 1,
-    "tip": "Die Definition ist bewusst sehr weit gefasst und schließt alle Unterformen ein.",
-    "explanation": "Die ICS definiert Harninkontinenz allgemein als jeglichen unfreiwilligen Urinabgang – unabhängig von Auslöser oder Form."
-  },
-  {
-    "question": "Welche Prävalenz der Harninkontinenz bei Frauen über 18 Jahren zeigte eine deutsch-dänische Untersuchung aus dem Jahr 2017?",
-    "options": ["15 %", "27,1 %", "48,3 %", "7,8 %"],
-    "correct": 2,
-    "tip": "Neuere Studien mit sensitiverer Erfassung zeigen deutlich höhere Zahlen als die ältere Befragung von 2005.",
-    "explanation": "Die deutsch-dänische Untersuchung von 2017 zeigt eine Prävalenz bei Frauen über 18 Jahren von 48,3 %, deutlich höher als die 15 % aus der statistischen Befragung von 2005."
-  },
-  {
-    "question": "Welches Merkmal zählt NICHT zu den Charakteristika einer unkomplizierten Belastungsinkontinenz?",
-    "options": [
-      "Abgeschlossene Familienplanung.",
-      "Keine neurologische Blasenfunktionsstörung.",
-      "Simultaner Genitalprolaps.",
-      "Keine vorangegangene Inkontinenzoperation."
+      "Inkontinenz bei chronischer Harnretention (früher Überlaufinkontinenz)",
+      "Neurogene Detrusorüberaktivität mit Inkontinenz (früher Reflexinkontinenz)",
+      "Extraurethrale Harninkontinenz, etwa durch eine urogenitale Fistel",
+      "Lagerungsinkontinenz als Sonderform mit Urinverlust bei Lagewechsel"
     ],
     "correct": 2,
-    "tip": "Überlege, welches der vier Merkmale laut Leitlinie gerade die komplizierte Form definiert, nicht die unkomplizierte.",
-    "explanation": "Ein simultaner Genitalprolaps ist ein Charakteristikum der komplizierten, nicht der unkomplizierten Belastungsinkontinenz."
+    "tip": "Überlegen Sie, welche Ursache nach einem Beckeneingriff einen auslöserunabhängigen Dauerverlust über die Scheide erklärt.",
+    "explanation": "Kapitel 1 definiert die extraurethrale Harninkontinenz als stetigen vaginalen und/oder rektalen Urinverlust ohne Bezug zu Drang oder körperlicher Aktivität, verursacht durch Fisteln oder einen ektop mündenden Ureter. Die Inkontinenz bei chronischer Harnretention beruht dagegen auf erhöhtem Restharn durch Detrusorunteraktivität oder Blasenauslassobstruktion."
   },
   {
-    "question": "Wodurch entsteht eine Inkontinenz bei chronischer Harnretention (früher Überlaufinkontinenz)?",
+    "question": "Eine 34-jährige Patientin mit führender Belastungsinkontinenz ohne Voroperationen, Bestrahlung oder Prolaps wünscht sich weitere Kinder. Wie ist ihre Belastungsinkontinenz nach den Kriterien der Leitlinie einzuordnen?",
     "options": [
-      "Durch eine neurogen bedingte Detrusorüberaktivität.",
-      "Durch Fistelbildung oder einen ektopen Ureter.",
-      "Durch erhöhten Restharn infolge Detrusorunteraktivität oder Blasenauslassobstruktion.",
-      "Durch imperativen Harndrang ohne Detrusorüberaktivität."
-    ],
-    "correct": 2,
-    "tip": "Der Name \"Überlauf\" verrät schon, dass die Blase nicht richtig leer wird.",
-    "explanation": "Die Inkontinenz bei chronischer Harnretention entsteht durch einen erhöhten Restharn, der durch Detrusorunteraktivität oder eine Blasenauslassobstruktion verursacht wird."
-  },
-  {
-    "question": "In wie vielen Fällen ermöglichen gezielte, standardisierte Anamnese-Fragen bereits eine Kategorisierung in Belastungs-, Drang- oder Mischharninkontinenz?",
-    "options": ["bis zu 50 %", "bis zu 80 %", "bis zu 95 %", "bis zu 30 %"],
-    "correct": 1,
-    "tip": "Die Anamnese ist erstaunlich treffsicher, auch ohne apparative Diagnostik.",
-    "explanation": "Gezielte und standardisierte Fragen ermöglichen bereits in bis zu 80 % eine Kategorisierung in Belastungs-, Drang- oder Mischharninkontinenz."
-  },
-  {
-    "question": "Mit welchem Instrument wird die Kontraktionsfähigkeit der Beckenbodenmuskulatur semiquantifiziert?",
-    "options": [
-      "Dem Ingelman-Sundberg-Score.",
-      "Dem Oxford-Grading-Score.",
-      "Dem PGI-I-Score.",
-      "Der ICIQ-UI-Short-Form."
-    ],
-    "correct": 1,
-    "tip": "Dieses System wird per digitaler vaginaler Palpation erhoben und ist nach einer britischen Universitätsstadt benannt.",
-    "explanation": "Die Palpation der Beckenbodenmuskulatur mit Prüfung der Kontraktionsfähigkeit kann mit Hilfe des Oxford-Grading-Systems semiquantifiziert werden."
-  },
-  {
-    "question": "Wie lange sollte ein Miktionstagebuch (Blasentagebuch) laut Leitlinie mindestens geführt werden?",
-    "options": ["Nur 24 Stunden.", "Mindestens 3 Tage.", "Mindestens 7 Tage.", "Mindestens 1 Monat."],
-    "correct": 1,
-    "tip": "Eine Studie zeigt, dass ein einziger Tag nicht ausreicht, um die Variabilität der Symptome gut zu erfassen.",
-    "explanation": "Das Miktionstagebuch sollte über zumindest 3 Tage geführt werden, da dies eine bessere Datenqualität liefert als nur 24 Stunden."
-  },
-  {
-    "question": "Welcher Schwellenwert gilt für den 1-Stunden-Pad-Test zur Diagnosestellung einer Harninkontinenz?",
-    "options": [
-      "Eine Vorlagengewichtszunahme von >1,4 g.",
-      "Eine Vorlagengewichtszunahme von >4,4 g.",
-      "Eine Vorlagengewichtszunahme von >10 g.",
-      "Es existiert kein definierter Schwellenwert."
+      "Kompliziert, da die Familienplanung nicht abgeschlossen ist",
+      "Unkompliziert, da weder Voroperation noch Bestrahlung vorliegt",
+      "Unkompliziert, da die Belastungssymptome eindeutig dominieren",
+      "Kompliziert erst bei zusätzlichem symptomatischem Genitalprolaps"
     ],
     "correct": 0,
-    "tip": "Der 24-Stunden-Test hat einen anderen, höheren Schwellenwert als der kürzere Test.",
-    "explanation": "Der 1h-Pad-Test mit standardisiertem Übungsprogramm nutzt eine Vorlagengewichtszunahme von >1,4 g als Schwellenwert, der 24h-Test hingegen >4,4 g."
+    "tip": "Die Einteilung berücksichtigt neben Voroperationen und Begleitbefunden auch Faktoren, die spätere operative Entscheidungen beeinflussen.",
+    "explanation": "Nach Kapitel 1 setzt die unkomplizierte Belastungsinkontinenz u. a. eine abgeschlossene Familienplanung voraus; eine nicht abgeschlossene Familienplanung ist selbst ein Merkmal der komplizierten Form. Das Fehlen von Voroperationen, Bestrahlung und Prolaps ändert an dieser Einordnung nichts."
   },
   {
-    "question": "Wie sollte bei einer Patientin mit Harninkontinenz und gleichzeitigem symptomatischem Harnwegsinfekt vorgegangen werden?",
+    "question": "Welcher klinische Befund entspricht nach der Schweregradeinteilung von Ingelman-Sundberg einer Belastungsinkontinenz Grad III?",
     "options": [
-      "Sofortige urodynamische Abklärung vor jeder weiteren Maßnahme.",
-      "Zunächst Therapie des Harnwegsinfekts, weitere Inkontinenzabklärung nur bei Persistenz der Symptome.",
-      "Keine Behandlung des Infekts, da er die Inkontinenz nicht beeinflusst.",
-      "Primär eine operative Sanierung der Belastungsinkontinenz."
+      "Urinverlust beim Stehen ohne körperliche Betätigung",
+      "Urinverlust beim Heben, Laufen und Treppensteigen",
+      "Urinverlust schon beim Husten, Niesen und Lachen",
+      "Urinverlust bei Lagewechsel aus dem Sitzen oder Liegen"
     ],
-    "correct": 1,
-    "tip": "Ein akuter Infekt kann Inkontinenzsymptome vortäuschen oder verstärken – das muss zuerst behandelt werden.",
-    "explanation": "Bei symptomatischem Harnwegsinfekt soll zunächst eine Behandlung der Infektion erfolgen, und nur bei Persistenz der Harninkontinenz eine weitere Abklärung durchgeführt werden."
+    "correct": 0,
+    "tip": "Die Einteilung ordnet den Urinverlust danach, welches Ausmaß an Belastung ihn auslöst.",
+    "explanation": "Ingelman-Sundberg unterscheidet Grad I (Husten, Niesen, Lachen), Grad II (Heben, Laufen, Treppensteigen) und Grad III (Urinverlust beim Stehen ohne körperliche Betätigung); laut Kapitel 1 existieren Schweregradeinteilungen nur für die Belastungsinkontinenz. Urinverlust beim Lagewechsel beschreibt die Lagerungsinkontinenz als Sonderform."
   },
   {
-    "question": "Wie verhält sich die Restharnmenge bei Frauen mit Belastungsinkontinenz im Mittel?",
+    "question": "Welche Aussage zur Basisdiagnostik der weiblichen Harninkontinenz entspricht der Leitlinie?",
     "options": [
-      "Sie ist typischerweise stark erhöht (>200 ml).",
-      "Sie ist im Mittel niedrig, nur etwa 16 % haben Werte >100 ml.",
-      "Sie kann grundsätzlich nicht sonographisch gemessen werden.",
-      "Sie ist bei allen Patientinnen identisch mit Frauen mit Dranginkontinenz."
+      "Der Oxford-Score soll zur Beurteilung des Beckenbodens eingesetzt werden",
+      "Eine Medikamentenanamnese sollte bei auffälliger Vorgeschichte erfolgen",
+      "Der klinische Hustenstresstest sollte bei entleerter Blase erfolgen",
+      "Neu verordnete Medikamente mit Inkontinenzbezug sollten überprüft werden"
+    ],
+    "correct": 3,
+    "tip": "Achten Sie bei jeder Aussage auf das Verb – soll, sollte oder kann – und auf den Geltungsbereich.",
+    "explanation": "E2-03 empfiehlt (sollte) die Überprüfung neuer Medikamente, die mit Entstehung oder Verschlimmerung der Harninkontinenz zusammenhängen; die Medikamentenanamnese selbst soll laut E2-02 bei allen Patientinnen erhoben werden. Der Oxford-Score ist eine Kann-Empfehlung (E2-05), und der Hustenstresstest erfolgt mit voller Blase."
+  },
+  {
+    "question": "Bei einer Patientin mit Mischharninkontinenz ist eine standardisierte Abklärung geplant. Über welchen Zeitraum sollte das Blasentagebuch laut Leitlinie mindestens geführt werden?",
+    "options": [
+      "24 Stunden",
+      "48 Stunden",
+      "3 Tage",
+      "7 Tage"
+    ],
+    "correct": 2,
+    "tip": "Die Empfehlung stützt sich auf eine Studie, die eine längere Protokolldauer dem Eintagesprotokoll überlegen fand.",
+    "explanation": "E2-08 (Empfehlung, Konsensstärke ++) nennt eine Dauer von zumindest 3 Tagen, gestützt auf eine Studie, in der das dreitägige Blasentagebuch dem 24-Stunden-Protokoll überlegen war. Die 24 Stunden beschreiben in Kapitel 2.3 nur den Mindestumfang, den solche Kalender typischerweise abbilden."
+  },
+  {
+    "question": "Ab welcher Vorlagengewichtszunahme kann der 1h-Pad-Test mit standardisiertem Übungsprogramm als Schwellenwert für die Diagnose einer Harninkontinenz herangezogen werden?",
+    "options": [
+      "über 1,0 g",
+      "über 1,4 g",
+      "über 2,0 g",
+      "über 4,4 g"
     ],
     "correct": 1,
-    "tip": "Belastungsinkontinenz ist in der Regel keine Entleerungsstörung, sondern ein Verschlussproblem – das spiegelt sich im Restharn wider.",
-    "explanation": "Frauen mit Belastungsinkontinenz haben im Mittel niedrige Restharnwerte (39 ml per Katheterismus, 63 ml sonographisch), nur 16 % weisen Werte über 100 ml auf."
+    "tip": "Beachten Sie, dass für den 24h-Pad-Test ein eigener, höherer Grenzwert gilt.",
+    "explanation": "Laut Kapitel 2.4 kann beim 1h-Pad-Test mit standardisiertem Übungsprogramm eine Gewichtszunahme von >1,4 g als Schwellenwert dienen (gute Spezifität, geringere Sensitivität). Die 4,4 g gelten für den 24h-Pad-Test, der besser reproduzierbar ist."
+  },
+  {
+    "question": "Eine 62-jährige Patientin stellt sich mit seit einer Woche zunehmender Dranginkontinenz, Dysurie und nitritpositivem Urinstreifentest vor. Welches Vorgehen empfiehlt die Leitlinie?",
+    "options": [
+      "Urodynamik zur Objektivierung einer Detrusorüberaktivität veranlassen",
+      "Antimuskarinikum beginnen und Urinbefund nach vier Wochen kontrollieren",
+      "Urethrozystoskopie vor Beginn der antibiotischen Therapie durchführen",
+      "Infekt behandeln und die Inkontinenz bei Persistenz erneut evaluieren"
+    ],
+    "correct": 3,
+    "tip": "Überlegen Sie, welcher Befund die Symptomatik vorübergehend verstärken und die weitere Diagnostik verfälschen kann.",
+    "explanation": "Ein symptomatischer Harnwegsinfekt verschlechtert die Inkontinenzsymptome; nach Kapitel 2.5 soll zunächst die Infektion behandelt und laut E2-12 (starke Empfehlung) danach re-evaluiert werden. Eine weitere Inkontinenzabklärung wie Urodynamik ist erst bei persistierender Inkontinenz vorgesehen."
+  },
+  {
+    "question": "Bei einer 86-jährigen Pflegeheimbewohnerin mit Mischharninkontinenz ohne Infektsymptome wird eine signifikante Bakteriurie nachgewiesen. Welches Vorgehen entspricht der Leitlinie?",
+    "options": [
+      "Gezielte Antibiose nach Antibiogramm, danach erneute Inkontinenzabklärung",
+      "Verzicht auf eine routinemäßige antibiotische Eradikationstherapie",
+      "Antibiotische Langzeitprophylaxe zur Besserung der Inkontinenz",
+      "Kurzzeitantibiose über drei Tage vor weiterer Inkontinenzdiagnostik"
+    ],
+    "correct": 1,
+    "tip": "Unterscheiden Sie zwischen einem Laborbefund und einer behandlungsbedürftigen Infektion bei hochbetagten Patientinnen.",
+    "explanation": "Nach E2-13 (starke Empfehlung) soll eine asymptomatische Bakteriurie bei geriatrischen harninkontinenten Patientinnen nicht routinemäßig antibiotisch behandelt werden, auch nicht mit dem Ziel, die Inkontinenz zu bessern; ein Screening wird ebenfalls nicht empfohlen. Die Re-Evaluation nach Antibiose gilt für den symptomatischen Harnwegsinfekt."
+  },
+  {
+    "question": "Bei einer 55-jährigen Patientin mit Belastungsinkontinenz ist die Einlage einer suburethralen Schlinge geplant. Welches Vorgehen zur Restharnbestimmung empfiehlt die Leitlinie?",
+    "options": [
+      "Einmalkatheterismus vor und nach der Inkontinenzoperation",
+      "Sonographische Messung erst bei postoperativen Miktionsbeschwerden",
+      "Sonographische Messung vor und nach der Inkontinenzoperation",
+      "Einmalkatheterismus präoperativ, Sonographie zur Verlaufskontrolle"
+    ],
+    "correct": 2,
+    "tip": "Denken Sie daran, dass auch die geplante Operation selbst eine Blasenentleerungsstörung hervorrufen kann.",
+    "explanation": "E2-14 empfiehlt die sonographische Restharnbestimmung (starke Empfehlung), und nach E2-17 soll der Restharn vor, unter und nach einer Therapie bestimmt werden, die eine Blasenentleerungsstörung verursachen kann – ausdrücklich inklusive Inkontinenzoperation. Der Einmalkatheterismus ist laut Kapitel 2.6 möglich, die Sonographie soll ihm aber vorgezogen werden."
+  },
+  {
+    "question": "Gezielte standardisierte Fragen erlauben in bis zu 80 % eine Einordnung der Inkontinenzform. Welcher anamnestische Befund ist laut Leitlinie ein Anlass zur Überweisung an einen Spezialisten?",
+    "options": [
+      "Rezidivierende Harnwegsinfekte in der Anamnese",
+      "Gut eingestellter Diabetes mellitus Typ 2",
+      "Adipositas Grad II mit einem BMI von 37 kg/m²",
+      "Belastungsinkontinenz bei Mutter und Schwester"
+    ],
+    "correct": 0,
+    "tip": "Unterscheiden Sie allgemeine Risikofaktoren für Inkontinenz von Warnzeichen, die eine weiterführende Abklärung erfordern.",
+    "explanation": "Kapitel 2.1 nennt als Überweisungsanlass u. a. Blasen- oder Beckenschmerzen, Hämaturie, rezidivierende Harnwegsinfekte, Z. n. Beckenoperation oder Bestrahlung, Senkung, V. a. Fistel, erschwerte Miktion, Restharn und neurologische Erkrankungen. Adipositas, Diabetes oder familiäre Belastung gehören nicht zu diesen Kriterien."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie sollte bei der Therapieplanung einer Mischharninkontinenz vorgegangen werden?",
+    "question": "Eine 57-jährige Patientin mit Mischharninkontinenz empfindet den Urinverlust beim Husten und Sport als deutlich belastender als den Harndrang. Nach welchem Prinzip sollte die Therapie laut Leitlinie geplant werden?",
     "options": [
-      "Es müssen immer Belastungs- und Drangkomponente gleichzeitig operativ versorgt werden.",
-      "Das subjektive Hauptsymptom sollte vorrangig therapiert werden.",
-      "Die Drangkomponente darf bei Mischinkontinenz prinzipiell nicht therapiert werden.",
-      "Es ist stets ein künstlicher Sphinkter (AUS) zu implantieren."
+      "Zuerst die Drangkomponente behandeln, unabhängig vom führenden Symptom",
+      "Bandeinlage und BTX-Injektion simultan als reguläres Primärvorgehen",
+      "Vorrangig das subjektive Hauptsymptom der Patientin therapieren",
+      "Operation erst nach urodynamischem Ausschluss einer Detrusorüberaktivität"
     ],
-    "tip": "Konzentriere dich auf das, was die Patientin im Alltag am meisten stört.",
-    "explanation": "Bei Mischharninkontinenz sollte das subjektive Hauptsymptom vorrangig therapiert werden.",
-    "correct": 1
+    "correct": 2,
+    "tip": "Bei Mischinkontinenz sind operative Ergebnisse schwerer vorhersagbar als bei reiner BIK – woran richtet man die Reihenfolge dann aus?",
+    "explanation": "Nach Empfehlung E7-17 sollte bei Mischharninkontinenz das subjektive Hauptsymptom vorrangig therapiert werden. Frauen mit dominierender Belastungskomponente haben laut Kapitel 7.3 ein signifikant besseres Outcome nach BIK-Operation als Frauen mit dominierender Drangkomponente; die Kombination aus BTX und Bulkamid wurde lediglich in einer Beobachtungsstudie untersucht."
   },
   {
-    "question": "Worüber müssen Patientinnen mit einer Mischharninkontinenz vor einem operativen Eingriff bezüglich der Erfolgsaussichten aufgeklärt werden?",
+    "question": "Welche Aussage zur operativen Therapie der Belastungsinkontinenz bei Frauen mit Mischharninkontinenz trifft laut Leitlinie zu?",
     "options": [
-      "Die Operation heilt beide Komponenten (Belastung und Drang) in 100% der Fälle.",
-      "Der operative Eingriff ist mit geringerer Wahrscheinlichkeit erfolgreich als bei einer reinen Belastungsharninkontinenz.",
-      "Eine Operation verschlechtert immer die Drangkomponente.",
-      "Die Erfolgsraten sind identisch zur unkomplizierten Belastungsinkontinenz."
+      "Eine präexistente Drangsymptomatik bessert sich nach Bandeinlage verlässlich",
+      "Je stärker die präoperative Drangsymptomatik, desto höher das Versagensrisiko",
+      "Die Heilungsraten entsprechen weitgehend denen bei reiner Belastungsinkontinenz",
+      "Eine dominierende Drangkomponente geht mit dem besseren Outcome einher"
     ],
-    "tip": "Die Kombination zweier Inkontinenzformen macht die Behandlung komplexer, was sich auf die Prognose auswirkt.",
-    "explanation": "Frauen sollen aufgeklärt werden, dass ein operativer Eingriff bei Mischinkontinenz mit geringerer Wahrscheinlichkeit erfolgreich ist als bei reiner Belastungsharninkontinenz und dass eine alleinige therapeutische Maßnahme nicht ausreichend sein könnte.",
-    "correct": 1
+    "correct": 1,
+    "tip": "Prüfe, wie gut sich die Entwicklung des Drangs nach einer Belastungsinkontinenz-OP vorhersagen lässt.",
+    "explanation": "Laut Kapitel 7.3 war in einer RCT das Versagensrisiko umso höher, je stärker die präoperative Drangsymptomatik ausgeprägt war; Frauen mit Mischinkontinenz erreichen seltener eine Heilung als Frauen mit reiner BIK (Statement S7-27). Die Entwicklung der Drangsymptome ist nicht sicher vorhersehbar (S7-28), daher soll über die geringere Erfolgswahrscheinlichkeit aufgeklärt werden (E7-18, starke Empfehlung)."
   },
   {
-    "question": "Wie lässt sich eine larvierte (maskierte) Harninkontinenz, die durch ein sogenanntes Quetschhahn-Phänomen bei massivem Prolaps bedingt ist, am besten aufdecken?",
+    "question": "Eine 64-jährige Patientin mit symptomatischem Genitaldeszensus und manifester Belastungsinkontinenz wünscht eine operative Versorgung. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Durch eine alleinige Urinanalyse.",
-      "Durch Reposition des Bruchsackes (z.B. Pessartestung) und anschließenden klinischen Stresstest.",
-      "Durch eine MRT-Untersuchung des Beckenbodens in Ruhe.",
-      "Durch einen 24-Stunden-Pad-Test ohne Reposition."
+      "Simultaner Eingriff soll unterbleiben, da er die BIK-Heilungsrate senkt",
+      "Simultaner Eingriff soll erfolgen, da er keine zusätzlichen Komplikationen birgt",
+      "Deszensuskorrektur soll bei manifester BIK zunächst zurückgestellt werden",
+      "Simultaner Eingriff kann angeboten werden, zweizeitiges Vorgehen ist möglich"
     ],
-    "tip": "Die ausgeprägte Senkung knickt die Harnröhre ab und verdeckt so die Inkontinenz. Man muss die Anatomie vorübergehend normalisieren.",
-    "explanation": "Eine zumeist larvierte Harninkontinenz durch ein Quetschhahn-Phänomen bei massivem Prolaps lässt sich nur durch Reposition des Bruchsackes aufdecken. Ein klinischer Stresstest nach Reposition sollte das Vorliegen einer maskierten Inkontinenz aufdecken.",
-    "correct": 1
+    "correct": 3,
+    "tip": "Die Studienlage zu kombinierten Eingriffen ist uneinheitlich – das spiegelt sich im Empfehlungsgrad wider.",
+    "explanation": "Nach Empfehlung E7-19 (offene Empfehlung) kann ein gleichzeitiger Deszensus- und Inkontinenzeingriff angeboten werden, ein zweizeitiges Vorgehen ist möglich. Die simultane Operation erzielt eine höhere BIK-Heilungsrate (Statement S7-29), hat aber mehr Nebenwirkungen als die Deszensuschirurgie allein (S7-30)."
   },
   {
-    "question": "Welches therapeutische Vorgehen wird bei einem Genitalprolaps mit larvierter Belastungsinkontinenz laut Leitlinie als Konzept häufig empfohlen?",
+    "question": "Eine kontinente 68-jährige Patientin ist für eine Deszensusoperation vorgesehen. Welche Aussage zur Aufklärung über eine postoperative Belastungsinkontinenz entspricht der Leitlinie?",
     "options": [
-      "Sofortige Anlage eines künstlichen Sphinkters.",
-      "Ausschließliche Gabe von Anticholinergika.",
-      "Ein zweizeitiges Vorgehen: Zunächst Korrektur des Genitalprolaps, dann Neuevaluation der Kontinenzsituation.",
-      "Immer die gleichzeitige Entfernung der Harnblase."
+      "Es besteht ein Risiko; ein Zusatzeingriff senkt es, erhöht aber Komplikationen",
+      "Ohne präoperative Symptome ist das postoperative Risiko vernachlässigbar",
+      "Ein prophylaktischer Zusatzeingriff senkt das Risiko ohne Mehrkomplikationen",
+      "Ein prophylaktischer Zusatzeingriff erhöht das postoperative Inkontinenzrisiko"
     ],
-    "tip": "Es ist oft sicherer, die Kontinenzfunktion nach der Wiederherstellung der normalen Anatomie neu zu bewerten.",
-    "explanation": "Eine Operation sollte immer zweizeitig erfolgen, zunächst Korrektur des Genitalprolaps, dann Neuevaluation der Kontinenzsituation mit Durchführung einer Urodynamik. Zwar kann ein gleichzeitiger Eingriff angeboten werden, ein zweizeitiges Vorgehen ist jedoch ein etabliertes Vorgehen, da kombinierte Eingriffe ein erhöhtes Risiko für erneute Operationen haben können.",
-    "correct": 2
+    "correct": 0,
+    "tip": "Ein Deszensus kann eine Belastungsinkontinenz verdecken – und jeder zusätzliche Eingriff hat sein eigenes Risikoprofil.",
+    "explanation": "Laut Kapitel 7.4 entwickelten im Cochrane-Review 20,2 % der Frauen nach Deszensusoperation eine de novo Belastungsinkontinenz; Frauen sollen über dieses Risiko informiert werden (E7-20, starke Empfehlung). Ein prophylaktischer Kontinenzeingriff kann das Risiko reduzieren (Statement S7-32), erhöht aber das Komplikationsrisiko, insbesondere für eine Überkorrektur (S7-33, E7-21)."
   },
   {
-    "question": "Welche bildgebende Methode stellt die Methode der Wahl bei der Diagnostik von Komplikationen nach einer suburethralen Schlingeneinlage dar?",
+    "question": "Am zweiten Tag nach retropubischer Bandeinlage zeigt eine Patientin eine Blasenentleerungsstörung mit erhöhtem Restharn. Welche Diagnostik soll laut Leitlinie erfolgen?",
     "options": [
-      "Die Computertomographie (CT) des Beckens.",
-      "Die Magnetresonanztomographie (MRT).",
-      "Das intravenöse Pyelogramm (IVP).",
-      "Der Ultraschall (Pelvic-Floor-Sonographie)."
+      "Urodynamik mit Druck-Fluss-Messung zur Quantifizierung der Obstruktion",
+      "Sonographie zum Ausschluss von Bandfehllage und retropubischem Hämatom",
+      "Miktionszystourethrographie zum Nachweis einer Abknickung der Urethra",
+      "MRT des Beckens zur Darstellung von Band und paravesikalem Raum"
     ],
-    "tip": "Diese Methode ist schnell verfügbar, strahlungsfrei und eignet sich exzellent, um synthetische Bänder nahe der Urethra darzustellen.",
-    "explanation": "Der Ultraschall stellt die Methode der Wahl dar bei der Diagnostik von Komplikationen nach einer suburethralen Schlingeneinlage. Auch eine manifeste oder drohende Banderosion (Urethra) kann in der Regel durch den Ultraschall diagnostiziert werden.",
-    "correct": 3
+    "correct": 1,
+    "tip": "Überlege, welche zwei mechanischen Ursachen einer frühen Entleerungsstörung nach Bandeinlage ausgeschlossen werden müssen.",
+    "explanation": "Nach Empfehlung E3-15 (starke Empfehlung) soll bei postoperativer Blasenentleerungsstörung nach Bandeinlage eine inkorrekte Position bzw. eine retropubische/paravesikale Hämatombildung mittels Ultraschall ausgeschlossen werden. Laut Kapitel 3.4.1 ist der Ultraschall die Methode der Wahl bei der Diagnostik von Komplikationen nach suburethraler Schlingeneinlage."
   },
   {
-    "question": "Wie unterscheidet sich das therapeutische Vorgehen bei einer (durch Ultraschall gesicherten) zu nahen Bandlage mit Blasenentleerungsstörung zeitlich?",
+    "question": "Zwei Tage nach suburethraler Bandeinlage wird sonographisch eine zu nahe Bandlage als Ursache einer Blasenentleerungsstörung erkannt. Welche Aussage trifft laut Leitlinie zu?",
     "options": [
-      "In den ersten postoperativen Tagen kann eine Bandlockerung erfolgen, später erkannt ist oft eine operative Bandspaltung erforderlich.",
-      "Es wird immer sofort das komplette Band entfernt, unabhängig vom Zeitpunkt.",
-      "In den ersten Tagen wird das Band gespalten, später wird es gelockert.",
-      "Eine operative Korrektur ist nie erforderlich, da sich das Band durch Dehnung von selbst anpasst."
+      "Eine Bandlockerung ist jetzt möglich, das Rezidivrisiko danach ist gering",
+      "Eine Bandspaltung ist jetzt Methode der Wahl, das Rezidivrisiko ist gering",
+      "Eine Bandlockerung ist erst nach 3 Monaten sinnvoll, um Rezidive zu vermeiden",
+      "Abwarten ist angezeigt, da sich eine zu nahe Bandlage meist spontan löst"
     ],
-    "tip": "Kurz nach der Operation ist das Bandgewebe noch nicht fest eingewachsen und lässt sich mobilisieren.",
-    "explanation": "Wird eine Blasenentleerungsstörung aufgrund einer zu nahen Bandlage sonographisch erkannt, kann sie in den ersten postoperativen Tagen mit einer Bandlockerung behoben werden. Später erkannt kann eine operative Korrektur (Bandspaltung) erforderlich werden.",
-    "correct": 0
+    "correct": 0,
+    "tip": "Der Zeitpunkt der Erkennung entscheidet über die Art des Korrektureingriffs – und über dessen Preis.",
+    "explanation": "Laut Kapitel 3.4.1 kann eine Blasenentleerungsstörung durch zu nahe Bandlage in den ersten postoperativen Tagen durch eine Bandlockerung behoben werden; das Risiko einer Rezidiv-Belastungsinkontinenz ist danach mit 3,3 % gering. Später erkannt kann eine operative Korrektur nötig werden, nach Bandspaltung liegt das Rezidivrisiko bei 61 %."
   },
   {
-    "question": "Wie verhält sich das Risiko für eine erneute (Rezidiv-) Belastungsinkontinenz bei der chirurgischen Behebung einer Band-Obstruktion?",
+    "question": "Welche Aussage zur Diagnostik iatrogener urogenitaler Fisteln trifft laut Leitlinie zu?",
     "options": [
-      "Das Risiko ist nach Bandlockerung und Bandspaltung exakt gleich hoch.",
-      "Das Risiko ist nach einer Bandlockerung gering (3,3%), nach einer späteren Bandspaltung jedoch wesentlich höher (61%).",
-      "Nach einer Bandspaltung wird die Patientin in 100% der Fälle wieder kontinent.",
-      "Bandlockerungen führen in über 90% der Fälle zu einer sofortigen schweren Inkontinenz."
+      "CT und MRT gehören zur Standarddiagnostik der urethrovaginalen Fistel",
+      "Ein Doppelfarbtest kann ureterovaginale von vesikovaginalen Fisteln abgrenzen",
+      "Der Urinverlust ist bei Fisteln typischerweise tagsüber stärker als nachts",
+      "Eine komplikationslose Index-OP macht eine Fistel als Ursache unwahrscheinlich"
     ],
-    "tip": "Das spätere Durchtrennen (Spalten) des Bandes zerstört den Halteapparat oft vollständig, während eine frühe Lockerung die Kontinenzfunktion bewahren kann.",
-    "explanation": "Das Risiko einer Rezidiv-Belastungsinkontinenz ist nach Bandlockerung gering (3,3%), nach Bandspaltung wesentlich höher (61%).",
-    "correct": 1
+    "correct": 1,
+    "tip": "Unterscheide zwischen Basisdiagnostik, Spezialtests für Sonderfragen und Schnittbildgebung für komplexe Fälle.",
+    "explanation": "Laut Kapitel 8.2 kann ein Doppelfarbtest in einigen Fällen helfen, eine ureterovaginale von einer vesikovaginalen Fistel zu unterscheiden; Basis sind Anamnese, Spekulumuntersuchung, Endoskopie und Blauprobe. Der Urinverlust tritt typischerweise tagsüber und nachts etwa gleich stark auf, etwa die Hälfte der Verletzungen bleibt intraoperativ unerkannt, und CT/MRT gehören bei urethrovaginaler Fistel nicht zur Standarddiagnostik (Kapitel 8.7.2)."
   },
   {
-    "question": "Welche diagnostischen Schritte werden primär zur Identifikation und Lokalisation einer vesikovaginalen Fistel (VVF) empfohlen?",
+    "question": "Vier Wochen nach Hysterektomie wird bei einer Patientin eine kleine vesikovaginale Fistel diagnostiziert. Welches Vorgehen ist laut Leitlinie möglich?",
     "options": [
-      "Einzig ein 24-Stunden-Pad-Test ohne weitere Bildgebung.",
-      "Urodynamik als alleiniges Mittel der Wahl.",
-      "Spekulauntersuchung, Urethrozystoskopie und retrograde Blasenfüllung ggf. mit farbiger Flüssigkeit (Blauprobe).",
-      "Ausschließliche Untersuchung des Serumkreatinins."
+      "Sofortiger operativer Verschluss, da Spontanheilungen praktisch nicht vorkommen",
+      "Konservativer Versuch mit transurethraler Dauerableitung über maximal 7 Tage",
+      "Konservativer Versuch, der auch bei über 3 Monate alter Fistel sinnvoll ist",
+      "Konservativer Versuch mit Dauerharnableitung über einen Zeitraum bis zu 12 Wochen"
     ],
-    "tip": "Ziel ist es, eine physische Verbindung zwischen Blase und Scheide optisch oder durch den Austritt von Farbstoff nachzuweisen.",
-    "explanation": "Die Diagnostik der vesikovaginalen Fistel (VVF) umfasst die Anamnese, Spekulauntersuchung, endoskopische Untersuchungen (Urethrozystoskopie, Ureteroskopie) sowie die retrograde Blasenfüllung ggf. mit farbiger Flüssigkeit (Blauprobe).",
-    "correct": 2
+    "correct": 3,
+    "tip": "Entscheidend ist, ob die Epithelialisierung des Fistelkanals bereits abgeschlossen ist.",
+    "explanation": "Nach Empfehlung E8-01 (offene Empfehlung) kann bei früh postoperativ, innerhalb der ersten 6 Wochen entdeckter VVF eine Dauerharnableitung über bis zu 12 Wochen zur Spontanheilung führen; die spontane Verschlussrate liegt laut Kapitel 8.3.1 bei 13–23 %, v. a. bei kleinen Fisteln. Besteht die Fistel länger als drei Monate, sollte kein konservativer Versuch mehr erfolgen; die 7 Tage sind die Mindestdauer der Harnableitung nach operativem Verschluss (E8-06)."
   },
   {
-    "question": "Was ist das pathognomonische Leitsymptom einer iatrogenen urogenitalen Fistel, welches sie von einer reinen Belastungsinkontinenz unterscheidet?",
+    "question": "Eine Patientin mit vesikovaginaler Fistel nach Strahlentherapie des Beckens soll operativ versorgt werden. Welche Aussage entspricht der Leitlinie?",
     "options": [
-      "Urinverlust, der ausschließlich bei körperlicher Belastung wie Husten oder Niesen auftritt.",
-      "Unkontrollierbarer Harnabgang, der sich tagsüber und nachts in etwa gleich stark manifestiert.",
-      "Schmerzhaftes Brennen beim Wasserlassen ohne unwillkürlichen Urinverlust.",
-      "Urinverlust, der nur nach vorherigem starken, kaum aufschiebbaren Harndrang auftritt."
+      "Der Verschluss soll innerhalb von 2 Wochen vor Einsetzen der Ödembildung erfolgen",
+      "Die Ergebnisse entsprechen denen nicht-radiogener iatrogener Fisteln",
+      "Nach dem Verschluss genügt eine Harnableitung über 3 Tage per Katheter",
+      "Beim Fistelverschluss soll zusätzlich ein Gewebsinterponat verwendet werden"
     ],
-    "tip": "Aufgrund der dauerhaft offenen Fistelverbindung läuft der Urin unabhängig vom Tag-Nacht-Rhythmus kontinuierlich ab.",
-    "explanation": "Das Kardinalsymptom der urogenitalen Fistel ist der unkontrollierbare Harnabgang, der kontinuierlich oder lageabhängig schwallartig auftritt. Er manifestiert sich tagsüber und nachts in etwa gleich stark, wodurch er sich pathognomonisch von der Belastungsinkontinenz unterscheidet, die tagsüber meist stärker ausgeprägt ist.",
-    "correct": 1
+    "correct": 3,
+    "tip": "Bestrahltes Gewebe heilt schlechter – das beeinflusst Prognose, Operationstechnik und Nachbehandlung.",
+    "explanation": "Nach Empfehlung E8-04 (starke Empfehlung) soll beim Verschluss einer radiogenen Fistel ein Gewebsinterponat verwendet werden; die Ergebnisse sind laut Kapitel 8.5 schlechter als bei anderen iatrogenen Fisteln. Der OP-Zeitpunkt soll nach Abklingen von Ödem und Inflammation festgelegt werden (E8-03), und nach VVF-Verschluss soll mindestens 7 Tage kontinuierlich abgeleitet werden (E8-06), bei strahlenbedingten Fisteln in Fallserien bis zu drei Wochen."
   },
   {
-    "question": "Welches chirurgische Vorgehen ist bei einer ureterovaginalen Fistel (Harnleiter-Scheiden-Fistel) angezeigt, wenn endoluminale Techniken nicht zur Abheilung führen oder eine Striktur entstanden ist?",
+    "question": "Nach laparoskopischer Hysterektomie wird bei einer Patientin eine ureterovaginale Fistel mit Harnaufstau diagnostiziert. Welches primäre Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine suburethrale Schlingeneinlage.",
-      "Eine vordere Kolporrhaphie (Vaginalplastik).",
-      "Eine abdominale Revision mit End-zu-End-Anastomose, Ureterozystoneostomie oder ggf. Harnleiter-Darmersatz.",
-      "Die alleinige dauerhafte Anlage eines transurethralen Dauerkatheters."
+      "Sofortige abdominale Revision mit Ureterozystoneostomie in Psoas-Hitch-Technik",
+      "Vaginaler Fistelverschluss in Schichten mit Interposition eines Martius-Lappens",
+      "Konservativ bzw. endoluminal, z. B. Harnleiterschienung oder Nephrostomie",
+      "Primärer Harnleiter-Darmersatz zur sicheren und dauerhaften Leckageversorgung"
     ],
-    "tip": "Wenn der Harnleiter beschädigt und von innen nicht zu schienen ist, muss die Kontinuität operativ wiederhergestellt oder der Harnleiter neu in die Blase eingepflanzt werden.",
-    "explanation": "Wenn endoluminale Techniken nicht zur Abheilung der Leckage führen oder eine Ureterstriktur entsteht, ist die abdominale Revision mit End-zu-End-Anastomose, Ureterozystoneostomie (z.B. in Psoas-Hitch-Technik) oder bei langstreckigen Verletzungen einem Harnleiter-Darmersatz angezeigt.",
-    "correct": 2
+    "correct": 2,
+    "tip": "Unterscheide zwischen Verfahren für die Erstversorgung und solchen für das Versagen der Erstversorgung.",
+    "explanation": "Nach Empfehlung E8-08 sollten Fisteln im oberen Harntrakt primär konservativ oder mit endoluminalen Techniken behandelt werden, etwa durch retrograde Schienung, perkutane Nephrostomie mit antegrader Schienung oder ureteroskopische Schienung. Erst bei Versagen oder Striktur ist eine abdominale Revision angezeigt, individuell nach Lage und Ausmaß der Läsion (E8-10); nach Schienenentfernung soll engmaschig kontrolliert werden (E8-09)."
   }
 ]

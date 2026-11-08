@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie wird die Interstitielle Zystitis/das Blasenschmerzsyndrom (IC/BPS) laut der neuen Definition 1 (2024) der S2k-Leitlinie grundsätzlich beschrieben?",
+    "question": "Wie charakterisiert die 2024 neu gefasste Definition 1 der Leitlinie die Interstitielle Zystitis?",
     "options": [
-      "Als Entzündung von Harnblase oder Harnröhre, möglicherweise assoziiert mit Urothelschaden, Infektion, Toxinen, Autoimmunität oder Allergie, mit typischen Symptomen unter Ausschluss von Differenzialdiagnosen.",
-      "Als eine ausschließlich bakteriell bedingte chronische Blasenentzündung.",
-      "Als rein psychogene Erkrankung ohne jede somatische Komponente.",
-      "Als histopathologisch eindeutig definierte Tumorvorstufe der Harnblase."
+      "Als nichtinfektiöse chronische Harnblasenerkrankung mit Schmerz und Pollakisurie",
+      "Als Entzündung von Harnblase oder Harnröhre bei Ausschluss von Differenzialdiagnosen",
+      "Als blasenbezogenes Schmerzsyndrom ohne nachweisbare Entzündung der Blasenwand",
+      "Als Hunner-Läsions-Erkrankung, die eine eigene ICD-Kodierung erhalten soll"
     ],
-    "correct": 0,
-    "tip": "Diese Definition schließt verschiedene mögliche Assoziationen ein, erfordert aber stets den Ausschluss anderer Erkrankungen.",
-    "explanation": "Die neue Definition 1 (2024) beschreibt die IC/BPS als Entzündung von Harnblase oder Harnröhre mit möglichen Assoziationen (Urothelschaden, Infektion, Toxine, Autoimmunität, Allergie) und typischen Symptomen, stets unter Ausschluss von Differenzialdiagnosen."
+    "correct": 1,
+    "tip": "Vergleichen Sie die Fassung von 2024 mit der Vorversion von 2018 in Tabelle 5.",
+    "explanation": "Definition 1 (neu 2024, starker Konsens) beschreibt die IC als Erkrankung mit Entzündung der Harnblase oder der Harnröhre, möglicherweise assoziiert mit Urothelschaden, Infektion, Toxinen, Autoimmunreaktion oder Allergie, bei Ausschluss differenzialdiagnostischer Erkrankungen. Die „nichtinfektiöse chronische Harnblasenerkrankung“ ist die Definition der Leitlinie von 2018."
   },
   {
-    "question": "Welche zwei Subtypen werden laut Definition 2 nach dem zystoskopischen Befund unterschieden, und wie wird das Blasenschmerzsyndrom (BPS) davon abgegrenzt?",
+    "question": "Welches zystoskopische Bild beschreibt die Leitlinie als typisch für eine Hunner-Läsion?",
     "options": [
-      "Hunner-Typ IC (HIC) und Nicht-Hunner-Typ IC (NHIC); das BPS zeigt dagegen keinerlei zystoskopische oder histologische Veränderungen.",
-      "Nur ein einziger Subtyp existiert, eine weitere Unterteilung ist nicht vorgesehen.",
-      "Akute und chronische IC, wobei BPS eine Sonderform der akuten IC darstellt.",
-      "Bakterielle und virale IC, wobei BPS ausschließlich durch Pilzinfektionen verursacht wird."
+      "Umschriebene Rötung mit zu einer zentralen Narbe ziehenden Gefäßen und Fibrinbelag",
+      "Multiple petechiale Schleimhautblutungen, die erst bei erneuter Blasenfüllung auftreten",
+      "Trabekulierte Blasenwand mit Pseudodivertikeln bei sonst unauffälliger Schleimhaut",
+      "Diffus verdünntes, blasses Urothel mit feinen Gefäßinjektionen in allen Quadranten"
     ],
     "correct": 0,
-    "tip": "NHIC kann dabei mit oder ohne Glomerulationen vorliegen.",
-    "explanation": "Definition 2 unterscheidet nach zystoskopischem Befund den Hunner-Typ IC (HIC) vom Nicht-Hunner-Typ IC (NHIC, mit oder ohne Glomerulationen); davon abgegrenzt wird das Blasenschmerzsyndrom (BPS), das keine zystoskopischen oder histologischen Veränderungen zeigt."
+    "tip": "Denken Sie an eine Läsion, die mit zunehmender Blasendehnung aufreißt und wasserfallartig blutet.",
+    "explanation": "Kapitel 2.1 beschreibt die Hunner-Läsion als umschriebenes, gerötetes Schleimhautareal mit kleinen, zu einer zentralen Narbe ausstrahlenden Gefäßen und Fibrinablagerung bzw. Koagulum. Petechiale Blutungen bei erneuter Distension entsprechen Glomerulationen (Messing und Stamey 1978), die Trabekulierung ist ein OAB-Befund."
   },
   {
-    "question": "Wie wird die Hunner-Läsion charakteristisch beschrieben?",
+    "question": "Bei einer 41-jährigen Patientin mit Blasenschmerz zeigt die ambulante Zystoskopie keine Glomerulationen. Womit lassen sich Glomerulationen laut Leitlinie sicher ausschließen?",
     "options": [
-      "Als umschriebenes gerötetes Areal mit zur zentralen Narbe ziehenden Gefäßen und Fibrinbelag, mit wasserfallartiger Blutung bei Dehnung.",
-      "Als diffuse, blasse Schleimhautveränderung ohne jede Gefäßzeichnung.",
-      "Als isolierte weiße Plaque ohne jede Blutungsneigung.",
-      "Als ausschließlich im Trigonum lokalisierte Verkalkung."
+      "Mit einer Narrow-Band-Imaging-Zystoskopie in Lokalanästhesie",
+      "Mit Mapping-Biopsien der Blasenwand unter Einschluss des Detrusors",
+      "Mit einem intravesikalen Kaliumchlorid-Provokationstest",
+      "Mit einer Zystoskopie unter Hydrodistension der Harnblase"
     ],
-    "correct": 0,
-    "tip": "Glomerulationen lassen sich dagegen nur sicher mittels Hydrodistension ausschließen.",
-    "explanation": "Die Hunner-Läsion wird als umschriebenes gerötetes Areal mit zur zentralen Narbe ziehenden Gefäßen und Fibrinbelag beschrieben, mit einer charakteristischen wasserfallartigen Blutung bei Dehnung der Blase."
+    "correct": 3,
+    "tip": "Ein unauffälliger Routinebefund in der Ambulanz ist bei dieser Fragestellung nicht das letzte Wort.",
+    "explanation": "Laut Kapitel 2.1 sind Glomerulationen teilweise bereits zystoskopisch nachweisbar, ausschließen lassen sie sich jedoch nur durch eine Hydrodistension (Kapitel 3.7.6). Biopsien können eine IC/BPS weder sichern noch ausschließen."
   },
   {
-    "question": "Wie unterscheidet sich das Leitsymptom bei NHIC von dem der überaktiven Blase (OAB)?",
+    "question": "Was kennzeichnet nach der neuen Definition der Leitlinie das Blasenschmerzsyndrom (BPS) gegenüber der Nicht-Hunner-Typ IC?",
     "options": [
-      "Bei NHIC steht der Schmerz im Vordergrund, bei der OAB dagegen der imperative Harndrang.",
-      "Bei NHIC steht der imperative Harndrang im Vordergrund, bei der OAB der Schmerz.",
-      "Beide Erkrankungen sind klinisch und per Definition identisch.",
-      "Die OAB ist durch Hunner-Läsionen definiert, NHIC nicht."
+      "Glomerulationen nach Hydrodistension bei fehlenden Hunner-Läsionen",
+      "Entzündungsinfiltrate in der Biopsie bei unauffälliger Zystoskopie",
+      "Fehlende zystoskopisch und histopathologisch fassbare Veränderungen",
+      "Denudiertes Urothel in der Biopsie bei fehlenden Glomerulationen"
     ],
-    "correct": 0,
-    "tip": "Zudem ist die IC/BPS keine histopathologische Diagnose und an kein bestimmtes Blasenvolumen gebunden.",
-    "explanation": "Die Abgrenzung zur OAB erfolgt über das Leitsymptom: bei NHIC steht der Schmerz im Vordergrund, während bei der OAB der imperative Harndrang das Leitsymptom ist."
+    "correct": 2,
+    "tip": "Ordnen Sie jede Befundkonstellation einem Subtyp zu – nur eine bleibt für das BPS übrig.",
+    "explanation": "Nach Kapitel 2.1 bestehen beim BPS – ohne Infektion oder andere Grunderkrankung – chronische blasenbezogene Schmerzen plus mindestens ein weiteres Symptom, aber keine zystoskopisch oder histopathologisch nachweisbaren Veränderungen. Entzündliche Veränderungen, Urotheldenudierung oder Glomerulationen führen zur Einordnung als NHIC."
   },
   {
-    "question": "Ist die IC/BPS an ein bestimmtes zystoskopisch gemessenes Blasenvolumen gebunden?",
+    "question": "Welche Terminologie verwenden laut Leitlinie die ESSIC und die ICD-11?",
     "options": [
-      "Nein, die IC/BPS ist keine histopathologische Diagnose und an kein bestimmtes Blasenvolumen gebunden.",
-      "Ja, sie ist definitionsgemäß nur bei einer Blasenkapazität unter 100 ml zu diagnostizieren.",
-      "Ja, sie erfordert zwingend eine Blasenkapazität über 800 ml.",
-      "Ja, das Blasenvolumen ist das alleinige diagnostische Kriterium."
+      "IC/BPS als Überbegriff, unterteilt in HIC und BPS ohne Hunner-Läsionen",
+      "BPS als Überbegriff, der sowohl HIC als auch NHIC einschließt",
+      "IC/BPS als Gesamtbegriff ohne weitere Unterteilung in Subtypen",
+      "IC/BPS als Überbegriff, unterteilt in IC (HIC, NHIC) und BPS"
     ],
-    "correct": 0,
-    "tip": "Dies unterstreicht, dass die IC/BPS primär eine klinische und keine rein messtechnische Diagnose ist.",
-    "explanation": "Die Leitlinie stellt klar, dass die IC/BPS keine histopathologische Diagnose ist und nicht an ein bestimmtes Blasenvolumen gebunden ist."
+    "correct": 1,
+    "tip": "Tabelle 3 zeigt: Europäer, Amerikaner, Ostasiaten und die deutsche Leitlinie wählen jeweils einen anderen Oberbegriff.",
+    "explanation": "Laut Kapitel 2.1 nutzen ESSIC und ICD-11 BPS als Überbegriff einschließlich HIC und NHIC. Die AUA verwendet nur IC/BPS, die ostasiatische Leitlinie unterscheidet unter IC/BPS zwischen HIC und BPS; die Gliederung in IC (HIC, NHIC) und BPS ist die der deutschen Leitlinie."
   },
   {
-    "question": "Unter welchem ICD-10-Code wird die Interstitielle Zystitis kodiert?",
+    "question": "Welche Konstellation (Leitsymptom – Zystoskopie – Histologie) spricht laut Leitlinie für eine überaktive Blase statt einer NHIC ohne Glomerulationen?",
     "options": [
-      "N30.1",
-      "C67.9",
-      "N39.0",
-      "F45.4"
+      "Schmerz – Trabekulierung – keine Entzündungsinfiltrate",
+      "Drang – Trabekulierung – keine Entzündungsinfiltrate",
+      "Drang – entzündliche Veränderungen – defektes Urothel",
+      "Schmerz – entzündliche Veränderungen – defektes Urothel"
     ],
-    "correct": 0,
-    "tip": "In der ICD-11 lautet die Kodierung GC00.3 bzw. MG30.00.",
-    "explanation": "Die Interstitielle Zystitis wird nach ICD-10 unter N30.1 kodiert, nach ICD-11 unter GC00.3 bzw. MG30.00."
+    "correct": 1,
+    "tip": "Prüfen Sie jedes der drei Merkmale einzeln darauf, welches Krankheitsbild es kennzeichnet.",
+    "explanation": "Kapitel 2.1: Dominantes Symptom ist bei NHIC der Blasenschmerz, bei OAB der Drang; zystoskopisch zeigt die NHIC entzündliche Veränderungen, die OAB eine Trabekulierung; Entzündungsinfiltrate und defektes Urothel finden sich histologisch nur bei NHIC. Mischkonstellationen passen zu keinem der beiden Bilder."
   },
   {
-    "question": "Um welchen Faktor sind Frauen laut der Epidemiologie-Angaben in Kapitel 2.3 häufiger von IC/BPS betroffen als Männer?",
+    "question": "Welche Aussage zur Diagnosestellung der IC/BPS trifft laut Leitlinie zu?",
     "options": [
-      "Etwa neunmal häufiger.",
-      "Etwa zweimal häufiger.",
-      "Männer sind insgesamt häufiger betroffen als Frauen.",
-      "Beide Geschlechter sind gleich häufig betroffen."
+      "Sie ist an kein bestimmtes Blasenvolumen und keinen Dauerschmerz gebunden",
+      "Sie setzt eine zystometrische Blasenkapazität unter 350 ml voraus",
+      "Sie wird durch den histopathologischen Befund der Biopsie gesichert",
+      "Sie erfordert mindestens acht Miktionen täglich über neun Monate"
     ],
     "correct": 0,
-    "tip": "Die IC/BPS betrifft dabei alle Altersgruppen, mit einem Gipfel im mittleren Alter.",
-    "explanation": "Laut Kapitel 2.3 sind Frauen etwa neunmal häufiger von IC/BPS betroffen als Männer."
+    "tip": "Überlegen Sie, welche Kriterien aus historischen Studienprotokollen stammen und welche Rolle die Pathologie spielt.",
+    "explanation": "Kapitel 2.1 hält fest, dass die Diagnose nicht an ein bestimmtes Blasenvolumen oder dauerhafte Schmerzen gebunden ist und sich durch eine Biopsie weder sichern noch ausschließen lässt. Kapazität unter 350 ml sowie mindestens acht Miktionen pro Tag bei neun Monaten Symptomdauer waren NIDDK-Kriterien von 1990 (Tabelle 5)."
   },
   {
-    "question": "In welchem Bereich liegt die angegebene Prävalenz der IC/BPS bei Frauen pro 100.000 Personen?",
+    "question": "Welcher histopathologische Befund ist laut Tabelle 4 der Leitlinie typisch für die Hunner-Typ IC (HIC)?",
     "options": [
-      "52–500 pro 100.000.",
-      "1–5 pro 100.000.",
-      "5.000–10.000 pro 100.000.",
-      "Es wird keine Prävalenzangabe für Frauen gemacht."
+      "Häufig lymphoide Follikel und plasmazellreiche Entzündungsareale",
+      "Geringe Entzündung mit wenigen Plasmazellen und oft defektem Urothel",
+      "Fehlende Entzündungszellen bei in allen Schichten erhaltenem Urothel",
+      "Dichte Mastzellinfiltration des Detrusors bei intaktem Urothel"
     ],
     "correct": 0,
-    "tip": "Bei Männern liegt die angegebene Prävalenz deutlich niedriger, bei 8–41 pro 100.000.",
-    "explanation": "Die Leitlinie gibt für Frauen eine Prävalenz von 52–500 pro 100.000 Personen an, für Männer dagegen eine deutlich niedrigere Prävalenz von 8–41 pro 100.000."
+    "tip": "Tabelle 4 vergleicht Entzündungsgrad, Zelltypen, Follikel und Urothel über die Gruppen HIC, NHIC und BPS.",
+    "explanation": "Tabelle 4: Bei HIC ist eine subepitheliale chronische Entzündung vorhanden, Lymphozyten und Plasmazellen dominieren, lymphoide Follikel sind oft vorhanden und das Urothel ist häufig denudiert. Geringe Entzündung mit wenigen Plasmazellen entspricht der NHIC, erhaltenes Urothel ohne Entzündung dem BPS."
   },
   {
-    "question": "Welche Prävalenzangabe wird aus den VHA-Daten (Veterans Health Administration) zitiert?",
+    "question": "Welchen Befund bezeichneten Messing und Stamey 1978 laut Tabelle 5 als Kennzeichen („hallmark“) der Interstitiellen Zystitis?",
     "options": [
-      "0,87 %.",
-      "25 %.",
-      "0,001 %.",
-      "50 %."
+      "Ein therapieresistentes Blasenulkus mit Pollakisurie und Spasmen",
+      "Den Nachweis von Mastzellen und Eosinophilen in der Biopsie",
+      "Blasenschmerz über mehr als sechs Monate mit Harndrang",
+      "Petechiale Glomerulationen bei der zweiten Blasendistension"
     ],
-    "correct": 0,
-    "tip": "In Deutschland wird die IC/BPS selten diagnostiziert, die tatsächliche Dunkelziffer ist unbekannt.",
-    "explanation": "Aus den VHA-Daten wird eine Prävalenz von 0,87 % zitiert, während in Deutschland die Erkrankung selten diagnostiziert wird und die Dunkelziffer unbekannt ist."
+    "correct": 3,
+    "tip": "Die Autoren beschrieben ein Stadienmodell, in dem das „klassische“ Bild nur einen Teil des Spektrums darstellt.",
+    "explanation": "In Tabelle 5 (Kapitel 2.2) gelten bei Messing und Stamey multiple petechienartige Blutungen (Glomerulationen) bei der zweiten Distension als „hallmark“; Hunner-Ulkus und reduzierte Kapazität seien ein anderes (klassisches) Stadium, Eosinophile und Mastzellen variabel. Das therapieresistente Ulkus geht auf Hunner 1915, die Dauer über sechs Monate auf die ESSIC 2008 zurück."
   },
   {
-    "question": "Was besagt der in Episode 1 diskutierte klinische Fallstrick zur Zystoskopie?",
+    "question": "Welche Kombination aus Geschlechterverhältnis und Altersgipfel beschreibt die Leitlinie für die IC/BPS?",
     "options": [
-      "Eine unauffällige Zystoskopie schließt eine IC/BPS nicht aus, da auch NHIC bzw. BPS ohne sichtbare zystoskopische Veränderungen vorliegen können.",
-      "Eine unauffällige Zystoskopie beweist zweifelsfrei, dass keine IC vorliegt.",
-      "Die Zystoskopie ist für die Diagnose der IC/BPS irrelevant und wird nicht empfohlen.",
-      "Eine unauffällige Zystoskopie ist nur beim Hunner-Typ IC zu erwarten."
+      "Frauen fünfmal häufiger betroffen, Gipfel im höheren Lebensalter",
+      "Frauen fünfmal häufiger betroffen, Gipfel im mittleren Lebensalter",
+      "Frauen neunmal häufiger betroffen, Gipfel im mittleren Lebensalter",
+      "Frauen neunmal häufiger betroffen, Gipfel im höheren Lebensalter"
     ],
-    "correct": 0,
-    "tip": "Gerade das Blasenschmerzsyndrom (BPS) ist definitionsgemäß durch das Fehlen zystoskopischer oder histologischer Veränderungen gekennzeichnet.",
-    "explanation": "Der diskutierte Fallstrick ist die Annahme „Zystoskopie unauffällig – also keine IC“: Eine unauffällige Zystoskopie schließt eine IC/BPS nicht aus, da insbesondere das Blasenschmerzsyndrom (BPS) per Definition ohne zystoskopische oder histologische Veränderungen einhergeht."
+    "correct": 2,
+    "tip": "Auch Kinder und Jugendliche können erkranken – der Prävalenzgipfel liegt dennoch nicht bei den Jüngsten.",
+    "explanation": "Laut Kapitel 2.3 tritt die IC/BPS in allen Altersklassen auf, mit der höchsten Prävalenz im mittleren Alter; Frauen sind neunmal häufiger betroffen (Prävalenz 52–500/100.000 vs. 8–41/100.000 bei Männern). In VHA-Daten lag die Prävalenz insgesamt bei 0,87 %."
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche beiden GAG-Schicht-restituierenden Substanzen sollten laut den Empfehlungen 4.61/4.62 angeboten werden?",
+    "question": "Welche Aussage zur intravesikalen Heparintherapie bei IC/BPS trifft laut Leitlinie zu?",
     "options": [
-      "Hyaluronsäure und Chondroitinsulfat.",
-      "Insulin und Glukagon.",
-      "Penicillin und Cephalosporin.",
-      "Diese Substanzklasse wird in der Leitlinie nicht erwähnt."
+      "Kann eingesetzt werden; eine Dosisempfehlung ist nicht möglich",
+      "Sollte mit 25.000 IE als Standarddosis angeboten werden",
+      "Ist als Fertiglösung zur Instillation kommerziell erhältlich",
+      "Ist bei neu diagnostizierter IC/BPS wirksamer als DMSO-Instillationen"
     ],
     "correct": 0,
-    "tip": "Heparin kann laut Empfehlung 4.60 ebenfalls eingesetzt werden, allerdings ohne konkrete Dosisempfehlung.",
-    "explanation": "Die Empfehlungen 4.61/4.62 sehen vor, dass Hyaluronsäure und Chondroitinsulfat zur GAG-Schicht-Restitution angeboten werden sollten."
+    "tip": "Heparin wird meist off-label als Bestandteil eines selbst angesetzten „Cocktails“ instilliert – Dosisfindungsstudien gibt es nicht.",
+    "explanation": "Empfehlung 4.60 (kann): Heparin kann intravesikal verwendet werden; mangels Dosisfindungsstudien wird keine Dosis empfohlen. Kommerzielle vorkonfektionierte Lösungen gibt es nicht, und bei neu diagnostizierter IC/BPS war Heparin weniger effektiv als DMSO oder Triamcinolon."
   },
   {
-    "question": "Was besagt Statement 4.63 zur Wirksamkeit und optimalen Anwendung der verschiedenen GAG-Substanzen?",
+    "question": "Welchen Empfehlungsgrad vergibt die Leitlinie für die intravesikale Monotherapie mit Hyaluronsäure bzw. Chondroitinsulfat bei IC/BPS?",
     "options": [
-      "Alle GAG-Substanzen sind wirksam, die optimale Substanz, Dosis, Verweildauer und die Intervalle sind jedoch unklar.",
-      "Nur eine einzige GAG-Substanz gilt als wirksam, alle anderen sind obsolet.",
-      "GAG-Substanzen gelten insgesamt als unwirksam.",
-      "Für alle GAG-Substanzen existiert ein einheitliches, verbindliches Dosierungsschema."
+      "Soll angeboten werden",
+      "Sollte angeboten werden",
+      "Kann erwogen werden",
+      "Hat Studiencharakter"
     ],
-    "correct": 0,
-    "tip": "Eine Kombination aus Hyaluronsäure und Chondroitinsulfat mit höheren Wirkstoffkonzentrationen bietet laut Empfehlung 4.64 einen möglichen zusätzlichen Vorteil.",
-    "explanation": "Statement 4.63 stellt fest, dass alle GAG-Substanzen wirksam sind, die optimale Substanz, Dosis, Verweildauer und die Behandlungsintervalle jedoch unklar bleiben."
+    "correct": 1,
+    "tip": "Beide GAG-Substanzen sind gut verträglich und wirksam, die optimale Anwendung ist aber nicht geklärt – das spiegelt sich in der Empfehlungsstärke.",
+    "explanation": "Empfehlungen 4.61 und 4.62: Hyaluronsäure und Chondroitinsulfat sollten als intravesikale Therapie angeboten werden; dasselbe gilt für die Kombination (Empfehlung 4.64). Eine Kann-Empfehlung erhalten dagegen z. B. Heparin (4.60) und Lidocain (4.65)."
   },
   {
-    "question": "Wofür kann intravesikales Lidocain laut Empfehlung 4.65 zusätzlich zur GAG-Restitution eingesetzt werden?",
+    "question": "Welche Aussage zu Instillationssubstanzen zur GAG-Schicht-Restitution entspricht dem Statement der Leitlinie?",
     "options": [
-      "Auch zur akuten Schmerztherapie.",
-      "Ausschließlich zur Lokalanästhesie vor einer Biopsie.",
-      "Ausschließlich zur Desinfektion der Blasenschleimhaut.",
-      "Lidocain wird in der Leitlinie nicht erwähnt."
+      "Chondroitinsulfat als Monopräparat zeigt den besten Effekt",
+      "Optimale Dosis und Verweildauer sind durch RCTs festgelegt",
+      "HA/CS-Kombinationen enthalten höhere Wirkstoffkonzentrationen",
+      "Einen Effekt zeigen nur Präparate mit hochmolekularer Hyaluronsäure"
     ],
-    "correct": 0,
-    "tip": "Dies macht Lidocain zu einer Option sowohl in der symptomatischen Akuttherapie als auch im Rahmen von Instillationsschemata.",
-    "explanation": "Empfehlung 4.65 sieht vor, dass intravesikales Lidocain auch zur akuten Schmerztherapie eingesetzt werden kann."
+    "correct": 2,
+    "tip": "Das Statement hält fest, dass alle Substanzen wirken, vieles zur optimalen Anwendung aber offen ist – und hebt einen Präparatetyp hervor.",
+    "explanation": "Statement 4.63: Alle GAG-Substanzen zeigen einen Effekt; unklar sind beste Substanz, Dosis, Verweildauer und Intervalle. Kombinationspräparate aus HA und CS enthalten höhere Wirkstoffkonzentrationen als Monopräparate und scheinen einen Wirksamkeitsvorteil zu haben."
   },
   {
-    "question": "Wie wird DMSO (Dimethylsulfoxid) laut Empfehlung 4.66 in der Therapiehierarchie der IC/BPS eingeordnet?",
+    "question": "Welche Testphase wird laut Leitlinie vor einer längerfristigen Planung einer intravesikalen Lidocaintherapie vorgeschlagen?",
     "options": [
-      "Als Zweitlinientherapie mit umsichtiger Anwendung.",
-      "Als unangefochtene Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
-      "Als in Deutschland nicht verfügbares und daher nicht erwähntes Verfahren.",
-      "Als ausschließlich bei Kindern zugelassene Therapieoption."
+      "10–20 ml 2%iges Lidocain einmal wöchentlich für 6 Wochen",
+      "50 ml 2%iges Lidocain, Verweildauer 20 min, für 5 Tage",
+      "10–20 ml 2%iges Lidocain einmal täglich für eine Woche",
+      "10–20 ml 2%iges Lidocain dreimal wöchentlich für 3 Wochen"
     ],
-    "correct": 0,
-    "tip": "In den USA ist DMSO als sterile Fertiglösung unter dem Namen RIMSO-50 erhältlich, in Deutschland jedoch nicht.",
-    "explanation": "Empfehlung 4.66 ordnet DMSO als Zweitlinientherapie ein, die mit umsichtiger Anwendung eingesetzt werden soll."
+    "correct": 2,
+    "tip": "Lidocain hat eine kurze Halbwertszeit von wenigen Stunden – eine sinnvolle Testphase muss das berücksichtigen.",
+    "explanation": "Kapitel 4.5.5: Vor längerfristiger Therapieplanung wird empfohlen, 10–20 ml 2%iges Lidocain (mit oder ohne Alkalisierung) täglich für eine Woche als Testphase zu instillieren; nach Empfehlung 4.65 (kann) ist Lidocain auch zur akuten lokalen Schmerztherapie geeignet. Einmal wöchentlich über 6 Wochen entspricht dem vorgeschlagenen DMSO-Schema."
   },
   {
-    "question": "Wie ist DMSO in Deutschland laut dem Episodeninhalt verfügbar, und bei welcher Anwendungsweise kommt es üblicherweise zum Einsatz?",
+    "question": "Für eine Patientin mit neu diagnostizierter IC/BPS wird eine intravesikale Ersttherapie geplant; ein Kollege schlägt DMSO vor. Wie ordnet die Leitlinie DMSO ein?",
     "options": [
-      "Nicht als sterile Fertiglösung erhältlich; üblich sind 50 ml 50%ige Lösung mit 10–20 Minuten Verweildauer.",
-      "Als sterile Fertiglösung unter dem Namen RIMSO-50 regulär verfügbar.",
-      "Nur als orale Kapsel verfügbar.",
-      "DMSO ist in Deutschland komplett verboten."
+      "Erstlinie, da Hunner-Patienten besonders gut ansprechen",
+      "Zweitlinie bei umsichtiger und kontrollierter Anwendung",
+      "Erstlinie, da in Deutschland als sterile Fertiglösung erhältlich",
+      "Obsolet, da eine Linsentrübung beim Menschen belegt ist"
     ],
-    "correct": 0,
-    "tip": "DMSO kommt dabei besonders bei HIC und nach vorausgegangener Hydrodistension zum Einsatz.",
-    "explanation": "DMSO ist in Deutschland nicht als sterile Fertiglösung erhältlich (in den USA als RIMSO-50); üblich ist die Anwendung von 50 ml einer 50%igen Lösung mit 10–20 Minuten Verweildauer."
+    "correct": 1,
+    "tip": "Bei gleicher Schmerzreduktion entscheidet die Verträglichkeit – denken Sie an Knoblauchgeruch und Studienabbrüche.",
+    "explanation": "Empfehlung 4.66 (kann): Sterile DMSO-Lösung kann als Zweitlinientherapie mit umsichtiger und kontrollierter Verwendung eingesetzt werden. DMSO ist in Deutschland nicht als sterile Fertiglösung erhältlich (USA: RIMSO-50); die Linsentrübung ist nur tierexperimentell beschrieben, und das gute Ansprechen bei HIC begründet keine Erstlinienrolle."
   },
   {
-    "question": "Bei welcher Patientengruppe kann laut Empfehlung 4.67 intravesikales Oxybutynin eingesetzt werden?",
+    "question": "Wie wird DMSO laut Leitlinie üblicherweise intravesikal angewendet?",
     "options": [
-      "Bei therapieresistenter IC/BPS.",
-      "Ausschließlich als Erstlinientherapie bei milden Symptomen.",
-      "Ausschließlich bei Kindern unter 6 Jahren.",
-      "Oxybutynin wird in der Leitlinie nicht erwähnt."
+      "50 ml 50%ig, Verweildauer 1 bis maximal 3 Minuten",
+      "50 ml 50%ig, Verweildauer 10 bis maximal 20 Minuten",
+      "40 ml 2%ig, Verweildauer 10 bis maximal 20 Minuten",
+      "50 ml 50%ig, Verweildauer 45 bis maximal 60 Minuten"
     ],
-    "correct": 0,
-    "tip": "Dies ergänzt die weiteren intravesikalen Injektionsoptionen wie Onabotulinumtoxin A oder Lokalanästhetika/Kortikosteroide.",
-    "explanation": "Empfehlung 4.67 sieht den Einsatz von intravesikalem Oxybutynin bei therapieresistenter IC/BPS vor."
+    "correct": 1,
+    "tip": "Hohe Konzentration, aber kurze Kontaktzeit – typisch sind in der frühen Behandlungsphase aggravierte Blasenschmerzen.",
+    "explanation": "Kapitel 4.5.6: Üblicherweise werden 50 ml 50%iges DMSO, verdünnt in physiologischer Kochsalzlösung, instilliert; die Verweildauer beträgt in der Regel 10 bis maximal 20 Minuten. 2%ige Lösungen sind typisch für Chondroitinsulfat, 1–3 Minuten gelten für das Halten des Drucks bei der Hydrodistension."
   },
   {
-    "question": "Welche Injektionstherapie wird laut Empfehlung 4.68 off-label bei IC/BPS eingesetzt?",
+    "question": "Welche Aussage zur intravesikalen Injektion von Onabotulinumtoxin A (BTXa) bei IC/BPS trifft laut Leitlinie zu?",
     "options": [
-      "Onabotulinumtoxin A.",
-      "Insulin.",
-      "Adrenalin.",
-      "Heparin wird ausschließlich injiziert, nicht instilliert."
+      "Für IC/BPS in Deutschland zugelassen, Standard sind 200 Einheiten",
+      "Instillation ist der Injektion in die Blasenwand gleichwertig",
+      "Wirkung hält über 24 Monate an, Wiederholung selten nötig",
+      "Off-label; Aufklärung über Restharn bis zum Selbstkatheterismus"
     ],
-    "correct": 0,
-    "tip": "Als weitere Injektionsoption werden laut Empfehlung 4.69 Lokalanästhetika und/oder Kortikosteroide genannt.",
-    "explanation": "Empfehlung 4.68 sieht den off-label Einsatz von Onabotulinumtoxin A als Injektionstherapie bei IC/BPS vor."
+    "correct": 3,
+    "tip": "Die Zulassung in Deutschland betrifft andere Blasenfunktionsstörungen – und Katheterismus ist für IC/BPS-Patienten oft schmerzhaft.",
+    "explanation": "Empfehlung 4.68 (kann): BTXa kann als Off-label-Therapie angeboten werden; über Restharnbildung bis zum Harnverhalt mit Selbstkatheterismus muss aufgeklärt werden. In der Praxis werden meist 100 Einheiten verwendet (200 Einheiten: ähnlicher Effekt, mehr Nebenwirkungen), die Wirkung lässt nach 6–12 Monaten nach."
   },
   {
-    "question": "Kann die therapeutische Hydrodistension laut Empfehlung 4.70 bei Besserung wiederholt werden?",
+    "question": "Eine Patientin hatte nach diagnostischer Hydrodistension in Narkose eine mehrmonatige Schmerzbesserung; nun nehmen die Beschwerden wieder zu. Was sagt die Leitlinie zur therapeutischen Hydrodistension?",
     "options": [
-      "Ja, sie kann bei Besserung wiederholt werden.",
-      "Nein, sie darf nur ein einziges Mal im Leben eines Patienten durchgeführt werden.",
-      "Nein, die therapeutische Hydrodistension ist generell verboten.",
-      "Die Wiederholbarkeit wird in der Leitlinie nicht thematisiert."
+      "Keine Wiederholung, da sie zur Schrumpfung der Blase führt",
+      "Wiederholung mit über 80 cm H2O für mehr als 10 Minuten",
+      "Statt Wiederholung DMSO als Erstlinientherapie einsetzen",
+      "Wiederholung kann erfolgen, da zuvor eine Besserung eintrat"
     ],
-    "correct": 0,
-    "tip": "Die EMDA-Therapie (elektromotive Drug Administration) sollte laut Empfehlung 4.71 ebenfalls angeboten werden.",
-    "explanation": "Empfehlung 4.70 besagt, dass die therapeutische Hydrodistension bei Besserung wiederholt werden kann."
+    "correct": 3,
+    "tip": "Langzeitdaten zu mehrfachen Distensionen zeigen eher einen Erhalt der Blasenkapazität – und Hochdruck ist nicht das Ziel.",
+    "explanation": "Empfehlung 4.70: Die Hydrodistension sollte im Rahmen der Diagnostik auch als Therapieoption angeboten werden und kann bei Symptomverbesserung wiederholt werden. Mehrfache Distensionen verhinderten über 11 Jahre eine Kapazitätsabnahme; eine Hochdruckdistension über 80 cm H2O und über 10 Minuten ist laut Kapitel 4.5.10 nicht durchzuführen."
   },
   {
-    "question": "Welche Therapieform sollte laut Empfehlung 4.71 zusätzlich angeboten werden?",
+    "question": "Welches Prinzip liegt der EMDA-Therapie zugrunde, die laut Leitlinie bei IC/BPS angeboten werden sollte?",
     "options": [
-      "Die EMDA-Therapie (elektromotive Drug Administration).",
-      "Eine systemische Chemotherapie.",
-      "Eine Strahlentherapie der Blase.",
-      "Eine EMDA-Therapie wird in der Leitlinie nicht erwähnt."
+      "Elektrochemischer Wirkstofftransport in tiefere Blasenwandschichten",
+      "Elektrische Stimulation sakraler Nervenwurzeln zur Neuromodulation",
+      "Thermische Koagulation von Hunner-Läsionen über eine Elektrode",
+      "Transkutane Stimulation des N. tibialis zur Schmerzmodulation"
     ],
     "correct": 0,
-    "tip": "Dies ergänzt das Spektrum der intravesikalen Therapieoptionen neben GAG-Substanzen, Lidocain und DMSO.",
-    "explanation": "Empfehlung 4.71 sieht vor, dass die EMDA-Therapie zusätzlich angeboten werden sollte."
+    "tip": "Denken Sie an Iontophorese und Elektroosmose statt passiver Diffusion.",
+    "explanation": "Empfehlung 4.71 (sollte): Die EMDA-Therapie sollte angeboten werden; sie bringt Medikamente (z. B. Lokalanästhetikum, Dexamethason, Epinephrin) per Iontophorese, Elektroosmose und Elektroporation in tiefere Blasenwandschichten. Sakrale und tibiale Stimulation sind Neuromodulationsverfahren aus Kapitel 4.6."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 10 im Zusammenhang mit DMSO diskutiert?",
+    "question": "Wie schneiden HA/CS-Kombinationsinstillationen laut Hintergrundtext im randomisierten Vergleich mit DMSO-Instillationen ab?",
     "options": [
-      "DMSO als Erstlinientherapie einzusetzen, obwohl es laut Leitlinie eine Zweitlinientherapie darstellt.",
-      "DMSO grundsätzlich nie einzusetzen, obwohl es stets erste Wahl wäre.",
-      "DMSO ausschließlich bei Kindern einzusetzen.",
-      "DMSO mit Hyaluronsäure zu verwechseln."
+      "Vergleichbare Schmerzreduktion bei deutlich weniger Nebenwirkungen",
+      "Deutlich stärkere Schmerzreduktion bei ähnlicher Nebenwirkungsrate",
+      "Geringere Schmerzreduktion, aber deutlich bessere Verträglichkeit",
+      "Vergleichbare Schmerzreduktion bei ähnlicher Nebenwirkungsrate"
     ],
     "correct": 0,
-    "tip": "Vor DMSO sollten in der Regel zunächst die GAG-Substanzen als Erstlinientherapie ausgeschöpft werden.",
-    "explanation": "Der diskutierte Fallstrick ist der Einsatz von DMSO als Erstlinientherapie, obwohl es gemäß Empfehlung 4.66 eine Zweitlinientherapie darstellt."
+    "tip": "Die Leitlinie leitet aus dieser Studie eine Präferenz ab, die mit dem Sicherheitsprofil begründet wird.",
+    "explanation": "Kapitel 4.5.4: In einer randomisierten Studie an 110 Frauen zeigten HA/CS und DMSO eine vergleichbare Schmerzreduktion bei deutlich weniger therapiebedingten Nebenwirkungen unter HA/CS (1,35 % vs. 22,22 %), weshalb HA/CS bevorzugt werden sollten. Gegenüber CS allein war DMSO in einer weiteren Studie sogar deutlich unterlegen."
   }
 ]

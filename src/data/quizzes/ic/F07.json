@@ -1,122 +1,122 @@
 [
   {
-    "question": "Mit welchen Instrumenten sollen laut Empfehlung 4.12 psychische Faktoren bei IC/BPS-Patienten primär erfasst werden?",
+    "question": "Mit welchen standardisierten Fragebögen können psychische Faktoren bei IC/BPS laut Leitlinie bereits in der Basisanamnese erfasst werden?",
     "options": [
-      "Mit HADS-D und PHQ-D.",
-      "Ausschließlich mit einem unstrukturierten Gespräch ohne validierte Instrumente.",
-      "Mit einem EEG.",
-      "Psychische Faktoren sollen laut Leitlinie nicht erfasst werden."
+      "GUPI und ICSI",
+      "HADS-D und PHQ-D",
+      "Pain-detect und VAS",
+      "ICPI und BPIC-SS"
     ],
-    "correct": 0,
-    "tip": "Psychosoziale Aspekte sollen zudem laut Empfehlung 4.13 frühzeitig angesprochen werden.",
-    "explanation": "Empfehlung 4.12 fordert die primäre Erfassung psychischer Faktoren mittels validierter Instrumente wie HADS-D und PHQ-D."
+    "correct": 1,
+    "tip": "Gesucht sind Instrumente, die Ängstlichkeit und Depressivität messen – nicht Blasensymptome oder Schmerzintensität.",
+    "explanation": "Empfehlung 4.12 (sollte): Psychische Faktoren sollten primär erfasst werden, z. B. mit HADS-D und PHQ-D, die auch Verlaufsänderungen standardisiert dokumentieren. GUPI, ICSI und VAS gehören zum Schmerz-Basisassessment (Kapitel 3.6), ICPI/BPIC-SS sind Symptom- bzw. Problemindizes."
   },
   {
-    "question": "Was fordert Empfehlung 4.14 bei Patienten mit psychischen Komorbiditäten?",
+    "question": "Ein 52-jähriger Patient mit IC/BPS berichtet über Schlafstörungen und anhaltende depressive Verstimmung; das Fragebogenscreening ist auffällig. Welches Vorgehen empfiehlt die Leitlinie?",
     "options": [
-      "Eine psychotherapeutische bzw. psychosomatische Mitbehandlung.",
-      "Den vollständigen Verzicht auf jede psychische Mitbetreuung.",
-      "Eine ausschließlich medikamentöse Behandlung ohne psychotherapeutische Begleitung.",
-      "Eine stationäre psychiatrische Zwangseinweisung."
+      "Psychotherapie erst nach Ausschöpfung der Blasentherapie anbieten",
+      "Amitriptylin hochdosiert anstelle einer Psychotherapie beginnen",
+      "Mind-Body-Kurs anstelle einer psychotherapeutischen Behandlung",
+      "Psychotherapeutische/psychosomatische Mitbehandlung initiieren"
     ],
-    "correct": 0,
-    "tip": "Psychopharmaka sollen dabei laut Empfehlung 4.15 nach den Leitlinien der jeweiligen Symptome eingesetzt werden.",
-    "explanation": "Empfehlung 4.14 fordert bei psychischen Komorbiditäten eine psychotherapeutische bzw. psychosomatische Mitbehandlung."
+    "correct": 3,
+    "tip": "Bei IC/BPS laufen somatische und psychische Behandlung parallel – nicht nacheinander und nicht als Austausch.",
+    "explanation": "Empfehlung 4.14 (soll): Bei psychischen Komorbiditäten und Begleitsymptomen soll eine psychotherapeutische/psychosomatische Mitbehandlung initiiert werden, laut Hintergrundtext möglichst frühzeitig. Mind-Body-Medizin ist ausdrücklich Ergänzung, kein Ersatz psychologischer Behandlung."
   },
   {
-    "question": "Wozu dient laut Empfehlung 4.16 die Mind-Body-Medizin bei IC/BPS-Patienten?",
+    "question": "Welche Aussage zur Mind-Body-Medizin (MBM) bei IC/BPS entspricht der Leitlinie?",
     "options": [
-      "Zur Stärkung der Selbstwirksamkeit und zum Stressabbau.",
-      "Als alleinige kurative Therapie ohne jede weitere Maßnahme.",
-      "Ausschließlich zur Gewichtsreduktion.",
-      "Mind-Body-Medizin wird in der Leitlinie nicht erwähnt."
+      "Sie sollte ergänzend zur Stärkung der Selbstwirksamkeit empfohlen werden",
+      "Sie kann eine psychotherapeutische Behandlung bei Depression ersetzen",
+      "Sie soll erst nach Versagen der intravesikalen Therapie angeboten werden",
+      "Ihre Wirksamkeit ist durch große randomisierte MBSR-Studien belegt"
     ],
     "correct": 0,
-    "tip": "Sie ergänzt dabei andere psychosoziale und physiotherapeutische Maßnahmen.",
-    "explanation": "Empfehlung 4.16 sieht die Mind-Body-Medizin als Mittel zur Stärkung der Selbstwirksamkeit und zum Stressabbau."
+    "tip": "Denken Sie an Ressourcenstärkung und Stressbewältigung als Ergänzung – und an die tatsächliche Größe der MBSR-Studien.",
+    "explanation": "Empfehlung 4.16 (sollte): Zur Stärkung der Selbstwirksamkeit und zum Stressabbau sollten ergänzend mind-body-medizinische Optionen empfohlen werden. Die Evidenz stammt aus kleinen Studien (z. B. MBSR-RCT mit n = 20), und MBM ersetzt keine Psychotherapie."
   },
   {
-    "question": "Bei welchem Befund soll laut Empfehlung 4.17 eine Beckenbodenphysiotherapie durch speziell ausgebildete Therapeuten erfolgen?",
+    "question": "Eine 34-jährige Patientin mit IC/BPS zeigt bei der vaginalen Untersuchung einen erhöhten Beckenbodentonus mit Tenderpunkten. Was empfiehlt die Leitlinie?",
     "options": [
-      "Bei erhöhtem Tonus, myofaszialen Schmerzen oder Tenderpunkten.",
-      "Nur bei nachgewiesener Harninkontinenz.",
-      "Nur bei Männern, nicht bei Frauen.",
-      "Eine Beckenbodenphysiotherapie wird bei IC/BPS nicht empfohlen."
+      "Muskelrelaxans zuerst, Physiotherapie erst bei dessen Versagen",
+      "Kräftigendes Beckenbodentraining nach einem festen Standardprogramm",
+      "Osteopathie statt Physiotherapie, da für IC/BPS besser belegt",
+      "Beckenbodenphysiotherapie durch speziell ausgebildete Therapeuten"
     ],
-    "correct": 0,
-    "tip": "Als weitere Option kann laut Empfehlung 4.18 auch eine Osteopathie angeboten werden.",
-    "explanation": "Empfehlung 4.17 fordert eine Beckenbodenphysiotherapie durch speziell ausgebildete Therapeuten bei erhöhtem Tonus, myofaszialen Schmerzen oder Tenderpunkten."
+    "correct": 3,
+    "tip": "Bei hypertonem Beckenboden geht es um Tonusregulation und myofasziale Techniken – und um die Qualifikation der Behandelnden.",
+    "explanation": "Empfehlung 4.17 (soll): Bei erhöhtem Beckenbodentonus, myofaszialen Schmerzen oder Tenderpunkten soll eine Beckenbodenphysiotherapie durch speziell ausgebildete Physiotherapeutinnen und -therapeuten befundorientiert erfolgen. Muskelrelaxanzien (Empfehlung 4.31) sind eine schwach belegte Kann-Option, für Osteopathie fehlen IC/BPS-Studien."
   },
   {
-    "question": "Nach welchen Prinzipien soll die Schmerztherapie bei IC/BPS laut Empfehlung 4.37/4.38 erfolgen?",
+    "question": "Wie bewertet die Leitlinie die osteopathische Behandlung bei IC/BPS?",
     "options": [
-      "Nach den Prinzipien chronischer Schmerzerkrankungen, interdisziplinär-multimodal.",
-      "Ausschließlich nach den Prinzipien akuter postoperativer Schmerzen.",
-      "Ausschließlich durch eine einmalige Medikamentengabe ohne Verlaufskontrolle.",
-      "Eine strukturierte Schmerztherapie ist nicht vorgesehen."
+      "Kann empfohlen werden, obwohl IC/BPS-spezifische Studien fehlen",
+      "Soll angeboten werden, da RCTs eine Schmerzreduktion zeigen",
+      "Sollte unterbleiben, da sie den Beckenbodentonus erhöhen kann",
+      "Hat Studiencharakter und ist nur in Studien anzuwenden"
     ],
     "correct": 0,
-    "tip": "Nicht-Opioide und Opioide haben dabei laut Empfehlung 4.39 nur eine geringe Evidenz und sollen mit nicht-medikamentösen Maßnahmen kombiniert werden.",
-    "explanation": "Empfehlung 4.37/4.38 fordert eine Schmerztherapie nach den Prinzipien chronischer Schmerzerkrankungen, interdisziplinär-multimodal."
+    "tip": "Die Evidenz stammt aus Studien zu chronischen (Becken-)Schmerzen allgemein und aus Befragungen Betroffener.",
+    "explanation": "Empfehlung 4.18 (kann): Betroffenen kann eine osteopathische Behandlung empfohlen werden; Wirksamkeitsstudien speziell zu IC/BPS liegen laut Kapitel 4.1.4.1 nicht vor, in einer niederländischen Befragung berichteten 31 % eine Schmerzlinderung. Studiencharakter weist die Leitlinie z. B. monoklonalen Antikörpern zu."
   },
   {
-    "question": "Was besagt Empfehlung 4.40 zu NSAR und Opioiden bei IC/BPS?",
+    "question": "Welches Vorgehen wird in den Statements zur allgemeinen Schmerztherapie bei IC/BPS aktuell als am effektivsten beurteilt?",
     "options": [
-      "Sie können Histamin freisetzen und die Beschwerden verstärken.",
-      "Sie sind die Mittel der ersten Wahl ohne jede Einschränkung.",
-      "Sie haben keinerlei Einfluss auf die Symptomatik.",
-      "Sie sind bei IC/BPS absolut kontraindiziert."
+      "Kombination medikamentöser und nicht-medikamentöser Verfahren",
+      "Stufenweise Analgetika-Eskalation nach dem WHO-Schema als Basis",
+      "Intravesikale Lokalanästhetika als organspezifische Monotherapie",
+      "Retardiertes Opioid als Monotherapie gemäß den LONTS-Empfehlungen"
     ],
     "correct": 0,
-    "tip": "Dies ist ein wichtiger Aspekt bei der Auswahl der analgetischen Therapie.",
-    "explanation": "Empfehlung 4.40 weist darauf hin, dass NSAR und Opioide Histamin freisetzen und die Beschwerden bei IC/BPS verstärken können."
+    "tip": "IC/BPS-Schmerz wird wie andere chronische Schmerzerkrankungen nach einem biopsychosozialen Modell behandelt.",
+    "explanation": "Statements 4.37 und 4.38: Die Schmerztherapie richtet sich nach den Kriterien chronischer Schmerzerkrankungen; eine interdisziplinäre multimodale Vorgehensweise mit Kombination pharmakologischer und nicht-pharmakologischer Maßnahmen gilt als am effektivsten. Für intravesikale Lokalanästhetika zeigt eine Metaanalyse nur sehr geringe Evidenz zur Schmerzlinderung."
   },
   {
-    "question": "In welcher Dosierung soll Amitriptylin laut Empfehlung 4.41 einschleichend begonnen werden?",
+    "question": "Warum ist beim Einsatz von NSAR und Opioiden bei IC/BPS laut Leitlinie besondere Vorsicht geboten?",
     "options": [
-      "Mit 10 mg abends.",
-      "Mit 150 mg abends.",
-      "Mit 500 mg morgens.",
-      "Eine Dosierungsangabe wird in der Leitlinie nicht gemacht."
+      "Sie blockieren die Diaminooxidase und hemmen so den Histaminabbau",
+      "Sie steigern den Beckenbodentonus und begünstigen Tenderpunkte",
+      "Sie können Histamin freisetzen und die Beschwerden verstärken",
+      "Sie schädigen die GAG-Schicht und erhöhen die Urothelpermeabilität"
     ],
-    "correct": 0,
-    "tip": "Mirtazapin ist laut Empfehlung 4.42 eine Alternative bei Unverträglichkeit oder anticholinerger Last, allerdings ohne Zulassung für diese Indikation.",
-    "explanation": "Empfehlung 4.41 fordert ein einschleichendes Vorgehen mit Amitriptylin, beginnend mit 10 mg abends."
+    "correct": 2,
+    "tip": "Denken Sie an die Rolle der Mastzellen in der Pathophysiologie – und daran, welche Substanz die Leitlinie mit der DAO in Verbindung bringt.",
+    "explanation": "Statement 4.40: Es sollte berücksichtigt werden, dass NSAR und Opioide Histamin freisetzen und dadurch die Symptomatik verstärken oder aufrechterhalten können. Die Blockade der Diaminooxidase beschreibt die Leitlinie für Amitriptylin (Kapitel 4.3.2)."
   },
   {
-    "question": "Bei welcher Schmerzqualität sollen laut Empfehlung 4.43 Antikonvulsiva erwogen werden?",
+    "question": "Bei einem Patienten mit IC/BPS soll im Rahmen der Schmerztherapie Amitriptylin begonnen werden. Welche Dosierung nennt die Leitlinie für den Start?",
     "options": [
-      "Bei stechenden, neuropathischen Schmerzen.",
-      "Ausschließlich bei dumpfem Druckgefühl.",
-      "Ausschließlich bei kolikartigen Schmerzen.",
-      "Antikonvulsiva werden in der Leitlinie nicht erwähnt."
+      "15 mg am Abend, danach Steigerung bis 45 mg/d",
+      "25 mg am Abend, danach Steigerung bis 75 mg/d",
+      "50 mg am Abend als Zieldosis ab dem ersten Tag",
+      "10 mg am Abend, danach einschleichend steigern"
     ],
-    "correct": 0,
-    "tip": "Dies ergänzt die Optionen Amitriptylin und Mirtazapin im Rahmen der Schmerztherapie.",
-    "explanation": "Empfehlung 4.43 sieht den Einsatz von Antikonvulsiva bei stechenden, neuropathischen Schmerzen vor."
+    "correct": 3,
+    "tip": "Anticholinerge Nebenwirkungen führen häufig zum Abbruch – die Startdosis liegt deshalb deutlich unter der in Studien wirksamen Dosis.",
+    "explanation": "Statement 4.41 (kann): Amitriptylin kann besonders im Rahmen einer Schmerztherapie einschleichend mit 10 mg am Abend gegeben werden. 15–45 mg/d ist der Bereich für Mirtazapin, 25–75 mg/d für Hydroxyzin; ab 50 mg zeigte sich in einer Re-Analyse ein möglicher Behandlungseffekt."
   },
   {
-    "question": "Welches Psychopharmakon wird laut dem Episodeninhalt als mögliche Alternative zu Amitriptylin genannt, allerdings ohne Zulassung für diese Indikation?",
+    "question": "In welcher Situation nennt die Leitlinie Mirtazapin als Alternative zu Amitriptylin in der Schmerztherapie der IC/BPS?",
     "options": [
-      "Mirtazapin.",
-      "Haloperidol.",
-      "Lithium.",
-      "Clozapin."
+      "Bei stechenden, neuropathisch erscheinenden Schmerzen",
+      "Bei Bedenken hinsichtlich einer anticholinergen Last",
+      "Als für IC/BPS zugelassene Erstlinientherapie",
+      "Bei Glomerulationen in der Hydrodistension"
     ],
-    "correct": 0,
-    "tip": "Mirtazapin kommt insbesondere bei Unverträglichkeit von Amitriptylin oder hoher anticholinerger Last infrage.",
-    "explanation": "Mirtazapin wird als mögliche Alternative zu Amitriptylin bei Unverträglichkeit oder anticholinerger Last genannt, allerdings ohne Zulassung für diese spezifische Indikation."
+    "correct": 1,
+    "tip": "Überlegen Sie, worin sich das tetrazyklische vom trizyklischen Antidepressivum im Rezeptorprofil unterscheidet.",
+    "explanation": "Statement 4.42 (kann): Mirtazapin kann als Alternative verordnet werden, insbesondere bei Unverträglichkeit von Amitriptylin oder Bedenken wegen anticholinerger Last; auf die fehlende Zulassung bei IC/BPS wird hingewiesen. Stechende, neuropathische Schmerzen sind die Domäne der Antikonvulsiva (Empfehlung 4.43)."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 7 im Zusammenhang mit der Schmerztherapie diskutiert?",
+    "question": "Welche Aussage zur Opioidtherapie bei IC/BPS entspricht der Leitlinie?",
     "options": [
-      "Eine Opioid-Eskalation als Monotherapie durchzuführen.",
-      "Zu selten Opioide einzusetzen.",
-      "Grundsätzlich auf jede Schmerztherapie zu verzichten.",
-      "Amitriptylin immer in maximaler Dosierung zu beginnen."
+      "Tramadol ist bei Amitriptylin-Komedikation das bevorzugte erste Opioid",
+      "Opioide eignen sich wegen guter Evidenz als Monotherapie",
+      "Retardierte Opioide gelten als individueller Therapieversuch",
+      "Hydromorphon ist als erstes Opioid vor Tilidin/Naloxon zu wählen"
     ],
-    "correct": 0,
-    "tip": "Nicht-medikamentöse Maßnahmen und nicht-Opioid-Analgetika sollen nach der Leitlinie stets einbezogen werden.",
-    "explanation": "Der diskutierte Fallstrick ist eine Opioid-Eskalation als alleinige Monotherapie, anstatt diese mit nicht-medikamentösen Maßnahmen zu kombinieren."
+    "correct": 2,
+    "tip": "Bei geringer Evidenz entscheidet der nachweisliche Effekt im Einzelfall – und mögliche Interaktionen mit der Komedikation.",
+    "explanation": "Kapitel 4.3.1: Retardierte Opioide gelten als individueller Therapieversuch, nur bei nachweislichem Effekt und Verträglichkeit, nach LONTS und laut Empfehlung 4.39 kombiniert mit nicht-medikamentösen Maßnahmen. Wegen Amitriptylin sollte Tramadol gemieden und vorzugsweise Tilidin/Naloxon eingesetzt werden; Hydromorphon erst bei mangelndem Ansprechen."
   }
 ]

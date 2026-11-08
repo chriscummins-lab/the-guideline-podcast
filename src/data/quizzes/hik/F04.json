@@ -1,122 +1,122 @@
 [
   {
-    "question": "Welche Formulierung von Antimuskarinika soll laut Leitlinie bevorzugt eingesetzt werden?",
+    "question": "Bei einer 63-jährigen Patientin mit Dranginkontinenz ist nach erfolglosem Blasentraining ein Antimuskarinikum geplant. Welche Empfehlung zur Formulierung gibt die Leitlinie?",
     "options": [
-      "Immediate-Release (IR) immer vor Extended-Release (ER).",
-      "Extended-Release (ER) soll IR vorgezogen werden.",
-      "Es gibt keinen Unterschied, beide sind gleich zu bevorzugen.",
-      "Nur die transdermale Form ist überhaupt zugelassen."
+      "IR-Formulierung bevorzugen, da sie rascher und stärker wirkt",
+      "Freie Wahl, da sich ER- und IR-Formen in nichts unterscheiden",
+      "IR-Formulierung zur Dosisfindung, danach Umstellung auf ER",
+      "ER-Formulierung bevorzugen, da IR mehr Nebenwirkungen verursacht"
     ],
-    "correct": 1,
-    "tip": "Die Formulierung mit verzögerter Wirkstofffreisetzung hat ein günstigeres Nebenwirkungsprofil.",
-    "explanation": "ER-Formulierungen sollen IR-Formulierungen vorgezogen werden, da IR-Formulierungen generell höhere Nebenwirkungsraten aufweisen."
+    "correct": 3,
+    "tip": "Überlegen Sie, wie sich hohe Spitzenspiegel eines Wirkstoffs auf Mundtrockenheit und andere anticholinerge Effekte auswirken.",
+    "explanation": "Nach E5-02 sollen ER-Formulierungen IR-Formulierungen vorgezogen werden (starke Empfehlung), da IR-Formen laut Statement S5-03 mehr Nebenwirkungen verursachen. In der Wirksamkeit gegenüber Placebo zeigen ER- und IR-Formulierungen konsistente Ergebnisse, und kein Antimuskarinikum ist einem anderen überlegen (S5-02)."
   },
   {
-    "question": "Welches Antimuskarinikum soll aufgrund seines hohen Nebenwirkungsprofils, insbesondere kognitiver Beeinträchtigung, gemieden werden?",
+    "question": "Eine 79-jährige Patientin mit Dranginkontinenz, leichter kognitiver Einschränkung und Polymedikation soll medikamentös behandelt werden. Welches Vorgehen entspricht der Leitlinie?",
     "options": [
-      "Trospiumchlorid.",
-      "Fesoterodin.",
-      "Oxybutynin oral.",
-      "Solifenacin."
+      "Orales Oxybutynin meiden und die anticholinerge Gesamtlast prüfen",
+      "Orales Oxybutynin wählen, da es bei Älteren am besten untersucht ist",
+      "Antimuskarinika ab einem Alter von 75 Jahren nicht mehr einsetzen",
+      "Zwei Antimuskarinika niedrig dosiert kombinieren, um die Last zu senken"
+    ],
+    "correct": 0,
+    "tip": "Gerade bei Älteren hängt die Substanzwahl stärker vom kognitiven Nebenwirkungsprofil ab als von der Wirkstärke.",
+    "explanation": "Nach E5-03 soll orales Oxybutynin wegen seines hohen Nebenwirkungsprofils gemieden werden, und E5-05 fordert bei Polymedikation, die anticholinerge Gesamtlast und Wechselwirkungen zu prüfen (jeweils starke Empfehlung). Andere Antimuskarinika sind laut Statement S5-05 auch bei Älteren sicher anwendbar; mit Blick auf die Kognition sollte Mirabegron bevorzugt werden."
+  },
+  {
+    "question": "Wodurch unterscheidet sich der β3-Adrenorezeptor-Agonist Mirabegron laut Leitlinie von den Antimuskarinika in der Behandlung der überaktiven Blase?",
+    "options": [
+      "Höhere Heilungsrate der Dranginkontinenz als unter Antimuskarinika",
+      "Gleichwertige Wirkung ohne Beeinträchtigung der Blasenkontraktilität",
+      "Gleichwertige Wirkung ohne relevanten Einfluss auf den Blutdruck",
+      "Wirksamkeit beschränkt auf Patientinnen ohne antimuskarinische Vortherapie"
+    ],
+    "correct": 1,
+    "tip": "Beachten Sie neben der Wirksamkeit auch das spezifische Nebenwirkungsprofil des β3-Agonismus.",
+    "explanation": "Laut Statement S5-07 ist Mirabegron Placebo überlegen und den Antimuskarinika gleichwertig, ohne die Blasenkontraktilität zu beeinträchtigen (Restharn). Als Nebenwirkung ist nach S5-08 eine Blutdruckerhöhung zu beachten, bei Metoprolol-Einnahme sollte der Blutdruck nach Therapiestart kontrolliert werden; die Wirkung war bei vorbehandelten und therapienaiven Patientinnen ähnlich."
+  },
+  {
+    "question": "Eine 58-jährige Patientin mit überaktiver Blase ohne nächtliche Polyurie spricht auf Solifenacin 5 mg bei guter Verträglichkeit nur unzureichend an. Welche Option war in einer RCT einer Dosiseskalation auf Solifenacin 10 mg überlegen?",
+    "options": [
+      "Umstellung auf orales Oxybutynin in IR-Formulierung",
+      "Ergänzung von Mirabegron 50 mg einmal täglich",
+      "Ergänzung von Desmopressin 25 µg zur Nacht",
+      "Umstellung auf Duloxetin 40 mg zweimal täglich"
+    ],
+    "correct": 1,
+    "tip": "Bedenken Sie, dass eine höhere Antimuskarinika-Dosis vor allem die anticholinergen Nebenwirkungen steigert.",
+    "explanation": "Laut Kapitel 5.2 war die Kombination mit Mirabegron 50 mg bei unzureichendem Ansprechen auf Solifenacin 5 mg wirksamer als die Eskalation auf 10 mg (Statement S5-09). Ohne nächtliche Polyurie soll nach E5-17 keine Kombination von Antimuskarinikum und Desmopressin erfolgen, und Duloxetin zielt auf die Belastungsinkontinenz."
+  },
+  {
+    "question": "Eine 72-jährige Patientin berichtet über störende Nykturie mit drei Miktionen pro Nacht. Ab welchem nächtlichen Anteil am 24-Stunden-Urinvolumen spricht die Leitlinie in ihrer Altersgruppe von einer nächtlichen Polyurie?",
+    "options": [
+      "mehr als 20 %",
+      "mehr als 25 %",
+      "mehr als 33 %",
+      "mehr als 50 %"
     ],
     "correct": 2,
-    "tip": "Dieses Medikament passiert die Blut-Hirn-Schranke besonders leicht und zeigt die höchste Nebenwirkungsrate unter den IR-Formulierungen.",
-    "explanation": "Oxybutynin oral soll aufgrund seines hohen Nebenwirkungsprofils gemieden werden; es zeigt einen deutlichen negativen Einfluss auf die kognitive Funktionsleistung, insbesondere bei älteren Patientinnen."
+    "tip": "Der Grenzwert ist altersabhängig definiert und berücksichtigt die physiologische Veränderung der nächtlichen Diurese im Alter.",
+    "explanation": "Nach Kapitel 5.5 liegt eine nächtliche Polyurie bei Ausscheidung von >33 % des 24-Stunden-Urinvolumens in der Nacht bei ≥65-Jährigen vor; der Grenzwert von >20 % gilt für unter 65-Jährige. Die nächtliche Polyurie ist mit ca. 76–88 % die häufigste Ursache der Nykturie, klinisch relevant ist eine Nykturie ab ≥2 Miktionen."
   },
   {
-    "question": "Was zeichnet Mirabegron im Vergleich zu Antimuskarinika hinsichtlich der Blasenfunktion aus?",
+    "question": "Über welchen Mechanismus wirkt Duloxetin laut Leitlinie bei Belastungsinkontinenz?",
     "options": [
-      "Es erhöht regelmäßig den Restharn durch Hemmung der Detrusorkontraktilität.",
-      "Es ist gleichwertig wirksam wie Antimuskarinika, ohne die Blasenkontraktilität (Restharn) zu beeinträchtigen.",
-      "Es wirkt ausschließlich über eine anticholinerge Blockade.",
-      "Es ist Placebo in allen Studien unterlegen."
-    ],
-    "correct": 1,
-    "tip": "Der Wirkmechanismus greift nicht an den Muskarinrezeptoren an, sondern an Beta-3-Adrenorezeptoren der glatten Blasenmuskulatur.",
-    "explanation": "Mirabegron ist Placebo überlegen und gleichwertig mit Antimuskarinika in der Verbesserung der überaktiven Blase, jedoch ohne Beeinträchtigung der Blasenkontraktilität (Restharn)."
-  },
-  {
-    "question": "Welche Patientinnengruppe profitiert laut Leitlinie bei ungenügender Wirkung von Antimuskarinika eher von einer Kombination mit Mirabegron als von einer Dosiseskalation?",
-    "options": [
-      "Patientinnen mit einer nicht ausreichenden Wirkung der antimuskarinergen Monotherapie.",
-      "Nur Patientinnen mit Belastungsinkontinenz ohne jede Drangsymptomatik.",
-      "Ausschließlich Patientinnen über 80 Jahre.",
-      "Patientinnen mit unbehandelter arterieller Hypertonie."
+      "Serotonin- und Noradrenalinwirkung am Onuf-Kern mit höherem Sphinktertonus",
+      "Detrusorrelaxation über eine Stimulation von β3-Adrenorezeptoren der Blase",
+      "Blockade muskarinischer Rezeptoren mit Reduktion afferenter Blasensignale",
+      "Squamöse Metaplasie des Urethralepithels mit höherem Verschlussdruck"
     ],
     "correct": 0,
-    "tip": "Statt die Dosis des bestehenden Wirkstoffs zu erhöhen, wird ein zweiter Wirkmechanismus ergänzt.",
-    "explanation": "Patientinnen, die mit Antimuskarinika ungenügend behandelt wurden, können mehr von der Zugabe von Mirabegron profitieren als von einer Dosiseskalation der Antimuskarinika."
+    "tip": "Überlegen Sie, welche Muskulatur bei Belastungsinkontinenz gestärkt werden muss und über welchen Nerv sie versorgt wird.",
+    "explanation": "Nach Kapitel 5.3 hemmt Duloxetin die präsynaptische Wiederaufnahme von Serotonin und Noradrenalin; die verstärkte Stimulation der motorischen Pudendusneurone (Onuf-Kern) erhöht Ruhetonus und Kontraktionskraft des quergestreiften Urethralsphinkters. Die β3-Stimulation beschreibt Mirabegron, die squamöse Metaplasie einen diskutierten Effekt vaginaler Östrogene."
   },
   {
-    "question": "Über welchen Mechanismus wirkt Duloxetin bei Belastungsinkontinenz?",
+    "question": "Eine 51-jährige Patientin mit mittelschwerer Belastungsinkontinenz lehnt eine Operation ab und möchte Duloxetin einnehmen. Welche Vorgabe macht die Leitlinie zur Therapieführung?",
     "options": [
-      "Es blockiert direkt die Muskarinrezeptoren des Detrusors.",
-      "Es verstärkt über eine Wiederaufnahmehemmung von Serotonin und Noradrenalin die Aktivität der motorischen Pudendusnerven (Onuf-Kern) und erhöht so Ruhetonus und Kontraktionskraft des quergestreiften Sphinkters.",
-      "Es wirkt als Beta-3-Adrenorezeptor-Agonist direkt an der Blasenmuskulatur.",
-      "Es ersetzt direkt das fehlende Östrogen in der Urethralschleimhaut."
+      "Beginn mit voller Zieldosis, um die Wirksamkeit rasch zu beurteilen",
+      "Einschleichender Beginn und langsames Ausschleichen bei Therapieende",
+      "Verzicht auf begleitendes Beckenbodentraining während der Therapie",
+      "Kontrolle des Serumnatriums nach einer Woche und nach einem Monat"
     ],
     "correct": 1,
-    "tip": "Der Wirkort liegt auf Rückenmarksebene am Kerngebiet, das den äußeren Schließmuskel innerviert.",
-    "explanation": "Duloxetin verhindert die präsynaptische Wiederaufnahme von Serotonin und Noradrenalin, was zu einer verstärkten Stimulation der motorischen Pudendusnerven (Onuf) und damit zu erhöhtem Ruhetonus und Kontraktionskraft des quergestreiften Urethralsphinkters führt."
+    "tip": "Die häufigsten Gründe für einen Therapieabbruch treten vor allem in den ersten Behandlungswochen auf.",
+    "explanation": "Nach E5-09 soll Duloxetin zur Reduktion der Nebenwirkungen einschleichend begonnen und bei Therapieabbruch langsam ausgeschlichen werden (starke Empfehlung); Übelkeit ist mit 23,2 % die häufigste Nebenwirkung. Eine Kombination mit Beckenbodentraining kann empfohlen werden (E5-10), die Natriumkontrollen gelten für Desmopressin."
   },
   {
-    "question": "Wie soll die Duloxetin-Therapie laut Leitlinie begonnen und beendet werden, um Nebenwirkungen zu reduzieren?",
+    "question": "Eine 67-jährige postmenopausale Patientin mit Dranginkontinenz und vulvovaginaler Atrophie fragt nach einer Hormonbehandlung. Was empfiehlt die Leitlinie?",
     "options": [
-      "Sofort in voller Zieldosis beginnen und bei Bedarf abrupt absetzen.",
-      "Einschleichend begonnen und bei Therapieabbruch langsam wieder ausgeschlichen werden.",
-      "Nur als einmalige Gabe ohne weitere Einnahme.",
-      "Immer in fester Kombination mit Oxybutynin."
-    ],
-    "correct": 1,
-    "tip": "Viele der gastrointestinalen und zentralnervösen Nebenwirkungen treten vor allem in den ersten Wochen auf.",
-    "explanation": "Zur Reduktion der Rate an Nebenwirkungen soll die Duloxetin-Therapie einschleichend begonnen und bei Therapieabbruch wieder langsam ausgeschlichen werden."
-  },
-  {
-    "question": "Welchen Effekt hat eine systemische Hormonersatztherapie (HRT) mit konjugierten Östrogenen auf eine Harninkontinenz?",
-    "options": [
-      "Sie verbessert zuverlässig jede Form der Harninkontinenz.",
-      "Sie kann eine Harninkontinenz verschlechtern oder neu auslösen und ist zu deren Behandlung nicht geeignet.",
-      "Sie hat ausschließlich einen positiven Effekt bei Belastungsinkontinenz.",
-      "Sie wird als Erstlinientherapie der Dranginkontinenz empfohlen."
-    ],
-    "correct": 1,
-    "tip": "Hier gilt das Gegenteil der lokalen vaginalen Anwendung.",
-    "explanation": "Eine systemische Gabe von konjugierten Östrogenen zur Hormonersatztherapie verschlechtert eine Inkontinenz; die systemische Östradioltherapie ist zur Behandlung von Beckenbodenfunktionsstörungen wie Harninkontinenz nicht geeignet."
-  },
-  {
-    "question": "Welche Therapie wird bei postmenopausalen Frauen mit Harninkontinenz (insbesondere Dranginkontinenz) und vulvovaginaler Atrophie als starke Empfehlung ausgesprochen?",
-    "options": [
-      "Eine langfristige vaginale Östriolgabe.",
-      "Eine kurzfristige systemische Östrogengabe über 2 Wochen.",
-      "Eine alleinige orale Hormonersatztherapie mit konjugierten equinen Östrogenen.",
-      "Grundsätzlich keine Hormontherapie bei Harninkontinenz."
+      "Vaginales Östriol, längerfristig angewendet (starke Empfehlung)",
+      "Vaginales Östriol, auf drei Monate begrenzt (Empfehlung)",
+      "Systemisches Östradiol zur Atrophiebehandlung (Empfehlung)",
+      "Orale konjugierte Östrogene plus Gestagen (offene Empfehlung)"
     ],
     "correct": 0,
-    "tip": "Lokal und langfristig – anders als bei der systemischen Variante.",
-    "explanation": "Eine vaginale Östriolgabe bei postmenopausalen Frauen mit Harninkontinenz und vulvovaginaler Atrophie soll durchgeführt werden; die Anwendung soll langfristig erfolgen."
+    "tip": "Atrophiebedingte Beschwerden kehren nach dem Absetzen zurück – das bestimmt auch die Therapiedauer.",
+    "explanation": "Nach E5-13 soll bei postmenopausalen Frauen mit Harninkontinenz, insbesondere Dranginkontinenz, und vulvovaginaler Atrophie vaginales Östriol gegeben werden, und zwar längerfristig (starke Empfehlung). Systemisches Östradiol ist laut Kapitel 5.4.3 für Funktionsstörungen des Beckenbodens nicht geeignet, und eine systemische HRT kann eine Inkontinenz verschlechtern."
   },
   {
-    "question": "Für welche Indikation ist Desmopressin laut Leitlinie streng vorgesehen?",
+    "question": "Welche Aussage zur systemischen Hormonersatztherapie (HRT) und Belastungsinkontinenz trifft laut Leitlinie zu?",
     "options": [
-      "Für jede Form der Dranginkontinenz, unabhängig von der Ursache.",
-      "Für die Nykturie aufgrund einer nächtlichen Polyurie durch Mangel an Arginin-Vasopressin.",
-      "Als Erstlinientherapie der Belastungsinkontinenz.",
-      "Zur dauerhaften Kombinationstherapie mit jedem Antimuskarinikum bei überaktiver Blase."
+      "Nach Absetzen einer systemischen Östradioltherapie bessert sich die Inkontinenz meist",
+      "Eine systemische Östradioltherapie ist zur Behandlung der Harninkontinenz geeignet",
+      "Eine orale Östrogen-Monotherapie erhöht das Risiko stärker als eine kombinierte HRT",
+      "Das Inkontinenzrisiko ist bei HRT-Beginn vor dem 55. Lebensjahr höher als danach"
     ],
-    "correct": 1,
-    "tip": "Es geht um eine gestörte nächtliche Hormonsekretion, die zu übermäßiger nächtlicher Urinproduktion führt – nicht um die überaktive Blase an sich.",
-    "explanation": "Die Nykturie aufgrund einer nächtlichen Polyurie durch Mangel von Arginin-Vasopressin soll mit Desmopressin behandelt werden, wenn Patientinnen die Nykturie als störend empfinden. Patientinnen mit überaktiver Blase und Nykturie ohne nachgewiesene nächtliche Polyurie sollen dagegen nicht zusätzlich mit Desmopressin behandelt werden."
+    "correct": 2,
+    "tip": "Patientinnen sollen vor einer systemischen HRT darüber informiert werden, wie sich diese auf ihre Kontinenz auswirken kann.",
+    "explanation": "Laut Kapitel 5.4.3 steigt das Risiko einer Belastungsinkontinenz unter oraler Östrogenmonotherapie deutlicher als unter kombinierter HRT (OR 3,8 vs. 2,7) und ist bei Beginn nach dem 55. Lebensjahr höher. Eine Besserung nach Beendigung einer systemischen Östradioltherapie ist laut Statement S5-12 unwahrscheinlich."
   },
   {
-    "question": "Wann soll die Natriumkonzentration im Serum bei einer Desmopressin-Therapie kontrolliert werden?",
+    "question": "Bei einer 70-jährigen Patientin mit störender Nykturie infolge nächtlicher Polyurie wird Desmopressin begonnen. Welche Laborkontrolle fordert die Leitlinie?",
     "options": [
-      "Nie, eine Kontrolle ist nicht notwendig.",
-      "Mindestens nach einer Woche und nach einem Monat.",
-      "Nur einmalig vor Therapiebeginn.",
-      "Nur bei Auftreten von Kopfschmerzen."
+      "Serumkalium vor Beginn sowie nach vier Wochen und drei Monaten",
+      "Serumnatrium erst bei Kopfschmerz, Übelkeit oder Schwindel",
+      "Serumkreatinin vor Beginn sowie nach einer Woche und einem Monat",
+      "Serumnatrium vor Beginn sowie nach einer Woche und einem Monat"
     ],
-    "correct": 1,
-    "tip": "Das Risiko einer gefährlichen Elektrolytstörung ist zu Beginn der Behandlung am höchsten, besonders bei älteren Patientinnen.",
-    "explanation": "Die Natriumkonzentration im Serum soll vor und während der Desmopressin-Therapie mindestens nach einer Woche und einem Monat kontrolliert werden, um eine Hyponatriämie auszuschließen."
+    "correct": 3,
+    "tip": "Denken Sie an den antidiuretischen Wirkmechanismus und daran, welche Patientengruppe das höchste Risiko trägt.",
+    "explanation": "Nach E5-18 soll das Serumnatrium vor und während der Desmopressin-Therapie mindestens nach einer Woche und einem Monat kontrolliert werden (starke Empfehlung). Hyponatriämien treten vor allem ab 65 Jahren und bei niedrigem Ausgangsnatrium auf; niedrig dosiertes Desmopressin (bei Frauen 25 µg zur Nacht) senkt das Risiko."
   }
 ]

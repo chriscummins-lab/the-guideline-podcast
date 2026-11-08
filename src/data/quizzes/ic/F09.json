@@ -1,122 +1,122 @@
 [
   {
-    "question": "Wie wird die Akupunktur laut Empfehlung 4.44 in der aktuellen Leitlinie bewertet?",
+    "question": "Eine Patientin mit IC/BPS wünscht eine Akupunkturbehandlung. Wie positioniert sich die Leitlinie?",
     "options": [
-      "Ihre Wirkung ist nicht abschließend beurteilbar; wegen fehlender Nebenwirkungen ist sie als Heilversuch möglich, sofern wirksamere Therapien nicht verzögert werden.",
-      "Sie gilt als nachgewiesen unwirksam und wird daher nicht empfohlen.",
-      "Sie ist die einzige evidenzbasierte First-line-Therapie der IC/BPS.",
-      "Sie wird in der Leitlinie nicht erwähnt."
+      "Sollte als gut belegte Erstlinientherapie angeboten werden",
+      "Hat Studiencharakter und sollte außerhalb von Studien unterbleiben",
+      "Heilversuch möglich, wenn wirksamere Therapien nicht verzögert werden",
+      "Kann wegen überzeugender RCT-Daten als Ersatz für PPS angeboten werden"
     ],
-    "correct": 0,
-    "tip": "Entscheidend ist dabei, dass wirksamere Therapieoptionen durch den Heilversuch nicht verzögert werden.",
-    "explanation": "Empfehlung 4.44 bewertet die Wirkung der Akupunktur als nicht abschließend beurteilbar, erlaubt sie aber wegen fehlender Nebenwirkungen als Heilversuch, sofern wirksamere Therapien nicht verzögert werden."
+    "correct": 2,
+    "tip": "Die Studien sind klein und methodisch inkohärent – das Argument für die Methode liegt in ihrem Nebenwirkungsprofil.",
+    "explanation": "Empfehlung 4.44: Die Wirkung der Akupunktur ist nicht abschließend beurteilbar; wegen fehlender Nebenwirkungen kann sie als Heilversuch erwogen werden, solange wirksamere Therapien nicht verzögert werden. Studiencharakter weist die Leitlinie z. B. der Stammzelltherapie zu (Statement 4.57)."
   },
   {
-    "question": "Bei welcher Patientengruppe kann laut Empfehlung 4.45 intravesikales Ozon eingesetzt werden?",
+    "question": "Für welches der folgenden Verfahren spricht die Leitlinie eine Kann-Empfehlung bei therapierefraktären IC/BPS-Patienten aus?",
     "options": [
-      "Bei therapierefraktären Patienten.",
-      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
-      "Ausschließlich bei Kindern.",
-      "Intravesikales Ozon wird in der Leitlinie nicht erwähnt."
+      "Orale Therapie mit Glitazonen",
+      "Intravesikale Stammzellinjektion",
+      "Intravesikale PRP-Monotherapie",
+      "Intravesikale Ozoninstillation"
     ],
-    "correct": 0,
-    "tip": "Die ESWT (extrakorporale Stoßwellentherapie) wird dagegen laut Empfehlung 4.46 wegen widersprüchlicher Datenlage zurückhaltender bewertet.",
-    "explanation": "Empfehlung 4.45 sieht den Einsatz von intravesikalem Ozon bei therapierefraktären Patienten vor."
+    "correct": 3,
+    "tip": "Gesucht ist ein Verfahren mit antientzündlichen und antioxidativen Effekten, das in einer kleinen Serie bei Non-Responderinnen eingesetzt wurde.",
+    "explanation": "Empfehlung 4.45 (kann): Intravesikales Ozon kann bei therapierefraktären Patienten erwogen werden. Glitazone werden nicht empfohlen (4.55), die Stammzelltherapie hat Studiencharakter (4.57), und zu PRP allein kann keine Empfehlung ausgesprochen werden (Statement 4.59)."
   },
   {
-    "question": "Wie wird die PEMF-Therapie (gepulste elektromagnetische Felder) laut den Empfehlungen 4.47/4.48 eingeordnet?",
+    "question": "Wie ordnet die Leitlinie die extrakorporale Stoßwellentherapie (ESWT) bei IC/BPS ein?",
     "options": [
-      "Als nebenwirkungsfreies Verfahren, das angeboten werden kann.",
-      "Als Verfahren mit hohem Nebenwirkungsrisiko, das nicht angeboten werden soll.",
-      "Als etablierte Erstlinientherapie mit Zulassung in Deutschland.",
-      "PEMF wird in der Leitlinie nicht erwähnt."
+      "Kann wie PEMF im Rahmen der Therapie der IC/BPS angeboten werden",
+      "Sollte bei Triggerpunkten der Beckenbodenmuskulatur erfolgen",
+      "Wenige, teils widersprüchliche Humanstudien – keine Empfehlung",
+      "Kann bei therapierefraktären Patienten erwogen werden"
     ],
-    "correct": 0,
-    "tip": "Im Gegensatz zur ESWT wird die PEMF-Therapie als nebenwirkungsfrei beschrieben.",
-    "explanation": "Die PEMF-Therapie wird laut den Empfehlungen 4.47/4.48 als nebenwirkungsfreies Verfahren beschrieben, das angeboten werden kann."
+    "correct": 2,
+    "tip": "Anders als ein orthopädischer Triggerpunkt ist das Zielorgan weder tastbar noch oberflächlich gelegen.",
+    "explanation": "Statement 4.46 und Kapitel 4.4.3: Es gibt nur wenige Humanstudien mit uneinheitlichen Protokollen und teils widersprüchlichen Ergebnissen; eine Empfehlung kann derzeit nicht getroffen werden. Eine Kann-Empfehlung gibt es dagegen für PEMF (Empfehlung 4.48)."
   },
   {
-    "question": "Welche pflanzliche Therapieform kann laut Empfehlung 4.49/4.50 angeboten werden?",
+    "question": "Eine Patientin mit IC/BPS fragt nach einer Therapie mit pulsierenden elektromagnetischen Feldern (PEMF). Welche Situation nennt die Leitlinie als Kontraindikation?",
     "options": [
-      "Phytotherapie mit histaminmodulierenden Pflanzen.",
-      "Eine ausschließlich auf Cannabis basierte Therapie.",
-      "Eine rein homöopathische Einzelmitteltherapie ohne jede weitere Evidenzbasis.",
-      "Phytotherapie wird in der Leitlinie explizit ausgeschlossen."
+      "Hunner-Läsionen in der Zystoskopie",
+      "Vorangegangene Hydrodistension in Narkose",
+      "Nicht blasenzentrierte Schmerzausprägung",
+      "Bestehende Schwangerschaft oder Stillzeit"
     ],
-    "correct": 0,
-    "tip": "Nahrungsergänzungsmittel werden dagegen laut Empfehlung 4.51/4.52 nicht generell empfohlen, mit Ausnahme eines individuellen Therapieversuchs mit L-Arginin.",
-    "explanation": "Empfehlung 4.49/4.50 sieht vor, dass eine Phytotherapie mit histaminmodulierenden Pflanzen angeboten werden kann."
+    "correct": 3,
+    "tip": "Bedenken Sie, für welche Subtypen die Kann-Empfehlung ausdrücklich gilt und welche Patientinnen in der Pilotstudie behandelt wurden.",
+    "explanation": "Kapitel 4.4.4: PEMF ist u. a. bei aktiven oder nicht MRT-gängigen Implantaten, Tumoren, Kortikoidinjektionen sowie in Schwangerschaft und Stillzeit kontraindiziert. Empfehlung 4.48 (kann) gilt ausdrücklich für HIC und NHIC; die Pilotstudie schloss nicht blasenzentrierte IC/BPS, meist nach Hydrodistension, ein."
   },
   {
-    "question": "Welches einzelne Nahrungsergänzungsmittel wird laut Empfehlung 4.51/4.52 als möglicher individueller Therapieversuch genannt, obwohl keine RCTs vorliegen?",
+    "question": "Welche Rationale nennt die Leitlinie für den Einsatz der Phytotherapie bei IC/BPS?",
     "options": [
-      "L-Arginin.",
-      "Vitamin D.",
-      "Omega-3-Fettsäuren.",
-      "Magnesium."
+      "Randomisierte Studien belegen eine Wirkung bei IC/BPS",
+      "Bestimmte Pflanzen können die Histaminreaktion modulieren",
+      "Pflanzenextrakte ersetzen die GAG-Schicht des Urothels",
+      "Pflanzenstoffe hemmen gezielt das NLRP3-Inflammasom"
     ],
-    "correct": 0,
-    "tip": "Ansonsten werden Nahrungsergänzungsmittel bei IC/BPS generell nicht empfohlen.",
-    "explanation": "L-Arginin wird als Ausnahme genannt, für die trotz fehlender RCTs ein individueller Therapieversuch möglich ist, während Nahrungsergänzungsmittel ansonsten nicht empfohlen werden."
+    "correct": 1,
+    "tip": "Denken Sie an Mastzellen und an das Enzym, das für den Abbau eines bestimmten biogenen Amins zuständig ist.",
+    "explanation": "Statement 4.49 und Empfehlung 4.50 (kann): Bestimmte Pflanzen können die Freisetzung von Histamin hemmen bzw. die Diaminoxidase unterstützen; Phytotherapie kann angeboten werden. Formale Studien zur Phytotherapie bei IC/BPS gibt es laut Kapitel 4.4.5 nicht, der GAG-Ersatz ist das Wirkprinzip von PPS."
   },
   {
-    "question": "In welcher klinischen Situation wird laut Empfehlung 4.54 die transkranielle Magnetstimulation erwogen?",
+    "question": "Zu welchem Nahrungsergänzungsmittel liegen laut Leitlinie als einzigem placebokontrollierte randomisierte Studien bei IC/BPS vor?",
     "options": [
-      "In refraktären Fällen.",
-      "Als Erstlinientherapie bei jedem neu diagnostizierten Patienten.",
-      "Ausschließlich bei Kindern unter 12 Jahren.",
-      "Transkranielle Magnetstimulation wird in der Leitlinie nicht erwähnt."
+      "Quercetin",
+      "Calciumglycerophosphat",
+      "Palmitoylethanolamid",
+      "L-Arginin"
     ],
-    "correct": 0,
-    "tip": "Die Neuraltherapie wird dagegen laut Empfehlung 4.53 als allgemeiner Therapieversuch eingeordnet.",
-    "explanation": "Empfehlung 4.54 sieht die transkranielle Magnetstimulation als Option in refraktären Fällen vor."
+    "correct": 3,
+    "tip": "Viele Hinweise stammen aus Patientenbefragungen und kleinen unkontrollierten Studien – gesucht ist die eine Ausnahme mit RCT-Daten.",
+    "explanation": "Statement 4.51: Außer zu L-Arginin gibt es keine placebokontrollierten RCTs zu Nahrungsergänzungsmitteln; nach Empfehlung 4.52 können sie nicht empfohlen werden, ein individueller Therapieversuch ist möglich. Calciumglycerophosphat stammt aus Befragungen, Palmitoylethanolamid aus einer kleinen Studie mit Kombinationspräparat."
   },
   {
-    "question": "Welche Therapieverfahren werden laut den Empfehlungen 4.55–4.57 nicht empfohlen bzw. nur innerhalb von Studien eingesetzt?",
+    "question": "Ein Patient fragt, ob eine Neuraltherapie bei seiner IC/BPS infrage kommt. Was antworten Sie gemäß Leitlinie?",
     "options": [
-      "Glitazone und Stammzelltherapie.",
-      "Pentosanpolysulfat und Amitriptylin.",
-      "Hyaluronsäure und Chondroitinsulfat.",
-      "Beckenbodenphysiotherapie und Mind-Body-Medizin."
+      "Therapieversuch möglich, obwohl RCTs bei IC/BPS fehlen",
+      "Soll bei Versagen der Beckenbodenphysiotherapie erfolgen",
+      "Ist wegen hoher Komplikationsrate nicht zu empfehlen",
+      "Hat Studiencharakter und gehört in klinische Studien"
     ],
     "correct": 0,
-    "tip": "Diese Verfahren gelten als experimentell und sollten außerhalb klinischer Studien nicht routinemäßig eingesetzt werden.",
-    "explanation": "Die Empfehlungen 4.55–4.57 ordnen Glitazone und Stammzelltherapie als nicht empfohlen bzw. nur im Rahmen von Studien einsetzbar ein."
+    "tip": "Die Datenlage bei IC/BPS ist dünn, das Verfahren gilt aber als sehr nebenwirkungsarm und bei anderen Schmerzformen erfolgreich.",
+    "explanation": "Empfehlung 4.53 (kann): Ein Therapieversuch mittels Neuraltherapie kann vorgenommen werden. Laut Kapitel 4.4.7 existieren weder randomisierte noch placebokontrollierte Studien, das Verfahren ist jedoch sehr nebenwirkungsarm."
   },
   {
-    "question": "Welche Kombinationstherapie wird laut Empfehlung 4.58 bei refraktärer IC/BPS als intravesikale Injektion erwägbar beschrieben?",
+    "question": "Eine gut informierte Patientin hat ein Selbstzahlerangebot zur Stammzellinjektion in die Blase gefunden. Wie bewertet die Leitlinie die Stammzelltherapie bei IC/BPS?",
     "options": [
-      "Autologes emulgiertes Fett zusammen mit PRP (plättchenreichem Plasma).",
-      "Eine Kombination aus Cisplatin und Paclitaxel.",
-      "Eine Kombination aus Insulin und Glukagon.",
-      "Eine solche Kombinationstherapie wird in der Leitlinie nicht erwähnt."
+      "Studiencharakter; Anwendung im Rahmen von Studien möglich",
+      "Kann bei therapierefraktärer IC/BPS erwogen werden",
+      "Sollte bei Hunner-Läsionen nach Fulguration erfolgen",
+      "Kann als Heilversuch erfolgen, da sie nebenwirkungsfrei ist"
     ],
     "correct": 0,
-    "tip": "PRP allein wird dagegen laut Empfehlung 4.59 anders bewertet als in Kombination mit autologem Fett.",
-    "explanation": "Empfehlung 4.58 beschreibt autologes emulgiertes Fett zusammen mit PRP als bei refraktärer IC/BPS erwägbare intravesikale Injektionstherapie."
+    "tip": "Zahlreiche positive Tiermodelle ersetzen keine randomisierten, kontrollierten Studien am Menschen.",
+    "explanation": "Statements 4.56 und 4.57: Es gibt fast nur tierexperimentelle Ergebnisse und keine RCTs am Menschen; die Stammzelltherapie hat Studiencharakter und steht nicht für den klinischen Einsatz zur Verfügung. Die Kann-Empfehlung bei Therapierefraktärität gilt z. B. für intravesikales Ozon (4.45)."
   },
   {
-    "question": "Welche grundlegenden Aspekte sollten laut dem Episodeninhalt bei der Beratung von Patienten zu Komplementärverfahren berücksichtigt werden?",
+    "question": "Wie bewertet die Leitlinie autologes emulgiertes Fett und plättchenreiches Plasma (PRP) als intravesikale Injektion bei therapierefraktärer IC/BPS?",
     "options": [
-      "Erwartungsmanagement, Kosten und Evidenzniveau.",
-      "Ausschließlich die Verfügbarkeit in der eigenen Klinik.",
-      "Ausschließlich die Meinung anderer Patienten aus Internetforen.",
-      "Diese Aspekte werden im Episodeninhalt nicht thematisiert."
+      "PRP allein kann erwogen werden, Fett nur in Studien",
+      "Fett mit PRP kann erwogen werden, zu PRP allein keine Empfehlung",
+      "Beide sollten nach Versagen der Instillationstherapie erfolgen",
+      "Beide haben Studiencharakter wie die Stammzelltherapie"
     ],
-    "correct": 0,
-    "tip": "Eine faire, weder abwertende noch unkritische Beratung berücksichtigt alle drei Aspekte gemeinsam.",
-    "explanation": "Bei der Beratung zu Komplementärverfahren sollten laut dem Episodeninhalt Erwartungsmanagement, Kosten und das jeweilige Evidenzniveau berücksichtigt werden."
+    "correct": 1,
+    "tip": "Die Leitlinie unterscheidet zwischen der Kombination beider Präparate und dem Blutprodukt als Einzeltherapie.",
+    "explanation": "Empfehlung 4.58 (kann): Autologes emulgiertes Fett zusammen mit PRP kann als intravesikale Injektion bei therapierefraktärer IC/BPS erwogen werden. Zu PRP allein kann laut Statement 4.59 wegen unzureichender Daten und uneinheitlicher Protokolle keine Empfehlung ausgesprochen werden."
   },
   {
-    "question": "Welcher Fallstrick wird in Episode 9 im Zusammenhang mit Komplementärverfahren diskutiert?",
+    "question": "Welcher Aspekt spricht laut Leitlinie gegen den Einsatz von Glitazonen bei IC/BPS?",
     "options": [
-      "Teure Selbstzahlerverfahren mit reinem Studiencharakter als etablierte Therapie zu verkaufen.",
-      "Komplementärverfahren grundsätzlich für wirkungslos zu erklären.",
-      "Patienten jede Information zu Komplementärverfahren vorzuenthalten.",
-      "Ausschließlich kostenlose Verfahren anzubieten."
+      "Hemmung der Urothelproliferation und der Barrierefunktion",
+      "Histaminfreisetzung aus Mastzellen mit Symptomverstärkung",
+      "Diskrepante Datenlage zum Risiko eines Harnblasenkarzinoms",
+      "Ausgeprägte anticholinerge Nebenwirkungen bei Dauertherapie"
     ],
-    "correct": 0,
-    "tip": "Eine transparente Aufklärung über den tatsächlichen Evidenzgrad ist hier besonders wichtig.",
-    "explanation": "Der diskutierte Fallstrick ist, teure Selbstzahlerverfahren mit lediglich Studiencharakter gegenüber Patienten als etablierte, gesicherte Therapie darzustellen."
+    "correct": 2,
+    "tip": "Die Substanzklasse stammt aus der Diabetologie und fördert im Tiermodell eher die Urothelintegrität.",
+    "explanation": "Empfehlung 4.55: Glitazone können derzeit nicht empfohlen werden; zu bedenken ist die diskrepante Datenlage zur Förderung des Harnblasenkarzinomrisikos, Humandaten bei IC/BPS fehlen. Experimentell fördern sie die Urothelproliferation; Histaminfreisetzung betrifft NSAR und Opioide (4.40)."
   }
 ]
